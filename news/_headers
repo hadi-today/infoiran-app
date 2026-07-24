@@ -1,0 +1,18 @@
+/hosting-manifest.json
+  Cache-Control: public, max-age=60, must-revalidate
+/latest.meta.json
+  Cache-Control: public, max-age=60, must-revalidate
+/latest.pack
+  Cache-Control: public, max-age=60, must-revalidate
+/packs/*
+  Cache-Control: public, max-age=31536000, immutable
+/reader-config.json
+  Cache-Control: public, max-age=60, must-revalidate
+/reader-state/*.json
+  Cache-Control: public, max-age=60, must-revalidate
+/reader-state/latest.json
+  Cache-Control: public, max-age=60, must-revalidate
+/transport-profiles/*/*.json
+  Cache-Control: public, max-age=60, must-revalidate
+/verified-reader-state.json
+  Cache-Control: public, max-age=60, must-revalidate
