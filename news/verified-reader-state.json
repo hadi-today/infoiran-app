@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260803-10 seq=10 exp=1785906083",
+      "advancedStatus": "pack_id=20260803-11 seq=11 exp=1785906336",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:01",
+      "lastChecked": "05:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-03",
-    "expiresAt": "2026-08-05 05:01",
+    "expiresAt": "2026-08-05 05:05",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -872,13 +872,19 @@
         "text": "هم‌زمان با تجمع‌های اعتراضی در شهرهای مختلف اروپا و آمریکای شمالی، گروهی از ایرانیان در لس‌آنجلس در اعتراض به افزایش اعدام‌های فراقضایی در ایران تجمع کردند. شرکت‌کنندگان سرکوب و کشتارهای جمهوری اسلامی را محکوم کرده و خواستار توجه دولت آمریکا به مطالبات ایرانیان شدند.",
         "time": "05:01",
         "ts": 1785733281
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "رسانه میزان وابسته به قوه قضاییه جمهوری اسلامی از اعدام دو شهروند به نام‌های امید بهزاد و پوریا صفوت در تاریخ ۱۲ مرداد خبر داد. اتهام این افراد ارسال مختصات مکان‌های حساس نظامی و امنیتی برای افسران موساد اعلام شده است.",
+        "time": "05:02",
+        "ts": 1785733325
       }
     ],
-    "packId": "20260803-10",
-    "sequence": 10,
+    "packId": "20260803-11",
+    "sequence": 11,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "05:01"
+    "updatedAt": "05:05"
   },
   "verified": true
 }
