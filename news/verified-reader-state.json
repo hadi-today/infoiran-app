@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260804-62 seq=62 exp=1786047648",
+      "advancedStatus": "pack_id=20260804-63 seq=63 exp=1786048255",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:20",
+      "lastChecked": "20:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-04",
-    "expiresAt": "2026-08-06 20:20",
+    "expiresAt": "2026-08-06 20:30",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -566,13 +566,19 @@
         "text": "دستکم ۱۳ تجمع اعتراضی برگزار شد. کارکنان شرکت نفت و گاز پارس در ۱۲ بخش و سکوی دریایی تجمع کردند. همچنین بازنشستگان مخابرات در اصفهان تجمع اعتراضی داشتند.",
         "time": "20:18",
         "ts": 1785874698
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "ایرانیان مقیم بریتانیا روز سه‌شنبه ۱۳ مرداد مقابل دفتر نخست‌وزیری بریتانیا تجمع کردند. آنها به اعدام‌ها و احکام صادرشده توسط جمهوری اسلامی اعتراض داشتند. خواستار توقف اجرای احکام اعدام شدند.",
+        "time": "20:30",
+        "ts": 1785875454
       }
     ],
-    "packId": "20260804-62",
-    "sequence": 62,
+    "packId": "20260804-63",
+    "sequence": 63,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "20:20"
+    "updatedAt": "20:30"
   },
   "verified": true
 }
