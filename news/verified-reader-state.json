@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260810-26 seq=26 exp=1786539863",
+      "advancedStatus": "pack_id=20260810-27 seq=27 exp=1786539987",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:04",
+      "lastChecked": "13:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-10",
-    "expiresAt": "2026-08-12 13:04",
+    "expiresAt": "2026-08-12 13:06",
     "items": [
       {
         "channel": "وحید آنلاین",
@@ -362,13 +362,19 @@
         "text": "گزارش مارین‌ترافیک نشان می‌دهد تردد کشتی‌ها از تنگه هرمز از ۱۵ فروند در ۱۶ مرداد به ۶ فروند در ۱۸ مرداد کاهش یافته است. در این مدت، ۳۲ کشتی از تنگه هرمز عبور کردند و تردد در مسیرهای محدودی متمرکز بود. همچنین شنبه ۱۷ مرداد، عبور کشتی‌های پرریسک و تحریم‌شده افزایش یافت.",
         "time": "13:03",
         "ts": 1786366996
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "یک شهروند در ویدیویی اعلام کرده که برق و آب در شهر قطع شده و مردم فقیر شده‌اند. او از جمهوری اسلامی پرسیده است که دیگر چه می‌خواهد. این گزارش به وضعیت سخت مردم اشاره دارد.",
+        "time": "13:05",
+        "ts": 1786367118
       }
     ],
-    "packId": "20260810-26",
-    "sequence": 26,
+    "packId": "20260810-27",
+    "sequence": 27,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "13:04"
+    "updatedAt": "13:06"
   },
   "verified": true
 }
