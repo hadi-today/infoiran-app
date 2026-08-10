@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260810-71 seq=71 exp=1786573412",
+      "advancedStatus": "pack_id=20260810-72 seq=72 exp=1786573527",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:23",
+      "lastChecked": "22:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-10",
-    "expiresAt": "2026-08-12 22:23",
+    "expiresAt": "2026-08-12 22:25",
     "items": [
       {
         "channel": "وحید آنلاین",
@@ -756,14 +756,21 @@
         "text": "Donald Trump stated that the Islamic Republic has demanded compensation in negotiations. He said the United States can also claim compensation for damages caused by the Islamic Republic. Trump referred to incidents such as the USS Cole and the protesters killed in recent months.",
         "time": "22:23",
         "ts": 1786400588
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Verbal tensions between Iranian and US officials have increased amid more complex negotiations. Donald Trump responded to Iran's compensation request by stating that Iran should pay for damages over the past 50 years and the killing of protesters. This report was published by Niloufar Mansouri from Iran International.",
+        "time": "22:25",
+        "ts": 1786400701
       }
     ],
     "language": "en",
-    "packId": "20260810-71",
-    "sequence": 71,
+    "packId": "20260810-72",
+    "sequence": 72,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:23"
+    "updatedAt": "22:25"
   },
   "verified": true
 }
