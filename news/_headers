@@ -10,9 +10,17 @@
   Cache-Control: public, max-age=60, must-revalidate
 /reader-state/*.json
   Cache-Control: public, max-age=60, must-revalidate
+/reader-state/current-en.json
+  Cache-Control: public, max-age=60, must-revalidate
+/reader-state/current.json
+  Cache-Control: public, max-age=60, must-revalidate
+/reader-state/latest-en.json
+  Cache-Control: public, max-age=60, must-revalidate
 /reader-state/latest.json
   Cache-Control: public, max-age=60, must-revalidate
 /transport-profiles/*/*.json
+  Cache-Control: public, max-age=60, must-revalidate
+/verified-reader-state-en.json
   Cache-Control: public, max-age=60, must-revalidate
 /verified-reader-state.json
   Cache-Control: public, max-age=60, must-revalidate
