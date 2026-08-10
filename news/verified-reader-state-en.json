@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260810-29 seq=29 exp=1786540282",
+      "advancedStatus": "pack_id=20260810-30 seq=30 exp=1786540507",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:11",
+      "lastChecked": "13:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-10",
-    "expiresAt": "2026-08-12 13:11",
+    "expiresAt": "2026-08-12 13:15",
     "items": [
       {
         "channel": "وحید آنلاین",
@@ -434,14 +434,21 @@
         "text": "A Ta'zieh performance was held at the Center for Political and International Studies of the Ministry of Foreign Affairs. Abbas Araghchi and a group of ambassadors and foreign diplomats residing in Tehran attended the event. An interview was conducted with Mansoureh Hosseini-Yeganeh from Iran International.",
         "time": "13:09",
         "ts": 1786367362
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Security forces shot at Farid Ramazani in the Aryashahr neighborhood of Tehran on the evening of January 8. The bullet hit his right hand finger, and the 29-year-old fell to the ground. A tattoo of the imperial crown was visible on his finger.",
+        "time": "13:14",
+        "ts": 1786367676
       }
     ],
     "language": "en",
-    "packId": "20260810-29",
-    "sequence": 29,
+    "packId": "20260810-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:11"
+    "updatedAt": "13:15"
   },
   "verified": true
 }
