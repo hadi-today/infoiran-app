@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260810-14 seq=14 exp=1786534345",
+      "advancedStatus": "pack_id=20260810-15 seq=15 exp=1786535090",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:32",
+      "lastChecked": "11:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-10",
-    "expiresAt": "2026-08-12 11:32",
+    "expiresAt": "2026-08-12 11:44",
     "items": [
       {
         "channel": "وحید آنلاین",
@@ -357,14 +357,21 @@
         "text": "A member of Yazd City Council reported a shortage of educational space in District 4 of the city. The increasing child population and lack of suitable schools have caused problems for families. He emphasized the need to complete the unfinished school and develop related infrastructure.",
         "time": "11:30",
         "ts": 1786361407
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "language": "en",
+        "text": "Craig and Lindsey Foreman, a British couple imprisoned in Evin, ended their hunger strike protesting detention conditions and the cut-off of phone contact with their families. The protest aimed to improve detention conditions and communication with family. They stopped the hunger strike after some time.",
+        "time": "11:44",
+        "ts": 1786362286
       }
     ],
     "language": "en",
-    "packId": "20260810-14",
-    "sequence": 14,
+    "packId": "20260810-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:32"
+    "updatedAt": "11:44"
   },
   "verified": true
 }
