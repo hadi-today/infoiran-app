@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260810-21 seq=21 exp=1786538488",
+      "advancedStatus": "pack_id=20260810-22 seq=22 exp=1786538638",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:41",
+      "lastChecked": "12:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-10",
-    "expiresAt": "2026-08-12 12:41",
+    "expiresAt": "2026-08-12 12:43",
     "items": [
       {
         "channel": "وحید آنلاین",
@@ -399,14 +399,21 @@
         "text": "Israeli forces have intensified the siege of Ali Al-Taher hill in southern Lebanon. About 40 Hezbollah forces, including some members of the IRGC, are trapped in this area. More details are provided in an interview with Mi Farhat.",
         "time": "12:08",
         "ts": 1786363719
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Tractor club announced that ticket sales for their match against Paykan in the first week of the Premier League will start today. The match is scheduled for Friday, August 14, at Sahand Stadium in Tabriz. This move may indicate the return of spectators to stadiums in the new season.",
+        "time": "12:43",
+        "ts": 1786365835
       }
     ],
     "language": "en",
-    "packId": "20260810-21",
-    "sequence": 21,
+    "packId": "20260810-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:41"
+    "updatedAt": "12:43"
   },
   "verified": true
 }
