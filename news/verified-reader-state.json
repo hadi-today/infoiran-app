@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260810-50 seq=50 exp=1786551622",
+      "advancedStatus": "pack_id=20260810-51 seq=51 exp=1786551896",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:20",
+      "lastChecked": "16:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-10",
-    "expiresAt": "2026-08-12 16:20",
+    "expiresAt": "2026-08-12 16:24",
     "items": [
       {
         "channel": "وحید آنلاین",
@@ -506,13 +506,19 @@
         "text": "یک مرد در شهرستان ساری توسط همسرش با خوراندن قرص متادون به قتل رسید. متهم به قتل توسط پلیس بازداشت شده است.",
         "time": "16:19",
         "ts": 1786378786
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "مجتبی خامنه‌ای ریاست سازمان بسیج را به حسین طائب سپرد. طائب پیش‌تر ریاست سازمان اطلاعات سپاه و مشاور عالی فرمانده کل سپاه بود. او در فهرست تحریم‌های آمریکا و اتحادیه اروپا به دلیل نقض حقوق بشر قرار دارد.",
+        "time": "16:20",
+        "ts": 1786378849
       }
     ],
-    "packId": "20260810-50",
-    "sequence": 50,
+    "packId": "20260810-51",
+    "sequence": 51,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "16:20"
+    "updatedAt": "16:24"
   },
   "verified": true
 }
