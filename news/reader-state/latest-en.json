@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260810-52 seq=52 exp=1786553515",
+      "advancedStatus": "pack_id=20260810-53 seq=53 exp=1786553939",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:51",
+      "lastChecked": "16:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-10",
-    "expiresAt": "2026-08-12 16:51",
+    "expiresAt": "2026-08-12 16:58",
     "items": [
       {
         "channel": "وحید آنلاین",
@@ -602,14 +602,21 @@
         "text": "Donald Trump stated that representatives of the Islamic Republic of Iran have demanded compensation for damages from the recent five-month military conflict. In response, he demanded compensation from Iran for deaths and injuries caused by Iranian actions. Trump has ordered that this issue be firmly raised in future negotiations.",
         "time": "16:51",
         "ts": 1786380682
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "language": "en",
+        "text": "Javad Nodehi, a political detainee related to the December 1404 protests, has been in legal limbo in Sabzevar prison for over seven months. Despite bail being posted, he has been denied temporary release. He also has no access to his chosen lawyer.",
+        "time": "16:58",
+        "ts": 1786381107
       }
     ],
     "language": "en",
-    "packId": "20260810-52",
-    "sequence": 52,
+    "packId": "20260810-53",
+    "sequence": 53,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:51"
+    "updatedAt": "16:58"
   },
   "verified": true
 }
