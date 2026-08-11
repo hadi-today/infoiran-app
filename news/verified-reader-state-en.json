@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260811-95 seq=95 exp=1786644062",
+      "advancedStatus": "pack_id=20260811-96 seq=96 exp=1786644414",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:01",
+      "lastChecked": "18:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-11",
-    "expiresAt": "2026-08-13 18:01",
+    "expiresAt": "2026-08-13 18:06",
     "items": [
-      {
-        "channel": "خبرگزاری هرانا",
-        "language": "en",
-        "text": "About 250 workers at Madkoush Steel Company in Bandar Abbas were dismissed by the employer. The company is located in the special economic zone of mineral and metal industries of the Persian Gulf. The layoffs have recently taken place.",
-        "time": "18:03",
-        "ts": 1786385012
-      },
       {
         "channel": "ایران اینترنشنال",
         "language": "en",
@@ -931,14 +924,21 @@
         "text": "Alireza Baloneh, a 22-year-old protester, was arrested during the December protests in Saadat Abad, Tehran. He has been tried on charges of acting against national security in the Tehran Revolutionary Court and has undergone five interrogation and court sessions. His family was unaware of his status and location for several weeks after his arrest.",
         "time": "18:00",
         "ts": 1786471239
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Mehdi Taj mentioned the possibility of awarding the last season's league championship trophy at an awards ceremony. Tractor and Sepahan clubs protested this and proposed a three-way tournament with Esteghlal. They believe the halted league table cannot be used to determine the champion.",
+        "time": "18:06",
+        "ts": 1786471593
       }
     ],
     "language": "en",
-    "packId": "20260811-95",
-    "sequence": 95,
+    "packId": "20260811-96",
+    "sequence": 96,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:01"
+    "updatedAt": "18:06"
   },
   "verified": true
 }
