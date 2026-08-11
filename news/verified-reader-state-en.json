@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260811-98 seq=98 exp=1786646067",
+      "advancedStatus": "pack_id=20260811-99 seq=99 exp=1786646285",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:34",
+      "lastChecked": "18:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-11",
-    "expiresAt": "2026-08-13 18:34",
+    "expiresAt": "2026-08-13 18:38",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -917,14 +917,28 @@
         "text": "A video sent to Iran International shows a protester writing a slogan on a trash can. The slogan reads: \"Where did we win the war? We have no water, no electricity, no money for food.\"",
         "time": "18:34",
         "ts": 1786473243
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Al Masirah network reported that the Houthi group in Yemen targeted a Saudi military equipment ship in Bab al-Mandab. This group is a proxy of the Islamic Republic of Iran. The attack took place in the Bab al-Mandab area.",
+        "time": "18:34",
+        "ts": 1786473290
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "language": "en",
+        "text": "Workers in several units, including municipalities and health network staff, have protested wage arrears. Workers at Bahman production group in Filor company expressed dissatisfaction with job insecurity and layoffs. They demand attention to their problems.",
+        "time": "18:36",
+        "ts": 1786473384
       }
     ],
     "language": "en",
-    "packId": "20260811-98",
-    "sequence": 98,
+    "packId": "20260811-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:34"
+    "updatedAt": "18:38"
   },
   "verified": true
 }
