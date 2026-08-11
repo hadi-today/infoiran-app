@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260811-20 seq=20 exp=1786604772",
+      "advancedStatus": "pack_id=20260811-21 seq=21 exp=1786610659",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:06",
+      "lastChecked": "08:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-11",
-    "expiresAt": "2026-08-13 07:06",
+    "expiresAt": "2026-08-13 08:44",
     "items": [
       {
         "channel": "وحید آنلاین",
@@ -952,14 +952,28 @@
         "text": "A group of retired telecommunications workers gathered in Isfahan on Monday, 19 Mordad. They chanted slogans against the IRGC. These videos were received by Iran International.",
         "time": "07:05",
         "ts": 1786431952
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Houthi forces attacked a commercial cargo ship in the Bab al-Mandab Strait early Tuesday, August 11, resulting in the death of three crew members. The attack was carried out with a ballistic missile, and the victims included two Pakistani and one Indonesian nationals. Additionally, the Houthis launched dozens of drones and missiles towards the port and city of Al-Mokha.",
+        "time": "08:43",
+        "ts": 1786437831
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Hossein Hosseinzadeh, chairman of the Persian Gulf Holding, announced talks with several economic entities and wealthy supporters for the sale of Esteghlal Club. This process requires approval from relevant authorities and could lead to economic and managerial stability for the club if successful. Previously, governmental bodies showed no real intention for genuine privatization of Esteghlal.",
+        "time": "08:44",
+        "ts": 1786437855
       }
     ],
     "language": "en",
-    "packId": "20260811-20",
-    "sequence": 20,
+    "packId": "20260811-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:06"
+    "updatedAt": "08:44"
   },
   "verified": true
 }
