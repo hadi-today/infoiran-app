@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260811-01 seq=1 exp=1786580348",
+      "advancedStatus": "pack_id=20260811-02 seq=2 exp=1786581722",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:19",
+      "lastChecked": "00:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-11",
-    "expiresAt": "2026-08-13 00:19",
+    "expiresAt": "2026-08-13 00:42",
     "items": [
       {
         "channel": "وحید آنلاین",
@@ -819,14 +819,21 @@
         "text": "The International Atomic Energy Agency will soon remove nuclear materials stored at a secret site in Syria with the approval of the Damascus government. This action follows months of negotiations between the US, Israel, Syria, and the agency. The transfer is expected to be completed before the end of the year.",
         "time": "00:18",
         "ts": 1786407524
+      },
+      {
+        "channel": "وحید آنلاین",
+        "language": "en",
+        "text": "Donald Trump published a chart showing the decline in the value of the Iranian rial during his second term as president. The value of one million rials dropped from one dollar and eleven cents to fifty-three cents. Trump described this decrease as the rial's value going \"into the trash.\"",
+        "time": "00:41",
+        "ts": 1786408902
       }
     ],
     "language": "en",
-    "packId": "20260811-01",
-    "sequence": 1,
+    "packId": "20260811-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:19"
+    "updatedAt": "00:42"
   },
   "verified": true
 }
