@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260811-88 seq=88 exp=1786641510",
+      "advancedStatus": "pack_id=20260811-89 seq=89 exp=1786641917",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:18",
+      "lastChecked": "17:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-11",
-    "expiresAt": "2026-08-13 17:18",
+    "expiresAt": "2026-08-13 17:25",
     "items": [
-      {
-        "channel": "ایران اینترنشنال",
-        "language": "en",
-        "text": "The family of Lindsey and Greg Foreman announced that the two British citizens ended their hunger strike after about three months in Evin prison. The couple was arrested in January 2025 in Iran and sentenced to 10 years in prison. Their child said the parents decided to end the strike to regain their physical strength.",
-        "time": "17:24",
-        "ts": 1786382657
-      },
       {
         "channel": "ایران اینترنشنال",
         "language": "en",
@@ -903,14 +896,21 @@
         "text": "The Israeli army has intensified the siege of dozens of Hezbollah forces trapped in an underground complex in the Ali Taher heights in southern Lebanon. Israeli forces have cut off water supply lines to the complex. Hezbollah is trying to send equipment and supplies to the besieged forces using drones.",
         "time": "17:18",
         "ts": 1786468685
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "A hostage situation on Valiasr Street in Tehran ended after two hours of negotiation with specialized forces. The hostage was released unharmed, and the hostage-taker was subdued after attempting to use a weapon. The identity and motive of the hostage-taker have not been disclosed.",
+        "time": "17:24",
+        "ts": 1786469095
       }
     ],
     "language": "en",
-    "packId": "20260811-88",
-    "sequence": 88,
+    "packId": "20260811-89",
+    "sequence": 89,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:18"
+    "updatedAt": "17:25"
   },
   "verified": true
 }
