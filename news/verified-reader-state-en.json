@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260811-07 seq=7 exp=1786585527",
+      "advancedStatus": "pack_id=20260811-08 seq=8 exp=1786588482",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:45",
+      "lastChecked": "02:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-11",
-    "expiresAt": "2026-08-13 01:45",
+    "expiresAt": "2026-08-13 02:34",
     "items": [
       {
         "channel": "وحید آنلاین",
@@ -861,14 +861,21 @@
         "text": "Hamid Hosseini, spokesperson for the Iranian Petroleum, Gas, and Petrochemical Exporters Union, stated that Masoud Pezeshkian's government is pursuing an energy card plan for each family. This card includes quotas for gasoline, gas, and electricity. Families can sell their surplus quota on the energy exchange.",
         "time": "01:45",
         "ts": 1786412707
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "The head of the Iran-China Chamber of Commerce warned about the severe consequences of the maritime blockade of Iran's southern ports by the US. He stated that this situation could impose significant additional costs on Iran's economy and worsen economic problems. He also emphasized that the blockade should end through negotiation or other means.",
+        "time": "02:34",
+        "ts": 1786415663
       }
     ],
     "language": "en",
-    "packId": "20260811-07",
-    "sequence": 7,
+    "packId": "20260811-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:45"
+    "updatedAt": "02:34"
   },
   "verified": true
 }
