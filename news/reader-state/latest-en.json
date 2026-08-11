@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260811-111 seq=111 exp=1786659634",
+      "advancedStatus": "pack_id=20260811-112 seq=112 exp=1786659903",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:20",
+      "lastChecked": "22:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-11",
-    "expiresAt": "2026-08-13 22:20",
+    "expiresAt": "2026-08-13 22:25",
     "items": [
-      {
-        "channel": "ایران اینترنشنال",
-        "language": "en",
-        "text": "Donald Trump stated that the Islamic Republic has demanded compensation in negotiations. He said the United States can also claim compensation for damages caused by the Islamic Republic. Trump referred to incidents such as the USS Cole and the protesters killed in recent months.",
-        "time": "22:23",
-        "ts": 1786400588
-      },
       {
         "channel": "ایران اینترنشنال",
         "language": "en",
@@ -945,14 +938,21 @@
         "text": "In the program with Kambiz Hosseini, eight calls from eight cities agreed that if compensation is paid, it will not reach the people. Two women from two cities simultaneously said the phrase \"We only have one life,\" which represents the voice of the community. The question remains what people can do without risking their lives.",
         "time": "22:18",
         "ts": 1786486696
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Chris Wright, the US Secretary of Energy, announced that with the cooperation of the US military and its allies in the Persian Gulf, the seven-day average oil exports through the Strait of Hormuz have reached nearly 9 million barrels per day. This announcement was made on X network. More details were provided by Amir Giti.",
+        "time": "22:23",
+        "ts": 1786486991
       }
     ],
     "language": "en",
-    "packId": "20260811-111",
-    "sequence": 111,
+    "packId": "20260811-112",
+    "sequence": 112,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:20"
+    "updatedAt": "22:25"
   },
   "verified": true
 }
