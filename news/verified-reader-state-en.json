@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260811-06 seq=6 exp=1786584753",
+      "advancedStatus": "pack_id=20260811-07 seq=7 exp=1786585527",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:32",
+      "lastChecked": "01:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-11",
-    "expiresAt": "2026-08-13 01:32",
+    "expiresAt": "2026-08-13 01:45",
     "items": [
       {
         "channel": "وحید آنلاین",
@@ -854,14 +854,21 @@
         "text": "Republican Senator Tom Cotton told Fox News that the people of Iran are the first and worst victims of the revolutionary extremists who rule Iran today and deserve a much better future. He added that America should always stand with the forces and friends of freedom. Cotton said that help is on the way and the people of Iran must regain their freedom and destiny.",
         "time": "01:32",
         "ts": 1786411930
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Hamid Hosseini, spokesperson for the Iranian Petroleum, Gas, and Petrochemical Exporters Union, stated that Masoud Pezeshkian's government is pursuing an energy card plan for each family. This card includes quotas for gasoline, gas, and electricity. Families can sell their surplus quota on the energy exchange.",
+        "time": "01:45",
+        "ts": 1786412707
       }
     ],
     "language": "en",
-    "packId": "20260811-06",
-    "sequence": 6,
+    "packId": "20260811-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:32"
+    "updatedAt": "01:45"
   },
   "verified": true
 }
