@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260811-77 seq=77 exp=1786637219",
+      "advancedStatus": "pack_id=20260811-78 seq=78 exp=1786637449",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:06",
+      "lastChecked": "16:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-11",
-    "expiresAt": "2026-08-13 16:06",
+    "expiresAt": "2026-08-13 16:10",
     "items": [
-      {
-        "channel": "خبرگزاری هرانا",
-        "language": "en",
-        "text": "Soheila Hosseini, a detained citizen of Mashhad, was released from Vakilabad prison after posting a 4 billion toman bail. This release took place on Monday, 19th of Mordad. Harana News Agency reported this news.",
-        "time": "16:09",
-        "ts": 1786378154
-      },
       {
         "channel": "خبرگزاری هرانا",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "Mohsen Rezaei stated that the Strait of Hormuz will not be opened until the US accepts Iran's conditions. He added that any agreement between Tehran and Muscat on passage through the strait is separate from its closure. Rezaei also mentioned the strategic agreement between Iran and China.",
         "time": "16:06",
         "ts": 1786464399
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Donald Trump highlighted the fall of Iran's currency value twice within eight days on his social network. The dollar rate in the free market has more than doubled. The value of the toman against the dollar has sharply decreased.",
+        "time": "16:09",
+        "ts": 1786464585
       }
     ],
     "language": "en",
-    "packId": "20260811-77",
-    "sequence": 77,
+    "packId": "20260811-78",
+    "sequence": 78,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:06"
+    "updatedAt": "16:10"
   },
   "verified": true
 }
