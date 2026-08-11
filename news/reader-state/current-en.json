@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260811-05 seq=5 exp=1786583576",
+      "advancedStatus": "pack_id=20260811-06 seq=6 exp=1786584753",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:12",
+      "lastChecked": "01:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-11",
-    "expiresAt": "2026-08-13 01:12",
+    "expiresAt": "2026-08-13 01:32",
     "items": [
       {
         "channel": "وحید آنلاین",
@@ -847,14 +847,21 @@
         "text": "The Washington Post reported that a threat from Iran to assassinate Trump led to a secret operation in which Trump left Turkey on a replacement military plane. The White House claimed he was on Air Force One, but he was secretly transferred to a smaller plane. This operation was carried out without the knowledge of reporters and some White House staff.",
         "time": "01:12",
         "ts": 1786410760
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Republican Senator Tom Cotton told Fox News that the people of Iran are the first and worst victims of the revolutionary extremists who rule Iran today and deserve a much better future. He added that America should always stand with the forces and friends of freedom. Cotton said that help is on the way and the people of Iran must regain their freedom and destiny.",
+        "time": "01:32",
+        "ts": 1786411930
       }
     ],
     "language": "en",
-    "packId": "20260811-05",
-    "sequence": 5,
+    "packId": "20260811-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:12"
+    "updatedAt": "01:32"
   },
   "verified": true
 }
