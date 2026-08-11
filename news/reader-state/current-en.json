@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260811-02 seq=2 exp=1786581722",
+      "advancedStatus": "pack_id=20260811-03 seq=3 exp=1786581999",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:42",
+      "lastChecked": "00:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-11",
-    "expiresAt": "2026-08-13 00:42",
+    "expiresAt": "2026-08-13 00:46",
     "items": [
       {
         "channel": "وحید آنلاین",
@@ -826,14 +826,21 @@
         "text": "Donald Trump published a chart showing the decline in the value of the Iranian rial during his second term as president. The value of one million rials dropped from one dollar and eleven cents to fifty-three cents. Trump described this decrease as the rial's value going \"into the trash.\"",
         "time": "00:41",
         "ts": 1786408902
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "The Washington Post reported that a threat from the Islamic Republic to kill Donald Trump led to a special operation in which Trump secretly flew from Turkey on a military plane. The White House announced Trump was on Air Force One, but he was secretly transferred to a smaller plane using a food truck. This method of using Air Force One as a decoy plane has been used before in serious threat situations.",
+        "time": "00:46",
+        "ts": 1786409177
       }
     ],
     "language": "en",
-    "packId": "20260811-02",
-    "sequence": 2,
+    "packId": "20260811-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:42"
+    "updatedAt": "00:46"
   },
   "verified": true
 }
