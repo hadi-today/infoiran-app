@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-03 seq=3 exp=1786672808",
+      "advancedStatus": "pack_id=20260812-04 seq=4 exp=1786673988",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:00",
+      "lastChecked": "02:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 02:00",
+    "expiresAt": "2026-08-14 02:19",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -896,14 +896,21 @@
         "text": "Donald Trump announced that the United States has full control of the Strait of Hormuz and that Iran is no longer the dominant power in the Middle East. He also said he does not trust Iran and warned that if Iran takes action, it will be destroyed.",
         "time": "01:59",
         "ts": 1786499981
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "North Korea fired at least one ballistic missile toward the East Sea early Wednesday. This action was taken ahead of the joint South Korea-US military exercise and is seen as Pyongyang's protest. South Korea, the US, and Japan have increased their security coordination.",
+        "time": "02:19",
+        "ts": 1786501164
       }
     ],
     "language": "en",
-    "packId": "20260812-03",
-    "sequence": 3,
+    "packId": "20260812-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:00"
+    "updatedAt": "02:19"
   },
   "verified": true
 }
