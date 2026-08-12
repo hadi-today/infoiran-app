@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-75 seq=75 exp=1786719364",
+      "advancedStatus": "pack_id=20260812-76 seq=76 exp=1786720576",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:56",
+      "lastChecked": "15:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 14:56",
+    "expiresAt": "2026-08-14 15:16",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "New information has been released about the deaths of several martyrs of the National Iranian Revolution during the December protests. Farhad Mahdoudi, Vahid Norouzi, Masoud Rangrazani, Amir Reza Mirzaei, and Shahrouz Mehrabi were killed by direct gunfire from Islamic Republic agents. Additionally, three teenagers aged 16 and 17 were also killed during these protests.",
-        "time": "14:55",
-        "ts": 1786460147
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Ahead of the new season of Iranian football, 20 foreign players have left Premier League teams, but no new foreign players have been signed yet. Esteghlal, Sepahan, and Gol Gohar have had the most foreign player departures. Esteghlal has not signed any foreign replacements due to a closed transfer window.",
-        "time": "14:58",
-        "ts": 1786460297
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -924,14 +910,21 @@
         "text": "The US Secret Service carried out a deceptive operation last month to evacuate Donald Trump from Turkey. This operation was conducted after receiving a warning about a threat from the Islamic Republic against Trump. Details of the operation remained secret for weeks.",
         "time": "14:55",
         "ts": 1786546543
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Cristiano Ronaldo reacted to the death of Jorge Messi, Lionel Messi's father, by wishing him strength and endurance on Instagram. Lionel Messi posted a picture of his father, expressing the difficulty of the loss and doubt about continuing football.",
+        "time": "15:15",
+        "ts": 1786547754
       }
     ],
     "language": "en",
-    "packId": "20260812-75",
-    "sequence": 75,
+    "packId": "20260812-76",
+    "sequence": 76,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:56"
+    "updatedAt": "15:16"
   },
   "verified": true
 }
