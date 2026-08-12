@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-37 seq=37 exp=1786699407",
+      "advancedStatus": "pack_id=20260812-38 seq=38 exp=1786700018",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:23",
+      "lastChecked": "09:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 09:23",
+    "expiresAt": "2026-08-14 09:33",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Lionel Messi has indefinitely suspended his football activities following the death of his father, Jorge Messi. Jorge passed away at the age of 68 and played a significant role in Lionel's life and career. Messi has not set a date to return to Inter Miami yet.",
-        "time": "09:23",
-        "ts": 1786440210
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Ruhollah Rahimpor, a journalist and political analyst, said the Trump administration is simultaneously pursuing three strategies: maintaining the military option, intensifying economic and political pressure, and increasing pressure on the internal structure of the Islamic Republic. He added that as long as the naval blockade, sanctions, and US military presence in the region continue, there is no sign of any of these strategies being abandoned.",
-        "time": "09:25",
-        "ts": 1786440321
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -931,14 +917,28 @@
         "text": "A citizen reported that at 11 PM in the Sabzeh Meydan underpass in Isfahan, Basij forces in plain clothes stopped a young woman and subjected her to mockery and harassment.",
         "time": "09:23",
         "ts": 1786526583
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "language": "en",
+        "text": "Reza Rahmani, the governor of West Azerbaijan, reported a widespread shortage of educational space in the province. He stated that to reach the national average, the province needs to build 972 schools and 9,000 classrooms.",
+        "time": "09:33",
+        "ts": 1786527192
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "A banner was installed on a pedestrian bridge in Tehran asking Pezeshkian if Mojtaba Khamenei is not involved and only Ahmad Vahidi gives him orders. The video was published by Iran International. The banner's message refers to a political question.",
+        "time": "09:33",
+        "ts": 1786527203
       }
     ],
     "language": "en",
-    "packId": "20260812-37",
-    "sequence": 37,
+    "packId": "20260812-38",
+    "sequence": 38,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:23"
+    "updatedAt": "09:33"
   },
   "verified": true
 }
