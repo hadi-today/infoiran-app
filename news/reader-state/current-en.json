@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-105 seq=105 exp=1786746045",
+      "advancedStatus": "pack_id=20260812-106 seq=106 exp=1786746637",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:20",
+      "lastChecked": "22:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 22:20",
+    "expiresAt": "2026-08-14 22:30",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Chris Wright, the US Secretary of Energy, announced that with the cooperation of the US military and its allies in the Persian Gulf, the seven-day average oil exports through the Strait of Hormuz have reached nearly 9 million barrels per day. This announcement was made on X network. More details were provided by Amir Giti.",
-        "time": "22:23",
-        "ts": 1786486991
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Norman Roule referred to the Houthi attack on a cargo ship in Bab al-Mandab and said that violence against international waterways is a tool used by the Islamic Republic. He criticized the lack of media attention and international pressure to hold the perpetrators accountable. Roule also pointed to the consequences of the policy of engagement with Tehran and its proxy forces.",
-        "time": "22:26",
-        "ts": 1786487201
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -847,14 +833,21 @@
         "text": "Alireza Zakani stated that he went to the site of the attack on the Leader's residence by motorcycle. He spoke about the missile impact, Mojtaba Khamenei's location, his injury, and his concern while getting stitches. Mojtaba Khamenei was worried about missing his prayer.",
         "time": "22:20",
         "ts": 1786573217
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "General Steven Whiting stated that space has become a main domain of conflict. He warned that enemies of the US, including the Islamic Republic and China, target space infrastructure. Cooperation with allies and the private sector is important to counter these threats.",
+        "time": "22:30",
+        "ts": 1786573814
       }
     ],
     "language": "en",
-    "packId": "20260812-105",
-    "sequence": 105,
+    "packId": "20260812-106",
+    "sequence": 106,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:20"
+    "updatedAt": "22:30"
   },
   "verified": true
 }
