@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-34 seq=34 exp=1786697930",
+      "advancedStatus": "pack_id=20260812-35 seq=35 exp=1786698822",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:58",
+      "lastChecked": "09:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 08:58",
+    "expiresAt": "2026-08-14 09:13",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Three Sunni brothers named Jihad, Baqer, and Foad Shavardi were arrested on Sunday, 18 Mordad, by the Intelligence Corps agents in Shadegan. The arrest took place at their private homes in the city of Fallahiyeh, Shadegan. They were transferred to an unknown location after the arrest.",
-        "time": "09:03",
-        "ts": 1786439037
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The deputy prosecutor of Ardabil announced the closure of three cafes and the arrest of 16 people for violating Islamic values and norms. The violations included gambling, breaking social norms, and promoting corruption. Additionally, the cafe restaurant \"Bol\" in Tehran was also closed.",
-        "time": "09:06",
-        "ts": 1786439170
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -931,14 +917,21 @@
         "text": "Alireza Zakani provided a new account of the attack on March 28 at Mojtaba Khamenei's residence. He said Zahra Haddad Adel was killed in the attack, while Mojtaba Khamenei sustained only minor injuries. This account differs from previous reports about the location of Zahra Haddad Adel's death.",
         "time": "08:58",
         "ts": 1786525102
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Messages received by Iran International report continuous water and electricity outages in various cities and villages in Iran. Citizens stated that these outages have disrupted their daily lives. In some areas, drinking water is supplied by tanker.",
+        "time": "09:13",
+        "ts": 1786525988
       }
     ],
     "language": "en",
-    "packId": "20260812-34",
-    "sequence": 34,
+    "packId": "20260812-35",
+    "sequence": 35,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:58"
+    "updatedAt": "09:13"
   },
   "verified": true
 }
