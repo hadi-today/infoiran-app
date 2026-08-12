@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-89 seq=89 exp=1786726903",
+      "advancedStatus": "pack_id=20260812-90 seq=90 exp=1786729050",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:01",
+      "lastChecked": "17:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,50 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 17:01",
+    "expiresAt": "2026-08-14 17:37",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Somayeh Karimi-Nejad, a political prisoner, was released from Evin Prison under electronic monitoring on Wednesday, 14 Mordad. She will serve the remainder of her sentence outside prison. Her husband is also held in Khorramabad Prison.",
-        "time": "17:03",
-        "ts": 1786467789
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "CNN reported that Mojtaba Khamenei appointed six hardline figures to senior security positions in the Islamic Republic. These appointments indicate a shift towards a more aggressive foreign policy and a securitized domestic environment. This change may also signal Mojtaba Khamenei's departure from his father's more cautious approach.",
-        "time": "17:11",
-        "ts": 1786468300
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The Israeli army has intensified the siege of dozens of Hezbollah forces trapped in an underground complex in the Ali Taher heights in southern Lebanon. Israeli forces have cut off water supply lines to the complex. Hezbollah is trying to send equipment and supplies to the besieged forces using drones.",
-        "time": "17:18",
-        "ts": 1786468685
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A hostage situation on Valiasr Street in Tehran ended after two hours of negotiation with specialized forces. The hostage was released unharmed, and the hostage-taker was subdued after attempting to use a weapon. The identity and motive of the hostage-taker have not been disclosed.",
-        "time": "17:24",
-        "ts": 1786469095
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A citizen says the drinking water in Mahedasht, Alborz province, is full of salt. The water is not drinkable. This issue was reported in a video to Iran International.",
-        "time": "17:33",
-        "ts": 1786469632
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Ruhollah Rahimpour described Mojtaba Khamenei's new appointments as a sign of a more cohesive structure closer to him. Nejat Bahrami believes this team is moving toward increased repression domestically and tension in foreign policy. These statements were made in an interview with Iran International.",
-        "time": "17:35",
-        "ts": 1786469709
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -889,14 +847,21 @@
         "text": "31 countries and the EU representative issued a joint statement condemning the execution of protesters in Iran. They called for an immediate end to the death penalty and the release of arbitrarily detained individuals. They also emphasized respect for freedom of expression and peaceful assembly.",
         "time": "17:00",
         "ts": 1786554059
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shaho Zirak, a 40-year-old welder, was arrested in Mashhad on the evening of Wednesday, August 12. The IRGC intelligence forces arrested him violently and transferred him to an unknown location. The arrest was due to his posts supporting the National Revolution and Prince Reza Pahlavi on social media.",
+        "time": "17:37",
+        "ts": 1786556224
       }
     ],
     "language": "en",
-    "packId": "20260812-89",
-    "sequence": 89,
+    "packId": "20260812-90",
+    "sequence": 90,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:01"
+    "updatedAt": "17:37"
   },
   "verified": true
 }
