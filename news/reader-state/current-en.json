@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-11 seq=11 exp=1786687554",
+      "advancedStatus": "pack_id=20260812-12 seq=12 exp=1786687835",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:05",
+      "lastChecked": "06:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 06:05",
+    "expiresAt": "2026-08-14 06:10",
     "items": [
       {
         "channel": "Iran International",
@@ -903,14 +903,21 @@
         "text": "Mike Pompeo said that the Islamic Republic is not close to accepting a long-term peace agreement with the US. He added that Iran is motivated to obstruct negotiations ahead of the US midterm elections. Pompeo also described the Islamic Republic as terrorists and thugs aiming to destroy Israel and the United States.",
         "time": "06:05",
         "ts": 1786514738
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Shahram Khaledi said Trump's statements about controlling the Strait of Hormuz mean the continuation of Iran's naval blockade. He added that Gulf Arab countries have reduced their dependence on the Strait by developing alternative oil export routes. Therefore, this waterway is no longer the pressure lever it once was for Iran.",
+        "time": "06:09",
+        "ts": 1786514941
       }
     ],
     "language": "en",
-    "packId": "20260812-11",
-    "sequence": 11,
+    "packId": "20260812-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:05"
+    "updatedAt": "06:10"
   },
   "verified": true
 }
