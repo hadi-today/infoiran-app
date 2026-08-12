@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-102 seq=102 exp=1786744686",
+      "advancedStatus": "pack_id=20260812-103 seq=103 exp=1786744968",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:58",
+      "lastChecked": "22:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 21:58",
+    "expiresAt": "2026-08-14 22:02",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Morad Veisi, a senior analyst at Iran International, said that Mohammad Bagher Ghalibaf's position has weakened compared to five months ago. Ghalibaf had been seeking an agreement with the US and to strengthen his position. Now, the confrontational approach within the Islamic Republic has strengthened.",
-        "time": "21:58",
-        "ts": 1786485517
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -840,14 +833,21 @@
         "text": "Donald Trump stated that Washington controls the naval blockade of the Strait of Hormuz like a steel wall. These remarks came amid ongoing clashes and the naval blockade of Iranian ports. The Islamic Republic also emphasizes control over the Strait of Hormuz.",
         "time": "21:57",
         "ts": 1786571867
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The 60-day ceasefire between Tehran and Washington under the Islamabad agreement will end in four days. Regional mediators are trying to continue negotiations. A senior Iranian official stated that no talks have taken place to extend the ceasefire.",
+        "time": "21:58",
+        "ts": 1786571938
       }
     ],
     "language": "en",
-    "packId": "20260812-102",
-    "sequence": 102,
+    "packId": "20260812-103",
+    "sequence": 103,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:58"
+    "updatedAt": "22:02"
   },
   "verified": true
 }
