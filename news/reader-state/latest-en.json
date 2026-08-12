@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-65 seq=65 exp=1786713737",
+      "advancedStatus": "pack_id=20260812-66 seq=66 exp=1786714006",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:22",
+      "lastChecked": "13:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 13:22",
+    "expiresAt": "2026-08-14 13:26",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Mohsen Rezaee stated that the Islamic Republic will not retreat in the face of threats. Decisions must be stronger than before and made with precise understanding of conditions. Foreign policy includes strengthening deterrence, countering enemy pressure, and utilizing diplomatic capacity.",
-        "time": "13:23",
-        "ts": 1786454585
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -938,14 +931,21 @@
         "text": "Hossein Khajeh Amiri, the famous Iranian singer known as Iraj, passed away at the age of 94. His death revived memories of the golden era of music and cinema before the 1979 revolution. His voice is recognized as a standard in the history of Iranian singing.",
         "time": "13:21",
         "ts": 1786540911
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "As the 60-day ceasefire deadline approaches, regional mediators are trying to continue negotiations between Iran and the US. A senior Iranian official said no talks have taken place to extend the ceasefire. Donald Trump claimed that the US has full control over the Strait of Hormuz.",
+        "time": "13:26",
+        "ts": 1786541178
       }
     ],
     "language": "en",
-    "packId": "20260812-65",
-    "sequence": 65,
+    "packId": "20260812-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:22"
+    "updatedAt": "13:26"
   },
   "verified": true
 }
