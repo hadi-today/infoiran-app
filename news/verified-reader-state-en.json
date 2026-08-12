@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-79 seq=79 exp=1786722361",
+      "advancedStatus": "pack_id=20260812-80 seq=80 exp=1786723230",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:46",
+      "lastChecked": "16:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 15:46",
+    "expiresAt": "2026-08-14 16:00",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Mahshar Parandin, a Christian convert imprisoned in Evin, suffers from lymphatic cancer and despite doctors' emphasis on urgent treatment, she is denied specialized care and medical leave. Doctors have assessed her condition as high-risk and warned that delaying treatment could cause irreversible complications or death. Her requests for medical leave have so far been unsuccessful.",
-        "time": "15:46",
-        "ts": 1786463212
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Hamid Hosseini, spokesperson for the Union of Oil, Gas, and Petrochemical Exporters, stated that part of the gasoline produced by old refineries has lower quality and is mixed with high-quality gasoline. He also mentioned that currently, importing gasoline is not possible.",
-        "time": "15:48",
-        "ts": 1786463335
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Majid Al-Ansari, spokesperson for Qatar's Ministry of Foreign Affairs, stated that Doha is actively involved in efforts to reduce tensions between Tehran and Washington. Qatar is monitoring progress in talks between Oman and the Islamic Republic. He emphasized the need to restore freedom of navigation in the Strait of Hormuz in accordance with international law.",
-        "time": "15:56",
-        "ts": 1786463782
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -903,14 +882,21 @@
         "text": "Oman's Environment Authority announced that an oil spill caused by a ship accident has reached the southeast coasts of the country. The pollution may affect up to 40 kilometers of the Ras Madrakah coastline. Specialized teams are tracking and controlling the spill.",
         "time": "15:45",
         "ts": 1786549536
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The war in the Middle East and the El Niño phenomenon have increased pressure on the Panama Canal. These conditions have raised the cost of ship passage and caused queues of ships. Ships are willing to pay higher fees to pass faster.",
+        "time": "16:00",
+        "ts": 1786550404
       }
     ],
     "language": "en",
-    "packId": "20260812-79",
-    "sequence": 79,
+    "packId": "20260812-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:46"
+    "updatedAt": "16:00"
   },
   "verified": true
 }
