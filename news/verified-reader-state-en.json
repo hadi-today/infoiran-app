@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-86 seq=86 exp=1786725763",
+      "advancedStatus": "pack_id=20260812-87 seq=87 exp=1786725993",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:42",
+      "lastChecked": "16:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 16:42",
+    "expiresAt": "2026-08-14 16:46",
     "items": [
-      {
-        "channel": "Vahid Online",
-        "language": "en",
-        "text": "Trump stated in an interview with Win Ellin Root on Real America's Voice network that if he had not prevented Iran from obtaining nuclear weapons, others would have had to address the leaders of the Islamic Republic as 'sir'.",
-        "time": "16:44",
-        "ts": 1786466693
-      },
       {
         "channel": "Vahid Online",
         "language": "en",
@@ -882,14 +875,21 @@
         "text": "Amirhossein Roshanak announced that the Tehran derby between Esteghlal and Persepolis will likely be held on the 2nd or 3rd of September. The venue for the match is not yet determined, with several stadiums under consideration. Final scheduling will be done after the Asian competitions draw for Iranian representatives.",
         "time": "16:42",
         "ts": 1786552938
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Two Democratic senators in the US have requested access to communications between immigration detention centers and Iranian diplomats. This request follows complaints from Iranian asylum seekers. The asylum seekers claim that the Department of Homeland Security shared their confidential information with Iran.",
+        "time": "16:45",
+        "ts": 1786553118
       }
     ],
     "language": "en",
-    "packId": "20260812-86",
-    "sequence": 86,
+    "packId": "20260812-87",
+    "sequence": 87,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:42"
+    "updatedAt": "16:46"
   },
   "verified": true
 }
