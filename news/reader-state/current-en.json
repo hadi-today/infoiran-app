@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-25 seq=25 exp=1786691934",
+      "advancedStatus": "pack_id=20260812-26 seq=26 exp=1786692505",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:18",
+      "lastChecked": "07:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 07:18",
+    "expiresAt": "2026-08-14 07:28",
     "items": [
       {
         "channel": "Iran International",
@@ -910,14 +910,21 @@
         "text": "Ali Khamenei issued the 20-year vision document of the Islamic Republic 22 years ago. This document became a symbol of the failure of his policies. Now, the timeline of this document has ended and Ali Khamenei has died.",
         "time": "07:15",
         "ts": 1786518914
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "A citizen sent a video showing a long gasoline queue in Bandar Abbas on the early morning of August 12. This comes despite officials previously announcing that the gasoline problem in the city had been resolved. The queue situation continues.",
+        "time": "07:28",
+        "ts": 1786519687
       }
     ],
     "language": "en",
-    "packId": "20260812-25",
-    "sequence": 25,
+    "packId": "20260812-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:18"
+    "updatedAt": "07:28"
   },
   "verified": true
 }
