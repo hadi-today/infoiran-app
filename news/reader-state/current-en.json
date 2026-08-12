@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-14 seq=14 exp=1786688785",
+      "advancedStatus": "pack_id=20260812-15 seq=15 exp=1786689252",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:26",
+      "lastChecked": "06:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 06:26",
+    "expiresAt": "2026-08-14 06:34",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Esmaeil Baghai, spokesperson for the Ministry of Foreign Affairs, stated that the reopening of the Strait of Hormuz is conditional on the lifting of the US naval blockade. In talks with Oman, there was no discussion about charging tolls on ships. The Islamic Republic seeks to receive fees for maritime services.",
-        "time": "06:29",
-        "ts": 1786429766
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Donald Trump outlined the options the US has against the Islamic Republic, including continuing current pressures, military attack, and economic pressure. He described Iran's economic situation as critical, with inflation at 300% and soldiers' salaries unpaid. Trump emphasized that the US can either maintain this situation or deliver a military strike.",
-        "time": "06:29",
-        "ts": 1786429779
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -910,14 +896,21 @@
         "text": "Pegah Bani Hashemi, a legal researcher, stated that the rapid issuance and execution of death sentences and denial of defendants' access to lawyers and fair trials are observed in Iran. She sees this process as a sign of the judiciary's acceleration in suppressing protesters. These remarks were made at the University of Chicago.",
         "time": "06:26",
         "ts": 1786515965
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Robe Bualehri from Iran International said that delays in wage payments have increased economic pressure on workers. He added that protests and strikes among workers have expanded in recent years. According to him, the government will face broader protests.",
+        "time": "06:33",
+        "ts": 1786516435
       }
     ],
     "language": "en",
-    "packId": "20260812-14",
-    "sequence": 14,
+    "packId": "20260812-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:26"
+    "updatedAt": "06:34"
   },
   "verified": true
 }
