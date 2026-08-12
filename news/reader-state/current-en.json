@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-101 seq=101 exp=1786743013",
+      "advancedStatus": "pack_id=20260812-102 seq=102 exp=1786744686",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:30",
+      "lastChecked": "21:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 21:30",
+    "expiresAt": "2026-08-14 21:58",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Akbar Ghorbani stated that delays in government payments have caused financial problems for the Social Security Organization in paying pensions and medical centers. The organization has had to take high-interest bank loans to cover liquidity shortages. The government's debt should be calculated and updated based on inflation rates.",
-        "time": "21:45",
-        "ts": 1786484759
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The Abdolrahman Boroumand Foundation reported that the Islamic Republic has executed at least 916 death sentences since the beginning of 2026. The human rights organization emphasized that the actual number of executions is likely higher and that the statistics are concealed. Additionally, many protesters face heavy charges and the risk of execution, with the sentencing process being unfair and rushed.",
-        "time": "21:53",
-        "ts": 1786485219
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -847,14 +833,21 @@
         "text": "Morad Vaisi, senior analyst at Iran International, reported a strategic rift at the top of the Islamic Republic between reconciliation leaders led by Pezeshkian and Qalibaf and confrontation leaders led by Mojtaba and some IRGC commanders. This conflict at the top of the system is expanding and deepening. He described this as a significant disagreement within the leadership of the Islamic Republic.",
         "time": "21:29",
         "ts": 1786570175
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump stated that Washington controls the naval blockade of the Strait of Hormuz like a steel wall. These remarks came amid ongoing clashes and the naval blockade of Iranian ports. The Islamic Republic also emphasizes control over the Strait of Hormuz.",
+        "time": "21:57",
+        "ts": 1786571867
       }
     ],
     "language": "en",
-    "packId": "20260812-101",
-    "sequence": 101,
+    "packId": "20260812-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:30"
+    "updatedAt": "21:58"
   },
   "verified": true
 }
