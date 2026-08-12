@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-103 seq=103 exp=1786744968",
+      "advancedStatus": "pack_id=20260812-104 seq=104 exp=1786745760",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:02",
+      "lastChecked": "22:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 22:02",
+    "expiresAt": "2026-08-14 22:16",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Morad Veisi, senior analyst at Iran International, stated that the Islamic Republic's foreign policy is moving towards more confrontation and conflict with the United States. He also said that domestically, the government remains focused on repression and shows no sign of accepting the people's demands.",
-        "time": "22:05",
-        "ts": 1786485906
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Delays in paying wages and benefits to workers have increased after the 40-day war and have spread to government units as well. Many workers have not received at least one or two months of wages and insurance, increasing financial pressure on their families. This issue has intensified especially in the oil and gas projects in the south, particularly in Mahshahr.",
-        "time": "22:15",
-        "ts": 1786486523
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -840,14 +826,21 @@
         "text": "The 60-day ceasefire between Tehran and Washington under the Islamabad agreement will end in four days. Regional mediators are trying to continue negotiations. A senior Iranian official stated that no talks have taken place to extend the ceasefire.",
         "time": "21:58",
         "ts": 1786571938
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump announced that Caroline Lewitt will resign as White House spokesperson at the end of this month to spend more time with her family. After leaving the position, Lewitt will serve as a senior advisor outside the government. Trump praised her as one of the best White House spokespeople and appreciated her activities.",
+        "time": "22:15",
+        "ts": 1786572939
       }
     ],
     "language": "en",
-    "packId": "20260812-103",
-    "sequence": 103,
+    "packId": "20260812-104",
+    "sequence": 104,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:02"
+    "updatedAt": "22:16"
   },
   "verified": true
 }
