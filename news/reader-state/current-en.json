@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-52 seq=52 exp=1786706396",
+      "advancedStatus": "pack_id=20260812-53 seq=53 exp=1786706879",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:19",
+      "lastChecked": "11:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 11:19",
+    "expiresAt": "2026-08-14 11:27",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Ahmad Bakhshayesh Ardestani stated that the defense pact of Mecca between Pakistan, Turkey, and Saudi Arabia is more symbolic than operational. He said Saudi Arabia tries to buy security with money and, due to the US's inability to defend itself, has to ally with Pakistan and Turkey. Bakhshayesh Ardestani believes Pakistan and Turkey are unlikely to go to war with Iran on behalf of the US.",
-        "time": "11:20",
-        "ts": 1786447212
-      },
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Nurses and medical staff at Hakim Hospital in Nishapur held a protest today. They demanded attention to issues such as unpaid wage arrears, lack of equipment and personnel, mandatory overtime, and discrimination in bonus payments. They also called for revisions to nursing tariffs.",
-        "time": "11:22",
-        "ts": 1786447332
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -924,14 +910,21 @@
         "text": "Mahmoud Ghanbari-rad, a political prisoner in Tehran's central prison, was sentenced to two years in prison by Branch 23 of the Tehran Revolutionary Court. He was charged with \"assembly and collusion against national security.\" The sentence was issued by Judge Mohammad Mehdi Shahmirzadi.",
         "time": "11:18",
         "ts": 1786533491
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "The International Energy Agency announced that tensions in the Strait of Hormuz and Bab el-Mandeb have increased the global oil supply deficit to 1.8 million barrels per day. Meanwhile, reports from tanker tracking companies indicate that Iran's oil exports have dropped to around 500,000 barrels per day this month.",
+        "time": "11:27",
+        "ts": 1786534047
       }
     ],
     "language": "en",
-    "packId": "20260812-52",
-    "sequence": 52,
+    "packId": "20260812-53",
+    "sequence": 53,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:19"
+    "updatedAt": "11:27"
   },
   "verified": true
 }
