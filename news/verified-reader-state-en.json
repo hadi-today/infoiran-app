@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-90 seq=90 exp=1786729050",
+      "advancedStatus": "pack_id=20260812-91 seq=91 exp=1786729325",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:37",
+      "lastChecked": "17:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 17:37",
+    "expiresAt": "2026-08-14 17:42",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Masoud Pezeshkian met with Pakistan's Interior Minister Mohsin Naqvi in Tehran on Tuesday and emphasized deepening relations with Pakistan in all fields. He stated that enhancing cooperation can help secure mutual interests and strengthen regional stability and security. Mohsin Naqvi also met with several Iranian ministers during his visit to Tehran.",
-        "time": "17:40",
-        "ts": 1786470006
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "Shaho Zirak, a 40-year-old welder, was arrested in Mashhad on the evening of Wednesday, August 12. The IRGC intelligence forces arrested him violently and transferred him to an unknown location. The arrest was due to his posts supporting the National Revolution and Prince Reza Pahlavi on social media.",
         "time": "17:37",
         "ts": 1786556224
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump said control of the Strait of Hormuz is in the hands of the United States. He described the leadership situation in Iran as \"uncertain at best\" and said Tehran cannot even pay its remaining forces. A senior Islamic Republic source told Reuters that \"absolutely no progress\" has been made in talks with the US.",
+        "time": "17:41",
+        "ts": 1786556501
       }
     ],
     "language": "en",
-    "packId": "20260812-90",
-    "sequence": 90,
+    "packId": "20260812-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:37"
+    "updatedAt": "17:42"
   },
   "verified": true
 }
