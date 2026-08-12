@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-85 seq=85 exp=1786725312",
+      "advancedStatus": "pack_id=20260812-86 seq=86 exp=1786725763",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:35",
+      "lastChecked": "16:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 16:35",
+    "expiresAt": "2026-08-14 16:42",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Gideon Sa'ar, Israel's foreign minister, said that the Iranian government has not given up on acquiring nuclear weapons. He welcomed the UK's decision to list the IRGC as a banned organization and called for the inclusion of the Qard al-Hassan financial institution in this list. He also linked progress in Donald Trump's Gaza plan to the disarmament of Hamas and the demilitarization of the Gaza Strip.",
-        "time": "16:34",
-        "ts": 1786466088
-      },
-      {
-        "channel": "Vahid Online",
-        "language": "en",
-        "text": "Yossi Cohen, former Mossad chief, stated that agents of the organization visited the Fordow uranium enrichment facility multiple times to gather more information. He also said that the US bombing of Fordow fulfilled his dreams. Cohen spoke about the attacks and damage to Iran's nuclear facilities during the 12-day war.",
-        "time": "16:36",
-        "ts": 1786466192
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Mohammadjavad Beiranvand broke the world youth records in snatch, clean and jerk, and total at the Asian Junior and Youth Weightlifting Championships in Tashkent. He lifted 145 kg and 180 kg to win 9 gold medals. His total lifted weight was 325 kg.",
-        "time": "16:36",
-        "ts": 1786466215
-      },
       {
         "channel": "Vahid Online",
         "language": "en",
@@ -896,14 +875,21 @@
         "text": "31 countries and the EU High Representative issued a joint statement condemning the execution of protesters and the use of the death penalty by the Islamic Republic. They called for an immediate end to executions and the release of arbitrarily detained individuals. They also urged the Islamic Republic to listen to the voices of the Iranian people and uphold human rights.",
         "time": "16:34",
         "ts": 1786552487
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amirhossein Roshanak announced that the Tehran derby between Esteghlal and Persepolis will likely be held on the 2nd or 3rd of September. The venue for the match is not yet determined, with several stadiums under consideration. Final scheduling will be done after the Asian competitions draw for Iranian representatives.",
+        "time": "16:42",
+        "ts": 1786552938
       }
     ],
     "language": "en",
-    "packId": "20260812-85",
-    "sequence": 85,
+    "packId": "20260812-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:35"
+    "updatedAt": "16:42"
   },
   "verified": true
 }
