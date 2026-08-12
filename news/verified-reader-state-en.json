@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-81 seq=81 exp=1786723467",
+      "advancedStatus": "pack_id=20260812-82 seq=82 exp=1786723703",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:04",
+      "lastChecked": "16:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 16:04",
+    "expiresAt": "2026-08-14 16:08",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Mohsen Rezaei stated that the Strait of Hormuz will not be opened until the US accepts Iran's conditions. He added that any agreement between Tehran and Muscat on passage through the strait is separate from its closure. Rezaei also mentioned the strategic agreement between Iran and China.",
-        "time": "16:06",
-        "ts": 1786464399
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -896,14 +889,28 @@
         "text": "Boeing and Rheinmetall are cooperating to develop the MQ-28 Ghost Bat combat drone. This drone is designed for air-to-air and air-to-ground missions and is planned to be operational by 2029. Rheinmetall will integrate the system in Germany to retain the technology within the country's defense industry.",
         "time": "16:01",
         "ts": 1786550491
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "As the anniversary of Mahsa Amini's death approaches, pressure to impose hijab and restrict social freedoms in Iran has increased. Asieh Amini, a social analyst, said the Islamic Republic, after reducing external threats, has intensified pressure on people's dress and lifestyle.",
+        "time": "16:04",
+        "ts": 1786550696
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "People in various provinces of Iran complain about livelihood and service problems. In Bandar Abbas, electricity and water have been cut off, and in Tehran, traffic fines have increased. Additionally, issues such as poor school quality and internet disruptions have been reported.",
+        "time": "16:06",
+        "ts": 1786550803
       }
     ],
     "language": "en",
-    "packId": "20260812-81",
-    "sequence": 81,
+    "packId": "20260812-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:04"
+    "updatedAt": "16:08"
   },
   "verified": true
 }
