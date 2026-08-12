@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-104 seq=104 exp=1786745760",
+      "advancedStatus": "pack_id=20260812-105 seq=105 exp=1786746045",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:16",
+      "lastChecked": "22:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 22:16",
+    "expiresAt": "2026-08-14 22:20",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "In the program with Kambiz Hosseini, eight calls from eight cities agreed that if compensation is paid, it will not reach the people. Two women from two cities simultaneously said the phrase \"We only have one life,\" which represents the voice of the community. The question remains what people can do without risking their lives.",
-        "time": "22:18",
-        "ts": 1786486696
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -833,14 +826,35 @@
         "text": "Donald Trump announced that Caroline Lewitt will resign as White House spokesperson at the end of this month to spend more time with her family. After leaving the position, Lewitt will serve as a senior advisor outside the government. Trump praised her as one of the best White House spokespeople and appreciated her activities.",
         "time": "22:15",
         "ts": 1786572939
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Veysi said that Zolghadr's dismissal was due to his positive vote on the agreement in the Supreme National Security Council and not properly conveying Mojtaba's opposition to other members. This indicates serious disagreements between Mojtaba and Pezeshkian. With the appointment of Mohsen Rezaei, the divide at the top of the Islamic Republic has deepened.",
+        "time": "22:17",
+        "ts": 1786573043
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "In the program Politics with Murad Veisi, a severe disagreement between Mojtaba and Pezeshkian was discussed. The program covered the conflict between conciliationists and confrontationalists. The audio version of this program has been released.",
+        "time": "22:19",
+        "ts": 1786573145
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Zakani stated that he went to the site of the attack on the Leader's residence by motorcycle. He spoke about the missile impact, Mojtaba Khamenei's location, his injury, and his concern while getting stitches. Mojtaba Khamenei was worried about missing his prayer.",
+        "time": "22:20",
+        "ts": 1786573217
       }
     ],
     "language": "en",
-    "packId": "20260812-104",
-    "sequence": 104,
+    "packId": "20260812-105",
+    "sequence": 105,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:16"
+    "updatedAt": "22:20"
   },
   "verified": true
 }
