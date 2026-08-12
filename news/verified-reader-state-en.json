@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-80 seq=80 exp=1786723230",
+      "advancedStatus": "pack_id=20260812-81 seq=81 exp=1786723467",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:00",
+      "lastChecked": "16:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 16:00",
+    "expiresAt": "2026-08-14 16:04",
     "items": [
       {
         "channel": "Iran International",
@@ -889,14 +889,21 @@
         "text": "The war in the Middle East and the El Niño phenomenon have increased pressure on the Panama Canal. These conditions have raised the cost of ship passage and caused queues of ships. Ships are willing to pay higher fees to pass faster.",
         "time": "16:00",
         "ts": 1786550404
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Boeing and Rheinmetall are cooperating to develop the MQ-28 Ghost Bat combat drone. This drone is designed for air-to-air and air-to-ground missions and is planned to be operational by 2029. Rheinmetall will integrate the system in Germany to retain the technology within the country's defense industry.",
+        "time": "16:01",
+        "ts": 1786550491
       }
     ],
     "language": "en",
-    "packId": "20260812-80",
-    "sequence": 80,
+    "packId": "20260812-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:00"
+    "updatedAt": "16:04"
   },
   "verified": true
 }
