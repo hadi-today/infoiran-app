@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-02 seq=2 exp=1786672196",
+      "advancedStatus": "pack_id=20260812-03 seq=3 exp=1786672808",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:49",
+      "lastChecked": "02:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 01:49",
+    "expiresAt": "2026-08-14 02:00",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -764,13 +764,19 @@
         "text": "دونالد ترامپ گفت سرویس مخفی تصمیم‌گیرنده اصلی در انتقال مخفیانه او به هواپیمای دیگر بود. به گزارش فاکس‌نیوز، این اقدام به دلیل تهدید جمهوری اسلامی به ترور او انجام شد. ترامپ افزود در مسائل امنیتی از تصمیم‌های سرویس مخفی و ارتش پیروی می‌کند.",
         "time": "01:49",
         "ts": 1786499373
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "دونالد ترامپ اعلام کرد که ایالات متحده کنترل کامل تنگه هرمز را در اختیار دارد و ایران دیگر نیروی مسلط در خاورمیانه نیست. او همچنین گفت که به ایران اعتماد ندارد و هشدار داد در صورت اقدام ایران، نابود خواهد شد.",
+        "time": "01:59",
+        "ts": 1786499981
       }
     ],
-    "packId": "20260812-02",
-    "sequence": 2,
+    "packId": "20260812-03",
+    "sequence": 3,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "01:49"
+    "updatedAt": "02:00"
   },
   "verified": true
 }
