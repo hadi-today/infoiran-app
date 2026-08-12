@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-58 seq=58 exp=1786711354",
+      "advancedStatus": "pack_id=20260812-59 seq=59 exp=1786711602",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:42",
+      "lastChecked": "12:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 12:42",
+    "expiresAt": "2026-08-14 12:46",
     "items": [
       {
         "channel": "Iran International",
@@ -882,14 +882,21 @@
         "text": "Ata Hosseinian, an economic journalist, stated that the gasoline shortage and long queues at fuel stations are due to the naval blockade and the Islamic Republic's inability to import gasoline. He emphasized that this issue is not a consequence of war.",
         "time": "12:42",
         "ts": 1786538529
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "language": "en",
+        "text": "Amirhossein Bagheri Alavijeh, a master's student at Arak University and resident of Isfahan, remains in detention after 73 days. No indictment has been issued in his case so far. He is currently in a state of uncertainty.",
+        "time": "12:45",
+        "ts": 1786538727
       }
     ],
     "language": "en",
-    "packId": "20260812-58",
-    "sequence": 58,
+    "packId": "20260812-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:42"
+    "updatedAt": "12:46"
   },
   "verified": true
 }
