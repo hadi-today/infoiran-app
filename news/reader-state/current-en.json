@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-51 seq=51 exp=1786706268",
+      "advancedStatus": "pack_id=20260812-52 seq=52 exp=1786706396",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:17",
+      "lastChecked": "11:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 11:17",
+    "expiresAt": "2026-08-14 11:19",
     "items": [
       {
         "channel": "Iran International",
@@ -917,14 +917,21 @@
         "text": "A severe heatwave continues to affect large parts of Europe. In Italy, temperatures have reached 40 degrees in many cities. The Italian Ministry of Health has issued a red alert for 19 cities, including Rome and Naples.",
         "time": "11:17",
         "ts": 1786533443
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "language": "en",
+        "text": "Mahmoud Ghanbari-rad, a political prisoner in Tehran's central prison, was sentenced to two years in prison by Branch 23 of the Tehran Revolutionary Court. He was charged with \"assembly and collusion against national security.\" The sentence was issued by Judge Mohammad Mehdi Shahmirzadi.",
+        "time": "11:18",
+        "ts": 1786533491
       }
     ],
     "language": "en",
-    "packId": "20260812-51",
-    "sequence": 51,
+    "packId": "20260812-52",
+    "sequence": 52,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:17"
+    "updatedAt": "11:19"
   },
   "verified": true
 }
