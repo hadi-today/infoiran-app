@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-98 seq=98 exp=1786742109",
+      "advancedStatus": "pack_id=20260812-100 seq=100 exp=1786742726",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:15",
+      "lastChecked": "21:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 21:15",
+    "expiresAt": "2026-08-14 21:25",
     "items": [
       {
         "channel": "Iran International",
@@ -819,14 +819,28 @@
         "text": "Vida Rabbani, a journalist and former political prisoner, accused her husband Hamidreza Amiri of domestic violence and forcibly taking her house, car, and jewelry. She stated that he used a power of attorney given during her imprisonment to seize her assets and even forged her signature to obtain a loan. Rabbani emphasized the need to break the silence about domestic violence.",
         "time": "21:14",
         "ts": 1786569289
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Paris Saint-Germain defeated Aston Villa 2-1 to win the UEFA Super Cup for the second consecutive time. Kvaratskhelia and Doku scored for PSG, while Maja scored for Aston Villa. The winning goal was scored by Doku in the 61st minute.",
+        "time": "21:16",
+        "ts": 1786569377
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Khajeh Amiri, a veteran traditional Iranian musician known as Iraj, passed away at the age of 94. He was a lasting voice in radio programs and learned musical radifs from his family. He was born in Isfahan and became a prominent singer remembered by many generations.",
+        "time": "21:25",
+        "ts": 1786569904
       }
     ],
     "language": "en",
-    "packId": "20260812-98",
-    "sequence": 98,
+    "packId": "20260812-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:15"
+    "updatedAt": "21:25"
   },
   "verified": true
 }
