@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260812-33 seq=33 exp=1786697582",
+      "advancedStatus": "pack_id=20260812-34 seq=34 exp=1786697930",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:53",
+      "lastChecked": "08:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-12",
-    "expiresAt": "2026-08-14 08:53",
+    "expiresAt": "2026-08-14 08:58",
     "items": [
       {
         "channel": "HRANA",
@@ -924,14 +924,21 @@
         "text": "The public prosecutor of Qaenat announced the closure of a business unit due to customers and staff not observing the hijab. This action is part of a new wave of confrontations with businesses and public places in Iran. Harana had previously reported on this new wave.",
         "time": "08:52",
         "ts": 1786524753
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Alireza Zakani provided a new account of the attack on March 28 at Mojtaba Khamenei's residence. He said Zahra Haddad Adel was killed in the attack, while Mojtaba Khamenei sustained only minor injuries. This account differs from previous reports about the location of Zahra Haddad Adel's death.",
+        "time": "08:58",
+        "ts": 1786525102
       }
     ],
     "language": "en",
-    "packId": "20260812-33",
-    "sequence": 33,
+    "packId": "20260812-34",
+    "sequence": 34,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:53"
+    "updatedAt": "08:58"
   },
   "verified": true
 }
