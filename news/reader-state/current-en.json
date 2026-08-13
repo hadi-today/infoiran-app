@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260813-04 seq=4 exp=1786765174",
+      "advancedStatus": "pack_id=20260813-05 seq=5 exp=1786766146",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:39",
+      "lastChecked": "03:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-13",
-    "expiresAt": "2026-08-15 03:39",
+    "expiresAt": "2026-08-15 03:55",
     "items": [
       {
         "channel": "وحید آنلاین",
@@ -819,14 +819,21 @@
         "text": "Officials of the Islamic Republic say the Strait of Hormuz remains closed and will not reopen until Tehran's conditions are accepted. The entity called 'Persian Gulf Waterway Management' stated that reopening the waterway is contingent on the acceptance of the Islamic Republic's conditions. According to data from Kepler, the five-day average of ship transits through the Strait of Hormuz has dropped to about 13 vessels per day.",
         "time": "03:39",
         "ts": 1786592355
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The executive deputy of the Islamic Republic Army claimed that more than 75% of Iran's missile and drone capabilities remain intact and ready for use. He added that the production of defensive equipment has not stopped during the war. Foreign intelligence agencies have also confirmed this claim but have not provided any evidence.",
+        "time": "03:55",
+        "ts": 1786593326
       }
     ],
     "language": "en",
-    "packId": "20260813-04",
-    "sequence": 4,
+    "packId": "20260813-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:39"
+    "updatedAt": "03:55"
   },
   "verified": true
 }
