@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260813-26 seq=26 exp=1786789260",
+      "advancedStatus": "pack_id=20260813-27 seq=27 exp=1786790177",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:21",
+      "lastChecked": "10:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-13",
-    "expiresAt": "2026-08-15 10:21",
+    "expiresAt": "2026-08-15 10:36",
     "items": [
-      {
-        "channel": "ایران اینترنشنال",
-        "language": "en",
-        "text": "The mayor of Tehran announced that on the ninth of Esfand, a missile struck Mojtaba Khamenei's house. In this attack, Mojtaba Khamenei was injured and his wife was killed. This has raised doubts about the health of the new leader of the Islamic Republic.",
-        "time": "10:29",
-        "ts": 1786530559
-      },
-      {
-        "channel": "ایران اینترنشنال",
-        "language": "en",
-        "text": "A group of Iranians living in Israel, along with Israeli citizens, has started a project to help the people of Iran in a crisis. The project focuses on economic support and access to free internet. The group consists of intellectuals, economists, and social activists from both countries and operates under the Cyrus Foundation and the Aftab Project.",
-        "time": "10:30",
-        "ts": 1786530637
-      },
-      {
-        "channel": "ایران اینترنشنال",
-        "language": "en",
-        "text": "A citizen criticized the rising prices of eggs and other food items in a video sent to Iran International. He attributed the difficulty in covering living expenses to the low wages of many people. The citizen expressed dissatisfaction with the current situation.",
-        "time": "10:32",
-        "ts": 1786530749
-      },
       {
         "channel": "خبرگزاری هرانا",
         "language": "en",
@@ -742,14 +721,21 @@
         "text": "Sohrab Bakhtiarizadeh, head coach of Esteghlal, criticized some players for prioritizing money and their agents over the club's jersey and fans. He cited this as a reason for Esteghlal's limited transfer activity. He also mentioned that Esteghlal has become an almost industrial team due to the mindset of some agents and players.",
         "time": "10:20",
         "ts": 1786616411
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The 26th season of the Iranian Premier Football League is starting. Despite the economic crisis caused by the war, Iranian clubs have spent heavily in the transfer market. Mozdak Mirzayi has provided explanations about the billion-dollar expenses in the league.",
+        "time": "10:35",
+        "ts": 1786617356
       }
     ],
     "language": "en",
-    "packId": "20260813-26",
-    "sequence": 26,
+    "packId": "20260813-27",
+    "sequence": 27,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:21"
+    "updatedAt": "10:36"
   },
   "verified": true
 }
