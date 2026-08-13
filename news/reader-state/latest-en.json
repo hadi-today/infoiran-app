@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260813-65 seq=65 exp=1786815015",
+      "advancedStatus": "pack_id=20260813-66 seq=66 exp=1786815243",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:30",
+      "lastChecked": "17:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-13",
-    "expiresAt": "2026-08-15 17:30",
+    "expiresAt": "2026-08-15 17:34",
     "items": [
       {
         "channel": "iranintl",
@@ -693,14 +693,21 @@
         "text": "The Houthis supported by the Islamic Republic announced they targeted the Aramco refinery with two drones. Yemen's government representative at the UN warned that the Houthis have turned Yemen into a platform for the Revolutionary Guards. This report was published by Troska Sadeghi from Iran International.",
         "time": "17:29",
         "ts": 1786642193
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Moslehi, an oil market expert, said the naval blockade of Iranian ports is fundamentally different from economic sanctions, because in this situation neither Iran's oil can be exported nor can ships carrying goods and oil enter Iranian ports. He added that this American strategy is similar to the approach previously used against Venezuela, and this situation, by reducing foreign currency inflows and worsening the budget deficit, increases economic pressure on the Islamic Republic and will confront Iran's economy with serious challenges.",
+        "time": "17:31",
+        "ts": 1786642299
       }
     ],
     "language": "en",
-    "packId": "20260813-65",
-    "sequence": 65,
+    "packId": "20260813-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:30"
+    "updatedAt": "17:34"
   },
   "verified": true
 }
