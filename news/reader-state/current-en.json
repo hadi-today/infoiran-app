@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260813-53 seq=53 exp=1786808645",
+      "advancedStatus": "pack_id=20260813-54 seq=54 exp=1786808872",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:44",
+      "lastChecked": "15:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-13",
-    "expiresAt": "2026-08-15 15:44",
+    "expiresAt": "2026-08-15 15:47",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Oman's Environment Authority announced that an oil spill caused by a ship accident has reached the southeast coasts of the country. The pollution may affect up to 40 kilometers of the Ras Madrakah coastline. Specialized teams are tracking and controlling the spill.",
-        "time": "15:45",
-        "ts": 1786549536
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -686,14 +679,21 @@
         "text": "The South Korean Football Federation apologized for a scandal involving payments for sexual services for foreign referees. The report, dating back to 2016, was recently released. The payments occurred during World Cup qualifiers and Olympic games.",
         "time": "15:43",
         "ts": 1786635801
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Pete Hegseth, the US Secretary of Defense, stated that the US Navy can maintain the blockade of Iranian ports indefinitely. He mentioned that ships will be rotated continuously. Additionally, the Wall Street Journal reported that the US is sending another aircraft carrier to the Middle East amid tensions with the Islamic Republic.",
+        "time": "15:46",
+        "ts": 1786636018
       }
     ],
     "language": "en",
-    "packId": "20260813-53",
-    "sequence": 53,
+    "packId": "20260813-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:44"
+    "updatedAt": "15:47"
   },
   "verified": true
 }
