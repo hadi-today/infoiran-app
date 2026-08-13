@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260813-64 seq=64 exp=1786813779",
+      "advancedStatus": "pack_id=20260813-65 seq=65 exp=1786815015",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:09",
+      "lastChecked": "17:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-13",
-    "expiresAt": "2026-08-15 17:09",
+    "expiresAt": "2026-08-15 17:30",
     "items": [
       {
         "channel": "iranintl",
@@ -686,14 +686,21 @@
         "text": "Jennifer Lokta stated that an Iranian plane entered Sanaa without Yemen government's permission. The flight was meant to transport Houthi officials for Ali Khamenei's funeral but carried IRGC forces instead. She described recent Houthi attacks as part of an organized campaign to maintain regional influence.",
         "time": "17:09",
         "ts": 1786640948
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Houthis supported by the Islamic Republic announced they targeted the Aramco refinery with two drones. Yemen's government representative at the UN warned that the Houthis have turned Yemen into a platform for the Revolutionary Guards. This report was published by Troska Sadeghi from Iran International.",
+        "time": "17:29",
+        "ts": 1786642193
       }
     ],
     "language": "en",
-    "packId": "20260813-64",
-    "sequence": 64,
+    "packId": "20260813-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:09"
+    "updatedAt": "17:30"
   },
   "verified": true
 }
