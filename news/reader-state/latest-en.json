@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260813-30 seq=30 exp=1786792197",
+      "advancedStatus": "pack_id=20260813-33 seq=33 exp=1786795610",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:09",
+      "lastChecked": "12:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,36 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-13",
-    "expiresAt": "2026-08-15 11:09",
+    "expiresAt": "2026-08-15 12:06",
     "items": [
-      {
-        "channel": "ایران اینترنشنال",
-        "language": "en",
-        "text": "A severe heatwave continues to affect large parts of Europe. In Italy, temperatures have reached 40 degrees in many cities. The Italian Ministry of Health has issued a red alert for 19 cities, including Rome and Naples.",
-        "time": "11:17",
-        "ts": 1786533443
-      },
-      {
-        "channel": "خبرگزاری هرانا",
-        "language": "en",
-        "text": "Mahmoud Ghanbari-rad, a political prisoner in Tehran's central prison, was sentenced to two years in prison by Branch 23 of the Tehran Revolutionary Court. He was charged with \"assembly and collusion against national security.\" The sentence was issued by Judge Mohammad Mehdi Shahmirzadi.",
-        "time": "11:18",
-        "ts": 1786533491
-      },
-      {
-        "channel": "ایران اینترنشنال",
-        "language": "en",
-        "text": "The International Energy Agency announced that tensions in the Strait of Hormuz and Bab el-Mandeb have increased the global oil supply deficit to 1.8 million barrels per day. Meanwhile, reports from tanker tracking companies indicate that Iran's oil exports have dropped to around 500,000 barrels per day this month.",
-        "time": "11:27",
-        "ts": 1786534047
-      },
-      {
-        "channel": "ایران اینترنشنال",
-        "language": "en",
-        "text": "Reuters reported an attack by four drones on three camps of Iranian Kurdish parties near Erbil. No casualties or injuries have been reported in this attack. The report was prepared by Troska Sadeghi from Iran International.",
-        "time": "11:56",
-        "ts": 1786535790
-      },
       {
         "channel": "ایران اینترنشنال",
         "language": "en",
@@ -728,14 +700,35 @@
         "text": "Sohrab Bakhtiarizadeh spoke about Ramin Rezaeian's departure from Esteghlal and said he wished Rezaeian had returned to the team but his requested fee was high. He also emphasized that Rezaeian's absence is difficult for the team and he would have been happy if he had come. Bakhtiarizadeh wished Rezaeian success.",
         "time": "11:09",
         "ts": 1786619370
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Parsa Najafi, a Bahá'í citizen residing in Isfahan, has been held in custody at Dastgerd Prison in Isfahan for over two months without a clear decision. He has not had any visits for 45 days, and his lawyer has not been able to access his case. He has only had a brief phone call with his family recently.",
+        "time": "11:17",
+        "ts": 1786619846
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Mahmoudian was sentenced to eight months in prison for propaganda against the regime. He did not attend the court and did not appeal the sentence, considering this a form of protest. Mahmoudian announced he has another case with the same charge and will not attend that court either.",
+        "time": "11:50",
+        "ts": 1786621838
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The 2026 World Equestrian Championship began with an opening ceremony in Aachen, Germany. This competition is the first stage for qualifying for the 2028 Los Angeles Olympic and Paralympic Games. The report was provided by Farbod Sarvandi from Iran International.",
+        "time": "12:06",
+        "ts": 1786622784
       }
     ],
     "language": "en",
-    "packId": "20260813-30",
-    "sequence": 30,
+    "packId": "20260813-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:09"
+    "updatedAt": "12:06"
   },
   "verified": true
 }
