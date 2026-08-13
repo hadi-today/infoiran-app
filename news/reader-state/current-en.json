@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260813-77 seq=77 exp=1786833162",
+      "advancedStatus": "pack_id=20260813-79 seq=79 exp=1786833707",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:32",
+      "lastChecked": "22:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-13",
-    "expiresAt": "2026-08-15 22:32",
+    "expiresAt": "2026-08-15 22:41",
     "items": [
       {
         "channel": "iranintl",
@@ -609,14 +609,28 @@
         "text": "Jamal Mahmoud Abu Kmeil, a Hamas commander, was killed in an Israeli airstrike on Gaza. The Israeli army and Shin Bet stated that Abu Kmeil was involved in planning attacks against Israel. The strike was carried out to eliminate the threat.",
         "time": "22:32",
         "ts": 1786660345
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The Tehran Police Information Center announced the arrest of a citizen for publishing targeted content against the country. The charges include promoting despair, portraying society negatively, and disturbing public opinion. This news was reported by Harana News Agency.",
+        "time": "22:33",
+        "ts": 1786660396
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "In a military exercise in Germany, Ukrainian forces used reconnaissance and attack drones to identify and neutralize US troops and armored vehicles. This exercise became a serious test for the US military against drone warfare. The report was provided by Sadaf Baghbani from Iran International.",
+        "time": "22:41",
+        "ts": 1786660890
       }
     ],
     "language": "en",
-    "packId": "20260813-77",
-    "sequence": 77,
+    "packId": "20260813-79",
+    "sequence": 79,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:32"
+    "updatedAt": "22:41"
   },
   "verified": true
 }
