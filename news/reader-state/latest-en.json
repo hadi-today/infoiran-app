@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260813-73 seq=73 exp=1786819512",
+      "advancedStatus": "pack_id=20260813-75 seq=75 exp=1786820674",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:45",
+      "lastChecked": "19:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-13",
-    "expiresAt": "2026-08-15 18:45",
+    "expiresAt": "2026-08-15 19:04",
     "items": [
       {
         "channel": "iranintl",
@@ -714,14 +714,28 @@
         "text": "Galatasaray rejected Al Hilal's 130 million euro offer for Victor Osimhen and stated the player is not for sale this summer. Osimhen has scored 59 goals in 74 matches since joining Galatasaray in 2024. Al Hilal aims to sign Osimhen to strengthen their squad for the Saudi Professional League competition.",
         "time": "18:44",
         "ts": 1786646680
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Workers of Iran Telecommunication Company and Khazar Plastic protested against unpaid wages and insurance issues. They also complained about improper implementation of job classification plans and threats of dismissal. These problems have caused dissatisfaction and concern among the workers.",
+        "time": "18:58",
+        "ts": 1786647503
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "According to a report by Israel's Channel 13, CENTCOM Commander Brad Cooper, during his recent visit to Israel and in a meeting with Eyal Zamir, Chief of Staff of the Israeli military, called for resuming war with Iran and attacking its infrastructure again. Cooper said: 'Under current conditions, Tehran will not change its positions; attacking Iran's infrastructure changes the rules of the game and inflicts great damage on them.'",
+        "time": "19:02",
+        "ts": 1786647746
       }
     ],
     "language": "en",
-    "packId": "20260813-73",
-    "sequence": 73,
+    "packId": "20260813-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:45"
+    "updatedAt": "19:04"
   },
   "verified": true
 }
