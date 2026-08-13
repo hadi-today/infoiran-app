@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260813-21 seq=21 exp=1786786179",
+      "advancedStatus": "pack_id=20260813-23 seq=23 exp=1786786663",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:29",
+      "lastChecked": "09:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-13",
-    "expiresAt": "2026-08-15 09:29",
+    "expiresAt": "2026-08-15 09:37",
     "items": [
-      {
-        "channel": "خبرگزاری هرانا",
-        "language": "en",
-        "text": "Reza Rahmani, the governor of West Azerbaijan, reported a widespread shortage of educational space in the province. He stated that to reach the national average, the province needs to build 972 schools and 9,000 classrooms.",
-        "time": "09:33",
-        "ts": 1786527192
-      },
-      {
-        "channel": "ایران اینترنشنال",
-        "language": "en",
-        "text": "A banner was installed on a pedestrian bridge in Tehran asking Pezeshkian if Mojtaba Khamenei is not involved and only Ahmad Vahidi gives him orders. The video was published by Iran International. The banner's message refers to a political question.",
-        "time": "09:33",
-        "ts": 1786527203
-      },
       {
         "channel": "ایران اینترنشنال",
         "language": "en",
@@ -763,14 +749,28 @@
         "text": "Shahab Mohammadi, a citizen from Izeh, was arrested 191 days ago in connection with the December 2025 protests and remains detained in Sheiban prison in Ahvaz. He is in a state of judicial uncertainty, and his family has been unable to secure bail for his temporary release. Since February 11 last year, he has been held in ward 6 of Sheiban prison and has been denied visits with his family.",
         "time": "09:29",
         "ts": 1786613351
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Voters in the Clacton constituency in eastern England are participating in a by-election today. This election is held following the voluntary resignation of Nigel Farage from his seat. More details are provided by Ali Rashid.",
+        "time": "09:31",
+        "ts": 1786613494
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The German government has approved a new plan to expand the operational and cyber authorities of its intelligence services. This plan will transform the German foreign intelligence agency from an information analysis body into an operational organization. The plan requires parliamentary approval.",
+        "time": "09:37",
+        "ts": 1786613833
       }
     ],
     "language": "en",
-    "packId": "20260813-21",
-    "sequence": 21,
+    "packId": "20260813-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:29"
+    "updatedAt": "09:37"
   },
   "verified": true
 }
