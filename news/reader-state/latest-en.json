@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260813-69 seq=69 exp=1786817710",
+      "advancedStatus": "pack_id=20260813-70 seq=70 exp=1786817939",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:15",
+      "lastChecked": "18:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-13",
-    "expiresAt": "2026-08-15 18:15",
+    "expiresAt": "2026-08-15 18:18",
     "items": [
       {
         "channel": "iranintl",
@@ -686,14 +686,21 @@
         "text": "A Houthi-affiliated news agency reported a new drone attack on the Aramco refinery in Jizan port. The attack was carried out with two drones, and Saudi sources have not yet responded. Previously, the refinery had caught fire following a drone attack.",
         "time": "18:14",
         "ts": 1786644889
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "CENTCOM announced the formation of the first multinational and multi-domain offensive drone unit called \"Falcon Strike.\" This unit includes forces from the US and regional partners and integrates offensive drone capabilities in the Middle East. Official invitations have been sent to partner countries to join this unit.",
+        "time": "18:15",
+        "ts": 1786644947
       }
     ],
     "language": "en",
-    "packId": "20260813-69",
-    "sequence": 69,
+    "packId": "20260813-70",
+    "sequence": 70,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:15"
+    "updatedAt": "18:18"
   },
   "verified": true
 }
