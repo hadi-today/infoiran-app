@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260813-46 seq=46 exp=1786805587",
+      "advancedStatus": "pack_id=20260813-47 seq=47 exp=1786805831",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:53",
+      "lastChecked": "14:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-13",
-    "expiresAt": "2026-08-15 14:53",
+    "expiresAt": "2026-08-15 14:57",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Flights at Catania airport in Italy were suspended on Wednesday, August 12, due to renewed ash emissions from Mount Etna. Aviation authorities extended airspace restrictions over eastern Sicily. Ash spread to the south also caused cancellations and delays of flights in Malta.",
-        "time": "14:50",
-        "ts": 1786546244
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -665,14 +658,28 @@
         "text": "Ukrainian officials stated that Russia targeted 11 areas in the country with over 130 attack drones. The attacks also hit infrastructure at a border port with Romania. Romania scrambled fighter jets after an object entered its airspace.",
         "time": "14:50",
         "ts": 1786632629
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The Islamic Republic of Iran has used flogging for years as a judicial tool to suppress protesters, political prisoners, and human rights defenders. The Boroumand Foundation has recorded at least 173 cases of flogging related to the \"Women, Life, Freedom\" protests. Documenting these cases is difficult due to the lack of transparency in the judicial process and victims' reluctance, but it is critically important.",
+        "time": "14:54",
+        "ts": 1786632855
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Mohammad Mokhber, advisor to Mojtaba Khamenei, stated that the definitive strategy of the leadership, if Iran's conditions are not met, is an aggressive war. He also claimed that the US has been unable to protect its allies in the Persian Gulf. Mokhber described the implementation of the Hormuz economic-security mechanism as the most sustainable way to establish a new order in the region.",
+        "time": "14:55",
+        "ts": 1786632902
       }
     ],
     "language": "en",
-    "packId": "20260813-46",
-    "sequence": 46,
+    "packId": "20260813-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:53"
+    "updatedAt": "14:57"
   },
   "verified": true
 }
