@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260813-29 seq=29 exp=1786790515",
+      "advancedStatus": "pack_id=20260813-30 seq=30 exp=1786792197",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:41",
+      "lastChecked": "11:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-13",
-    "expiresAt": "2026-08-15 10:41",
+    "expiresAt": "2026-08-15 11:09",
     "items": [
-      {
-        "channel": "ایران اینترنشنال",
-        "language": "en",
-        "text": "A video shows cars lining up before the entrance of the Nargil fuel station in Bandar Abbas. The video was received by Iran International. The fuel station situation in this city has attracted attention.",
-        "time": "10:59",
-        "ts": 1786532390
-      },
-      {
-        "channel": "ایران اینترنشنال",
-        "language": "en",
-        "text": "The Libyan electricity company announced that an attack on the power station south of Zawiya caused a fire and widespread power outage. General Electric has halted its operations at the Zawiya power plant and withdrawn its technical teams. This attack occurred after drone attacks on fuel storage tanks near Zawiya.",
-        "time": "11:04",
-        "ts": 1786532684
-      },
       {
         "channel": "ایران اینترنشنال",
         "language": "en",
@@ -735,14 +721,21 @@
         "text": "Amin Masouri, a writer and researcher, was arrested on Sunday, 18 Mordad, to serve his prison sentence and was transferred to Khorramabad prison. This news was reported by the HRANA news agency. His prison sentence has been enforced.",
         "time": "10:40",
         "ts": 1786617647
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Sohrab Bakhtiarizadeh spoke about Ramin Rezaeian's departure from Esteghlal and said he wished Rezaeian had returned to the team but his requested fee was high. He also emphasized that Rezaeian's absence is difficult for the team and he would have been happy if he had come. Bakhtiarizadeh wished Rezaeian success.",
+        "time": "11:09",
+        "ts": 1786619370
       }
     ],
     "language": "en",
-    "packId": "20260813-29",
-    "sequence": 29,
+    "packId": "20260813-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:41"
+    "updatedAt": "11:09"
   },
   "verified": true
 }
