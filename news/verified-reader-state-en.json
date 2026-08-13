@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260813-36 seq=36 exp=1786799600",
+      "advancedStatus": "pack_id=20260813-37 seq=37 exp=1786799843",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:13",
+      "lastChecked": "13:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-13",
-    "expiresAt": "2026-08-15 13:13",
+    "expiresAt": "2026-08-15 13:17",
     "items": [
       {
         "channel": "وحید آنلاین",
@@ -658,14 +658,28 @@
         "text": "The French Ministry of Foreign Affairs called on Iranian authorities to stop using executions as a tool for repression. The ministry demanded the release of arbitrarily detained individuals and respect for human rights in Iran. This response came after Abbas Araghchi's remarks regarding France's condemnation of the execution of protesters.",
         "time": "13:13",
         "ts": 1786626790
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mojtaba Khamenei, the new leader of the Islamic Republic, appointed seven senior military and security officials on August 10. These appointments followed the war with the US and Israel. The role of military and security figures in the power structure of the Islamic Republic has become more prominent.",
+        "time": "13:13",
+        "ts": 1786626828
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Javad Safari, detained during the December protests, has been sentenced to five years in prison. He was tried without a lawyer and charged with insulting the Supreme Leader and encouraging youth protests. His wife, Fatemeh Safari, was also sentenced to two years and seven months and released with an electronic bracelet.",
+        "time": "13:14",
+        "ts": 1786626842
       }
     ],
     "language": "en",
-    "packId": "20260813-36",
-    "sequence": 36,
+    "packId": "20260813-37",
+    "sequence": 37,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:13"
+    "updatedAt": "13:17"
   },
   "verified": true
 }
