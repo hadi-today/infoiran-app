@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260813-60 seq=60 exp=1786811600",
+      "advancedStatus": "pack_id=20260813-61 seq=61 exp=1786811833",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:33",
+      "lastChecked": "16:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-13",
-    "expiresAt": "2026-08-15 16:33",
+    "expiresAt": "2026-08-15 16:37",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "31 countries and the EU High Representative issued a joint statement condemning the execution of protesters and the use of the death penalty by the Islamic Republic. They called for an immediate end to executions and the release of arbitrarily detained individuals. They also urged the Islamic Republic to listen to the voices of the Iranian people and uphold human rights.",
-        "time": "16:34",
-        "ts": 1786552487
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -693,14 +686,21 @@
         "text": "Hamidreza Zarei, Iran's representative in the 95 kg youth weightlifting category at the Asian Championship in Tashkent, won three gold medals and became the champion. He broke the world record in the clean and jerk with a 214 kg lift. Zarei achieved a total of 378 kg and secured the championship title.",
         "time": "16:33",
         "ts": 1786638791
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Mohsen Khalasi, a citizen of Sabzevar, has been held in Sabzevar prison for over 390 days without a trial. His case, involving charges such as moharebeh and propaganda against the regime, is under review at the Sabzevar Revolutionary Court. He suffers from bipolar disorder and his lithium medication was stopped after one day.",
+        "time": "16:35",
+        "ts": 1786638917
       }
     ],
     "language": "en",
-    "packId": "20260813-60",
-    "sequence": 60,
+    "packId": "20260813-61",
+    "sequence": 61,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:33"
+    "updatedAt": "16:37"
   },
   "verified": true
 }
