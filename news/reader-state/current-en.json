@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260813-27 seq=27 exp=1786790177",
+      "advancedStatus": "pack_id=20260813-28 seq=28 exp=1786790325",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:36",
+      "lastChecked": "10:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-13",
-    "expiresAt": "2026-08-15 10:36",
+    "expiresAt": "2026-08-15 10:38",
     "items": [
-      {
-        "channel": "خبرگزاری هرانا",
-        "language": "en",
-        "text": "The Ministry of Education's appellate board issued new rulings against three active teachers' union members in Kurdistan province. Majid Karimi and Ghiyas Nemati were sentenced to retirement. Jahangir Bahmani was sentenced to six months suspension from service.",
-        "time": "10:37",
-        "ts": 1786531049
-      },
       {
         "channel": "ایران اینترنشنال",
         "language": "en",
@@ -728,14 +721,21 @@
         "text": "The 26th season of the Iranian Premier Football League is starting. Despite the economic crisis caused by the war, Iranian clubs have spent heavily in the transfer market. Mozdak Mirzayi has provided explanations about the billion-dollar expenses in the league.",
         "time": "10:35",
         "ts": 1786617356
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abbas Araghchi, Iran's foreign minister, accused the signatories of the EU and 32 other countries' statement against the execution of protesters in Iran of preaching about human rights. He said these countries lost their moral superiority due to supporting attacks on the Islamic Republic. These remarks were made in an interview with an Iran International reporter.",
+        "time": "10:38",
+        "ts": 1786617496
       }
     ],
     "language": "en",
-    "packId": "20260813-27",
-    "sequence": 27,
+    "packId": "20260813-28",
+    "sequence": 28,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:36"
+    "updatedAt": "10:38"
   },
   "verified": true
 }
