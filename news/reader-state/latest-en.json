@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260813-71 seq=71 exp=1786818490",
+      "advancedStatus": "pack_id=20260813-72 seq=72 exp=1786818951",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:28",
+      "lastChecked": "18:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-13",
-    "expiresAt": "2026-08-15 18:28",
+    "expiresAt": "2026-08-15 18:35",
     "items": [
       {
         "channel": "iranintl",
@@ -700,14 +700,21 @@
         "text": "Four men were killed in the village of Mohammadabad Kataki in Jazmourian county. The killings were motivated by honor-related reasons. Three suspects have been arrested in connection with the case.",
         "time": "18:27",
         "ts": 1786645670
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Takhtam Ramazani, a non-political prisoner in Vakilabad Prison in Mashhad, died due to a ruptured gallbladder and delayed hospital transfer. She suffered severe pain for four days before her death and did not receive proper medical care despite repeated follow-ups. This incident occurred on Tuesday, August 11, 2026.",
+        "time": "18:35",
+        "ts": 1786646125
       }
     ],
     "language": "en",
-    "packId": "20260813-71",
-    "sequence": 71,
+    "packId": "20260813-72",
+    "sequence": 72,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:28"
+    "updatedAt": "18:35"
   },
   "verified": true
 }
