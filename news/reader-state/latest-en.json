@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260814-01 seq=1 exp=1786838643",
+      "advancedStatus": "pack_id=20260814-02 seq=2 exp=1786839478",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:04",
+      "lastChecked": "00:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-14",
-    "expiresAt": "2026-08-16 00:04",
+    "expiresAt": "2026-08-16 00:17",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Current and former US officials told The Washington Post that the CIA did not find Israel's assessment of an immediate threat from the Islamic Republic against President Donald Trump convincing, but the Secret Service carried out an unprecedented security operation and secretly took him out of Turkey. The threat information was provided by Israel to the US, but CIA analysts assessed it as having 'low confidence'. However, to avoid any risk, the Secret Service moved Trump after the NATO meeting in Ankara secretly on another military plane to Britain.",
-        "time": "00:13",
-        "ts": 1786580020
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -623,14 +616,21 @@
         "text": "The US Treasury Secretary announced that Washington plans to implement unprecedented economic isolation measures against Iran. These measures include severe economic isolation and a blockade of the Strait of Hormuz. More details will be released next week.",
         "time": "00:03",
         "ts": 1786665824
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Following the war between the US and Israel with Iran, fuel prices have risen, doubling demand for heavy electric trucks made in China in Asian markets. Exports of these trucks reached 16,823 units in the past four months. Sunny company expects export growth to Asia, Africa, and Latin America to continue.",
+        "time": "00:17",
+        "ts": 1786666661
       }
     ],
     "language": "en",
-    "packId": "20260814-01",
-    "sequence": 1,
+    "packId": "20260814-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:04"
+    "updatedAt": "00:17"
   },
   "verified": true
 }
