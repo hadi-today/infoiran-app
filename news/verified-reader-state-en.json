@@ -1,34 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260813-81 seq=81 exp=1786835926",
+      "advancedStatus": "pack_id=20260814-01 seq=1 exp=1786838643",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:18",
+      "lastChecked": "00:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-08-13",
-    "expiresAt": "2026-08-15 23:18",
+    "date": "2026-08-14",
+    "expiresAt": "2026-08-16 00:04",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Journalists accompanying Donald Trump were unaware of a security operation and believed he was on the same plane. Trump secretly left Turkey on another military plane, and the plane's curtains were lowered by secret service orders. Trump acknowledged security concerns related to alleged threats from Iran but did not accept his direct role in the plane change.",
-        "time": "23:36",
-        "ts": 1786577812
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Abdul El-Sayed, a Democratic Senate candidate from Michigan, has repeatedly defended Islamic Sharia law and stated his lifelong commitment to it. He confirmed this in a 2009 interview and requested that certain Islamic books not be filmed during his campaign. In 2022, he compared a Sharia ban proposal in Oklahoma to historical events in the state.",
-        "time": "23:59",
-        "ts": 1786579196
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -630,14 +616,21 @@
         "text": "Mohammed bin Salman and Brad Cooper discussed defense cooperation and efforts to reduce regional tensions. The meeting took place on August 13. No further details about the talks have been released.",
         "time": "23:18",
         "ts": 1786663104
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US Treasury Secretary announced that Washington plans to implement unprecedented economic isolation measures against Iran. These measures include severe economic isolation and a blockade of the Strait of Hormuz. More details will be released next week.",
+        "time": "00:03",
+        "ts": 1786665824
       }
     ],
     "language": "en",
-    "packId": "20260813-81",
-    "sequence": 81,
+    "packId": "20260814-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:18"
+    "updatedAt": "00:04"
   },
   "verified": true
 }
