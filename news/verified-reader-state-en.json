@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260814-41 seq=41 exp=1786885960",
+      "advancedStatus": "pack_id=20260814-43 seq=43 exp=1786886516",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:12",
+      "lastChecked": "13:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,36 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-14",
-    "expiresAt": "2026-08-16 13:12",
+    "expiresAt": "2026-08-16 13:21",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Leila Moallemi, a resident of Mashhad, was sentenced to 10 years in prison by the Revolutionary Court of Mashhad. The sentence was issued due to sending a voice message and providing information to a foreign media outlet during the war. The sentence was recently communicated to her in Vakilabad prison.",
-        "time": "13:12",
-        "ts": 1786626776
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The French Ministry of Foreign Affairs called on Iranian authorities to stop using executions as a tool for repression. The ministry demanded the release of arbitrarily detained individuals and respect for human rights in Iran. This response came after Abbas Araghchi's remarks regarding France's condemnation of the execution of protesters.",
-        "time": "13:13",
-        "ts": 1786626790
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mojtaba Khamenei, the new leader of the Islamic Republic, appointed seven senior military and security officials on August 10. These appointments followed the war with the US and Israel. The role of military and security figures in the power structure of the Islamic Republic has become more prominent.",
-        "time": "13:13",
-        "ts": 1786626828
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Javad Safari, detained during the December protests, has been sentenced to five years in prison. He was tried without a lawyer and charged with insulting the Supreme Leader and encouraging youth protests. His wife, Fatemeh Safari, was also sentenced to two years and seven months and released with an electronic bracelet.",
-        "time": "13:14",
-        "ts": 1786626842
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -700,14 +672,28 @@
         "text": "The Tehran Teachers' Union expressed concern over increased security and judicial pressures on teachers, including summons, imprisonment, and exile. The union called for the cancellation of sentences issued against several teachers. Many teachers are unable to report their situation due to fear of intensified pressures.",
         "time": "13:11",
         "ts": 1786713097
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "On Thursday evening, a clash involving sticks occurred among some attendees in the courtyard of the eighth Shia Imam and religious groups in Mashhad. The Secretary of the Khorasan Razavi Security Council stated that the clash resulted in two injuries. Fars News Agency emphasized that these events took place outside the holy shrine.",
+        "time": "13:17",
+        "ts": 1786713445
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Positions of American forces near Erbil airport were targeted by a drone attack. One of the drones directly hit one of the positions. Erbil airport was temporarily closed.",
+        "time": "13:20",
+        "ts": 1786713623
       }
     ],
     "language": "en",
-    "packId": "20260814-41",
-    "sequence": 41,
+    "packId": "20260814-43",
+    "sequence": 43,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:12"
+    "updatedAt": "13:21"
   },
   "verified": true
 }
