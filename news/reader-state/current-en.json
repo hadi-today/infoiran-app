@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260814-08 seq=8 exp=1786845129",
+      "advancedStatus": "pack_id=20260814-09 seq=9 exp=1786845408",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:52",
+      "lastChecked": "01:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-14",
-    "expiresAt": "2026-08-16 01:52",
+    "expiresAt": "2026-08-16 01:56",
     "items": [
       {
         "channel": "iranintl",
@@ -658,14 +658,21 @@
         "text": "JD Vance, the US Vice President, stated that the US will ultimately have a stronger hand in the ongoing tensions with Iran and that Iran will not have nuclear weapons. He also pointed out Iran's lack of commitment to its obligations and emphasized that the US focuses on energy issues and military aspects. Vance added that the US has many tools to achieve its goals.",
         "time": "01:51",
         "ts": 1786672309
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Mohammed bin Salman, the Crown Prince of Saudi Arabia, met with Admiral Brad Cooper, the commander of CENTCOM, in Jeddah. They discussed defense cooperation and regional developments. Efforts to reduce tensions and enhance security were also reviewed.",
+        "time": "01:53",
+        "ts": 1786672389
       }
     ],
     "language": "en",
-    "packId": "20260814-08",
-    "sequence": 8,
+    "packId": "20260814-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:52"
+    "updatedAt": "01:56"
   },
   "verified": true
 }
