@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260814-07 seq=7 exp=1786844573",
+      "advancedStatus": "pack_id=20260814-08 seq=8 exp=1786845129",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:42",
+      "lastChecked": "01:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-14",
-    "expiresAt": "2026-08-16 01:42",
+    "expiresAt": "2026-08-16 01:52",
     "items": [
       {
         "channel": "iranintl",
@@ -651,14 +651,21 @@
         "text": "Incheon Airport in South Korea became the busiest airport in the world for international passengers in the first half of 2026, handling over 38 million travelers. The increase in transit passengers and reduced flight capacity to Middle Eastern hubs contributed to this change. Heathrow Airport in London and Changi Airport in Singapore ranked second and third respectively.",
         "time": "01:42",
         "ts": 1786671756
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "JD Vance, the US Vice President, stated that the US will ultimately have a stronger hand in the ongoing tensions with Iran and that Iran will not have nuclear weapons. He also pointed out Iran's lack of commitment to its obligations and emphasized that the US focuses on energy issues and military aspects. Vance added that the US has many tools to achieve its goals.",
+        "time": "01:51",
+        "ts": 1786672309
       }
     ],
     "language": "en",
-    "packId": "20260814-07",
-    "sequence": 7,
+    "packId": "20260814-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:42"
+    "updatedAt": "01:52"
   },
   "verified": true
 }
