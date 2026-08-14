@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260814-02 seq=2 exp=1786839478",
+      "advancedStatus": "pack_id=20260814-03 seq=3 exp=1786839809",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:17",
+      "lastChecked": "00:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-14",
-    "expiresAt": "2026-08-16 00:17",
+    "expiresAt": "2026-08-16 00:23",
     "items": [
       {
         "channel": "iranintl",
@@ -623,14 +623,21 @@
         "text": "Following the war between the US and Israel with Iran, fuel prices have risen, doubling demand for heavy electric trucks made in China in Asian markets. Exports of these trucks reached 16,823 units in the past four months. Sunny company expects export growth to Asia, Africa, and Latin America to continue.",
         "time": "00:17",
         "ts": 1786666661
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "JD Vance, the US Vice President, stated that the main priority of the Trump administration is to keep oil and gasoline prices low for American citizens. He said the US government is trying to ensure Gulf countries continue oil exports to maintain energy market stability. The next priority is to prevent Tehran from acquiring nuclear weapons.",
+        "time": "00:23",
+        "ts": 1786666990
       }
     ],
     "language": "en",
-    "packId": "20260814-02",
-    "sequence": 2,
+    "packId": "20260814-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:17"
+    "updatedAt": "00:23"
   },
   "verified": true
 }
