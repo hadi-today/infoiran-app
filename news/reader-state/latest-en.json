@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260814-23 seq=23 exp=1786866304",
+      "advancedStatus": "pack_id=20260814-24 seq=24 exp=1786866915",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:45",
+      "lastChecked": "07:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-14",
-    "expiresAt": "2026-08-16 07:45",
+    "expiresAt": "2026-08-16 07:55",
     "items": [
       {
         "channel": "iranintl",
@@ -693,14 +693,21 @@
         "text": "The Deputy Nursing Minister announced a shortage of about 100,000 nurses in the country. Recruitment in recent years has only replaced retired and departed staff. The Ministry of Health requested to hire 60,000 new staff but has not received a response.",
         "time": "07:44",
         "ts": 1786693480
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mojtaba Jabbari, former head coach of Esteghlal, criticized the team's condition and management issues. He said the team's path after being handed over to the Khalij Fars company was unexpected and inappropriate. Jabbari also explained that the team's absence from the playoff match was a decision made by the club's management.",
+        "time": "07:54",
+        "ts": 1786694098
       }
     ],
     "language": "en",
-    "packId": "20260814-23",
-    "sequence": 23,
+    "packId": "20260814-24",
+    "sequence": 24,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:45"
+    "updatedAt": "07:55"
   },
   "verified": true
 }
