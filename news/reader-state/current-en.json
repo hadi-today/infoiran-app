@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260814-04 seq=4 exp=1786840891",
+      "advancedStatus": "pack_id=20260814-05 seq=5 exp=1786841690",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:41",
+      "lastChecked": "00:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-14",
-    "expiresAt": "2026-08-16 00:41",
+    "expiresAt": "2026-08-16 00:54",
     "items": [
       {
         "channel": "iranintl",
@@ -637,14 +637,21 @@
         "text": "The Washington Post editorial stated that an agreement with the Islamic Republic rewards its destructive behavior and will lead to instability. The newspaper urged Donald Trump to stop negotiations and continue the policy of containing the Islamic Republic. It also emphasized that economic pressure and oil export restrictions should continue.",
         "time": "00:41",
         "ts": 1786668073
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Marco Rubio, the US Secretary of State, will visit the US Central Command headquarters in Florida on the morning of Friday, August 14. The US State Department has not released further details about the purpose of this visit.",
+        "time": "00:54",
+        "ts": 1786668871
       }
     ],
     "language": "en",
-    "packId": "20260814-04",
-    "sequence": 4,
+    "packId": "20260814-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:41"
+    "updatedAt": "00:54"
   },
   "verified": true
 }
