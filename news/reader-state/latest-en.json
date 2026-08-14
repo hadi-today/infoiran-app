@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260814-62 seq=62 exp=1786895635",
+      "advancedStatus": "pack_id=20260814-63 seq=63 exp=1786896197",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:53",
+      "lastChecked": "16:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-14",
-    "expiresAt": "2026-08-16 15:53",
+    "expiresAt": "2026-08-16 16:03",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Abdolali Rahimi Mozaffari described the naval blockade as a trick and said the Islamic Republic should counter it with active diplomacy and military power. He considered negotiation a tool to consolidate achievements. He also emphasized that the enemy attacked Iran with various goals but has failed.",
-        "time": "15:58",
-        "ts": 1786636724
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Benjamin Netanyahu, Israel's Prime Minister, called Britain the 'Islamic Republic of Britain.' Manshe Amir, a Middle East expert, said London's interests in the Arab world take precedence over cooperation with Israel. These unprecedented remarks were made against Britain.",
-        "time": "16:02",
-        "ts": 1786636961
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -721,14 +707,21 @@
         "text": "The Counter-Terrorism Organization of the Kurdistan Region of Iraq announced that at least three drones were destroyed over Erbil on the morning of Friday, August 14. The attack caused no damage, and the defense systems of the US-led coalition forces intercepted the drones. Since February 28, 2026, more than 965 missiles and drones have been used in attacks on the Kurdistan Region.",
         "time": "15:50",
         "ts": 1786722638
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Esmail Saghab Esfahani stated that no final decision has been made regarding changes in gasoline price or supply method. A related plan in Kerman province was proposed but its implementation has been stopped. The Energy Commission of the parliament will review the issue next week, and representatives oppose increasing gasoline prices.",
+        "time": "16:02",
+        "ts": 1786723375
       }
     ],
     "language": "en",
-    "packId": "20260814-62",
-    "sequence": 62,
+    "packId": "20260814-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:53"
+    "updatedAt": "16:03"
   },
   "verified": true
 }
