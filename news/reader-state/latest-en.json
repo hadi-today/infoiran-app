@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260814-43 seq=43 exp=1786886516",
+      "advancedStatus": "pack_id=20260814-45 seq=45 exp=1786887437",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:21",
+      "lastChecked": "13:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-14",
-    "expiresAt": "2026-08-16 13:21",
+    "expiresAt": "2026-08-16 13:37",
     "items": [
       {
         "channel": "iranintl",
@@ -686,14 +686,49 @@
         "text": "Positions of American forces near Erbil airport were targeted by a drone attack. One of the drones directly hit one of the positions. Erbil airport was temporarily closed.",
         "time": "13:20",
         "ts": 1786713623
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "After two rounds of military conflict between Israel and the Islamic Republic, a group of Iranians and Israelis are working to bring the two nations closer. Members of the Cyrus Foundation held a conference in Tel Aviv to announce their plans to support Iranians inside the country. This report was prepared by Babak Es-haqi from Iran International.",
+        "time": "13:21",
+        "ts": 1786713715
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli Prime Minister's Office stated that the Israel-US coalition has weakened the Iran axis. It described the current situation as paving the way for new paths to peace in the Middle East. It also highlighted the importance of the Abraham Accords signed six years ago with the cooperation of Donald Trump.",
+        "time": "13:28",
+        "ts": 1786714113
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Benjamin Netanyahu, Israel's Prime Minister, said in a podcast that Britain has become a kind of 'Islamic Republic of Britain.' He made these remarks in response to the UK government's changed stance on Israel and the Gaza war. Netanyahu's spokesperson has defended these statements.",
+        "time": "13:29",
+        "ts": 1786714186
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Nima Gholamali Pour asked the Swedish Minister of Justice for an explanation about the influence of agents affiliated with the Islamic Republic and other foreign powers. The Minister of Justice considered these agents a serious threat to Sweden's security. He also announced increased monitoring of foreign financial sources and religious institutions' activities.",
+        "time": "13:30",
+        "ts": 1786714238
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Donald Trump emphasized increasing economic pressure on Iran by sharing Scott Bassett's interview. Bassett announced new measures against the Islamic Republic and continuation of the blockade of Iranian ports. This blockade will prevent the entry and exit of goods to and from Iranian ports.",
+        "time": "13:35",
+        "ts": 1786714501
       }
     ],
     "language": "en",
-    "packId": "20260814-43",
-    "sequence": 43,
+    "packId": "20260814-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:21"
+    "updatedAt": "13:37"
   },
   "verified": true
 }
