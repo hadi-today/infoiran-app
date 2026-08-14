@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260814-50 seq=50 exp=1786889575",
+      "advancedStatus": "pack_id=20260814-51 seq=51 exp=1786889914",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:12",
+      "lastChecked": "14:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-14",
-    "expiresAt": "2026-08-16 14:12",
+    "expiresAt": "2026-08-16 14:18",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The head of the Food and Drug Organization stated that part of Iran's strategic reserves of medicine and medical equipment were used during the 40-day war. These reserves were intended for emergency and critical situations. Additionally, the wounded from the war and protests received free medicine and equipment.",
-        "time": "14:15",
-        "ts": 1786630535
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -749,14 +742,21 @@
         "text": "Sara Bazoubandi spoke about Ali Ansari's financial activities and his connection to economic networks in the Islamic Republic. She said Ansari's link to Mojtaba Khamenei is just the tip of the iceberg of a corruption and money laundering network. The US and European countries have had information about these networks for years and may target lists of related individuals and companies to increase pressure on the regime.",
         "time": "14:12",
         "ts": 1786716750
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "People in Bandar Abbas held an ancient ritual on the last Wednesday of the month of Safar at the Soro coast. Participants recited Quranic verses and crossed seven waves to send away sorrow and hardships of the month of Safar into the waters of the Persian Gulf. They wished for health and peace in the coming days.",
+        "time": "14:18",
+        "ts": 1786717091
       }
     ],
     "language": "en",
-    "packId": "20260814-50",
-    "sequence": 50,
+    "packId": "20260814-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:12"
+    "updatedAt": "14:18"
   },
   "verified": true
 }
