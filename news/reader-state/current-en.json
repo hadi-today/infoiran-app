@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260814-21 seq=21 exp=1786865027",
+      "advancedStatus": "pack_id=20260814-22 seq=22 exp=1786865404",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:23",
+      "lastChecked": "07:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-14",
-    "expiresAt": "2026-08-16 07:23",
+    "expiresAt": "2026-08-16 07:30",
     "items": [
       {
         "channel": "iranintl",
@@ -679,14 +679,21 @@
         "text": "Nigel Farage regained his seat in the UK Parliament in the Clacton by-election with over 22,000 votes. His main opponent was a comedic character named 'Count Binface,' and major UK parties boycotted the election. Farage initiated the election to strengthen his position against financial misconduct allegations.",
         "time": "07:23",
         "ts": 1786692200
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A tourism activist in southern Iran shared images of local people's spontaneous efforts to clean up oil pollution on the Shib Deraz beach of Qeshm Island. The operation used about 10,000 oil-absorbing pads. Local residents also contributed by providing oil pads, boats, and food supplies.",
+        "time": "07:29",
+        "ts": 1786692586
       }
     ],
     "language": "en",
-    "packId": "20260814-21",
-    "sequence": 21,
+    "packId": "20260814-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:23"
+    "updatedAt": "07:30"
   },
   "verified": true
 }
