@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260814-83 seq=83 exp=1786914723",
+      "advancedStatus": "pack_id=20260814-84 seq=84 exp=1786916502",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:12",
+      "lastChecked": "21:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-14",
-    "expiresAt": "2026-08-16 21:12",
+    "expiresAt": "2026-08-16 21:41",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -742,14 +742,21 @@
         "text": "A luxury Hilton hotel in Germany has stopped accepting guests following the EU sanctions on Ali Ansari. The sanctions have affected Ansari's extensive hotel investments in several European countries. Financial restrictions and asset freezes indicate the sanctions' effects are gradually becoming apparent.",
         "time": "21:10",
         "ts": 1786741803
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abbas Araghchi stated that Tehran has not yet decided to resume negotiations with the US. Message exchanges via Qatar and Pakistan do not mean negotiations have started. He also mentioned that talks with Oman continue and previous channels are no longer effective.",
+        "time": "21:41",
+        "ts": 1786743684
       }
     ],
     "language": "en",
-    "packId": "20260814-83",
-    "sequence": 83,
+    "packId": "20260814-84",
+    "sequence": 84,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:12"
+    "updatedAt": "21:41"
   },
   "verified": true
 }
