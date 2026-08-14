@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260814-19 seq=19 exp=1786862769",
+      "advancedStatus": "pack_id=20260814-20 seq=20 exp=1786863249",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:46",
+      "lastChecked": "06:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-14",
-    "expiresAt": "2026-08-16 06:46",
+    "expiresAt": "2026-08-16 06:54",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The chairman of the board of the Association of Air Conditioning System Manufacturers announced a 10 to 25 percent increase in the price of air conditioners. This price increase has led some consumers to choose fans and misting fans instead of air conditioners. The price increase varies depending on the brand and technical specifications.",
-        "time": "06:49",
-        "ts": 1786603759
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The head of the judiciary in Khorramabad announced the issuance and implementation of alternative sentences to imprisonment for some defendants. The convicted are required to distribute livelihood aid packages, plant saplings, prepare entertainment packages, and distribute school supplies.",
-        "time": "06:51",
-        "ts": 1786603876
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -686,14 +672,21 @@
         "text": "Homayoun Sameyh Najafabadi stated that due to insecurity in the Strait of Hormuz, transportation and insurance costs have increased, leading to a significant rise in drug prices in the country. There are serious shortages and drug smuggling from neighboring countries, especially Turkey. He emphasized that these issues are not the fault of the Food and Drug Organization.",
         "time": "06:42",
         "ts": 1786689731
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Canada considers Washington's proposal to reduce steel and aluminum tariffs insufficient. Officials from both countries are trying to reach a new agreement before the 50% tariffs take effect on August 19. This issue was reported by Mahsa Mortazavi.",
+        "time": "06:53",
+        "ts": 1786690432
       }
     ],
     "language": "en",
-    "packId": "20260814-19",
-    "sequence": 19,
+    "packId": "20260814-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:46"
+    "updatedAt": "06:54"
   },
   "verified": true
 }
