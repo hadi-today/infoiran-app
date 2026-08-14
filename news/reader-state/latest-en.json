@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260814-85 seq=85 exp=1786917209",
+      "advancedStatus": "pack_id=20260814-86 seq=86 exp=1786917485",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:53",
+      "lastChecked": "21:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-14",
-    "expiresAt": "2026-08-16 21:53",
+    "expiresAt": "2026-08-16 21:58",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -756,14 +756,21 @@
         "text": "Shayan Samiei stated that the USS Abraham Lincoln has been replaced by the USS George Washington in the Middle East. He said the naval blockade of Iran continues strongly and the US seeks to increase pressure on the Islamic Republic. Donald Trump also emphasized the importance of controlling the Strait of Hormuz.",
         "time": "21:53",
         "ts": 1786744391
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abu Dhabi National Oil Company announced that one of its vessels was attacked on Friday, August 14, in the Strait of Hormuz. No one was injured in the attack and the situation is under control. No details have been released about the attacker or the extent of the damage.",
+        "time": "21:55",
+        "ts": 1786744534
       }
     ],
     "language": "en",
-    "packId": "20260814-85",
-    "sequence": 85,
+    "packId": "20260814-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:53"
+    "updatedAt": "21:58"
   },
   "verified": true
 }
