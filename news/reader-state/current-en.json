@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260814-71 seq=71 exp=1786900390",
+      "advancedStatus": "pack_id=20260814-72 seq=72 exp=1786900678",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:13",
+      "lastChecked": "17:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-14",
-    "expiresAt": "2026-08-16 17:13",
+    "expiresAt": "2026-08-16 17:17",
     "items": [
       {
         "channel": "iranintl",
@@ -714,14 +714,21 @@
         "text": "A supertanker belonging to the National Iranian Oil Company was observed loading two million barrels of crude oil on Khark Island. This is the first such loading since the end of July. An oil market expert said this loading does not necessarily mean exports have resumed and the tanker may be used for storage.",
         "time": "17:12",
         "ts": 1786727561
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Nabi Mousavi-Fard, the Friday prayer leader of Ahvaz, stated that Iran's nuclear energy is an internal matter and the enemy is close to surrender. He referred to preemptive attacks by the armed forces on US investments in Jordan and the evacuation of US bases. He also warned that in the event of an infrastructural war, the enemy would regress faster than Iran.",
+        "time": "17:17",
+        "ts": 1786727846
       }
     ],
     "language": "en",
-    "packId": "20260814-71",
-    "sequence": 71,
+    "packId": "20260814-72",
+    "sequence": 72,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:13"
+    "updatedAt": "17:17"
   },
   "verified": true
 }
