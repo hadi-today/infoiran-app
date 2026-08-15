@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-48 seq=48 exp=1786973734",
+      "advancedStatus": "pack_id=20260815-49 seq=49 exp=1786974103",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:35",
+      "lastChecked": "13:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 13:35",
+    "expiresAt": "2026-08-17 13:41",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Donald Trump emphasized increasing economic pressure on Iran by sharing Scott Bassett's interview. Bassett announced new measures against the Islamic Republic and continuation of the blockade of Iranian ports. This blockade will prevent the entry and exit of goods to and from Iranian ports.",
-        "time": "13:35",
-        "ts": 1786714501
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -742,14 +735,21 @@
         "text": "Two citizens named Esmail Basar and his son Zakaria Basar were arrested by the intelligence forces in Bukan. With these arrests, the total number of detainees in recent days in this city reached eight. This news was reported by Harana News Agency.",
         "time": "13:33",
         "ts": 1786800834
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Two new cases of Caspian seal deaths were recorded on the coasts of Mazandaran. The total deaths of this species since the beginning of the year have reached 25. The carcasses were too decomposed for autopsy and were buried hygienically.",
+        "time": "13:41",
+        "ts": 1786801277
       }
     ],
     "language": "en",
-    "packId": "20260815-48",
-    "sequence": 48,
+    "packId": "20260815-49",
+    "sequence": 49,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:35"
+    "updatedAt": "13:41"
   },
   "verified": true
 }
