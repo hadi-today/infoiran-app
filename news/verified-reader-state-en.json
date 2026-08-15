@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-56 seq=56 exp=1786978922",
+      "advancedStatus": "pack_id=20260815-57 seq=57 exp=1786979105",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:02",
+      "lastChecked": "15:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 15:02",
+    "expiresAt": "2026-08-17 15:05",
     "items": [
       {
         "channel": "iranintl",
@@ -693,14 +693,21 @@
         "text": "The Israeli Prime Minister's Office announced that Hezbollah violated the ceasefire in Lebanon by attacking Israeli forces in a security zone. Three Israeli soldiers were seriously injured in the attack. In response, the Israeli army targeted Hezbollah's command headquarters.",
         "time": "15:01",
         "ts": 1786806103
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mahtab Gholizadeh stated that installment buying has expanded in Iran due to the worsening livelihood crisis. This type of purchase now includes items like meat, chicken, and medical services. This situation indicates a decline in purchasing power turning into a serious crisis.",
+        "time": "15:03",
+        "ts": 1786806214
       }
     ],
     "language": "en",
-    "packId": "20260815-56",
-    "sequence": 56,
+    "packId": "20260815-57",
+    "sequence": 57,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:02"
+    "updatedAt": "15:05"
   },
   "verified": true
 }
