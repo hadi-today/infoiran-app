@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-17 seq=17 exp=1786950124",
+      "advancedStatus": "pack_id=20260815-18 seq=18 exp=1786950380",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:02",
+      "lastChecked": "07:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 07:02",
+    "expiresAt": "2026-08-17 07:06",
     "items": [
       {
         "channel": "iranintl",
@@ -721,14 +721,21 @@
         "text": "Mes Shahrbabak club filed a complaint against Yaser Asani as an ineligible player after the first week match against Esteghlal, demanding a 3-0 result. The complaint was officially submitted to the match organizer and registered in the Football Federation system. Esteghlal's management believes Asani has no issues playing, but their rivals argue he cannot play due to the closed transfer window.",
         "time": "07:01",
         "ts": 1786777305
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Loghman Ghorbani and Mohammad Hajizadeh, two citizens from Bukan, were recently arrested by security forces. They have been transferred to an unknown location. No further details have been provided.",
+        "time": "07:05",
+        "ts": 1786777542
       }
     ],
     "language": "en",
-    "packId": "20260815-17",
-    "sequence": 17,
+    "packId": "20260815-18",
+    "sequence": 18,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:02"
+    "updatedAt": "07:06"
   },
   "verified": true
 }
