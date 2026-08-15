@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-51 seq=51 exp=1786975185",
+      "advancedStatus": "pack_id=20260815-52 seq=52 exp=1786975694",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:59",
+      "lastChecked": "14:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 13:59",
+    "expiresAt": "2026-08-17 14:08",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Some citizens have reported a sharp increase in prices and frequent power outages in Iran. The electricity bill in August reached one million nine hundred and fifty thousand tomans. Additionally, a power outage caused the death of a patient dependent on a respiratory device.",
-        "time": "14:02",
-        "ts": 1786716122
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -721,14 +714,21 @@
         "text": "Ali Khazarian, a member of the National Security Commission of the Parliament, warned about the dangers of yielding on the Strait of Hormuz issue. He said that retreating in this matter would increase enemy pressure on the country. Khazarian emphasized that opening the Strait of Hormuz is interpreted as weakness and retreat.",
         "time": "13:59",
         "ts": 1786802354
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Houshang Hasan Yari pointed out ambiguities regarding the claim of the captivity of three Su-24 pilots in Qatar. He questioned why the Islamic Republic raised the issue six months after the incident. He also warned that this claim could weaken Iran's relations with Qatar.",
+        "time": "14:07",
+        "ts": 1786802876
       }
     ],
     "language": "en",
-    "packId": "20260815-51",
-    "sequence": 51,
+    "packId": "20260815-52",
+    "sequence": 52,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:59"
+    "updatedAt": "14:08"
   },
   "verified": true
 }
