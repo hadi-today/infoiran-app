@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-41 seq=41 exp=1786970054",
+      "advancedStatus": "pack_id=20260815-42 seq=42 exp=1786970794",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:34",
+      "lastChecked": "12:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 12:34",
+    "expiresAt": "2026-08-17 12:46",
     "items": [
       {
         "channel": "iranintl",
@@ -763,14 +763,21 @@
         "text": "Several underground and unauthorized tattoo salons in Ardabil were identified and sealed. Several people have been arrested in connection with this, and investigations to identify other accomplices continue. These centers operated by publishing images contrary to public decency.",
         "time": "12:33",
         "ts": 1786797235
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The head of the Yazd Emergency Center stated that most emergency calls and missions are related to traffic accidents. In the first four months of this year, 83,700 calls were made to the emergency center. Over 7,300 of these calls were related to traffic accidents.",
+        "time": "12:46",
+        "ts": 1786797967
       }
     ],
     "language": "en",
-    "packId": "20260815-41",
-    "sequence": 41,
+    "packId": "20260815-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:34"
+    "updatedAt": "12:46"
   },
   "verified": true
 }
