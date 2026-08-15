@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-34 seq=34 exp=1786965687",
+      "advancedStatus": "pack_id=20260815-35 seq=35 exp=1786965899",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:21",
+      "lastChecked": "11:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 11:21",
+    "expiresAt": "2026-08-17 11:24",
     "items": [
       {
         "channel": "iranintl",
@@ -763,14 +763,28 @@
         "text": "Donald Trump has faced multiple assassination attempts in the past two years. One attempt involved the IRGC trying to kill him with the help of a Pakistani man. Additionally, a shooting at his campaign rally in Pennsylvania resulted in Trump being wounded in the ear.",
         "time": "11:17",
         "ts": 1786792677
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Majidreza Khaki stated that about 700 tons of rice labeled as \"American rice\" have been imported into Iran through Iraq since the beginning of the year. These shipments were brought in by individuals without official registration and are not considered smuggling. There is no official plan for direct rice imports from the United States.",
+        "time": "11:23",
+        "ts": 1786792990
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Retirees of the Isfahan Steel Pension Fund protested today in front of the Isfahan governor's office due to unmet demands. They demanded the establishment of basic and supplementary insurance, payment of overdue medical expenses, and implementation of the third phase of salary adjustment. The protesters also emphasized improving their living conditions.",
+        "time": "11:23",
+        "ts": 1786793036
       }
     ],
     "language": "en",
-    "packId": "20260815-34",
-    "sequence": 34,
+    "packId": "20260815-35",
+    "sequence": 35,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:21"
+    "updatedAt": "11:24"
   },
   "verified": true
 }
