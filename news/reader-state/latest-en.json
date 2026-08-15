@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-83 seq=83 exp=1786993669",
+      "advancedStatus": "pack_id=20260815-84 seq=84 exp=1786993891",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:07",
+      "lastChecked": "19:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 19:07",
+    "expiresAt": "2026-08-17 19:11",
     "items": [
       {
         "channel": "iranintl",
@@ -770,14 +770,21 @@
         "text": "Due to rising prices and the livelihood crisis in Iran, 5 and 10 kilogram rice packages are being sold in installments at Etka chain stores. These stores are affiliated with the Ministry of Defense of the Islamic Republic. Previous reports also indicated that citizens have been forced to buy goods in installments due to low purchasing power.",
         "time": "19:05",
         "ts": 1786820702
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A program titled 'Outlook' with Mehdi Mahdavi Azad discusses the unprecedented economic war declared by the US against Iran. The full version of this program is available on YouTube. The program addresses economic developments between Iran and the US.",
+        "time": "19:07",
+        "ts": 1786820873
       }
     ],
     "language": "en",
-    "packId": "20260815-83",
-    "sequence": 83,
+    "packId": "20260815-84",
+    "sequence": 84,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:07"
+    "updatedAt": "19:11"
   },
   "verified": true
 }
