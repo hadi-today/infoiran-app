@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-11 seq=11 exp=1786947277",
+      "advancedStatus": "pack_id=20260815-12 seq=12 exp=1786947673",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:14",
+      "lastChecked": "06:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 06:14",
+    "expiresAt": "2026-08-17 06:21",
     "items": [
       {
         "channel": "iranintl",
@@ -721,14 +721,21 @@
         "text": "The football teams Shams Azar and Persepolis will face each other on Saturday, August 14, 2026, in the first match of the 26th Premier League. This match marks the start of the new Premier League season. To participate in the poll about the match result, visit the Iran International Sports Instagram page.",
         "time": "06:14",
         "ts": 1786774458
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Vahidi, commander of the IRGC, praised the performance of the Islamic Republic's military forces in southern Iran against the US. He wrote that these forces proved they can impose Islam's rule over the world by imposing their will on the enemy. He also emphasized that the Islamic Republic's armed forces have brought the US to its knees.",
+        "time": "06:20",
+        "ts": 1786774855
       }
     ],
     "language": "en",
-    "packId": "20260815-11",
-    "sequence": 11,
+    "packId": "20260815-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:14"
+    "updatedAt": "06:21"
   },
   "verified": true
 }
