@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-77 seq=77 exp=1786990108",
+      "advancedStatus": "pack_id=20260815-78 seq=78 exp=1786991164",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:08",
+      "lastChecked": "18:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 18:08",
+    "expiresAt": "2026-08-17 18:26",
     "items": [
       {
         "channel": "iranintl",
@@ -728,14 +728,21 @@
         "text": "Persepolis football team defeated Shams Azar 2-0 in the first week of the Iranian Premier League. The goals were scored by Mohammad Mahdi Mohibi and Mohammad Omri. Also, the match between Zob Ahan and Foolad Khuzestan ended in a goalless draw.",
         "time": "18:06",
         "ts": 1786817192
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The 60-day ceasefire period has ended. Washington is on the verge of unprecedented economic pressure against Tehran. This was discussed in the audio version of Titrawal with Niusha Saremi.",
+        "time": "18:25",
+        "ts": 1786818338
       }
     ],
     "language": "en",
-    "packId": "20260815-77",
-    "sequence": 77,
+    "packId": "20260815-78",
+    "sequence": 78,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:08"
+    "updatedAt": "18:26"
   },
   "verified": true
 }
