@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-54 seq=54 exp=1786977698",
+      "advancedStatus": "pack_id=20260815-55 seq=55 exp=1786978381",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:41",
+      "lastChecked": "14:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 14:41",
+    "expiresAt": "2026-08-17 14:53",
     "items": [
       {
         "channel": "iranintl",
@@ -686,14 +686,21 @@
         "text": "Shakila Ghasemi, a Bahá'í citizen residing in Kerman, was released from Kerman prison on bail. This release took place on Saturday, 24th of Mordad. Harana News Agency reported this news.",
         "time": "14:41",
         "ts": 1786804872
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Workers of Salman Farsi Petrochemical gathered today in front of the Mahshahr representative's office. They demand clarification of their employment status and protest the change from direct contracts to contractor status. These workers were previously laid off and have received a labor office ruling for reinstatement.",
+        "time": "14:52",
+        "ts": 1786805563
       }
     ],
     "language": "en",
-    "packId": "20260815-54",
-    "sequence": 54,
+    "packId": "20260815-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:41"
+    "updatedAt": "14:53"
   },
   "verified": true
 }
