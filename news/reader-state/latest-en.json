@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-94 seq=94 exp=1787001407",
+      "advancedStatus": "pack_id=20260815-95 seq=95 exp=1787002565",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:16",
+      "lastChecked": "21:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 21:16",
+    "expiresAt": "2026-08-17 21:36",
     "items": [
       {
         "channel": "iranintl",
@@ -777,14 +777,21 @@
         "text": "Ebrahim Azizi, head of the National Security and Foreign Policy Commission of the Parliament, commented on the US president in a tweet. He said the US president should worry about his own security instead of boasting about the Strait of Hormuz. Azizi warned that the US president might end up hiding in a food truck.",
         "time": "21:12",
         "ts": 1786828350
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Veisi, a senior analyst at Iran International, stated that the increase in gasoline prices and removal of quotas could cause dissatisfaction among millions of passenger drivers. Gasoline prices may rise to 87,000 tomans per liter, starting from Kerman. This issue could lead to widespread protests by drivers.",
+        "time": "21:35",
+        "ts": 1786829745
       }
     ],
     "language": "en",
-    "packId": "20260815-94",
-    "sequence": 94,
+    "packId": "20260815-95",
+    "sequence": 95,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:16"
+    "updatedAt": "21:36"
   },
   "verified": true
 }
