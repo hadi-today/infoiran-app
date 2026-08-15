@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-59 seq=59 exp=1786979476",
+      "advancedStatus": "pack_id=20260815-60 seq=60 exp=1786979773",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:11",
+      "lastChecked": "15:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 15:11",
+    "expiresAt": "2026-08-17 15:16",
     "items": [
       {
         "channel": "iranintl",
@@ -707,14 +707,21 @@
         "text": "The head of the government in Iran described recent price increases and their impact on citizens' livelihoods as natural, citing economic blockade and US oil sanctions as reasons. He mentioned that oil revenues have decreased and import routes have become longer. The continued closure of the Strait of Hormuz has also increased pressure on Iran's economy.",
         "time": "15:10",
         "ts": 1786806615
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Mohammad Bagherzadeh announced that three army pilots whose fighters crashed in Esfand are alive and detained by Qatari forces. These three pilots have been in detention for about six months, and the Qatari government has not allowed them to meet or contact their families. Previously, the status of these pilots was unclear.",
+        "time": "15:15",
+        "ts": 1786806952
       }
     ],
     "language": "en",
-    "packId": "20260815-59",
-    "sequence": 59,
+    "packId": "20260815-60",
+    "sequence": 60,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:11"
+    "updatedAt": "15:16"
   },
   "verified": true
 }
