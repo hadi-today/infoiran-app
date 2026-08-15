@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-81 seq=81 exp=1786993097",
+      "advancedStatus": "pack_id=20260815-82 seq=82 exp=1786993447",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:58",
+      "lastChecked": "19:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 18:58",
+    "expiresAt": "2026-08-17 19:04",
     "items": [
       {
         "channel": "iranintl",
@@ -756,14 +756,21 @@
         "text": "The Qatari Foreign Ministry spokesperson firmly denied the claims of Iranian pilots' detention. Qatar stated that it took necessary defensive actions after the airspace violation. Coordination has also been made for the delivery of one pilot's body.",
         "time": "18:57",
         "ts": 1786820278
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "At least six protests were held today, Saturday, 24 Mordad, in Tehran, Isfahan, Mahshahr, Sirjan, and Zirab. Participants included families of cystic fibrosis patients, retired steel and mining workers, petrochemical and municipal workers, and land applicants. They demanded attention to their demands.",
+        "time": "19:03",
+        "ts": 1786820623
       }
     ],
     "language": "en",
-    "packId": "20260815-81",
-    "sequence": 81,
+    "packId": "20260815-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:58"
+    "updatedAt": "19:04"
   },
   "verified": true
 }
