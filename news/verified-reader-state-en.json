@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-31 seq=31 exp=1786962770",
+      "advancedStatus": "pack_id=20260815-32 seq=32 exp=1786964440",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:32",
+      "lastChecked": "11:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 10:32",
+    "expiresAt": "2026-08-17 11:00",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Minister of Sports announced that the redesign of Azadi Stadium is nearly complete, with necessary spaces created according to FIFA and AFC regulations. The groundwork for the grass has been done, and planting will start in September. Building new stadiums for football teams is not currently planned by the government.",
-        "time": "10:56",
-        "ts": 1786705008
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The International Federation of Journalists condemned the 15-year prison sentence for Yalda Moeiri. Anthony Bellanger called for the charges against her to be dropped. Moeiri was sentenced in absentia to 15 years in prison and banned from cultural and artistic activities.",
-        "time": "10:57",
-        "ts": 1786705063
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -756,14 +742,21 @@
         "text": "A citizen in a video addressed to Mohseni Ejei and Ahmad Vahidi called for an end to warmongering. He emphasized that people have limited patience amid the livelihood crisis. This message was sent to the remaining government officials.",
         "time": "10:30",
         "ts": 1786789857
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The Ministry of Intelligence announced the arrest of two individuals in a case related to foreign infiltration and interference. Two French embassy employees present at the detention site were interrogated by security agents. These diplomats were handed over to the French embassy after the interrogation.",
+        "time": "11:00",
+        "ts": 1786791620
       }
     ],
     "language": "en",
-    "packId": "20260815-31",
-    "sequence": 31,
+    "packId": "20260815-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:32"
+    "updatedAt": "11:00"
   },
   "verified": true
 }
