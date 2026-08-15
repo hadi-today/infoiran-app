@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-104 seq=104 exp=1787009350",
+      "advancedStatus": "pack_id=20260815-105 seq=105 exp=1787010806",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:29",
+      "lastChecked": "23:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 23:29",
+    "expiresAt": "2026-08-17 23:53",
     "items": [
       {
         "channel": "iranintl",
@@ -798,14 +798,21 @@
         "text": "Five years after the Taliban's return to power, Afghanistan's administrative structure has undergone significant changes. Skilled personnel have left the administrations and women have been excluded. Additionally, graduates of religious schools have widely entered the government.",
         "time": "23:28",
         "ts": 1786836531
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of Iranians living in Brisbane, Australia, held a protest on Saturday against executions in Iran. Participants demanded the halt of death sentences and the release of political prisoners. The protest was organized by the group \"Iran Tomorrow - Responsibility Today.\"",
+        "time": "23:53",
+        "ts": 1786837982
       }
     ],
     "language": "en",
-    "packId": "20260815-104",
-    "sequence": 104,
+    "packId": "20260815-105",
+    "sequence": 105,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:29"
+    "updatedAt": "23:53"
   },
   "verified": true
 }
