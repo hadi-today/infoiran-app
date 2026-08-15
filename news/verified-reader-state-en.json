@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-63 seq=63 exp=1786980805",
+      "advancedStatus": "pack_id=20260815-64 seq=64 exp=1786981387",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:33",
+      "lastChecked": "15:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 15:33",
+    "expiresAt": "2026-08-17 15:43",
     "items": [
       {
         "channel": "iranintl",
@@ -735,14 +735,21 @@
         "text": "Iran International has identified 9 members of the Ministry of Intelligence corruption network known as the Shayan network. This network has failed to return about two thousand trillion tomans of oil money. Members include the son of Mohsen Rezaee, the son of Fallahian, the Minister of Intelligence under Hashemi, and the son-in-law of the Minister of Intelligence under Rouhani.",
         "time": "15:32",
         "ts": 1786807975
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mike Huckabee, the US ambassador to Israel, condemned Hezbollah's attack on Israeli forces and the violation of the ceasefire. He stated that Hezbollah knowingly injures Israeli soldiers expecting a response. Huckabee also claimed that Hezbollah gathers children and moves them to military zones to put them at risk.",
+        "time": "15:42",
+        "ts": 1786808567
       }
     ],
     "language": "en",
-    "packId": "20260815-63",
-    "sequence": 63,
+    "packId": "20260815-64",
+    "sequence": 64,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:33"
+    "updatedAt": "15:43"
   },
   "verified": true
 }
