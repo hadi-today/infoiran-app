@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-03 seq=3 exp=1786939020",
+      "advancedStatus": "pack_id=20260815-04 seq=4 exp=1786939607",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:57",
+      "lastChecked": "04:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 03:57",
+    "expiresAt": "2026-08-17 04:06",
     "items": [
       {
         "channel": "iranintl",
@@ -686,14 +686,21 @@
         "text": "Trump posted an image on Truth Social titled 'Siege - The Iron Wall' showing American warships exploding ships flying the Islamic Republic flag. The image depicts an iron wall in the sea. The ships with the Iranian flag are on one side of the wall.",
         "time": "03:56",
         "ts": 1786766202
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Kerry Bettsov, a former US Treasury official, said sanctions alone cannot overthrow the Islamic Republic but are designed to increase the cost of Tehran's military and nuclear activities. He emphasized that the impact of sanctions should be measured by how much these activities become more difficult and costly, not by the number of sanctions. Continuous enforcement of sanctions is more important than their number, and arms sanctions can reduce the efficiency of Iran's missiles and drones.",
+        "time": "04:06",
+        "ts": 1786766785
       }
     ],
     "language": "en",
-    "packId": "20260815-03",
-    "sequence": 3,
+    "packId": "20260815-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:57"
+    "updatedAt": "04:06"
   },
   "verified": true
 }
