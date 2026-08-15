@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-40 seq=40 exp=1786968791",
+      "advancedStatus": "pack_id=20260815-41 seq=41 exp=1786970054",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:13",
+      "lastChecked": "12:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 12:13",
+    "expiresAt": "2026-08-17 12:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The 20th Asian Games will be held from September 19 to October 4 in Nagoya and Aichi Prefecture, Japan. More than 15,000 athletes and officials from 45 countries will compete in 43 sports. This information was reported by an Iran International correspondent.",
-        "time": "12:24",
-        "ts": 1786710297
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Amirallah Shamqadri, secretary of the Security Council of Khorasan Razavi, reported a clash during the activities of two religious groups in Mashhad. The incident occurred around 22:30 at the beginning of Tabarsi Street and resulted in two injuries. The condition of the injured individuals has been reported as stable.",
-        "time": "12:25",
-        "ts": 1786710308
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ebrahim Azizi, head of the National Security Commission of the Parliament, stated that the US will not be left until its final defeat and it is better for them to flee the region. He added that Iran's decisive response forced the enemy to a ceasefire, marking a humiliating defeat for the US. Azizi also emphasized that by relying on Islamic symbols and lessons from the Ashura school, they pushed back the enemy and preserved territorial integrity.",
-        "time": "12:28",
-        "ts": 1786710501
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -777,14 +756,21 @@
         "text": "Kamran Ghazanfari, a Tehran representative, said the current problems in the country are due to wrong foreign policies and mismanagement by officials. He added that the negotiation team has adopted a weak and eager approach to negotiations. According to him, the current situation is unrelated to the war, and the best action is for the government to step aside.",
         "time": "12:12",
         "ts": 1786795971
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Several underground and unauthorized tattoo salons in Ardabil were identified and sealed. Several people have been arrested in connection with this, and investigations to identify other accomplices continue. These centers operated by publishing images contrary to public decency.",
+        "time": "12:33",
+        "ts": 1786797235
       }
     ],
     "language": "en",
-    "packId": "20260815-40",
-    "sequence": 40,
+    "packId": "20260815-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:13"
+    "updatedAt": "12:34"
   },
   "verified": true
 }
