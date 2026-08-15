@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-35 seq=35 exp=1786965899",
+      "advancedStatus": "pack_id=20260815-36 seq=36 exp=1786966259",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:24",
+      "lastChecked": "11:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 11:24",
+    "expiresAt": "2026-08-17 11:30",
     "items": [
       {
         "channel": "iranintl",
@@ -777,14 +777,21 @@
         "text": "Retirees of the Isfahan Steel Pension Fund protested today in front of the Isfahan governor's office due to unmet demands. They demanded the establishment of basic and supplementary insurance, payment of overdue medical expenses, and implementation of the third phase of salary adjustment. The protesters also emphasized improving their living conditions.",
         "time": "11:23",
         "ts": 1786793036
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen sent a video to Iran International criticizing a government ceremony with a symbolic coffin for Ali Khamenei. He described the ceremony as \"necrophilia\" and protested its expenses.",
+        "time": "11:30",
+        "ts": 1786793436
       }
     ],
     "language": "en",
-    "packId": "20260815-35",
-    "sequence": 35,
+    "packId": "20260815-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:24"
+    "updatedAt": "11:30"
   },
   "verified": true
 }
