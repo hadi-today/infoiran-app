@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-39 seq=39 exp=1786968195",
+      "advancedStatus": "pack_id=20260815-40 seq=40 exp=1786968791",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:03",
+      "lastChecked": "12:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 12:03",
+    "expiresAt": "2026-08-17 12:13",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The identities of two victims of the December 2025 protests, whose bodies were left in front of the Qods city governor's office, have been identified. Mehrdad Yaghoubi, a PhD student, was wounded by a bullet, and Mohammad Rostami, an employee and father of two, was killed while trying to help him. This report was published by Iran International.",
-        "time": "12:05",
-        "ts": 1786709151
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -777,14 +770,21 @@
         "text": "A citizen in Al-Ghadir market square in Ahvaz criticized Masoud Pezeshkian about the darkness caused by the power outage. He mentioned disruptions in activities and jobs. This video was published on social media.",
         "time": "12:01",
         "ts": 1786795274
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Kamran Ghazanfari, a Tehran representative, said the current problems in the country are due to wrong foreign policies and mismanagement by officials. He added that the negotiation team has adopted a weak and eager approach to negotiations. According to him, the current situation is unrelated to the war, and the best action is for the government to step aside.",
+        "time": "12:12",
+        "ts": 1786795971
       }
     ],
     "language": "en",
-    "packId": "20260815-39",
-    "sequence": 39,
+    "packId": "20260815-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:03"
+    "updatedAt": "12:13"
   },
   "verified": true
 }
