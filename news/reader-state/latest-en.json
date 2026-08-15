@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-57 seq=57 exp=1786979105",
+      "advancedStatus": "pack_id=20260815-59 seq=59 exp=1786979476",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:05",
+      "lastChecked": "15:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 15:05",
+    "expiresAt": "2026-08-17 15:11",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Shahram Khaledi stated that the US strategy against the Islamic Republic is not limited to economic collapse and the military option remains on the table. The Islamic Republic has mitigated some economic pressures by circumventing sanctions. Currently, both economic pressures and US military actions are intensifying simultaneously.",
-        "time": "15:08",
-        "ts": 1786720095
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -700,14 +693,28 @@
         "text": "Mahtab Gholizadeh stated that installment buying has expanded in Iran due to the worsening livelihood crisis. This type of purchase now includes items like meat, chicken, and medical services. This situation indicates a decline in purchasing power turning into a serious crisis.",
         "time": "15:03",
         "ts": 1786806214
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Mohammad Bagher Ghalibaf stated that after the killing of a senior Hezbollah commander in an Israeli attack on southern Beirut, Iran's negotiations with the US were halted. He said that following this attack, Iran threatened a strong response and rejected Trump's tweet about lifting the siege and opening the Strait of Hormuz. These events highlight the intensity and complexity of the negotiations.",
+        "time": "15:07",
+        "ts": 1786806478
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The head of the government in Iran described recent price increases and their impact on citizens' livelihoods as natural, citing economic blockade and US oil sanctions as reasons. He mentioned that oil revenues have decreased and import routes have become longer. The continued closure of the Strait of Hormuz has also increased pressure on Iran's economy.",
+        "time": "15:10",
+        "ts": 1786806615
       }
     ],
     "language": "en",
-    "packId": "20260815-57",
-    "sequence": 57,
+    "packId": "20260815-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:05"
+    "updatedAt": "15:11"
   },
   "verified": true
 }
