@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-02 seq=2 exp=1786934616",
+      "advancedStatus": "pack_id=20260815-03 seq=3 exp=1786939020",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:43",
+      "lastChecked": "03:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 02:43",
+    "expiresAt": "2026-08-17 03:57",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Kuwait's oil industry has faced a sharp decline in exports after six months of war between the US and the Islamic Republic. This economic crisis is described as the largest since the Iraqi invasion in 1990. Kuwaiti officials warn that continued disruption in the Strait of Hormuz could worsen economic damages.",
-        "time": "03:11",
-        "ts": 1786677114
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "American officials say the United States has the capability to continue the naval blockade of the Islamic Republic indefinitely. Tehran has conditioned the reopening of the Strait of Hormuz on the lifting of sanctions and the release of its frozen assets. Ship traffic through the strait has decreased, and an attack on two ADNOC vessels has heightened concerns about shipping security.",
-        "time": "03:30",
-        "ts": 1786678240
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Australian Prime Minister called Iran's potential acquisition of nuclear weapons a major regional threat during a phone call with the US President. They also discussed the war, regional developments, and the AUKUS defense pact. Additionally, the Australian Prime Minister requested the removal of US tariffs on Australian goods, which the US President agreed to consider.",
-        "time": "03:47",
-        "ts": 1786679262
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -700,14 +679,21 @@
         "text": "Trump posted images titled \"This is no longer our tanker\" on Truth Social, showing him with the American flag and two American soldiers on a ship. In the first image, two men in white clothing are falling off the ship, but they were removed in the second image. The images also show a trampled flag of the Islamic Republic.",
         "time": "02:43",
         "ts": 1786761795
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Trump posted an image on Truth Social titled 'Siege - The Iron Wall' showing American warships exploding ships flying the Islamic Republic flag. The image depicts an iron wall in the sea. The ships with the Iranian flag are on one side of the wall.",
+        "time": "03:56",
+        "ts": 1786766202
       }
     ],
     "language": "en",
-    "packId": "20260815-02",
-    "sequence": 2,
+    "packId": "20260815-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:43"
+    "updatedAt": "03:57"
   },
   "verified": true
 }
