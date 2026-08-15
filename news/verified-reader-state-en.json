@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-99 seq=99 exp=1787005585",
+      "advancedStatus": "pack_id=20260815-100 seq=100 exp=1787006360",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:26",
+      "lastChecked": "22:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 22:26",
+    "expiresAt": "2026-08-17 22:39",
     "items": [
       {
         "channel": "iranintl",
@@ -770,14 +770,21 @@
         "text": "Despite the announced agreement between Iran and Oman on the shipping traffic map in the Strait of Hormuz, disagreements over its implementation continue and no joint statement has been issued. The US has emphasized continuing the naval blockade of Iran and announced new sanctions and economic pressures. This report was prepared by Marzieh Hosseini from Iran International.",
         "time": "22:22",
         "ts": 1786832527
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reza Alijani said the \"Women, Life, Freedom\" movement caused less polarization in society compared to the protests of December 2025. He added that polarization can give the Islamic Republic's security forces an excuse for more repression. Alijani attributed this polarization to some misguided and unaware opposition groups.",
+        "time": "22:39",
+        "ts": 1786833542
       }
     ],
     "language": "en",
-    "packId": "20260815-99",
-    "sequence": 99,
+    "packId": "20260815-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:26"
+    "updatedAt": "22:39"
   },
   "verified": true
 }
