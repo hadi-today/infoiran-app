@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-80 seq=80 exp=1786992389",
+      "advancedStatus": "pack_id=20260815-81 seq=81 exp=1786993097",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:46",
+      "lastChecked": "18:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 18:46",
+    "expiresAt": "2026-08-17 18:58",
     "items": [
       {
         "channel": "iranintl",
@@ -749,14 +749,21 @@
         "text": "Moroccan security forces dispersed migrants attempting to enter Ceuta from Fnideq on Saturday, August 15. Security measures were increased following social media messages calling for mass crossing. Rabat has warned that organizers of this call will face legal action.",
         "time": "18:45",
         "ts": 1786819551
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Qatari Foreign Ministry spokesperson firmly denied the claims of Iranian pilots' detention. Qatar stated that it took necessary defensive actions after the airspace violation. Coordination has also been made for the delivery of one pilot's body.",
+        "time": "18:57",
+        "ts": 1786820278
       }
     ],
     "language": "en",
-    "packId": "20260815-80",
-    "sequence": 80,
+    "packId": "20260815-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:46"
+    "updatedAt": "18:58"
   },
   "verified": true
 }
