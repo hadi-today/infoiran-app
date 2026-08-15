@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-09 seq=9 exp=1786945715",
+      "advancedStatus": "pack_id=20260815-10 seq=10 exp=1786946537",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:48",
+      "lastChecked": "06:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 05:48",
+    "expiresAt": "2026-08-17 06:02",
     "items": [
       {
         "channel": "iranintl",
@@ -707,14 +707,21 @@
         "text": "Donald Trump said the Islamic Republic is severely failing. He announced that the US might declare the Strait of Hormuz as its territory. He also mentioned the continuation of the naval blockade of Iranian ports and said no ship would pass without US permission.",
         "time": "05:48",
         "ts": 1786772895
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "During 36 years of Ali Khamenei's rule, dozens of political activists and artists wrote critical letters to him. These letters received no official response, and their authors faced threats, violence, and imprisonment. These actions show disregard for security consequences.",
+        "time": "06:02",
+        "ts": 1786773721
       }
     ],
     "language": "en",
-    "packId": "20260815-09",
-    "sequence": 9,
+    "packId": "20260815-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:48"
+    "updatedAt": "06:02"
   },
   "verified": true
 }
