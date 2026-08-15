@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-28 seq=28 exp=1786959882",
+      "advancedStatus": "pack_id=20260815-29 seq=29 exp=1786960901",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:44",
+      "lastChecked": "10:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-15",
-    "expiresAt": "2026-08-17 09:44",
+    "expiresAt": "2026-08-17 10:01",
     "items": [
       {
         "channel": "iranintl",
@@ -749,14 +749,21 @@
         "text": "The Tehran derby is scheduled for September 1 or 2, 2026, but if held in Shahr-e Qods, it will be played without spectators due to the local security council's opposition. The league intends to hold the derby in Mashhad, Isfahan, or Tabriz. Azadi Stadium will be unavailable at least for the first half of the season due to renovations and turf replacement.",
         "time": "09:44",
         "ts": 1786787057
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows that on the afternoon of Friday, August 14, smoke from a fire was seen around the Shahr-e Rey refinery.",
+        "time": "10:01",
+        "ts": 1786788075
       }
     ],
     "language": "en",
-    "packId": "20260815-28",
-    "sequence": 28,
+    "packId": "20260815-29",
+    "sequence": 29,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:44"
+    "updatedAt": "10:01"
   },
   "verified": true
 }
