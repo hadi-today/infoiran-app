@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-66 seq=66 exp=1787065380",
+      "advancedStatus": "pack_id=20260816-67 seq=67 exp=1787065676",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:03",
+      "lastChecked": "15:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 15:03",
+    "expiresAt": "2026-08-18 15:07",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mahtab Gholizadeh stated that installment buying has expanded in Iran due to the worsening livelihood crisis. This type of purchase now includes items like meat, chicken, and medical services. This situation indicates a decline in purchasing power turning into a serious crisis.",
-        "time": "15:03",
-        "ts": 1786806214
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -903,14 +896,21 @@
         "text": "Ahmad Ariaee-Nejad, the representative of Malayer, described the death of Mahsa Amini with an insulting phrase and called the protests following her death \"eight months of unrest.\" Mahsa Amini's parents considered these remarks offensive and responded strongly. They emphasized that such statements do not diminish their daughter's value and that her name will remain eternal in the country's history.",
         "time": "15:02",
         "ts": 1786892559
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli army announced that on August 16, it targeted a member of Islamic Jihad in Khan Yunis and a member of Hamas in Nuseirat with airstrikes. These individuals were involved in planning attacks against Israel, according to the army. The Israeli army used precision munitions and aerial surveillance to minimize civilian harm.",
+        "time": "15:07",
+        "ts": 1786892848
       }
     ],
     "language": "en",
-    "packId": "20260816-66",
-    "sequence": 66,
+    "packId": "20260816-67",
+    "sequence": 67,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:03"
+    "updatedAt": "15:07"
   },
   "verified": true
 }
