@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-62 seq=62 exp=1787063289",
+      "advancedStatus": "pack_id=20260816-63 seq=63 exp=1787063548",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:28",
+      "lastChecked": "14:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 14:28",
+    "expiresAt": "2026-08-18 14:32",
     "items": [
       {
         "channel": "harana",
@@ -889,14 +889,28 @@
         "text": "The UK Maritime Trade Operations announced that three ships were attacked within 72 hours in the Strait of Hormuz. Two tankers were attacked on August 14 and one cargo ship on August 15. The organization did not provide details about the attackers or possible damages.",
         "time": "14:27",
         "ts": 1786890453
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The head of Tehran's Management and Planning Organization reported a widespread shortage of urban and medical infrastructure. 32% of Tehran's population lives in worn-out areas and informal settlements. Tehran province faces a shortage of about 16,000 hospital beds and lacks infrastructure in various sectors.",
+        "time": "14:28",
+        "ts": 1786890501
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A number of Afghans and civil activists gathered in Paris to protest against the Taliban's rule and the human rights situation in Afghanistan. The protesters emphasized the extensive restrictions on women and girls and the silence of the international community. A report and an interview with a women's rights activist were also presented.",
+        "time": "14:28",
+        "ts": 1786890539
       }
     ],
     "language": "en",
-    "packId": "20260816-62",
-    "sequence": 62,
+    "packId": "20260816-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:28"
+    "updatedAt": "14:32"
   },
   "verified": true
 }
