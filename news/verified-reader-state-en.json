@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-84 seq=84 exp=1787073521",
+      "advancedStatus": "pack_id=20260816-85 seq=85 exp=1787073774",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:18",
+      "lastChecked": "17:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 17:18",
+    "expiresAt": "2026-08-18 17:22",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "The US government used Nechirvan Barzani to establish a secret communication channel with the commander of the IRGC during negotiations with Tehran. Barzani contacted Ahmad Vahidi and learned about the IRGC's support for resolving the crisis through negotiation. This report was published by Axios citing informed sources.",
         "time": "17:17",
         "ts": 1786900643
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Scott Bessent, the US Treasury Secretary, said Washington is preparing to impose unprecedented economic pressure on Tehran.",
+        "time": "17:18",
+        "ts": 1786900727
       }
     ],
     "language": "en",
-    "packId": "20260816-84",
-    "sequence": 84,
+    "packId": "20260816-85",
+    "sequence": 85,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:18"
+    "updatedAt": "17:22"
   },
   "verified": true
 }
