@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-35 seq=35 exp=1787048447",
+      "advancedStatus": "pack_id=20260816-36 seq=36 exp=1787048927",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:20",
+      "lastChecked": "10:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 10:20",
+    "expiresAt": "2026-08-18 10:28",
     "items": [
       {
         "channel": "iranintl",
@@ -875,14 +875,21 @@
         "text": "The representative of Hormozgan in the parliament reported low education quality and insufficient infrastructure in the province. She pointed to unequal distribution of educational resources and the impact of war on students' educational opportunities. She also called for the deployment of psychological teams to support affected students.",
         "time": "10:20",
         "ts": 1786875624
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "According to Article 6 of the counter-infiltration plan, interviews or communication with hostile media, including American and Israeli media, are prohibited and punishable by six months to two years in prison. Government employees who conduct such interviews will face prison and dismissal from government service for two to five years. This plan has been presented by the parliament.",
+        "time": "10:28",
+        "ts": 1786876097
       }
     ],
     "language": "en",
-    "packId": "20260816-35",
-    "sequence": 35,
+    "packId": "20260816-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:20"
+    "updatedAt": "10:28"
   },
   "verified": true
 }
