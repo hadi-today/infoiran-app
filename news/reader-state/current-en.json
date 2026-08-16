@@ -1,19 +1,19 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260815-105 seq=105 exp=1787010806",
+      "advancedStatus": "pack_id=20260816-01 seq=1 exp=1787012008",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:53",
+      "lastChecked": "00:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-08-15",
-    "expiresAt": "2026-08-17 23:53",
+    "date": "2026-08-16",
+    "expiresAt": "2026-08-18 00:13",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,21 @@
         "text": "A group of Iranians living in Brisbane, Australia, held a protest on Saturday against executions in Iran. Participants demanded the halt of death sentences and the release of political prisoners. The protest was organized by the group \"Iran Tomorrow - Responsibility Today.\"",
         "time": "23:53",
         "ts": 1786837982
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli army displayed a collection of weapons seized from Hamas and Hezbollah. These weapons include mortars, cannons, sniper rifles, and anti-tank launchers made in Iran, as well as equipment from Russia and China. A German-made MG-34 machine gun was also seized from a Hezbollah base.",
+        "time": "00:13",
+        "ts": 1786839185
       }
     ],
     "language": "en",
-    "packId": "20260815-105",
-    "sequence": 105,
+    "packId": "20260816-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:53"
+    "updatedAt": "00:13"
   },
   "verified": true
 }
