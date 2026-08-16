@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-58 seq=58 exp=1787061676",
+      "advancedStatus": "pack_id=20260816-59 seq=59 exp=1787062293",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:01",
+      "lastChecked": "14:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 14:01",
+    "expiresAt": "2026-08-18 14:11",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Houshang Hasan Yari pointed out ambiguities regarding the claim of the captivity of three Su-24 pilots in Qatar. He questioned why the Islamic Republic raised the issue six months after the incident. He also warned that this claim could weaken Iran's relations with Qatar.",
-        "time": "14:07",
-        "ts": 1786802876
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -875,14 +868,21 @@
         "text": "Amir Hatami, the commander-in-chief of the Islamic Republic of Iran's army, announced that any army personnel who kills or captures an \"American force\" will receive a $30,000 reward. He added that the reward for killing or capturing American female forces would be double, approximately 11.2 billion tomans.",
         "time": "13:59",
         "ts": 1786888776
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Samsami stated that the government is implementing policies that led to the protests in January 2026, with the parliament also involved. He warned these policies will increase budget deficits and inflation in the long term. Samsami criticized the ration card policy and the official exchange rate increase, and called medicalian's statements about currency shortages incorrect.",
+        "time": "14:11",
+        "ts": 1786889470
       }
     ],
     "language": "en",
-    "packId": "20260816-58",
-    "sequence": 58,
+    "packId": "20260816-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:01"
+    "updatedAt": "14:11"
   },
   "verified": true
 }
