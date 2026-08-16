@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-101 seq=101 exp=1787087247",
+      "advancedStatus": "pack_id=20260816-102 seq=102 exp=1787088426",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:07",
+      "lastChecked": "21:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 21:07",
+    "expiresAt": "2026-08-18 21:27",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Davood Rangi, an import official at the Chamber of Commerce, warned that the blockade of ports could lead to food shortages. Food reserves are sufficient for only three to four months. Land routes and northern ports cannot replace the import of 23 million tons of goods from southern ports.",
-        "time": "21:11",
-        "ts": 1786828310
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ebrahim Azizi, head of the National Security and Foreign Policy Commission of the Parliament, commented on the US president in a tweet. He said the US president should worry about his own security instead of boasting about the Strait of Hormuz. Azizi warned that the US president might end up hiding in a food truck.",
-        "time": "21:12",
-        "ts": 1786828350
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -896,14 +882,21 @@
         "text": "Lille defeated Paris Saint-Germain 1-0 to win the French Super Cup for the first time. The only goal was scored by Thauvin in the 32nd minute. The match had two red cards, and PSG failed to secure their 15th Super Cup title.",
         "time": "21:07",
         "ts": 1786914426
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Al Arabiya reported that drones of Yemen's government forces targeted a gathering of Iran-backed Houthis in Al Aqsha area in Al Jawf province. The attack took place on the evening of Sunday, August 16. No further details were provided.",
+        "time": "21:26",
+        "ts": 1786915609
       }
     ],
     "language": "en",
-    "packId": "20260816-101",
-    "sequence": 101,
+    "packId": "20260816-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:07"
+    "updatedAt": "21:27"
   },
   "verified": true
 }
