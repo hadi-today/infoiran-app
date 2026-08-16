@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-33 seq=33 exp=1787047806",
+      "advancedStatus": "pack_id=20260816-34 seq=34 exp=1787048040",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:10",
+      "lastChecked": "10:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 10:10",
+    "expiresAt": "2026-08-18 10:14",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "A citizen in Tehran was arrested for creating an unauthorized communication platform and transmitting classified information using Starlink satellite internet, according to the intelligence police.",
         "time": "10:09",
         "ts": 1786874984
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shakiba from Tehran stated that her doctor dismissed her due to the events of Dey month. She expressed regret and said she felt ashamed of her father who raised her with labor money. This issue was directly raised by Shakiba.",
+        "time": "10:10",
+        "ts": 1786875021
       }
     ],
     "language": "en",
-    "packId": "20260816-33",
-    "sequence": 33,
+    "packId": "20260816-34",
+    "sequence": 34,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:10"
+    "updatedAt": "10:14"
   },
   "verified": true
 }
