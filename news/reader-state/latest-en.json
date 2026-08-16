@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-92 seq=92 exp=1787077567",
+      "advancedStatus": "pack_id=20260816-93 seq=93 exp=1787077833",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:26",
+      "lastChecked": "18:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 18:26",
+    "expiresAt": "2026-08-18 18:30",
     "items": [
       {
         "channel": "harana",
@@ -931,14 +931,21 @@
         "text": "Esmail Saghab Esfahani described Chinese-assembled cars in Iran as low quality and fuel-consuming. He said importing fully assembled Japanese cars would have been cheaper. He also noted that Iran's automotive industry is 60 years old.",
         "time": "18:25",
         "ts": 1786904744
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "With the end of the 60-day ceasefire between Iran and the US, Ahmad Vahidi stated he agrees with negotiating with the US to end the war. This news was reported by Axios. The discussion was with Farzin Nadimi at the Washington Institute.",
+        "time": "18:30",
+        "ts": 1786905008
       }
     ],
     "language": "en",
-    "packId": "20260816-92",
-    "sequence": 92,
+    "packId": "20260816-93",
+    "sequence": 93,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:26"
+    "updatedAt": "18:30"
   },
   "verified": true
 }
