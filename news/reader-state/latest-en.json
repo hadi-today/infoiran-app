@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-73 seq=73 exp=1787069164",
+      "advancedStatus": "pack_id=20260816-74 seq=74 exp=1787069530",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:06",
+      "lastChecked": "16:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 16:06",
+    "expiresAt": "2026-08-18 16:12",
     "items": [
       {
         "channel": "harana",
@@ -882,14 +882,21 @@
         "text": "Cristiano Ronaldo stated in an interview that this year is likely his last year playing football and he wants to leave an extraordinary legacy. He also mentioned wanting to spend more time with his family and has planned for his future. Ronaldo emphasized the importance of filling time in various ways and enjoying life after football.",
         "time": "16:02",
         "ts": 1786896174
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Don Bacon, a Republican congressman, stated that the US cannot allow the Islamic Republic to acquire nuclear weapons. He described a war with Iran as a \"hard fight\" and criticized Trump's communication about the war. Bacon also pointed to shortages in military weapons and called for greater transparency.",
+        "time": "16:11",
+        "ts": 1786896709
       }
     ],
     "language": "en",
-    "packId": "20260816-73",
-    "sequence": 73,
+    "packId": "20260816-74",
+    "sequence": 74,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:06"
+    "updatedAt": "16:12"
   },
   "verified": true
 }
