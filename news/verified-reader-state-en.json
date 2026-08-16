@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-107 seq=107 exp=1787091308",
+      "advancedStatus": "pack_id=20260816-108 seq=108 exp=1787091527",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:15",
+      "lastChecked": "22:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 22:15",
+    "expiresAt": "2026-08-18 22:18",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "Donald Trump ordered a significant reduction in the scale of joint US-South Korea military exercises. He described these exercises as costly and sending a hostile message to North Korea. Trump also reported South Korea's refusal to join US efforts for the nuclear disarmament of the Islamic Republic.",
         "time": "22:14",
         "ts": 1786918490
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The 60-day deadline in the memorandum of understanding between Tehran and Washington ends on Monday. Diplomatic efforts to reach a new agreement have made limited progress. Rising tensions in the region have posed serious obstacles to the talks.",
+        "time": "22:16",
+        "ts": 1786918562
       }
     ],
     "language": "en",
-    "packId": "20260816-107",
-    "sequence": 107,
+    "packId": "20260816-108",
+    "sequence": 108,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:15"
+    "updatedAt": "22:18"
   },
   "verified": true
 }
