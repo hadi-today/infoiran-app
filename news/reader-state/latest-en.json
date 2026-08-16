@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-19 seq=19 exp=1787035143",
+      "advancedStatus": "pack_id=20260816-20 seq=20 exp=1787035423",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:39",
+      "lastChecked": "06:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 06:39",
+    "expiresAt": "2026-08-18 06:43",
     "items": [
       {
         "channel": "iranintl",
@@ -833,14 +833,21 @@
         "text": "Political and sanction pressures from Europe against the Islamic Republic are increasing. More countries outside the European Union are aligning their positions with Brussels' policies. This trend indicates an expansion of sanctions and pressures against Tehran.",
         "time": "06:37",
         "ts": 1786862238
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The executive deputy of Masoud Pezeshkian stated that using VPNs has made enemy infiltration easier. About 75% of people oppose the use of VPNs. The sale of VPNs generates between 7 to 12 trillion tomans in revenue, but it is unclear who benefits from it.",
+        "time": "06:40",
+        "ts": 1786862408
       }
     ],
     "language": "en",
-    "packId": "20260816-19",
-    "sequence": 19,
+    "packId": "20260816-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:39"
+    "updatedAt": "06:43"
   },
   "verified": true
 }
