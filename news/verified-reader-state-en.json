@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-95 seq=95 exp=1787078644",
+      "advancedStatus": "pack_id=20260816-96 seq=96 exp=1787078860",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:44",
+      "lastChecked": "18:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 18:44",
+    "expiresAt": "2026-08-18 18:47",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,21 @@
         "text": "The National Security Commission of the Parliament approved an article of the 'Tangsiri' law banning Israeli vessels from passing through the Persian Gulf. This approval is not the final ratification and requires confirmation from relevant authorities. If fully approved, Israeli vessels will not be allowed to transit the Persian Gulf.",
         "time": "18:43",
         "ts": 1786905823
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Brad Cooper, the commander of US Central Command, stated that the USS Abraham Lincoln aircraft carrier has one of the lowest mental health cases among active US Navy carriers. He praised the prioritization of crew mental health and resilience. Cooper also encouraged sailors and marines to continue their excellent work and wished them a smooth journey home.",
+        "time": "18:44",
+        "ts": 1786905867
       }
     ],
     "language": "en",
-    "packId": "20260816-95",
-    "sequence": 95,
+    "packId": "20260816-96",
+    "sequence": 96,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:44"
+    "updatedAt": "18:47"
   },
   "verified": true
 }
