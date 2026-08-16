@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-48 seq=48 exp=1787058149",
+      "advancedStatus": "pack_id=20260816-49 seq=49 exp=1787058275",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:02",
+      "lastChecked": "13:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 13:02",
+    "expiresAt": "2026-08-18 13:04",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,28 @@
         "text": "Amir Hatami, commander-in-chief of the Islamic Republic Army, reacted to Donald Trump's remarks about the Strait of Hormuz, saying: 'You are wrong to say the Strait of Hormuz belongs to America. Even joking about this is a huge mistake.' He also said: 'The Islamic Republic has guardians who will break your legs.'",
         "time": "13:02",
         "ts": 1786885326
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The police commander of Eslamabad-e Gharb announced the arrest of a man around 30 years old accused of acid attack on an elderly man. The incident occurred in Eslamabad-e Gharb county. The suspect is currently in custody.",
+        "time": "13:04",
+        "ts": 1786885448
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US government sought help from Nechirvan Barzani to establish direct contact with the commander of the IRGC during negotiations with Iran to end the war. Tulsi Gabbard asked Barzani to contact Ahmad Vahidi, who expressed support for negotiations. A proposal for secret talks in Erbil was made but did not take place due to security concerns.",
+        "time": "13:04",
+        "ts": 1786885464
       }
     ],
     "language": "en",
-    "packId": "20260816-48",
-    "sequence": 48,
+    "packId": "20260816-49",
+    "sequence": 49,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:02"
+    "updatedAt": "13:04"
   },
   "verified": true
 }
