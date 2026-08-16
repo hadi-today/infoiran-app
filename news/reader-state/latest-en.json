@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-76 seq=76 exp=1787070419",
+      "advancedStatus": "pack_id=20260816-77 seq=77 exp=1787070783",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:26",
+      "lastChecked": "16:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 16:26",
+    "expiresAt": "2026-08-18 16:33",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Central Bank announced that a foreign provider has revoked the security certificates of some websites related to the bank. Users may receive security error messages when accessing these sites. This issue is not due to a cyberattack, and necessary measures to resolve the problem are underway.",
-        "time": "16:29",
-        "ts": 1786811399
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Seyed Javad Mousavi, detained in connection with the December 2025 protests, was transferred to Birjand prison. He was sentenced to five years in prison. His transfer took place today, Saturday, August 14.",
-        "time": "16:31",
-        "ts": 1786811488
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "An audio file from a secret meeting of the Media and Cyberspace Headquarters in Pakdasht reveals concerns of Basij and IRGC-affiliated institutions about a new wave of public protests and infiltration into security agencies. The meeting was held following incidents including the death of Hamidreza Rajabzadeh. The Media and Cyberspace Headquarters operates under the IRGC.",
-        "time": "16:31",
-        "ts": 1786811495
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -896,14 +875,21 @@
         "text": "The US government has sought help from Nechirvan Barzani to establish direct communication with the IRGC during negotiations with the Islamic Republic. Due to distrust in the positions of the Iranian negotiators, the Trump administration created a secret channel. Barzani plays a role similar to Qatar in mediating between the US and the Islamic Republic.",
         "time": "16:26",
         "ts": 1786897592
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Arash Aramesh referred to Amir Hatami's statements about paying rewards for killing or capturing Americans. He said the Islamic Republic has a history of using proxy forces in the region. This call may be directed at groups and individuals willing to take hostages or kill Americans.",
+        "time": "16:32",
+        "ts": 1786897961
       }
     ],
     "language": "en",
-    "packId": "20260816-76",
-    "sequence": 76,
+    "packId": "20260816-77",
+    "sequence": 77,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:26"
+    "updatedAt": "16:33"
   },
   "verified": true
 }
