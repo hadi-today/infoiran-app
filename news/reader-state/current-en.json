@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-83 seq=83 exp=1787073284",
+      "advancedStatus": "pack_id=20260816-84 seq=84 exp=1787073521",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:14",
+      "lastChecked": "17:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 17:14",
+    "expiresAt": "2026-08-18 17:18",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,28 @@
         "text": "A female blogger was arrested for posting a video considered insulting to sacred beliefs. A legal case has been filed against her. This incident occurred in cyberspace.",
         "time": "17:11",
         "ts": 1786900288
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Faleh Sari, Iraq's finance minister, stated that the closure of the Strait of Hormuz has directly impacted Iraq's economy. The Iraqi government seeks to increase non-oil revenues to reduce dependence on oil. There is also a plan to approve the first programmatic and performance budget in Iraq's history.",
+        "time": "17:15",
+        "ts": 1786900536
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US government used Nechirvan Barzani to establish a secret communication channel with the commander of the IRGC during negotiations with Tehran. Barzani contacted Ahmad Vahidi and learned about the IRGC's support for resolving the crisis through negotiation. This report was published by Axios citing informed sources.",
+        "time": "17:17",
+        "ts": 1786900643
       }
     ],
     "language": "en",
-    "packId": "20260816-83",
-    "sequence": 83,
+    "packId": "20260816-84",
+    "sequence": 84,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:14"
+    "updatedAt": "17:18"
   },
   "verified": true
 }
