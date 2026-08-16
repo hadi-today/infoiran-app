@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-89 seq=89 exp=1787075873",
+      "advancedStatus": "pack_id=20260816-90 seq=90 exp=1787076655",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:57",
+      "lastChecked": "18:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 17:57",
+    "expiresAt": "2026-08-18 18:10",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Due to lack of workplace safety, eight workers in Tabriz, Mashhad, Mahabad, and Bandar Abbas were involved in accidents. Seven were injured and one worker died. Three of the injured were firefighters.",
-        "time": "18:04",
-        "ts": 1786817076
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Persepolis football team defeated Shams Azar 2-0 in the first week of the Iranian Premier League. The goals were scored by Mohammad Mahdi Mohibi and Mohammad Omri. Also, the match between Zob Ahan and Foolad Khuzestan ended in a goalless draw.",
-        "time": "18:06",
-        "ts": 1786817192
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -931,14 +917,21 @@
         "text": "Three workers died in the counties of Behbahan and Samalqan due to unsafe working conditions and lack of workplace safety. These incidents occurred while they were working. The report was published by Harana News Agency.",
         "time": "17:55",
         "ts": 1786902941
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "In the Titraval with Niousha Saremi, it was reported that the US has a direct channel with the IRGC through Barzani. The report mentions doubts about Qalibaf and approval from Vahidi. This topic was discussed in the audio version of Titraval.",
+        "time": "18:10",
+        "ts": 1786903826
       }
     ],
     "language": "en",
-    "packId": "20260816-89",
-    "sequence": 89,
+    "packId": "20260816-90",
+    "sequence": 90,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:57"
+    "updatedAt": "18:10"
   },
   "verified": true
 }
