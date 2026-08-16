@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-43 seq=43 exp=1787052601",
+      "advancedStatus": "pack_id=20260816-44 seq=44 exp=1787053436",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:30",
+      "lastChecked": "11:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 11:30",
+    "expiresAt": "2026-08-18 11:43",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen sent a video to Iran International criticizing a government ceremony with a symbolic coffin for Ali Khamenei. He described the ceremony as \"necrophilia\" and protested its expenses.",
-        "time": "11:30",
-        "ts": 1786793436
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -882,14 +875,21 @@
         "text": "Ata Hosseinian explained the government's plans to manage the gasoline shortage. He said the government is waiting for security institutions' approval to raise gasoline prices and implement a new rationing system. This fuel shortage has occurred after the war.",
         "time": "11:27",
         "ts": 1786879653
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The Islamic Consultative Assembly approved a plan to counter infiltration by foreign intelligence services and institutions with 183 votes in favor. The plan criminalizes communications with media, universities, and American and Israeli institutions, imposing prison sentences of up to 30 years for certain actions. The Ministry of Intelligence and the Intelligence Organization of the IRGC will be responsible for enforcing this law.",
+        "time": "11:43",
+        "ts": 1786880614
       }
     ],
     "language": "en",
-    "packId": "20260816-43",
-    "sequence": 43,
+    "packId": "20260816-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:30"
+    "updatedAt": "11:43"
   },
   "verified": true
 }
