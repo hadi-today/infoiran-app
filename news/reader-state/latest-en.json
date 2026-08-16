@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-68 seq=68 exp=1787066125",
+      "advancedStatus": "pack_id=20260816-69 seq=69 exp=1787066506",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:15",
+      "lastChecked": "15:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 15:15",
+    "expiresAt": "2026-08-18 15:21",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Mohammad Bagherzadeh announced that three army pilots whose fighters crashed in Esfand are alive and detained by Qatari forces. These three pilots have been in detention for about six months, and the Qatari government has not allowed them to meet or contact their families. Previously, the status of these pilots was unclear.",
-        "time": "15:15",
-        "ts": 1786806952
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Israeli army announced that Ali Samir Al-Hajj Hassan, a commander of a Hezbollah unit in southern Lebanon, was killed. The attack was in response to Hezbollah's actions against Israeli forces in the security buffer zone. Several other Hezbollah members were also killed in the attack.",
-        "time": "15:17",
-        "ts": 1786807038
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -896,14 +882,21 @@
         "text": "The Iranian parliament has approved a bill criminalizing interviews and communication with foreign media, sending films and photos, scientific cooperation with some foreign universities, and cultural activities. The bill was approved with 183 votes in favor and requires Guardian Council approval to be enforced. Penalties include imprisonment from six months to five years and fines, with some terms in the bill left undefined.",
         "time": "15:15",
         "ts": 1786893301
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Pezeshkian confirmed that with the naval blockade of Iran's ports and the halt of oil sales, gasoline prices must increase to 87,000 tomans. Islamic Republic officials attacked these statements and warned about people returning to the streets and repeating the 2019 protests. This report was prepared by Mojtaba Pourmohsen.",
+        "time": "15:21",
+        "ts": 1786893677
       }
     ],
     "language": "en",
-    "packId": "20260816-68",
-    "sequence": 68,
+    "packId": "20260816-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:15"
+    "updatedAt": "15:21"
   },
   "verified": true
 }
