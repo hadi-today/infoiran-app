@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-102 seq=102 exp=1787088426",
+      "advancedStatus": "pack_id=20260816-103 seq=103 exp=1787089329",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:27",
+      "lastChecked": "21:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 21:27",
+    "expiresAt": "2026-08-18 21:42",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Morad Veisi, a senior analyst at Iran International, stated that the increase in gasoline prices and removal of quotas could cause dissatisfaction among millions of passenger drivers. Gasoline prices may rise to 87,000 tomans per liter, starting from Kerman. This issue could lead to widespread protests by drivers.",
-        "time": "21:35",
-        "ts": 1786829745
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "Al Arabiya reported that drones of Yemen's government forces targeted a gathering of Iran-backed Houthis in Al Aqsha area in Al Jawf province. The attack took place on the evening of Sunday, August 16. No further details were provided.",
         "time": "21:26",
         "ts": 1786915609
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Persepolis football team won against Shams Azar in their first Premier League match in Qazvin. This was the first official game under the management of Mehdi Tartaar. Additionally, there was an interview with Mohammad Taghavi on the Hat-trick program.",
+        "time": "21:41",
+        "ts": 1786916512
       }
     ],
     "language": "en",
-    "packId": "20260816-102",
-    "sequence": 102,
+    "packId": "20260816-103",
+    "sequence": 103,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:27"
+    "updatedAt": "21:42"
   },
   "verified": true
 }
