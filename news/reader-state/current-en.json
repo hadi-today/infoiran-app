@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-109 seq=109 exp=1787091984",
+      "advancedStatus": "pack_id=20260816-110 seq=110 exp=1787092272",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:26",
+      "lastChecked": "22:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 22:26",
+    "expiresAt": "2026-08-18 22:31",
     "items": [
       {
         "channel": "iranintl",
@@ -903,14 +903,21 @@
         "text": "Persepolis fans cheered Afshin Peyrovani during the match against Shams Azar. Mohsen Khalili, who replaced him, has stirred controversies around Persepolis. This issue was discussed in the Hattrick program with interviews by Mazdak Mirzaei.",
         "time": "22:26",
         "ts": 1786919165
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Veysi, senior analyst at Iran International, said that after 48 years, the people of Iran want the overthrow of the Islamic Republic. He added that people consider the promises of 1979 false and believe the rulers are unwilling to step down. He emphasized that the regime must be overthrown through a popular uprising.",
+        "time": "22:30",
+        "ts": 1786919455
       }
     ],
     "language": "en",
-    "packId": "20260816-109",
-    "sequence": 109,
+    "packId": "20260816-110",
+    "sequence": 110,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:26"
+    "updatedAt": "22:31"
   },
   "verified": true
 }
