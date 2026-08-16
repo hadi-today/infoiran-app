@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-13 seq=13 exp=1787033099",
+      "advancedStatus": "pack_id=20260816-14 seq=14 exp=1787033393",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:04",
+      "lastChecked": "06:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 06:04",
+    "expiresAt": "2026-08-18 06:09",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "During 36 years of Ali Khamenei's rule, dozens of political activists and artists wrote critical letters to him. These letters received no official response, and their authors faced threats, violence, and imprisonment. These actions show disregard for security consequences.",
-        "time": "06:02",
-        "ts": 1786773721
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -833,14 +826,21 @@
         "text": "The Israeli army announced that Abu Hasan Alla, a senior commander of the Badr unit of Hezbollah, was killed. This action was in response to Hezbollah's attacks on Israeli forces in the security zone. Hasan Alla was involved in multiple attacks, including launching explosive drones.",
         "time": "06:00",
         "ts": 1786860053
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hamshahri newspaper criticized mixed-gender sports and optional dress codes in parks. It referred to videos from Tehran, Qom, and Mashhad showing boys and girls exercising together. Hamshahri called for more cultural awareness and supervision of sports programs.",
+        "time": "06:09",
+        "ts": 1786860573
       }
     ],
     "language": "en",
-    "packId": "20260816-13",
-    "sequence": 13,
+    "packId": "20260816-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:04"
+    "updatedAt": "06:09"
   },
   "verified": true
 }
