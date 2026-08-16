@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-71 seq=71 exp=1787067890",
+      "advancedStatus": "pack_id=20260816-73 seq=73 exp=1787069164",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:44",
+      "lastChecked": "16:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 15:44",
+    "expiresAt": "2026-08-18 16:06",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The first week of the Iranian Premier League started with victories for Esteghlal, Tractor, and Sepahan. Esteghlal defeated Mes Shahr-e Babak 4-0. Tractor and Sepahan also won 2-0 against Paykan and Chadormalu respectively.",
-        "time": "15:56",
-        "ts": 1786809389
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -875,14 +868,28 @@
         "text": "The Trump administration used Nechirvan Barzani to establish a direct channel with the IRGC command during secret negotiations with Iran to end the war. This was due to doubts about the authority of Iranian negotiators. The secret meeting in Erbil did not take place, but Barzani has expressed readiness to help resume negotiations.",
         "time": "15:43",
         "ts": 1786895037
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The head of Alborz University of Medical Sciences reported the assault of four staff members at Shahid Madani Hospital in Karaj. The incident occurred after staff prevented relatives of a patient from entering the women's ward. Four main perpetrators of the clash have been arrested.",
+        "time": "16:02",
+        "ts": 1786896129
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Cristiano Ronaldo stated in an interview that this year is likely his last year playing football and he wants to leave an extraordinary legacy. He also mentioned wanting to spend more time with his family and has planned for his future. Ronaldo emphasized the importance of filling time in various ways and enjoying life after football.",
+        "time": "16:02",
+        "ts": 1786896174
       }
     ],
     "language": "en",
-    "packId": "20260816-71",
-    "sequence": 71,
+    "packId": "20260816-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:44"
+    "updatedAt": "16:06"
   },
   "verified": true
 }
