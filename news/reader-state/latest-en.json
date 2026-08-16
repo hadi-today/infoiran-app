@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-10 seq=10 exp=1787032278",
+      "advancedStatus": "pack_id=20260816-11 seq=11 exp=1787032555",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:51",
+      "lastChecked": "05:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 05:51",
+    "expiresAt": "2026-08-18 05:55",
     "items": [
       {
         "channel": "iranintl",
@@ -812,14 +812,21 @@
         "text": "The spokesperson of Iran's Foreign Ministry announced an agreement between Tehran and Muscat on a shipping map in the Strait of Hormuz. This agreement follows diplomatic efforts to reopen the Strait of Hormuz and resume normal ship traffic. More details were provided by an Iran International reporter.",
         "time": "05:50",
         "ts": 1786859455
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Omid Memarian commented on the fate of four missing pilots, stating that the Islamic Republic claims three pilots are in Qatar. Qatari officials have denied this claim. The Islamic Republic must provide evidence of their survival and location.",
+        "time": "05:54",
+        "ts": 1786859651
       }
     ],
     "language": "en",
-    "packId": "20260816-10",
-    "sequence": 10,
+    "packId": "20260816-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:51"
+    "updatedAt": "05:55"
   },
   "verified": true
 }
