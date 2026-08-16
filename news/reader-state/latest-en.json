@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-38 seq=38 exp=1787050965",
+      "advancedStatus": "pack_id=20260816-39 seq=39 exp=1787051206",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:02",
+      "lastChecked": "11:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 11:02",
+    "expiresAt": "2026-08-18 11:06",
     "items": [
       {
         "channel": "iranintl",
@@ -875,14 +875,21 @@
         "text": "A group of social security retirees gathered today in front of the organization's building in Tehran. They protested their living conditions and demanded the implementation of the equalization plan and fulfillment of other demands. They also called for the halt of death sentences.",
         "time": "11:02",
         "ts": 1786878134
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen reported severe economic problems and high repair costs for air conditioners and elevators during the summer heat. He also mentioned rising prices of goods and difficult living conditions. This person believes the government's priority is preserving the regime, not the people.",
+        "time": "11:04",
+        "ts": 1786878272
       }
     ],
     "language": "en",
-    "packId": "20260816-38",
-    "sequence": 38,
+    "packId": "20260816-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:02"
+    "updatedAt": "11:06"
   },
   "verified": true
 }
