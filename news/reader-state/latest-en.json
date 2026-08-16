@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-16 seq=16 exp=1787034211",
+      "advancedStatus": "pack_id=20260816-17 seq=17 exp=1787034500",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:23",
+      "lastChecked": "06:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 06:23",
+    "expiresAt": "2026-08-18 06:28",
     "items": [
       {
         "channel": "iranintl",
@@ -833,14 +833,21 @@
         "text": "Ahmad Alavi stated that due to international consensus on reopening the Strait of Hormuz and China's losses from its closure, the US may increase pressure on buyers of Iranian oil. He added that the US is prepared to bear the costs of higher oil prices to reopen the Strait of Hormuz.",
         "time": "06:21",
         "ts": 1786861260
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli army announced that Abu Hasan Alaa, a senior Hezbollah commander, was killed in an attack on Deir al-Zahrani. A Middle East history researcher said Hezbollah is not satisfied with the Lebanese government's treaty with Israel. The ceasefire negotiations are very fragile.",
+        "time": "06:25",
+        "ts": 1786861550
       }
     ],
     "language": "en",
-    "packId": "20260816-16",
-    "sequence": 16,
+    "packId": "20260816-17",
+    "sequence": 17,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:23"
+    "updatedAt": "06:28"
   },
   "verified": true
 }
