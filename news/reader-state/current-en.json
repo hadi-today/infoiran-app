@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-25 seq=25 exp=1787043346",
+      "advancedStatus": "pack_id=20260816-26 seq=26 exp=1787043581",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:55",
+      "lastChecked": "08:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 08:55",
+    "expiresAt": "2026-08-18 08:59",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Hossein Aghaei from Iran International said Trump's strategy towards the Islamic Republic is moving towards intensifying naval blockade and crippling the economy. He added that economic pressure alone is not enough to overthrow the Islamic Republic. Achieving this goal requires effective and targeted military actions as well.",
-        "time": "08:56",
-        "ts": 1786784173
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -826,14 +819,21 @@
         "text": "The police chief of Galikesh announced the closure of five women's hair salons and the arrest of their operators. The reason given was the publication of immoral images on social media. This incident took place in Galikesh county.",
         "time": "08:55",
         "ts": 1786870521
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hamid Hosseini, an energy expert, stated that the recent war caused damage to some facilities and made the Black Sea unsafe. These developments have created serious challenges for gasoline supply. Regional changes have also affected gasoline imports.",
+        "time": "08:57",
+        "ts": 1786870629
       }
     ],
     "language": "en",
-    "packId": "20260816-25",
-    "sequence": 25,
+    "packId": "20260816-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:55"
+    "updatedAt": "08:59"
   },
   "verified": true
 }
