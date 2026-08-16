@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-11 seq=11 exp=1787032555",
+      "advancedStatus": "pack_id=20260816-13 seq=13 exp=1787033099",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:55",
+      "lastChecked": "06:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 05:55",
+    "expiresAt": "2026-08-18 06:04",
     "items": [
       {
         "channel": "iranintl",
@@ -819,14 +819,28 @@
         "text": "Omid Memarian commented on the fate of four missing pilots, stating that the Islamic Republic claims three pilots are in Qatar. Qatari officials have denied this claim. The Islamic Republic must provide evidence of their survival and location.",
         "time": "05:54",
         "ts": 1786859651
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reza Goharzad reported the continuation of the maritime blockade of Iranian ports and fuel distribution problems. He mentioned long gasoline queues and the emergence of a black market. He also said that gasoline imports do not solve price and distribution issues and dissatisfaction could lead to street protests.",
+        "time": "05:57",
+        "ts": 1786859846
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli army announced that Abu Hasan Alla, a senior commander of the Badr unit of Hezbollah, was killed. This action was in response to Hezbollah's attacks on Israeli forces in the security zone. Hasan Alla was involved in multiple attacks, including launching explosive drones.",
+        "time": "06:00",
+        "ts": 1786860053
       }
     ],
     "language": "en",
-    "packId": "20260816-11",
-    "sequence": 11,
+    "packId": "20260816-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:55"
+    "updatedAt": "06:04"
   },
   "verified": true
 }
