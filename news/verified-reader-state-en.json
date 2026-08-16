@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-54 seq=54 exp=1787059987",
+      "advancedStatus": "pack_id=20260816-55 seq=55 exp=1787060194",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:33",
+      "lastChecked": "13:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 13:33",
+    "expiresAt": "2026-08-18 13:36",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Two citizens named Esmail Basar and his son Zakaria Basar were arrested by the intelligence forces in Bukan. With these arrests, the total number of detainees in recent days in this city reached eight. This news was reported by Harana News Agency.",
-        "time": "13:33",
-        "ts": 1786800834
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -868,14 +861,21 @@
         "text": "Mohammad Khatami stated that the Islamic Republic has imposed its survival and existence on the enemy after the war. He called for avoiding tension and adhering to the agreement to preserve Iran's dignity. Khatami described honorable peace as the solution and emphasized that life with war is impossible.",
         "time": "13:32",
         "ts": 1786887165
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "In recent weeks, several drones have entered the airspace of European countries. A drone made by the Islamic Republic was shot down in Romania, and a Spanish F-18 fighter also shot down a drone in Romanian airspace. This issue has raised concerns about increasing tensions between Russia and NATO.",
+        "time": "13:36",
+        "ts": 1786887370
       }
     ],
     "language": "en",
-    "packId": "20260816-54",
-    "sequence": 54,
+    "packId": "20260816-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:33"
+    "updatedAt": "13:36"
   },
   "verified": true
 }
