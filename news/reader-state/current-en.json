@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-63 seq=63 exp=1787063548",
+      "advancedStatus": "pack_id=20260816-64 seq=64 exp=1787064212",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:32",
+      "lastChecked": "14:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 14:32",
+    "expiresAt": "2026-08-18 14:43",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Shakila Ghasemi, a Bahá'í citizen residing in Kerman, was released from Kerman prison on bail. This release took place on Saturday, 24th of Mordad. Harana News Agency reported this news.",
-        "time": "14:41",
-        "ts": 1786804872
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -903,14 +896,21 @@
         "text": "A number of Afghans and civil activists gathered in Paris to protest against the Taliban's rule and the human rights situation in Afghanistan. The protesters emphasized the extensive restrictions on women and girls and the silence of the international community. A report and an interview with a women's rights activist were also presented.",
         "time": "14:28",
         "ts": 1786890539
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The agreement between the US and the Islamic Republic expires on Monday, 26 Mordad, 60 days after signing. Tensions in the region continue with several attacks on ships in the Strait of Hormuz reported. Donald Trump stated that the US controls the passage of ships in the Strait of Hormuz.",
+        "time": "14:42",
+        "ts": 1786891378
       }
     ],
     "language": "en",
-    "packId": "20260816-63",
-    "sequence": 63,
+    "packId": "20260816-64",
+    "sequence": 64,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:32"
+    "updatedAt": "14:43"
   },
   "verified": true
 }
