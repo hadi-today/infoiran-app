@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-42 seq=42 exp=1787052348",
+      "advancedStatus": "pack_id=20260816-43 seq=43 exp=1787052601",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:25",
+      "lastChecked": "11:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 11:25",
+    "expiresAt": "2026-08-18 11:30",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Majidreza Khaki stated that about 700 tons of rice labeled as \"American rice\" have been imported into Iran through Iraq since the beginning of the year. These shipments were brought in by individuals without official registration and are not considered smuggling. There is no official plan for direct rice imports from the United States.",
-        "time": "11:23",
-        "ts": 1786792990
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Retirees of the Isfahan Steel Pension Fund protested today in front of the Isfahan governor's office due to unmet demands. They demanded the establishment of basic and supplementary insurance, payment of overdue medical expenses, and implementation of the third phase of salary adjustment. The protesters also emphasized improving their living conditions.",
-        "time": "11:23",
-        "ts": 1786793036
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +875,21 @@
         "text": "Manouchehr Motaki, Tehran representative, said in parliament that the Iranian people are waiting for the issuance of the death sentence for Trump and Netanyahu within 10 days. He also warned about the consequences of a ground attack. Motaki recommended that command be based on the opinion of the Supreme Leader.",
         "time": "11:23",
         "ts": 1786879384
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ata Hosseinian explained the government's plans to manage the gasoline shortage. He said the government is waiting for security institutions' approval to raise gasoline prices and implement a new rationing system. This fuel shortage has occurred after the war.",
+        "time": "11:27",
+        "ts": 1786879653
       }
     ],
     "language": "en",
-    "packId": "20260816-42",
-    "sequence": 42,
+    "packId": "20260816-43",
+    "sequence": 43,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:25"
+    "updatedAt": "11:30"
   },
   "verified": true
 }
