@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-14 seq=14 exp=1787033393",
+      "advancedStatus": "pack_id=20260816-15 seq=15 exp=1787033942",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:09",
+      "lastChecked": "06:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 06:09",
+    "expiresAt": "2026-08-18 06:19",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The football teams Shams Azar and Persepolis will face each other on Saturday, August 14, 2026, in the first match of the 26th Premier League. This match marks the start of the new Premier League season. To participate in the poll about the match result, visit the Iran International Sports Instagram page.",
-        "time": "06:14",
-        "ts": 1786774458
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -833,14 +826,21 @@
         "text": "Hamshahri newspaper criticized mixed-gender sports and optional dress codes in parks. It referred to videos from Tehran, Qom, and Mashhad showing boys and girls exercising together. Hamshahri called for more cultural awareness and supervision of sports programs.",
         "time": "06:09",
         "ts": 1786860573
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abbas Goudarzi announced that the government has one and a half months from August 20 to introduce the proposed ministers of intelligence and defense to the parliament. There is an idea that the requirement of Ijtihad for the intelligence minister may not be necessary. This issue requires legal amendment, and the government must submit a bill to the parliament.",
+        "time": "06:18",
+        "ts": 1786861125
       }
     ],
     "language": "en",
-    "packId": "20260816-14",
-    "sequence": 14,
+    "packId": "20260816-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:09"
+    "updatedAt": "06:19"
   },
   "verified": true
 }
