@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-15 seq=15 exp=1787033942",
+      "advancedStatus": "pack_id=20260816-16 seq=16 exp=1787034211",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:19",
+      "lastChecked": "06:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 06:19",
+    "expiresAt": "2026-08-18 06:23",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ahmad Vahidi, commander of the IRGC, praised the performance of the Islamic Republic's military forces in southern Iran against the US. He wrote that these forces proved they can impose Islam's rule over the world by imposing their will on the enemy. He also emphasized that the Islamic Republic's armed forces have brought the US to its knees.",
-        "time": "06:20",
-        "ts": 1786774855
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -833,14 +826,21 @@
         "text": "Abbas Goudarzi announced that the government has one and a half months from August 20 to introduce the proposed ministers of intelligence and defense to the parliament. There is an idea that the requirement of Ijtihad for the intelligence minister may not be necessary. This issue requires legal amendment, and the government must submit a bill to the parliament.",
         "time": "06:18",
         "ts": 1786861125
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Alavi stated that due to international consensus on reopening the Strait of Hormuz and China's losses from its closure, the US may increase pressure on buyers of Iranian oil. He added that the US is prepared to bear the costs of higher oil prices to reopen the Strait of Hormuz.",
+        "time": "06:21",
+        "ts": 1786861260
       }
     ],
     "language": "en",
-    "packId": "20260816-15",
-    "sequence": 15,
+    "packId": "20260816-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:19"
+    "updatedAt": "06:23"
   },
   "verified": true
 }
