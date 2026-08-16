@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-04 seq=4 exp=1787026414",
+      "advancedStatus": "pack_id=20260816-05 seq=5 exp=1787027974",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:13",
+      "lastChecked": "04:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 04:13",
+    "expiresAt": "2026-08-18 04:39",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -692,13 +692,19 @@
         "text": "خبرگزاری قوه قضاییه از اعدام شهرام صادقی، معترض دی‌ماه در کرج، به اتهام اقدام عملیاتی به نفع اسرائیل و آمریکا خبر داد. او به دلیل زیرگرفتن ماموران با خودرو در ۱۸ دی‌ماه بازداشت شده بود. این اعدام به اتهام اقدام علیه امنیت و منافع ملی صورت گرفته است.",
         "time": "04:13",
         "ts": 1786853592
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "ارتش اسرائیل به اهداف حزب‌الله در جنوب لبنان حمله کرده است. وزیر دفاع اسرائیل اعلام کرد که هیچ حسابی در هیچ جبهه‌ای تسویه‌نشده باقی نخواهد ماند. این حمله در واکنش به اقدام حزب‌الله علیه نیروهای اسرائیلی انجام شده است.",
+        "time": "04:39",
+        "ts": 1786855150
       }
     ],
-    "packId": "20260816-04",
-    "sequence": 4,
+    "packId": "20260816-05",
+    "sequence": 5,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "04:13"
+    "updatedAt": "04:39"
   },
   "verified": true
 }
