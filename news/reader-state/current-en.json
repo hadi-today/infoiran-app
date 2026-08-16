@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-40 seq=40 exp=1787051599",
+      "advancedStatus": "pack_id=20260816-41 seq=41 exp=1787052126",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:13",
+      "lastChecked": "11:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 11:13",
+    "expiresAt": "2026-08-18 11:22",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Saeed Maadani cited ideological selection, limited scientific communication, brain drain, and weakened academic freedom as reasons for the decline of Iranian universities. Moloud Hajizadeh stated that after the Cultural Revolution, the educational system became increasingly closed, leading to the decline in academic standing. These remarks were made in an interview with Iran International.",
-        "time": "11:17",
-        "ts": 1786792640
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump has faced multiple assassination attempts in the past two years. One attempt involved the IRGC trying to kill him with the help of a Pakistani man. Additionally, a shooting at his campaign rally in Pennsylvania resulted in Trump being wounded in the ear.",
-        "time": "11:17",
-        "ts": 1786792677
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +875,21 @@
         "text": "Amir Hatami, the commander of the army, announced that members of the armed forces will receive a $30,000 reward for killing or capturing an American soldier. This reward is doubled for female forces. The decision applies to members of the army, IRGC, police, Basij, and other armed forces.",
         "time": "11:12",
         "ts": 1786878776
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US is implementing unprecedented policies to increase economic pressure on the Islamic Republic. Bloomberg has identified increased pressure on exchange offices and financial intermediaries transferring Tehran's oil revenues as Washington's options. The US naval blockade could worsen stagflation and deepen poverty and unemployment crises in Iran.",
+        "time": "11:21",
+        "ts": 1786879303
       }
     ],
     "language": "en",
-    "packId": "20260816-40",
-    "sequence": 40,
+    "packId": "20260816-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:13"
+    "updatedAt": "11:22"
   },
   "verified": true
 }
