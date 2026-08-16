@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-53 seq=53 exp=1787059446",
+      "advancedStatus": "pack_id=20260816-54 seq=54 exp=1787059987",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:24",
+      "lastChecked": "13:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 13:24",
+    "expiresAt": "2026-08-18 13:33",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Vladimir Putin traveled for the first time to the Iturup Island, a disputed area between Russia and Japan. The Japanese Prime Minister called the move unacceptable, and Japan's Foreign Ministry summoned the Russian ambassador. This trip triggered diplomatic reactions.",
-        "time": "13:24",
-        "ts": 1786800299
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Jafar Pourkabegani, a member of parliament and former governor of Bushehr, is accused of involvement in the suppression and killing of protesters during the \"Iranian National Revolution.\" This information comes from reports and data received from citizens and Iran International sources. Farzad Fattahi from Iran International has explained this issue.",
-        "time": "13:30",
-        "ts": 1786800651
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -875,14 +861,21 @@
         "text": "Today, several forcibly retired faculty members of Farhangian University protested in front of the Ministry of Education. They say that despite parliamentary commissions' emphasis on continuing their service, no effective action has been taken to resolve their issue. Over 320 faculty members were forcibly retired last year and have not received their salaries.",
         "time": "13:23",
         "ts": 1786886624
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Khatami stated that the Islamic Republic has imposed its survival and existence on the enemy after the war. He called for avoiding tension and adhering to the agreement to preserve Iran's dignity. Khatami described honorable peace as the solution and emphasized that life with war is impossible.",
+        "time": "13:32",
+        "ts": 1786887165
       }
     ],
     "language": "en",
-    "packId": "20260816-53",
-    "sequence": 53,
+    "packId": "20260816-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:24"
+    "updatedAt": "13:33"
   },
   "verified": true
 }
