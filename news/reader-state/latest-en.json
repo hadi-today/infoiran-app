@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-85 seq=85 exp=1787073774",
+      "advancedStatus": "pack_id=20260816-86 seq=86 exp=1787074594",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:22",
+      "lastChecked": "17:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 17:22",
+    "expiresAt": "2026-08-18 17:36",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ramin Kashif Azar, CEO of Imam Khomeini Airport City Company, stated that the air transport industry was completely halted during the war and airlines were in a worse condition than other sectors. He added that problems caused by the war still persist and efforts have been made to avoid layoffs and ensure employees receive their salaries.",
-        "time": "17:25",
-        "ts": 1786814751
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The official Yemeni government stated that the Houthis fired six ballistic missiles at Al-Mokha port on Friday, August 14, killing at least four civilians. A video showed boats catching fire and damage to port facilities. The Houthis confirmed targeting a military gathering of forces supported by Saudi Arabia.",
-        "time": "17:27",
-        "ts": 1786814857
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -931,14 +917,21 @@
         "text": "Scott Bessent, the US Treasury Secretary, said Washington is preparing to impose unprecedented economic pressure on Tehran.",
         "time": "17:18",
         "ts": 1786900727
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Fatemeh Atashi Khiyavi, a political prisoner, was released from Evin Prison after completing her sentence. This news was reported by HRANA news agency. Her release occurred after the end of her imprisonment period.",
+        "time": "17:35",
+        "ts": 1786901756
       }
     ],
     "language": "en",
-    "packId": "20260816-85",
-    "sequence": 85,
+    "packId": "20260816-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:22"
+    "updatedAt": "17:36"
   },
   "verified": true
 }
