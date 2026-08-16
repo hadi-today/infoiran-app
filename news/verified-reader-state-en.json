@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-61 seq=61 exp=1787063219",
+      "advancedStatus": "pack_id=20260816-62 seq=62 exp=1787063289",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:26",
+      "lastChecked": "14:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-16",
-    "expiresAt": "2026-08-18 14:26",
+    "expiresAt": "2026-08-18 14:28",
     "items": [
       {
         "channel": "harana",
@@ -882,14 +882,21 @@
         "text": "The US Department of War has asked major arms manufacturers to present specific plans to increase ammunition production capacity as quickly as possible. This request comes as the US battle against the Islamic Republic has put heavy pressure on reserves of some US air defense and missile defense ammunition, even more than the war in Ukraine.",
         "time": "14:22",
         "ts": 1786890129
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The UK Maritime Trade Operations announced that three ships were attacked within 72 hours in the Strait of Hormuz. Two tankers were attacked on August 14 and one cargo ship on August 15. The organization did not provide details about the attackers or possible damages.",
+        "time": "14:27",
+        "ts": 1786890453
       }
     ],
     "language": "en",
-    "packId": "20260816-61",
-    "sequence": 61,
+    "packId": "20260816-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:26"
+    "updatedAt": "14:28"
   },
   "verified": true
 }
