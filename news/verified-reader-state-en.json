@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260817-28 seq=28 exp=1787131014",
+      "advancedStatus": "pack_id=20260817-29 seq=29 exp=1787131688",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:16",
+      "lastChecked": "09:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-17",
-    "expiresAt": "2026-08-19 09:16",
+    "expiresAt": "2026-08-19 09:28",
     "items": [
       {
         "channel": "harana",
@@ -917,14 +917,21 @@
         "text": "A 13-year-old girl named Melika Hematzadeh died in Nikshahr hospital due to a scorpion sting and lack of medical facilities and medicine. The incident occurred in Desk village, Nikshahr county. The main cause of death was reported as shortage of medicine and medical facilities.",
         "time": "09:16",
         "ts": 1786958186
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Two French diplomats were interrogated and beaten for five hours after a work meeting with two Iranian graphic designers. The Ministry of Intelligence described the meeting as a secret gathering and an example of infiltration. The two graphic designers present at the meeting remain in detention.",
+        "time": "09:27",
+        "ts": 1786958868
       }
     ],
     "language": "en",
-    "packId": "20260817-28",
-    "sequence": 28,
+    "packId": "20260817-29",
+    "sequence": 29,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:16"
+    "updatedAt": "09:28"
   },
   "verified": true
 }
