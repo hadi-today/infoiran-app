@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260817-64 seq=64 exp=1787157405",
+      "advancedStatus": "pack_id=20260817-65 seq=65 exp=1787157709",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:36",
+      "lastChecked": "16:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-17",
-    "expiresAt": "2026-08-19 16:36",
+    "expiresAt": "2026-08-19 16:41",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A prisoner named Kaveh Rafusheh was transferred to solitary confinement in Sanandaj prison for execution of the death sentence. He is 35 years old and from Sanandaj. The transfer took place today, Sunday, 25 Mordad.",
-        "time": "16:37",
-        "ts": 1786898241
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -868,14 +861,21 @@
         "text": "The Islamic Consultative Assembly is reviewing a plan called the \"Countering Infiltration Plan\" that could restrict and securitize communication with foreign media, universities, and institutions. This plan may place Iranian citizens' connections with the world under the supervision of the Ministry of Intelligence. Concerns have been raised about the impact of this plan on the future of Iran's young generation.",
         "time": "16:36",
         "ts": 1786984571
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Ahmadi, the host of the program 'Azad,' has been summoned to the prosecutor's office on charges of spreading falsehoods. He was released on bail according to judicial orders. The 'Azad' media outlet is banned from publishing interviews until further notice.",
+        "time": "16:39",
+        "ts": 1786984785
       }
     ],
     "language": "en",
-    "packId": "20260817-64",
-    "sequence": 64,
+    "packId": "20260817-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:36"
+    "updatedAt": "16:41"
   },
   "verified": true
 }
