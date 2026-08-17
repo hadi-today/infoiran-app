@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260817-94 seq=94 exp=1787178894",
+      "advancedStatus": "pack_id=20260817-95 seq=95 exp=1787179205",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:34",
+      "lastChecked": "22:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-17",
-    "expiresAt": "2026-08-19 22:34",
+    "expiresAt": "2026-08-19 22:40",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The commander of the Iranian army announced a $30,000 reward for killing or capturing American soldiers. The amount will be doubled for female soldiers. Experts consider these statements a sign of confusion in the decision-making of the Islamic Republic's leaders.",
-        "time": "22:34",
-        "ts": 1786919652
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -882,14 +875,21 @@
         "text": "Donald Trump said the Islamic Republic must give up acquiring nuclear weapons and until then, the US will continue economic blockade and control of the Strait of Hormuz to pressure Tehran. He emphasized that despite the Strait of Hormuz being open, the US naval blockade has been effective and prevented the Islamic Republic from using this waterway. Trump added that Washington is ready to intensify its actions if necessary and described the Islamic Republic's economic situation and military capability as very weak.",
         "time": "22:32",
         "ts": 1787005940
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump stated that South Korea rejected the US request to participate in military operations against the Islamic Republic. He criticized this decision and questioned why the US should spend billions defending South Korea while Seoul refuses to support militarily. Trump also said some other US allies, including NATO members, do not participate in protecting the Strait of Hormuz.",
+        "time": "22:39",
+        "ts": 1787006388
       }
     ],
     "language": "en",
-    "packId": "20260817-94",
-    "sequence": 94,
+    "packId": "20260817-95",
+    "sequence": 95,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:34"
+    "updatedAt": "22:40"
   },
   "verified": true
 }
