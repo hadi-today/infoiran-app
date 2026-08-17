@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260817-93 seq=93 exp=1787178636",
+      "advancedStatus": "pack_id=20260817-94 seq=94 exp=1787178894",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:30",
+      "lastChecked": "22:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-17",
-    "expiresAt": "2026-08-19 22:30",
+    "expiresAt": "2026-08-19 22:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Morad Veysi, senior analyst at Iran International, said that after 48 years, the people of Iran want the overthrow of the Islamic Republic. He added that people consider the promises of 1979 false and believe the rulers are unwilling to step down. He emphasized that the regime must be overthrown through a popular uprising.",
-        "time": "22:30",
-        "ts": 1786919455
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -882,14 +875,21 @@
         "text": "FIFA released images of the 2026 World Cup final between Spain and Argentina from the perspective of the referee, Slavko Vinčić. These images include moments from the match and the referee's interactions with players. More details of these scenes can be found on FIFA's website.",
         "time": "22:30",
         "ts": 1787005816
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump said the Islamic Republic must give up acquiring nuclear weapons and until then, the US will continue economic blockade and control of the Strait of Hormuz to pressure Tehran. He emphasized that despite the Strait of Hormuz being open, the US naval blockade has been effective and prevented the Islamic Republic from using this waterway. Trump added that Washington is ready to intensify its actions if necessary and described the Islamic Republic's economic situation and military capability as very weak.",
+        "time": "22:32",
+        "ts": 1787005940
       }
     ],
     "language": "en",
-    "packId": "20260817-93",
-    "sequence": 93,
+    "packId": "20260817-94",
+    "sequence": 94,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:30"
+    "updatedAt": "22:34"
   },
   "verified": true
 }
