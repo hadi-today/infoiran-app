@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260817-19 seq=19 exp=1787123277",
+      "advancedStatus": "pack_id=20260817-20 seq=20 exp=1787123808",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:07",
+      "lastChecked": "07:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-17",
-    "expiresAt": "2026-08-19 07:07",
+    "expiresAt": "2026-08-19 07:16",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Shahram Sadeghi, a detainee from the December 2025 protests in Karaj, was executed early this morning. He was convicted of operational actions in favor of Israel, the USA, and hostile countries against national security and interests. This sentence was issued by the Revolutionary Court of Karaj.",
-        "time": "07:08",
-        "ts": 1786864081
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "Donald Trump considered the signing of a joint defense pact between Saudi Arabia, Turkey, and Pakistan as a sign of unity in the Middle East. He welcomed the pact. More details were reported by Javad Hamdani.",
         "time": "07:05",
         "ts": 1786950312
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Rodri, the captain of the Spanish national team, has joined Barcelona on a four-year contract. Manchester City is looking to replace him by pursuing Ayoub Bouaddi, Enzo Fernandez, Alex Scott, and Alexis McCallister. Negotiations with Bouaddi have started, and he has expressed willingness to join City.",
+        "time": "07:16",
+        "ts": 1786950991
       }
     ],
     "language": "en",
-    "packId": "20260817-19",
-    "sequence": 19,
+    "packId": "20260817-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:07"
+    "updatedAt": "07:16"
   },
   "verified": true
 }
