@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260817-53 seq=53 exp=1787148819",
+      "advancedStatus": "pack_id=20260817-54 seq=54 exp=1787149099",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:13",
+      "lastChecked": "14:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-17",
-    "expiresAt": "2026-08-19 14:13",
+    "expiresAt": "2026-08-19 14:18",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,28 @@
         "text": "Jared Kushner held a meeting with Benjamin Netanyahu and Isaac Herzog regarding the Gaza plan. Kushner, in a meeting lasting over four hours, urged Netanyahu to advance the Gaza ceasefire plan supported by Donald Trump and not to obstruct it.",
         "time": "14:13",
         "ts": 1786975991
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Donald Trump stated that the US has direct communication channels with Iran's Revolutionary Guard officials. He also said Iran must surrender and that the US naval blockade is increasing economic pressure. The Revolutionary Guard spokesperson denied this claim and called it a delusion.",
+        "time": "14:15",
+        "ts": 1786976151
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Gholamhossein Mohseni Ejei announced that in his new term as head, some judicial officials will be changed or relocated. The goal is to increase dynamism and improve service delivery to the people. He emphasized that these changes should not be interpreted otherwise.",
+        "time": "14:16",
+        "ts": 1786976161
       }
     ],
     "language": "en",
-    "packId": "20260817-53",
-    "sequence": 53,
+    "packId": "20260817-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:13"
+    "updatedAt": "14:18"
   },
   "verified": true
 }
