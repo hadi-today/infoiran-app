@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260817-84 seq=84 exp=1787172591",
+      "advancedStatus": "pack_id=20260817-85 seq=85 exp=1787174279",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:49",
+      "lastChecked": "21:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-17",
-    "expiresAt": "2026-08-19 20:49",
+    "expiresAt": "2026-08-19 21:17",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Lille defeated Paris Saint-Germain 1-0 to win the French Super Cup for the first time. The only goal was scored by Thauvin in the 32nd minute. The match had two red cards, and PSG failed to secure their 15th Super Cup title.",
-        "time": "21:07",
-        "ts": 1786914426
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -875,14 +868,21 @@
         "text": "The Appeals Court of Fars Province confirmed the 15-month prison sentence and additional penalties for Mehdi Fathi. He was also sentenced to travel ban, passport cancellation, and two years of prohibition from online activities. This sentence was previously issued by the Revolutionary Court of Shiraz.",
         "time": "20:47",
         "ts": 1786999650
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Jared Kushner, the US president's special envoy, said Hamas leaders at the rare Cairo meeting expressed positive positions but trust in the group remains difficult and its adherence to commitments must be tested in practice. He added that the process of disarmament and demilitarization of Gaza could begin within 30 days, and reconstruction will not start before that. Kushner also said that if Hamas does not hand over its weapons and tunnels within the next 60 to 90 days, US support for the continuation of Israeli operations will increase.",
+        "time": "21:17",
+        "ts": 1787001462
       }
     ],
     "language": "en",
-    "packId": "20260817-84",
-    "sequence": 84,
+    "packId": "20260817-85",
+    "sequence": 85,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:49"
+    "updatedAt": "21:17"
   },
   "verified": true
 }
