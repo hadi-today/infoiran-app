@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260817-12 seq=12 exp=1787117384",
+      "advancedStatus": "pack_id=20260817-13 seq=13 exp=1787117640",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:29",
+      "lastChecked": "05:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-17",
-    "expiresAt": "2026-08-19 05:29",
+    "expiresAt": "2026-08-19 05:34",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "The execution of Shahram Sadeghi, a protester from the December uprising, was carried out on the morning of August 16. He was sentenced to death for operational actions in favor of Israel, the US, and hostile groups. After interrogation, Sadeghi admitted to driving the car towards officers and setting it on fire.",
-        "time": "05:29",
-        "ts": 1786858143
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -931,14 +924,21 @@
         "text": "The representative of Tafresh in the parliament stated that the White House officials should consider the consequences of turning conflicts into a regional war. He emphasized that the Islamic Republic will not surrender to threats and will respond decisively. He also noted that the military power of the US alone cannot achieve its political goals.",
         "time": "05:27",
         "ts": 1786944449
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Qaedi stated that despite a reduction in some provocative actions, about 28,500 American troops remain in South Korea. Washington has also maintained its nuclear commitment to South Korea and Japan. This indicates that the US does not intend to significantly reduce its deterrence level in the region.",
+        "time": "05:32",
+        "ts": 1786944741
       }
     ],
     "language": "en",
-    "packId": "20260817-12",
-    "sequence": 12,
+    "packId": "20260817-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:29"
+    "updatedAt": "05:34"
   },
   "verified": true
 }
