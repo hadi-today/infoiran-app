@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260817-97 seq=97 exp=1787179751",
+      "advancedStatus": "pack_id=20260817-98 seq=98 exp=1787180352",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:49",
+      "lastChecked": "22:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-17",
-    "expiresAt": "2026-08-19 22:49",
+    "expiresAt": "2026-08-19 22:59",
     "items": [
       {
         "channel": "iranintl",
@@ -903,14 +903,21 @@
         "text": "Recep Tayyip Erdogan, in a phone call with Donald Trump, called for continued negotiations with the Islamic Republic to reduce tensions between Washington and Tehran. Erdogan stated that Turkey is ready to support efforts to establish peace. Additionally, the Turkish foreign minister discussed reopening the Strait of Hormuz and maintaining the ceasefire with Abbas Araghchi.",
         "time": "22:47",
         "ts": 1787006826
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The United Arab Emirates condemned the drone attacks by the Islamic Republic on the Prime Minister's office and the security headquarters of the Kurdistan Region of Iraq. The UAE Ministry of Foreign Affairs called these attacks a violation of Iraq's sovereignty and a threat to regional security. The UAE expressed its support for maintaining security and stability in the Kurdistan Region.",
+        "time": "22:58",
+        "ts": 1787007536
       }
     ],
     "language": "en",
-    "packId": "20260817-97",
-    "sequence": 97,
+    "packId": "20260817-98",
+    "sequence": 98,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:49"
+    "updatedAt": "22:59"
   },
   "verified": true
 }
