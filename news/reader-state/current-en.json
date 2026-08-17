@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260817-99 seq=99 exp=1787181892",
+      "advancedStatus": "pack_id=20260817-100 seq=100 exp=1787183101",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:24",
+      "lastChecked": "23:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-17",
-    "expiresAt": "2026-08-19 23:24",
+    "expiresAt": "2026-08-19 23:45",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "Mike Johnson, Speaker of the US House of Representatives, said he believes the United States is on a path to resolving the war with the Islamic Republic. He added that the conflict with the Islamic Republic has naturally caused gasoline prices to rise and that this situation has been prolonged. Johnson also said he believes a coalition of countries, including NATO allies and Arab countries in the region, will eventually form to keep the Strait of Hormuz open for trade.",
         "time": "23:24",
         "ts": 1787009073
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Network for Human Rights Solidarity in Iran stated that the pattern of repression and the current wave of executions continue the policies of the 1980s. The network emphasized the need for accountability of those responsible for the 1988 summer executions and current suppressions in international courts. It also called for uncovering the truth about mass graves and ending pressure on families seeking justice.",
+        "time": "23:44",
+        "ts": 1787010285
       }
     ],
     "language": "en",
-    "packId": "20260817-99",
-    "sequence": 99,
+    "packId": "20260817-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:24"
+    "updatedAt": "23:45"
   },
   "verified": true
 }
