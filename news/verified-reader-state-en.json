@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260817-32 seq=32 exp=1787132685",
+      "advancedStatus": "pack_id=20260817-33 seq=33 exp=1787133571",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:44",
+      "lastChecked": "09:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-17",
-    "expiresAt": "2026-08-19 09:44",
+    "expiresAt": "2026-08-19 09:59",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Sattar Hashemi, the Minister of Communications, stated that the internet outage until mid-May caused over 67 trillion tomans in direct damage to the ICT sector and digital economy. He added that this figure does not include indirect costs such as lost investment opportunities and reduced business activities. Additionally, some of the damages are not financially compensable.",
-        "time": "09:51",
-        "ts": 1786873892
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Javad Akbarin pointed to contradictions in the positions of Hezbollah and the Lebanese government. Hezbollah calls for a return to agreements and Resolution 1701. However, it does not speak about disarmament and handing over weapons to the Lebanese army.",
-        "time": "09:56",
-        "ts": 1786874191
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -931,14 +917,21 @@
         "text": "Mostafa Izadi, deputy commander of the IRGC, stated that there are no time or location restrictions in cyberspace and the world is thirsty for the teachings of the Islamic Revolution. He emphasized the need to organize efforts in this space to achieve victory. He also highlighted the importance of explaining the leadership characteristics of the Islamic Revolution in the soft war.",
         "time": "09:42",
         "ts": 1786959758
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Workers and retirees complain about unpaid wages and arrears. Living costs have increased and rents have risen sharply. Issues such as power outages and removal of overtime pay have also affected working conditions.",
+        "time": "09:58",
+        "ts": 1786960739
       }
     ],
     "language": "en",
-    "packId": "20260817-32",
-    "sequence": 32,
+    "packId": "20260817-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:44"
+    "updatedAt": "09:59"
   },
   "verified": true
 }
