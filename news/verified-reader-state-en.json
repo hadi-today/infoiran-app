@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260817-25 seq=25 exp=1787126517",
+      "advancedStatus": "pack_id=20260817-26 seq=26 exp=1787126986",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:01",
+      "lastChecked": "08:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-17",
-    "expiresAt": "2026-08-19 08:01",
+    "expiresAt": "2026-08-19 08:09",
     "items": [
       {
         "channel": "iranintl",
@@ -938,14 +938,21 @@
         "text": "In Tehran, 165 hospitals require safety improvements due to safety issues. Forty hospitals have no safety certification, and several major hospitals like Sina and Imam Khomeini are in critical condition. The head of Tehran's City Council Safety Committee has warned about the dangers of this situation.",
         "time": "08:01",
         "ts": 1786953693
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Amir Mohammad Karimi and Mahyar Eftekhari were expelled from the University of Tehran for burning the national flag during student protests. Their expulsion was confirmed by the disciplinary council of the Ministry of Science. This decision followed the university disciplinary committee's ruling.",
+        "time": "08:09",
+        "ts": 1786954158
       }
     ],
     "language": "en",
-    "packId": "20260817-25",
-    "sequence": 25,
+    "packId": "20260817-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:01"
+    "updatedAt": "08:09"
   },
   "verified": true
 }
