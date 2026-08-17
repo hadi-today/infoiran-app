@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260817-95 seq=95 exp=1787179205",
+      "advancedStatus": "pack_id=20260817-96 seq=96 exp=1787179473",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:40",
+      "lastChecked": "22:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-17",
-    "expiresAt": "2026-08-19 22:40",
+    "expiresAt": "2026-08-19 22:44",
     "items": [
       {
         "channel": "iranintl",
@@ -882,14 +882,21 @@
         "text": "Donald Trump stated that South Korea rejected the US request to participate in military operations against the Islamic Republic. He criticized this decision and questioned why the US should spend billions defending South Korea while Seoul refuses to support militarily. Trump also said some other US allies, including NATO members, do not participate in protecting the Strait of Hormuz.",
         "time": "22:39",
         "ts": 1787006388
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The 60-day deadline of the Islamabad memorandum of understanding for a comprehensive agreement between Tehran and Washington has ended. Donald Trump said the Islamic Republic wants an agreement but does not accept the conditions of the US. The US does not intend to extend this memorandum of understanding.",
+        "time": "22:42",
+        "ts": 1787006551
       }
     ],
     "language": "en",
-    "packId": "20260817-95",
-    "sequence": 95,
+    "packId": "20260817-96",
+    "sequence": 96,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:40"
+    "updatedAt": "22:44"
   },
   "verified": true
 }
