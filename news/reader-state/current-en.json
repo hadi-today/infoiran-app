@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260817-06 seq=6 exp=1787112313",
+      "advancedStatus": "pack_id=20260817-07 seq=7 exp=1787113056",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:05",
+      "lastChecked": "04:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-17",
-    "expiresAt": "2026-08-19 04:05",
+    "expiresAt": "2026-08-19 04:17",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Judiciary News Agency reported the execution of Shahram Sadeghi, a December protester in Karaj, on charges of operational actions benefiting Israel and the US. He was arrested for running over officers with a vehicle on January 8. The execution was carried out on charges against national security and interests.",
-        "time": "04:13",
-        "ts": 1786853592
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +903,21 @@
         "text": "The Wall Street Journal reported that Iranian leaders are preparing the Revolutionary Guard and proxy groups to increase pressure on Washington and its allies during negotiations with the US. Iran has increased the Guard's control over the army and expanded missile and drone production. The Guard is also considering plans to escalate regional attacks and believes the main war has not yet begun.",
         "time": "04:02",
         "ts": 1786939336
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Jafar Ghaempanah explained that under sanctions, oil must be sold illegally and payment may be delayed or never returned. He mentioned issues such as timing of sales, payment return, and cargo safety. The government is working to lift sanctions to end these problems and profiteering.",
+        "time": "04:17",
+        "ts": 1786940234
       }
     ],
     "language": "en",
-    "packId": "20260817-06",
-    "sequence": 6,
+    "packId": "20260817-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:05"
+    "updatedAt": "04:17"
   },
   "verified": true
 }
