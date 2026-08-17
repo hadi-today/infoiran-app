@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260817-21 seq=21 exp=1787124394",
+      "advancedStatus": "pack_id=20260817-22 seq=22 exp=1787124991",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:26",
+      "lastChecked": "07:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-17",
-    "expiresAt": "2026-08-19 07:26",
+    "expiresAt": "2026-08-19 07:36",
     "items": [
       {
         "channel": "iranintl",
@@ -896,14 +896,21 @@
         "text": "Ahmad Ariaee-Nejad, the representative of Malayer, apologized for his offensive remarks about Mahsa Amini. He had previously described Mahsa Amini's death with the phrase \"passed away.\" These remarks sparked widespread reactions.",
         "time": "07:26",
         "ts": 1786951567
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Alavi, an economist, spoke about the sale of Iran's oil to intermediaries and its impact on the country's economy. He said this indicates increased pressure from sanctions and difficulties in repatriating oil revenues. He also mentioned the rise in corruption and the transfer of financial resources abroad.",
+        "time": "07:36",
+        "ts": 1786952170
       }
     ],
     "language": "en",
-    "packId": "20260817-21",
-    "sequence": 21,
+    "packId": "20260817-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:26"
+    "updatedAt": "07:36"
   },
   "verified": true
 }
