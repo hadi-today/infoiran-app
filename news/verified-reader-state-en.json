@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260817-44 seq=44 exp=1787145776",
+      "advancedStatus": "pack_id=20260817-46 seq=46 exp=1787146411",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:22",
+      "lastChecked": "13:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-17",
-    "expiresAt": "2026-08-19 13:22",
+    "expiresAt": "2026-08-19 13:33",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Today, several forcibly retired faculty members of Farhangian University protested in front of the Ministry of Education. They say that despite parliamentary commissions' emphasis on continuing their service, no effective action has been taken to resolve their issue. Over 320 faculty members were forcibly retired last year and have not received their salaries.",
-        "time": "13:23",
-        "ts": 1786886624
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -896,14 +889,28 @@
         "text": "In 2004, a 16-year-old girl named Atefeh Sahaaleh was publicly executed for extramarital sex. She was arrested based on local testimony and her grandfather's complaint. Before the execution, she had received over 300 lashes.",
         "time": "13:21",
         "ts": 1786972908
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Nirvana Torbati Nejad, a detained citizen, was released today, Monday, 26 Mordad, on bail from Amirabad Prison in Gorgan. Her release was carried out with the attorney Ramazan Haji Mashhadi and by posting bail to the investigative branch of the General and Revolutionary Prosecutor's Office in Gorgan. This news was reported by HRANA news agency.",
+        "time": "13:28",
+        "ts": 1786973337
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Mohammad Bagher Ghalibaf described the agreement between Iran and the US as a document of pride and victory in diplomacy. He emphasized that the US and Israel failed to achieve their goals in the recent war and that Iran emerged victorious. Ghalibaf added that the Iranian nation bravely stood firm in this war.",
+        "time": "13:31",
+        "ts": 1786973513
       }
     ],
     "language": "en",
-    "packId": "20260817-44",
-    "sequence": 44,
+    "packId": "20260817-46",
+    "sequence": 46,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:22"
+    "updatedAt": "13:33"
   },
   "verified": true
 }
