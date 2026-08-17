@@ -1,34 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260816-113 seq=113 exp=1787096953",
+      "advancedStatus": "pack_id=20260817-01 seq=1 exp=1787100609",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:49",
+      "lastChecked": "00:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-08-16",
-    "expiresAt": "2026-08-18 23:49",
+    "date": "2026-08-17",
+    "expiresAt": "2026-08-19 00:50",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of Iranians living in Brisbane, Australia, held a protest on Saturday against executions in Iran. Participants demanded the halt of death sentences and the release of political prisoners. The protest was organized by the group \"Iran Tomorrow - Responsibility Today.\"",
-        "time": "23:53",
-        "ts": 1786837982
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Israeli army displayed a collection of weapons seized from Hamas and Hezbollah. These weapons include mortars, cannons, sniper rifles, and anti-tank launchers made in Iran, as well as equipment from Russia and China. A German-made MG-34 machine gun was also seized from a Hezbollah base.",
-        "time": "00:13",
-        "ts": 1786839185
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -896,14 +882,21 @@
         "text": "The commander of the US Central Command announced that the Abraham Lincoln aircraft carrier group is returning home after more than 260 days of mission in the Arabian Sea. The group shot down over 200 IRGC drones during operations against the Islamic Republic. The CENTCOM commander also mentioned the pressures of the long mission on the crew and their families.",
         "time": "23:48",
         "ts": 1786924138
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Prime Minister and Foreign Minister of Qatar emphasized the need for adherence to negotiation and diplomacy in a phone call with the Syrian Foreign Minister. They stressed ensuring freedom of navigation in the Strait of Hormuz and maintaining regional security. Qatar expressed full support for efforts to reduce tensions and achieve lasting peace.",
+        "time": "00:49",
+        "ts": 1786927792
       }
     ],
     "language": "en",
-    "packId": "20260816-113",
-    "sequence": 113,
+    "packId": "20260817-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:49"
+    "updatedAt": "00:50"
   },
   "verified": true
 }
