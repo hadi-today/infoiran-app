@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260817-08 seq=8 exp=1787113854",
+      "advancedStatus": "pack_id=20260817-09 seq=9 exp=1787116536",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:30",
+      "lastChecked": "05:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-17",
-    "expiresAt": "2026-08-19 04:30",
+    "expiresAt": "2026-08-19 05:15",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Israeli army attacked Hezbollah targets in southern Lebanon. The Israeli defense minister stated that no score on any front will remain unsettled. This attack was in response to Hezbollah's actions against Israeli forces.",
-        "time": "04:39",
-        "ts": 1786855150
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Nahavandi, head of the Islamic Research Center of the Parliament, stated that the US, Israel, and their regional allies should know that no hostile action will go unanswered. He emphasized that deterrence is not just a threat of response but creating a calculation where refraining from war is more rational for the enemy.",
-        "time": "04:57",
-        "ts": 1786856266
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +903,21 @@
         "text": "Reza Akrami stated that some war damages to the country are temporary while others affect infrastructure and take time to repair. He emphasized the need to support the government to resolve issues faster. He also said that Iran's current priority is defending the country and confronting enemies.",
         "time": "04:30",
         "ts": 1786941035
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iranian Women's Premier Football League is set to start in three weeks. Various controversies have arisen before the league begins. Raha Pourbakhsh discussed these issues on the Hat-trick program.",
+        "time": "05:15",
+        "ts": 1786943714
       }
     ],
     "language": "en",
-    "packId": "20260817-08",
-    "sequence": 8,
+    "packId": "20260817-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:30"
+    "updatedAt": "05:15"
   },
   "verified": true
 }
