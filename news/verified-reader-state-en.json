@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260817-02 seq=2 exp=1787103865",
+      "advancedStatus": "pack_id=20260817-03 seq=3 exp=1787105729",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:44",
+      "lastChecked": "02:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-17",
-    "expiresAt": "2026-08-19 01:44",
+    "expiresAt": "2026-08-19 02:15",
     "items": [
       {
         "channel": "iranintl",
@@ -896,14 +896,21 @@
         "text": "Hamas called on mediator countries to compel Israel to implement the first phase of the Gaza ceasefire commitments after meeting with Jared Kushner. This request was made following talks in Cairo. Kushner is scheduled to meet Netanyahu to discuss stopping attacks and implementing the second phase of the agreement.",
         "time": "01:44",
         "ts": 1786931046
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Anti-war protesters in South Korea gathered in front of the US embassy demanding the halt of the annual joint military exercise. The protest followed Trump's order to significantly reduce the scale of the exercises. The \"Freedom Shield Ulchi\" exercise with about 18,000 South Korean troops has started.",
+        "time": "02:15",
+        "ts": 1786932911
       }
     ],
     "language": "en",
-    "packId": "20260817-02",
-    "sequence": 2,
+    "packId": "20260817-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:44"
+    "updatedAt": "02:15"
   },
   "verified": true
 }
