@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-40 seq=40 exp=1787230319",
+      "advancedStatus": "pack_id=20260818-41 seq=41 exp=1787230547",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:51",
+      "lastChecked": "12:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 12:51",
+    "expiresAt": "2026-08-20 12:55",
     "items": [
       {
         "channel": "harana",
@@ -826,14 +826,21 @@
         "text": "Nechirvan Barzani, the head of the Kurdistan Region of Iraq, has made efforts to establish contact between the US and the IRGC. These contacts began in early March to reduce tensions between Tehran and Washington. The Kurdistan Region spokesman confirmed the news, but Iran and the IRGC have denied it.",
         "time": "12:50",
         "ts": 1787057424
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Last night, a group of citizens gathered in front of Sanandaj prison demanding the halt of Kaveh Rafusheh's death sentence. He had been sentenced to death for murder. His execution was carried out early Tuesday morning, August 17, at Sanandaj prison.",
+        "time": "12:54",
+        "ts": 1787057660
       }
     ],
     "language": "en",
-    "packId": "20260818-40",
-    "sequence": 40,
+    "packId": "20260818-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:51"
+    "updatedAt": "12:55"
   },
   "verified": true
 }
