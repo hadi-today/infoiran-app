@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-65 seq=65 exp=1787242852",
+      "advancedStatus": "pack_id=20260818-66 seq=66 exp=1787243296",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:20",
+      "lastChecked": "16:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 16:20",
+    "expiresAt": "2026-08-20 16:28",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US Department of Defense announced it has ordered 30 US academic institutions to immediately and comprehensively review their academic, financial, and research collaborations with foreign entities of concern to Washington. The stated goal is to prevent unauthorized technology transfer, intellectual property theft, and foreign exploitation of research funded by American taxpayers. The institutions must report their findings and actions by 9 Shahrivar to maintain eligibility for future federal research funding.",
-        "time": "16:19",
-        "ts": 1786983587
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -882,14 +875,21 @@
         "text": "Mojtaba Maqiseh, a political prisoner, was released from Vakilabad Prison in Mashhad after completing his sentence. He was transferred to Khur and Biabanak County to serve a one-year exile sentence. This transfer took place on August 15.",
         "time": "16:19",
         "ts": 1787069957
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abdolnaser Hemmati, the Central Bank governor, said the pressures have existed from the beginning and are not new. He added that the US president's threats are also not new and they respond with maximum resistance. Hemmati emphasized that these threats will not disrupt Iran's plans.",
+        "time": "16:27",
+        "ts": 1787070455
       }
     ],
     "language": "en",
-    "packId": "20260818-65",
-    "sequence": 65,
+    "packId": "20260818-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:20"
+    "updatedAt": "16:28"
   },
   "verified": true
 }
