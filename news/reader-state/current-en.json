@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-47 seq=47 exp=1787233162",
+      "advancedStatus": "pack_id=20260818-48 seq=48 exp=1787234185",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:39",
+      "lastChecked": "13:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 13:39",
+    "expiresAt": "2026-08-20 13:56",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Melika Hematzadeh, a 13-year-old girl from Nikshahr, died after a scorpion sting and lack of medical facilities in the hospital. Her family had to transfer her by private car due to the absence of an ambulance and medical equipment. Hospitals also lacked the necessary blood platelets, and timely treatment was not provided.",
-        "time": "13:50",
-        "ts": 1786974655
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Manouchehr Motaki spoke in a meeting about the possibility of a ground war with the US, saying American soldiers' bodies would not be returned to their families. He added that capturing a US base in Iraq, Kuwait, or Bahrain could determine the outcome of the war. These statements were made in an official session.",
-        "time": "13:52",
-        "ts": 1786974728
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -840,14 +826,21 @@
         "text": "Donald Trump stated that there are no ongoing or planned negotiations with the Islamic Republic. He also said the naval blockade remains fully in place and the Strait of Hormuz is open and active. All naval mines have been cleared or detonated.",
         "time": "13:38",
         "ts": 1787060339
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reuters reported that Iran's oil exports have dropped to less than 300,000 barrels per day this month. Homayoun Falakshahi attributed this decline to the US naval blockade of the Strait of Hormuz. The blockade is being seriously enforced.",
+        "time": "13:56",
+        "ts": 1787061361
       }
     ],
     "language": "en",
-    "packId": "20260818-47",
-    "sequence": 47,
+    "packId": "20260818-48",
+    "sequence": 48,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:39"
+    "updatedAt": "13:56"
   },
   "verified": true
 }
