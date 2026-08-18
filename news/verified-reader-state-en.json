@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-74 seq=74 exp=1787247539",
+      "advancedStatus": "pack_id=20260818-75 seq=75 exp=1787247808",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:38",
+      "lastChecked": "17:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 17:38",
+    "expiresAt": "2026-08-20 17:43",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The 25-year prison sentence of Omid Bayat Sarmadi was overturned by the Supreme Court. His case has been referred to a peer branch for re-examination. He was previously sentenced to 25 years in prison by the Tehran Revolutionary Court.",
-        "time": "17:36",
-        "ts": 1786988199
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "Nejat Bahrami, a political analyst, said the Islamic Republic wants to forcibly involve the region in war. The goal is to prevent Trump from maintaining calm until the November elections. After Trump's victory, confronting the Islamic Republic will become more difficult.",
         "time": "17:35",
         "ts": 1787074558
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Tartaar, Persepolis coach, stated that his team's playing style is a combination of Guardiola's possession, Simeone's defensive approach, and Klopp's pressing. He described the match against Esteghlal Khuzestan as one of their finals and emphasized that his team is determined to win. Tartaar also mentioned the opponent's disciplined team and coaching staff.",
+        "time": "17:40",
+        "ts": 1787074842
       }
     ],
     "language": "en",
-    "packId": "20260818-74",
-    "sequence": 74,
+    "packId": "20260818-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:38"
+    "updatedAt": "17:43"
   },
   "verified": true
 }
