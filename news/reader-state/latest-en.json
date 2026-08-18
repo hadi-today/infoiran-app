@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-07 seq=7 exp=1787196782",
+      "advancedStatus": "pack_id=20260818-08 seq=8 exp=1787197113",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:33",
+      "lastChecked": "03:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 03:33",
+    "expiresAt": "2026-08-20 03:38",
     "items": [
       {
         "channel": "iranintl",
@@ -931,14 +931,21 @@
         "text": "Ship traffic through the Strait of Hormuz remains very low despite a slight increase. On Monday, only six cargo ships passed through the waterway. No very large oil tankers or liquefied natural gas carriers have passed during this period.",
         "time": "03:32",
         "ts": 1787023964
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The UK Maritime Trade Operations center reported an incident in the Strait of Hormuz. A vessel was targeted by an unidentified projectile while exiting the strait. No further details about the incident have been provided.",
+        "time": "03:38",
+        "ts": 1787024293
       }
     ],
     "language": "en",
-    "packId": "20260818-07",
-    "sequence": 7,
+    "packId": "20260818-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:33"
+    "updatedAt": "03:38"
   },
   "verified": true
 }
