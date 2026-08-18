@@ -1,34 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260817-100 seq=100 exp=1787183101",
+      "advancedStatus": "pack_id=20260818-01 seq=1 exp=1787187966",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:45",
+      "lastChecked": "01:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-08-17",
-    "expiresAt": "2026-08-19 23:45",
+    "date": "2026-08-18",
+    "expiresAt": "2026-08-20 01:06",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The commander of the US Central Command announced that the Abraham Lincoln aircraft carrier group is returning home after more than 260 days of mission in the Arabian Sea. The group shot down over 200 IRGC drones during operations against the Islamic Republic. The CENTCOM commander also mentioned the pressures of the long mission on the crew and their families.",
-        "time": "23:48",
-        "ts": 1786924138
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Prime Minister and Foreign Minister of Qatar emphasized the need for adherence to negotiation and diplomacy in a phone call with the Syrian Foreign Minister. They stressed ensuring freedom of navigation in the Strait of Hormuz and maintaining regional security. Qatar expressed full support for efforts to reduce tensions and achieve lasting peace.",
-        "time": "00:49",
-        "ts": 1786927792
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +903,21 @@
         "text": "The Network for Human Rights Solidarity in Iran stated that the pattern of repression and the current wave of executions continue the policies of the 1980s. The network emphasized the need for accountability of those responsible for the 1988 summer executions and current suppressions in international courts. It also called for uncovering the truth about mass graves and ending pressure on families seeking justice.",
         "time": "23:44",
         "ts": 1787010285
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "According to a Reuters/Ipsos poll, Donald Trump's popularity has dropped to the lowest level of his current presidency. In this poll, 33% approved of his performance while 64% disapproved. This popularity level matches the lowest point of his first presidency in December 2017.",
+        "time": "01:05",
+        "ts": 1787015147
       }
     ],
     "language": "en",
-    "packId": "20260817-100",
-    "sequence": 100,
+    "packId": "20260818-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:45"
+    "updatedAt": "01:06"
   },
   "verified": true
 }
