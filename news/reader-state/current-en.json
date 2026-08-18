@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-41 seq=41 exp=1787230547",
+      "advancedStatus": "pack_id=20260818-42 seq=42 exp=1787230804",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:55",
+      "lastChecked": "13:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 12:55",
+    "expiresAt": "2026-08-20 13:00",
     "items": [
       {
         "channel": "harana",
@@ -833,14 +833,28 @@
         "text": "Last night, a group of citizens gathered in front of Sanandaj prison demanding the halt of Kaveh Rafusheh's death sentence. He had been sentenced to death for murder. His execution was carried out early Tuesday morning, August 17, at Sanandaj prison.",
         "time": "12:54",
         "ts": 1787057660
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The Qatari Foreign Ministry spokesperson called Iran's request for the Red Cross to intervene in the Iranian pilots' issue a media trick. Qatar stated that its invitation to the Iranian delegation to review the case remains valid. Iran has not yet responded to this invitation.",
+        "time": "12:57",
+        "ts": 1787057847
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The President of the United States, Donald Trump, on Tuesday, 27 Mordad, in a post on Truth Social, again called the Strait of Hormuz 'territory of the United States'. He published a graphic image in which the Strait of Hormuz is marked as 'new territory' of the United States. Trump had previously, in a speech, introduced this waterway as part of US territory.",
+        "time": "12:59",
+        "ts": 1787057993
       }
     ],
     "language": "en",
-    "packId": "20260818-41",
-    "sequence": 41,
+    "packId": "20260818-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:55"
+    "updatedAt": "13:00"
   },
   "verified": true
 }
