@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-59 seq=59 exp=1787239523",
+      "advancedStatus": "pack_id=20260818-60 seq=60 exp=1787240282",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:25",
+      "lastChecked": "15:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 15:25",
+    "expiresAt": "2026-08-20 15:38",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A secret contact between the US government and the commander of the IRGC has been confirmed. Trump has asked Tehran to surrender at the end of the 60-day deadline for an agreement. The Israeli website Ynet also reported on the IRGC's dominance over the Islamic Republic.",
-        "time": "15:24",
-        "ts": 1786980261
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -875,14 +868,21 @@
         "text": "A group of healthcare workers held a protest in front of the Ministry of Health yesterday. They demanded attention to their job issues and living conditions. The protest took place in Tehran.",
         "time": "15:23",
         "ts": 1787066619
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A group of healthcare workers protested in front of the Hamadan governor's office. They are protesting against working hours and salary calculations. The protest is due to job-related issues.",
+        "time": "15:37",
+        "ts": 1787067446
       }
     ],
     "language": "en",
-    "packId": "20260818-59",
-    "sequence": 59,
+    "packId": "20260818-60",
+    "sequence": 60,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:25"
+    "updatedAt": "15:38"
   },
   "verified": true
 }
