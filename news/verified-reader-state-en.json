@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-04 seq=4 exp=1787191899",
+      "advancedStatus": "pack_id=20260818-05 seq=5 exp=1787192487",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:11",
+      "lastChecked": "02:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 02:11",
+    "expiresAt": "2026-08-20 02:21",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Anti-war protesters in South Korea gathered in front of the US embassy demanding the halt of the annual joint military exercise. The protest followed Trump's order to significantly reduce the scale of the exercises. The \"Freedom Shield Ulchi\" exercise with about 18,000 South Korean troops has started.",
-        "time": "02:15",
-        "ts": 1786932911
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "A US State Department spokesperson said Hezbollah is solely responsible for Israel's continued presence in Lebanon and must be disarmed and dissolved. He added this is part of a phased plan for Israeli forces to withdraw from southern Lebanon. This plan is the only practical path to achieving peace and security in the region.",
         "time": "02:11",
         "ts": 1787019081
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reuters reported, citing Iranian sources, that the leaders of the Islamic Republic face increasing internal pressure that could lead to nationwide unrest. The main threat is not only economic pressure but also the possibility of renewed widespread unrest. The appointment of Hossein Taeb as commander of the Basij is seen as a sign of the government's concern about this issue.",
+        "time": "02:21",
+        "ts": 1787019668
       }
     ],
     "language": "en",
-    "packId": "20260818-04",
-    "sequence": 4,
+    "packId": "20260818-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:11"
+    "updatedAt": "02:21"
   },
   "verified": true
 }
