@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-64 seq=64 exp=1787242608",
+      "advancedStatus": "pack_id=20260818-65 seq=65 exp=1787242852",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:16",
+      "lastChecked": "16:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 16:16",
+    "expiresAt": "2026-08-20 16:20",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -752,13 +752,19 @@
         "text": "دولت آلمان مرکز پژوهشی جدیدی در ایالت زاکسن-آنهالت برای مقابله با تهدیدهای پهپادی راه‌اندازی کرد. این مرکز بر شناسایی و ردیابی پهپادها تمرکز دارد. وزیر کشور آلمان تهدیدهای پهپادی را بخشی از جنگ سایه قرن بیست‌ویکم توصیف کرد.",
         "time": "16:16",
         "ts": 1787069772
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "text": "مجتبی مقیسه، زندانی سیاسی، پس از پایان دوران حبس خود از زندان وکیل آباد مشهد آزاد شد. وی جهت اجرای حکم یک سال تبعید به شهرستان خور و بیابانک منتقل شد. این انتقال در تاریخ ۲۴ مردادماه انجام شده است.",
+        "time": "16:19",
+        "ts": 1787069957
       }
     ],
-    "packId": "20260818-64",
-    "sequence": 64,
+    "packId": "20260818-65",
+    "sequence": 65,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "16:16"
+    "updatedAt": "16:20"
   },
   "verified": true
 }
