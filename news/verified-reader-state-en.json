@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-57 seq=57 exp=1787238230",
+      "advancedStatus": "pack_id=20260818-58 seq=58 exp=1787239295",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:03",
+      "lastChecked": "15:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 15:03",
+    "expiresAt": "2026-08-20 15:21",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A man in Qaemshahr killed his wife and young daughter. The suspect confessed to the murders after being arrested. The Qaemshahr prosecutor said the man tried to stage the scene to make the deaths appear as gas leakage.",
-        "time": "15:04",
-        "ts": 1786979055
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Israeli Prime Minister's office announced that Benjamin Netanyahu and the peace delegation agreed to form two working groups regarding Gaza. The first group will focus on disarmament and demilitarization of Gaza and must be completed before reconstruction begins. The second group will address health issues and clean water supply in Gaza.",
-        "time": "15:09",
-        "ts": 1786979398
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -875,14 +861,21 @@
         "text": "The National Emergency Crisis and Disaster Management Authority of the UAE announced that the country's air defense systems detected a missile threat. The threat was targeting the country. People have been advised to stay in a safe place and follow official alerts.",
         "time": "15:02",
         "ts": 1787065321
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abbas Araghchi stated that Masoud Pezeshkian proposed Mohammad Bagher Ghalibaf for the negotiations. Araghchi said Pezeshkian insisted that Ghalibaf's name be listed as the head of negotiations in the protocol. Araghchi also mentioned that the Americans initiated the proposal for negotiations.",
+        "time": "15:21",
+        "ts": 1787066467
       }
     ],
     "language": "en",
-    "packId": "20260818-57",
-    "sequence": 57,
+    "packId": "20260818-58",
+    "sequence": 58,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:03"
+    "updatedAt": "15:21"
   },
   "verified": true
 }
