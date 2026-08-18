@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-43 seq=43 exp=1787231114",
+      "advancedStatus": "pack_id=20260818-44 seq=44 exp=1787232185",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:05",
+      "lastChecked": "13:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 13:05",
+    "expiresAt": "2026-08-20 13:23",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Younes Azadbar, a resident of Rasht, was released on Monday, August 26, after posting bail of 1.5 billion tomans. This news was reported by Harana News Agency.",
-        "time": "13:18",
-        "ts": 1786972713
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "In 2004, a 16-year-old girl named Atefeh Sahaaleh was publicly executed for extramarital sex. She was arrested based on local testimony and her grandfather's complaint. Before the execution, she had received over 300 lashes.",
-        "time": "13:21",
-        "ts": 1786972908
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -854,14 +840,21 @@
         "text": "Frequent power outages in Falard county, Chaharmahal and Bakhtiari province, have caused financial damage to a baker. This issue is shown in a video published on social media. The damage caused by these outages has attracted attention.",
         "time": "13:01",
         "ts": 1787058075
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump posted an image on the social network Truth Social showing a map of the Strait of Hormuz and parts of Iran, the Persian Gulf, and the Sea of Oman. The image includes the phrase \"New American Territory\" and highlights the Strait of Hormuz with a circle. This occurred amid ongoing tensions between the Islamic Republic and the United States in the region.",
+        "time": "13:22",
+        "ts": 1787059359
       }
     ],
     "language": "en",
-    "packId": "20260818-43",
-    "sequence": 43,
+    "packId": "20260818-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:05"
+    "updatedAt": "13:23"
   },
   "verified": true
 }
