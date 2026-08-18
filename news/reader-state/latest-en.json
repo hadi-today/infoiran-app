@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-08 seq=8 exp=1787197113",
+      "advancedStatus": "pack_id=20260818-09 seq=9 exp=1787198161",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:38",
+      "lastChecked": "03:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 03:38",
+    "expiresAt": "2026-08-20 03:56",
     "items": [
       {
         "channel": "iranintl",
@@ -938,14 +938,21 @@
         "text": "The UK Maritime Trade Operations center reported an incident in the Strait of Hormuz. A vessel was targeted by an unidentified projectile while exiting the strait. No further details about the incident have been provided.",
         "time": "03:38",
         "ts": 1787024293
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Democratic and Republican lawmakers in the US Senate criticized Donald Trump's order to reduce joint military exercises with South Korea. Senators described the move as illogical, hasty, and short-sighted. They also expressed concerns about the consequences of this decision.",
+        "time": "03:55",
+        "ts": 1787025344
       }
     ],
     "language": "en",
-    "packId": "20260818-08",
-    "sequence": 8,
+    "packId": "20260818-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:38"
+    "updatedAt": "03:56"
   },
   "verified": true
 }
