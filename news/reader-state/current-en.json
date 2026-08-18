@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-100 seq=100 exp=1787265902",
+      "advancedStatus": "pack_id=20260818-101 seq=101 exp=1787269292",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:45",
+      "lastChecked": "23:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,36 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 22:45",
+    "expiresAt": "2026-08-20 23:41",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump said he asked South Korea to assist the US in a military operation against the Islamic Republic, but Seoul refused. He added that this raises questions about why Washington should defend South Korea against North Korean threats. Report by Niloufar Mansouri, Iran International reporter.",
-        "time": "22:45",
-        "ts": 1787006714
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Recep Tayyip Erdogan, in a phone call with Donald Trump, called for continued negotiations with the Islamic Republic to reduce tensions between Washington and Tehran. Erdogan stated that Turkey is ready to support efforts to establish peace. Additionally, the Turkish foreign minister discussed reopening the Strait of Hormuz and maintaining the ceasefire with Abbas Araghchi.",
-        "time": "22:47",
-        "ts": 1787006826
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The United Arab Emirates condemned the drone attacks by the Islamic Republic on the Prime Minister's office and the security headquarters of the Kurdistan Region of Iraq. The UAE Ministry of Foreign Affairs called these attacks a violation of Iraq's sovereignty and a threat to regional security. The UAE expressed its support for maintaining security and stability in the Kurdistan Region.",
-        "time": "22:58",
-        "ts": 1787007536
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mike Johnson, Speaker of the US House of Representatives, said he believes the United States is on a path to resolving the war with the Islamic Republic. He added that the conflict with the Islamic Republic has naturally caused gasoline prices to rise and that this situation has been prolonged. Johnson also said he believes a coalition of countries, including NATO allies and Arab countries in the region, will eventually form to keep the Strait of Hormuz open for trade.",
-        "time": "23:24",
-        "ts": 1787009073
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -861,14 +833,21 @@
         "text": "The Institute for Science and International Security released satellite images showing limited vehicle activity at the Isfahan nuclear complex. Several container trucks and cars are seen in various parts of the complex. Tunnel entrances remain blocked with no signs of excavation as of August 3.",
         "time": "22:44",
         "ts": 1787093081
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "CNN reported, citing American officials, that US President Donald Trump is dissatisfied with Tehran's unwillingness to respond to his demands. The officials said Trump intends to wait until the leaders of the Islamic Republic show a new willingness to reach the agreement he wants. CNN also reported, citing these officials, that very severe sanctions are expected to be imposed against the Islamic Republic soon.",
+        "time": "23:41",
+        "ts": 1787096469
       }
     ],
     "language": "en",
-    "packId": "20260818-100",
-    "sequence": 100,
+    "packId": "20260818-101",
+    "sequence": 101,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:45"
+    "updatedAt": "23:41"
   },
   "verified": true
 }
