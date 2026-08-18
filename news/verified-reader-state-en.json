@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-80 seq=80 exp=1787251069",
+      "advancedStatus": "pack_id=20260818-81 seq=81 exp=1787251471",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:37",
+      "lastChecked": "18:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 18:37",
+    "expiresAt": "2026-08-20 18:44",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump said he asked South Korea to help the US regarding Iran, but they refused. He emphasized that the US has 39,000 troops in South Korea protecting them against North Korea. Trump also stated that Iran will not accept the agreement that the US deems necessary.",
-        "time": "18:39",
-        "ts": 1786991967
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "Jean-Yves Le Drian, the French foreign minister, announced that two Iranian diplomats will be expelled from France in the coming days. He stated this action is in response to the assault on two French diplomats on July 19. Le Drian also emphasized that the Iranian people are the main victims of Middle East tensions.",
         "time": "18:33",
         "ts": 1787078007
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Israel's defense minister, Yisrael Katz, stated that Israel's policy in Gaza is to eliminate threats, kill terrorists, and take revenge on those involved in the October 7 massacre. He said the Israeli army has acted on this policy by killing Hamas terrorists and will continue to do so. The goal is to protect Israeli forces and ensure calm in southern settlements.",
+        "time": "18:44",
+        "ts": 1787078643
       }
     ],
     "language": "en",
-    "packId": "20260818-80",
-    "sequence": 80,
+    "packId": "20260818-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:37"
+    "updatedAt": "18:44"
   },
   "verified": true
 }
