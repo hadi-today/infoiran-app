@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-68 seq=68 exp=1787245025",
+      "advancedStatus": "pack_id=20260818-69 seq=69 exp=1787245465",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:57",
+      "lastChecked": "17:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 16:57",
+    "expiresAt": "2026-08-20 17:04",
     "items": [
       {
         "channel": "harana",
@@ -882,14 +882,35 @@
         "text": "Steel industry retirees held a protest and march in Isfahan on August 17. They demanded attention to health insurance issues and implementation of the adjustment plan. The protest was held to realize their other demands.",
         "time": "16:53",
         "ts": 1787072007
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Ali Maqiseh, a detained citizen from Sabzevar, was released from the city's prison on bail. This news was reported by the HRANA news agency. His release was confirmed based on information received by HRANA.",
+        "time": "16:57",
+        "ts": 1787072228
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The UAE Ministry of Defense announced that it identified two ballistic missiles launched from Iran. One missile fell outside and the other inside UAE territorial waters. The ministry is at the highest level of readiness to counter any threats.",
+        "time": "16:59",
+        "ts": 1787072391
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "An Iranian resident in Malmö, Sweden, commemorated the martyrs of the Iranian national revolution by cooking Sholeh Zard. He also mentioned Rashid Mazaheri, former goalkeeper of Iran's national football team, who was arrested after openly criticizing Ali Khamenei and the December 1404 massacre.",
+        "time": "17:01",
+        "ts": 1787072486
       }
     ],
     "language": "en",
-    "packId": "20260818-68",
-    "sequence": 68,
+    "packId": "20260818-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:57"
+    "updatedAt": "17:04"
   },
   "verified": true
 }
