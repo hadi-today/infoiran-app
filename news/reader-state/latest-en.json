@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-81 seq=81 exp=1787251471",
+      "advancedStatus": "pack_id=20260818-82 seq=82 exp=1787251814",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:44",
+      "lastChecked": "18:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 18:44",
+    "expiresAt": "2026-08-20 18:50",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump stated that the United States is not seeking to extend the agreement with the Islamic Republic. He also said that the Islamic Republic will not make the agreement that the US requires. These remarks were made at the White House.",
-        "time": "18:46",
-        "ts": 1786992409
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "Israel's defense minister, Yisrael Katz, stated that Israel's policy in Gaza is to eliminate threats, kill terrorists, and take revenge on those involved in the October 7 massacre. He said the Israeli army has acted on this policy by killing Hamas terrorists and will continue to do so. The goal is to protect Israeli forces and ensure calm in southern settlements.",
         "time": "18:44",
         "ts": 1787078643
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Tractor football team defeated Sepahan 2-0 in the second week of the Premier League in Isfahan. Both goals were scored by Amirhossein Hosseinzadeh. With this victory, Tractor reached 6 points and is currently in second place in the league table.",
+        "time": "18:49",
+        "ts": 1787078987
       }
     ],
     "language": "en",
-    "packId": "20260818-81",
-    "sequence": 81,
+    "packId": "20260818-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:44"
+    "updatedAt": "18:50"
   },
   "verified": true
 }
