@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-25 seq=25 exp=1787220265",
+      "advancedStatus": "pack_id=20260818-26 seq=26 exp=1787220628",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:04",
+      "lastChecked": "10:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,36 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 10:04",
+    "expiresAt": "2026-08-20 10:10",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Khadijeh Mobaraki Dil, a teacher working in Kohgiluyeh and Boyer-Ahmad province, was sentenced to mandatory retirement. This ruling was issued by the primary board for administrative violations of education staff in the province.",
-        "time": "10:04",
-        "ts": 1786961057
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Hossein Ghazizadeh stated that the conditions for the previous nuclear agreement no longer exist and distrust between Tehran and Washington has increased. He said the Islamic Republic cannot maintain the 'neither war nor negotiation' stance for long. If neither side retreats, the situation could move towards war.",
-        "time": "10:04",
-        "ts": 1786961096
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Tajernia, head of Esteghlal club, stated that this year's budget is lower in rial terms than last year. The expenses of the senior football team are also less than the reported figures. Additionally, Esteghlal's overall expenses are less than those of Persepolis.",
-        "time": "10:06",
-        "ts": 1786961184
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A group of retired telecommunications workers held a protest in Sanandaj. The protest was due to unpaid claims, incomplete implementation of regulation 89/24, and poor supplementary insurance conditions. They demanded attention to these issues.",
-        "time": "10:07",
-        "ts": 1786961272
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -805,14 +777,21 @@
         "text": "A member of the Supreme Council of Provinces warned that 400 villages in South Khorasan are supplied with water by tanker. Excessive groundwater extraction and reduced rainfall have caused a drop in aquifer levels and land subsidence. This crisis has affected farmers' livelihoods and led to rural migration.",
         "time": "10:04",
         "ts": 1787047444
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The head of Esteghlal Football Club's organization announced that the Asian Football Confederation opposed the team's hosting in Iraq and Uzbekistan. Esteghlal's proposal to hold matches in these two countries was rejected. The final decision on the venue will be announced in the next few hours.",
+        "time": "10:10",
+        "ts": 1787047802
       }
     ],
     "language": "en",
-    "packId": "20260818-25",
-    "sequence": 25,
+    "packId": "20260818-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:04"
+    "updatedAt": "10:10"
   },
   "verified": true
 }
