@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-75 seq=75 exp=1787247808",
+      "advancedStatus": "pack_id=20260818-76 seq=76 exp=1787248613",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:43",
+      "lastChecked": "17:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 17:43",
+    "expiresAt": "2026-08-20 17:56",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Islamabad agreement period has ended, and there are few signs of its renewal. One reason is the secret plan of the Islamic Republic to expand the war. This issue was reported by the Wall Street Journal.",
-        "time": "17:43",
-        "ts": 1786988598
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The first deputy of Pezeshkian announced that the government, in coordination with security institutions, has set a fourth gasoline price. Mohammad Reza Aref said this plan was supposed to be tested in Kerman province. The 87,000 toman price implemented in Kerman differs from the approved rate.",
-        "time": "17:50",
-        "ts": 1786989042
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +875,21 @@
         "text": "Mehdi Tartaar, Persepolis coach, stated that his team's playing style is a combination of Guardiola's possession, Simeone's defensive approach, and Klopp's pressing. He described the match against Esteghlal Khuzestan as one of their finals and emphasized that his team is determined to win. Tartaar also mentioned the opponent's disciplined team and coaching staff.",
         "time": "17:40",
         "ts": 1787074842
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Esteghlal football team defeated Nassaji Mazandaran 1-0 in the second week of the Premier League. The only goal was scored by Mohammadreza Azadi in the 83rd minute. Esteghlal reached 6 points with this victory.",
+        "time": "17:56",
+        "ts": 1787075779
       }
     ],
     "language": "en",
-    "packId": "20260818-75",
-    "sequence": 75,
+    "packId": "20260818-76",
+    "sequence": 76,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:43"
+    "updatedAt": "17:56"
   },
   "verified": true
 }
