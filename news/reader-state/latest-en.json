@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-10 seq=10 exp=1787198457",
+      "advancedStatus": "pack_id=20260818-11 seq=11 exp=1787198747",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:00",
+      "lastChecked": "04:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 04:00",
+    "expiresAt": "2026-08-20 04:05",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The share of US oil in South Korea's crude oil imports exceeded 20 percent in the first half of the year for the first time. The blockade of the Strait of Hormuz and disruption in Middle East oil supply has pushed South Korean refineries toward alternative sources.",
-        "time": "04:00",
-        "ts": 1786939225
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -952,14 +945,21 @@
         "text": "Recep Tayyip Erdogan emphasized the importance of continuing talks with Iran for diplomacy in a conversation with Donald Trump. The Turkish presidency announced Ankara's readiness to support peace efforts. Jared Kushner described the Iran-US talks as serious and intense, but no agreement has been reached yet.",
         "time": "03:59",
         "ts": 1787025590
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The UK Maritime Trade Operations center reported that a vessel was hit by an unknown projectile while passing through the Strait of Hormuz. The incident damaged the engine room and injured one crew member. Omani coast guard is assisting the crew, and investigations are ongoing.",
+        "time": "04:02",
+        "ts": 1787025734
       }
     ],
     "language": "en",
-    "packId": "20260818-10",
-    "sequence": 10,
+    "packId": "20260818-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:00"
+    "updatedAt": "04:05"
   },
   "verified": true
 }
