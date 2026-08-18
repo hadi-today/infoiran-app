@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-30 seq=30 exp=1787222932",
+      "advancedStatus": "pack_id=20260818-31 seq=31 exp=1787223600",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:48",
+      "lastChecked": "11:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 10:48",
+    "expiresAt": "2026-08-20 11:00",
     "items": [
       {
         "channel": "iranintl",
@@ -812,14 +812,21 @@
         "text": "Alireza Jafarzadeh, a master's student in international political economy at Beheshti University, has been sentenced to a temporary suspension from studies for two semesters. His disciplinary ruling was finalized by the university's appeals council. The proposal for his expulsion has also been referred to the Student Affairs Organization for decision.",
         "time": "10:48",
         "ts": 1787050101
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Several employees of the Pars Oil and Gas Company held protests in various sections and offshore platforms in the South Pars and Asaluyeh region. They demanded the removal of salary caps, full payment of wages, and revision of minimum wages. They also requested not to merge the oil pension fund with other pension funds and called for addressing their other demands.",
+        "time": "10:59",
+        "ts": 1787050767
       }
     ],
     "language": "en",
-    "packId": "20260818-30",
-    "sequence": 30,
+    "packId": "20260818-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:48"
+    "updatedAt": "11:00"
   },
   "verified": true
 }
