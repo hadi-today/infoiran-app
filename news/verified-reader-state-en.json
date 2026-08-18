@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-44 seq=44 exp=1787232185",
+      "advancedStatus": "pack_id=20260818-45 seq=45 exp=1787232682",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:23",
+      "lastChecked": "13:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 13:23",
+    "expiresAt": "2026-08-20 13:31",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Nirvana Torbati Nejad, a detained citizen, was released today, Monday, 26 Mordad, on bail from Amirabad Prison in Gorgan. Her release was carried out with the attorney Ramazan Haji Mashhadi and by posting bail to the investigative branch of the General and Revolutionary Prosecutor's Office in Gorgan. This news was reported by HRANA news agency.",
-        "time": "13:28",
-        "ts": 1786973337
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -847,14 +840,28 @@
         "text": "Donald Trump posted an image on the social network Truth Social showing a map of the Strait of Hormuz and parts of Iran, the Persian Gulf, and the Sea of Oman. The image includes the phrase \"New American Territory\" and highlights the Strait of Hormuz with a circle. This occurred amid ongoing tensions between the Islamic Republic and the United States in the region.",
         "time": "13:22",
         "ts": 1787059359
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen reported in a video to Iran International that the water flow in Mahmoudabad city, Mazandaran province, has been cut off for some time. He said that not even a drop of water is flowing in the pipes. This issue has caused concerns in the city.",
+        "time": "13:30",
+        "ts": 1787059859
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Uzi Dayan, former deputy chief of staff of the Israeli army, stated that Israel cannot rely on the US regarding Iran and must rely on itself. He emphasized that Israel fights for its vital and existential needs and must be fully prepared defensively and offensively. Dayan added that conditions may change at any moment, and Israel must be fully ready.",
+        "time": "13:31",
+        "ts": 1787059874
       }
     ],
     "language": "en",
-    "packId": "20260818-44",
-    "sequence": 44,
+    "packId": "20260818-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:23"
+    "updatedAt": "13:31"
   },
   "verified": true
 }
