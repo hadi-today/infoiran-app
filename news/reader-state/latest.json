@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-01 seq=1 exp=1787187966",
+      "advancedStatus": "pack_id=20260818-02 seq=2 exp=1787188326",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:06",
+      "lastChecked": "01:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 01:06",
+    "expiresAt": "2026-08-20 01:12",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -782,13 +782,19 @@
         "text": "بر اساس نظرسنجی رویترز/ایپسوس، محبوبیت دونالد ترامپ به پایین‌ترین سطح دوره ریاست‌جمهوری کنونی خود رسیده است. در این نظرسنجی، ۳۳ درصد عملکرد او را تایید و ۶۴ درصد رد کردند. این میزان محبوبیت با پایین‌ترین سطح دوره نخست ریاست‌جمهوری او در دسامبر ۲۰۱۷ برابر است.",
         "time": "01:05",
         "ts": 1787015147
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "ارتش یمن اعلام کرد که در ۲۴ ساعت گذشته ۱۳۳ عملیات نظامی علیه شبه‌نظامیان حوثی انجام داده است. این گروه به عنوان نیابتی جمهوری اسلامی معرفی شده است. عملیات‌ها علیه توانمندی‌ها و نیروهای حوثی بوده است.",
+        "time": "01:11",
+        "ts": 1787015509
       }
     ],
-    "packId": "20260818-01",
-    "sequence": 1,
+    "packId": "20260818-02",
+    "sequence": 2,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "01:06"
+    "updatedAt": "01:12"
   },
   "verified": true
 }
