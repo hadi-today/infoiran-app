@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-21 seq=21 exp=1787217521",
+      "advancedStatus": "pack_id=20260818-22 seq=22 exp=1787218609",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:18",
+      "lastChecked": "09:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 09:18",
+    "expiresAt": "2026-08-20 09:36",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Two French diplomats were interrogated and beaten for five hours after a work meeting with two Iranian graphic designers. The Ministry of Intelligence described the meeting as a secret gathering and an example of infiltration. The two graphic designers present at the meeting remain in detention.",
-        "time": "09:27",
-        "ts": 1786958868
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Today, Monday, 26 Mordad, employees of the South Pars Gas Complex held a protest gathering on platform 15. They demanded salary base adjustments and improvements in working conditions. The protest was held to address their demands.",
-        "time": "09:32",
-        "ts": 1786959152
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -840,14 +826,21 @@
         "text": "In Alborz province, village water supply is cut and sold at high prices by tanker. In Kerman, electricity was cut on Monday, August 26. Iranian Marine Installations Company and Steel Alborz Sink Company face salary payment issues and potential closure.",
         "time": "09:16",
         "ts": 1787044589
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The interrogation session of Shiva Zarei was held at the first interrogation branch of Boein Zahra Public and Revolutionary Prosecutor's Office. She was released on bail after the session. The session took place in the Public and Revolutionary Prosecutor's Office of Boein Zahra county.",
+        "time": "09:36",
+        "ts": 1787045783
       }
     ],
     "language": "en",
-    "packId": "20260818-21",
-    "sequence": 21,
+    "packId": "20260818-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:18"
+    "updatedAt": "09:36"
   },
   "verified": true
 }
