@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-93 seq=93 exp=1787263568",
+      "advancedStatus": "pack_id=20260818-95 seq=95 exp=1787264426",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:06",
+      "lastChecked": "22:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 22:06",
+    "expiresAt": "2026-08-20 22:20",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Asian Football Confederation announced that the deadline for Esteghlal club to introduce a hosting stadium in the Elite League of Asia has ended. The football federations of Iraq and Uzbekistan did not give final approval for Esteghlal's hosting. AFC will make the final decision regarding Esteghlal's hosting stadium.",
-        "time": "22:10",
-        "ts": 1787004648
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Coalition of Iranian Kurdish Political Forces condemned the drone attacks by the Islamic Republic on the office of the Prime Minister of Iraqi Kurdistan and the security organization headquarters. The coalition described these attacks as a violation of Iraq's sovereignty and a threat to the security of the Kurdistan Region. They called for an immediate halt to the attacks and serious action from the Iraqi government and diplomatic countries.",
-        "time": "22:14",
-        "ts": 1787004854
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -854,14 +840,28 @@
         "text": "Donald Trump, the President of the United States, had a phone call with Mohammed bin Zayed, the President of the UAE, on Tuesday. They discussed opportunities for cooperation and strengthening relations in line with mutual interests. They also exchanged views on the latest developments in the Middle East.",
         "time": "22:05",
         "ts": 1787090750
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Veysi, a senior analyst at Iran International, referred to the disappearance of 13 Iranian fishermen and the authorities' and provincial media's neglect of their fate. He said this shows that citizens' lives are not a priority for the Islamic Republic. He described this indifference as a reflection of an approach where the Iranian human and their life are among the last concerns of government officials.",
+        "time": "22:08",
+        "ts": 1787090916
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "With the expiration of the 60-day deadline for the US and Islamic Republic to reach an agreement, an American official told Al Jazeera that Donald Trump has asked his team not to negotiate with the Islamic Republic until it declares full readiness for an agreement.",
+        "time": "22:20",
+        "ts": 1787091605
       }
     ],
     "language": "en",
-    "packId": "20260818-93",
-    "sequence": 93,
+    "packId": "20260818-95",
+    "sequence": 95,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:06"
+    "updatedAt": "22:20"
   },
   "verified": true
 }
