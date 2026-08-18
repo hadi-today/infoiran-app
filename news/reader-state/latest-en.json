@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-89 seq=89 exp=1787260766",
+      "advancedStatus": "pack_id=20260818-90 seq=90 exp=1787261825",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:19",
+      "lastChecked": "21:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 21:19",
+    "expiresAt": "2026-08-20 21:37",
     "items": [
       {
         "channel": "iranintl",
@@ -868,14 +868,21 @@
         "text": "The Iranian Constitutional Party (Liberal Democrat) reported an assassination attempt on Fouad Pashaei, the party's secretary-general. The incident occurred on Monday at 7:45 PM Los Angeles time, and Pashaei is currently in intensive care. The Los Angeles police are investigating the incident, and no further details have been released.",
         "time": "21:19",
         "ts": 1787087945
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Moscow-based newspaper Vedomosti wrote in an analysis that joint US military exercises with South Korea are costly and an obstacle to normalizing dialogue with North Korea. The newspaper quoted political science expert Malek Dadakov as saying that disputes over the promised $350 billion South Korean investment in the US and the cost of Washington's military presence were factors in the decision, and that Trump wants Seoul to increase its share of funding for US forces and the Iran issue also played a role. Vedomosti also quoted Pavel Koshkin, a researcher at the Russian Academy of Sciences, as saying the reduction in exercises could signal US willingness to resume dialogue with North Korea.",
+        "time": "21:36",
+        "ts": 1787088996
       }
     ],
     "language": "en",
-    "packId": "20260818-89",
-    "sequence": 89,
+    "packId": "20260818-90",
+    "sequence": 90,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:19"
+    "updatedAt": "21:37"
   },
   "verified": true
 }
