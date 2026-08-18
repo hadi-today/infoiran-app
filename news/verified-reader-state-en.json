@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-27 seq=27 exp=1787220816",
+      "advancedStatus": "pack_id=20260818-28 seq=28 exp=1787221139",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:13",
+      "lastChecked": "10:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 10:13",
+    "expiresAt": "2026-08-20 10:18",
     "items": [
       {
         "channel": "iranintl",
@@ -791,14 +791,21 @@
         "text": "A business unit in Isfahan was closed due to selling T-shirts with images deemed against trade regulations by the police. The police declared these designs as violating the rules. This action was taken by the relevant authorities.",
         "time": "10:13",
         "ts": 1787047986
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Shirazi stated that the President of the Kurdistan Region of Iraq has been added as a communication channel between the IRGC and Washington. This indicates that Trump is seeking dialogue with centers of power and military commanders of the Islamic Republic to achieve a lasting agreement.",
+        "time": "10:18",
+        "ts": 1787048319
       }
     ],
     "language": "en",
-    "packId": "20260818-27",
-    "sequence": 27,
+    "packId": "20260818-28",
+    "sequence": 28,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:13"
+    "updatedAt": "10:18"
   },
   "verified": true
 }
