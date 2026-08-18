@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-91 seq=91 exp=1787262876",
+      "advancedStatus": "pack_id=20260818-92 seq=92 exp=1787263208",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:54",
+      "lastChecked": "22:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 21:54",
+    "expiresAt": "2026-08-20 22:00",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,21 @@
         "text": "Esmaeil Baghayi, spokesperson for Iran's Foreign Ministry, denied the claim that Iran launched a missile at the UAE. He described the UAE's behavior as disruptive to efforts to build regional trust. These remarks were in response to the claim made by the UAE.",
         "time": "21:54",
         "ts": 1787090050
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Vaisi, a senior analyst at Iran International, said that the Islamic Republic officials mean the endurance of the regime, not the people, when they talk about resilience. He emphasized that people must endure inflation and livelihood problems. He questioned where the human and Iranian citizen fit in this definition.",
+        "time": "21:59",
+        "ts": 1787090389
       }
     ],
     "language": "en",
-    "packId": "20260818-91",
-    "sequence": 91,
+    "packId": "20260818-92",
+    "sequence": 92,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:54"
+    "updatedAt": "22:00"
   },
   "verified": true
 }
