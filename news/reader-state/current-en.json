@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-72 seq=72 exp=1787246636",
+      "advancedStatus": "pack_id=20260818-74 seq=74 exp=1787247539",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:23",
+      "lastChecked": "17:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 17:23",
+    "expiresAt": "2026-08-20 17:38",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Three prisoners sentenced to death in Varamin, Saravan, and Bardasir were spared execution following the consent of the victims' families. This news was reported by Harana News Agency. More details are provided in the continuation of the report.",
-        "time": "17:32",
-        "ts": 1786987976
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Behnam Taleblu stated that the 60-day agreement between the Islamic Republic and the US over the Strait of Hormuz lasted only two to three weeks. He considered the diplomatic deadlock predictable. There is a possibility of a military reaction from the Islamic Republic in the coming weeks.",
-        "time": "17:35",
-        "ts": 1786988116
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -882,14 +868,35 @@
         "text": "Hojatollah Abdolmaleki stated that recent months' inflation has absolutely no relation to the war. These remarks were made at the 40th day memorial of Ali Khamenei's burial in Koohsar city. The Minister of Cooperatives, Labor, and Social Welfare made these statements.",
         "time": "17:23",
         "ts": 1787073804
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Qalibaf said Americans think they can gain concessions not in the agreement by increasing pressure on Iran. He added that Basent and Hegst are not capable of such actions. He also urged Americans to resolve the problems they have caused themselves.",
+        "time": "17:34",
+        "ts": 1787074455
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Ali Najafi Tavana, former head of the Central Bar Association, discussed the minimum standards for prisons and the current situation of prisons in Iran. Topics such as Mandela Rules, solitary confinement, and government responsibility for prisoners' rights were addressed. Solutions for reforming the prison system from domestic and international law perspectives were also examined.",
+        "time": "17:35",
+        "ts": 1787074517
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Nejat Bahrami, a political analyst, said the Islamic Republic wants to forcibly involve the region in war. The goal is to prevent Trump from maintaining calm until the November elections. After Trump's victory, confronting the Islamic Republic will become more difficult.",
+        "time": "17:35",
+        "ts": 1787074558
       }
     ],
     "language": "en",
-    "packId": "20260818-72",
-    "sequence": 72,
+    "packId": "20260818-74",
+    "sequence": 74,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:23"
+    "updatedAt": "17:38"
   },
   "verified": true
 }
