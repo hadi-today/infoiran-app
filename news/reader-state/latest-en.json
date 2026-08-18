@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-98 seq=98 exp=1787265274",
+      "advancedStatus": "pack_id=20260818-99 seq=99 exp=1787265545",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:34",
+      "lastChecked": "22:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 22:34",
+    "expiresAt": "2026-08-20 22:39",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump said the Islamic Republic must give up acquiring nuclear weapons and until then, the US will continue economic blockade and control of the Strait of Hormuz to pressure Tehran. He emphasized that despite the Strait of Hormuz being open, the US naval blockade has been effective and prevented the Islamic Republic from using this waterway. Trump added that Washington is ready to intensify its actions if necessary and described the Islamic Republic's economic situation and military capability as very weak.",
-        "time": "22:32",
-        "ts": 1787005940
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -868,14 +861,21 @@
         "text": "The plan to sell surplus gasoline in Kerman at 87,200 tomans per liter has been halted due to lack of coordination. The plan was about to be implemented but is currently stopped. The discussion about a fourth gasoline price remains on the government's agenda.",
         "time": "22:31",
         "ts": 1787092271
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Farahnaz Espad, a journalist and presenter at Iran International, has passed away. The Iran International family announced this news. A program will be held in memory of her and Reza Haghighatnejad.",
+        "time": "22:36",
+        "ts": 1787092595
       }
     ],
     "language": "en",
-    "packId": "20260818-98",
-    "sequence": 98,
+    "packId": "20260818-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:34"
+    "updatedAt": "22:39"
   },
   "verified": true
 }
