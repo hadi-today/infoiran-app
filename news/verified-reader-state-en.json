@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-82 seq=82 exp=1787251814",
+      "advancedStatus": "pack_id=20260818-83 seq=83 exp=1787252554",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:50",
+      "lastChecked": "19:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 18:50",
+    "expiresAt": "2026-08-20 19:02",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,21 @@
         "text": "Tractor football team defeated Sepahan 2-0 in the second week of the Premier League in Isfahan. Both goals were scored by Amirhossein Hosseinzadeh. With this victory, Tractor reached 6 points and is currently in second place in the league table.",
         "time": "18:49",
         "ts": 1787078987
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The director of forensic medicine in Kermanshah reported the death of 11 workers and injury of 281 others due to work-related accidents in the first four months of the year. Falling from heights was the main cause of worker deaths. These statistics pertain to Kermanshah province.",
+        "time": "19:02",
+        "ts": 1787079724
       }
     ],
     "language": "en",
-    "packId": "20260818-82",
-    "sequence": 82,
+    "packId": "20260818-83",
+    "sequence": 83,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:50"
+    "updatedAt": "19:02"
   },
   "verified": true
 }
