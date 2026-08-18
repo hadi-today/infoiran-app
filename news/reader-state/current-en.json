@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-60 seq=60 exp=1787240282",
+      "advancedStatus": "pack_id=20260818-61 seq=61 exp=1787240783",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:38",
+      "lastChecked": "15:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 15:38",
+    "expiresAt": "2026-08-20 15:46",
     "items": [
       {
         "channel": "iranintl",
@@ -875,14 +875,21 @@
         "text": "A group of healthcare workers protested in front of the Hamadan governor's office. They are protesting against working hours and salary calculations. The protest is due to job-related issues.",
         "time": "15:37",
         "ts": 1787067446
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fereydoun Haddad Adel spoke about Mojtaba Khamenei's family life, stating that he slept only about three hours a day and spent most of his time studying and praying. Mojtaba Khamenei also dedicated time to his children and participated in their daily affairs. The shared life of Haddad Adel's sister with Mojtaba Khamenei began in a simple, small house in Qom.",
+        "time": "15:45",
+        "ts": 1787067949
       }
     ],
     "language": "en",
-    "packId": "20260818-60",
-    "sequence": 60,
+    "packId": "20260818-61",
+    "sequence": 61,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:38"
+    "updatedAt": "15:46"
   },
   "verified": true
 }
