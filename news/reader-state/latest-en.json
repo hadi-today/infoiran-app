@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-15 seq=15 exp=1787210519",
+      "advancedStatus": "pack_id=20260818-16 seq=16 exp=1787210810",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:21",
+      "lastChecked": "07:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 07:21",
+    "expiresAt": "2026-08-20 07:26",
     "items": [
       {
         "channel": "harana",
@@ -861,14 +861,21 @@
         "text": "Erfan Ghaneifard described the threat of Kataib Hezbollah against the Iraqi government as beyond a tactical dispute. He said these groups want to play a decisive role in Iraq's security and impose their political will.",
         "time": "07:21",
         "ts": 1787037695
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Two businesses, the Hermoso restaurant in Tehran and the Van Wood store in Behbahan, were sealed. The Van Wood store was closed due to publishing immoral content, and its female manager was arrested. The reason for sealing the restaurant has not yet been disclosed.",
+        "time": "07:25",
+        "ts": 1787037902
       }
     ],
     "language": "en",
-    "packId": "20260818-15",
-    "sequence": 15,
+    "packId": "20260818-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:21"
+    "updatedAt": "07:26"
   },
   "verified": true
 }
