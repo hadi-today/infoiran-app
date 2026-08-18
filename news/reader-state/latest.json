@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-26 seq=26 exp=1787220628",
+      "advancedStatus": "pack_id=20260818-27 seq=27 exp=1787220816",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:10",
+      "lastChecked": "10:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-18",
-    "expiresAt": "2026-08-20 10:10",
+    "expiresAt": "2026-08-20 10:13",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -674,13 +674,19 @@
         "text": "رئیس سازمان فوتبال باشگاه استقلال اعلام کرد که کنفدراسیون فوتبال آسیا با میزبانی این تیم در کشورهای عراق و ازبکستان مخالفت کرده است. پیشنهاد استقلال برای برگزاری بازی‌ها در این دو کشور رد شده است. تصمیم نهایی درباره محل برگزاری بازی‌ها در چند ساعت آینده اعلام خواهد شد.",
         "time": "10:10",
         "ts": 1787047802
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "text": "یک واحد صنفی در اصفهان به دلیل عرضه تی‌شرت‌هایی با تصاویر مغایر با ضوابط صنفی پلمب شد. پلیس این طرح‌ها را خلاف مقررات اعلام کرده است. این اقدام توسط مراجع مربوطه انجام شده است.",
+        "time": "10:13",
+        "ts": 1787047986
       }
     ],
-    "packId": "20260818-26",
-    "sequence": 26,
+    "packId": "20260818-27",
+    "sequence": 27,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "10:10"
+    "updatedAt": "10:13"
   },
   "verified": true
 }
