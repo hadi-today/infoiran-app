@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-74 seq=74 exp=1787325068",
+      "advancedStatus": "pack_id=20260819-75 seq=75 exp=1787325465",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:11",
+      "lastChecked": "15:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 15:11",
+    "expiresAt": "2026-08-21 15:17",
     "items": [
       {
         "channel": "iranintl",
@@ -903,14 +903,21 @@
         "text": "In the past July, detainees from the December protests remain in Vakilabad Prison in Mashhad, with their number reduced from over a thousand to about four hundred. Their judicial cases have not progressed and they have experienced months-long suspension in prison. Communication restrictions and repeated beatings by prison guards are also among the problems faced by these prisoners.",
         "time": "15:10",
         "ts": 1787152245
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "CNN reported that Donald Trump has ordered a halt to all negotiations with the Islamic Republic and has distanced himself from diplomacy.",
+        "time": "15:17",
+        "ts": 1787152641
       }
     ],
     "language": "en",
-    "packId": "20260819-74",
-    "sequence": 74,
+    "packId": "20260819-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:11"
+    "updatedAt": "15:17"
   },
   "verified": true
 }
