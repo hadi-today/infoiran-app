@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-105 seq=105 exp=1787350787",
+      "advancedStatus": "pack_id=20260819-106 seq=106 exp=1787351080",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:19",
+      "lastChecked": "22:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 22:19",
+    "expiresAt": "2026-08-21 22:24",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "With the expiration of the 60-day deadline for the US and Islamic Republic to reach an agreement, an American official told Al Jazeera that Donald Trump has asked his team not to negotiate with the Islamic Republic until it declares full readiness for an agreement.",
-        "time": "22:20",
-        "ts": 1787091605
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mark Montgomery called Donald Trump's threat to bomb Oman exaggerated. He said Trump intended to remind Oman to adhere to international laws. He also described Oman as a long-term ally and partner of the United States.",
-        "time": "22:20",
-        "ts": 1787091644
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -868,14 +854,21 @@
         "text": "Morad Vaisi, a senior analyst at Iran International, said that since the late 1970s, China has chosen the path of reforms and economic development instead of direct confrontation with the US to become a global power. He emphasized that the biggest rival of the US has built its power by strengthening its economy and national capabilities.",
         "time": "22:19",
         "ts": 1787177960
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A leaked file from a secret Basij meeting in Pakdasht shows government forces preparing for a new round of protests. They are concerned about a possible increase in gasoline prices and public anger, and have instructed members to record and report protest activities. There is also concern about identifying suppressive forces using artificial intelligence.",
+        "time": "22:21",
+        "ts": 1787178094
       }
     ],
     "language": "en",
-    "packId": "20260819-105",
-    "sequence": 105,
+    "packId": "20260819-106",
+    "sequence": 106,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:19"
+    "updatedAt": "22:24"
   },
   "verified": true
 }
