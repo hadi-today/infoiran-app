@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-23 seq=23 exp=1787295913",
+      "advancedStatus": "pack_id=20260819-25 seq=25 exp=1787296456",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:05",
+      "lastChecked": "07:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 07:05",
+    "expiresAt": "2026-08-21 07:14",
     "items": [
       {
         "channel": "iranintl",
@@ -903,14 +903,28 @@
         "text": "Anwar Gargash, diplomatic advisor to the UAE president, denied rumors about canceling worker residency or providing financial facilities to Iran. He described these rumors as part of a desperate media campaign. He also emphasized that the UAE continues its efforts to address regional developments.",
         "time": "07:04",
         "ts": 1787123068
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "China has launched its first regular shipping service in the Arctic. This route reduces the shipping time from China to the UK to 20 days. The plan is part of China and Russia's cooperation to develop the Polar Silk Road.",
+        "time": "07:05",
+        "ts": 1787123104
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ghasem Ravanbakhsh, representative of Qom, stated that 40% of the revenues from the Strait of Hormuz are allocated to strengthening the armed forces and military infrastructure, while 60% is designated for the welfare of the Iranian people. The Strait of Hormuz plan has been drafted in 12 articles. Approval of this plan could enable Iran to utilize the capacities of the Strait of Hormuz for national interests.",
+        "time": "07:13",
+        "ts": 1787123630
       }
     ],
     "language": "en",
-    "packId": "20260819-23",
-    "sequence": 23,
+    "packId": "20260819-25",
+    "sequence": 25,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:05"
+    "updatedAt": "07:14"
   },
   "verified": true
 }
