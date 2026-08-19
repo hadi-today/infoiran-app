@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-58 seq=58 exp=1787315074",
+      "advancedStatus": "pack_id=20260819-59 seq=59 exp=1787315446",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:24",
+      "lastChecked": "12:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 12:24",
+    "expiresAt": "2026-08-21 12:30",
     "items": [
       {
         "channel": "iranintl",
@@ -973,14 +973,21 @@
         "text": "Esmaeil Baghaei, spokesman for the Islamic Republic's Ministry of Foreign Affairs, said regional countries have concluded that the US military presence in West Asia causes insecurity, and Washington's allies also consider America untrustworthy. He added that fabricated stereotypes against Iran internationally have created a basis to justify an attack on Iran.",
         "time": "12:24",
         "ts": 1787142243
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Hiwa Seifizadeh, an Iranian traditional music singer, has been sentenced to four years in prison on charges of promoting corruption and immorality. The sentence is related to her concert performance at the Robro Mansion in Tehran. Seifizadeh has appealed the verdict and requested a thorough review of the case.",
+        "time": "12:30",
+        "ts": 1787142619
       }
     ],
     "language": "en",
-    "packId": "20260819-58",
-    "sequence": 58,
+    "packId": "20260819-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:24"
+    "updatedAt": "12:30"
   },
   "verified": true
 }
