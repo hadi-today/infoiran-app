@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-02 seq=2 exp=1787271410",
+      "advancedStatus": "pack_id=20260819-03 seq=3 exp=1787273209",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:16",
+      "lastChecked": "00:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 00:16",
+    "expiresAt": "2026-08-21 00:46",
     "items": [
       {
         "channel": "iranintl",
@@ -847,14 +847,21 @@
         "text": "Kazem Jalali, Iran's ambassador in Moscow, stated that Ukraine has not yet paid compensation to Tehran for the attack on a ship in the Caspian Sea. Talks for compensation and damage reimbursement are ongoing. Jalali hopes the negotiations will be successful.",
         "time": "00:16",
         "ts": 1787098591
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Coalition of Political Forces of Kurdistan of Iran described Khomeini's jihad fatwa on August 19, 1979, as a systematic revenge against the people of Kurdistan. The coalition referred to the attacks by the Revolutionary Guards on Kurdistan cities and summary executions. It also emphasized the resistance of the Kurdish people and the need for solidarity among democratic forces.",
+        "time": "00:46",
+        "ts": 1787100365
       }
     ],
     "language": "en",
-    "packId": "20260819-02",
-    "sequence": 2,
+    "packId": "20260819-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:16"
+    "updatedAt": "00:46"
   },
   "verified": true
 }
