@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-34 seq=34 exp=1787303501",
+      "advancedStatus": "pack_id=20260819-33 seq=33 exp=1787303191",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:11",
+      "lastChecked": "09:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,8 +13,15 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 09:11",
+    "expiresAt": "2026-08-21 09:06",
     "items": [
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli Prime Minister stated in a meeting with Jared Kushner that Israeli forces will not leave Gaza and reconstruction will not begin until Hamas is fully disarmed. Both sides agreed that an American official will oversee the collection and delivery of Hamas weapons. This report was published by Iran International.",
+        "time": "09:10",
+        "ts": 1787044252
+      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -952,21 +959,14 @@
         "text": "Rouhollah Rahimpour referred to CNN's report on the halt of talks between the US and the Islamic Republic, calling this development a strategic shift. He said this change affects not only the pressure tools but also Washington's logic for achieving political goals.",
         "time": "09:02",
         "ts": 1787130172
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The head of the Cyber Police Center announced the identification and summons of a person in Talesh who posted a video of dragging a dog with a car. This individual is facing judicial action. The incident was shared on social media.",
-        "time": "09:11",
-        "ts": 1787130676
       }
     ],
     "language": "en",
-    "packId": "20260819-34",
-    "sequence": 34,
+    "packId": "20260819-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:11"
+    "updatedAt": "09:06"
   },
   "verified": true
 }
