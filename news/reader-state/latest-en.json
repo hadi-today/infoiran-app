@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-04 seq=4 exp=1787273640",
+      "advancedStatus": "pack_id=20260819-05 seq=5 exp=1787274158",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:54",
+      "lastChecked": "01:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 00:54",
+    "expiresAt": "2026-08-21 01:02",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "Damascus has requested an agreement with the US and Israel to establish a joint coordination center in Jordan. The aim of this center is to prevent escalation of tensions. This report was published by Axios quoting a US official.",
         "time": "00:53",
         "ts": 1787100819
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A coalition of student activists and media issued a statement saying that execution is not justice but intentional killing legalized by the state. The coalition opposes the death penalty in principle and views it as a tool of state repression. They emphasized that defending the right to life is part of the struggle for freedom and democracy.",
+        "time": "01:02",
+        "ts": 1787101338
       }
     ],
     "language": "en",
-    "packId": "20260819-04",
-    "sequence": 4,
+    "packId": "20260819-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:54"
+    "updatedAt": "01:02"
   },
   "verified": true
 }
