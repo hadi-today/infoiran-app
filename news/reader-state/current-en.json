@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-64 seq=64 exp=1787318709",
+      "advancedStatus": "pack_id=20260819-65 seq=65 exp=1787319065",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:25",
+      "lastChecked": "13:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 13:25",
+    "expiresAt": "2026-08-21 13:31",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "Hiwa Seifizadeh, an Iranian female singer, was arrested during a concert performance in Tehran. She is accused of holding an unauthorized concert and female solo singing in the presence of men. Seifizadeh criticized the accusations against her in a video.",
         "time": "13:24",
         "ts": 1787145879
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reports have emerged about severe price increases and electricity outages in various cities in Iran. The price of dishwashing gloves has reached 320,000 tomans, and factory electricity prices have increased up to tenfold. Additionally, power outages during peak heat hours and severe voltage fluctuations in Bandar Abbas have caused problems.",
+        "time": "13:30",
+        "ts": 1787146215
       }
     ],
     "language": "en",
-    "packId": "20260819-64",
-    "sequence": 64,
+    "packId": "20260819-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:25"
+    "updatedAt": "13:31"
   },
   "verified": true
 }
