@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-90 seq=90 exp=1787335368",
+      "advancedStatus": "pack_id=20260819-91 seq=91 exp=1787335617",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:02",
+      "lastChecked": "18:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 18:02",
+    "expiresAt": "2026-08-21 18:06",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,28 @@
         "text": "Christina Aguilera's concert and the Off Limits music festival in Abu Dhabi have been canceled. The organizers did not provide a reason for the cancellation but promised ticket refunds. These cancellations occurred following increased attacks by the Islamic Republic on Emirati ships and a missile attack on the UAE.",
         "time": "18:02",
         "ts": 1787162538
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Pro-government groups have asked citizens to sacrifice sheep for the health of Mojtaba Khamenei. Each sheep is valued at 25 million tomans. Citizens have criticized the payment of this cost given the economic situation.",
+        "time": "18:04",
+        "ts": 1787162668
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A number of municipal workers in Bandar Mahshahr went on strike due to unpaid wages and livelihood issues. The strike took place in recent days. Official media have reported the end of this strike.",
+        "time": "18:05",
+        "ts": 1787162714
       }
     ],
     "language": "en",
-    "packId": "20260819-90",
-    "sequence": 90,
+    "packId": "20260819-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:02"
+    "updatedAt": "18:06"
   },
   "verified": true
 }
