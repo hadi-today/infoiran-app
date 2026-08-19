@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-35 seq=35 exp=1787303956",
+      "advancedStatus": "pack_id=20260819-36 seq=36 exp=1787304163",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:19",
+      "lastChecked": "09:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 09:19",
+    "expiresAt": "2026-08-21 09:22",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Hamzeh Darvish, a Sunni prisoner in Lakaan Prison in Rasht, has been deprived of phone contact and visits with his family for three weeks starting from August 5. This action followed his recent beating by prison officers and transfer to the prison infirmary. His family is concerned about his physical condition and the circumstances of his detention.",
-        "time": "09:16",
-        "ts": 1787044582
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "In Alborz province, village water supply is cut and sold at high prices by tanker. In Kerman, electricity was cut on Monday, August 26. Iranian Marine Installations Company and Steel Alborz Sink Company face salary payment issues and potential closure.",
-        "time": "09:16",
-        "ts": 1787044589
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -938,14 +924,21 @@
         "text": "Reza Rahmani, the governor of West Azerbaijan, announced that the province faces a shortage of 2,500 hospital beds. West Azerbaijan is far from the national standards in terms of hospital bed indices. This indicates a need for development of healthcare infrastructure in West Azerbaijan.",
         "time": "09:15",
         "ts": 1787130930
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Azar Ghabrani, a citizen from Miandoab, was arrested on Sunday, August 16, after attending the intelligence office of the city.",
+        "time": "09:22",
+        "ts": 1787131339
       }
     ],
     "language": "en",
-    "packId": "20260819-35",
-    "sequence": 35,
+    "packId": "20260819-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:19"
+    "updatedAt": "09:22"
   },
   "verified": true
 }
