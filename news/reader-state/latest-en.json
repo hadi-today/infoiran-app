@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-16 seq=16 exp=1787291754",
+      "advancedStatus": "pack_id=20260819-17 seq=17 exp=1787292331",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:55",
+      "lastChecked": "06:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 05:55",
+    "expiresAt": "2026-08-21 06:05",
     "items": [
       {
         "channel": "iranintl",
@@ -868,14 +868,28 @@
         "text": "Financial Times, citing sources close to the Iranian government, reported that Iran is considering attacks on military targets in southeastern Europe, including Bulgaria and Cyprus, if the war escalates due to the US. Attacks on submarine fiber optic cables in the Strait of Hormuz are also being considered. These sources stated that if the US goes too far, Iran might target locations in Europe.",
         "time": "05:55",
         "ts": 1787118930
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Bagher Ghalibaf, the Speaker of the Parliament, stated in his speech in Baghdad that the entire region considers Israel as an enemy. He said his trip to Iraq aims to accelerate a new regional order without foreign interference. Ghalibaf also emphasized the Islamic Republic's readiness for security and deep relations in the region.",
+        "time": "06:05",
+        "ts": 1787119507
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US Department of Justice announced that a 14-count supplementary indictment against 17 members of 'Mabna Institute,' a company based in Iran, was unsealed on Tuesday, 27 Mordad. According to the indictment, Mabna Institute has conducted a coordinated cyber intrusion campaign since at least 2013 targeting computer systems of 144 US universities, 178 foreign universities, at least 42 US private companies, 11 foreign private companies, at least five US federal and state government entities, and at least two non-governmental organizations.",
+        "time": "06:05",
+        "ts": 1787119514
       }
     ],
     "language": "en",
-    "packId": "20260819-16",
-    "sequence": 16,
+    "packId": "20260819-17",
+    "sequence": 17,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:55"
+    "updatedAt": "06:05"
   },
   "verified": true
 }
