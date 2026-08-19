@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-98 seq=98 exp=1787348510",
+      "advancedStatus": "pack_id=20260819-99 seq=99 exp=1787348777",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:41",
+      "lastChecked": "21:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 21:41",
+    "expiresAt": "2026-08-21 21:46",
     "items": [
       {
         "channel": "iranintl",
@@ -840,14 +840,21 @@
         "text": "Donald Trump stated that the naval blockade against Iran has been 100 percent successful and no ships have entered Iran. He also said that we might see the most impactful sanctions against Iran this week. Trump added that the Strait of Hormuz will no longer be as important as it was in the past.",
         "time": "21:41",
         "ts": 1787175690
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The Axios website reported that the US military has created a shipping route under its control in the southern part of the Strait of Hormuz. This route enables the daily transport of millions of barrels of oil, and according to US officials, about 15 to 20 tankers pass through it each night. The average daily oil transfer through this route has reached nearly 10 million barrels.",
+        "time": "21:43",
+        "ts": 1787175829
       }
     ],
     "language": "en",
-    "packId": "20260819-98",
-    "sequence": 98,
+    "packId": "20260819-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:41"
+    "updatedAt": "21:46"
   },
   "verified": true
 }
