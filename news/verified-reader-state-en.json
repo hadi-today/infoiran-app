@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-100 seq=100 exp=1787349075",
+      "advancedStatus": "pack_id=20260819-101 seq=101 exp=1787349377",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:51",
+      "lastChecked": "21:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 21:51",
+    "expiresAt": "2026-08-21 21:56",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,28 @@
         "text": "Saudi Arabia has asked the Iraqi Prime Minister to arrest and punish the leaders of militias supported by the Islamic Republic involved in attacks on Saudi Arabia. Riyadh emphasized that the leaders who ordered the attacks, not just the forces who carried them out, should be held accountable. This report was published by Al-Monitor citing regional officials.",
         "time": "21:50",
         "ts": 1787176258
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Veysi, a senior analyst at Iran International, quoted a famous poem attributed to Ferdowsi about Iranian patriotism. He stated that the actions of the Islamic Republic officials are completely opposite to this poem. He added that these officials believe \"If we are not there, Iran should not be either.\"",
+        "time": "21:51",
+        "ts": 1787176295
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fars news agency reported the seizure of an Emirati oil tanker in the Strait of Hormuz. This occurred after Iran fired two ballistic missiles towards Emirati waters. Abu Dhabi has suspended all trade and financial transactions with Iran.",
+        "time": "21:53",
+        "ts": 1787176417
       }
     ],
     "language": "en",
-    "packId": "20260819-100",
-    "sequence": 100,
+    "packId": "20260819-101",
+    "sequence": 101,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:51"
+    "updatedAt": "21:56"
   },
   "verified": true
 }
