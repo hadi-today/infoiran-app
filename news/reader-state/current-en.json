@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-59 seq=59 exp=1787315446",
+      "advancedStatus": "pack_id=20260819-60 seq=60 exp=1787316025",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:30",
+      "lastChecked": "12:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 12:30",
+    "expiresAt": "2026-08-21 12:40",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A resident of Isfahan stated that he paid nearly one million tomans for breakfast groceries. This amount exceeds his entire daily wage. This indicates a sharp increase in food costs.",
-        "time": "12:31",
-        "ts": 1787056285
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -980,14 +973,21 @@
         "text": "Hiwa Seifizadeh, an Iranian traditional music singer, has been sentenced to four years in prison on charges of promoting corruption and immorality. The sentence is related to her concert performance at the Robro Mansion in Tehran. Seifizadeh has appealed the verdict and requested a thorough review of the case.",
         "time": "12:30",
         "ts": 1787142619
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Bagher Ghalibaf, the Speaker of the Parliament, wrote on X that the US seeks a dignified exit from the region. He also stated that foreign powers' interference in the region is rapidly decreasing and that the \"From the River to the Sea\" plan for Israel is an unfounded fantasy. These remarks were posted along with an image of the statues of Qasem Soleimani and Abu Mahdi al-Muhandis.",
+        "time": "12:39",
+        "ts": 1787143199
       }
     ],
     "language": "en",
-    "packId": "20260819-59",
-    "sequence": 59,
+    "packId": "20260819-60",
+    "sequence": 60,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:30"
+    "updatedAt": "12:40"
   },
   "verified": true
 }
