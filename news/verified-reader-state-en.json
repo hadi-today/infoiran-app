@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-17 seq=17 exp=1787292331",
+      "advancedStatus": "pack_id=20260819-19 seq=19 exp=1787292822",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:05",
+      "lastChecked": "06:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 06:05",
+    "expiresAt": "2026-08-21 06:13",
     "items": [
       {
         "channel": "iranintl",
@@ -882,14 +882,21 @@
         "text": "The US Department of Justice announced that a 14-count supplementary indictment against 17 members of 'Mabna Institute,' a company based in Iran, was unsealed on Tuesday, 27 Mordad. According to the indictment, Mabna Institute has conducted a coordinated cyber intrusion campaign since at least 2013 targeting computer systems of 144 US universities, 178 foreign universities, at least 42 US private companies, 11 foreign private companies, at least five US federal and state government entities, and at least two non-governmental organizations.",
         "time": "06:05",
         "ts": 1787119514
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Abdollahi, Chief of Staff of the Armed Forces, stated that the southern Gulf countries should know that nothing escapes the eyes of the armed forces. He added that any assistance to the US military is considered participation with US forces. He also noted that the presence of military aircraft at regional bases without the host countries' knowledge is unlikely.",
+        "time": "06:13",
+        "ts": 1787120002
       }
     ],
     "language": "en",
-    "packId": "20260819-17",
-    "sequence": 17,
+    "packId": "20260819-19",
+    "sequence": 19,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:05"
+    "updatedAt": "06:13"
   },
   "verified": true
 }
