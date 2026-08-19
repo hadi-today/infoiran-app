@@ -1,27 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260818-101 seq=101 exp=1787269292",
+      "advancedStatus": "pack_id=20260819-01 seq=1 exp=1787270533",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:41",
+      "lastChecked": "00:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-08-18",
-    "expiresAt": "2026-08-20 23:41",
+    "date": "2026-08-19",
+    "expiresAt": "2026-08-21 00:02",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Network for Human Rights Solidarity in Iran stated that the pattern of repression and the current wave of executions continue the policies of the 1980s. The network emphasized the need for accountability of those responsible for the 1988 summer executions and current suppressions in international courts. It also called for uncovering the truth about mass graves and ending pressure on families seeking justice.",
-        "time": "23:44",
-        "ts": 1787010285
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -840,14 +833,21 @@
         "text": "CNN reported, citing American officials, that US President Donald Trump is dissatisfied with Tehran's unwillingness to respond to his demands. The officials said Trump intends to wait until the leaders of the Islamic Republic show a new willingness to reach the agreement he wants. CNN also reported, citing these officials, that very severe sanctions are expected to be imposed against the Islamic Republic soon.",
         "time": "23:41",
         "ts": 1787096469
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US State Department has offered up to $10 million for information about five men accused of hacking and stealing data related to the US and its allies from the Islamic Republic. These individuals have ties to the Ministry of Intelligence and the IRGC and targeted critical US infrastructure. Their names are Behzad Masri, Keyvan Fayyaz, Mojtaba Ghalehkouhi, Arman Kahzadian, and Saber Shahbazi.",
+        "time": "00:01",
+        "ts": 1787097710
       }
     ],
     "language": "en",
-    "packId": "20260818-101",
-    "sequence": 101,
+    "packId": "20260819-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:41"
+    "updatedAt": "00:02"
   },
   "verified": true
 }
