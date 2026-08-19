@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-01 seq=1 exp=1787270533",
+      "advancedStatus": "pack_id=20260819-02 seq=2 exp=1787271410",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:02",
+      "lastChecked": "00:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 00:02",
+    "expiresAt": "2026-08-21 00:16",
     "items": [
       {
         "channel": "iranintl",
@@ -840,14 +840,21 @@
         "text": "The US State Department has offered up to $10 million for information about five men accused of hacking and stealing data related to the US and its allies from the Islamic Republic. These individuals have ties to the Ministry of Intelligence and the IRGC and targeted critical US infrastructure. Their names are Behzad Masri, Keyvan Fayyaz, Mojtaba Ghalehkouhi, Arman Kahzadian, and Saber Shahbazi.",
         "time": "00:01",
         "ts": 1787097710
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Kazem Jalali, Iran's ambassador in Moscow, stated that Ukraine has not yet paid compensation to Tehran for the attack on a ship in the Caspian Sea. Talks for compensation and damage reimbursement are ongoing. Jalali hopes the negotiations will be successful.",
+        "time": "00:16",
+        "ts": 1787098591
       }
     ],
     "language": "en",
-    "packId": "20260819-01",
-    "sequence": 1,
+    "packId": "20260819-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:02"
+    "updatedAt": "00:16"
   },
   "verified": true
 }
