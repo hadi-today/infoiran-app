@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-37 seq=37 exp=1787304445",
+      "advancedStatus": "pack_id=20260819-38 seq=38 exp=1787304900",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:27",
+      "lastChecked": "09:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 09:27",
+    "expiresAt": "2026-08-21 09:35",
     "items": [
       {
         "channel": "harana",
@@ -938,14 +938,21 @@
         "text": "Ali Nikzad, the deputy speaker of the parliament, said the Strait of Hormuz has brought misery to the American-Israeli enemy. He emphasized that security is an endogenous process based on the will of the nations. Nikzad also stated that the parliament is determined to implement reforms and will use all legal tools.",
         "time": "09:27",
         "ts": 1787131621
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A NATO official stated that the organization is prepared to counter any threats and will take necessary actions to defend its members. NATO's air defense intercepted four ballistic missiles launched by Iran towards Turkey during the 40-day war.",
+        "time": "09:34",
+        "ts": 1787132067
       }
     ],
     "language": "en",
-    "packId": "20260819-37",
-    "sequence": 37,
+    "packId": "20260819-38",
+    "sequence": 38,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:27"
+    "updatedAt": "09:35"
   },
   "verified": true
 }
