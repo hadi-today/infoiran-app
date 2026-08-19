@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-96 seq=96 exp=1787346136",
+      "advancedStatus": "pack_id=20260819-97 seq=97 exp=1787346442",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:02",
+      "lastChecked": "21:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 21:02",
+    "expiresAt": "2026-08-21 21:07",
     "items": [
       {
         "channel": "iranintl",
@@ -826,14 +826,42 @@
         "text": "Heavy rainfall caused flooding and landslides in Tocopilla, Antofagasta province, Chile. The Chilean president declared a state of constitutional disaster in the province. The National Office of Emergency of Chile issued a red alert for several cities.",
         "time": "21:02",
         "ts": 1787173323
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The French government expelled Niloufar Shadmehri, the cultural attaché of the Iranian embassy. This action was in response to Iran expelling two French embassy staff members. The name and position of the second expelled individual from France have not yet been announced.",
+        "time": "21:02",
+        "ts": 1787173375
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abdolnaser Hemmati, the governor of the Central Bank of Iran, said in a televised interview that income restrictions due to reduced oil exports are a widespread issue affecting neighboring countries including Qatar and Iraq. He stated that Iran's main difference is the lack of access to foreign reserves because they have been blocked by the United States. Hemmati added that the simultaneous decline in oil, tax, and social security premium revenues has impacted all economic sectors.",
+        "time": "21:03",
+        "ts": 1787173387
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Pouria Hosseini-Mofrad, detained during the December 2025 protests, was sentenced to death by the Mashhad Revolutionary Court. His charges include acting against national security and conspiracy. He has been held in Vakilabad Prison in Mashhad since January 14, 2026.",
+        "time": "21:03",
+        "ts": 1787173430
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The execution of a prisoner convicted of drug-related crimes was carried out in Dastgerd prison, Isfahan. Additionally, a prisoner sentenced to death in Kouhrang was spared from execution after the victim's family pardoned him. These events occurred on August 19.",
+        "time": "21:04",
+        "ts": 1787173444
       }
     ],
     "language": "en",
-    "packId": "20260819-96",
-    "sequence": 96,
+    "packId": "20260819-97",
+    "sequence": 97,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:02"
+    "updatedAt": "21:07"
   },
   "verified": true
 }
