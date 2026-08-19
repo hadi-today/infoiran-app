@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-38 seq=38 exp=1787304900",
+      "advancedStatus": "pack_id=20260819-39 seq=39 exp=1787305058",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:35",
+      "lastChecked": "09:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 09:35",
+    "expiresAt": "2026-08-21 09:37",
     "items": [
       {
         "channel": "harana",
@@ -945,14 +945,21 @@
         "text": "A NATO official stated that the organization is prepared to counter any threats and will take necessary actions to defend its members. NATO's air defense intercepted four ballistic missiles launched by Iran towards Turkey during the 40-day war.",
         "time": "09:34",
         "ts": 1787132067
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A meeting with human rights activists and lawyers will discuss the use of universal jurisdiction to combat impunity. The meeting will be held on September 3 in Berlin. Registration is required to attend the event.",
+        "time": "09:35",
+        "ts": 1787132113
       }
     ],
     "language": "en",
-    "packId": "20260819-38",
-    "sequence": 38,
+    "packId": "20260819-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:35"
+    "updatedAt": "09:37"
   },
   "verified": true
 }
