@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-19 seq=19 exp=1787292822",
+      "advancedStatus": "pack_id=20260819-20 seq=20 exp=1787294118",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:13",
+      "lastChecked": "06:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 06:13",
+    "expiresAt": "2026-08-21 06:35",
     "items": [
       {
         "channel": "iranintl",
@@ -889,14 +889,21 @@
         "text": "Ali Abdollahi, Chief of Staff of the Armed Forces, stated that the southern Gulf countries should know that nothing escapes the eyes of the armed forces. He added that any assistance to the US military is considered participation with US forces. He also noted that the presence of military aircraft at regional bases without the host countries' knowledge is unlikely.",
         "time": "06:13",
         "ts": 1787120002
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump has ordered a halt to any negotiations with the Islamic Republic. After weeks of optimism about improving relations with Tehran, he concluded that the efforts were unsuccessful. Trump has now adopted a new approach.",
+        "time": "06:35",
+        "ts": 1787121301
       }
     ],
     "language": "en",
-    "packId": "20260819-19",
-    "sequence": 19,
+    "packId": "20260819-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:13"
+    "updatedAt": "06:35"
   },
   "verified": true
 }
