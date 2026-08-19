@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-93 seq=93 exp=1787336601",
+      "advancedStatus": "pack_id=20260819-94 seq=94 exp=1787337268",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:23",
+      "lastChecked": "18:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 18:23",
+    "expiresAt": "2026-08-21 18:34",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Employees of Zahedan University of Medical Sciences, Iranshahr municipality staff, and workers of Lar copper and gold mine reported unpaid wage arrears. Some workers at Lar mine faced threats of dismissal when demanding their overdue wages.",
-        "time": "18:33",
-        "ts": 1787077985
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Jean-Yves Le Drian, the French foreign minister, announced that two Iranian diplomats will be expelled from France in the coming days. He stated this action is in response to the assault on two French diplomats on July 19. Le Drian also emphasized that the Iranian people are the main victims of Middle East tensions.",
-        "time": "18:33",
-        "ts": 1787078007
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -875,14 +861,21 @@
         "text": "The audio version of the Titraval program with Niusha Saremi has been released. The program discusses the attack on the UAE and attacks on targets in Europe. It also addresses the possibility of war expansion in Tehran.",
         "time": "18:20",
         "ts": 1787163655
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A group of workers from Chabahar Municipality and the engineering company Arg-o-P reported wage arrears and non-payment of insurance and severance pay.",
+        "time": "18:34",
+        "ts": 1787164443
       }
     ],
     "language": "en",
-    "packId": "20260819-93",
-    "sequence": 93,
+    "packId": "20260819-94",
+    "sequence": 94,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:23"
+    "updatedAt": "18:34"
   },
   "verified": true
 }
