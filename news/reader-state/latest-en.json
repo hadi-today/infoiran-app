@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-20 seq=20 exp=1787294118",
+      "advancedStatus": "pack_id=20260819-21 seq=21 exp=1787294584",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:35",
+      "lastChecked": "06:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 06:35",
+    "expiresAt": "2026-08-21 06:43",
     "items": [
       {
         "channel": "iranintl",
@@ -896,14 +896,21 @@
         "text": "Donald Trump has ordered a halt to any negotiations with the Islamic Republic. After weeks of optimism about improving relations with Tehran, he concluded that the efforts were unsuccessful. Trump has now adopted a new approach.",
         "time": "06:35",
         "ts": 1787121301
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fadahossein Maleki does not rule out the possibility of an uncalculated nuclear attack by Donald Trump on Iran. He stated that Iran has entered an active and offensive deterrence phase. The Islamic Republic will respond proportionally to the type of weapon used by the US.",
+        "time": "06:42",
+        "ts": 1787121760
       }
     ],
     "language": "en",
-    "packId": "20260819-20",
-    "sequence": 20,
+    "packId": "20260819-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:35"
+    "updatedAt": "06:43"
   },
   "verified": true
 }
