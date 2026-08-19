@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-75 seq=75 exp=1787325465",
+      "advancedStatus": "pack_id=20260819-76 seq=76 exp=1787325698",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:17",
+      "lastChecked": "15:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 15:17",
+    "expiresAt": "2026-08-21 15:21",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "CNN reported that Donald Trump has ordered a halt to all negotiations with the Islamic Republic and has distanced himself from diplomacy.",
         "time": "15:17",
         "ts": 1787152641
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The IRGC fired two missiles at the UAE and seized a ship. These actions were taken due to the UAE's cooperation with Trump's plan to pressure the Islamic Republic. The US aims to impose maximum pressure by sanctioning Iranian oil brokers in the UAE.",
+        "time": "15:19",
+        "ts": 1787152779
       }
     ],
     "language": "en",
-    "packId": "20260819-75",
-    "sequence": 75,
+    "packId": "20260819-76",
+    "sequence": 76,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:17"
+    "updatedAt": "15:21"
   },
   "verified": true
 }
