@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-102 seq=102 exp=1787349659",
+      "advancedStatus": "pack_id=20260819-103 seq=103 exp=1787349933",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:00",
+      "lastChecked": "22:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 22:00",
+    "expiresAt": "2026-08-21 22:05",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "Images from Wednesday, 28 Mordad, captured the moment of the attack on the city of Zhytomyr, Ukraine. Local officials reported at least two people killed in the attack. The attack targeted the regional police headquarters.",
         "time": "22:00",
         "ts": 1787176801
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump said he might negotiate with Tehran in the future but currently sees no need for immediate talks. Meanwhile, it was reported that the US military is transporting about 10 million barrels of oil daily from south of the Strait of Hormuz to the global market. This report was published by Amir Giti from Iran International.",
+        "time": "22:03",
+        "ts": 1787177028
       }
     ],
     "language": "en",
-    "packId": "20260819-102",
-    "sequence": 102,
+    "packId": "20260819-103",
+    "sequence": 103,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:00"
+    "updatedAt": "22:05"
   },
   "verified": true
 }
