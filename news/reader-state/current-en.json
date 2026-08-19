@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-29 seq=29 exp=1787301260",
+      "advancedStatus": "pack_id=20260819-30 seq=30 exp=1787301700",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:34",
+      "lastChecked": "08:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 08:34",
+    "expiresAt": "2026-08-21 08:41",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "Armin Noorani, a rapper known as \"Khojasteh,\" was temporarily detained and released after giving a pledge. A video of his forced confession was released, but the conditions under which it was recorded are unclear. In the video, he expresses regret over his previous statements regarding protests.",
         "time": "08:32",
         "ts": 1787128330
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fazlollah Mousavi stated that the blood of the martyred leader belongs to the Islamic community and pursuing this crime is a public duty. He described revenge as a religious, revolutionary, and national demand that should be pursued with the cooperation of officials and the people. Mousavi called the assassination a complex conspiracy with internal and external layers that requires investigation of all involved parties.",
+        "time": "08:40",
+        "ts": 1787128855
       }
     ],
     "language": "en",
-    "packId": "20260819-29",
-    "sequence": 29,
+    "packId": "20260819-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:34"
+    "updatedAt": "08:41"
   },
   "verified": true
 }
