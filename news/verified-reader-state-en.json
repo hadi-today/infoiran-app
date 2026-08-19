@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-46 seq=46 exp=1787309138",
+      "advancedStatus": "pack_id=20260819-47 seq=47 exp=1787309714",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:45",
+      "lastChecked": "10:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 10:45",
+    "expiresAt": "2026-08-21 10:55",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Alireza Jafarzadeh, a master's student in international political economy at Beheshti University, has been sentenced to a temporary suspension from studies for two semesters. His disciplinary ruling was finalized by the university's appeals council. The proposal for his expulsion has also been referred to the Student Affairs Organization for decision.",
-        "time": "10:48",
-        "ts": 1787050101
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -945,14 +938,21 @@
         "text": "The judiciary of the Islamic Republic announced extensive managerial changes. Gholamhossein Mohseni Ejei has issued the orders for the new managers. The chief justices of 14 provinces will also be changed.",
         "time": "10:45",
         "ts": 1787136307
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ebrahim Rezaei announced that the management and supervision of the Strait of Hormuz will be under the Islamic Republic and the General Staff of the Armed Forces. Entry of Israeli vessels is prohibited, and the General Staff will set regulations for toll collection from passing vessels. The plan allows for increased tariffs or seizure of hostile state assets if Iran's interests are harmed.",
+        "time": "10:54",
+        "ts": 1787136880
       }
     ],
     "language": "en",
-    "packId": "20260819-46",
-    "sequence": 46,
+    "packId": "20260819-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:45"
+    "updatedAt": "10:55"
   },
   "verified": true
 }
