@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-41 seq=41 exp=1787306729",
+      "advancedStatus": "pack_id=20260819-42 seq=42 exp=1787307239",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:05",
+      "lastChecked": "10:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 10:05",
+    "expiresAt": "2026-08-21 10:13",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The head of Esteghlal Football Club's organization announced that the Asian Football Confederation opposed the team's hosting in Iraq and Uzbekistan. Esteghlal's proposal to hold matches in these two countries was rejected. The final decision on the venue will be announced in the next few hours.",
-        "time": "10:10",
-        "ts": 1787047802
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A business unit in Isfahan was closed due to selling T-shirts with images deemed against trade regulations by the police. The police declared these designs as violating the rules. This action was taken by the relevant authorities.",
-        "time": "10:13",
-        "ts": 1787047986
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -938,14 +924,21 @@
         "text": "Reports from citizens indicate that the fuel shortage crisis in the capital has intensified. Some gas stations have posted notices about running out of gasoline and closing. This issue was discussed in an interview with Mehdi Tajik.",
         "time": "10:05",
         "ts": 1787133903
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ebrahim Azizi, head of the National Security Commission of the Parliament, recalled France's betrayals in issues such as contaminated blood, INSTEX, and snapback. He warned that continuing anti-Iranian actions by France will worsen the situation. These remarks came amid escalating diplomatic tensions between Tehran and Paris and reciprocal expulsions of diplomats.",
+        "time": "10:13",
+        "ts": 1787134410
       }
     ],
     "language": "en",
-    "packId": "20260819-41",
-    "sequence": 41,
+    "packId": "20260819-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:05"
+    "updatedAt": "10:13"
   },
   "verified": true
 }
