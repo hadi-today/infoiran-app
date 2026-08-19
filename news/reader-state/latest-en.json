@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-104 seq=104 exp=1787350205",
+      "advancedStatus": "pack_id=20260819-105 seq=105 exp=1787350787",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:10",
+      "lastChecked": "22:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 22:10",
+    "expiresAt": "2026-08-21 22:19",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Morad Veysi, a senior analyst at Iran International, referred to the disappearance of 13 Iranian fishermen and the authorities' and provincial media's neglect of their fate. He said this shows that citizens' lives are not a priority for the Islamic Republic. He described this indifference as a reflection of an approach where the Iranian human and their life are among the last concerns of government officials.",
-        "time": "22:08",
-        "ts": 1787090916
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -868,14 +861,21 @@
         "text": "Shayan Samiei said that an attack by the Islamic Republic on US bases in a NATO member country crosses a strategic red line and could escalate a regional conflict into a transatlantic security crisis. He added that this action would push European countries toward direct cooperation with the US. He also noted that the Islamic Republic might try to change the balance by attacking critical infrastructure or expanding the conflict, but this would ultimately broaden the coalition against it.",
         "time": "22:06",
         "ts": 1787177164
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Vaisi, a senior analyst at Iran International, said that since the late 1970s, China has chosen the path of reforms and economic development instead of direct confrontation with the US to become a global power. He emphasized that the biggest rival of the US has built its power by strengthening its economy and national capabilities.",
+        "time": "22:19",
+        "ts": 1787177960
       }
     ],
     "language": "en",
-    "packId": "20260819-104",
-    "sequence": 104,
+    "packId": "20260819-105",
+    "sequence": 105,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:10"
+    "updatedAt": "22:19"
   },
   "verified": true
 }
