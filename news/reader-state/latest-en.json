@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-08 seq=8 exp=1787279858",
+      "advancedStatus": "pack_id=20260819-09 seq=9 exp=1787280879",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:37",
+      "lastChecked": "02:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 02:37",
+    "expiresAt": "2026-08-21 02:54",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,21 @@
         "text": "The US State Department announced that Marco Rubio and Sheikh Tahnoun bin Zayed discussed regional security and countering the Islamic Republic. Rubio emphasized the importance of freedom of navigation through the Strait of Hormuz. The discussion focused on coordination between the two countries on security issues.",
         "time": "02:37",
         "ts": 1787107036
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Michael Duffy, the US Deputy Secretary of Defense, stated that the US military is capable of facing any threat and that the Trump administration focuses on rebuilding military strength and defense industries. He added that missile and weapon production is increasing and new contracts with defense companies are being signed. These remarks come amid concerns about US arms stockpiles.",
+        "time": "02:54",
+        "ts": 1787108054
       }
     ],
     "language": "en",
-    "packId": "20260819-08",
-    "sequence": 8,
+    "packId": "20260819-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:37"
+    "updatedAt": "02:54"
   },
   "verified": true
 }
