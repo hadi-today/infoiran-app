@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-47 seq=47 exp=1787309714",
+      "advancedStatus": "pack_id=20260819-48 seq=48 exp=1787310048",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:55",
+      "lastChecked": "11:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 10:55",
+    "expiresAt": "2026-08-21 11:00",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Several employees of the Pars Oil and Gas Company held protests in various sections and offshore platforms in the South Pars and Asaluyeh region. They demanded the removal of salary caps, full payment of wages, and revision of minimum wages. They also requested not to merge the oil pension fund with other pension funds and called for addressing their other demands.",
-        "time": "10:59",
-        "ts": 1787050767
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -945,14 +938,21 @@
         "text": "Ebrahim Rezaei announced that the management and supervision of the Strait of Hormuz will be under the Islamic Republic and the General Staff of the Armed Forces. Entry of Israeli vessels is prohibited, and the General Staff will set regulations for toll collection from passing vessels. The plan allows for increased tariffs or seizure of hostile state assets if Iran's interests are harmed.",
         "time": "10:54",
         "ts": 1787136880
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Chinese company Landspace successfully landed the booster of the Zhuque-3 rocket for the first time after launch. This booster can be reused up to 20 times. This achievement may reduce space launch costs and narrow the gap between China and the US in reusable rocket technology.",
+        "time": "11:00",
+        "ts": 1787137217
       }
     ],
     "language": "en",
-    "packId": "20260819-47",
-    "sequence": 47,
+    "packId": "20260819-48",
+    "sequence": 48,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:55"
+    "updatedAt": "11:00"
   },
   "verified": true
 }
