@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-06 seq=6 exp=1787275974",
+      "advancedStatus": "pack_id=20260819-07 seq=7 exp=1787276868",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:32",
+      "lastChecked": "01:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 01:32",
+    "expiresAt": "2026-08-21 01:47",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "Donald Trump has ordered a halt to talks with the Islamic Republic. The White House is about to impose new sanctions on Iran and is pursuing a strategy of gradually increasing pressure. Washington opposes a potential agreement between Iran and Oman regarding the Strait of Hormuz.",
         "time": "01:32",
         "ts": 1787103149
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "CNN reported that the battle for control of the Strait of Hormuz has become the main axis of the Iran war, with the US holding a superior naval position. Over 80% of ships in the past two weeks have passed through the Oman route, which Iran opposes. The US opposes any agreement that would allow Tehran to control or collect tolls.",
+        "time": "01:47",
+        "ts": 1787104047
       }
     ],
     "language": "en",
-    "packId": "20260819-06",
-    "sequence": 6,
+    "packId": "20260819-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:32"
+    "updatedAt": "01:47"
   },
   "verified": true
 }
