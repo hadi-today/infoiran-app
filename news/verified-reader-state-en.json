@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-05 seq=5 exp=1787274158",
+      "advancedStatus": "pack_id=20260819-06 seq=6 exp=1787275974",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:02",
+      "lastChecked": "01:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 01:02",
+    "expiresAt": "2026-08-21 01:32",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "According to a Reuters/Ipsos poll, Donald Trump's popularity has dropped to the lowest level of his current presidency. In this poll, 33% approved of his performance while 64% disapproved. This popularity level matches the lowest point of his first presidency in December 2017.",
-        "time": "01:05",
-        "ts": 1787015147
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Yemeni army announced that it carried out 133 military operations against the Houthi militias in the past 24 hours. The group is described as a proxy of the Islamic Republic. The operations targeted the capabilities and forces of the Houthis.",
-        "time": "01:11",
-        "ts": 1787015509
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -868,14 +854,21 @@
         "text": "A coalition of student activists and media issued a statement saying that execution is not justice but intentional killing legalized by the state. The coalition opposes the death penalty in principle and views it as a tool of state repression. They emphasized that defending the right to life is part of the struggle for freedom and democracy.",
         "time": "01:02",
         "ts": 1787101338
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump has ordered a halt to talks with the Islamic Republic. The White House is about to impose new sanctions on Iran and is pursuing a strategy of gradually increasing pressure. Washington opposes a potential agreement between Iran and Oman regarding the Strait of Hormuz.",
+        "time": "01:32",
+        "ts": 1787103149
       }
     ],
     "language": "en",
-    "packId": "20260819-05",
-    "sequence": 5,
+    "packId": "20260819-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:02"
+    "updatedAt": "01:32"
   },
   "verified": true
 }
