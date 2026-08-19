@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-13 seq=13 exp=1787287219",
+      "advancedStatus": "pack_id=20260819-14 seq=14 exp=1787289464",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:40",
+      "lastChecked": "05:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 04:40",
+    "expiresAt": "2026-08-21 05:17",
     "items": [
       {
         "channel": "iranintl",
@@ -847,14 +847,21 @@
         "text": "The seized Emirati tanker in the northern corridor of the Strait of Hormuz has changed its route towards Bandar Abbas. Its initial destination was the port of Jebel Ali. This news was reported by Fars News Agency.",
         "time": "04:40",
         "ts": 1787114401
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The United Arab Emirates has suspended all trade and financial exchanges with the Islamic Republic of Iran. This decision was made after the identification of two ballistic missiles launched from Iran. Amir Hamidi considers this action part of the economic pressure structure against Iran.",
+        "time": "05:17",
+        "ts": 1787116642
       }
     ],
     "language": "en",
-    "packId": "20260819-13",
-    "sequence": 13,
+    "packId": "20260819-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:40"
+    "updatedAt": "05:17"
   },
   "verified": true
 }
