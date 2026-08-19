@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-10 seq=10 exp=1787282215",
+      "advancedStatus": "pack_id=20260819-11 seq=11 exp=1787282639",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:16",
+      "lastChecked": "03:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 03:16",
+    "expiresAt": "2026-08-21 03:23",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "Officials from Gulf countries feel caught in the middle of tensions between Tehran and Washington. They do not want intensified conflicts but believe that Washington's lack of response encourages the Islamic Republic to increase attacks. Gulf Arab countries believe Iran will respond to increased economic pressures with military action, leading to renewed escalations.",
         "time": "03:16",
         "ts": 1787109395
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Choo Hyun, South Korea's foreign minister, stated that Donald Trump's message about reducing joint military exercises included pressure on Seoul to participate in a war with Iran. These remarks were made on Wednesday. The foreign minister referred to this issue.",
+        "time": "03:23",
+        "ts": 1787109819
       }
     ],
     "language": "en",
-    "packId": "20260819-10",
-    "sequence": 10,
+    "packId": "20260819-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:16"
+    "updatedAt": "03:23"
   },
   "verified": true
 }
