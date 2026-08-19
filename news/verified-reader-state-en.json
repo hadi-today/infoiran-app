@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260819-15 seq=15 exp=1787291168",
+      "advancedStatus": "pack_id=20260819-16 seq=16 exp=1787291754",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:46",
+      "lastChecked": "05:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-19",
-    "expiresAt": "2026-08-21 05:46",
+    "expiresAt": "2026-08-21 05:55",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "Hadi Ghavami, member of the Parliament's Planning and Budget Committee, said that people are facing unemployment, inflation, inequality, and poverty, and these issues are deepening day by day. He added that liquidity has increased from 250 billion tomans at the beginning of the revolution to over 18,200 trillion tomans. He also stated that 62 percent of the country's liquidity is concentrated in Tehran province.",
         "time": "05:45",
         "ts": 1787118347
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Financial Times, citing sources close to the Iranian government, reported that Iran is considering attacks on military targets in southeastern Europe, including Bulgaria and Cyprus, if the war escalates due to the US. Attacks on submarine fiber optic cables in the Strait of Hormuz are also being considered. These sources stated that if the US goes too far, Iran might target locations in Europe.",
+        "time": "05:55",
+        "ts": 1787118930
       }
     ],
     "language": "en",
-    "packId": "20260819-15",
-    "sequence": 15,
+    "packId": "20260819-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:46"
+    "updatedAt": "05:55"
   },
   "verified": true
 }
