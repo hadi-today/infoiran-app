@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260820-86 seq=86 exp=1787437414",
+      "advancedStatus": "pack_id=20260820-87 seq=87 exp=1787437562",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:23",
+      "lastChecked": "22:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-20",
-    "expiresAt": "2026-08-22 22:23",
+    "expiresAt": "2026-08-22 22:26",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Morad Vaisi, a senior analyst at Iran International, said that since the late 1970s, China has chosen the path of reforms and economic development instead of direct confrontation with the US to become a global power. He emphasized that the biggest rival of the US has built its power by strengthening its economy and national capabilities.",
-        "time": "22:19",
-        "ts": 1787177960
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A leaked file from a secret Basij meeting in Pakdasht shows government forces preparing for a new round of protests. They are concerned about a possible increase in gasoline prices and public anger, and have instructed members to record and report protest activities. There is also concern about identifying suppressive forces using artificial intelligence.",
-        "time": "22:21",
-        "ts": 1787178094
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -749,14 +735,21 @@
         "text": "JD Vance, the US Vice President, announced the start of a new phase in the economic war against Iran, emphasizing economic pressure as the most effective tool against the Iranian government. He stated that Iran has endured more economic pressure than the US and that this trend will continue. Earlier, Scott Bassett announced that harsher sanctions against Iran are forthcoming, which will lead to the regime's collapse.",
         "time": "22:18",
         "ts": 1787264337
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "CENTCOM announced that the aircraft carrier USS George Washington has entered the Arabian Sea and will soon replace the USS Abraham Lincoln. Additionally, American forces have altered the routes of 67 commercial ships as part of the naval blockade of Iran. This report was published by Marzieh Hosseini from Iran International.",
+        "time": "22:25",
+        "ts": 1787264736
       }
     ],
     "language": "en",
-    "packId": "20260820-86",
-    "sequence": 86,
+    "packId": "20260820-87",
+    "sequence": 87,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:23"
+    "updatedAt": "22:26"
   },
   "verified": true
 }
