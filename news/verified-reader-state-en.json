@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260820-55 seq=55 exp=1787411253",
+      "advancedStatus": "pack_id=20260820-56 seq=56 exp=1787411494",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:07",
+      "lastChecked": "15:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-20",
-    "expiresAt": "2026-08-22 15:07",
+    "expiresAt": "2026-08-22 15:11",
     "items": [
       {
         "channel": "harana",
@@ -791,14 +791,21 @@
         "text": "Hamidreza Hajibabaei said that anyone who keeps oil prices high helps the Islamic Republic. He added that countries creating alternative pipelines to help the US lower oil prices are effectively fighting against the Islamic Republic. He also emphasized that the Islamic Republic should prevent the creation of pipelines and oil exports through these routes.",
         "time": "15:07",
         "ts": 1787238420
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Denmark has banned Mansour Loghayi, an Iranian Shia cleric, from entering the country due to his views on women and marital relations. He previously collaborated with the Imam Ali Mosque in Copenhagen. This mosque has been controversial for its connections to the Islamic Republic.",
+        "time": "15:07",
+        "ts": 1787238460
       }
     ],
     "language": "en",
-    "packId": "20260820-55",
-    "sequence": 55,
+    "packId": "20260820-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:07"
+    "updatedAt": "15:11"
   },
   "verified": true
 }
