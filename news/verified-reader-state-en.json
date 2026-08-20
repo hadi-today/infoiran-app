@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260820-05 seq=5 exp=1787378620",
+      "advancedStatus": "pack_id=20260820-06 seq=6 exp=1787378895",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:03",
+      "lastChecked": "06:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-20",
-    "expiresAt": "2026-08-22 06:03",
+    "expiresAt": "2026-08-22 06:08",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Bagher Ghalibaf, the Speaker of the Parliament, stated in his speech in Baghdad that the entire region considers Israel as an enemy. He said his trip to Iraq aims to accelerate a new regional order without foreign interference. Ghalibaf also emphasized the Islamic Republic's readiness for security and deep relations in the region.",
-        "time": "06:05",
-        "ts": 1787119507
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US Department of Justice announced that a 14-count supplementary indictment against 17 members of 'Mabna Institute,' a company based in Iran, was unsealed on Tuesday, 27 Mordad. According to the indictment, Mabna Institute has conducted a coordinated cyber intrusion campaign since at least 2013 targeting computer systems of 144 US universities, 178 foreign universities, at least 42 US private companies, 11 foreign private companies, at least five US federal and state government entities, and at least two non-governmental organizations.",
-        "time": "06:05",
-        "ts": 1787119514
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -777,14 +763,21 @@
         "text": "Malavan won against Zob Ahan in the second week of the Premier League after being behind, scoring two goals in the second half. Malavan's coach emphasized the important role of fans in this victory and said football is meaningless without spectators. The victory was celebrated at the Sirous Ghaeqran Stadium in Anzali.",
         "time": "06:03",
         "ts": 1787205792
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mizan news agency reported the execution of Ghaem Hosseini, a foreign national and protester of the Iranian National Revolution, in December 1404. His charges included brandishing a weapon, creating fear and terror, and acting against national security. The sentence was carried out in the Ali Khani Square case in Isfahan.",
+        "time": "06:07",
+        "ts": 1787206065
       }
     ],
     "language": "en",
-    "packId": "20260820-05",
-    "sequence": 5,
+    "packId": "20260820-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:03"
+    "updatedAt": "06:08"
   },
   "verified": true
 }
