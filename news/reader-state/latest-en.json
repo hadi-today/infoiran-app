@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260820-76 seq=76 exp=1787423856",
+      "advancedStatus": "pack_id=20260820-77 seq=77 exp=1787424079",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:37",
+      "lastChecked": "18:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-20",
-    "expiresAt": "2026-08-22 18:37",
+    "expiresAt": "2026-08-22 18:41",
     "items": [
       {
         "channel": "iranintl",
@@ -784,14 +784,21 @@
         "text": "Two luxury cars, a McLaren and a Lamborghini, were set on fire with three petrol bombs in a suspicious attack outside the Royal Shalimar restaurant on Highgate Street in Birmingham and were completely destroyed.",
         "time": "18:35",
         "ts": 1787250942
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The court session for Zartosht Ahmadi Ragheb, a political prisoner, was held via video conference at the Karaj Revolutionary Court. The charges include insulting the Supreme Leader, disrupting order, and propaganda against the regime through spreading falsehoods. Ahmadi Ragheb defended himself during the session.",
+        "time": "18:39",
+        "ts": 1787251153
       }
     ],
     "language": "en",
-    "packId": "20260820-76",
-    "sequence": 76,
+    "packId": "20260820-77",
+    "sequence": 77,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:37"
+    "updatedAt": "18:41"
   },
   "verified": true
 }
