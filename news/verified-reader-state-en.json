@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260820-75 seq=75 exp=1787423626",
+      "advancedStatus": "pack_id=20260820-76 seq=76 exp=1787423856",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:33",
+      "lastChecked": "18:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-20",
-    "expiresAt": "2026-08-22 18:33",
+    "expiresAt": "2026-08-22 18:37",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A group of workers from Chabahar Municipality and the engineering company Arg-o-P reported wage arrears and non-payment of insurance and severance pay.",
-        "time": "18:34",
-        "ts": 1787164443
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -784,14 +777,21 @@
         "text": "Workers at Pars Haft Tape Paper Company have complained about unpaid leave claims. Additionally, eight dismissed workers from Mahshahr Petrochemical remain in job uncertainty. This situation has been reported in two different industrial units.",
         "time": "18:33",
         "ts": 1787250800
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Two luxury cars, a McLaren and a Lamborghini, were set on fire with three petrol bombs in a suspicious attack outside the Royal Shalimar restaurant on Highgate Street in Birmingham and were completely destroyed.",
+        "time": "18:35",
+        "ts": 1787250942
       }
     ],
     "language": "en",
-    "packId": "20260820-75",
-    "sequence": 75,
+    "packId": "20260820-76",
+    "sequence": 76,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:33"
+    "updatedAt": "18:37"
   },
   "verified": true
 }
