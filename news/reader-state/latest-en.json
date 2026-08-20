@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260820-23 seq=23 exp=1787395512",
+      "advancedStatus": "pack_id=20260820-24 seq=24 exp=1787395743",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:45",
+      "lastChecked": "10:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-20",
-    "expiresAt": "2026-08-22 10:45",
+    "expiresAt": "2026-08-22 10:49",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The judiciary of the Islamic Republic announced extensive managerial changes. Gholamhossein Mohseni Ejei has issued the orders for the new managers. The chief justices of 14 provinces will also be changed.",
-        "time": "10:45",
-        "ts": 1787136307
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -728,14 +721,21 @@
         "text": "Volodymyr Zelensky announced that Russia launched a large-scale night attack targeting several regions of Ukraine with ballistic missiles, cruise missiles, and drones. In the attacks on Kyiv, 13 people were killed and 40 injured. This report was provided by Ahmad Samadi from Iran International.",
         "time": "10:41",
         "ts": 1787222472
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Bagher Ghalibaf, Speaker of the Iranian Parliament, met with senior Iraqi officials in Baghdad. Heybat al-Halbousi requested a special status for Iraq's oil exports through the Strait of Hormuz. The meetings emphasized strengthening bilateral relations and economic and security cooperation.",
+        "time": "10:45",
+        "ts": 1787222711
       }
     ],
     "language": "en",
-    "packId": "20260820-23",
-    "sequence": 23,
+    "packId": "20260820-24",
+    "sequence": 24,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:45"
+    "updatedAt": "10:49"
   },
   "verified": true
 }
