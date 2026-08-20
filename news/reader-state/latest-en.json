@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260820-72 seq=72 exp=1787422471",
+      "advancedStatus": "pack_id=20260820-73 seq=73 exp=1787423076",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:14",
+      "lastChecked": "18:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-20",
-    "expiresAt": "2026-08-22 18:14",
+    "expiresAt": "2026-08-22 18:24",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Abdollah Pashabadi, a citizen of Kermanshah, remains detained in Dizelabad prison after 25 days without a decision. His case is still unresolved. This news was reported by Harana News Agency.",
-        "time": "18:19",
-        "ts": 1787163548
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The audio version of the Titraval program with Niusha Saremi has been released. The program discusses the attack on the UAE and attacks on targets in Europe. It also addresses the possibility of war expansion in Tehran.",
-        "time": "18:20",
-        "ts": 1787163655
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -777,14 +763,21 @@
         "text": "Mani Mohammadi, detained in connection with the December 2025 protests, remains in legal limbo in the central prison of Karaj after more than seven months. He was transferred to a security detention center after arrest and pressured for forced confessions but refused the charges. After about a month, he was moved to the central prison of Karaj.",
         "time": "18:13",
         "ts": 1787249638
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Pezhman Dorostkar stated that if even one wrestler is denied a visa, the Iranian national freestyle wrestling team will not be sent. Alireza Dabir threatened that if the US treats the under-23 wrestling team similarly, they will try to change the host of the 2027 World Championships. The 2027 World Wrestling Championships will be held in Las Vegas and serve as the first Olympic qualifier for 2028.",
+        "time": "18:24",
+        "ts": 1787250250
       }
     ],
     "language": "en",
-    "packId": "20260820-72",
-    "sequence": 72,
+    "packId": "20260820-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:14"
+    "updatedAt": "18:24"
   },
   "verified": true
 }
