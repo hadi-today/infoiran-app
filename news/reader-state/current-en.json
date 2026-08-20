@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260820-28 seq=28 exp=1787398445",
+      "advancedStatus": "pack_id=20260820-29 seq=29 exp=1787398956",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:34",
+      "lastChecked": "11:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-20",
-    "expiresAt": "2026-08-22 11:34",
+    "expiresAt": "2026-08-22 11:42",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "In the Wednesday online session of the Islamic Consultative Assembly, 38 representatives issued a warning to Masoud Pezeshkian. They demanded action against promoters of nudity culture in society. This warning was read by Mohammadreza Ahmadi Sangari.",
-        "time": "11:36",
-        "ts": 1787139385
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Shahriar Baratinia, a political prisoner in Evin Prison, is still awaiting the review of his parole request after serving more than one-third of his sentence. His request to be transferred to a prison near his family's residence was denied. This has resulted in him being deprived of regular visits with his family.",
-        "time": "11:37",
-        "ts": 1787139432
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -714,14 +700,21 @@
         "text": "Early Thursday morning, August 29, a chase involving military forces in Bandar Abbas resulted in a collision and fire of a fuel smuggler's vehicle. Two fuel smugglers lost their lives in this incident. The event occurred during a military operation.",
         "time": "11:33",
         "ts": 1787225615
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "In the second week of the Persian Gulf Pro League, Persepolis defeated Esteghlal Khuzestan 4-1. Persepolis topped the table with six points and a better goal difference than Esteghlal. The match was held at Ghal'eh Hasan Khan Stadium.",
+        "time": "11:42",
+        "ts": 1787226122
       }
     ],
     "language": "en",
-    "packId": "20260820-28",
-    "sequence": 28,
+    "packId": "20260820-29",
+    "sequence": 29,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:34"
+    "updatedAt": "11:42"
   },
   "verified": true
 }
