@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260820-17 seq=17 exp=1787391072",
+      "advancedStatus": "pack_id=20260820-18 seq=18 exp=1787392361",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:31",
+      "lastChecked": "09:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-20",
-    "expiresAt": "2026-08-22 09:31",
+    "expiresAt": "2026-08-22 09:52",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A NATO official stated that the organization is prepared to counter any threats and will take necessary actions to defend its members. NATO's air defense intercepted four ballistic missiles launched by Iran towards Turkey during the 40-day war.",
-        "time": "09:34",
-        "ts": 1787132067
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A meeting with human rights activists and lawyers will discuss the use of universal jurisdiction to combat impunity. The meeting will be held on September 3 in Berlin. Registration is required to attend the event.",
-        "time": "09:35",
-        "ts": 1787132113
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen stated that he spent three-quarters of his bank card balance to buy a few groceries. He also mentioned frequent power outages. He described this situation as representative of the life of young Iranians.",
-        "time": "09:47",
-        "ts": 1787132850
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -728,14 +707,21 @@
         "text": "A video shows the father of Mohsen Abbasi shedding tears on Mount Damavand in mourning for his son. Mohsen Abbasi was killed on January 8, 2026, during protests in Najafabad, Isfahan. He was 21 years old.",
         "time": "09:30",
         "ts": 1787218251
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A man in Noor County killed three members of his wife's family. The suspect stated family disputes as his motive after being arrested. This incident occurred in Noor County.",
+        "time": "09:52",
+        "ts": 1787219535
       }
     ],
     "language": "en",
-    "packId": "20260820-17",
-    "sequence": 17,
+    "packId": "20260820-18",
+    "sequence": 18,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:31"
+    "updatedAt": "09:52"
   },
   "verified": true
 }
