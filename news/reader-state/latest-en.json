@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260820-20 seq=20 exp=1787394843",
+      "advancedStatus": "pack_id=20260820-22 seq=22 exp=1787395270",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:34",
+      "lastChecked": "10:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-20",
-    "expiresAt": "2026-08-22 10:34",
+    "expiresAt": "2026-08-22 10:41",
     "items": [
       {
         "channel": "iranintl",
@@ -693,14 +693,42 @@
         "text": "Al Arabiya, citing official Yemeni military sources, reported that two Iranian Revolutionary Guard members and one Iraqi affiliated with them were killed in clashes with Yemeni government forces. These individuals were working as Revolutionary Guard experts in Yemen. Additionally, the commander of the Al-Fath Brigade was injured in a drone attack.",
         "time": "10:33",
         "ts": 1787222008
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A 56-year-old citizen in Jahrom was arrested by law enforcement due to alleged connections with foreign media.",
+        "time": "10:34",
+        "ts": 1787222095
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran International audiences have reported daily power outages and nighttime blackouts in streets and highways. Some citizens have also reported prolonged repeated water outages. One audience member said their refrigerator was damaged due to frequent power cuts.",
+        "time": "10:40",
+        "ts": 1787222412
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Yaser Salarzehi, 18, and Ahmad Saqzehi, 26, died during a military chase in Bandar Abbas. Their vehicle caught fire after colliding with another car. This incident occurred early Thursday, August 29.",
+        "time": "10:40",
+        "ts": 1787222425
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mizan reported the execution of Ghaem Hosseini, an Afghan citizen and detainee of the December 2025 protests, in the Aliakhani Square case in Isfahan. Out of 59 detainees in this case, 12 were sentenced to death, and five death sentences have been carried out so far. The accused were denied a fair trial, and reports of torture and forced confessions have been published.",
+        "time": "10:41",
+        "ts": 1787222467
       }
     ],
     "language": "en",
-    "packId": "20260820-20",
-    "sequence": 20,
+    "packId": "20260820-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:34"
+    "updatedAt": "10:41"
   },
   "verified": true
 }
