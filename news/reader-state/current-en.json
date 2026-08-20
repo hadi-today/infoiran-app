@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260820-33 seq=33 exp=1787400291",
+      "advancedStatus": "pack_id=20260820-34 seq=34 exp=1787400611",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:04",
+      "lastChecked": "12:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-20",
-    "expiresAt": "2026-08-22 12:04",
+    "expiresAt": "2026-08-22 12:10",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Ariana Kuchaki, Arash Hatami, and Ali Alirezaei, students of Sharif University of Technology, were sentenced to expulsion and temporary suspension from studies by the university's disciplinary committee. Ali Alirezaei was sentenced to five years of suspension, and the other two students to one year of suspension from all universities in the country. These are preliminary rulings.",
-        "time": "12:04",
-        "ts": 1787141075
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -735,14 +728,35 @@
         "text": "Abbas Araghchi described Donald Trump's threat to start an economic campaign against Iran as an attempt to cover up internal crises in the US. He cited unprecedented debts and rising interest costs as examples of these crises. Araghchi also called Trump's statements miscalculations and signs of a bigger failure.",
         "time": "12:04",
         "ts": 1787227464
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The CEO of the Tabriz Passenger Transport Management Organization announced that out of 10,700 active taxis, 5,371 are worn out and no taxis have been renewed this year. The average age of BRT buses has reached 13 years, and the number of buses has decreased. Additionally, waiting times on suburban lines can reach 40 minutes, and there is a lack of financial resources for fleet development.",
+        "time": "12:05",
+        "ts": 1787227511
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Israel attacked the Abu al-Duhur military airport near Aleppo. The attack was a warning to the Syrian government about Turkey's expanding influence. Israeli officials consider Turkey's military presence in Syria a red line.",
+        "time": "12:08",
+        "ts": 1787227693
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Parnian Dabiri, a 16-year-old girl, was transferred to Kahrizak after being shot, and her body was found on the asphalt. Her mother said she was threatened and struck by officers while trying to retrieve the body. The family demands accountability for Parnian's death.",
+        "time": "12:08",
+        "ts": 1787227732
       }
     ],
     "language": "en",
-    "packId": "20260820-33",
-    "sequence": 33,
+    "packId": "20260820-34",
+    "sequence": 34,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:04"
+    "updatedAt": "12:10"
   },
   "verified": true
 }
