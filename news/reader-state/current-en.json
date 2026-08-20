@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260820-35 seq=35 exp=1787401060",
+      "advancedStatus": "pack_id=20260820-36 seq=36 exp=1787401541",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:17",
+      "lastChecked": "12:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-20",
-    "expiresAt": "2026-08-22 12:17",
+    "expiresAt": "2026-08-22 12:25",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Azar Yahoo, a political prisoner in Vakilabad Prison in Mashhad, has been sentenced to three years in prison for allegedly communicating with Israel by commenting for Netanyahu. One year of the sentence will be enforced, and two years will be suspended. This sentence was issued by the judiciary of the Islamic Republic.",
-        "time": "12:18",
-        "ts": 1787141928
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Esmaeil Baghaei, spokesman for the Islamic Republic's Ministry of Foreign Affairs, said regional countries have concluded that the US military presence in West Asia causes insecurity, and Washington's allies also consider America untrustworthy. He added that fabricated stereotypes against Iran internationally have created a basis to justify an attack on Iran.",
-        "time": "12:24",
-        "ts": 1787142243
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -749,14 +735,21 @@
         "text": "The UK Maritime Trade Operations center reported that six armed individuals boarded an oil tanker in the Gulf of Aden and took control. They are redirecting the tanker towards Somalia. Authorities are investigating the incident and have urged vessels to exercise caution.",
         "time": "12:16",
         "ts": 1787228209
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Daily wage workers dismissed from Amir Kabir Petrochemical Company held a protest in the special economic zone and petrochemical area of Sarbandar in Mahshahr. These workers are protesting their job uncertainty. They demand to be reinstated at the company.",
+        "time": "12:24",
+        "ts": 1787228698
       }
     ],
     "language": "en",
-    "packId": "20260820-35",
-    "sequence": 35,
+    "packId": "20260820-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:17"
+    "updatedAt": "12:25"
   },
   "verified": true
 }
