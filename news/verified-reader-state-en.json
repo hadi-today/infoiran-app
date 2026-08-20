@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260820-64 seq=64 exp=1787415025",
+      "advancedStatus": "pack_id=20260820-65 seq=65 exp=1787415259",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:10",
+      "lastChecked": "16:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-20",
-    "expiresAt": "2026-08-22 16:10",
+    "expiresAt": "2026-08-22 16:14",
     "items": [
       {
         "channel": "iranintl",
@@ -819,14 +819,21 @@
         "text": "A video of Bachtawar Kazakoff's anti-Semitic conversation at the Esther and Mordechai tomb in Hamadan sparked anger among Iranians. Following protests, the tourist deleted the video from Instagram and apologized to the Iranian people.",
         "time": "16:08",
         "ts": 1787242112
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ronaldinho, the former Brazilian football star, joins Ravenna in Italy's third division at age 46, 11 years after retiring. He will become a shareholder of the club and plans to play in an official match for Ravenna. His introduction ceremony will be held tonight with about six thousand fans attending.",
+        "time": "16:13",
+        "ts": 1787242404
       }
     ],
     "language": "en",
-    "packId": "20260820-64",
-    "sequence": 64,
+    "packId": "20260820-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:10"
+    "updatedAt": "16:14"
   },
   "verified": true
 }
