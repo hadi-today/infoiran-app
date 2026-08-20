@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260820-73 seq=73 exp=1787423076",
+      "advancedStatus": "pack_id=20260820-74 seq=74 exp=1787423342",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:24",
+      "lastChecked": "18:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-20",
-    "expiresAt": "2026-08-22 18:24",
+    "expiresAt": "2026-08-22 18:29",
     "items": [
       {
         "channel": "harana",
@@ -770,14 +770,21 @@
         "text": "Pezhman Dorostkar stated that if even one wrestler is denied a visa, the Iranian national freestyle wrestling team will not be sent. Alireza Dabir threatened that if the US treats the under-23 wrestling team similarly, they will try to change the host of the 2027 World Championships. The 2027 World Wrestling Championships will be held in Las Vegas and serve as the first Olympic qualifier for 2028.",
         "time": "18:24",
         "ts": 1787250250
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Some citizens report a sharp increase in prices of goods such as shampoo and baby formula. Internet in Kerman province has become very slow, and power outages occur at various times of the day. Additionally, issues with salary and loan payments for railway employees have been reported.",
+        "time": "18:25",
+        "ts": 1787250326
       }
     ],
     "language": "en",
-    "packId": "20260820-73",
-    "sequence": 73,
+    "packId": "20260820-74",
+    "sequence": 74,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:24"
+    "updatedAt": "18:29"
   },
   "verified": true
 }
