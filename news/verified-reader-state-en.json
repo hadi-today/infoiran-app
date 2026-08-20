@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260820-67 seq=67 exp=1787417043",
+      "advancedStatus": "pack_id=20260820-68 seq=68 exp=1787417692",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:44",
+      "lastChecked": "16:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-20",
-    "expiresAt": "2026-08-22 16:44",
+    "expiresAt": "2026-08-22 16:54",
     "items": [
       {
         "channel": "vahid online",
@@ -812,14 +812,21 @@
         "text": "CENTCOM announced that the USS Boxer continues to enforce the US blockade against Iran in the Arabian Sea. By August 20, US forces have altered the course of 67 commercial ships, disabled three ships, and boarded two ships. Images of MV-22B Osprey aircraft taking off from the deck of this ship were released.",
         "time": "16:43",
         "ts": 1787244220
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Ghazal Marzban, a transgender woman imprisoned in Evin, reported sexual assault in a Ministry of Intelligence detention center in a letter. She stated that after her arrest in May 2023, she was assaulted and threatened to remain silent. Marzban also mentioned her re-arrest in December 2025 and her fear of the incident recurring.",
+        "time": "16:54",
+        "ts": 1787244863
       }
     ],
     "language": "en",
-    "packId": "20260820-67",
-    "sequence": 67,
+    "packId": "20260820-68",
+    "sequence": 68,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:44"
+    "updatedAt": "16:54"
   },
   "verified": true
 }
