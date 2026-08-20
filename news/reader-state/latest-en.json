@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260820-36 seq=36 exp=1787401541",
+      "advancedStatus": "pack_id=20260820-37 seq=37 exp=1787402047",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:25",
+      "lastChecked": "12:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-20",
-    "expiresAt": "2026-08-22 12:25",
+    "expiresAt": "2026-08-22 12:34",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Hiwa Seifizadeh, an Iranian traditional music singer, has been sentenced to four years in prison on charges of promoting corruption and immorality. The sentence is related to her concert performance at the Robro Mansion in Tehran. Seifizadeh has appealed the verdict and requested a thorough review of the case.",
-        "time": "12:30",
-        "ts": 1787142619
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -742,14 +735,21 @@
         "text": "Daily wage workers dismissed from Amir Kabir Petrochemical Company held a protest in the special economic zone and petrochemical area of Sarbandar in Mahshahr. These workers are protesting their job uncertainty. They demand to be reinstated at the company.",
         "time": "12:24",
         "ts": 1787228698
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Nazanin Hosseinpour, a citizen from Piranshahr, has been detained by intelligence officers for five days. There is still no information about her place of detention. Her condition remains unknown.",
+        "time": "12:33",
+        "ts": 1787229218
       }
     ],
     "language": "en",
-    "packId": "20260820-36",
-    "sequence": 36,
+    "packId": "20260820-37",
+    "sequence": 37,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:25"
+    "updatedAt": "12:34"
   },
   "verified": true
 }
