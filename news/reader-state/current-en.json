@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260820-62 seq=62 exp=1787414399",
+      "advancedStatus": "pack_id=20260820-63 seq=63 exp=1787414924",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:59",
+      "lastChecked": "16:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-20",
-    "expiresAt": "2026-08-22 15:59",
+    "expiresAt": "2026-08-22 16:08",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump stated that the US has full control over the Strait of Hormuz and ship traffic continues. He mentioned that negotiations with the Islamic Republic might happen later but currently the situation is good, and Iran should not acquire nuclear weapons. Trump also estimated oil prices at $83 to $85 and predicted they would drop after the current situation ends.",
-        "time": "16:00",
-        "ts": 1787155249
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -812,14 +805,28 @@
         "text": "Varzesh3 released a video of the national freestyle wrestling team's training under Alireza Dabir. In the video, Dabir forces wrestlers to push each other uphill on dirt mounds. Previously, a video showed him using a garden hose to help wrestlers recover.",
         "time": "15:57",
         "ts": 1787241420
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Women motorcyclists continue to face difficulties in obtaining licenses and insurance coverage. This situation deprives them of legal recourse and compensation in case of accidents. Some women have also reported street harassment and humiliating behavior.",
+        "time": "16:08",
+        "ts": 1787242099
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video of Bachtawar Kazakoff's anti-Semitic conversation at the Esther and Mordechai tomb in Hamadan sparked anger among Iranians. Following protests, the tourist deleted the video from Instagram and apologized to the Iranian people.",
+        "time": "16:08",
+        "ts": 1787242112
       }
     ],
     "language": "en",
-    "packId": "20260820-62",
-    "sequence": 62,
+    "packId": "20260820-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:59"
+    "updatedAt": "16:08"
   },
   "verified": true
 }
