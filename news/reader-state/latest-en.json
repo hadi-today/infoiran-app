@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260820-22 seq=22 exp=1787395270",
+      "advancedStatus": "pack_id=20260820-23 seq=23 exp=1787395512",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:41",
+      "lastChecked": "10:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-20",
-    "expiresAt": "2026-08-22 10:41",
+    "expiresAt": "2026-08-22 10:45",
     "items": [
       {
         "channel": "iranintl",
@@ -721,14 +721,21 @@
         "text": "Mizan reported the execution of Ghaem Hosseini, an Afghan citizen and detainee of the December 2025 protests, in the Aliakhani Square case in Isfahan. Out of 59 detainees in this case, 12 were sentenced to death, and five death sentences have been carried out so far. The accused were denied a fair trial, and reports of torture and forced confessions have been published.",
         "time": "10:41",
         "ts": 1787222467
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Volodymyr Zelensky announced that Russia launched a large-scale night attack targeting several regions of Ukraine with ballistic missiles, cruise missiles, and drones. In the attacks on Kyiv, 13 people were killed and 40 injured. This report was provided by Ahmad Samadi from Iran International.",
+        "time": "10:41",
+        "ts": 1787222472
       }
     ],
     "language": "en",
-    "packId": "20260820-22",
-    "sequence": 22,
+    "packId": "20260820-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:41"
+    "updatedAt": "10:45"
   },
   "verified": true
 }
