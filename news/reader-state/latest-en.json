@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260820-61 seq=61 exp=1787414168",
+      "advancedStatus": "pack_id=20260820-62 seq=62 exp=1787414399",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:56",
+      "lastChecked": "15:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-20",
-    "expiresAt": "2026-08-22 15:56",
+    "expiresAt": "2026-08-22 15:59",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,21 @@
         "text": "In Kashan, contrary to Iran's international commitments under the Convention on the Rights of the Child, children and adolescents have been trained in the use and carrying of weapons, including war weapons. Published images show that weapons were given to some children. This action violates Iran's commitments regarding the non-use of children in military activities.",
         "time": "15:55",
         "ts": 1787241342
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Varzesh3 released a video of the national freestyle wrestling team's training under Alireza Dabir. In the video, Dabir forces wrestlers to push each other uphill on dirt mounds. Previously, a video showed him using a garden hose to help wrestlers recover.",
+        "time": "15:57",
+        "ts": 1787241420
       }
     ],
     "language": "en",
-    "packId": "20260820-61",
-    "sequence": 61,
+    "packId": "20260820-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:56"
+    "updatedAt": "15:59"
   },
   "verified": true
 }
