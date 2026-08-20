@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260820-51 seq=51 exp=1787409073",
+      "advancedStatus": "pack_id=20260820-52 seq=52 exp=1787409305",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:31",
+      "lastChecked": "14:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-20",
-    "expiresAt": "2026-08-22 14:31",
+    "expiresAt": "2026-08-22 14:35",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A NATO official stated that the alliance is ready to respond to any threats against its members. These remarks came after the Financial Times reported that Iran is considering attacks on US military targets in Europe. According to NATO's collective defense principle, an attack on one member is considered an attack on all members.",
-        "time": "14:30",
-        "ts": 1787149827
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -777,14 +770,28 @@
         "text": "Khatoun Bam drew 1-1 against Al Nassr Saudi Arabia in the second week of the AFC Women's Champions League qualifiers. Al Nassr scored first from a penalty, and Sara Didar equalized in the 95th minute. Khatoun Bam still has a chance to advance from Group E.",
         "time": "14:27",
         "ts": 1787236031
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Yahya Sari, spokesperson for the Yemeni Houthis, announced that the group targeted Najran airport and Aramco facilities with two drones. He said both operations were successful and the attacks were in response to Saudi drones violating Saada province's airspace. He also emphasized that they will continue to counter any violations of Yemen's sovereignty.",
+        "time": "14:32",
+        "ts": 1787236350
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A group of hospital staff from Neyshabur University of Medical Sciences held a protest on Tuesday near 22 Bahman Hospital. They protested against their living conditions, salary calculations, and payments of tariffs, bonuses, and overtime.",
+        "time": "14:33",
+        "ts": 1787236433
       }
     ],
     "language": "en",
-    "packId": "20260820-51",
-    "sequence": 51,
+    "packId": "20260820-52",
+    "sequence": 52,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:31"
+    "updatedAt": "14:35"
   },
   "verified": true
 }
