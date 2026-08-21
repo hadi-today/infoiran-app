@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260821-20 seq=20 exp=1787472287",
+      "advancedStatus": "pack_id=20260821-21 seq=21 exp=1787472588",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:04",
+      "lastChecked": "08:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-21",
-    "expiresAt": "2026-08-23 08:04",
+    "expiresAt": "2026-08-23 08:09",
     "items": [
       {
         "channel": "iranintl",
@@ -819,14 +819,21 @@
         "text": "A citizen told Iran International that due to a power outage, he has to continue working in the workshop using his mobile phone flashlight. This issue was shown in a video he sent. The power outage has caused problems in the workshop.",
         "time": "08:04",
         "ts": 1787299473
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Tottenham and Manchester City have agreed on the transfer of Savinho for 75 million pounds. After medical examinations, Savinho will sign a long-term contract with Tottenham. Tottenham is also negotiating to sign Omar Marmoush.",
+        "time": "08:06",
+        "ts": 1787299584
       }
     ],
     "language": "en",
-    "packId": "20260821-20",
-    "sequence": 20,
+    "packId": "20260821-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:04"
+    "updatedAt": "08:09"
   },
   "verified": true
 }
