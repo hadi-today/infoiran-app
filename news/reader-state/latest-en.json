@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260821-41 seq=41 exp=1787512184",
+      "advancedStatus": "pack_id=20260821-44 seq=44 exp=1787513540",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:09",
+      "lastChecked": "19:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-21",
-    "expiresAt": "2026-08-23 19:09",
+    "expiresAt": "2026-08-23 19:32",
     "items": [
       {
         "channel": "iranintl",
@@ -441,14 +441,35 @@
         "text": "Cristiano Ronaldo returned to the field after more than 240 minutes of absence and scored in the 83rd minute of the Al-Nassr vs Al-Riyadh match. This was his first goal of the season and the 977th goal of his professional career. Ronaldo was the top scorer for Al-Nassr in the last season and missed the first two matches of the new season due to a late arrival.",
         "time": "19:08",
         "ts": 1787339338
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump reshared a post by American lawyer David Shon accusing the leaders of the Islamic Republic of illegal and terrorist behavior. Shon wrote that Trump gave many opportunities to the Islamic Republic to change its behavior, but they did not accept. He also said Trump is now implementing the consequences of the Islamic Republic's continued illegal path.",
+        "time": "19:21",
+        "ts": 1787340089
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Shahram Jamali, a resident of Mahmoudabad, was transferred to Amol prison to serve a sentence of seven months and sixteen days. This transfer took place on August 10, 2026. The news was reported by HRANA news agency.",
+        "time": "19:23",
+        "ts": 1787340222
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Vahidi, commander of the Islamic Revolutionary Guard Corps, stated that increasing the defensive and offensive capabilities of the Islamic Republic must continue rapidly. He described this strategy as the only way to counter current and future enemy actions. Additionally, the production of defense and military products should be accelerated.",
+        "time": "19:31",
+        "ts": 1787340692
       }
     ],
     "language": "en",
-    "packId": "20260821-41",
-    "sequence": 41,
+    "packId": "20260821-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:09"
+    "updatedAt": "19:32"
   },
   "verified": true
 }
