@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260821-03 seq=3 exp=1787450184",
+      "advancedStatus": "pack_id=20260821-04 seq=4 exp=1787451594",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:56",
+      "lastChecked": "02:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-21",
-    "expiresAt": "2026-08-23 01:56",
+    "expiresAt": "2026-08-23 02:19",
     "items": [
       {
         "channel": "iranintl",
@@ -735,14 +735,21 @@
         "text": "Mark Dubowitz warned that the Islamic Republic might create a military crisis before the Israeli and US elections. He mentioned the possibility of a direct attack or through proxy forces. This attack could lead to intensified conflict and political and economic consequences.",
         "time": "01:56",
         "ts": 1787277361
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump signed an executive order directing federal agencies to facilitate increased commercial space launches. The White House aims to create capacity for at least 1,000 launches and spacecraft returns to the atmosphere by 2030. Plans also include returning astronauts to the moon by 2028 and establishing a lunar base by 2030.",
+        "time": "02:19",
+        "ts": 1787278771
       }
     ],
     "language": "en",
-    "packId": "20260821-03",
-    "sequence": 3,
+    "packId": "20260821-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:56"
+    "updatedAt": "02:19"
   },
   "verified": true
 }
