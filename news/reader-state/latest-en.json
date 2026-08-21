@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260821-25 seq=25 exp=1787475141",
+      "advancedStatus": "pack_id=20260821-26 seq=26 exp=1787475450",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:52",
+      "lastChecked": "08:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-21",
-    "expiresAt": "2026-08-23 08:52",
+    "expiresAt": "2026-08-23 08:57",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,21 @@
         "text": "The US Treasury Department sanctioned Hezbollah Lebanon and 10 members of a money transfer network affiliated with the group and the Islamic Republic. This network moved hundreds of millions of dollars using commercial flights between Iran, Lebanon, Turkey, and the UAE. The report was provided by Ashkan Safaei from Iran International.",
         "time": "08:51",
         "ts": 1787302316
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The International Federation of Journalists condemned the new Iranian parliamentary plan criminalizing contact with certain foreign media and warned about its consequences for freedom of expression. The plan was approved on August 16 by 183 representatives. According to it, interviews with media based in the US and Israel will be criminalized.",
+        "time": "08:55",
+        "ts": 1787302524
       }
     ],
     "language": "en",
-    "packId": "20260821-25",
-    "sequence": 25,
+    "packId": "20260821-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:52"
+    "updatedAt": "08:57"
   },
   "verified": true
 }
