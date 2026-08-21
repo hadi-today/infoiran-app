@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260821-47 seq=47 exp=1787518009",
+      "advancedStatus": "pack_id=20260821-48 seq=48 exp=1787518863",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:46",
+      "lastChecked": "21:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-21",
-    "expiresAt": "2026-08-23 20:46",
+    "expiresAt": "2026-08-23 21:01",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The league spokesperson announced that the home and away matches between Tractor and Persepolis this season will be held without spectators. Additionally, 90% of the spectator capacity for the Tehran derby will be allocated to Esteghlal fans. Ticket sales for the Tehran derby will be limited to 80% of the capacity of the Naghsh-e Jahan Stadium.",
-        "time": "20:53",
-        "ts": 1787259239
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US Treasury Secretary said Washington wants to impose the toughest sanctions in history against the Islamic Republic and intends to overthrow it with this plan. Meanwhile, the US President announced the start of the heaviest economic operation against the Islamic Republic.",
-        "time": "20:54",
-        "ts": 1787259246
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -483,14 +469,21 @@
         "text": "Fars News Agency referred to Pezeshkian's emphasis on ending the war. The agency considers the rhetoric of ending the war as a sign of Iran's weakness. It also stated that the enemy, sensing weakness, launches a stronger attack.",
         "time": "20:46",
         "ts": 1787345187
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran's crude oil loading has dropped to about one-seventh of the pre-war level. China's imports of Iranian oil have also sharply declined to 523,000 barrels per day. Iran's oil reserves in tankers may run out within five months if the current export rate continues.",
+        "time": "21:00",
+        "ts": 1787346031
       }
     ],
     "language": "en",
-    "packId": "20260821-47",
-    "sequence": 47,
+    "packId": "20260821-48",
+    "sequence": 48,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:46"
+    "updatedAt": "21:01"
   },
   "verified": true
 }
