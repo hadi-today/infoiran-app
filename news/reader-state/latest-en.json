@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260821-12 seq=12 exp=1787465432",
+      "advancedStatus": "pack_id=20260821-13 seq=13 exp=1787466993",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:10",
+      "lastChecked": "06:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-21",
-    "expiresAt": "2026-08-23 06:10",
+    "expiresAt": "2026-08-23 06:36",
     "items": [
       {
         "channel": "iranintl",
@@ -777,14 +777,21 @@
         "text": "The Afghanistan 2026 conference is being held at the University of Melbourne with the participation of academics and policymakers. The main topics include the situation of women and girls, regional security, and forced migration. The conference discusses Afghanistan's future and the international community's interaction with the Taliban.",
         "time": "06:10",
         "ts": 1787292610
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Bagher Ghalibaf stated at a meeting of Iranian and Iraqi economic activists in Baghdad that military power alone is not sustainable without economic growth and national production. He emphasized that security and economy are two complementary pillars that must advance together. Ghalibaf added that without security, investment will not come, and without a sustainable economy, security cannot be maintained.",
+        "time": "06:36",
+        "ts": 1787294170
       }
     ],
     "language": "en",
-    "packId": "20260821-12",
-    "sequence": 12,
+    "packId": "20260821-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:10"
+    "updatedAt": "06:36"
   },
   "verified": true
 }
