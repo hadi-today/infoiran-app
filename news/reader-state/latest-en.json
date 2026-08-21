@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260821-15 seq=15 exp=1787469348",
+      "advancedStatus": "pack_id=20260821-16 seq=16 exp=1787470414",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:15",
+      "lastChecked": "07:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-21",
-    "expiresAt": "2026-08-23 07:15",
+    "expiresAt": "2026-08-23 07:33",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A clinical trial shows that a personalized mRNA vaccine by Moderna and Merck, combined with the drug Keytruda, reduces the risk of recurrence and spread of the deadliest skin cancer by 50% and nearly 60%, respectively. Following the initial results, Moderna's stock value increased by nearly 177%. This report was provided by Niloufar Mansouri from Iran International.",
-        "time": "07:13",
-        "ts": 1787210013
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Dadpay referred to contradictory narratives about the release of Iran's blocked assets, stating that transferring 12 billion dollars or money and gold to Tehran does not mean trade facilitation. He added that Iran's banking system is isolated and the money transfer network faces serious restrictions. Also, under maritime blockade conditions, releasing these assets does not necessarily lead to increased supply or lower prices.",
-        "time": "07:26",
-        "ts": 1787210777
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -777,14 +763,21 @@
         "text": "Hossein Aghaei said if the US can block the routes for circumventing sanctions and the financial networks of the Islamic Republic, economic pressure could lead to the regime's economic collapse. He added that such a collapse could pave the way for expanded protests and the activation of society against the Islamic Republic.",
         "time": "07:13",
         "ts": 1787296388
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Hossein Mesbah stated that according to the government's plan, each Iranian will receive a monthly gasoline quota of 30 liters. Ahmad Alavi criticized the plan as economically inefficient and not increasing production. He said the policy aims to suppress consumption and control dissatisfaction amid current economic challenges.",
+        "time": "07:33",
+        "ts": 1787297593
       }
     ],
     "language": "en",
-    "packId": "20260821-15",
-    "sequence": 15,
+    "packId": "20260821-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:15"
+    "updatedAt": "07:33"
   },
   "verified": true
 }
