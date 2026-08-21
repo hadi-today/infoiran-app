@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260821-40 seq=40 exp=1787511172",
+      "advancedStatus": "pack_id=20260821-39 seq=39 exp=1787510402",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:52",
+      "lastChecked": "18:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,8 +13,22 @@
   ],
   "pack": {
     "date": "2026-08-21",
-    "expiresAt": "2026-08-23 18:52",
+    "expiresAt": "2026-08-23 18:40",
     "items": [
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The court session for Zartosht Ahmadi Ragheb, a political prisoner, was held via video conference at the Karaj Revolutionary Court. The charges include insulting the Supreme Leader, disrupting order, and propaganda against the regime through spreading falsehoods. Ahmadi Ragheb defended himself during the session.",
+        "time": "18:39",
+        "ts": 1787251153
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A new wave of arrests has begun in Lordegan. Security forces have detained several healthcare workers who assisted protesters. Additionally, Amir Ahmadi, a 23-year-old, was arrested on charges of cooperating with terrorist groups and was beaten during the arrest.",
+        "time": "18:50",
+        "ts": 1787251858
+      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -434,21 +448,14 @@
         "text": "The Instagram page Ravaq Dar al-Zekr, which published content about the grave of Ali Khamenei and his family members, was blocked by Instagram. This page covered news and images of the burial site of Ali Khamenei and his family members.",
         "time": "18:37",
         "ts": 1787337437
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The film 'Court of History' by Jamshid Barzegar depicts the history of repression in the Islamic Republic in a condensed case. The film raises questions about how trials should be conducted in Iran after the Islamic Republic. It covers executions, torture, and suppression of protests from the 1980s to the present.",
-        "time": "18:51",
-        "ts": 1787338304
       }
     ],
     "language": "en",
-    "packId": "20260821-40",
-    "sequence": 40,
+    "packId": "20260821-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:52"
+    "updatedAt": "18:40"
   },
   "verified": true
 }
