@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260821-05 seq=5 exp=1787454050",
+      "advancedStatus": "pack_id=20260821-06 seq=6 exp=1787454311",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:00",
+      "lastChecked": "03:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-21",
-    "expiresAt": "2026-08-23 03:00",
+    "expiresAt": "2026-08-23 03:05",
     "items": [
       {
         "channel": "iranintl",
@@ -749,14 +749,21 @@
         "text": "Dan Bacon, a Republican member of the US Congress, stated that the best end to the Iran war is for the people to reclaim their country. He said Donald Trump's goal is to prevent Iran from obtaining nuclear weapons and to keep the Strait of Hormuz open. Bacon also called for targeting the IRGC and destabilizing the Iranian government.",
         "time": "03:00",
         "ts": 1787281232
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US House Foreign Affairs Committee stated that Donald Trump has placed Iran's economy under severe pressure with the strongest economic measures ever taken. The committee added that this decisive economic pressure will drastically reduce the regime's funding for 'terrorist' activities and bring it to its knees. The committee urged Trump to continue maximum pressure.",
+        "time": "03:04",
+        "ts": 1787281478
       }
     ],
     "language": "en",
-    "packId": "20260821-05",
-    "sequence": 5,
+    "packId": "20260821-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:00"
+    "updatedAt": "03:05"
   },
   "verified": true
 }
