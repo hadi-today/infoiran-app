@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260821-22 seq=22 exp=1787473182",
+      "advancedStatus": "pack_id=20260821-23 seq=23 exp=1787473480",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:19",
+      "lastChecked": "08:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-21",
-    "expiresAt": "2026-08-23 08:19",
+    "expiresAt": "2026-08-23 08:24",
     "items": [
       {
         "channel": "iranintl",
@@ -833,14 +833,21 @@
         "text": "Heydar Nekousirat, a political prisoner in Vakilabad Prison in Mashhad, suffers from diabetes, kidney failure, and vision problems. Despite repeated requests, he has been deprived of specialized medical care and transfer to an outside hospital. Prison authorities have not taken any action to provide him with treatment.",
         "time": "08:19",
         "ts": 1787300358
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mostafa Khoshcheshm, a media analyst, suggested using smart naval mines to block the Florida Gulf. These remarks sparked reactions. Mining international waterways can have serious human, security, and legal consequences.",
+        "time": "08:23",
+        "ts": 1787300589
       }
     ],
     "language": "en",
-    "packId": "20260821-22",
-    "sequence": 22,
+    "packId": "20260821-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:19"
+    "updatedAt": "08:24"
   },
   "verified": true
 }
