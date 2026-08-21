@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260821-24 seq=24 exp=1787473904",
+      "advancedStatus": "pack_id=20260821-25 seq=25 exp=1787475141",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:31",
+      "lastChecked": "08:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-21",
-    "expiresAt": "2026-08-23 08:31",
+    "expiresAt": "2026-08-23 08:52",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Tehran Oil Refinery announced that thick smoke in southern Tehran was caused by an accident involving two tankers carrying kerosene and a fire at the loading site. No damage occurred to operational units, and activities continue. One person was injured in the incident, but their condition is not serious.",
-        "time": "08:31",
-        "ts": 1787214712
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen sent a video to Iran International showing that electricity was cut off in Eslamshahr on the evening of August 19. He stated that people's patience has run out and there is a risk of protests erupting soon.",
-        "time": "08:32",
-        "ts": 1787214720
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Rouhollah Najabat, Shiraz representative, claimed the foreign influence countermeasure plan does not restrict citizens' communication abroad. However, communication with some countries requires permits and registration in a system supervised by security agencies. The plan also imposes special oversight on journalists, researchers, and economic activists.",
-        "time": "08:32",
-        "ts": 1787214766
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -819,14 +798,21 @@
         "text": "Ronaldinho, the former Brazilian football star, joined Ravenna in Italy's Serie C and acquired part of the club's shares. He arrived in Italy on Thursday, August 20, and participated in the player introduction ceremony. Ronaldinho will not play in the first match of the season and did not give a definite answer about playing or scoring.",
         "time": "08:31",
         "ts": 1787301078
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US Treasury Department sanctioned Hezbollah Lebanon and 10 members of a money transfer network affiliated with the group and the Islamic Republic. This network moved hundreds of millions of dollars using commercial flights between Iran, Lebanon, Turkey, and the UAE. The report was provided by Ashkan Safaei from Iran International.",
+        "time": "08:51",
+        "ts": 1787302316
       }
     ],
     "language": "en",
-    "packId": "20260821-24",
-    "sequence": 24,
+    "packId": "20260821-25",
+    "sequence": 25,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:31"
+    "updatedAt": "08:52"
   },
   "verified": true
 }
