@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260821-49 seq=49 exp=1787519153",
+      "advancedStatus": "pack_id=20260821-50 seq=50 exp=1787519451",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:05",
+      "lastChecked": "21:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-21",
-    "expiresAt": "2026-08-23 21:05",
+    "expiresAt": "2026-08-23 21:10",
     "items": [
       {
         "channel": "iranintl",
@@ -483,14 +483,21 @@
         "text": "In the Hat Trick program, Dermot Gallagher, former Premier League referee, reviewed key scenes from the second week of the Premier League. The goal by Malavan against Zob Ahan was correctly disallowed and Amir Reza Afshorde's red card was justified. Also, Shams Azar's penalty and Farshad Mohammadi Mehr's second yellow card were correct.",
         "time": "21:01",
         "ts": 1787346107
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "An official from Iran's Energy Optimization Organization stated that the country faces a daily gasoline deficit of 14 million liters. Daily production is about 115 million liters, but consumption has reached 129 million liters. Additionally, Russia has limited gasoline exports due to domestic needs.",
+        "time": "21:07",
+        "ts": 1787346428
       }
     ],
     "language": "en",
-    "packId": "20260821-49",
-    "sequence": 49,
+    "packId": "20260821-50",
+    "sequence": 50,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:05"
+    "updatedAt": "21:10"
   },
   "verified": true
 }
