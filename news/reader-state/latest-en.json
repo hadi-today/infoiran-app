@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260821-04 seq=4 exp=1787451594",
+      "advancedStatus": "pack_id=20260821-05 seq=5 exp=1787454050",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:19",
+      "lastChecked": "03:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-21",
-    "expiresAt": "2026-08-23 02:19",
+    "expiresAt": "2026-08-23 03:00",
     "items": [
       {
         "channel": "iranintl",
@@ -742,14 +742,21 @@
         "text": "Donald Trump signed an executive order directing federal agencies to facilitate increased commercial space launches. The White House aims to create capacity for at least 1,000 launches and spacecraft returns to the atmosphere by 2030. Plans also include returning astronauts to the moon by 2028 and establishing a lunar base by 2030.",
         "time": "02:19",
         "ts": 1787278771
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Dan Bacon, a Republican member of the US Congress, stated that the best end to the Iran war is for the people to reclaim their country. He said Donald Trump's goal is to prevent Iran from obtaining nuclear weapons and to keep the Strait of Hormuz open. Bacon also called for targeting the IRGC and destabilizing the Iranian government.",
+        "time": "03:00",
+        "ts": 1787281232
       }
     ],
     "language": "en",
-    "packId": "20260821-04",
-    "sequence": 4,
+    "packId": "20260821-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:19"
+    "updatedAt": "03:00"
   },
   "verified": true
 }
