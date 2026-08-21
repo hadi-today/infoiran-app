@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260821-38 seq=38 exp=1787509879",
+      "advancedStatus": "pack_id=20260821-39 seq=39 exp=1787510402",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:31",
+      "lastChecked": "18:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-21",
-    "expiresAt": "2026-08-23 18:31",
+    "expiresAt": "2026-08-23 18:40",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Workers at Pars Haft Tape Paper Company have complained about unpaid leave claims. Additionally, eight dismissed workers from Mahshahr Petrochemical remain in job uncertainty. This situation has been reported in two different industrial units.",
-        "time": "18:33",
-        "ts": 1787250800
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Two luxury cars, a McLaren and a Lamborghini, were set on fire with three petrol bombs in a suspicious attack outside the Royal Shalimar restaurant on Highgate Street in Birmingham and were completely destroyed.",
-        "time": "18:35",
-        "ts": 1787250942
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -448,14 +434,28 @@
         "text": "Donald Trump shared a post from American lawyer David Shon stating that Trump gave the Islamic Republic every possible opportunity to change its behavior. Shon wrote that Trump wanted the Islamic Republic to stop supporting global terrorism and join civilized countries. The consequences of continuing the current path were also made clear to the Islamic Republic.",
         "time": "18:30",
         "ts": 1787337018
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A worker in Delijan was injured due to unsafe working conditions and lack of safety measures. The incident occurred while the worker was performing his duties. The report was published by Harana News Agency.",
+        "time": "18:34",
+        "ts": 1787337272
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Instagram page Ravaq Dar al-Zekr, which published content about the grave of Ali Khamenei and his family members, was blocked by Instagram. This page covered news and images of the burial site of Ali Khamenei and his family members.",
+        "time": "18:37",
+        "ts": 1787337437
       }
     ],
     "language": "en",
-    "packId": "20260821-38",
-    "sequence": 38,
+    "packId": "20260821-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:31"
+    "updatedAt": "18:40"
   },
   "verified": true
 }
