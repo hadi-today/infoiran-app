@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260821-02 seq=2 exp=1787446864",
+      "advancedStatus": "pack_id=20260821-03 seq=3 exp=1787450184",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:01",
+      "lastChecked": "01:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-21",
-    "expiresAt": "2026-08-23 01:01",
+    "expiresAt": "2026-08-23 01:56",
     "items": [
       {
         "channel": "iranintl",
@@ -728,14 +728,21 @@
         "text": "Miad Maleki, former head of the US Treasury's sanctions targeting office, warned about the impact of the UAE cutting trade with Iran and Iran's shift in access to foreign currency. He stated that the US Treasury has targeted the Turkey-related sector before this shift is fully implemented. Further actions focusing on Turkey are expected.",
         "time": "01:00",
         "ts": 1787274042
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mark Dubowitz warned that the Islamic Republic might create a military crisis before the Israeli and US elections. He mentioned the possibility of a direct attack or through proxy forces. This attack could lead to intensified conflict and political and economic consequences.",
+        "time": "01:56",
+        "ts": 1787277361
       }
     ],
     "language": "en",
-    "packId": "20260821-02",
-    "sequence": 2,
+    "packId": "20260821-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:01"
+    "updatedAt": "01:56"
   },
   "verified": true
 }
