@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260821-51 seq=51 exp=1787520831",
+      "advancedStatus": "pack_id=20260821-52 seq=52 exp=1787522159",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:33",
+      "lastChecked": "21:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-21",
-    "expiresAt": "2026-08-23 21:33",
+    "expiresAt": "2026-08-23 21:55",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -422,13 +422,19 @@
         "text": "ترامپ گفت حرکت به سمت جنگ اقتصادی علیه ایران به معنای محدودیت گزینه‌های نظامی آمریکا در منطقه نیست. او تأکید کرد که آمریکا کنترل کامل منطقه تنگه هرمز و مناطق خشکی اطراف آن را دارد. ترامپ همچنین بیان کرد که ایران هنوز برای توافق درست آماده نیست.",
         "time": "21:33",
         "ts": 1787348006
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "ترامپ گفت ایران مایل به توافق است اما هنوز آماده توافق درست نیست. او افزود آمریکا کنترل کامل منطقه مرتبط با تنگه هرمز را دارد. همچنین درباره گزینه‌های نظامی آمریکا گفت که در حال مشاهده اتفاقات هستند.",
+        "time": "21:55",
+        "ts": 1787349338
       }
     ],
-    "packId": "20260821-51",
-    "sequence": 51,
+    "packId": "20260821-52",
+    "sequence": 52,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "21:33"
+    "updatedAt": "21:55"
   },
   "verified": true
 }
