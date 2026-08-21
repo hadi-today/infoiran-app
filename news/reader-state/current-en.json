@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260821-45 seq=45 exp=1787516500",
+      "advancedStatus": "pack_id=20260821-47 seq=47 exp=1787518009",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:21",
+      "lastChecked": "20:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-21",
-    "expiresAt": "2026-08-23 20:21",
+    "expiresAt": "2026-08-23 20:46",
     "items": [
       {
         "channel": "iranintl",
@@ -469,14 +469,28 @@
         "text": "French health authorities warned about the sale of tens of thousands of substandard condoms. These products may cause unwanted pregnancies and sexually transmitted infections. An order was issued to recall about 260,000 defective condoms.",
         "time": "20:21",
         "ts": 1787343673
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Sounds of air defense firing were heard around Yousefabad, Amirabad, and Fatemi. Some believe these sounds are gunfire, while others think they are fireworks related to the \"Bayat Eid with Imam Zaman\" ceremony. This ceremony was held two days ago at Vali Asr Square in Tehran.",
+        "time": "20:21",
+        "ts": 1787343709
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fars News Agency referred to Pezeshkian's emphasis on ending the war. The agency considers the rhetoric of ending the war as a sign of Iran's weakness. It also stated that the enemy, sensing weakness, launches a stronger attack.",
+        "time": "20:46",
+        "ts": 1787345187
       }
     ],
     "language": "en",
-    "packId": "20260821-45",
-    "sequence": 45,
+    "packId": "20260821-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:21"
+    "updatedAt": "20:46"
   },
   "verified": true
 }
