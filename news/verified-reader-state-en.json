@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260821-50 seq=50 exp=1787519451",
+      "advancedStatus": "pack_id=20260821-51 seq=51 exp=1787520831",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:10",
+      "lastChecked": "21:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-21",
-    "expiresAt": "2026-08-23 21:10",
+    "expiresAt": "2026-08-23 21:33",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Scott Bessent, the US Treasury Secretary, reposted Trump's Truth Social post about the start of an \"economic operation\" against the Islamic Republic, writing on X that any remaining connection with Tehran would quickly lead a country to economic destruction. He had previously stated that maximum economic pressure likely means military conflict will not resume. Bessent also mentioned that coordinated economic isolation would be imposed.",
-        "time": "21:07",
-        "ts": 1787260043
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -490,14 +483,21 @@
         "text": "An official from Iran's Energy Optimization Organization stated that the country faces a daily gasoline deficit of 14 million liters. Daily production is about 115 million liters, but consumption has reached 129 million liters. Additionally, Russia has limited gasoline exports due to domestic needs.",
         "time": "21:07",
         "ts": 1787346428
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Trump stated that moving towards economic warfare against Iran does not indicate limited military options for the US in the region. He emphasized that the US has full control over the Strait of Hormuz and surrounding land areas. Trump also mentioned that Iran is not yet ready for a proper agreement.",
+        "time": "21:33",
+        "ts": 1787348006
       }
     ],
     "language": "en",
-    "packId": "20260821-50",
-    "sequence": 50,
+    "packId": "20260821-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:10"
+    "updatedAt": "21:33"
   },
   "verified": true
 }
