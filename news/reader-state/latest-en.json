@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260821-08 seq=8 exp=1787462705",
+      "advancedStatus": "pack_id=20260821-09 seq=9 exp=1787463281",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:25",
+      "lastChecked": "05:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-21",
-    "expiresAt": "2026-08-23 05:25",
+    "expiresAt": "2026-08-23 05:34",
     "items": [
       {
         "channel": "iranintl",
@@ -763,14 +763,21 @@
         "text": "Shayan Samiei said that a combination of military pressure, naval blockade, and sanctions can change the calculations of the Islamic Republic. He emphasized that this change occurs when the Iranian government believes the pressures are not temporary. Also, the Islamic Republic will retreat when the cost of resistance exceeds the cost of agreement.",
         "time": "05:24",
         "ts": 1787289881
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shahram Khaledi stated that the Islamic Republic is losing its traditional influence in Lebanon. Economic pressure on Tehran and Hezbollah's financial network is increasing. There is a possibility of expelling Islamic Republic diplomats from Lebanon, which could escalate tensions.",
+        "time": "05:34",
+        "ts": 1787290452
       }
     ],
     "language": "en",
-    "packId": "20260821-08",
-    "sequence": 8,
+    "packId": "20260821-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:25"
+    "updatedAt": "05:34"
   },
   "verified": true
 }
