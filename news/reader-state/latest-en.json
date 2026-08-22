@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-75 seq=75 exp=1787593075",
+      "advancedStatus": "pack_id=20260822-76 seq=76 exp=1787593388",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:37",
+      "lastChecked": "17:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 17:37",
+    "expiresAt": "2026-08-24 17:43",
     "items": [
       {
         "channel": "iranintl",
@@ -791,14 +791,28 @@
         "text": "Benjamin Netanyahu stated that as long as he is prime minister, a Palestinian state controlled by Iran will not be established in Gaza or the West Bank. He also criticized the left-wing coalition with the Muslim Brotherhood. These remarks were published on X network.",
         "time": "17:37",
         "ts": 1787420249
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Two workers were injured in an incident at the Sarmak Malayer mining company. They were transferred to the hospital for further treatment. The accident occurred during work.",
+        "time": "17:42",
+        "ts": 1787420565
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The spokesperson of the Energy Commission of the Iranian Parliament stated that about half a percent of methanol is added to gasoline and claimed it does not harm vehicles. The First Deputy Minister of Oil confirmed that substandard gasoline is produced in Iran. An energy expert warned that the methanol in Iranian gasoline could seriously damage fuel systems and car engines.",
+        "time": "17:42",
+        "ts": 1787420573
       }
     ],
     "language": "en",
-    "packId": "20260822-75",
-    "sequence": 75,
+    "packId": "20260822-76",
+    "sequence": 76,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:37"
+    "updatedAt": "17:43"
   },
   "verified": true
 }
