@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-34 seq=34 exp=1787569216",
+      "advancedStatus": "pack_id=20260822-33 seq=33 exp=1787567740",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:00",
+      "lastChecked": "10:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,8 +13,15 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 11:00",
+    "expiresAt": "2026-08-24 10:35",
     "items": [
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Shirazi said that Mohammad Bagher Ghalibaf's main concern about the intensification of US economic pressures is the possibility of a 'hunger uprising' in Iran. He added that with the tightening of ways to bypass sanctions, the Islamic Republic faces the risk of famine. Even having money may not guarantee access to essential goods.",
+        "time": "10:47",
+        "ts": 1787309272
+      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -476,21 +483,14 @@
         "text": "Arash Emamjomeh, a citizen from Saqez, was arrested by security forces on Friday, August 14. Nine days after his arrest, there is still no information about his whereabouts or condition. This situation has caused concern.",
         "time": "10:35",
         "ts": 1787394914
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A video circulated on social media shows Basij forces placing children behind heavy military vehicles. This act is part of the ongoing securitization of the environment. The use of children in military settings has been highlighted.",
-        "time": "10:59",
-        "ts": 1787396390
       }
     ],
     "language": "en",
-    "packId": "20260822-34",
-    "sequence": 34,
+    "packId": "20260822-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:00"
+    "updatedAt": "10:35"
   },
   "verified": true
 }
