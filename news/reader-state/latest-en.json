@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-27 seq=27 exp=1787565728",
+      "advancedStatus": "pack_id=20260822-28 seq=28 exp=1787565934",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:02",
+      "lastChecked": "10:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 10:02",
+    "expiresAt": "2026-08-24 10:05",
     "items": [
       {
         "channel": "iranintl",
@@ -462,14 +462,21 @@
         "text": "Hamidreza Hajibabaei mentioned the existence of an \"octopus\" in the automotive industry. He stated that until this \"octopus\" is removed, the condition and quality of cars will remain the same. These remarks point to structural problems in the automotive industry.",
         "time": "10:01",
         "ts": 1787392908
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen in Markazi province stated that some people have been forced to steal electric cables due to poverty. This issue was explained in a video sent by him. The incident occurred in neighborhoods of Markazi province.",
+        "time": "10:05",
+        "ts": 1787393110
       }
     ],
     "language": "en",
-    "packId": "20260822-27",
-    "sequence": 27,
+    "packId": "20260822-28",
+    "sequence": 28,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:02"
+    "updatedAt": "10:05"
   },
   "verified": true
 }
