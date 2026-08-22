@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-31 seq=31 exp=1787566820",
+      "advancedStatus": "pack_id=20260822-32 seq=32 exp=1787567431",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:20",
+      "lastChecked": "10:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 10:20",
+    "expiresAt": "2026-08-24 10:30",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ata Hosseinian, an economic journalist, mentioned the plan to allocate 30 liters of gasoline monthly to each Iranian as a \"fair distribution\" of fuel subsidy. He warned that implementing this plan would impose very high inflation on the country within six months. This statement was published by Iran International.",
-        "time": "10:29",
-        "ts": 1787308171
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reports from various cities in Iran indicate worsening fuel shortages and closure of some gas stations. Long queues for gasoline have formed. The government is considering price increases and changes to the rationing system, but officials deny imminent implementation of these plans.",
-        "time": "10:29",
-        "ts": 1787308177
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -490,14 +476,21 @@
         "text": "The street performance of women with optional hijab in Ekbatan has received widespread attention on social media. One user described this movement as the victory of Iranian women against the Islamic Republic. More details are provided in an interview with Ayah Deris.",
         "time": "10:19",
         "ts": 1787393997
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Farzaneh Fasihi, an Iranian Olympic runner, announced that despite qualifying, she was not allowed to register for the World Championships. She stated that she has been under pressure and was deprived of her basic athlete rights. Fasihi has faced pressure due to her protests against the killings by the Islamic Republic.",
+        "time": "10:30",
+        "ts": 1787394601
       }
     ],
     "language": "en",
-    "packId": "20260822-31",
-    "sequence": 31,
+    "packId": "20260822-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:20"
+    "updatedAt": "10:30"
   },
   "verified": true
 }
