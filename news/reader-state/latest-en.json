@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-84 seq=84 exp=1787596407",
+      "advancedStatus": "pack_id=20260822-85 seq=85 exp=1787596905",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:33",
+      "lastChecked": "18:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 18:33",
+    "expiresAt": "2026-08-24 18:41",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A worker in Delijan was injured due to unsafe working conditions and lack of safety measures. The incident occurred while the worker was performing his duties. The report was published by Harana News Agency.",
-        "time": "18:34",
-        "ts": 1787337272
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Instagram page Ravaq Dar al-Zekr, which published content about the grave of Ali Khamenei and his family members, was blocked by Instagram. This page covered news and images of the burial site of Ali Khamenei and his family members.",
-        "time": "18:37",
-        "ts": 1787337437
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -805,14 +791,21 @@
         "text": "Axios reported that the amount of oil passing through the Strait of Hormuz has doubled with the creation of a US-protected shipping corridor. Omid Shukri, an energy market expert, predicted that if this trend continues and is confirmed, the supply of oil from Arab countries will increase, and global oil prices could decrease. He also added that the US has the necessary military capability to maintain this route, but this operation will incur significant costs for Washington, and insecurity in the Strait of Hormuz could increase oil transportation costs.",
         "time": "18:31",
         "ts": 1787423462
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Masoud Pezeshkian spoke at Doctor's Day about the start of the war, saying it was believed that if the country's leaders were killed, the country would collapse. He added that Ali Khamenei declared the need to move beyond the status of neither war nor peace, and they will follow whatever policy the leadership sets. Pezeshkian also stated that the current agreement is the best agreement.",
+        "time": "18:41",
+        "ts": 1787424076
       }
     ],
     "language": "en",
-    "packId": "20260822-84",
-    "sequence": 84,
+    "packId": "20260822-85",
+    "sequence": 85,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:33"
+    "updatedAt": "18:41"
   },
   "verified": true
 }
