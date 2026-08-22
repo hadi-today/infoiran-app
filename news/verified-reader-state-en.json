@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-89 seq=89 exp=1787598288",
+      "advancedStatus": "pack_id=20260822-90 seq=90 exp=1787598946",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:04",
+      "lastChecked": "19:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 19:04",
+    "expiresAt": "2026-08-24 19:15",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Cristiano Ronaldo returned to the field after more than 240 minutes of absence and scored in the 83rd minute of the Al-Nassr vs Al-Riyadh match. This was his first goal of the season and the 977th goal of his professional career. Ronaldo was the top scorer for Al-Nassr in the last season and missed the first two matches of the new season due to a late arrival.",
-        "time": "19:08",
-        "ts": 1787339338
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -819,14 +812,21 @@
         "text": "Victor Montagliani, president of CONCACAF, has asked Gianni Infantino not to attend the under-14 Caribbean Football Union tournament. Montagliani believes the presence of the FIFA president will harm the event. However, Infantino has posted photos showing his attendance at the tournament.",
         "time": "19:04",
         "ts": 1787425459
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Gianni Infantino, FIFA president, has not responded to questions following the disclosure of the $20 billion FFE plan. He also refused to answer questions from a Sky News reporter in Punta Cana. Infantino intends to run for a fourth term as FIFA president in the 2027 election.",
+        "time": "19:15",
+        "ts": 1787426114
       }
     ],
     "language": "en",
-    "packId": "20260822-89",
-    "sequence": 89,
+    "packId": "20260822-90",
+    "sequence": 90,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:04"
+    "updatedAt": "19:15"
   },
   "verified": true
 }
