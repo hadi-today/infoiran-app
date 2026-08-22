@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-24 seq=24 exp=1787564027",
+      "advancedStatus": "pack_id=20260822-25 seq=25 exp=1787564169",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:33",
+      "lastChecked": "09:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 09:33",
+    "expiresAt": "2026-08-24 09:36",
     "items": [
       {
         "channel": "iranintl",
@@ -441,14 +441,21 @@
         "text": "Three detainees from the December 2025 protests, Mohammadreza Majidi-Asl, Behrouz Zamani-Nejad, and Kourosh Zamani-Nejad, were transferred from Tehran Grand Prison to Qezel Hesar Prison in Karaj. The transfer took place on Saturday, August 31. The reason for the transfer is unknown.",
         "time": "09:32",
         "ts": 1787391150
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The deputy of human resources planning in Kerman's education department announced a shortage of 4,400 teachers for the new school year. Reasons include imbalance between incoming staff and retirements, cancellation of recruitment exams, and lack of soldier-teacher recruitment. Previously, the shortage was reported as 3,000 teachers.",
+        "time": "09:35",
+        "ts": 1787391343
       }
     ],
     "language": "en",
-    "packId": "20260822-24",
-    "sequence": 24,
+    "packId": "20260822-25",
+    "sequence": 25,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:33"
+    "updatedAt": "09:36"
   },
   "verified": true
 }
