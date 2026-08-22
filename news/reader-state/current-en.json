@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-28 seq=28 exp=1787565934",
+      "advancedStatus": "pack_id=20260822-29 seq=29 exp=1787566154",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:05",
+      "lastChecked": "10:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 10:05",
+    "expiresAt": "2026-08-24 10:09",
     "items": [
       {
         "channel": "iranintl",
@@ -469,14 +469,21 @@
         "text": "A citizen in Markazi province stated that some people have been forced to steal electric cables due to poverty. This issue was explained in a video sent by him. The incident occurred in neighborhoods of Markazi province.",
         "time": "10:05",
         "ts": 1787393110
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reports have emerged about a possible Iranian attack on US positions in Bulgaria. NATO has assured Bulgaria it is ready to defend in case of an attack. Requests have been made to hold a security meeting with the Bulgarian president.",
+        "time": "10:08",
+        "ts": 1787393314
       }
     ],
     "language": "en",
-    "packId": "20260822-28",
-    "sequence": 28,
+    "packId": "20260822-29",
+    "sequence": 29,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:05"
+    "updatedAt": "10:09"
   },
   "verified": true
 }
