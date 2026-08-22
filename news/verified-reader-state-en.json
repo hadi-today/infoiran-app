@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-62 seq=62 exp=1787584019",
+      "advancedStatus": "pack_id=20260822-63 seq=63 exp=1787585107",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:06",
+      "lastChecked": "15:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 15:06",
+    "expiresAt": "2026-08-24 15:25",
     "items": [
       {
         "channel": "iranintl",
@@ -700,14 +700,21 @@
         "text": "A citizen protests the poor living conditions by showing the empty refrigerator at home and says people are hungry. He addresses officials, urging them to help. This is a protest against the current economic situation.",
         "time": "15:02",
         "ts": 1787410956
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ebrahim Rezaei warned about the presence of American aircraft and refuelers in airports of Qatar, Kuwait, and the UAE, calling it a threat. He cautioned these countries not to complain later. Previously, Ali Abdollahi also warned about the armed forces' oversight of US military activities in the region.",
+        "time": "15:24",
+        "ts": 1787412279
       }
     ],
     "language": "en",
-    "packId": "20260822-62",
-    "sequence": 62,
+    "packId": "20260822-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:06"
+    "updatedAt": "15:25"
   },
   "verified": true
 }
