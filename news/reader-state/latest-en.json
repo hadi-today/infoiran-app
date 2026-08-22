@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-05 seq=5 exp=1787531861",
+      "advancedStatus": "pack_id=20260822-06 seq=6 exp=1787535121",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:37",
+      "lastChecked": "01:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 00:37",
+    "expiresAt": "2026-08-24 01:32",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Miad Maleki, former head of the US Treasury's sanctions targeting office, warned about the impact of the UAE cutting trade with Iran and Iran's shift in access to foreign currency. He stated that the US Treasury has targeted the Turkey-related sector before this shift is fully implemented. Further actions focusing on Turkey are expected.",
-        "time": "01:00",
-        "ts": 1787274042
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -497,14 +490,21 @@
         "text": "Mike Johnson, Speaker of the US House of Representatives, said the United States is entering a new phase of economic pressure on Iran and that sanctions and economic pressure will be Washington's next step toward Tehran.",
         "time": "00:35",
         "ts": 1787358927
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Esmail Baghayi, spokesperson for the Ministry of Foreign Affairs, warned about the dangers of accepting economic sanctions and naval blockade. He emphasized that these actions could lead to the complete erosion of national sovereignty. He also described economic intimidation as an international crime.",
+        "time": "01:31",
+        "ts": 1787362303
       }
     ],
     "language": "en",
-    "packId": "20260822-05",
-    "sequence": 5,
+    "packId": "20260822-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:37"
+    "updatedAt": "01:32"
   },
   "verified": true
 }
