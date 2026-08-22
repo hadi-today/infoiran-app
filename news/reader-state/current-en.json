@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-29 seq=29 exp=1787566154",
+      "advancedStatus": "pack_id=20260822-30 seq=30 exp=1787566676",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:09",
+      "lastChecked": "10:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 10:09",
+    "expiresAt": "2026-08-24 10:17",
     "items": [
       {
         "channel": "iranintl",
@@ -476,14 +476,21 @@
         "text": "Reports have emerged about a possible Iranian attack on US positions in Bulgaria. NATO has assured Bulgaria it is ready to defend in case of an attack. Requests have been made to hold a security meeting with the Bulgarian president.",
         "time": "10:08",
         "ts": 1787393314
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Kayhan newspaper, responding to Ahmad Abedini's criticism, stated that hijab is a necessity of Islam and not a marginal issue. The paper called linking mandatory hijab to economic problems an evasion of religious responsibility. Kayhan emphasized that the government's duty is not only to provide livelihood but also to facilitate the implementation of religious laws.",
+        "time": "10:17",
+        "ts": 1787393855
       }
     ],
     "language": "en",
-    "packId": "20260822-29",
-    "sequence": 29,
+    "packId": "20260822-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:09"
+    "updatedAt": "10:17"
   },
   "verified": true
 }
