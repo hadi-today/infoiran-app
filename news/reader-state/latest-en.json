@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-02 seq=2 exp=1787530319",
+      "advancedStatus": "pack_id=20260822-03 seq=3 exp=1787531245",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:11",
+      "lastChecked": "00:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 00:11",
+    "expiresAt": "2026-08-24 00:27",
     "items": [
       {
         "channel": "iranintl",
@@ -476,14 +476,21 @@
         "text": "Trump stated in a speech in Myrtle Beach that he received the highest votes from homosexuals among Republicans. He also mentioned that he played the national anthem of homosexuals.",
         "time": "00:11",
         "ts": 1787357500
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Trump warned in a speech in South Carolina that if the Islamic Republic obtains nuclear weapons, it will immediately destroy Israel and the Middle East and likely target the United States. He said that Iran would use nuclear weapons. Trump also mentioned the B-2 bombers and said that a year ago they ended the whole matter.",
+        "time": "00:26",
+        "ts": 1787358418
       }
     ],
     "language": "en",
-    "packId": "20260822-02",
-    "sequence": 2,
+    "packId": "20260822-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:11"
+    "updatedAt": "00:27"
   },
   "verified": true
 }
