@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-18 seq=18 exp=1787557282",
+      "advancedStatus": "pack_id=20260822-19 seq=19 exp=1787557566",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:41",
+      "lastChecked": "07:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 07:41",
+    "expiresAt": "2026-08-24 07:46",
     "items": [
       {
         "channel": "iranintl",
@@ -469,14 +469,28 @@
         "text": "Ahmad Alavi stated that the Islamic Republic is trapped in a decision paralysis due to corruption, resource shortages, and internal divisions. He said that rising prices could intensify protests. Suppressing protests may deepen divisions within the government.",
         "time": "07:39",
         "ts": 1787384344
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Reza Aref stated at the 'Industry, Mining, and Green Services' conference that the government alone cannot address environmental issues. He emphasized that protecting the environment is a shared responsibility among the government, industry, and the people. These remarks came amid increasing criticism of Iran's environmental policies.",
+        "time": "07:42",
+        "ts": 1787384577
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The number of executed prisoners in Isfahan's Dastgerd prison has increased to four. These executions took place in the early hours of Wednesday, August 19. A detailed report on this incident has been published.",
+        "time": "07:43",
+        "ts": 1787384620
       }
     ],
     "language": "en",
-    "packId": "20260822-18",
-    "sequence": 18,
+    "packId": "20260822-19",
+    "sequence": 19,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:41"
+    "updatedAt": "07:46"
   },
   "verified": true
 }
