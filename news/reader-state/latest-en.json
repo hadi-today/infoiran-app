@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-32 seq=32 exp=1787567431",
+      "advancedStatus": "pack_id=20260822-33 seq=33 exp=1787567740",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:30",
+      "lastChecked": "10:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 10:30",
+    "expiresAt": "2026-08-24 10:35",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Ebrahim Pirayesh, executive secretary of the Bandar Imam Workers' House, reported a failed suicide attempt by a dismissed worker from Mahshahr petrochemicals. The approximately 35-year-old worker attempted suicide during a workers' gathering after not receiving answers about his demands, but was stopped by other workers. Livelihood problems and job uncertainty were cited as causes of this situation.",
-        "time": "10:30",
-        "ts": 1787308223
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -483,14 +476,21 @@
         "text": "Farzaneh Fasihi, an Iranian Olympic runner, announced that despite qualifying, she was not allowed to register for the World Championships. She stated that she has been under pressure and was deprived of her basic athlete rights. Fasihi has faced pressure due to her protests against the killings by the Islamic Republic.",
         "time": "10:30",
         "ts": 1787394601
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Arash Emamjomeh, a citizen from Saqez, was arrested by security forces on Friday, August 14. Nine days after his arrest, there is still no information about his whereabouts or condition. This situation has caused concern.",
+        "time": "10:35",
+        "ts": 1787394914
       }
     ],
     "language": "en",
-    "packId": "20260822-32",
-    "sequence": 32,
+    "packId": "20260822-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:30"
+    "updatedAt": "10:35"
   },
   "verified": true
 }
