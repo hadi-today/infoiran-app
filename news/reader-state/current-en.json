@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-72 seq=72 exp=1787592156",
+      "advancedStatus": "pack_id=20260822-73 seq=73 exp=1787592487",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:22",
+      "lastChecked": "17:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 17:22",
+    "expiresAt": "2026-08-24 17:28",
     "items": [
       {
         "channel": "iranintl",
@@ -770,14 +770,21 @@
         "text": "Gideon Sa'ar, Israel's foreign minister, stated that Israel does not seek to escalate tensions with Turkey but will not accept Turkish military bases in Syria. He prefers maintaining the status quo and a diplomatic solution. Sa'ar also referred to the Islamic Republic's influence in Lebanon and Gaza and said they do not want a similar situation with Turkey and Syria.",
         "time": "17:22",
         "ts": 1787419327
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump called the Strait of Hormuz American territory and emphasized the military option. Tehran condemned the US secondary sanctions. Disagreements in Iran over how to face US pressures have increased.",
+        "time": "17:27",
+        "ts": 1787419662
       }
     ],
     "language": "en",
-    "packId": "20260822-72",
-    "sequence": 72,
+    "packId": "20260822-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:22"
+    "updatedAt": "17:28"
   },
   "verified": true
 }
