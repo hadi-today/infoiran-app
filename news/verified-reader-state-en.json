@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-09 seq=9 exp=1787549308",
+      "advancedStatus": "pack_id=20260822-10 seq=10 exp=1787549610",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:28",
+      "lastChecked": "05:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 05:28",
+    "expiresAt": "2026-08-24 05:33",
     "items": [
       {
         "channel": "iranintl",
@@ -476,14 +476,21 @@
         "text": "Reza Pahlavi criticized the increase in gasoline prices as a result of the incompetence and structural disorder of the Islamic Republic regime. He pointed to fuel smuggling by the IRGC and high consumption of domestic cars. Pahlavi also blamed the car mafia and propaganda apparatus for the fuel problems.",
         "time": "05:28",
         "ts": 1787376481
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shayan Samiei said the combination of economic pressure, naval blockade, and military threat has turned pressure on the Islamic Republic into a threat to the regime's survival. He added that Tehran seeks negotiations to buy time. The pressures should continue in a way that negotiation is not an escape route for the regime.",
+        "time": "05:32",
+        "ts": 1787376773
       }
     ],
     "language": "en",
-    "packId": "20260822-09",
-    "sequence": 9,
+    "packId": "20260822-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:28"
+    "updatedAt": "05:33"
   },
   "verified": true
 }
