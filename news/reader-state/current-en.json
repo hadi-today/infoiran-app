@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-04 seq=4 exp=1787531582",
+      "advancedStatus": "pack_id=20260822-05 seq=5 exp=1787531861",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:33",
+      "lastChecked": "00:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 00:33",
+    "expiresAt": "2026-08-24 00:37",
     "items": [
       {
         "channel": "iranintl",
@@ -490,14 +490,21 @@
         "text": "Chris Wright, the US Secretary of Energy, stated that the US military has helped transfer over 15 million barrels of oil and petroleum products from the Strait of Hormuz. Including pipeline transfers, the total oil leaving the region reaches about 20 million barrels. The seven-day average of oil passing through the Strait of Hormuz is more than eight million barrels per day.",
         "time": "00:32",
         "ts": 1787358758
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mike Johnson, Speaker of the US House of Representatives, said the United States is entering a new phase of economic pressure on Iran and that sanctions and economic pressure will be Washington's next step toward Tehran.",
+        "time": "00:35",
+        "ts": 1787358927
       }
     ],
     "language": "en",
-    "packId": "20260822-04",
-    "sequence": 4,
+    "packId": "20260822-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:33"
+    "updatedAt": "00:37"
   },
   "verified": true
 }
