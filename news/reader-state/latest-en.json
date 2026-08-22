@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-90 seq=90 exp=1787598946",
+      "advancedStatus": "pack_id=20260822-91 seq=91 exp=1787599173",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:15",
+      "lastChecked": "19:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 19:15",
+    "expiresAt": "2026-08-24 19:19",
     "items": [
       {
         "channel": "iranintl",
@@ -819,14 +819,21 @@
         "text": "Gianni Infantino, FIFA president, has not responded to questions following the disclosure of the $20 billion FFE plan. He also refused to answer questions from a Sky News reporter in Punta Cana. Infantino intends to run for a fourth term as FIFA president in the 2027 election.",
         "time": "19:15",
         "ts": 1787426114
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohsen Rezaei warned that if neighboring countries join the economic war with the US, they will be considered enemies and their interests targeted. He stated that Iran does not seek to escalate the war but will respond strongly if neighbors side with the US. Rezaei also threatened to block oil exports from the Persian Gulf and Strait of Hormuz.",
+        "time": "19:17",
+        "ts": 1787426265
       }
     ],
     "language": "en",
-    "packId": "20260822-90",
-    "sequence": 90,
+    "packId": "20260822-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:15"
+    "updatedAt": "19:19"
   },
   "verified": true
 }
