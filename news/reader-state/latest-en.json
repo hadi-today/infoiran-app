@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-71 seq=71 exp=1787591906",
+      "advancedStatus": "pack_id=20260822-72 seq=72 exp=1787592156",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:18",
+      "lastChecked": "17:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 17:18",
+    "expiresAt": "2026-08-24 17:22",
     "items": [
       {
         "channel": "iranintl",
@@ -763,14 +763,21 @@
         "text": "Amirhossein Abrosh, a 17-year-old teenager, was released from Mashhad's correctional center after posting a 10 billion toman bail. This occurred on Saturday, 31 Mordad. He was among those detained during the nationwide protests of December 2025.",
         "time": "17:17",
         "ts": 1787419078
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Gideon Sa'ar, Israel's foreign minister, stated that Israel does not seek to escalate tensions with Turkey but will not accept Turkish military bases in Syria. He prefers maintaining the status quo and a diplomatic solution. Sa'ar also referred to the Islamic Republic's influence in Lebanon and Gaza and said they do not want a similar situation with Turkey and Syria.",
+        "time": "17:22",
+        "ts": 1787419327
       }
     ],
     "language": "en",
-    "packId": "20260822-71",
-    "sequence": 71,
+    "packId": "20260822-72",
+    "sequence": 72,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:18"
+    "updatedAt": "17:22"
   },
   "verified": true
 }
