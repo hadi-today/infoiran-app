@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-99 seq=99 exp=1787610814",
+      "advancedStatus": "pack_id=20260822-100 seq=100 exp=1787612092",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:33",
+      "lastChecked": "22:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 22:33",
+    "expiresAt": "2026-08-24 22:54",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The playing style and results of Persepolis in the first two weeks of the Premier League have changed the fans' opinion about Mehdi Tartaar. This issue was explained by Raha Pourbakhsh in the Hat-trick program. The report focuses on the fans' reaction to the coach's performance.",
-        "time": "22:40",
-        "ts": 1787352049
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -805,14 +798,21 @@
         "text": "Dozens of young people aged 18 to 25 have been arrested in Khuzestan on charges of espionage and connections with Israel. Some were sentenced to heavy prison terms in brief court sessions. Journalist Roghieh Rezaei says the government is using the wartime atmosphere to intensify internal repression.",
         "time": "22:33",
         "ts": 1787437992
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Donald Trump, by posting on Truth Social, emphasized the passage of ships through the Strait of Hormuz with American forces escort. He reposted a piece by American commentator Marc Thiessen, which pointed to statistics of over 1,000 ships exiting the Strait of Hormuz with American forces escort.",
+        "time": "22:54",
+        "ts": 1787439275
       }
     ],
     "language": "en",
-    "packId": "20260822-99",
-    "sequence": 99,
+    "packId": "20260822-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:33"
+    "updatedAt": "22:54"
   },
   "verified": true
 }
