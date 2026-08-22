@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-41 seq=41 exp=1787573134",
+      "advancedStatus": "pack_id=20260822-42 seq=42 exp=1787573374",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:05",
+      "lastChecked": "12:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 12:05",
+    "expiresAt": "2026-08-24 12:09",
     "items": [
       {
         "channel": "iranintl",
@@ -511,14 +511,28 @@
         "text": "92 percent of participants in the Iran International survey said they do not want to marry or have children due to poverty, insecurity, and an uncertain future. More than 10,000 people participated in this survey. Further details were provided in an interview with Mohsen Mahimini.",
         "time": "12:05",
         "ts": 1787400302
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows the wife of the missing person Ali Khosravi taking their young child and the deceased wife to his grave. Ali Khosravi was killed by officers on January 8 in Shahin Shahr. His child was born six months after his death.",
+        "time": "12:05",
+        "ts": 1787400338
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Asieh Amini stated that the widespread presence of women without mandatory hijab indicates that people have gained the upper hand in the confrontation with the Islamic Republic. She added that the government still holds the law, budget, and tools of repression. This analysis reflects the social situation of women and society.",
+        "time": "12:06",
+        "ts": 1787400413
       }
     ],
     "language": "en",
-    "packId": "20260822-41",
-    "sequence": 41,
+    "packId": "20260822-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:05"
+    "updatedAt": "12:09"
   },
   "verified": true
 }
