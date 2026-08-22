@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-47 seq=47 exp=1787576590",
+      "advancedStatus": "pack_id=20260822-48 seq=48 exp=1787577323",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:03",
+      "lastChecked": "13:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 13:03",
+    "expiresAt": "2026-08-24 13:15",
     "items": [
       {
         "channel": "iranintl",
@@ -574,14 +574,21 @@
         "text": "Citizens have installed a joint poster of Prince Reza Pahlavi and his daughter Noor Pahlavi on a street in Tehran. This was shown in a video received by Iran International. The action was reported in Tehran.",
         "time": "13:02",
         "ts": 1787403765
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Dust storms on the route from Zabol to Zahedan have created a critical situation. Visibility on this route has significantly decreased. This condition has made travel difficult.",
+        "time": "13:15",
+        "ts": 1787404500
       }
     ],
     "language": "en",
-    "packId": "20260822-47",
-    "sequence": 47,
+    "packId": "20260822-48",
+    "sequence": 48,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:03"
+    "updatedAt": "13:15"
   },
   "verified": true
 }
