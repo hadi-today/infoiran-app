@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-100 seq=100 exp=1787612092",
+      "advancedStatus": "pack_id=20260822-101 seq=101 exp=1787613105",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:54",
+      "lastChecked": "23:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 22:54",
+    "expiresAt": "2026-08-24 23:11",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "At least three people were injured in a sword attack at a high school in central Sweden. The condition of two of the injured is reported as critical. Police have arrested the attacker, but the motive is still unknown.",
-        "time": "23:06",
-        "ts": 1787353574
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -805,14 +798,21 @@
         "text": "Donald Trump, by posting on Truth Social, emphasized the passage of ships through the Strait of Hormuz with American forces escort. He reposted a piece by American commentator Marc Thiessen, which pointed to statistics of over 1,000 ships exiting the Strait of Hormuz with American forces escort.",
         "time": "22:54",
         "ts": 1787439275
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hackers affiliated with the Islamic Republic disrupted a UK power plant for four days last month. The power plant was relatively small and the disruption did not affect the wider electricity network. This incident coincided with cyberattacks on US water infrastructure.",
+        "time": "23:11",
+        "ts": 1787440281
       }
     ],
     "language": "en",
-    "packId": "20260822-100",
-    "sequence": 100,
+    "packId": "20260822-101",
+    "sequence": 101,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:54"
+    "updatedAt": "23:11"
   },
   "verified": true
 }
