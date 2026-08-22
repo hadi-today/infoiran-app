@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-69 seq=69 exp=1787590850",
+      "advancedStatus": "pack_id=20260822-70 seq=70 exp=1787591162",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:00",
+      "lastChecked": "17:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 17:00",
+    "expiresAt": "2026-08-24 17:06",
     "items": [
       {
         "channel": "iranintl",
@@ -749,14 +749,21 @@
         "text": "Lionel Messi was fined by the MLS for slapping the back of Quinn Sullivan during a 2-2 draw against Inter Miami. The fine amount was not disclosed. Ian Fry was also fined for an altercation with Sullivan.",
         "time": "16:57",
         "ts": 1787417831
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Public relations activists protested the prison sentences of Hooman Memarpanahi, Ghazal Nahani, and Hiva Seifizadeh. These sentences are related to organizing a concert at Amarat Robro. They demanded a review of these sentences.",
+        "time": "17:05",
+        "ts": 1787418339
       }
     ],
     "language": "en",
-    "packId": "20260822-69",
-    "sequence": 69,
+    "packId": "20260822-70",
+    "sequence": 70,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:00"
+    "updatedAt": "17:06"
   },
   "verified": true
 }
