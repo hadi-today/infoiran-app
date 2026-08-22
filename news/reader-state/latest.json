@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-02 seq=2 exp=1787530319",
+      "advancedStatus": "pack_id=20260822-03 seq=3 exp=1787531245",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:11",
+      "lastChecked": "00:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 00:11",
+    "expiresAt": "2026-08-24 00:27",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -410,13 +410,19 @@
         "text": "ترامپ در سخنرانی خود در میرتل بیچ اعلام کرد که بیشترین رای همجنس‌گرایان را در میان جمهوری‌خواهان به دست آورده است. او همچنین گفت که سرود ملی همجنس‌گرایان را پخش کرده است.",
         "time": "00:11",
         "ts": 1787357500
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "ترامپ در یک سخنرانی در کارولینای جنوبی هشدار داد که اگر جمهوری اسلامی به سلاح هسته‌ای دست یابد، بلافاصله اسرائیل و خاورمیانه را نابود خواهد کرد و احتمالا آمریکا را نیز هدف قرار خواهد داد. او گفت ایران از سلاح هسته‌ای استفاده خواهد کرد. ترامپ همچنین به بمب‌افکن‌های بی-۲ اشاره کرد و گفت که یک سال پیش آنها به این ماجرا پایان دادند.",
+        "time": "00:26",
+        "ts": 1787358418
       }
     ],
-    "packId": "20260822-02",
-    "sequence": 2,
+    "packId": "20260822-03",
+    "sequence": 3,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "00:11"
+    "updatedAt": "00:27"
   },
   "verified": true
 }
