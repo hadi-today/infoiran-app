@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-50 seq=50 exp=1787578322",
+      "advancedStatus": "pack_id=20260822-51 seq=51 exp=1787578570",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:32",
+      "lastChecked": "13:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 13:32",
+    "expiresAt": "2026-08-24 13:36",
     "items": [
       {
         "channel": "iranintl",
@@ -595,14 +595,28 @@
         "text": "Arzoo Keshvar, owner of a beauty salon in Isfahan, has been sentenced to 12 years in prison on charges of communicating with hostile states. She has been held in Dolatabad prison since last February. After her arrest, she was kept in solitary confinement and subjected to lengthy interrogations.",
         "time": "13:31",
         "ts": 1787405499
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Mohammad Bagher Ghalibaf stated that messages have been received from neighboring countries regarding new security arrangements and economic cooperation. He accused the US of threatening regional security for Israel's benefit and emphasized the need for a local and independent order. Additionally, the UAE has suspended its commercial activities with Iran until further notice.",
+        "time": "13:32",
+        "ts": 1787405539
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Farzaneh Fasihi, an Iranian Olympic runner, stated that she was threatened after protesting the killing of demonstrators in December 2025 and that officials prevented her from participating in the World Championships. She said she was the only Iranian athlete who qualified for the World Championships but was not registered. Fasihi has started legal proceedings to pursue her rights.",
+        "time": "13:35",
+        "ts": 1787405725
       }
     ],
     "language": "en",
-    "packId": "20260822-50",
-    "sequence": 50,
+    "packId": "20260822-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:32"
+    "updatedAt": "13:36"
   },
   "verified": true
 }
