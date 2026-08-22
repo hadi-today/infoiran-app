@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-44 seq=44 exp=1787574201",
+      "advancedStatus": "pack_id=20260822-45 seq=45 exp=1787574820",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:23",
+      "lastChecked": "12:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 12:23",
+    "expiresAt": "2026-08-24 12:33",
     "items": [
       {
         "channel": "iranintl",
@@ -546,14 +546,21 @@
         "text": "Prolonged drought and unprecedented heat have lowered the water levels of the largest reservoirs in the US. Lake Mead has reached its lowest level, and Lake Powell holds only 22% of its water. This situation serves as a warning of the climate crisis in the US.",
         "time": "12:20",
         "ts": 1787401204
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Arsalan Yazdani, a Bahá'í citizen, was arrested by security forces in Tehran and transferred to an unknown location. His arrest took place on Saturday, 31 Mordad. Some of his personal belongings, including his mobile phone and laptop, were confiscated.",
+        "time": "12:33",
+        "ts": 1787401997
       }
     ],
     "language": "en",
-    "packId": "20260822-44",
-    "sequence": 44,
+    "packId": "20260822-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:23"
+    "updatedAt": "12:33"
   },
   "verified": true
 }
