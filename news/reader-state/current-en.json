@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-08 seq=8 exp=1787540916",
+      "advancedStatus": "pack_id=20260822-09 seq=9 exp=1787549308",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:08",
+      "lastChecked": "05:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 03:08",
+    "expiresAt": "2026-08-24 05:28",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reuters reported that ship passage through the Strait of Hormuz decreased on Thursday compared to the previous day. The number of cargo ships was seven, half the number on Wednesday. There were no very large crude oil or liquefied natural gas tankers among these ships.",
-        "time": "03:36",
-        "ts": 1787283406
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Shayan Samiei said that a combination of military pressure, naval blockade, and sanctions can change the calculations of the Islamic Republic. He emphasized that this change occurs when the Iranian government believes the pressures are not temporary. Also, the Islamic Republic will retreat when the cost of resistance exceeds the cost of agreement.",
-        "time": "05:24",
-        "ts": 1787289881
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -483,14 +469,21 @@
         "text": "Judge Janet Vargas in Manhattan district court struck down the policy suspending immigrant visas for applicants from 75 countries. She called the policy \"plainly illegal\" and beyond the legal authority of Secretary of State Marco Rubio. The policy affected applicants from Latin America, the Balkans, South Asia, Africa, the Middle East and the Caribbean.",
         "time": "03:08",
         "ts": 1787368096
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reza Pahlavi criticized the increase in gasoline prices as a result of the incompetence and structural disorder of the Islamic Republic regime. He pointed to fuel smuggling by the IRGC and high consumption of domestic cars. Pahlavi also blamed the car mafia and propaganda apparatus for the fuel problems.",
+        "time": "05:28",
+        "ts": 1787376481
       }
     ],
     "language": "en",
-    "packId": "20260822-08",
-    "sequence": 8,
+    "packId": "20260822-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:08"
+    "updatedAt": "05:28"
   },
   "verified": true
 }
