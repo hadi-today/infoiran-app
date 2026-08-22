@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-95 seq=95 exp=1787601976",
+      "advancedStatus": "pack_id=20260822-96 seq=96 exp=1787602203",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:06",
+      "lastChecked": "20:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 20:06",
+    "expiresAt": "2026-08-24 20:10",
     "items": [
       {
         "channel": "iranintl",
@@ -840,14 +840,21 @@
         "text": "Washington Free Beacon reported that out of 209 journalists killed in Gaza, 120 had connections with Hamas and Islamic Jihad. This data was recorded by the Committee to Protect Journalists. The report was prepared by Ashkan Safaei from Iran International.",
         "time": "20:05",
         "ts": 1787429148
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohsen Rezaei, Secretary of Iran's Supreme National Security Council, said Donald Trump is seeking to launch a new economic war and Iran will hold him even more accountable than the Sacred Defense. Citing a Financial Times report, he said the US waged this economic war against itself and Trump's policies have placed a heavy debt burden on the American people and its allies, pushing the 30-year US bond yield to its highest level in the 21st century.",
+        "time": "20:06",
+        "ts": 1787429184
       }
     ],
     "language": "en",
-    "packId": "20260822-95",
-    "sequence": 95,
+    "packId": "20260822-96",
+    "sequence": 96,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:06"
+    "updatedAt": "20:10"
   },
   "verified": true
 }
