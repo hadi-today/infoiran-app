@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260822-15 seq=15 exp=1787555769",
+      "advancedStatus": "pack_id=20260822-16 seq=16 exp=1787556717",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:16",
+      "lastChecked": "07:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-22",
-    "expiresAt": "2026-08-24 07:16",
+    "expiresAt": "2026-08-24 07:31",
     "items": [
       {
         "channel": "iranintl",
@@ -476,14 +476,21 @@
         "text": "Manijeh Khoshnoud, a citizen from Bukan, was sentenced to three months in prison by Branch 101 of the Criminal Court Two of this city.",
         "time": "07:15",
         "ts": 1787382942
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Dalgha Khatinoglu stated that the reduction in Iran's oil loading does not necessarily mean a reduction in exports, as some oil remains in southern Iranian waters due to the US naval blockade. She added that despite oil exports last year, the Islamic Republic faced a currency shortage. Now, with a sharp decline in oil sales and near halt in petroleum product exports, sustaining this situation is difficult.",
+        "time": "07:31",
+        "ts": 1787383892
       }
     ],
     "language": "en",
-    "packId": "20260822-15",
-    "sequence": 15,
+    "packId": "20260822-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:16"
+    "updatedAt": "07:31"
   },
   "verified": true
 }
