@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-77 seq=77 exp=1787680869",
+      "advancedStatus": "pack_id=20260823-78 seq=78 exp=1787681105",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:01",
+      "lastChecked": "18:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 18:01",
+    "expiresAt": "2026-08-25 18:05",
     "items": [
       {
         "channel": "harana",
@@ -735,14 +735,21 @@
         "text": "Esteghlal football team defeated Sepahan 2-1 in the third week of the Iranian Premier League. Yaser Asani and Esmail Gholizadeh scored for Esteghlal. Esteghlal is at the top of the table with 9 points.",
         "time": "18:00",
         "ts": 1787508045
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Arzoo Karimi stated that even before the complete removal of preferential currency for medicine, prices of some imported medicines have multiplied and domestic medicines have increased up to 100%. Weak insurance systems and months-long debts to pharmacies, along with monopolies by quasi-governmental institutions, have directly transferred treatment costs to patients.",
+        "time": "18:03",
+        "ts": 1787508229
       }
     ],
     "language": "en",
-    "packId": "20260823-77",
-    "sequence": 77,
+    "packId": "20260823-78",
+    "sequence": 78,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:01"
+    "updatedAt": "18:05"
   },
   "verified": true
 }
