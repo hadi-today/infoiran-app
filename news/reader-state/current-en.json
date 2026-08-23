@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-62 seq=62 exp=1787671208",
+      "advancedStatus": "pack_id=20260823-63 seq=63 exp=1787671508",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:20",
+      "lastChecked": "15:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 15:20",
+    "expiresAt": "2026-08-25 15:25",
     "items": [
       {
         "channel": "iranintl",
@@ -763,14 +763,21 @@
         "text": "Mostafa Rostami called for serious enforcement of the law in universities by officials of the Ministry of Science and Ministry of Health. He said addressing violations benefits students, universities, and society. He also emphasized that leaving violations unaddressed harms the university environment.",
         "time": "15:19",
         "ts": 1787498384
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The prosecutor of Mashhad announced the establishment of special branches in the city's prosecutor's office to handle cases related to \"promoting nudity and immorality.\" Individuals deliberately involved in such activities will be prosecuted under specific legal articles. Judicial support for enforcers of moral codes has also been emphasized.",
+        "time": "15:24",
+        "ts": 1787498670
       }
     ],
     "language": "en",
-    "packId": "20260823-62",
-    "sequence": 62,
+    "packId": "20260823-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:20"
+    "updatedAt": "15:25"
   },
   "verified": true
 }
