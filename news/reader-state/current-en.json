@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-61 seq=61 exp=1787670540",
+      "advancedStatus": "pack_id=20260823-62 seq=62 exp=1787671208",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:09",
+      "lastChecked": "15:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 15:09",
+    "expiresAt": "2026-08-25 15:20",
     "items": [
       {
         "channel": "iranintl",
@@ -756,14 +756,21 @@
         "text": "The UK Maritime Trade Center has declared the security threat level in the Strait of Hormuz as severe. The center reported monitoring commercial ships and pressure to change their routes by the IRGC. Commercial traffic has decreased in the area, and the risk of floating mines continues.",
         "time": "15:05",
         "ts": 1787497517
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mostafa Rostami called for serious enforcement of the law in universities by officials of the Ministry of Science and Ministry of Health. He said addressing violations benefits students, universities, and society. He also emphasized that leaving violations unaddressed harms the university environment.",
+        "time": "15:19",
+        "ts": 1787498384
       }
     ],
     "language": "en",
-    "packId": "20260823-61",
-    "sequence": 61,
+    "packId": "20260823-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:09"
+    "updatedAt": "15:20"
   },
   "verified": true
 }
