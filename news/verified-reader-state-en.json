@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-03 seq=3 exp=1787622143",
+      "advancedStatus": "pack_id=20260823-04 seq=4 exp=1787623174",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:42",
+      "lastChecked": "01:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 01:42",
+    "expiresAt": "2026-08-25 01:59",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Donald Trump stated in his speech in South Carolina that he will not allow Iran to acquire nuclear weapons. He emphasized that once the issue with the Islamic Republic is resolved, oil prices will drop and Iran is eager to reach an agreement. Trump also declared the Strait of Hormuz as American territory and warned about the threats posed by Iran.",
-        "time": "01:50",
-        "ts": 1787363447
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -777,14 +770,21 @@
         "text": "The Chilean Foreign Ministry announced that the activity of its embassy in Tehran will end on the 31st of August. The decision was made due to organizational review and to ensure the security of diplomats. After the embassy closure, consular services will be provided through the Chilean consulate in Ankara.",
         "time": "01:42",
         "ts": 1787449323
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reuters reported that Iran's economy is under severe sanctions pressure, and new US sanctions could increase this pressure. These measures are significant due to their potential impact on Iran's main trading partners, especially China, which buys over 80% of Iran's exported oil. Reuters also assessed that Iran still possesses sufficient missile and drone capabilities to disrupt oil tanker traffic and attack regional rivals.",
+        "time": "01:59",
+        "ts": 1787450352
       }
     ],
     "language": "en",
-    "packId": "20260823-03",
-    "sequence": 3,
+    "packId": "20260823-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:42"
+    "updatedAt": "01:59"
   },
   "verified": true
 }
