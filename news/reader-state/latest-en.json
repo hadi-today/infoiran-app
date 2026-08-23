@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-97 seq=97 exp=1787698538",
+      "advancedStatus": "pack_id=20260823-98 seq=98 exp=1787699437",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:55",
+      "lastChecked": "23:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 22:55",
+    "expiresAt": "2026-08-25 23:10",
     "items": [
       {
         "channel": "iranintl",
@@ -735,14 +735,21 @@
         "text": "Mohsen Rezaei spoke about the possibility of building an atomic bomb after his appointment as Secretary of the Supreme National Security Council. These remarks caused increased tension in the currency market and pushed the dollar past 200,000 tomans. The market also anticipated a tightening of the US blockade, which increased demand for foreign currency.",
         "time": "22:55",
         "ts": 1787525714
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Syrian foreign minister announced the possibility of resuming security talks with Israel. Despite distrust, Damascus considers diplomacy the only way to resolve tensions. He urged Tel Aviv to seize the historic opportunity for an agreement.",
+        "time": "23:10",
+        "ts": 1787526611
       }
     ],
     "language": "en",
-    "packId": "20260823-97",
-    "sequence": 97,
+    "packId": "20260823-98",
+    "sequence": 98,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:55"
+    "updatedAt": "23:10"
   },
   "verified": true
 }
