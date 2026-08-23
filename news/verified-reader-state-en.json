@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-95 seq=95 exp=1787697203",
+      "advancedStatus": "pack_id=20260823-96 seq=96 exp=1787697950",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:33",
+      "lastChecked": "22:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 22:33",
+    "expiresAt": "2026-08-25 22:45",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Dozens of young people aged 18 to 25 have been arrested in Khuzestan on charges of espionage and connections with Israel. Some were sentenced to heavy prison terms in brief court sessions. Journalist Roghieh Rezaei says the government is using the wartime atmosphere to intensify internal repression.",
-        "time": "22:33",
-        "ts": 1787437992
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -735,14 +728,21 @@
         "text": "Mohammad Taghavi analyzed the Esteghlal vs Sepahan match, stating Sepahan played poorly in both halves and Esteghlal lost motivation after scoring two goals. He added that if Esteghlal had played like in the first half, they would have scored more goals. He also highlighted Esmaeil Gholizadeh's smart play for Esteghlal.",
         "time": "22:32",
         "ts": 1787524379
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Jerusalem Post reported that the war has destroyed about one million jobs, increasing unemployment and severe price hikes, putting pressure on people's daily lives. The suicide of a 35-year-old worker in Mahshahr highlights the gap between the economic situation of the people and the military structure of the Islamic Republic. Food inflation in July reached 128%, with meat and dairy prices rising over 140%.",
+        "time": "22:45",
+        "ts": 1787525129
       }
     ],
     "language": "en",
-    "packId": "20260823-95",
-    "sequence": 95,
+    "packId": "20260823-96",
+    "sequence": 96,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:33"
+    "updatedAt": "22:45"
   },
   "verified": true
 }
