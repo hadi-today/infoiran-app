@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-04 seq=4 exp=1787623174",
+      "advancedStatus": "pack_id=20260823-05 seq=5 exp=1787625596",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:59",
+      "lastChecked": "02:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 01:59",
+    "expiresAt": "2026-08-25 02:39",
     "items": [
       {
         "channel": "iranintl",
@@ -777,14 +777,21 @@
         "text": "Reuters reported that Iran's economy is under severe sanctions pressure, and new US sanctions could increase this pressure. These measures are significant due to their potential impact on Iran's main trading partners, especially China, which buys over 80% of Iran's exported oil. Reuters also assessed that Iran still possesses sufficient missile and drone capabilities to disrupt oil tanker traffic and attack regional rivals.",
         "time": "01:59",
         "ts": 1787450352
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iran Chamber of Commerce Research Center reported that the 12-day war, the Dey uprising and internet shutdown, and the 40-day war have delivered three heavy shocks to Iran's labor market. A significant number of jobs have been lost, and many medium-sized businesses have become small enterprises. This trend indicates a gradual decline in jobs and increased pressure on people's livelihoods.",
+        "time": "02:39",
+        "ts": 1787452775
       }
     ],
     "language": "en",
-    "packId": "20260823-04",
-    "sequence": 4,
+    "packId": "20260823-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:59"
+    "updatedAt": "02:39"
   },
   "verified": true
 }
