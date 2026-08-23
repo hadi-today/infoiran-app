@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-98 seq=98 exp=1787699437",
+      "advancedStatus": "pack_id=20260823-99 seq=99 exp=1787699769",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:10",
+      "lastChecked": "23:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 23:10",
+    "expiresAt": "2026-08-25 23:16",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Hackers affiliated with the Islamic Republic disrupted a UK power plant for four days last month. The power plant was relatively small and the disruption did not affect the wider electricity network. This incident coincided with cyberattacks on US water infrastructure.",
-        "time": "23:11",
-        "ts": 1787440281
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -742,14 +735,21 @@
         "text": "The Syrian foreign minister announced the possibility of resuming security talks with Israel. Despite distrust, Damascus considers diplomacy the only way to resolve tensions. He urged Tel Aviv to seize the historic opportunity for an agreement.",
         "time": "23:10",
         "ts": 1787526611
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Emmanuel Macron described Mohammed bin Salman's visit to France as an important step in bilateral relations. He emphasized joint efforts for regional peace and stability and expanding cooperation in various fields. The visit took place amid ongoing tensions in the Middle East.",
+        "time": "23:15",
+        "ts": 1787526952
       }
     ],
     "language": "en",
-    "packId": "20260823-98",
-    "sequence": 98,
+    "packId": "20260823-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:10"
+    "updatedAt": "23:16"
   },
   "verified": true
 }
