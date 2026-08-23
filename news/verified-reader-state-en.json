@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-25 seq=25 exp=1787653216",
+      "advancedStatus": "pack_id=20260823-26 seq=26 exp=1787653878",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:20",
+      "lastChecked": "10:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 10:20",
+    "expiresAt": "2026-08-25 10:31",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The street performance of women with optional hijab in Ekbatan has received widespread attention on social media. One user described this movement as the victory of Iranian women against the Islamic Republic. More details are provided in an interview with Ayah Deris.",
-        "time": "10:19",
-        "ts": 1787393997
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Farzaneh Fasihi, an Iranian Olympic runner, announced that despite qualifying, she was not allowed to register for the World Championships. She stated that she has been under pressure and was deprived of her basic athlete rights. Fasihi has faced pressure due to her protests against the killings by the Islamic Republic.",
-        "time": "10:30",
-        "ts": 1787394601
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -756,14 +742,21 @@
         "text": "Some audiences believe that increased US sanctions will not change the behavior of the Islamic Republic and will put more pressure on people's lives. Some have called for sanctions to focus on the assets of officials and their associates abroad. These views were expressed in an interview with Baharan Azadi.",
         "time": "10:19",
         "ts": 1787480363
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The mother of Setareh Rafiee appeared at her daughter's grave in a video shared on social media. She said she brought flowers for her daughter. Setareh Rafiee was killed on January 9, 2026, in Tehran.",
+        "time": "10:30",
+        "ts": 1787481055
       }
     ],
     "language": "en",
-    "packId": "20260823-25",
-    "sequence": 25,
+    "packId": "20260823-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:20"
+    "updatedAt": "10:31"
   },
   "verified": true
 }
