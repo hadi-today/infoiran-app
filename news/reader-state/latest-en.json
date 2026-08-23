@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-96 seq=96 exp=1787697950",
+      "advancedStatus": "pack_id=20260823-97 seq=97 exp=1787698538",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:45",
+      "lastChecked": "22:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 22:45",
+    "expiresAt": "2026-08-25 22:55",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Donald Trump, by posting on Truth Social, emphasized the passage of ships through the Strait of Hormuz with American forces escort. He reposted a piece by American commentator Marc Thiessen, which pointed to statistics of over 1,000 ships exiting the Strait of Hormuz with American forces escort.",
-        "time": "22:54",
-        "ts": 1787439275
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -735,14 +728,21 @@
         "text": "The Jerusalem Post reported that the war has destroyed about one million jobs, increasing unemployment and severe price hikes, putting pressure on people's daily lives. The suicide of a 35-year-old worker in Mahshahr highlights the gap between the economic situation of the people and the military structure of the Islamic Republic. Food inflation in July reached 128%, with meat and dairy prices rising over 140%.",
         "time": "22:45",
         "ts": 1787525129
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohsen Rezaei spoke about the possibility of building an atomic bomb after his appointment as Secretary of the Supreme National Security Council. These remarks caused increased tension in the currency market and pushed the dollar past 200,000 tomans. The market also anticipated a tightening of the US blockade, which increased demand for foreign currency.",
+        "time": "22:55",
+        "ts": 1787525714
       }
     ],
     "language": "en",
-    "packId": "20260823-96",
-    "sequence": 96,
+    "packId": "20260823-97",
+    "sequence": 97,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:45"
+    "updatedAt": "22:55"
   },
   "verified": true
 }
