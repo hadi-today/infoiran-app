@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-73 seq=73 exp=1787678219",
+      "advancedStatus": "pack_id=20260823-74 seq=74 exp=1787678452",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:16",
+      "lastChecked": "17:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 17:16",
+    "expiresAt": "2026-08-25 17:20",
     "items": [
       {
         "channel": "harana",
@@ -784,14 +784,21 @@
         "text": "The United States Central Command announced that American forces have forced 70 commercial ships to change course by August 23 as part of the maritime blockade of Iran. They have also disabled three ships and inspected two others. This information was released along with an image of the USS John Finn destroyer in the Arabian Sea.",
         "time": "17:16",
         "ts": 1787505393
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The dollar price has surpassed 200,000 tomans. Donald Trump's administration is announcing the toughest sanctions against the Islamic Republic. Mohsen Rezaei mentioned the possibility of nuclear weapon development and the continued closure of the Strait of Hormuz.",
+        "time": "17:17",
+        "ts": 1787505470
       }
     ],
     "language": "en",
-    "packId": "20260823-73",
-    "sequence": 73,
+    "packId": "20260823-74",
+    "sequence": 74,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:16"
+    "updatedAt": "17:20"
   },
   "verified": true
 }
