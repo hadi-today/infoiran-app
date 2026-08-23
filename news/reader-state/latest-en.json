@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-08 seq=8 exp=1787634286",
+      "advancedStatus": "pack_id=20260823-09 seq=9 exp=1787636451",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:04",
+      "lastChecked": "05:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 05:04",
+    "expiresAt": "2026-08-25 05:40",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reza Pahlavi criticized the increase in gasoline prices as a result of the incompetence and structural disorder of the Islamic Republic regime. He pointed to fuel smuggling by the IRGC and high consumption of domestic cars. Pahlavi also blamed the car mafia and propaganda apparatus for the fuel problems.",
-        "time": "05:28",
-        "ts": 1787376481
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Shayan Samiei said the combination of economic pressure, naval blockade, and military threat has turned pressure on the Islamic Republic into a threat to the regime's survival. He added that Tehran seeks negotiations to buy time. The pressures should continue in a way that negotiation is not an escape route for the regime.",
-        "time": "05:32",
-        "ts": 1787376773
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -798,14 +784,21 @@
         "text": "Hossein Ghazian referred to the Iran International survey results where over 92% of participants expressed reluctance toward marriage or having children. He noted that concern and uncertainty about the future is a significant point in the survey. This issue has also appeared in previous reputable surveys.",
         "time": "05:04",
         "ts": 1787461467
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The New York Post reported that ship traffic in the Strait of Hormuz has nearly quadrupled in the past two weeks. This increase coincides with US efforts to create a safe shipping route near Omani waters.",
+        "time": "05:40",
+        "ts": 1787463628
       }
     ],
     "language": "en",
-    "packId": "20260823-08",
-    "sequence": 8,
+    "packId": "20260823-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:04"
+    "updatedAt": "05:40"
   },
   "verified": true
 }
