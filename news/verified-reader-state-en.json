@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-55 seq=55 exp=1787668439",
+      "advancedStatus": "pack_id=20260823-56 seq=56 exp=1787668707",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:33",
+      "lastChecked": "14:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 14:33",
+    "expiresAt": "2026-08-25 14:38",
     "items": [
       {
         "channel": "vahid online",
@@ -749,14 +749,21 @@
         "text": "A citizen sent a video showing a wall inscription in Mehrshahr, Karaj, written in English: \"We love you Bibi.\" He says that conservative groups did not understand the message and did not erase it.",
         "time": "14:31",
         "ts": 1787495461
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The head of the Veterinary Organization stated that pet shops operating without the organization's license are illegal. Current licenses are issued by unrelated unions. Pet shops are not allowed to sell food, medicine, and supplements for pets; these must be handled by veterinary pharmacies.",
+        "time": "14:37",
+        "ts": 1787495879
       }
     ],
     "language": "en",
-    "packId": "20260823-55",
-    "sequence": 55,
+    "packId": "20260823-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:33"
+    "updatedAt": "14:38"
   },
   "verified": true
 }
