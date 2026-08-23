@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-14 seq=14 exp=1787642294",
+      "advancedStatus": "pack_id=20260823-15 seq=15 exp=1787643045",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:18",
+      "lastChecked": "07:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 07:18",
+    "expiresAt": "2026-08-25 07:30",
     "items": [
       {
         "channel": "iranintl",
@@ -784,14 +784,21 @@
         "text": "The price of the US dollar in Iran's open market reached 197,500 tomans, setting a new record. The British pound surpassed 269,000 tomans and the euro approached 230,000 tomans. The price of a new design gold coin reached 214 million tomans.",
         "time": "07:17",
         "ts": 1787469472
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Elnaz Rekabi reacted to Farzaneh Fasihi's removal from the Iranian national athletics team, emphasizing freedom. Farzaneh Fasihi stated she has been under security pressures and was prevented from registering for the World Championships. Despite threats, she said she continues her efforts.",
+        "time": "07:30",
+        "ts": 1787470225
       }
     ],
     "language": "en",
-    "packId": "20260823-14",
-    "sequence": 14,
+    "packId": "20260823-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:18"
+    "updatedAt": "07:30"
   },
   "verified": true
 }
