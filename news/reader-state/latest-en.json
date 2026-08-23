@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-01 seq=1 exp=1787619408",
+      "advancedStatus": "pack_id=20260823-02 seq=2 exp=1787621272",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:56",
+      "lastChecked": "01:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 00:56",
+    "expiresAt": "2026-08-25 01:27",
     "items": [
       {
         "channel": "iranintl",
@@ -770,14 +770,21 @@
         "text": "Donald Trump reshared a tweet by Mark Tyson about escorting over a thousand ships in the Strait of Hormuz. The New York Post reported that the US has been assisting ships in passing through the strait since May. CNN stated that the operation mostly involved guiding ships rather than a conventional military escort.",
         "time": "00:56",
         "ts": 1787446586
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Mohsen Rezaei stated that any country cooperating with the US to impose economic restrictions on Iran will be considered an enemy and targeted. He also threatened that if the new US plan is implemented, Iran will not allow any oil to leave the Strait of Hormuz and the Persian Gulf. These remarks were made in response to the new US sanctions.",
+        "time": "01:27",
+        "ts": 1787448451
       }
     ],
     "language": "en",
-    "packId": "20260823-01",
-    "sequence": 1,
+    "packId": "20260823-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:56"
+    "updatedAt": "01:27"
   },
   "verified": true
 }
