@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-68 seq=68 exp=1787674754",
+      "advancedStatus": "pack_id=20260823-69 seq=69 exp=1787675019",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:19",
+      "lastChecked": "16:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 16:19",
+    "expiresAt": "2026-08-25 16:23",
     "items": [
       {
         "channel": "iranintl",
@@ -777,14 +777,21 @@
         "text": "Benjamin Netanyahu's office stated that Israel is not seeking to escalate tensions with Ankara but will not accept any threats. Media reported that Azerbaijan is working behind the scenes to reduce tensions between Israel and Turkey. The former head of Mossad's counterterrorism division said the chance of direct military conflict is almost zero.",
         "time": "16:18",
         "ts": 1787501880
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Majid Ibn al-Reza stated that during the 40-day war, the production of defense products in the Islamic Republic did not stop and even grew two to several times in some areas. He also mentioned that capabilities improved during operations and that the Islamic Republic obtained extensive intelligence and technological findings from the enemy. Ibn al-Reza described the recent war as one of the most unprecedented wars in history.",
+        "time": "16:19",
+        "ts": 1787501968
       }
     ],
     "language": "en",
-    "packId": "20260823-68",
-    "sequence": 68,
+    "packId": "20260823-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:19"
+    "updatedAt": "16:23"
   },
   "verified": true
 }
