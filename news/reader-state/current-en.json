@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-90 seq=90 exp=1787693864",
+      "advancedStatus": "pack_id=20260823-91 seq=91 exp=1787694263",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:37",
+      "lastChecked": "21:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 21:37",
+    "expiresAt": "2026-08-25 21:44",
     "items": [
       {
         "channel": "iranintl",
@@ -700,14 +700,21 @@
         "text": "Reza Pahlavi stated that the dollar price is now 28,571 times higher than at the start of the Islamic Republic. He described the regime as responsible for poverty, corruption, and isolation, saying reform is impossible. He also urged people to work towards weakening and removing the regime.",
         "time": "21:37",
         "ts": 1787521045
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Vaisi, a senior analyst at Iran International, stated that the market has raised the dollar price due to escalating tensions between the Islamic Republic and the US and the possibility of war. He predicted that the dollar will not stop at 200,000 tomans and there is no ceiling for its price increase. This market reaction stems from concerns about oil export cuts and reduced foreign currency revenues.",
+        "time": "21:43",
+        "ts": 1787521436
       }
     ],
     "language": "en",
-    "packId": "20260823-90",
-    "sequence": 90,
+    "packId": "20260823-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:37"
+    "updatedAt": "21:44"
   },
   "verified": true
 }
