@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-13 seq=13 exp=1787640460",
+      "advancedStatus": "pack_id=20260823-14 seq=14 exp=1787642294",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:47",
+      "lastChecked": "07:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 06:47",
+    "expiresAt": "2026-08-25 07:18",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Land subsidence at Parand metro station has again reached a warning stage. Despite measures such as concreting, the phenomenon has intensified. There are concerns about the structural safety of this area.",
-        "time": "07:11",
-        "ts": 1787382667
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump said that the Islamic Republic lacks money, navy, and air force and cannot pay its forces. He added that the US has full control over the area related to the Strait of Hormuz. Trump also stated that the Islamic Republic is willing to make a deal but has not yet accepted the right agreement.",
-        "time": "07:12",
-        "ts": 1787382769
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Manijeh Khoshnoud, a citizen from Bukan, was sentenced to three months in prison by Branch 101 of the Criminal Court Two of this city.",
-        "time": "07:15",
-        "ts": 1787382942
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -798,14 +777,21 @@
         "text": "The monthly report for Mordad 1405 highlights human rights violations in Iran. It mentions executions without fair trials, suppression of freedom of expression, violence against women, and labor rights violations. The number of violations across the country is alarming.",
         "time": "06:47",
         "ts": 1787467640
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The price of the US dollar in Iran's open market reached 197,500 tomans, setting a new record. The British pound surpassed 269,000 tomans and the euro approached 230,000 tomans. The price of a new design gold coin reached 214 million tomans.",
+        "time": "07:17",
+        "ts": 1787469472
       }
     ],
     "language": "en",
-    "packId": "20260823-13",
-    "sequence": 13,
+    "packId": "20260823-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:47"
+    "updatedAt": "07:18"
   },
   "verified": true
 }
