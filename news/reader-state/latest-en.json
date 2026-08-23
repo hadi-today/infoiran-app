@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-81 seq=81 exp=1787682810",
+      "advancedStatus": "pack_id=20260823-82 seq=82 exp=1787683049",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:33",
+      "lastChecked": "18:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 18:33",
+    "expiresAt": "2026-08-25 18:37",
     "items": [
       {
         "channel": "iranintl",
@@ -742,14 +742,21 @@
         "text": "Mike Johnson, Speaker of the US House of Representatives, stated that he expects the war with Iran to soon enter a new phase and for US allies to help end the war. He also said that preventing Iran from obtaining nuclear weapons has been the goal of all US administrations for the past 50 years. Johnson added that oil transit through the Strait of Hormuz continues and that Iranians cannot be trusted.",
         "time": "18:33",
         "ts": 1787509984
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A trial session was held for a man accused of killing his mother with an honor motive in Tehran's criminal court. The session is for addressing the murder charge. The court is reviewing the case.",
+        "time": "18:35",
+        "ts": 1787510105
       }
     ],
     "language": "en",
-    "packId": "20260823-81",
-    "sequence": 81,
+    "packId": "20260823-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:33"
+    "updatedAt": "18:37"
   },
   "verified": true
 }
