@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-07 seq=7 exp=1787632783",
+      "advancedStatus": "pack_id=20260823-08 seq=8 exp=1787634286",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:39",
+      "lastChecked": "05:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 04:39",
+    "expiresAt": "2026-08-25 05:04",
     "items": [
       {
         "channel": "iranintl",
@@ -791,14 +791,21 @@
         "text": "The execution of Majid Adineh, a detained protester from December 2025, has been carried out. He was accused of cooperating with Israel and the United States against national security. He was arrested on the evening of January 9, 2026, in Mohammadshahr, Karaj.",
         "time": "04:39",
         "ts": 1787459963
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Ghazian referred to the Iran International survey results where over 92% of participants expressed reluctance toward marriage or having children. He noted that concern and uncertainty about the future is a significant point in the survey. This issue has also appeared in previous reputable surveys.",
+        "time": "05:04",
+        "ts": 1787461467
       }
     ],
     "language": "en",
-    "packId": "20260823-07",
-    "sequence": 7,
+    "packId": "20260823-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:39"
+    "updatedAt": "05:04"
   },
   "verified": true
 }
