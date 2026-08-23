@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-51 seq=51 exp=1787665573",
+      "advancedStatus": "pack_id=20260823-52 seq=52 exp=1787666417",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:46",
+      "lastChecked": "14:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 13:46",
+    "expiresAt": "2026-08-25 14:00",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "In the ninth month of weekly gatherings of Iranians in Stockholm, participants emphasized continuing street presence until the overthrow of the Islamic Republic. Political activists and a performance group called for the closure of the Islamic Republic's embassy in Sweden. The gathering was held to support the people of Iran.",
-        "time": "13:50",
-        "ts": 1787406635
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Abdollahi, Chief of the Armed Forces General Staff, visited an underground ballistic missile production facility. He was informed about the latest status of indigenous weapons production. Abdollahi emphasized that the enemy cannot fight against the will of the Iranian nation.",
-        "time": "13:52",
-        "ts": 1787406742
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -777,14 +763,21 @@
         "text": "The UK government announced that last month's cyberattack on a power plant did not pose a threat to the national electricity grid. The small power plant was offline for four days due to hackers linked to the Islamic Republic. Further details have not been released for security reasons.",
         "time": "13:44",
         "ts": 1787492657
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iraqi government is considering a proposal to organize the types and quantities of weapons and register the locations of armed groups instead of handing over weapons. Tehran agrees with this proposal, and armed groups will suspend their activities for two years. Washington still insists on the actual delivery of weapons.",
+        "time": "13:59",
+        "ts": 1787493592
       }
     ],
     "language": "en",
-    "packId": "20260823-51",
-    "sequence": 51,
+    "packId": "20260823-52",
+    "sequence": 52,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:46"
+    "updatedAt": "14:00"
   },
   "verified": true
 }
