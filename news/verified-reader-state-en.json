@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-99 seq=99 exp=1787699769",
+      "advancedStatus": "pack_id=20260823-100 seq=100 exp=1787701132",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:16",
+      "lastChecked": "23:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 23:16",
+    "expiresAt": "2026-08-25 23:38",
     "items": [
       {
         "channel": "iranintl",
@@ -742,14 +742,21 @@
         "text": "Emmanuel Macron described Mohammed bin Salman's visit to France as an important step in bilateral relations. He emphasized joint efforts for regional peace and stability and expanding cooperation in various fields. The visit took place amid ongoing tensions in the Middle East.",
         "time": "23:15",
         "ts": 1787526952
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Scott Bassett warned that countries maintaining financial and trade relations with the Islamic Republic must choose between cooperating with Tehran or retaining access to the global financial system. He announced a new phase of economic pressure against the Islamic Republic, aiming for a broad attack on Iran's financial and trade resources. He also warned that if Iran takes military action against US forces or Gulf countries, there will be a swift and decisive response.",
+        "time": "23:38",
+        "ts": 1787528306
       }
     ],
     "language": "en",
-    "packId": "20260823-99",
-    "sequence": 99,
+    "packId": "20260823-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:16"
+    "updatedAt": "23:38"
   },
   "verified": true
 }
