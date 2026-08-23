@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-79 seq=79 exp=1787681499",
+      "advancedStatus": "pack_id=20260823-81 seq=81 exp=1787682810",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:11",
+      "lastChecked": "18:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 18:11",
+    "expiresAt": "2026-08-25 18:33",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Niusha Saremi in the audio version of Titrawol referred to a verbal dispute between Iran and the United States. This dispute occurred on the eve of an economic war. New signs of division in Tehran have also been observed.",
-        "time": "18:29",
-        "ts": 1787423350
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Axios reported that the amount of oil passing through the Strait of Hormuz has doubled with the creation of a US-protected shipping corridor. Omid Shukri, an energy market expert, predicted that if this trend continues and is confirmed, the supply of oil from Arab countries will increase, and global oil prices could decrease. He also added that the US has the necessary military capability to maintain this route, but this operation will incur significant costs for Washington, and insecurity in the Strait of Hormuz could increase oil transportation costs.",
-        "time": "18:31",
-        "ts": 1787423462
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -742,14 +728,28 @@
         "text": "Roya Sabat, a Bahá'í prisoner in Adelabad prison in Shiraz, has been deprived of medical services and medical leave despite injuries to her back and neck. Her blood oxygen level dropped to 70 percent on August 7, but necessary medical actions were not taken. Prison authorities have not approved her medical leave.",
         "time": "18:11",
         "ts": 1787508668
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A group of employees of the University of Wilayat company in Iranshahr, workers of Sahel Seyed company in Konarak, and railway line guards in Iranshahr reported their wage and insurance arrears.",
+        "time": "18:20",
+        "ts": 1787509203
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mike Johnson, Speaker of the US House of Representatives, stated that he expects the war with Iran to soon enter a new phase and for US allies to help end the war. He also said that preventing Iran from obtaining nuclear weapons has been the goal of all US administrations for the past 50 years. Johnson added that oil transit through the Strait of Hormuz continues and that Iranians cannot be trusted.",
+        "time": "18:33",
+        "ts": 1787509984
       }
     ],
     "language": "en",
-    "packId": "20260823-79",
-    "sequence": 79,
+    "packId": "20260823-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:11"
+    "updatedAt": "18:33"
   },
   "verified": true
 }
