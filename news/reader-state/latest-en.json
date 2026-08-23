@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-43 seq=43 exp=1787662379",
+      "advancedStatus": "pack_id=20260823-44 seq=44 exp=1787662892",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:52",
+      "lastChecked": "13:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 12:52",
+    "expiresAt": "2026-08-25 13:01",
     "items": [
       {
         "channel": "iranintl",
@@ -756,14 +756,28 @@
         "text": "Babak Zanjani has opened the 'Sourint' cafe and pastry shop in West Tehran after returning to business. He has plans in various fields including an airline company and cryptocurrency. Zanjani was previously convicted of embezzlement and his death sentence was changed to imprisonment.",
         "time": "12:52",
         "ts": 1787489556
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iranians living in Spain gathered in Barcelona on Sunday, 23 August. They demanded European support for regime change in Iran. Videos of the gathering were sent to Iran International.",
+        "time": "13:01",
+        "ts": 1787490062
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The National Iranian Oil Refining and Distribution Company stated that the use of methanol as an oxygenate in fuel is a recognized practice and not outside national standards. The company added that methanol is used to improve combustion and increase octane number. Earlier, the head of the automakers' association warned about the dangers of gasoline containing 35% methanol.",
+        "time": "13:01",
+        "ts": 1787490077
       }
     ],
     "language": "en",
-    "packId": "20260823-43",
-    "sequence": 43,
+    "packId": "20260823-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:52"
+    "updatedAt": "13:01"
   },
   "verified": true
 }
