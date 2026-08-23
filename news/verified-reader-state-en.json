@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-30 seq=30 exp=1787655860",
+      "advancedStatus": "pack_id=20260823-31 seq=31 exp=1787656469",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:04",
+      "lastChecked": "11:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 11:04",
+    "expiresAt": "2026-08-25 11:14",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Kamran Mirhaji, the prosecutor of Fars province, announced that organizers of unauthorized or non-compliant celebrations will be prosecuted. Cafes, halls, and venues hosting such events may be closed. Additionally, related virtual pages and channels will be blocked.",
-        "time": "11:04",
-        "ts": 1787396672
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -770,14 +763,21 @@
         "text": "Arash Azarmi stated that the dollar has surged to around 200,000 tomans. This has occurred while oil and non-oil revenues have decreased and currency return channels have been limited. Continuing this situation may lead to higher prices and increased pressure on people's livelihoods.",
         "time": "11:03",
         "ts": 1787483034
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Oded Ayalon, former head of Mossad's counterterrorism unit, considers the chance of direct conflict between Turkey and Israel almost zero. He states that a war with Israel could jeopardize Erdogan's multi-year plan to expand Turkey's influence. In a military confrontation, Turkey has a larger army, while Israel has advantages in air force and missile defense.",
+        "time": "11:14",
+        "ts": 1787483641
       }
     ],
     "language": "en",
-    "packId": "20260823-30",
-    "sequence": 30,
+    "packId": "20260823-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:04"
+    "updatedAt": "11:14"
   },
   "verified": true
 }
