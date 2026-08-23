@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-06 seq=6 exp=1787631303",
+      "advancedStatus": "pack_id=20260823-07 seq=7 exp=1787632783",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:15",
+      "lastChecked": "04:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 04:15",
+    "expiresAt": "2026-08-25 04:39",
     "items": [
       {
         "channel": "iranintl",
@@ -784,14 +784,21 @@
         "text": "Kayhan newspaper criticized statements by Masoud Pezeshkian and Mohammad Bagher Ghalibaf, calling them signals of weakness to the enemy. The paper described the dichotomies of \"war-negotiation\" and \"livelihood-missile\" as fabricated and emphasized that the solution to economic problems is effort and prudence. Kayhan added that overcoming the current situation must be through dignity and prudence, not passivity and compromise.",
         "time": "04:14",
         "ts": 1787458486
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The execution of Majid Adineh, a detained protester from December 2025, has been carried out. He was accused of cooperating with Israel and the United States against national security. He was arrested on the evening of January 9, 2026, in Mohammadshahr, Karaj.",
+        "time": "04:39",
+        "ts": 1787459963
       }
     ],
     "language": "en",
-    "packId": "20260823-06",
-    "sequence": 6,
+    "packId": "20260823-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:15"
+    "updatedAt": "04:39"
   },
   "verified": true
 }
