@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-11 seq=11 exp=1787638950",
+      "advancedStatus": "pack_id=20260823-12 seq=12 exp=1787639262",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:22",
+      "lastChecked": "06:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-23",
-    "expiresAt": "2026-08-25 06:22",
+    "expiresAt": "2026-08-25 06:27",
     "items": [
       {
         "channel": "iranintl",
@@ -791,14 +791,21 @@
         "text": "The Esteghlal and Sepahan clubs released a joint poster for their match. The game will take place on Sunday, August 23, 2026, during the third week of the Premier League. The match has been titled \"Superclasico.\"",
         "time": "06:22",
         "ts": 1787466126
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Luiz Hamariren, head of the youth branch of the Swedish Christian Democratic Party, said at a gathering of Iranians in Stockholm that the party demands the closure of the Islamic Republic's embassy in Stockholm. He added that the world must act to support the Iranian people and their freedom. The gathering involved discussions and slogans about regime change.",
+        "time": "06:26",
+        "ts": 1787466392
       }
     ],
     "language": "en",
-    "packId": "20260823-11",
-    "sequence": 11,
+    "packId": "20260823-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:22"
+    "updatedAt": "06:27"
   },
   "verified": true
 }
