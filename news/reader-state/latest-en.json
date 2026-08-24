@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-88 seq=88 exp=1787765280",
+      "advancedStatus": "pack_id=20260824-89 seq=89 exp=1787765376",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:28",
+      "lastChecked": "17:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 17:28",
+    "expiresAt": "2026-08-26 17:29",
     "items": [
       {
         "channel": "harana",
@@ -903,14 +903,21 @@
         "text": "Scott Bessant, the US Treasury Secretary, stated that no country can claim ignorance about supporting Iran. He said countries that empower Iran or facilitate its financial income are accomplices to the Iranian government. He also emphasized that countries standing with the US will benefit from support, while others will be isolated.",
         "time": "17:27",
         "ts": 1787592457
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Scott Bassett, the US Treasury Secretary, announced that the final stage of the largest financial attack against Tehran begins today. Donald Trump also stated that the Islamic Republic is collapsing. The value of Iran's national currency has reached its lowest historical level.",
+        "time": "17:28",
+        "ts": 1787592495
       }
     ],
     "language": "en",
-    "packId": "20260824-88",
-    "sequence": 88,
+    "packId": "20260824-89",
+    "sequence": 89,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:28"
+    "updatedAt": "17:29"
   },
   "verified": true
 }
