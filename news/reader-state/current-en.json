@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-63 seq=63 exp=1787748937",
+      "advancedStatus": "pack_id=20260824-64 seq=64 exp=1787749548",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:55",
+      "lastChecked": "13:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 12:55",
+    "expiresAt": "2026-08-26 13:05",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Iranians living in Spain gathered in Barcelona on Sunday, 23 August. They demanded European support for regime change in Iran. Videos of the gathering were sent to Iran International.",
-        "time": "13:01",
-        "ts": 1787490062
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The National Iranian Oil Refining and Distribution Company stated that the use of methanol as an oxygenate in fuel is a recognized practice and not outside national standards. The company added that methanol is used to improve combustion and increase octane number. Earlier, the head of the automakers' association warned about the dangers of gasoline containing 35% methanol.",
-        "time": "13:01",
-        "ts": 1787490077
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +896,21 @@
         "text": "Donald Trump wrote on Truth Social that Iran is completely collapsing. He reposted a report about Mohammad Bagher Ghalibaf's remarks on hunger in Iran. Also, Scott Bessent is set to announce new US sanctions against the Islamic Republic on Monday.",
         "time": "12:55",
         "ts": 1787576112
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen posted a video on social media showing a long queue of heavy vehicles waiting for diesel on the Haraz road. The video was shared on social media. The issue concerns fuel supply on this route.",
+        "time": "13:05",
+        "ts": 1787576721
       }
     ],
     "language": "en",
-    "packId": "20260824-63",
-    "sequence": 63,
+    "packId": "20260824-64",
+    "sequence": 64,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:55"
+    "updatedAt": "13:05"
   },
   "verified": true
 }
