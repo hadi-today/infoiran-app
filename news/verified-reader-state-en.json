@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-77 seq=77 exp=1787761825",
+      "advancedStatus": "pack_id=20260824-78 seq=78 exp=1787761978",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:30",
+      "lastChecked": "16:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 16:30",
+    "expiresAt": "2026-08-26 16:32",
     "items": [
       {
         "channel": "harana",
@@ -861,14 +861,21 @@
         "text": "Donald Trump stated on Truth Social that radical left Democrats are acting wildly with fake polls. He added that morale in the US is very high and the US is winning against everyone, including Iran. Trump also described Iran as a country in collapse.",
         "time": "16:29",
         "ts": 1787588999
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen sent a video to Iran International showing the empty refrigerator of his home. He said he has no income and that gasoline prices are expected to increase. The video reflects economic concerns.",
+        "time": "16:32",
+        "ts": 1787589145
       }
     ],
     "language": "en",
-    "packId": "20260824-77",
-    "sequence": 77,
+    "packId": "20260824-78",
+    "sequence": 78,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:30"
+    "updatedAt": "16:32"
   },
   "verified": true
 }
