@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-12 seq=12 exp=1787722868",
+      "advancedStatus": "pack_id=20260824-13 seq=13 exp=1787723478",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:41",
+      "lastChecked": "05:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 05:41",
+    "expiresAt": "2026-08-26 05:51",
     "items": [
       {
         "channel": "iranintl",
@@ -777,14 +777,21 @@
         "text": "Mostafa Hashemitaba warned against proposals that harm national interests. He referred to statements about actions against the US and oil facilities of neighboring countries. Hashemitaba emphasized that such actions could have serious consequences for the country.",
         "time": "05:40",
         "ts": 1787550044
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Bourgan Nezami stated that separating war and sanctions from the policies of the Islamic Republic is incorrect. He added that policies allocating resources to military programs have weakened the economy and created conditions for sanctions and war. He also mentioned that closing sanction evasion networks could help the Iranian people.",
+        "time": "05:51",
+        "ts": 1787550660
       }
     ],
     "language": "en",
-    "packId": "20260824-12",
-    "sequence": 12,
+    "packId": "20260824-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:41"
+    "updatedAt": "05:51"
   },
   "verified": true
 }
