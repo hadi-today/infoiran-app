@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-120 seq=120 exp=1787785637",
+      "advancedStatus": "pack_id=20260824-121 seq=121 exp=1787786258",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:07",
+      "lastChecked": "23:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 23:07",
+    "expiresAt": "2026-08-26 23:17",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Syrian foreign minister announced the possibility of resuming security talks with Israel. Despite distrust, Damascus considers diplomacy the only way to resolve tensions. He urged Tel Aviv to seize the historic opportunity for an agreement.",
-        "time": "23:10",
-        "ts": 1787526611
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Emmanuel Macron described Mohammed bin Salman's visit to France as an important step in bilateral relations. He emphasized joint efforts for regional peace and stability and expanding cooperation in various fields. The visit took place amid ongoing tensions in the Middle East.",
-        "time": "23:15",
-        "ts": 1787526952
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -966,14 +952,21 @@
         "text": "Morad Veysi reported a serious shortage of gasoline and closure of fuel stations in Shiraz and Tehran. He described this as a sign of a nationwide gasoline supply crisis. He warned that the situation could worsen if current policies continue.",
         "time": "23:06",
         "ts": 1787612803
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Katayoun Riahi announced that her case has been referred to the investigative judge of the Culture and Media Prosecutor's Office. The charges of the new case are not yet clear. She had previously faced charges such as assembly and collusion against national security.",
+        "time": "23:17",
+        "ts": 1787613422
       }
     ],
     "language": "en",
-    "packId": "20260824-120",
-    "sequence": 120,
+    "packId": "20260824-121",
+    "sequence": 121,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:07"
+    "updatedAt": "23:17"
   },
   "verified": true
 }
