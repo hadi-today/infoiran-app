@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-01 seq=1 exp=1787704694",
+      "advancedStatus": "pack_id=20260824-02 seq=2 exp=1787706970",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:38",
+      "lastChecked": "01:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 00:38",
+    "expiresAt": "2026-08-26 01:16",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump reshared a tweet by Mark Tyson about escorting over a thousand ships in the Strait of Hormuz. The New York Post reported that the US has been assisting ships in passing through the strait since May. CNN stated that the operation mostly involved guiding ships rather than a conventional military escort.",
-        "time": "00:56",
-        "ts": 1787446586
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -763,14 +756,21 @@
         "text": "Syria's official news agency, SANA, reported that senior Syrian and Israeli officials met in Jordan with US mediation. The talks focused on halting Israeli attacks and resuming negotiations for a security agreement. Syrian Foreign Minister Asaad al-Shibani also told Reuters that security negotiations are likely to resume soon.",
         "time": "00:37",
         "ts": 1787531877
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "JD Vance stated that the US exports between seven to fifteen million barrels of oil daily through the Strait of Hormuz. He said Washington is trying to prevent an energy crisis that the Islamic Republic seeks to create. Vance emphasized that the Islamic Republic cannot cut international trade routes and that the US has multiple tools to counter it.",
+        "time": "01:15",
+        "ts": 1787534148
       }
     ],
     "language": "en",
-    "packId": "20260824-01",
-    "sequence": 1,
+    "packId": "20260824-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:38"
+    "updatedAt": "01:16"
   },
   "verified": true
 }
