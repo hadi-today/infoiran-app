@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-15 seq=15 exp=1787725052",
+      "advancedStatus": "pack_id=20260824-17 seq=17 exp=1787725981",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:17",
+      "lastChecked": "06:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 06:17",
+    "expiresAt": "2026-08-26 06:33",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Esteghlal and Sepahan clubs released a joint poster for their match. The game will take place on Sunday, August 23, 2026, during the third week of the Premier League. The match has been titled \"Superclasico.\"",
-        "time": "06:22",
-        "ts": 1787466126
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Luiz Hamariren, head of the youth branch of the Swedish Christian Democratic Party, said at a gathering of Iranians in Stockholm that the party demands the closure of the Islamic Republic's embassy in Stockholm. He added that the world must act to support the Iranian people and their freedom. The gathering involved discussions and slogans about regime change.",
-        "time": "06:26",
-        "ts": 1787466392
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -791,14 +777,28 @@
         "text": "Miad Maleki stated that economic pressure has become the most significant threat to the Islamic Republic. He referred to Scott Bassett's remarks that complete financial isolation could reduce the need for military operations. Maleki also explained the contradiction of regional countries' threats under maritime blockade conditions.",
         "time": "06:17",
         "ts": 1787552226
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iran under-23 national football team needs to prepare for the 2026 Asian Games and Olympic qualifiers. Coaches of major Premier League teams have stated they will not release their young stars to this team. This issue was discussed in an interview by Mazdak Mirzaei with Mohammad Taghavi and Raha Pourbakhsh.",
+        "time": "06:27",
+        "ts": 1787552867
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohsen Hajimirzaei announced that the reduction of gasoline quotas is certain, and those who buy more than their quota must pay a higher price. The new price has not yet been determined. He also referred to the decrease in gasoline production due to the war and said consumption must be reduced.",
+        "time": "06:28",
+        "ts": 1787552909
       }
     ],
     "language": "en",
-    "packId": "20260824-15",
-    "sequence": 15,
+    "packId": "20260824-17",
+    "sequence": 17,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:17"
+    "updatedAt": "06:33"
   },
   "verified": true
 }
