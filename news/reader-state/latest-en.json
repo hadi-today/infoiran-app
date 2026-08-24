@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-02 seq=2 exp=1787706970",
+      "advancedStatus": "pack_id=20260824-03 seq=3 exp=1787708326",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:16",
+      "lastChecked": "01:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 01:16",
+    "expiresAt": "2026-08-26 01:38",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Mohsen Rezaei stated that any country cooperating with the US to impose economic restrictions on Iran will be considered an enemy and targeted. He also threatened that if the new US plan is implemented, Iran will not allow any oil to leave the Strait of Hormuz and the Persian Gulf. These remarks were made in response to the new US sanctions.",
-        "time": "01:27",
-        "ts": 1787448451
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -763,14 +756,21 @@
         "text": "JD Vance stated that the US exports between seven to fifteen million barrels of oil daily through the Strait of Hormuz. He said Washington is trying to prevent an energy crisis that the Islamic Republic seeks to create. Vance emphasized that the Islamic Republic cannot cut international trade routes and that the US has multiple tools to counter it.",
         "time": "01:15",
         "ts": 1787534148
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Greece has transferred a Patriot air defense battery from Karpathos to Crete. This move follows threats from the Islamic Republic against US military bases in Europe. The Patriot system will be deployed to protect the Souda military base.",
+        "time": "01:38",
+        "ts": 1787535507
       }
     ],
     "language": "en",
-    "packId": "20260824-02",
-    "sequence": 2,
+    "packId": "20260824-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:16"
+    "updatedAt": "01:38"
   },
   "verified": true
 }
