@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-60 seq=60 exp=1787748059",
+      "advancedStatus": "pack_id=20260824-61 seq=61 exp=1787748400",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:40",
+      "lastChecked": "12:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 12:40",
+    "expiresAt": "2026-08-26 12:46",
     "items": [
       {
         "channel": "iranintl",
@@ -896,14 +896,21 @@
         "text": "The head of the Tehran traffic police information department reported that out of 14,000 nighttime accidents causing damage, 4,000 resulted in injuries and over 130 deaths. Among the deceased, 58 were motorcyclists and 50 were pedestrians. These statistics pertain to the first five months of the year in the capital.",
         "time": "12:38",
         "ts": 1787575097
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Gas stations in northern Tehran and on the Tehran-Karaj highway have been closed due to fuel shortages. The government has cut the May ration card for some people and announced verification requirements. Economic issues such as a sharp increase in phone prices and power outages in Ardabil have also been reported.",
+        "time": "12:46",
+        "ts": 1787575569
       }
     ],
     "language": "en",
-    "packId": "20260824-60",
-    "sequence": 60,
+    "packId": "20260824-61",
+    "sequence": 61,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:40"
+    "updatedAt": "12:46"
   },
   "verified": true
 }
