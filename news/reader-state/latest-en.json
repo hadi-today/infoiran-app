@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-03 seq=3 exp=1787708326",
+      "advancedStatus": "pack_id=20260824-04 seq=4 exp=1787711419",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:38",
+      "lastChecked": "02:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 01:38",
+    "expiresAt": "2026-08-26 02:30",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Chilean Foreign Ministry announced that the activity of its embassy in Tehran will end on the 31st of August. The decision was made due to organizational review and to ensure the security of diplomats. After the embassy closure, consular services will be provided through the Chilean consulate in Ankara.",
-        "time": "01:42",
-        "ts": 1787449323
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reuters reported that Iran's economy is under severe sanctions pressure, and new US sanctions could increase this pressure. These measures are significant due to their potential impact on Iran's main trading partners, especially China, which buys over 80% of Iran's exported oil. Reuters also assessed that Iran still possesses sufficient missile and drone capabilities to disrupt oil tanker traffic and attack regional rivals.",
-        "time": "01:59",
-        "ts": 1787450352
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -763,14 +749,21 @@
         "text": "Greece has transferred a Patriot air defense battery from Karpathos to Crete. This move follows threats from the Islamic Republic against US military bases in Europe. The Patriot system will be deployed to protect the Souda military base.",
         "time": "01:38",
         "ts": 1787535507
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Brent crude oil prices fell by more than one percent. This price drop occurred before the announcement of a new US sanctions package against the Islamic Republic. The US Treasury Secretary announced the start of an \"economic D-Day\" against Iran.",
+        "time": "02:30",
+        "ts": 1787538601
       }
     ],
     "language": "en",
-    "packId": "20260824-03",
-    "sequence": 3,
+    "packId": "20260824-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:38"
+    "updatedAt": "02:30"
   },
   "verified": true
 }
