@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-47 seq=47 exp=1787742892",
+      "advancedStatus": "pack_id=20260824-48 seq=48 exp=1787743391",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:14",
+      "lastChecked": "11:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 11:14",
+    "expiresAt": "2026-08-26 11:23",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Oded Ayalon, former head of Mossad's counterterrorism unit, considers the chance of direct conflict between Turkey and Israel almost zero. He states that a war with Israel could jeopardize Erdogan's multi-year plan to expand Turkey's influence. In a military confrontation, Turkey has a larger army, while Israel has advantages in air force and missile defense.",
-        "time": "11:14",
-        "ts": 1787483641
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -875,14 +868,21 @@
         "text": "The company Ozon announced that four of its logistics centers in southern Russia were targeted by Ukrainian drone attacks. A video showing a fire at one of these centers near Makhachkala has been released. The number of targeted centers in the past 48 hours has reached six.",
         "time": "11:11",
         "ts": 1787569900
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Social Security Organization of Kish has not yet clarified the unemployment insurance status after 6 months. The Iran Telecommunication Manufacturing Company has not paid staff salaries for 9 months and provides no insurance. Additionally, in Ahvaz, hundreds of students could not register due to the lack of schools.",
+        "time": "11:22",
+        "ts": 1787570561
       }
     ],
     "language": "en",
-    "packId": "20260824-47",
-    "sequence": 47,
+    "packId": "20260824-48",
+    "sequence": 48,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:14"
+    "updatedAt": "11:23"
   },
   "verified": true
 }
