@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-21 seq=21 exp=1787729233",
+      "advancedStatus": "pack_id=20260824-22 seq=22 exp=1787729524",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:27",
+      "lastChecked": "07:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 07:27",
+    "expiresAt": "2026-08-26 07:32",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,21 @@
         "text": "The price of the dollar was about seven tomans in the 1970s and reached 10 tomans in 1978. During the Islamic Republic era, the dollar price gradually increased to 59,000 tomans at the beginning of Masoud Pezeshkian's government. After the war between the US and Israel against the Islamic Republic, the dollar price surpassed 200,000 tomans.",
         "time": "07:26",
         "ts": 1787556414
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Since the beginning of Shahrivar, bread prices have increased by 30%. Diesel and gasoline shortages have caused driver unemployment and long fuel queues. The tuition fee at Azad University has reached 18 million tomans, and people complain about the difficult economic conditions.",
+        "time": "07:29",
+        "ts": 1787556584
       }
     ],
     "language": "en",
-    "packId": "20260824-21",
-    "sequence": 21,
+    "packId": "20260824-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:27"
+    "updatedAt": "07:32"
   },
   "verified": true
 }
