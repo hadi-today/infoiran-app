@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-13 seq=13 exp=1787723478",
+      "advancedStatus": "pack_id=20260824-14 seq=14 exp=1787723820",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:51",
+      "lastChecked": "05:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 05:51",
+    "expiresAt": "2026-08-26 05:57",
     "items": [
       {
         "channel": "iranintl",
@@ -784,14 +784,21 @@
         "text": "Bourgan Nezami stated that separating war and sanctions from the policies of the Islamic Republic is incorrect. He added that policies allocating resources to military programs have weakened the economy and created conditions for sanctions and war. He also mentioned that closing sanction evasion networks could help the Iranian people.",
         "time": "05:51",
         "ts": 1787550660
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Anarki, a member of the Economic Commission of the Parliament, stated that the two recent wars have cast a shadow on the country's security. He said the 'neither war nor peace' situation affects the country's current condition. Additionally, the Ministries of Intelligence and Defense have been managed by acting heads without ministers for several months.",
+        "time": "05:56",
+        "ts": 1787550996
       }
     ],
     "language": "en",
-    "packId": "20260824-13",
-    "sequence": 13,
+    "packId": "20260824-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:51"
+    "updatedAt": "05:57"
   },
   "verified": true
 }
