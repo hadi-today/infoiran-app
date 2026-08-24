@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-17 seq=17 exp=1787725981",
+      "advancedStatus": "pack_id=20260824-18 seq=18 exp=1787726090",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:33",
+      "lastChecked": "06:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 06:33",
+    "expiresAt": "2026-08-26 06:34",
     "items": [
       {
         "channel": "harana",
@@ -791,14 +791,21 @@
         "text": "Mohsen Hajimirzaei announced that the reduction of gasoline quotas is certain, and those who buy more than their quota must pay a higher price. The new price has not yet been determined. He also referred to the decrease in gasoline production due to the war and said consumption must be reduced.",
         "time": "06:28",
         "ts": 1787552909
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The tombstone of Hamidreza Goodarzi, a wrestler and mechanical engineer, was broken in Javarsian, Arak. He was killed on January 8 in Karaj and buried in his hometown. Government forces have previously broken or defaced the tombstones of other missing persons.",
+        "time": "06:34",
+        "ts": 1787553270
       }
     ],
     "language": "en",
-    "packId": "20260824-17",
-    "sequence": 17,
+    "packId": "20260824-18",
+    "sequence": 18,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:33"
+    "updatedAt": "06:34"
   },
   "verified": true
 }
