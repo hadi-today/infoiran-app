@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-65 seq=65 exp=1787753748",
+      "advancedStatus": "pack_id=20260824-66 seq=66 exp=1787753836",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:15",
+      "lastChecked": "14:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 14:15",
+    "expiresAt": "2026-08-26 14:17",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,21 @@
         "text": "A citizen stated in a video that people are forced to use worn-out tires in their cars due to high prices. This issue was shared on social media. The tire price increase has caused concern among the public.",
         "time": "14:15",
         "ts": 1787580916
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Sepideh Abtahi, a filmmaker and editor, was released from Qarchak Varamin prison on Monday, 24 August 2026, under a bail order. This news was reported by HRANA news agency.",
+        "time": "14:16",
+        "ts": 1787580968
       }
     ],
     "language": "en",
-    "packId": "20260824-65",
-    "sequence": 65,
+    "packId": "20260824-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:15"
+    "updatedAt": "14:17"
   },
   "verified": true
 }
