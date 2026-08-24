@@ -1,19 +1,19 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260823-101 seq=101 exp=1787701392",
+      "advancedStatus": "pack_id=20260824-01 seq=1 exp=1787704694",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:43",
+      "lastChecked": "00:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-08-23",
-    "expiresAt": "2026-08-25 23:43",
+    "date": "2026-08-24",
+    "expiresAt": "2026-08-26 00:38",
     "items": [
       {
         "channel": "iranintl",
@@ -756,14 +756,21 @@
         "text": "The Hawk fire near Reno in Nevada has spread over 42 square kilometers. The governor declared a state of emergency and about a thousand homes are at risk. Evacuation orders have been expanded in Washoe County.",
         "time": "23:39",
         "ts": 1787528346
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Syria's official news agency, SANA, reported that senior Syrian and Israeli officials met in Jordan with US mediation. The talks focused on halting Israeli attacks and resuming negotiations for a security agreement. Syrian Foreign Minister Asaad al-Shibani also told Reuters that security negotiations are likely to resume soon.",
+        "time": "00:37",
+        "ts": 1787531877
       }
     ],
     "language": "en",
-    "packId": "20260823-101",
-    "sequence": 101,
+    "packId": "20260824-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:43"
+    "updatedAt": "00:38"
   },
   "verified": true
 }
