@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-33 seq=33 exp=1787734162",
+      "advancedStatus": "pack_id=20260824-35 seq=35 exp=1787736333",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:49",
+      "lastChecked": "09:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 08:49",
+    "expiresAt": "2026-08-26 09:25",
     "items": [
       {
         "channel": "iranintl",
@@ -840,14 +840,35 @@
         "text": "Abdolnaser Hemmati, the Central Bank governor, stated that new US sanctions do not create new pressure and there is no problem supplying currency. He is optimistic about the economic future and considers the increase in exchange rate gap temporary. Hemmati emphasized that short-term fluctuations should not change currency policies.",
         "time": "08:48",
         "ts": 1787561326
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ata Hosseinian reacted to the further reduction of the 3000-toman gasoline quota. He said this gradual reduction is preparing the ground for a plan that will force people to buy and sell gasoline at high prices. This plan could also increase economic pressure and inflation.",
+        "time": "09:20",
+        "ts": 1787563226
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Esmail Baghai, spokesperson for the Ministry of Foreign Affairs, commented on the chess and poker games between Iran and the USA. He said Iran has been a chess player since long ago and recently has also become a poker player. He also mentioned that currently a combination of these two games is being played.",
+        "time": "09:20",
+        "ts": 1787563231
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Ali Mousavi Nejad Farkoush, a civil activist, has been detained in Karaj Central Prison for over a month and remains in judicial uncertainty. This has been confirmed by a source close to his family. He has been in detention for 32 days.",
+        "time": "09:21",
+        "ts": 1787563277
       }
     ],
     "language": "en",
-    "packId": "20260824-33",
-    "sequence": 33,
+    "packId": "20260824-35",
+    "sequence": 35,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:49"
+    "updatedAt": "09:25"
   },
   "verified": true
 }
