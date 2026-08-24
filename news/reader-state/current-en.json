@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-55 seq=55 exp=1787746198",
+      "advancedStatus": "pack_id=20260824-56 seq=56 exp=1787746459",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:09",
+      "lastChecked": "12:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 12:09",
+    "expiresAt": "2026-08-26 12:14",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The sister of the late Ahmad Khosravani shared an old message from her brother about his sports achievements. She wrote about his tragic fate, saying his share of talent and effort was only a bullet. She also criticized the Islamic Republic government, stating that talents became victims of this regime.",
-        "time": "12:10",
-        "ts": 1787487053
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "Mahtab Gholizadeh referred to Abdolnaser Hemmati's statements about the temporary nature of the currency rate surge and said that central bank heads have repeatedly made similar promises after each currency crisis. She added that Hemmati previously considered the dollar rate increase unrealistic and promised currency relief. These statements have not had a significant psychological impact on the market.",
         "time": "12:08",
         "ts": 1787573301
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Reza Radan, the commander of the national police, stated that the enemy seeks to create unrest using excuses such as livelihood and economic problems. He emphasized the important role of specialized police in identifying and confronting agitators. Radan also said the war is not over and the enemy remains active.",
+        "time": "12:12",
+        "ts": 1787573551
       }
     ],
     "language": "en",
-    "packId": "20260824-55",
-    "sequence": 55,
+    "packId": "20260824-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:09"
+    "updatedAt": "12:14"
   },
   "verified": true
 }
