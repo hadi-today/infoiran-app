@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-103 seq=103 exp=1787772013",
+      "advancedStatus": "pack_id=20260824-104 seq=104 exp=1787772170",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:20",
+      "lastChecked": "19:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 19:20",
+    "expiresAt": "2026-08-26 19:22",
     "items": [
       {
         "channel": "iranintl",
@@ -931,14 +931,21 @@
         "text": "Sirus Hamidi and Maryam Moradian were arrested by security forces in Divandareh on August 14 and transferred to Sanandaj prison. Their 16-year-old daughter, Kordia Hamidi, was also arrested with them and released after four days.",
         "time": "19:19",
         "ts": 1787599189
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "At the end of the third week of the Iranian Premier League, Esteghlal topped the table with 9 points and a better goal difference than Tractor. Gol Gohar Sirjan and Aluminium Arak are in third and fourth places respectively. Persepolis dropped to fifth after losing to Tractor, and Foolad reached the upper half of the table.",
+        "time": "19:22",
+        "ts": 1787599345
       }
     ],
     "language": "en",
-    "packId": "20260824-103",
-    "sequence": 103,
+    "packId": "20260824-104",
+    "sequence": 104,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:20"
+    "updatedAt": "19:22"
   },
   "verified": true
 }
