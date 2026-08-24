@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-07 seq=7 exp=1787716774",
+      "advancedStatus": "pack_id=20260824-08 seq=8 exp=1787717768",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:59",
+      "lastChecked": "04:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 03:59",
+    "expiresAt": "2026-08-26 04:16",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Kayhan newspaper criticized statements by Masoud Pezeshkian and Mohammad Bagher Ghalibaf, calling them signals of weakness to the enemy. The paper described the dichotomies of \"war-negotiation\" and \"livelihood-missile\" as fabricated and emphasized that the solution to economic problems is effort and prudence. Kayhan added that overcoming the current situation must be through dignity and prudence, not passivity and compromise.",
-        "time": "04:14",
-        "ts": 1787458486
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -770,14 +763,21 @@
         "text": "The Islamic Republic has proposed a plan to charge commercial ships passing through the Strait of Hormuz, which has not yet been approved. This plan arises from financial pressures due to sanctions and reduced oil revenues. Its implementation could increase shipping and insurance costs and affect Tehran's relations with regional countries.",
         "time": "03:59",
         "ts": 1787543952
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Tractor and Persepolis have faced each other many times in the past fifty years, but in recent years they have had the most conflicts and controversies. These conflicts have led to their matches being held without spectators. Discussions about this issue took place in the Hattrick program.",
+        "time": "04:15",
+        "ts": 1787544948
       }
     ],
     "language": "en",
-    "packId": "20260824-07",
-    "sequence": 7,
+    "packId": "20260824-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:59"
+    "updatedAt": "04:16"
   },
   "verified": true
 }
