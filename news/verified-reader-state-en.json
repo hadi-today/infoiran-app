@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-95 seq=95 exp=1787767539",
+      "advancedStatus": "pack_id=20260824-96 seq=96 exp=1787767813",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:05",
+      "lastChecked": "18:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 18:05",
+    "expiresAt": "2026-08-26 18:10",
     "items": [
       {
         "channel": "harana",
@@ -924,14 +924,21 @@
         "text": "A citizen sarcastically responded to officials' claims about progress in the Islamic Republic in a video. He placed a one-dollar bill against dozens of thousand and two-thousand toman bills. Above the bills, it was written: \"Peaks of progress, sanctions have no effect.\"",
         "time": "18:05",
         "ts": 1787594700
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Scott Bessent, the US Treasury Secretary, in a meeting to announce the start of the economic exclusion operation against the Islamic Republic, told the regime's ordinary soldiers to remember that the Berlin Wall fell when ordinary soldiers decided not to shoot their own people. He also said that as more of your paychecks are cut or delayed, ask yourselves whether your commanders are leading the country to victory or destruction.",
+        "time": "18:09",
+        "ts": 1787594983
       }
     ],
     "language": "en",
-    "packId": "20260824-95",
-    "sequence": 95,
+    "packId": "20260824-96",
+    "sequence": 96,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:05"
+    "updatedAt": "18:10"
   },
   "verified": true
 }
