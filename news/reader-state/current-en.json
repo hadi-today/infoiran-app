@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-53 seq=53 exp=1787745576",
+      "advancedStatus": "pack_id=20260824-54 seq=54 exp=1787745951",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:59",
+      "lastChecked": "12:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 11:59",
+    "expiresAt": "2026-08-26 12:05",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen sent a video showing contaminated drinking water in the piping of Somesara city. The video was provided to Iran International. The issue indicates water quality problems in the area.",
-        "time": "12:00",
-        "ts": 1787486452
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -875,14 +868,21 @@
         "text": "Mohammad Bagher Ghalibaf, the Speaker of the Parliament, changed Donald Trump's campaign slogan to \"Let's bring hunger back to America.\" He shared an image showing millions of Americans facing hunger. Ghalibaf also stated that failures cannot be covered up with false claims.",
         "time": "11:58",
         "ts": 1787572739
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The mother of Nazanin Zahra Salehi is seen singing the song \"Sougati\" by Hayedeh at her daughter's grave. Nazanin Zahra, 13 years old, died on January 9, 2026, in Kermanshah due to gunfire from officers. This video was shared on social media.",
+        "time": "12:05",
+        "ts": 1787573113
       }
     ],
     "language": "en",
-    "packId": "20260824-53",
-    "sequence": 53,
+    "packId": "20260824-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:59"
+    "updatedAt": "12:05"
   },
   "verified": true
 }
