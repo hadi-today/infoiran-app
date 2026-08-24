@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-05 seq=5 exp=1787714101",
+      "advancedStatus": "pack_id=20260824-06 seq=6 exp=1787714663",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:15",
+      "lastChecked": "03:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 03:15",
+    "expiresAt": "2026-08-26 03:24",
     "items": [
       {
         "channel": "iranintl",
@@ -756,14 +756,21 @@
         "text": "The US has launched a new campaign to cut Iran's economic lifelines. Mohsen Rezaei threatened that if the economic war continues, no oil exports from the Persian Gulf will be allowed. Iran can increase global costs by restricting the passage of oil tankers.",
         "time": "03:14",
         "ts": 1787541281
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ibn al-Reza, the acting defense minister of the Islamic Republic, claimed that the armed forces gained significant intelligence and technological findings during the recent war. He stated that the Islamic Republic inflicted effective strikes on the enemy at a lower cost. He also said that the war experience led to a reassessment of military priorities and preparation for threats over the next 50 years.",
+        "time": "03:24",
+        "ts": 1787541842
       }
     ],
     "language": "en",
-    "packId": "20260824-05",
-    "sequence": 5,
+    "packId": "20260824-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:15"
+    "updatedAt": "03:24"
   },
   "verified": true
 }
