@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-91 seq=91 exp=1787765690",
+      "advancedStatus": "pack_id=20260824-92 seq=92 exp=1787766409",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:34",
+      "lastChecked": "17:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 17:34",
+    "expiresAt": "2026-08-26 17:46",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "Contract workers of Ilam Municipality's green space have not received their salaries for three months. Employees of Aseman Airlines in Shiraz face delayed salary payments, insurance cuts, and job uncertainty. They are demanding attention to their situation.",
         "time": "17:33",
         "ts": 1787592822
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Scott Bessent, the US Treasury Secretary, announced new sanctions targeting five vital areas used by Iran in other countries: digital assets, technology, gold, aviation, and shipping. He warned that any entity facilitating money laundering on behalf of Iran will be removed from the US dollar system. Additionally, the Treasury's Office of Foreign Assets Control will sanction over 60 entities, individuals, and ships worldwide.",
+        "time": "17:46",
+        "ts": 1787593579
       }
     ],
     "language": "en",
-    "packId": "20260824-91",
-    "sequence": 91,
+    "packId": "20260824-92",
+    "sequence": 92,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:34"
+    "updatedAt": "17:46"
   },
   "verified": true
 }
