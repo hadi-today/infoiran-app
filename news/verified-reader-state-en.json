@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-32 seq=32 exp=1787733560",
+      "advancedStatus": "pack_id=20260824-33 seq=33 exp=1787734162",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:39",
+      "lastChecked": "08:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 08:39",
+    "expiresAt": "2026-08-26 08:49",
     "items": [
       {
         "channel": "iranintl",
@@ -833,14 +833,21 @@
         "text": "A group of retired telecommunications workers gathered in Tehran on Tuesday, 24 August. They chanted slogans such as \"Retiree, shout out, demand your rights.\" The gathering was reported through videos received by Iran International.",
         "time": "08:35",
         "ts": 1787560553
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abdolnaser Hemmati, the Central Bank governor, stated that new US sanctions do not create new pressure and there is no problem supplying currency. He is optimistic about the economic future and considers the increase in exchange rate gap temporary. Hemmati emphasized that short-term fluctuations should not change currency policies.",
+        "time": "08:48",
+        "ts": 1787561326
       }
     ],
     "language": "en",
-    "packId": "20260824-32",
-    "sequence": 32,
+    "packId": "20260824-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:39"
+    "updatedAt": "08:49"
   },
   "verified": true
 }
