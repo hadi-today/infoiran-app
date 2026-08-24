@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-79 seq=79 exp=1787762067",
+      "advancedStatus": "pack_id=20260824-80 seq=80 exp=1787763118",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:34",
+      "lastChecked": "16:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 16:34",
+    "expiresAt": "2026-08-26 16:51",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Babak Dadbakhsh, a political prisoner in Ardabil prison, started a hunger strike on September 1, 2026. He began the strike in protest of the lack of attention to his demands and legal situation. This news was reported by the HRANA news agency.",
-        "time": "16:37",
-        "ts": 1787503024
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -875,14 +868,21 @@
         "text": "Mojtaba Delavar, a political prisoner, is serving his 28-year sentence in Evin Prison. He was sentenced by Branch 15 of the Tehran Revolutionary Court on various charges including propaganda against the regime and support for the Zionist regime. His total sentence is 28 years in prison.",
         "time": "16:33",
         "ts": 1787589232
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Al-Hadath reported, citing its sources, that the Iraqi government is concerned about US pressure to enforce sanctions imposed on the Islamic Republic. This pressure includes imposing restrictions on land border crossings with Iran and preventing Iranian planes from landing at Iraqi airports. The US government has announced the start of a major economic operation against the Islamic Republic starting Monday, August 24, 2026.",
+        "time": "16:51",
+        "ts": 1787590287
       }
     ],
     "language": "en",
-    "packId": "20260824-79",
-    "sequence": 79,
+    "packId": "20260824-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:34"
+    "updatedAt": "16:51"
   },
   "verified": true
 }
