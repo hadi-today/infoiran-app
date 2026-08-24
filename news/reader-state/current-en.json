@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-18 seq=18 exp=1787726090",
+      "advancedStatus": "pack_id=20260824-19 seq=19 exp=1787726847",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:34",
+      "lastChecked": "06:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 06:34",
+    "expiresAt": "2026-08-26 06:47",
     "items": [
       {
         "channel": "harana",
@@ -798,14 +798,21 @@
         "text": "The tombstone of Hamidreza Goodarzi, a wrestler and mechanical engineer, was broken in Javarsian, Arak. He was killed on January 8 in Karaj and buried in his hometown. Government forces have previously broken or defaced the tombstones of other missing persons.",
         "time": "06:34",
         "ts": 1787553270
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehrdad Mohammadi spoke about the simultaneous protest of 44 Sharif University professors against disciplinary rulings, stating that universities are under government influence. He added that the Islamic Republic has failed to control the student body. Students supporting the national revolution are considered a threat to the regime.",
+        "time": "06:47",
+        "ts": 1787554020
       }
     ],
     "language": "en",
-    "packId": "20260824-18",
-    "sequence": 18,
+    "packId": "20260824-19",
+    "sequence": 19,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:34"
+    "updatedAt": "06:47"
   },
   "verified": true
 }
