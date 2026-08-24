@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-115 seq=115 exp=1787782033",
+      "advancedStatus": "pack_id=20260824-116 seq=116 exp=1787782293",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:07",
+      "lastChecked": "22:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 22:07",
+    "expiresAt": "2026-08-26 22:11",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,21 @@
         "text": "Morad Veysi said Scott Busent sent a message to the Islamic Republic's suppression forces to distance themselves from the regime and not shoot at the people. He added that the Iranian people will eventually overthrow the Islamic Republic. Increased economic and military pressure from the US can weaken the regime.",
         "time": "22:06",
         "ts": 1787609200
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The price of the dollar has risen to 202,500 tomans on some rate announcement websites. Reports indicate that the dollar has increased by nearly 15,000 tomans in one week. This price increase has been reported by domestic media.",
+        "time": "22:10",
+        "ts": 1787609457
       }
     ],
     "language": "en",
-    "packId": "20260824-115",
-    "sequence": 115,
+    "packId": "20260824-116",
+    "sequence": 116,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:07"
+    "updatedAt": "22:11"
   },
   "verified": true
 }
