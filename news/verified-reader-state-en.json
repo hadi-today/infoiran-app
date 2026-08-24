@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-92 seq=92 exp=1787766409",
+      "advancedStatus": "pack_id=20260824-93 seq=93 exp=1787766814",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:46",
+      "lastChecked": "17:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 17:46",
+    "expiresAt": "2026-08-26 17:53",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Scott Bassett, the US Treasury Secretary, will announce new sanctions against the Islamic Republic on Monday. The Trump administration is also trying to take control of the Strait of Hormuz from the Islamic Republic. The US now conducts 80% of the traffic through Hormuz via a dark route.",
-        "time": "17:48",
-        "ts": 1787507298
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "Scott Bessent, the US Treasury Secretary, announced new sanctions targeting five vital areas used by Iran in other countries: digital assets, technology, gold, aviation, and shipping. He warned that any entity facilitating money laundering on behalf of Iran will be removed from the US dollar system. Additionally, the Treasury's Office of Foreign Assets Control will sanction over 60 entities, individuals, and ships worldwide.",
         "time": "17:46",
         "ts": 1787593579
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohsen Rezaei met with Asim Munir and expressed distrust towards the US, stating that the US must change its behavior. He emphasized the implementation of the memorandum's conditions. The meeting also highlighted the Islamic Republic's security management over the Strait of Hormuz.",
+        "time": "17:52",
+        "ts": 1787593979
       }
     ],
     "language": "en",
-    "packId": "20260824-92",
-    "sequence": 92,
+    "packId": "20260824-93",
+    "sequence": 93,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:46"
+    "updatedAt": "17:53"
   },
   "verified": true
 }
