@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-65 seq=65 exp=1787750237",
+      "advancedStatus": "pack_id=20260824-66 seq=66 exp=1787750659",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:17",
+      "lastChecked": "13:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 13:17",
+    "expiresAt": "2026-08-26 13:24",
     "items": [
       {
         "channel": "vahid online",
@@ -903,14 +903,21 @@
         "text": "Abdolnaser Hemmati, the governor of the Central Bank, described the increase and divergence in the exchange rate as temporary. He attributed the fluctuations to US propaganda attacks. Hemmati stated that the currency policy path will continue and the problems will be resolved soon.",
         "time": "13:16",
         "ts": 1787577412
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reuters reported, citing an informed source, that the US Treasury Department is expected to expand the scope of secondary sanctions against entities and countries with trade ties to the Islamic Republic. The aim is to issue a final warning to countries to cut commercial ties with Iran and end the nearly six-month conflict that has disrupted traffic in the Strait of Hormuz and energy exports from the Persian Gulf.",
+        "time": "13:23",
+        "ts": 1787577834
       }
     ],
     "language": "en",
-    "packId": "20260824-65",
-    "sequence": 65,
+    "packId": "20260824-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:17"
+    "updatedAt": "13:24"
   },
   "verified": true
 }
