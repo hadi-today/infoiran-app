@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-122 seq=122 exp=1787786411",
+      "advancedStatus": "pack_id=20260824-123 seq=123 exp=1787786538",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:20",
+      "lastChecked": "23:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 23:20",
+    "expiresAt": "2026-08-26 23:22",
     "items": [
       {
         "channel": "iranintl",
@@ -966,14 +966,21 @@
         "text": "Iranian media published a poem attributed to Ali Khamenei as a sign of his predicted death. Social media users found a hidden message by combining the first letters of the verses: \"I, Ali Khamenei, am born of the devil.\" Kambiz Hosseini discussed this topic in a program.",
         "time": "23:19",
         "ts": 1787613581
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohsen Rezaei officially introduced the logic of nuclear deterrence for the first time as Secretary of the Supreme National Security Council. He stated that if Iran is attacked without nuclear weapons, why not build them? These remarks were made amid sanctions and economic hardships.",
+        "time": "23:21",
+        "ts": 1787613699
       }
     ],
     "language": "en",
-    "packId": "20260824-122",
-    "sequence": 122,
+    "packId": "20260824-123",
+    "sequence": 123,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:20"
+    "updatedAt": "23:22"
   },
   "verified": true
 }
