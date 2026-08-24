@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-24 seq=24 exp=1787730177",
+      "advancedStatus": "pack_id=20260824-26 seq=26 exp=1787730810",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:42",
+      "lastChecked": "07:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 07:42",
+    "expiresAt": "2026-08-26 07:53",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The football teams Esteghlal and Sepahan will face each other in the third week of the Premier League on the afternoon of Sunday, 1 Shahrivar 1405, at Ghal'eh Hasan Khan Stadium. The match will be held on Sunday afternoon. A poll about the match result is available on Iran International Sports' Instagram page.",
-        "time": "07:44",
-        "ts": 1787471064
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "On the evening of Saturday, August 22, effigies of Benjamin Netanyahu and Donald Trump were hanged in Tehran's Enghelab Square. This symbolic act was carried out by supporters of the Islamic Republic. The purpose was to express opposition to the policies of the US and Israel.",
-        "time": "07:51",
-        "ts": 1787471488
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -826,14 +812,21 @@
         "text": "Esmaeil Baqaei, the spokesperson for the Ministry of Foreign Affairs, called the deployment of US fuel carriers in Bulgaria a mistake and stated that the Islamic Republic has the right to target the origins of attacks against itself. He also said that the Islamic Republic has not received an invitation to join the Mecca defense agreement. Reports about the Strait of Hormuz being open were described as media warfare.",
         "time": "07:42",
         "ts": 1787557365
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of Iranians living in Calgary participated in a protest march called \"Run for Freedom.\" They carried images of the deceased and lion and sun flags. The participants demanded freedom for Iran under the leadership of Prince Reza Pahlavi.",
+        "time": "07:53",
+        "ts": 1787557984
       }
     ],
     "language": "en",
-    "packId": "20260824-24",
-    "sequence": 24,
+    "packId": "20260824-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:42"
+    "updatedAt": "07:53"
   },
   "verified": true
 }
