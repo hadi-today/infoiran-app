@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-10 seq=10 exp=1787721625",
+      "advancedStatus": "pack_id=20260824-11 seq=11 exp=1787721898",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:20",
+      "lastChecked": "05:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 05:20",
+    "expiresAt": "2026-08-26 05:24",
     "items": [
       {
         "channel": "iranintl",
@@ -770,14 +770,21 @@
         "text": "The spokesperson of the IRGC stated that monitoring the Strait of Hormuz is not done through American satellites and that other methods exist. He added that destroying known Iranian radars does not eliminate their monitoring capability. The IRGC has the ability to precisely target vessels in sensitive areas.",
         "time": "05:20",
         "ts": 1787548805
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Siamak Javadi stated that Iran's economy has been in decline since the establishment of the Islamic Republic and the current crisis cannot be attributed solely to war and sanctions. He added that war and sanctions are consequences of the Islamic Republic's policies, with Iran's placement on the FATF blacklist as an example. Javadi also mentioned that the call by Reza Pahlavi for civil disobedience in the administrative body could disrupt the country's governance.",
+        "time": "05:21",
+        "ts": 1787548914
       }
     ],
     "language": "en",
-    "packId": "20260824-10",
-    "sequence": 10,
+    "packId": "20260824-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:20"
+    "updatedAt": "05:24"
   },
   "verified": true
 }
