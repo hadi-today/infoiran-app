@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260824-04 seq=4 exp=1787711419",
+      "advancedStatus": "pack_id=20260824-05 seq=5 exp=1787714101",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:30",
+      "lastChecked": "03:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-24",
-    "expiresAt": "2026-08-26 02:30",
+    "expiresAt": "2026-08-26 03:15",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Iran Chamber of Commerce Research Center reported that the 12-day war, the Dey uprising and internet shutdown, and the 40-day war have delivered three heavy shocks to Iran's labor market. A significant number of jobs have been lost, and many medium-sized businesses have become small enterprises. This trend indicates a gradual decline in jobs and increased pressure on people's livelihoods.",
-        "time": "02:39",
-        "ts": 1787452775
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -756,14 +749,21 @@
         "text": "Brent crude oil prices fell by more than one percent. This price drop occurred before the announcement of a new US sanctions package against the Islamic Republic. The US Treasury Secretary announced the start of an \"economic D-Day\" against Iran.",
         "time": "02:30",
         "ts": 1787538601
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US has launched a new campaign to cut Iran's economic lifelines. Mohsen Rezaei threatened that if the economic war continues, no oil exports from the Persian Gulf will be allowed. Iran can increase global costs by restricting the passage of oil tankers.",
+        "time": "03:14",
+        "ts": 1787541281
       }
     ],
     "language": "en",
-    "packId": "20260824-04",
-    "sequence": 4,
+    "packId": "20260824-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:30"
+    "updatedAt": "03:15"
   },
   "verified": true
 }
