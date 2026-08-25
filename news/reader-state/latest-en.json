@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-29 seq=29 exp=1787817509",
+      "advancedStatus": "pack_id=20260825-30 seq=30 exp=1787817738",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:58",
+      "lastChecked": "08:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 07:58",
+    "expiresAt": "2026-08-27 08:02",
     "items": [
       {
         "channel": "harana",
@@ -980,14 +980,21 @@
         "text": "Hossein Alizadeh said the Islamic Republic has put heavy pressure on Gulf oil countries by closing the Strait of Hormuz. He added that Tehran is pursuing a hybrid war and will not limit itself to closing Hormuz. Attacks on US interests and closing Bab al-Mandab are among the options mentioned.",
         "time": "07:58",
         "ts": 1787644682
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Saadoun Dastar, Rahman Azarakhsh, and Sanan Farasti, three citizens from Oshnavieh, were arrested by security forces. They were transferred to an unknown location. No further details about their situation have been reported.",
+        "time": "08:01",
+        "ts": 1787644902
       }
     ],
     "language": "en",
-    "packId": "20260825-29",
-    "sequence": 29,
+    "packId": "20260825-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:58"
+    "updatedAt": "08:02"
   },
   "verified": true
 }
