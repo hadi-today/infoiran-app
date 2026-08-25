@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-78 seq=78 exp=1787841795",
+      "advancedStatus": "pack_id=20260825-79 seq=79 exp=1787841979",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:43",
+      "lastChecked": "14:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 14:43",
+    "expiresAt": "2026-08-27 14:46",
     "items": [
       {
         "channel": "iranintl",
@@ -1008,14 +1008,21 @@
         "text": "Donald Trump announced that the US Navy has cleared or detonated all mines in the international waters of the Strait of Hormuz. He warned that any ship or boat laying new mines will be destroyed. Trump also stated that the US Space Force is monitoring the Strait of Hormuz and several nuclear sites.",
         "time": "14:42",
         "ts": 1787668964
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Donald Trump stated that the Islamic Republic of Iran is not paying the salaries of its military forces and is killing protesters on an unprecedented scale. He described this situation as a massive humanitarian crisis and called for it to stop immediately.",
+        "time": "14:45",
+        "ts": 1787669123
       }
     ],
     "language": "en",
-    "packId": "20260825-78",
-    "sequence": 78,
+    "packId": "20260825-79",
+    "sequence": 79,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:43"
+    "updatedAt": "14:46"
   },
   "verified": true
 }
