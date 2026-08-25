@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-13 seq=13 exp=1787808441",
+      "advancedStatus": "pack_id=20260825-15 seq=15 exp=1787808792",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:27",
+      "lastChecked": "05:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 05:27",
+    "expiresAt": "2026-08-27 05:33",
     "items": [
       {
         "channel": "iranintl",
@@ -987,14 +987,28 @@
         "text": "Asia-Pacific media have focused on the US economic boycott campaign, highlighting increased pressure on Iran and its trade partners. Australian and New Zealand media emphasized the fall of the rial, inflation, and medicine shortages. Asian media reported on hidden financial networks, oil smuggling, and sanctions on Chinese and Hong Kong companies.",
         "time": "05:26",
         "ts": 1787635608
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Omid Memarian, a political analyst, reported an increase in assassinations attributed to the Islamic Republic outside Iran. He stated that the authorities use new methods such as creating fear and threats to suppress opponents. These methods also include planning murders.",
+        "time": "05:29",
+        "ts": 1787635798
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Erfan Ghaneifard stated that the US and its intelligence community aim to disrupt operational activities within the IRGC. These actions are intended both to gather information and to create divisions in the IRGC's command structure. These remarks were made amid increased economic pressure from the US.",
+        "time": "05:32",
+        "ts": 1787635954
       }
     ],
     "language": "en",
-    "packId": "20260825-13",
-    "sequence": 13,
+    "packId": "20260825-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:27"
+    "updatedAt": "05:33"
   },
   "verified": true
 }
