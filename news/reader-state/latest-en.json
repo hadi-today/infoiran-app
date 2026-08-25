@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-112 seq=112 exp=1787855943",
+      "advancedStatus": "pack_id=20260825-113 seq=113 exp=1787856536",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:39",
+      "lastChecked": "18:48",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 18:39",
+    "expiresAt": "2026-08-27 18:48",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "On the early morning of Sunday, 1 Shahrivar, the execution of a prisoner named Navid Mohammadpour was carried out in Dehdasht prison. The prisoner had previously been sentenced to death for murder. The news was reported by HRANA news agency.",
-        "time": "18:46",
-        "ts": 1787597187
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Office of Foreign Assets Control (OFAC) of the United States sanctioned 24 individuals, 48 entities and companies, and six ships for ties to the Islamic Republic. Amir Hatami, Mohammad Bagher Zolghadr, and Reza Talaei-Nik are among those sanctioned. Two Iranian companies and 18 companies from China and Hong Kong, eight from the United Arab Emirates, five from India, and four from Turkey were also sanctioned.",
-        "time": "18:48",
-        "ts": 1787597304
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1008,14 +994,28 @@
         "text": "Abbas Pazouki stated that gasoline quotas will remain unchanged at least until the end of Shahrivar and there will be no immediate or sudden shock implementation. Any future plans will be communicated to the public in advance. Some government officials have been seriously warned regarding recent gasoline-related statements.",
         "time": "18:38",
         "ts": 1787683082
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen sent a video to Iran International complaining about the high price of carrots. He addressed Mojtaba Khamenei, saying the government has left no healthy land in the country. The video highlights the deteriorating agricultural situation.",
+        "time": "18:48",
+        "ts": 1787683705
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen has shared a video showing a long gasoline queue on the Tehran-Karaj highway. The video was sent on Tuesday. The fuel crisis in Iran continues.",
+        "time": "18:48",
+        "ts": 1787683709
       }
     ],
     "language": "en",
-    "packId": "20260825-112",
-    "sequence": 112,
+    "packId": "20260825-113",
+    "sequence": 113,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:39"
+    "updatedAt": "18:48"
   },
   "verified": true
 }
