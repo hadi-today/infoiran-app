@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-138 seq=138 exp=1787874318",
+      "advancedStatus": "pack_id=20260825-139 seq=139 exp=1787874440",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:45",
+      "lastChecked": "23:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 23:45",
+    "expiresAt": "2026-08-27 23:47",
     "items": [
       {
         "channel": "iranintl",
@@ -1001,14 +1001,21 @@
         "text": "The Washington Post reported that Donald Trump's tariffs and the war with the Islamic Republic have increased the costs of fertilizer, fuel, and agricultural machinery. Congressional efforts for emergency aid to farmers have stalled, and some groups oppose linking aid to war funding. The National Farmers Union warned that war funding could increase economic pressure on farmers.",
         "time": "23:44",
         "ts": 1787701479
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Financial Times reported a daily shortage of about 15 million liters of gasoline in Iran. Images and messages indicate long queues and station closures in Tehran, Karaj, and other cities. People are moving from one gas station to another with empty tanks.",
+        "time": "23:46",
+        "ts": 1787701604
       }
     ],
     "language": "en",
-    "packId": "20260825-138",
-    "sequence": 138,
+    "packId": "20260825-139",
+    "sequence": 139,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:45"
+    "updatedAt": "23:47"
   },
   "verified": true
 }
