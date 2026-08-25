@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-130 seq=130 exp=1787862804",
+      "advancedStatus": "pack_id=20260825-131 seq=131 exp=1787864333",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:33",
+      "lastChecked": "20:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 20:33",
+    "expiresAt": "2026-08-27 20:58",
     "items": [
       {
         "channel": "iranintl",
@@ -1050,14 +1050,21 @@
         "text": "Bloomberg reported that the new US warning about sanctions on countries trading with Iran has put Turkey at risk of losing gas imports from Iran. Last year, Turkey sourced 13% of its imported gas from Iran. The US is likely to consult with Turkish leaders on this issue.",
         "time": "20:32",
         "ts": 1787689954
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Kazem Gharibabadi, the deputy foreign minister, stated that the Islamic Republic can take preemptive actions to defend its interests. He said if the US targets Iran's economic interests, Iran will also target US economic interests.",
+        "time": "20:58",
+        "ts": 1787691499
       }
     ],
     "language": "en",
-    "packId": "20260825-130",
-    "sequence": 130,
+    "packId": "20260825-131",
+    "sequence": 131,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:33"
+    "updatedAt": "20:58"
   },
   "verified": true
 }
