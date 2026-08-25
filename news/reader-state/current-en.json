@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-136 seq=136 exp=1787870408",
+      "advancedStatus": "pack_id=20260825-137 seq=137 exp=1787871376",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:40",
+      "lastChecked": "22:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 22:40",
+    "expiresAt": "2026-08-27 22:56",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A tanker about 9 nautical miles northeast of the Shisah area in Oman was hit by an unknown projectile and disabled. The attack damaged the ship's engine room. The crew is reported to be safe.",
-        "time": "22:51",
-        "ts": 1787611899
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1036,14 +1029,21 @@
         "text": "Marco Rubio stated that the US currently does not expect new attacks against the Islamic Republic and is focusing on economic pressure, naval blockade, and new sanctions. The US does not intend to return to large-scale military operations but does not rule out military action if attacked by the Islamic Republic. Washington is not negotiating with Tehran and aims to increase pressure to bring the Islamic Republic back to the negotiating table.",
         "time": "22:39",
         "ts": 1787697578
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "After the dollar price rose to 200,000 tomans, supporters of the Islamic Republic held nightly gatherings in Tehran, chanting slogans against Abdolnaser Hemmati and Masoud Pezeshkian. These gatherings were shared on social media. The protests are related to the economic situation and the responsible officials.",
+        "time": "22:55",
+        "ts": 1787698518
       }
     ],
     "language": "en",
-    "packId": "20260825-136",
-    "sequence": 136,
+    "packId": "20260825-137",
+    "sequence": 137,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:40"
+    "updatedAt": "22:56"
   },
   "verified": true
 }
