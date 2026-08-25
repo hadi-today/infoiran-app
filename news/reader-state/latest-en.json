@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-54 seq=54 exp=1787831424",
+      "advancedStatus": "pack_id=20260825-55 seq=55 exp=1787832285",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:50",
+      "lastChecked": "12:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 11:50",
+    "expiresAt": "2026-08-27 12:04",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Bagher Ghalibaf, the Speaker of the Parliament, changed Donald Trump's campaign slogan to \"Let's bring hunger back to America.\" He shared an image showing millions of Americans facing hunger. Ghalibaf also stated that failures cannot be covered up with false claims.",
-        "time": "11:58",
-        "ts": 1787572739
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -966,14 +959,21 @@
         "text": "On Tuesday, 2 Shahrivar, security forces searched the homes and business of the Tabianifard family in Isfahan and sealed their business location. Personal and electronic belongings of the family members were confiscated, and the family members were summoned to security agencies. Their instrument-making workshop and music equipment store were also emptied and seized.",
         "time": "11:49",
         "ts": 1787658581
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "After a 1-0 loss to Tractor, Persepolis players issued a joint message apologizing to fans. They emphasized their commitment to work harder to make up for the result and expressed gratitude for the fans' support. The players stated they will strive until the end to build a team worthy of the Persepolis name.",
+        "time": "12:03",
+        "ts": 1787659419
       }
     ],
     "language": "en",
-    "packId": "20260825-54",
-    "sequence": 54,
+    "packId": "20260825-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:50"
+    "updatedAt": "12:04"
   },
   "verified": true
 }
