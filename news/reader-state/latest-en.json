@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-90 seq=90 exp=1787847182",
+      "advancedStatus": "pack_id=20260825-91 seq=91 exp=1787847786",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:13",
+      "lastChecked": "16:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 16:13",
+    "expiresAt": "2026-08-27 16:23",
     "items": [
       {
         "channel": "iranintl",
@@ -1001,14 +1001,21 @@
         "text": "Ahmad Samadi reported that a third drone carrying about 50 grams of a suspicious substance called hexogen was found near Leipzig-Halle airport. This discovery is linked to the failed drone attack case. German security sources suggested possible involvement of Russian intelligence, which Moscow has denied.",
         "time": "16:12",
         "ts": 1787674336
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US Treasury Department has sanctioned the Singaporean company Welbred Capital and its affiliates in the UAE, Switzerland, and France. Washington claims this network is linked to Mohammad Hossein Shamkhani and transports Iranian and Russian oil to global markets. Additionally, an Italian newspaper reported on the fall of the rial's value and the economic crisis's impact on daily life in Iran.",
+        "time": "16:21",
+        "ts": 1787674919
       }
     ],
     "language": "en",
-    "packId": "20260825-90",
-    "sequence": 90,
+    "packId": "20260825-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:13"
+    "updatedAt": "16:23"
   },
   "verified": true
 }
