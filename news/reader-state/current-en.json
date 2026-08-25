@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-98 seq=98 exp=1787851352",
+      "advancedStatus": "pack_id=20260825-99 seq=99 exp=1787851495",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:22",
+      "lastChecked": "17:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 17:22",
+    "expiresAt": "2026-08-27 17:24",
     "items": [
       {
         "channel": "iranintl",
@@ -980,14 +980,21 @@
         "text": "Badr Al Busaidi, Oman’s foreign minister, expressed hope for the soon establishment of a temporary corridor in the Strait of Hormuz and practical arrangements for safe shipping. He stated that talks on the future management of the Strait will continue under the Islamabad agreement. Oman will also continue consultations with regional partners to maintain freedom of navigation.",
         "time": "17:21",
         "ts": 1787678510
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The Harana report shows that between July 11 and July 31, 2026, at least 72 popular pages were blocked and 23 business units were closed. These actions are part of a new phase of social control policies occurring alongside the de-escalation of the war in Iran. The reported numbers represent minimum confirmed cases and also include page purges and content removals in various cities.",
+        "time": "17:23",
+        "ts": 1787678617
       }
     ],
     "language": "en",
-    "packId": "20260825-98",
-    "sequence": 98,
+    "packId": "20260825-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:22"
+    "updatedAt": "17:24"
   },
   "verified": true
 }
