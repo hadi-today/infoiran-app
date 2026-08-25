@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-53 seq=53 exp=1787830605",
+      "advancedStatus": "pack_id=20260825-54 seq=54 exp=1787831424",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:36",
+      "lastChecked": "11:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 11:36",
+    "expiresAt": "2026-08-27 11:50",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Twelve Baha'i citizens in Sari were sentenced by the Revolutionary Court to a total of 26 years and 165 days of imprisonment and 76 years of social rights deprivation. They were accused of conducting educational and promotional activities contrary to Islamic law. The hearings took place in August 2026.",
-        "time": "11:36",
-        "ts": 1787571360
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -966,14 +959,21 @@
         "text": "A memorial birthday ceremony for Azra Bahadorinejad was held at her grave. Azra Bahadorinejad was 39 years old and a mother of two children. She died on the evening of January 9, 2026, in Sabzevar from a direct gunshot by officers.",
         "time": "11:34",
         "ts": 1787657681
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "On Tuesday, 2 Shahrivar, security forces searched the homes and business of the Tabianifard family in Isfahan and sealed their business location. Personal and electronic belongings of the family members were confiscated, and the family members were summoned to security agencies. Their instrument-making workshop and music equipment store were also emptied and seized.",
+        "time": "11:49",
+        "ts": 1787658581
       }
     ],
     "language": "en",
-    "packId": "20260825-53",
-    "sequence": 53,
+    "packId": "20260825-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:36"
+    "updatedAt": "11:50"
   },
   "verified": true
 }
