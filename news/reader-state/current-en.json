@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-71 seq=71 exp=1787838952",
+      "advancedStatus": "pack_id=20260825-72 seq=72 exp=1787840513",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:55",
+      "lastChecked": "14:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 13:55",
+    "expiresAt": "2026-08-27 14:21",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen stated in a video that people are forced to use worn-out tires in their cars due to high prices. This issue was shared on social media. The tire price increase has caused concern among the public.",
-        "time": "14:15",
-        "ts": 1787580916
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Sepideh Abtahi, a filmmaker and editor, was released from Qarchak Varamin prison on Monday, 24 August 2026, under a bail order. This news was reported by HRANA news agency.",
-        "time": "14:16",
-        "ts": 1787580968
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -987,14 +973,21 @@
         "text": "In Tehran, the gas station on Seraj Street is closed and diesel is hard to find in eastern Tehran. Water is also cut off for long hours in Tehran. In Bandar Anzali, some people's previous month's fuel quota has been removed without notice.",
         "time": "13:52",
         "ts": 1787665962
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Two astronauts from NASA and the European Space Agency conducted a spacewalk outside the International Space Station. Anil Menon and Sophie Adeno have started a mission to replace a communication antenna between the station and Earth. This operation is carried out to complete the antenna replacement.",
+        "time": "14:20",
+        "ts": 1787667659
       }
     ],
     "language": "en",
-    "packId": "20260825-71",
-    "sequence": 71,
+    "packId": "20260825-72",
+    "sequence": 72,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:55"
+    "updatedAt": "14:21"
   },
   "verified": true
 }
