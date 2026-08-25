@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-128 seq=128 exp=1787862653",
+      "advancedStatus": "pack_id=20260825-129 seq=129 exp=1787862729",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:30",
+      "lastChecked": "20:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 20:30",
+    "expiresAt": "2026-08-27 20:32",
     "items": [
       {
         "channel": "iranintl",
@@ -1036,14 +1036,21 @@
         "text": "Mohammad Bagher Ghalibaf, Speaker of the Islamic Consultative Assembly, criticized the remarks of US Treasury Secretary Scott Bessent about new sanctions against Iran by posting a part of his press conference video on X. Ghalibaf pointed to the contradiction in Bessent's words and called it a comedy show.",
         "time": "20:30",
         "ts": 1787689805
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "John Healy, the UK Treasury Secretary, announced that the UK government will continue economic pressure on the Islamic Republic of Iran alongside the US and partners. The UK has imposed over 240 sanctions on Iran and will take action to reopen the Strait of Hormuz. It also supports US efforts for a diplomatic solution.",
+        "time": "20:31",
+        "ts": 1787689908
       }
     ],
     "language": "en",
-    "packId": "20260825-128",
-    "sequence": 128,
+    "packId": "20260825-129",
+    "sequence": 129,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:30"
+    "updatedAt": "20:32"
   },
   "verified": true
 }
