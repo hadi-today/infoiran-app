@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-26 seq=26 exp=1787816321",
+      "advancedStatus": "pack_id=20260825-27 seq=27 exp=1787817267",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:38",
+      "lastChecked": "07:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 07:38",
+    "expiresAt": "2026-08-27 07:54",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Iman Rashidi, a Bahá'í citizen residing in Yazd, was transferred to the prison in this city to serve his sentence. He was sentenced by the Revolutionary Court to three years, six months, and one day in prison. His transfer took place on Sunday, 1 Shahrivar.",
-        "time": "07:42",
-        "ts": 1787557353
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Esmaeil Baqaei, the spokesperson for the Ministry of Foreign Affairs, called the deployment of US fuel carriers in Bulgaria a mistake and stated that the Islamic Republic has the right to target the origins of attacks against itself. He also said that the Islamic Republic has not received an invitation to join the Mecca defense agreement. Reports about the Strait of Hormuz being open were described as media warfare.",
-        "time": "07:42",
-        "ts": 1787557365
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of Iranians living in Calgary participated in a protest march called \"Run for Freedom.\" They carried images of the deceased and lion and sun flags. The participants demanded freedom for Iran under the leadership of Prince Reza Pahlavi.",
-        "time": "07:53",
-        "ts": 1787557984
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -980,14 +959,21 @@
         "text": "Ali Pishevarzadeh, a water polo athlete and former member of the Chooka Gilan team, has been sentenced to death by the Revolutionary Court of Gilan. After his arrest during the December protests, he was subjected to severe torture and deprived of basic rights. The Human Rights Organization for Sports has reported these facts.",
         "time": "07:38",
         "ts": 1787643484
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli Prime Minister claimed that the Islamic Republic tried to kill one of his two sons. He said that if his family were not under security protection, the perpetrators could have succeeded. These statements were made in defense of extending Shin Bet protection for his wife and children.",
+        "time": "07:53",
+        "ts": 1787644431
       }
     ],
     "language": "en",
-    "packId": "20260825-26",
-    "sequence": 26,
+    "packId": "20260825-27",
+    "sequence": 27,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:38"
+    "updatedAt": "07:54"
   },
   "verified": true
 }
