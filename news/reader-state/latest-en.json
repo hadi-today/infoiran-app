@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-129 seq=129 exp=1787862729",
+      "advancedStatus": "pack_id=20260825-130 seq=130 exp=1787862804",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:32",
+      "lastChecked": "20:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 20:32",
+    "expiresAt": "2026-08-27 20:33",
     "items": [
       {
         "channel": "iranintl",
@@ -1043,14 +1043,21 @@
         "text": "John Healy, the UK Treasury Secretary, announced that the UK government will continue economic pressure on the Islamic Republic of Iran alongside the US and partners. The UK has imposed over 240 sanctions on Iran and will take action to reopen the Strait of Hormuz. It also supports US efforts for a diplomatic solution.",
         "time": "20:31",
         "ts": 1787689908
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Bloomberg reported that the new US warning about sanctions on countries trading with Iran has put Turkey at risk of losing gas imports from Iran. Last year, Turkey sourced 13% of its imported gas from Iran. The US is likely to consult with Turkish leaders on this issue.",
+        "time": "20:32",
+        "ts": 1787689954
       }
     ],
     "language": "en",
-    "packId": "20260825-129",
-    "sequence": 129,
+    "packId": "20260825-130",
+    "sequence": 130,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:32"
+    "updatedAt": "20:33"
   },
   "verified": true
 }
