@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-22 seq=22 exp=1787815854",
+      "advancedStatus": "pack_id=20260825-23 seq=23 exp=1787815948",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:30",
+      "lastChecked": "07:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 07:30",
+    "expiresAt": "2026-08-27 07:32",
     "items": [
       {
         "channel": "iranintl",
@@ -973,14 +973,21 @@
         "text": "Hamzeh Darvish, a Sunni prisoner in Lakaan Prison in Rasht, was transferred from solitary confinement back to the general ward. This transfer took place on Tuesday, 2 Shahrivar. Previously, he had been held in solitary confinement as a form of punishment.",
         "time": "07:30",
         "ts": 1787643026
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Videos show that a citizen has made a statue of Aida Aghili on a beach in Oman. Aida Aghili, 34 years old, was shot dead in Tehran on the evening of January 8, 2026. This statue was made in her memory.",
+        "time": "07:31",
+        "ts": 1787643070
       }
     ],
     "language": "en",
-    "packId": "20260825-22",
-    "sequence": 22,
+    "packId": "20260825-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:30"
+    "updatedAt": "07:32"
   },
   "verified": true
 }
