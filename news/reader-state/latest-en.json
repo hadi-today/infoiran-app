@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-23 seq=23 exp=1787815948",
+      "advancedStatus": "pack_id=20260825-24 seq=24 exp=1787816043",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:32",
+      "lastChecked": "07:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 07:32",
+    "expiresAt": "2026-08-27 07:34",
     "items": [
       {
         "channel": "iranintl",
@@ -980,14 +980,28 @@
         "text": "Videos show that a citizen has made a statue of Aida Aghili on a beach in Oman. Aida Aghili, 34 years old, was shot dead in Tehran on the evening of January 8, 2026. This statue was made in her memory.",
         "time": "07:31",
         "ts": 1787643070
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Tehran regional manager of the National Iranian Oil Products Distribution Company stated that a sudden increase in demand caused fuel shortages and temporary closure of some gas stations. On Monday, gasoline distribution in Tehran increased by 30%, with over 26 million liters distributed. This amount set a new record for the current year in the capital.",
+        "time": "07:32",
+        "ts": 1787643169
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Farzaneh Tavakoli was killed by gunfire during public protests in Tehran on January 9. The incident involved suppression forces of Khamenei. Her memory remains a guiding light for freedom seekers.",
+        "time": "07:33",
+        "ts": 1787643218
       }
     ],
     "language": "en",
-    "packId": "20260825-23",
-    "sequence": 23,
+    "packId": "20260825-24",
+    "sequence": 24,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:32"
+    "updatedAt": "07:34"
   },
   "verified": true
 }
