@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-65 seq=65 exp=1787836724",
+      "advancedStatus": "pack_id=20260825-66 seq=66 exp=1787837313",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:18",
+      "lastChecked": "13:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 13:18",
+    "expiresAt": "2026-08-27 13:28",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,21 @@
         "text": "The executive deputy of Masoud Pezeshkian said a decision about gasoline might be made tomorrow or the day after. The head of Masoud Pezeshkian's office confirmed the reduction of gasoline quotas. The 3,000-toman gasoline quota has been reduced from 100 to 50 liters, and another reduction has been confirmed.",
         "time": "13:16",
         "ts": 1787663813
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Plainclothes officers raided the homes of three members of the Bahá'í community in Isfahan and confiscated their personal belongings and specialized instruments. This information was reported by Iran International. More details will be provided in an interview with Reza Akvanian.",
+        "time": "13:27",
+        "ts": 1787664470
       }
     ],
     "language": "en",
-    "packId": "20260825-65",
-    "sequence": 65,
+    "packId": "20260825-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:18"
+    "updatedAt": "13:28"
   },
   "verified": true
 }
