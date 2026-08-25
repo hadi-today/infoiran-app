@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-18 seq=18 exp=1787811639",
+      "advancedStatus": "pack_id=20260825-19 seq=19 exp=1787811796",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:20",
+      "lastChecked": "06:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 06:20",
+    "expiresAt": "2026-08-27 06:23",
     "items": [
       {
         "channel": "iranintl",
@@ -994,14 +994,21 @@
         "text": "Mehdi Chamran, head of Tehran City Council, said if the enemy intends to attack again, Iran will preemptively strike. He also mentioned strong resistance in the recent war and pushing the enemy back. These remarks were made during a Tehran City Council session.",
         "time": "06:20",
         "ts": 1787638802
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Videos received show that despite the fuel station in Gohardasht Karaj being closed with its lights off, cars are lined up to receive gasoline there.",
+        "time": "06:20",
+        "ts": 1787638850
       }
     ],
     "language": "en",
-    "packId": "20260825-18",
-    "sequence": 18,
+    "packId": "20260825-19",
+    "sequence": 19,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:20"
+    "updatedAt": "06:23"
   },
   "verified": true
 }
