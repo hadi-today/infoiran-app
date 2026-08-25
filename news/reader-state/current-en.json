@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-110 seq=110 exp=1787855417",
+      "advancedStatus": "pack_id=20260825-111 seq=111 exp=1787855773",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:30",
+      "lastChecked": "18:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 18:30",
+    "expiresAt": "2026-08-27 18:36",
     "items": [
       {
         "channel": "iranintl",
@@ -994,14 +994,21 @@
         "text": "Mohammad Bagher Ghalibaf said in a meeting with Faiq Zidan that Iran and Iraq have a decisive role in the new regional order. He called for the complete withdrawal of US coalition forces from Iraq. Ghalibaf also emphasized that the US has failed in military, political, and economic wars.",
         "time": "18:26",
         "ts": 1787682366
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hedayat Mombini announced that Amir Ghalenoei will continue as the head coach of Iran's national football team until the Asian Championship. The board will receive a report on Ghalenoei's performance and plans tomorrow. The federation expects the national team to become champion or finalist in this tournament.",
+        "time": "18:35",
+        "ts": 1787682925
       }
     ],
     "language": "en",
-    "packId": "20260825-110",
-    "sequence": 110,
+    "packId": "20260825-111",
+    "sequence": 111,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:30"
+    "updatedAt": "18:36"
   },
   "verified": true
 }
