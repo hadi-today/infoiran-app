@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-124 seq=124 exp=1787861033",
+      "advancedStatus": "pack_id=20260825-125 seq=125 exp=1787861143",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:03",
+      "lastChecked": "20:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 20:03",
+    "expiresAt": "2026-08-27 20:05",
     "items": [
       {
         "channel": "iranintl",
@@ -1015,14 +1015,21 @@
         "text": "Aram Hesami, a political science professor, commented on the economic expulsion operation by the Trump administration against the Islamic Republic. He said the success of this operation depends on the cooperation of countries like China, UAE, Russia, India, and Turkey. Without their cooperation, effective maximum pressure will be difficult.",
         "time": "20:03",
         "ts": 1787688202
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Kazem Gharibabadi stated that the entry route to the Persian Gulf will be through Iranian waters and the exit through Omani waters. This route is temporary, and the two countries will negotiate a permanent route within 30 to 60 days. Military vessels are prohibited from passing, and only commercial ships are allowed to transit.",
+        "time": "20:05",
+        "ts": 1787688320
       }
     ],
     "language": "en",
-    "packId": "20260825-124",
-    "sequence": 124,
+    "packId": "20260825-125",
+    "sequence": 125,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:03"
+    "updatedAt": "20:05"
   },
   "verified": true
 }
