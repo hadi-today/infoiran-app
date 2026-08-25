@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-117 seq=117 exp=1787857768",
+      "advancedStatus": "pack_id=20260825-118 seq=118 exp=1787858345",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:09",
+      "lastChecked": "19:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 19:09",
+    "expiresAt": "2026-08-27 19:19",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Masoud Pezeshkian met with Asim Munir and stated that the US should change its tone and approach in dealing with Iran. He emphasized that bullying and coercion only complicate executive processes.",
-        "time": "19:16",
-        "ts": 1787598972
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1022,14 +1015,21 @@
         "text": "Ali Nikzad, the deputy speaker of the parliament, announced the reduction of two gasoline quotas. The 70-liter quota will be reduced to 50 liters and the 30-liter quota to 15 liters. The 1500-toman gasoline price will be maintained, and the fourth gasoline rate has been rejected.",
         "time": "19:08",
         "ts": 1787684936
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Sixty teachers and activists protested the detention conditions of Masoud Farhikhteh, a teacher imprisoned in Karaj Central Prison. Since his transfer, he has been moved multiple times to solitary confinement or unknown locations, and his contact with family has been cut off. The signatories hold the prison organization and judiciary responsible for his situation.",
+        "time": "19:18",
+        "ts": 1787685520
       }
     ],
     "language": "en",
-    "packId": "20260825-117",
-    "sequence": 117,
+    "packId": "20260825-118",
+    "sequence": 118,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:09"
+    "updatedAt": "19:19"
   },
   "verified": true
 }
