@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-21 seq=21 exp=1787813924",
+      "advancedStatus": "pack_id=20260825-22 seq=22 exp=1787815854",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:58",
+      "lastChecked": "07:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 06:58",
+    "expiresAt": "2026-08-27 07:30",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen reported a prolonged power and water outage in Torghabeh, Khorasan Razavi province. He described the situation as very difficult. This report was sent to Iran International.",
-        "time": "07:04",
-        "ts": 1787555081
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The price of the dollar was about seven tomans in the 1970s and reached 10 tomans in 1978. During the Islamic Republic era, the dollar price gradually increased to 59,000 tomans at the beginning of Masoud Pezeshkian's government. After the war between the US and Israel against the Islamic Republic, the dollar price surpassed 200,000 tomans.",
-        "time": "07:26",
-        "ts": 1787556414
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Since the beginning of Shahrivar, bread prices have increased by 30%. Diesel and gasoline shortages have caused driver unemployment and long fuel queues. The tuition fee at Azad University has reached 18 million tomans, and people complain about the difficult economic conditions.",
-        "time": "07:29",
-        "ts": 1787556584
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -987,14 +966,21 @@
         "text": "Alireza Beiranvand's playing card for Tractor is valid until September 21. If a new letter or inquiry is received, the validity will be extended until the Asian Cup and mid-season. Beiranvand is not included in the preliminary list of the U23 team for the Nagoya Asian Games.",
         "time": "06:57",
         "ts": 1787641060
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Hamzeh Darvish, a Sunni prisoner in Lakaan Prison in Rasht, was transferred from solitary confinement back to the general ward. This transfer took place on Tuesday, 2 Shahrivar. Previously, he had been held in solitary confinement as a form of punishment.",
+        "time": "07:30",
+        "ts": 1787643026
       }
     ],
     "language": "en",
-    "packId": "20260825-21",
-    "sequence": 21,
+    "packId": "20260825-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:58"
+    "updatedAt": "07:30"
   },
   "verified": true
 }
