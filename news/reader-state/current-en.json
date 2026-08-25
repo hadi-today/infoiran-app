@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-126 seq=126 exp=1787862488",
+      "advancedStatus": "pack_id=20260825-128 seq=128 exp=1787862653",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:28",
+      "lastChecked": "20:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 20:28",
+    "expiresAt": "2026-08-27 20:30",
     "items": [
       {
         "channel": "iranintl",
@@ -1029,14 +1029,21 @@
         "text": "TankerTrackers announced that at least 15 ship-to-ship transfer operations are underway in the Sea of Oman. These operations involve about 25 million barrels of crude oil and some petroleum products. The oil being transferred is from almost all regional countries except Iran.",
         "time": "20:28",
         "ts": 1787689681
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Mohammad Bagher Ghalibaf, Speaker of the Islamic Consultative Assembly, criticized the remarks of US Treasury Secretary Scott Bessent about new sanctions against Iran by posting a part of his press conference video on X. Ghalibaf pointed to the contradiction in Bessent's words and called it a comedy show.",
+        "time": "20:30",
+        "ts": 1787689805
       }
     ],
     "language": "en",
-    "packId": "20260825-126",
-    "sequence": 126,
+    "packId": "20260825-128",
+    "sequence": 128,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:28"
+    "updatedAt": "20:30"
   },
   "verified": true
 }
