@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-88 seq=88 exp=1787846468",
+      "advancedStatus": "pack_id=20260825-89 seq=89 exp=1787846896",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:01",
+      "lastChecked": "16:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 16:01",
+    "expiresAt": "2026-08-27 16:08",
     "items": [
       {
         "channel": "iranintl",
@@ -994,14 +994,21 @@
         "text": "Arman Moghari, a 32-year-old resident of Rasht, has been detained by security forces for over three months and is held in Lakaan Prison in Rasht. His case, involving security charges, is under review at the second branch of the Revolutionary Court of Rasht. This detention continues without a final court decision.",
         "time": "16:00",
         "ts": 1787673622
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Oman and the Islamic Republic of Iran discussed resuming safe shipping in the Strait of Hormuz. They reviewed a phased framework including a temporary corridor and mine clearance. Technical negotiations for a permanent corridor and ship traffic management will continue.",
+        "time": "16:07",
+        "ts": 1787674055
       }
     ],
     "language": "en",
-    "packId": "20260825-88",
-    "sequence": 88,
+    "packId": "20260825-89",
+    "sequence": 89,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:01"
+    "updatedAt": "16:08"
   },
   "verified": true
 }
