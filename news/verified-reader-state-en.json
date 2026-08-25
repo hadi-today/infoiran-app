@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-79 seq=79 exp=1787841979",
+      "advancedStatus": "pack_id=20260825-80 seq=80 exp=1787842198",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:46",
+      "lastChecked": "14:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 14:46",
+    "expiresAt": "2026-08-27 14:49",
     "items": [
       {
         "channel": "iranintl",
@@ -1015,14 +1015,21 @@
         "text": "Donald Trump stated that the Islamic Republic of Iran is not paying the salaries of its military forces and is killing protesters on an unprecedented scale. He described this situation as a massive humanitarian crisis and called for it to stop immediately.",
         "time": "14:45",
         "ts": 1787669123
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A female prisoner named Zahra Azizpour was executed in Lakaan Prison in Rasht. The sentence was carried out on the early morning of Tuesday, 3 Shahrivar. Zahra Azizpour was about 43 years old and from Ardabil.",
+        "time": "14:49",
+        "ts": 1787669346
       }
     ],
     "language": "en",
-    "packId": "20260825-79",
-    "sequence": 79,
+    "packId": "20260825-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:46"
+    "updatedAt": "14:49"
   },
   "verified": true
 }
