@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-33 seq=33 exp=1787819698",
+      "advancedStatus": "pack_id=20260825-34 seq=34 exp=1787819985",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:34",
+      "lastChecked": "08:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 08:34",
+    "expiresAt": "2026-08-27 08:39",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Amin Naseri, a citizen from Asmanabad, was arrested by the Intelligence Corps agents. During the arrest, he was involved in a confrontation and was shot and injured. He has been transferred to an unknown location.",
-        "time": "08:34",
-        "ts": 1787560441
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of retired telecommunications workers gathered in Tehran on Tuesday, 24 August. They chanted slogans such as \"Retiree, shout out, demand your rights.\" The gathering was reported through videos received by Iran International.",
-        "time": "08:35",
-        "ts": 1787560553
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -980,14 +966,28 @@
         "text": "Ahmad Alavi, an economics professor, stated that war and international tensions affect market volatility, currency price increases, and inflation. He added that the sharp rise in the dollar price and the fall of the national currency's value after intensified war and sanctions indicate these factors are related to the economic situation.",
         "time": "08:33",
         "ts": 1787646834
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Mehdi Maskin-Nawaz, a political prisoner in Lakan prison in Rasht, is deprived of proper medical care despite suffering from a herniated disc and needing knee surgery. His family has covered treatment costs, but prison authorities prevent his transfer to medical centers. He was previously burned in Evin prison and now suffers from complications related to that injury.",
+        "time": "08:36",
+        "ts": 1787646979
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen reported in a video that they waited 45 minutes in line at a gas station. The station closed before their turn arrived. This issue was reported to Iran International.",
+        "time": "08:36",
+        "ts": 1787647013
       }
     ],
     "language": "en",
-    "packId": "20260825-33",
-    "sequence": 33,
+    "packId": "20260825-34",
+    "sequence": 34,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:34"
+    "updatedAt": "08:39"
   },
   "verified": true
 }
