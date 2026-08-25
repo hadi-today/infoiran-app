@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-132 seq=132 exp=1787866813",
+      "advancedStatus": "pack_id=20260825-134 seq=134 exp=1787868225",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:40",
+      "lastChecked": "22:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 21:40",
+    "expiresAt": "2026-08-27 22:03",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Saudi Arabia and France issued a joint statement emphasizing a diplomatic solution for Iran's nuclear program and called for Tehran's full cooperation with the IAEA. They condemned attacks on ships in the Strait of Hormuz and demanded a return to pre-March 2026 shipping conditions. They also stressed that ship passage should be free of charges and restrictions.",
-        "time": "22:00",
-        "ts": 1787608823
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1043,14 +1036,28 @@
         "text": "The Israeli army and internal security agency announced they targeted several locations in Gaza. These sites were storing rockets, weapons, and ammunition. The weapon depots were located inside mosques and near humanitarian infrastructure.",
         "time": "21:39",
         "ts": 1787693979
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Institute for Science and International Security reported the identification of a possible underground facility at the Natanz nuclear complex. This facility may be intended for storing uranium hexafluoride cylinders and supporting large-scale enrichment. Construction began in 2010 and the main part was completed between 2015 and 2017.",
+        "time": "21:52",
+        "ts": 1787694753
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Tom Barrack announced that Donald Trump's plan for the Middle East has entered an important phase. He said Trump's policy has facilitated the integration of the Syrian Democratic Forces into Syrian government institutions. Barrack mentioned the role of Kurds in the Syrian government and the recognition of the Kurdish language.",
+        "time": "22:03",
+        "ts": 1787695392
       }
     ],
     "language": "en",
-    "packId": "20260825-132",
-    "sequence": 132,
+    "packId": "20260825-134",
+    "sequence": 134,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:40"
+    "updatedAt": "22:03"
   },
   "verified": true
 }
