@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-57 seq=57 exp=1787833995",
+      "advancedStatus": "pack_id=20260825-58 seq=58 exp=1787834193",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:33",
+      "lastChecked": "12:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 12:33",
+    "expiresAt": "2026-08-27 12:36",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen sent a video to Iran International showing empty supermarket shelves in Tehran. He said dairy products and eggs are not available. People are quickly buying what they need, and it seems we are approaching a shortage.",
-        "time": "12:33",
-        "ts": 1787574794
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -938,14 +931,21 @@
         "text": "A citizen reported in a video to Iran International that they paid 650,000 tomans for one and a half kilograms of fruit. The report highlights severe inflation in Iran. The issue of fruit price increases has been noted.",
         "time": "12:32",
         "ts": 1787661141
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Roberto Piazza, the Italian head coach of Iran's national volleyball team, announced the team's readiness for the Asian Championship and the four-nation tournament in Russia. He confirmed the policy of youth promotion and team renewal, aiming to qualify for the 2028 Los Angeles Olympics. Piazza also denied rumors about his retirement and explained his delay due to special circumstances and embassy advice.",
+        "time": "12:33",
+        "ts": 1787661216
       }
     ],
     "language": "en",
-    "packId": "20260825-57",
-    "sequence": 57,
+    "packId": "20260825-58",
+    "sequence": 58,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:33"
+    "updatedAt": "12:36"
   },
   "verified": true
 }
