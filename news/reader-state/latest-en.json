@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-05 seq=5 exp=1787798995",
+      "advancedStatus": "pack_id=20260825-06 seq=6 exp=1787800579",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:49",
+      "lastChecked": "03:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 02:49",
+    "expiresAt": "2026-08-27 03:16",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US has launched a new campaign to cut Iran's economic lifelines. Mohsen Rezaei threatened that if the economic war continues, no oil exports from the Persian Gulf will be allowed. Iran can increase global costs by restricting the passage of oil tankers.",
-        "time": "03:14",
-        "ts": 1787541281
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -980,14 +973,21 @@
         "text": "The New Yorker reported that the Islamic Republic uses mafia members, criminal gangs, and European teenagers to target opponents and journalists abroad. Matthew Levitt has documented over 200 assassination plots supported by the Islamic Republic in the past five years. Threats against Iran International staff and their families have increased.",
         "time": "02:49",
         "ts": 1787626157
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Washington Post editorial board has supported the start of an economic ostracism operation against the Islamic Republic. The newspaper emphasized that effective implementation of this policy requires confronting China. The goal of this policy is to weaken and contain the Islamic Republic, not to change the government.",
+        "time": "03:15",
+        "ts": 1787627736
       }
     ],
     "language": "en",
-    "packId": "20260825-05",
-    "sequence": 5,
+    "packId": "20260825-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:49"
+    "updatedAt": "03:16"
   },
   "verified": true
 }
