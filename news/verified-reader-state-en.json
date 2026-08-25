@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-122 seq=122 exp=1787859796",
+      "advancedStatus": "pack_id=20260825-123 seq=123 exp=1787860406",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:43",
+      "lastChecked": "19:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 19:43",
+    "expiresAt": "2026-08-27 19:53",
     "items": [
       {
         "channel": "iranintl",
@@ -1008,14 +1008,21 @@
         "text": "Gas in Fereydunshahr was cut off for one hour, and after restoration, a gas smell spread in the city. Electricity in Sanandaj was cut off without notice at 22:20. People reported economic difficulties, rising medicine prices, and a shortage of infant formula in Rasht.",
         "time": "19:42",
         "ts": 1787686972
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mahmoud Nabavian, a member of the National Security Commission of the Parliament, criticized the Foreign Minister of the Islamic Republic for violating the management of the Strait of Hormuz. He questioned on what authorization the Foreign Minister violated Mojtaba Khamenei's order regarding exclusive management of the Strait. Nabavian also criticized the creation of consensus against the Islamic Republic due to Iran's management in the southern corridor.",
+        "time": "19:52",
+        "ts": 1787687568
       }
     ],
     "language": "en",
-    "packId": "20260825-122",
-    "sequence": 122,
+    "packId": "20260825-123",
+    "sequence": 123,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:43"
+    "updatedAt": "19:53"
   },
   "verified": true
 }
