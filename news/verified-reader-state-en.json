@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-03 seq=3 exp=1787794481",
+      "advancedStatus": "pack_id=20260825-04 seq=4 exp=1787795652",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:34",
+      "lastChecked": "01:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 01:34",
+    "expiresAt": "2026-08-27 01:54",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Greece has transferred a Patriot air defense battery from Karpathos to Crete. This move follows threats from the Islamic Republic against US military bases in Europe. The Patriot system will be deployed to protect the Souda military base.",
-        "time": "01:38",
-        "ts": 1787535507
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -980,14 +973,21 @@
         "text": "Senator Marsha Blackburn told Newsmax that Iran is facing unprecedented inflation and that the army and police are unable to pay their employees. She also referred to Treasury Secretary Scott Bessent's mention of more actions to come, and said the Treasury has identified and sanctioned various entities and individuals. Blackburn stressed the need for regional allies to join in ensuring Iran's financial isolation.",
         "time": "01:34",
         "ts": 1787621640
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Antonio Guterres, the UN Secretary-General, proposed facilitating the passage of fertilizer shipments through the Strait of Hormuz. The aim is to reduce risks and help ensure more regular transit. This mechanism will be implemented only with the agreement of all countries involved in the conflict.",
+        "time": "01:53",
+        "ts": 1787622810
       }
     ],
     "language": "en",
-    "packId": "20260825-03",
-    "sequence": 3,
+    "packId": "20260825-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:34"
+    "updatedAt": "01:54"
   },
   "verified": true
 }
