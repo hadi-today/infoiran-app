@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-67 seq=67 exp=1787837739",
+      "advancedStatus": "pack_id=20260825-68 seq=68 exp=1787838432",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:35",
+      "lastChecked": "13:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 13:35",
+    "expiresAt": "2026-08-27 13:47",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "A citizen addressed Abdolnaser Hemmati, the Central Bank governor, in a video claiming there is a dollar shortage and exchange offices are closed. He accused Hemmati of lying about the shortage. The video was sent to Iran International.",
         "time": "13:34",
         "ts": 1787664898
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The league secretary announced that the spectator quota for the Esteghlal and Persepolis matches is 50-50. Previously, the league spokesperson had said that 90% of the capacity would be allocated to Esteghlal fans. Derby 107 Tehran is scheduled to be held on September 2 at the Naghsh-e Jahan Stadium in Isfahan.",
+        "time": "13:46",
+        "ts": 1787665583
       }
     ],
     "language": "en",
-    "packId": "20260825-67",
-    "sequence": 67,
+    "packId": "20260825-68",
+    "sequence": 68,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:35"
+    "updatedAt": "13:47"
   },
   "verified": true
 }
