@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-12 seq=12 exp=1787808031",
+      "advancedStatus": "pack_id=20260825-13 seq=13 exp=1787808441",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:20",
+      "lastChecked": "05:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 05:20",
+    "expiresAt": "2026-08-27 05:27",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The spokesperson of the IRGC stated that monitoring the Strait of Hormuz is not done through American satellites and that other methods exist. He added that destroying known Iranian radars does not eliminate their monitoring capability. The IRGC has the ability to precisely target vessels in sensitive areas.",
-        "time": "05:20",
-        "ts": 1787548805
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Siamak Javadi stated that Iran's economy has been in decline since the establishment of the Islamic Republic and the current crisis cannot be attributed solely to war and sanctions. He added that war and sanctions are consequences of the Islamic Republic's policies, with Iran's placement on the FATF blacklist as an example. Javadi also mentioned that the call by Reza Pahlavi for civil disobedience in the administrative body could disrupt the country's governance.",
-        "time": "05:21",
-        "ts": 1787548914
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -994,14 +980,21 @@
         "text": "Houshang Hasan-Yari pointed to increasing economic, military, and political pressures by the US against the Islamic Republic. He said we are gradually entering a phase where war will be inevitable. He predicted that the final battle between the US and the Islamic Republic will happen soon.",
         "time": "05:19",
         "ts": 1787635197
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Asia-Pacific media have focused on the US economic boycott campaign, highlighting increased pressure on Iran and its trade partners. Australian and New Zealand media emphasized the fall of the rial, inflation, and medicine shortages. Asian media reported on hidden financial networks, oil smuggling, and sanctions on Chinese and Hong Kong companies.",
+        "time": "05:26",
+        "ts": 1787635608
       }
     ],
     "language": "en",
-    "packId": "20260825-12",
-    "sequence": 12,
+    "packId": "20260825-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:20"
+    "updatedAt": "05:27"
   },
   "verified": true
 }
