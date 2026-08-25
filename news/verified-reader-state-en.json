@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-120 seq=120 exp=1787859080",
+      "advancedStatus": "pack_id=20260825-121 seq=121 exp=1787859265",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:31",
+      "lastChecked": "19:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 19:31",
+    "expiresAt": "2026-08-27 19:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The office of the Israeli Prime Minister congratulated Donald Trump and Scott Bassent on new sanctions against the Iranian government. Netanyahu described these sanctions as a correct measure against Iran's dictatorship and its supporters of aggression.",
-        "time": "19:33",
-        "ts": 1787600021
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1015,14 +1008,21 @@
         "text": "Erfan Ghaneifard, a Middle East analyst, spoke about the US Secret Service investigation into the Islamic Republic's video threatening Barron Trump. He said the name of the Islamic Republic is again linked to threats and extraterritorial operations. This issue has become a serious national security concern for the US.",
         "time": "19:30",
         "ts": 1787686251
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reuters reported, citing American media, that John Ratcliffe, CIA director, traveled to Moscow to meet with Russian officials. CBS News and Axios reported the trip citing anonymous sources, but details of the meetings and the topics of discussion have not been released. If confirmed, this would be the first visit by a CIA director to Moscow since November 2021.",
+        "time": "19:33",
+        "ts": 1787686437
       }
     ],
     "language": "en",
-    "packId": "20260825-120",
-    "sequence": 120,
+    "packId": "20260825-121",
+    "sequence": 121,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:31"
+    "updatedAt": "19:34"
   },
   "verified": true
 }
