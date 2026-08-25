@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-04 seq=4 exp=1787795652",
+      "advancedStatus": "pack_id=20260825-05 seq=5 exp=1787798995",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:54",
+      "lastChecked": "02:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 01:54",
+    "expiresAt": "2026-08-27 02:49",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Brent crude oil prices fell by more than one percent. This price drop occurred before the announcement of a new US sanctions package against the Islamic Republic. The US Treasury Secretary announced the start of an \"economic D-Day\" against Iran.",
-        "time": "02:30",
-        "ts": 1787538601
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -980,14 +973,21 @@
         "text": "Antonio Guterres, the UN Secretary-General, proposed facilitating the passage of fertilizer shipments through the Strait of Hormuz. The aim is to reduce risks and help ensure more regular transit. This mechanism will be implemented only with the agreement of all countries involved in the conflict.",
         "time": "01:53",
         "ts": 1787622810
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The New Yorker reported that the Islamic Republic uses mafia members, criminal gangs, and European teenagers to target opponents and journalists abroad. Matthew Levitt has documented over 200 assassination plots supported by the Islamic Republic in the past five years. Threats against Iran International staff and their families have increased.",
+        "time": "02:49",
+        "ts": 1787626157
       }
     ],
     "language": "en",
-    "packId": "20260825-04",
-    "sequence": 4,
+    "packId": "20260825-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:54"
+    "updatedAt": "02:49"
   },
   "verified": true
 }
