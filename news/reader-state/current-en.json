@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-83 seq=83 exp=1787844683",
+      "advancedStatus": "pack_id=20260825-84 seq=84 exp=1787844832",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:31",
+      "lastChecked": "15:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 15:31",
+    "expiresAt": "2026-08-27 15:33",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mehdi Tartaar, the Persepolis coach, inspected the field and grass of Sahand Stadium in Tabriz before the match against Tractor. This occurred in an empty stadium without spectators. A video of this scene was published by Varzesh3.",
-        "time": "15:30",
-        "ts": 1787585449
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -994,14 +987,21 @@
         "text": "Faeq Zidan, head of Iraq's Supreme Judicial Council, met with Masoud Pezeshkian and Mohammad Bagher Ghalibaf in Tehran. Pezeshkian emphasized the importance of Islamic countries' convergence for regional security and peace. He also mentioned enemies' attempts to create discord among regional countries.",
         "time": "15:30",
         "ts": 1787671840
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen reported rising prices in Iran in a video to Iran International. He said the price of 10 eggs, a small bottle of oil, and two cans of beans reached 1,170,000 tomans.",
+        "time": "15:31",
+        "ts": 1787671889
       }
     ],
     "language": "en",
-    "packId": "20260825-83",
-    "sequence": 83,
+    "packId": "20260825-84",
+    "sequence": 84,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:31"
+    "updatedAt": "15:33"
   },
   "verified": true
 }
