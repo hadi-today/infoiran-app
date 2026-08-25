@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-52 seq=52 exp=1787830481",
+      "advancedStatus": "pack_id=20260825-53 seq=53 exp=1787830605",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:34",
+      "lastChecked": "11:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 11:34",
+    "expiresAt": "2026-08-27 11:36",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Volodymyr Zelensky stated on Ukraine's Independence Day that Ukraine seeks peace but will not surrender to Russia. Meanwhile, European supporters of Ukraine are gathering in Kyiv to discuss strengthening air defense and increasing pressure on Moscow. This report was published by Iran International.",
-        "time": "11:33",
-        "ts": 1787571200
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -966,14 +959,21 @@
         "text": "Donald Trump described the situation in Iran as a humanitarian crisis on a large scale. He said the Islamic Republic kills protesters even when they are not protesting. Trump called for an immediate stop to this situation.",
         "time": "11:30",
         "ts": 1787657423
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A memorial birthday ceremony for Azra Bahadorinejad was held at her grave. Azra Bahadorinejad was 39 years old and a mother of two children. She died on the evening of January 9, 2026, in Sabzevar from a direct gunshot by officers.",
+        "time": "11:34",
+        "ts": 1787657681
       }
     ],
     "language": "en",
-    "packId": "20260825-52",
-    "sequence": 52,
+    "packId": "20260825-53",
+    "sequence": 53,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:34"
+    "updatedAt": "11:36"
   },
   "verified": true
 }
