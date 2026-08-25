@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-06 seq=6 exp=1787800579",
+      "advancedStatus": "pack_id=20260825-07 seq=7 exp=1787800872",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:16",
+      "lastChecked": "03:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-25",
-    "expiresAt": "2026-08-27 03:16",
+    "expiresAt": "2026-08-27 03:21",
     "items": [
       {
         "channel": "iranintl",
@@ -980,14 +980,21 @@
         "text": "The Washington Post editorial board has supported the start of an economic ostracism operation against the Islamic Republic. The newspaper emphasized that effective implementation of this policy requires confronting China. The goal of this policy is to weaken and contain the Islamic Republic, not to change the government.",
         "time": "03:15",
         "ts": 1787627736
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Insurance companies consider ships related to Saudi Arabia as higher risk assets due to the Iran war and Houthi attacks, increasing insurance costs. Saudi Arabia is negotiating with insurance brokers in London about a war and political risk insurance plan. This plan could cover up to 700 million Saudi riyals per incident.",
+        "time": "03:20",
+        "ts": 1787628033
       }
     ],
     "language": "en",
-    "packId": "20260825-06",
-    "sequence": 6,
+    "packId": "20260825-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:16"
+    "updatedAt": "03:21"
   },
   "verified": true
 }
