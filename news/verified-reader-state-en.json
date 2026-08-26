@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-78 seq=78 exp=1787931951",
+      "advancedStatus": "pack_id=20260826-79 seq=79 exp=1787932148",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:45",
+      "lastChecked": "15:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 15:45",
+    "expiresAt": "2026-08-28 15:49",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Reza Aref stated that the Islamic Republic of Iran is fully prepared to confront the enemy. He added that the Islamic Republic was also prepared for previous wars with the US and Israel. These remarks were made in an interview with Masoud Pezeshkian's first deputy.",
-        "time": "15:45",
-        "ts": 1787672759
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Sports Human Rights Organization announced that Ali Pishevarzadeh, an athlete and former member of the Chooka Gilan water polo team, is at risk of execution. This issue was discussed in an interview with Zohreh Abdollahkhani, a researcher of international sports policies.",
-        "time": "15:46",
-        "ts": 1787672811
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -966,14 +952,21 @@
         "text": "The Stockholm World Water Week is being held focusing on water crisis, climate change, and water governance. The prestigious Stockholm Water Prize is awarded to Kaveh Madani for his work in water resource management and policy. This news was reported by Mehran Abbassian.",
         "time": "15:44",
         "ts": 1787759060
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "UEFA intends to withdraw its threat to boycott FIFA competitions after receiving guarantees that the plan to sell World Cup shares will not be repeated. Previously, 55 European countries had agreed to boycott these competitions. However, UEFA plans to intensify actions against Gianni Infantino due to this plan.",
+        "time": "15:48",
+        "ts": 1787759307
       }
     ],
     "language": "en",
-    "packId": "20260826-78",
-    "sequence": 78,
+    "packId": "20260826-79",
+    "sequence": 79,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:45"
+    "updatedAt": "15:49"
   },
   "verified": true
 }
