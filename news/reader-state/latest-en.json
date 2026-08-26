@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-19 seq=19 exp=1787900667",
+      "advancedStatus": "pack_id=20260826-20 seq=20 exp=1787901394",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:04",
+      "lastChecked": "07:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 07:04",
+    "expiresAt": "2026-08-28 07:16",
     "items": [
       {
         "channel": "harana",
@@ -1001,14 +1001,21 @@
         "text": "Fatemeh Mohajerani, the government spokesperson, refrained from announcing statistics on severe poverty in Iran. She stated that publishing these figures requires permission from the Supreme National Security Council. Security considerations were cited as the reason for this restriction.",
         "time": "07:04",
         "ts": 1787727840
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Bloomberg reported that Turkey faces the risk of losing a key energy supply source if Washington's threat to economically isolate Tehran is carried out. This situation could create new challenges for Turkey's energy security and economy. The report was provided by Narges Horkhsh from Iran International.",
+        "time": "07:16",
+        "ts": 1787728569
       }
     ],
     "language": "en",
-    "packId": "20260826-19",
-    "sequence": 19,
+    "packId": "20260826-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:04"
+    "updatedAt": "07:16"
   },
   "verified": true
 }
