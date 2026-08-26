@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-33 seq=33 exp=1787906918",
+      "advancedStatus": "pack_id=20260826-34 seq=34 exp=1787907867",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:48",
+      "lastChecked": "09:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 08:48",
+    "expiresAt": "2026-08-28 09:04",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen sent a video showing a one-euro coin against a two million rial banknote. He sarcastically calls this the achievement of the Islamic Republic regime after years of rule. The video was sent to Iran International.",
-        "time": "09:03",
-        "ts": 1787648590
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1001,14 +994,21 @@
         "text": "The family of Lindsay and Craig Foreman, who have been imprisoned in Iran for 600 days, has requested an urgent meeting with British officials. They expressed concern about the couple's health following a prolonged hunger strike. British embassy staff have returned to Iran, but a meeting has not been confirmed.",
         "time": "08:48",
         "ts": 1787734084
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The disciplinary committee of Shiraz University has summoned about 20 students and opened disciplinary cases against them.",
+        "time": "09:03",
+        "ts": 1787735033
       }
     ],
     "language": "en",
-    "packId": "20260826-33",
-    "sequence": 33,
+    "packId": "20260826-34",
+    "sequence": 34,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:48"
+    "updatedAt": "09:04"
   },
   "verified": true
 }
