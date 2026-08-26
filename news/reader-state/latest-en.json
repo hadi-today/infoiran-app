@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-99 seq=99 exp=1787940756",
+      "advancedStatus": "pack_id=20260826-100 seq=100 exp=1787940980",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:12",
+      "lastChecked": "18:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 18:12",
+    "expiresAt": "2026-08-28 18:16",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Trump stated that the Strait of Hormuz is completely open. He also said that every inch of Iran's nuclear sites is under surveillance. These remarks were made in the audio version of Titrawol with Niusha Saremi.",
-        "time": "18:11",
-        "ts": 1787681514
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -959,14 +952,21 @@
         "text": "Rouhollah Rahimpour said Trump's statements about Mojtaba Khamenei's condition reflect the ambiguity created by the Islamic Republic over the past five months. This ambiguity has political and security functions in negotiations and internal and external crises. No definitive information about Mojtaba Khamenei's physical condition or presence has been released.",
         "time": "18:11",
         "ts": 1787767905
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump said he does not think Mojtaba Khamenei is dead, but if he is, the Islamic Republic has hidden it well. He added that Iranian officials always say they need time to consult with him during negotiations. Benjamin Netanyahu called the Iranian rulers \"savages\" and said reaching an agreement with them is impossible.",
+        "time": "18:15",
+        "ts": 1787768139
       }
     ],
     "language": "en",
-    "packId": "20260826-99",
-    "sequence": 99,
+    "packId": "20260826-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:12"
+    "updatedAt": "18:16"
   },
   "verified": true
 }
