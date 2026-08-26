@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-53 seq=53 exp=1787918522",
+      "advancedStatus": "pack_id=20260826-54 seq=54 exp=1787918789",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:02",
+      "lastChecked": "12:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 12:02",
+    "expiresAt": "2026-08-28 12:06",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "After a 1-0 loss to Tractor, Persepolis players issued a joint message apologizing to fans. They emphasized their commitment to work harder to make up for the result and expressed gratitude for the fans' support. The players stated they will strive until the end to build a team worthy of the Persepolis name.",
-        "time": "12:03",
-        "ts": 1787659419
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A video sent on Tuesday, 3rd of Shahrivar, shows a long line of cars at a fuel station in Tehran. The video was sent to Iran International. It concerns the process of receiving gasoline.",
-        "time": "12:05",
-        "ts": 1787659530
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1008,14 +994,21 @@
         "text": "Citizens reported that power was cut off at night in Sanandaj without prior notice. Additionally, a beach soccer Premier League match in Rudsar was stopped due to a power outage. These events were reported by Iran International.",
         "time": "12:01",
         "ts": 1787745679
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Mohibi, spokesperson for the IRGC, stated that the Strait of Hormuz will not be opened unless the US accepts Iran's conditions. He mentioned negotiations with Oman regarding the share of the two countries in the waters of the strait and said US interference delayed the implementation of agreements. He also emphasized that the Strait of Hormuz and the nearby waterway near Oman are under Iran's control.",
+        "time": "12:05",
+        "ts": 1787745956
       }
     ],
     "language": "en",
-    "packId": "20260826-53",
-    "sequence": 53,
+    "packId": "20260826-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:02"
+    "updatedAt": "12:06"
   },
   "verified": true
 }
