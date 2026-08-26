@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-35 seq=35 exp=1787908031",
+      "advancedStatus": "pack_id=20260826-36 seq=36 exp=1787908338",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:07",
+      "lastChecked": "09:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 09:07",
+    "expiresAt": "2026-08-28 09:12",
     "items": [
       {
         "channel": "iranintl",
@@ -1008,14 +1008,21 @@
         "text": "Sadegh Hosseini, an economic expert, emphasized the necessity of economic reforms in Iran. He warned that if Iran reaches a situation similar to Venezuela, worse events will occur. He also called for gasoline price reforms.",
         "time": "09:06",
         "ts": 1787735192
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli Prime Minister said he discussed three options with Trump regarding the Islamic Republic: reaching an agreement, military action, or intensifying the blockade. He believes reaching an agreement with the current Iranian government is impossible and Israel is prepared for a severe defense if attacked. Trump has also increased pressure on those aiding the Iranian government.",
+        "time": "09:11",
+        "ts": 1787735508
       }
     ],
     "language": "en",
-    "packId": "20260826-35",
-    "sequence": 35,
+    "packId": "20260826-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:07"
+    "updatedAt": "09:12"
   },
   "verified": true
 }
