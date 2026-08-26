@@ -1,27 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260825-140 seq=140 exp=1787875162",
+      "advancedStatus": "pack_id=20260826-01 seq=1 exp=1787877073",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:59",
+      "lastChecked": "00:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-08-25",
-    "expiresAt": "2026-08-27 23:59",
+    "date": "2026-08-26",
+    "expiresAt": "2026-08-28 00:31",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Eiffel Tower in Paris was lit up in the blue and yellow colors of the Ukrainian flag. This was done to commemorate the 35th anniversary of Ukraine's independence. The deputy mayor of Paris described the celebration as a symbol of friendship between France and Ukraine.",
-        "time": "00:10",
-        "ts": 1787616629
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1015,14 +1008,21 @@
         "text": "NBC News reported that missile and drone attacks by the Islamic Republic on US facilities in the Middle East caused billions of dollars in damage. These attacks revealed weaknesses in the defense systems of US bases. US officials are reconsidering how to protect sensitive intelligence and surveillance facilities in the region.",
         "time": "23:58",
         "ts": 1787702330
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Al-Sharrah and Mazlum Abdi met in Damascus to discuss the integration of the Syrian Democratic Forces into government institutions. Abdi announced the end of the SDF's mission and its merger with the Syrian army. Kurdish language education will also start this year.",
+        "time": "00:30",
+        "ts": 1787704242
       }
     ],
     "language": "en",
-    "packId": "20260825-140",
-    "sequence": 140,
+    "packId": "20260826-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:59"
+    "updatedAt": "00:31"
   },
   "verified": true
 }
