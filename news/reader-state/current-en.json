@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-90 seq=90 exp=1787938245",
+      "advancedStatus": "pack_id=20260826-91 seq=91 exp=1787938491",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:30",
+      "lastChecked": "17:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 17:30",
+    "expiresAt": "2026-08-28 17:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen in a video referred to the high prices of essential goods and sarcastically used the nickname \"cardboard leader\" for Mojtaba Khamenei. He said the country is run with cardboard. This video was sent to Iran International.",
-        "time": "17:33",
-        "ts": 1787679225
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -945,14 +938,21 @@
         "text": "On Tuesday, 24 August, the home of Keyhan and Fereshteh Atefi, a Baha'i couple in Isfahan, was searched by intelligence officers. During the search, several personal belongings, a car, and assets of the couple were confiscated. The confiscated items included a television, vacuum cleaner, toolbox, car, gold, valuable objects, communication devices, and the grandchild's toys.",
         "time": "17:29",
         "ts": 1787765396
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A tornado formed on Monday, August 24, in southern Carcassonne, France. The tornado reached the Puma area around 5 PM, injuring at least 26 people and causing power outages for about 2800 households. The French meteorological organization had previously issued a thunderstorm warning.",
+        "time": "17:34",
+        "ts": 1787765640
       }
     ],
     "language": "en",
-    "packId": "20260826-90",
-    "sequence": 90,
+    "packId": "20260826-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:30"
+    "updatedAt": "17:34"
   },
   "verified": true
 }
