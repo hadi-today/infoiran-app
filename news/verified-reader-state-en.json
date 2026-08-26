@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-114 seq=114 exp=1787952251",
+      "advancedStatus": "pack_id=20260826-115 seq=115 exp=1787953899",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:24",
+      "lastChecked": "21:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 21:24",
+    "expiresAt": "2026-08-28 21:51",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Israeli army and internal security agency announced they targeted several locations in Gaza. These sites were storing rockets, weapons, and ammunition. The weapon depots were located inside mosques and near humanitarian infrastructure.",
-        "time": "21:39",
-        "ts": 1787693979
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "Abolfazl Shekarchi, the spokesperson for the armed forces, called journalists and staff of Iran International, BBC, Manoto, and Radio Farda \"Zionist soldiers\" and \"soldiers of criminal America.\" He described these networks as hostile and warmongering and said the armed forces consider them in their military target bank. He also claimed these networks are directly connected to Mossad and the CIA and receive guidance from them.",
         "time": "21:23",
         "ts": 1787779414
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "According to Nepal police, at least 160 people died in a sudden flood on Wednesday in the Nepal-China border area. More than 400 tourists, workers, and other citizens are missing. In Mailong, some people escaped the flood path moments before it arrived.",
+        "time": "21:51",
+        "ts": 1787781065
       }
     ],
     "language": "en",
-    "packId": "20260826-114",
-    "sequence": 114,
+    "packId": "20260826-115",
+    "sequence": 115,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:24"
+    "updatedAt": "21:51"
   },
   "verified": true
 }
