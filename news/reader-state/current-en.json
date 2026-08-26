@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-80 seq=80 exp=1787932340",
+      "advancedStatus": "pack_id=20260826-81 seq=81 exp=1787933035",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:52",
+      "lastChecked": "16:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 15:52",
+    "expiresAt": "2026-08-28 16:03",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Arman Moghari, a 32-year-old resident of Rasht, has been detained by security forces for over three months and is held in Lakaan Prison in Rasht. His case, involving security charges, is under review at the second branch of the Revolutionary Court of Rasht. This detention continues without a final court decision.",
-        "time": "16:00",
-        "ts": 1787673622
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -966,14 +959,21 @@
         "text": "The Minister of Communications stated that the filtering issue must be closed in the country. He warned that the use of VPNs causes significant damage and reduces internet quality. He also emphasized that governance in cyberspace cannot be achieved solely through technical means and that people will become dissatisfied.",
         "time": "15:51",
         "ts": 1787759501
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen reported that on the 4th of Shahrivar in Tehran, a long line of cars formed in front of the Pasdaran gas station. The line extended to Pasdaran intersection. This report was sent to Iran International.",
+        "time": "16:03",
+        "ts": 1787760195
       }
     ],
     "language": "en",
-    "packId": "20260826-80",
-    "sequence": 80,
+    "packId": "20260826-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:52"
+    "updatedAt": "16:03"
   },
   "verified": true
 }
