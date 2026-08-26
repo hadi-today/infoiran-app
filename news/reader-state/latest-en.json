@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-94 seq=94 exp=1787939228",
+      "advancedStatus": "pack_id=20260826-95 seq=95 exp=1787939516",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:47",
+      "lastChecked": "17:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 17:47",
+    "expiresAt": "2026-08-28 17:51",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "The Kremlin has confirmed the CIA chief's trip to Moscow. The reason for the trip was communication between intelligence services. It was reported that messages regarding the Strait of Hormuz and sanctions were conveyed.",
         "time": "17:45",
         "ts": 1787766340
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran and Oman have reached an agreement to close the southern route of the Strait of Hormuz. Two proposed routes by the Islamic Republic will be announced to the International Maritime Organization. The status of mines in the strait remains unclear, and the US claims to have cleared mines from the main route of Hormuz.",
+        "time": "17:51",
+        "ts": 1787766683
       }
     ],
     "language": "en",
-    "packId": "20260826-94",
-    "sequence": 94,
+    "packId": "20260826-95",
+    "sequence": 95,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:47"
+    "updatedAt": "17:51"
   },
   "verified": true
 }
