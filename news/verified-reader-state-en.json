@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-10 seq=10 exp=1787893449",
+      "advancedStatus": "pack_id=20260826-11 seq=11 exp=1787893894",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:04",
+      "lastChecked": "05:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 05:04",
+    "expiresAt": "2026-08-28 05:11",
     "items": [
       {
         "channel": "iranintl",
@@ -1022,14 +1022,21 @@
         "text": "Mohammad Qaedi considers the halt of attacks against the Islamic Republic as a tactical pause. Economic pressure and naval blockade continue. Internal concerns in the US about fuel prices, inflation, and midterm elections influenced this decision.",
         "time": "05:03",
         "ts": 1787720629
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Namvar Haghighi reported increasing economic and livelihood pressures in Iran. He mentioned rising inflation, dollar prices, energy problems, and retirees' protests. He warned that continuing this situation could increase political divides and social protests.",
+        "time": "05:11",
+        "ts": 1787721068
       }
     ],
     "language": "en",
-    "packId": "20260826-10",
-    "sequence": 10,
+    "packId": "20260826-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:04"
+    "updatedAt": "05:11"
   },
   "verified": true
 }
