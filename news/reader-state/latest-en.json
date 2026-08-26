@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-74 seq=74 exp=1787929382",
+      "advancedStatus": "pack_id=20260826-75 seq=75 exp=1787929679",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:03",
+      "lastChecked": "15:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 15:03",
+    "expiresAt": "2026-08-28 15:07",
     "items": [
       {
         "channel": "iranintl",
@@ -973,14 +973,21 @@
         "text": "A citizen sent a video to Iran International stating that they paid 4,800,000 tomans for fruits, vegetables, and one kilogram of chicken meat, expressing concern about the current situation.",
         "time": "15:02",
         "ts": 1787756538
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump stated that there is no specific timeline for resuming negotiations with the Islamic Republic and he is not in a hurry. He said that both military attacks and economic pressure by the US against the Islamic Republic are effective. Trump also added that Iran's economy is collapsing.",
+        "time": "15:06",
+        "ts": 1787756803
       }
     ],
     "language": "en",
-    "packId": "20260826-74",
-    "sequence": 74,
+    "packId": "20260826-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:03"
+    "updatedAt": "15:07"
   },
   "verified": true
 }
