@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-34 seq=34 exp=1787907867",
+      "advancedStatus": "pack_id=20260826-35 seq=35 exp=1787908031",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:04",
+      "lastChecked": "09:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 09:04",
+    "expiresAt": "2026-08-28 09:07",
     "items": [
       {
         "channel": "iranintl",
@@ -1001,14 +1001,21 @@
         "text": "The disciplinary committee of Shiraz University has summoned about 20 students and opened disciplinary cases against them.",
         "time": "09:03",
         "ts": 1787735033
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Sadegh Hosseini, an economic expert, emphasized the necessity of economic reforms in Iran. He warned that if Iran reaches a situation similar to Venezuela, worse events will occur. He also called for gasoline price reforms.",
+        "time": "09:06",
+        "ts": 1787735192
       }
     ],
     "language": "en",
-    "packId": "20260826-34",
-    "sequence": 34,
+    "packId": "20260826-35",
+    "sequence": 35,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:04"
+    "updatedAt": "09:07"
   },
   "verified": true
 }
