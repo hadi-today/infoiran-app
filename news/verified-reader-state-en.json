@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-123 seq=123 exp=1787955713",
+      "advancedStatus": "pack_id=20260826-124 seq=124 exp=1787956465",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:21",
+      "lastChecked": "22:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 22:21",
+    "expiresAt": "2026-08-28 22:34",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "Amir Giti from Iran International said mutual distrust between the Islamic Republic, the IAEA, and Western countries has complicated inspectors' access to nuclear facilities. He added that Iran's concern about information leaking to the US and Israel is more of a leverage tactic in future negotiations. This issue stems from internal disagreements and mutual distrust.",
         "time": "22:21",
         "ts": 1787782881
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Bank Melli has confirmed disruptions and discrepancies in some accounts. Transaction corrections and balance updates are ongoing. Customers complain about not having access to their account balances.",
+        "time": "22:33",
+        "ts": 1787783631
       }
     ],
     "language": "en",
-    "packId": "20260826-123",
-    "sequence": 123,
+    "packId": "20260826-124",
+    "sequence": 124,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:21"
+    "updatedAt": "22:34"
   },
   "verified": true
 }
