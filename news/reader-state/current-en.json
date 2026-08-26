@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-128 seq=128 exp=1787959799",
+      "advancedStatus": "pack_id=20260826-129 seq=129 exp=1787960295",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:29",
+      "lastChecked": "23:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 23:29",
+    "expiresAt": "2026-08-28 23:38",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,21 @@
         "text": "Bloomberg reported, citing officials, that a number of US allies believe the Strait of Hormuz has not yet been fully demined. These sources estimated the number of mines laid by the Islamic Republic at around 80 to 150, but the exact number of remaining mines is unknown. This assessment contradicts statements by Donald Trump about the waterway's clearance.",
         "time": "23:29",
         "ts": 1787786966
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Scott Perry, a Republican member of the US House of Representatives, said the Islamic Republic should not be allowed to obtain nuclear weapons. He added that Donald Trump seeks to end the conflict quickly. These remarks follow the Trump administration's stance on Iran's nuclear program.",
+        "time": "23:37",
+        "ts": 1787787459
       }
     ],
     "language": "en",
-    "packId": "20260826-128",
-    "sequence": 128,
+    "packId": "20260826-129",
+    "sequence": 129,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:29"
+    "updatedAt": "23:38"
   },
   "verified": true
 }
