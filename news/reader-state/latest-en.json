@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-01 seq=1 exp=1787877073",
+      "advancedStatus": "pack_id=20260826-02 seq=2 exp=1787877266",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:31",
+      "lastChecked": "00:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 00:31",
+    "expiresAt": "2026-08-28 00:34",
     "items": [
       {
         "channel": "iranintl",
@@ -1015,14 +1015,21 @@
         "text": "Ahmad Al-Sharrah and Mazlum Abdi met in Damascus to discuss the integration of the Syrian Democratic Forces into government institutions. Abdi announced the end of the SDF's mission and its merger with the Syrian army. Kurdish language education will also start this year.",
         "time": "00:30",
         "ts": 1787704242
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shayan Samiei stated that the US mine-clearing operation in the Strait of Hormuz has ended. Trump's threat to destroy mine-laying vessels indicates Washington's effort to control international waters. The goal is to establish a security regime managed by the US in the Strait of Hormuz.",
+        "time": "00:33",
+        "ts": 1787704433
       }
     ],
     "language": "en",
-    "packId": "20260826-01",
-    "sequence": 1,
+    "packId": "20260826-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:31"
+    "updatedAt": "00:34"
   },
   "verified": true
 }
