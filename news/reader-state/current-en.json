@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-101 seq=101 exp=1787941442",
+      "advancedStatus": "pack_id=20260826-102 seq=102 exp=1787941730",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:24",
+      "lastChecked": "18:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 18:24",
+    "expiresAt": "2026-08-28 18:28",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Iranians living in the UK held a protest on Tuesday in front of the Prime Minister's office in London against the execution of prisoners and political protesters in Iran. This protest was reported through a video received by Iran International.",
-        "time": "18:25",
-        "ts": 1787682312
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Bagher Ghalibaf said in a meeting with Faiq Zidan that Iran and Iraq have a decisive role in the new regional order. He called for the complete withdrawal of US coalition forces from Iraq. Ghalibaf also emphasized that the US has failed in military, political, and economic wars.",
-        "time": "18:26",
-        "ts": 1787682366
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -966,14 +952,21 @@
         "text": "Images and reports indicate long queues at fuel stations in various Iranian cities. Taxi fares have increased several times due to fuel shortages and GPS system disruptions. Drivers report the end of fuel quotas and restrictions on purchasing free-market fuel.",
         "time": "18:23",
         "ts": 1787768603
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The executive deputy of Masoud Pezeshkian stated that gasoline production in Iran is insufficient and the US naval blockade prevents gasoline imports. He also pointed out the unfair distribution of gasoline and called for its reform. The former head of the US Treasury's sanctions targeting office said gasoline imports are the most vulnerable part of Iran's economy under the naval blockade.",
+        "time": "18:28",
+        "ts": 1787768889
       }
     ],
     "language": "en",
-    "packId": "20260826-101",
-    "sequence": 101,
+    "packId": "20260826-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:24"
+    "updatedAt": "18:28"
   },
   "verified": true
 }
