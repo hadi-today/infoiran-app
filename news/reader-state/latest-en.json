@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-84 seq=84 exp=1787934706",
+      "advancedStatus": "pack_id=20260826-85 seq=85 exp=1787935493",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:31",
+      "lastChecked": "16:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 16:31",
+    "expiresAt": "2026-08-28 16:44",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Iran and Oman issued a joint statement on resuming safe navigation through the Strait of Hormuz. The foreign ministers discussed a phased framework to manage the current situation in the strait. Technical negotiations will continue to establish a permanent corridor and manage maritime traffic.",
-        "time": "16:37",
-        "ts": 1787675820
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -959,14 +952,21 @@
         "text": "Videos sent to Iran International show that the historic Municipality Square in Rasht has been occupied with government banners. These videos are from Wednesday, the 4th of Shahrivar. This issue was reported by Iran International.",
         "time": "16:30",
         "ts": 1787761851
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The spokesperson of the Revolutionary Guards stated that Iran and Oman have reached preliminary agreements on their share of the waters and revenues of the Strait of Hormuz after one month of negotiations. He said the Strait of Hormuz and the waterway near Oman are now under the control of the Islamic Republic. The United States was also accused of obstructing the negotiation process.",
+        "time": "16:44",
+        "ts": 1787762650
       }
     ],
     "language": "en",
-    "packId": "20260826-84",
-    "sequence": 84,
+    "packId": "20260826-85",
+    "sequence": 85,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:31"
+    "updatedAt": "16:44"
   },
   "verified": true
 }
