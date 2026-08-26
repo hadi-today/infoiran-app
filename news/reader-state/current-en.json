@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-95 seq=95 exp=1787939516",
+      "advancedStatus": "pack_id=20260826-96 seq=96 exp=1787939859",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:51",
+      "lastChecked": "17:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 17:51",
+    "expiresAt": "2026-08-28 17:57",
     "items": [
       {
         "channel": "iranintl",
@@ -966,14 +966,21 @@
         "text": "Iran and Oman have reached an agreement to close the southern route of the Strait of Hormuz. Two proposed routes by the Islamic Republic will be announced to the International Maritime Organization. The status of mines in the strait remains unclear, and the US claims to have cleared mines from the main route of Hormuz.",
         "time": "17:51",
         "ts": 1787766683
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Sudden floods in the Nepal-China border area caused at least 98 deaths and hundreds of missing people. Nepal's Prime Minister's office reported 95 deaths. China's CCTV network reported a landslide in Tibet with three deaths and 265 missing.",
+        "time": "17:57",
+        "ts": 1787767022
       }
     ],
     "language": "en",
-    "packId": "20260826-95",
-    "sequence": 95,
+    "packId": "20260826-96",
+    "sequence": 96,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:51"
+    "updatedAt": "17:57"
   },
   "verified": true
 }
