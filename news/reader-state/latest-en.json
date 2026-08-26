@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-02 seq=2 exp=1787877266",
+      "advancedStatus": "pack_id=20260826-03 seq=3 exp=1787878624",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:34",
+      "lastChecked": "00:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 00:34",
+    "expiresAt": "2026-08-28 00:57",
     "items": [
       {
         "channel": "iranintl",
@@ -1022,14 +1022,21 @@
         "text": "Shayan Samiei stated that the US mine-clearing operation in the Strait of Hormuz has ended. Trump's threat to destroy mine-laying vessels indicates Washington's effort to control international waters. The goal is to establish a security regime managed by the US in the Strait of Hormuz.",
         "time": "00:33",
         "ts": 1787704433
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Syrian Foreign Ministry condemned the entry of Israeli Defense Minister Yisrael Katz into Syrian territory as a violation of sovereignty and international laws. Damascus called on the international community to act to stop these violations and urged Israeli forces to withdraw and return to the separation line. Katz stated that the Israeli army will not withdraw from the area as long as jihadist threats continue.",
+        "time": "00:56",
+        "ts": 1787705793
       }
     ],
     "language": "en",
-    "packId": "20260826-02",
-    "sequence": 2,
+    "packId": "20260826-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:34"
+    "updatedAt": "00:57"
   },
   "verified": true
 }
