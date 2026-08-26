@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-127 seq=127 exp=1787959328",
+      "advancedStatus": "pack_id=20260826-128 seq=128 exp=1787959799",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:22",
+      "lastChecked": "23:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 23:22",
+    "expiresAt": "2026-08-28 23:29",
     "items": [
       {
         "channel": "iranintl",
@@ -938,14 +938,21 @@
         "text": "Anna Kelly, the principal deputy White House spokesperson, stated that there are no ongoing or planned negotiations with the Islamic Republic. Donald Trump also said there is no specific timeline for resuming talks and he is in no hurry. Trump added that both military attacks and economic pressure by the US against the Islamic Republic have been effective.",
         "time": "23:21",
         "ts": 1787786496
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Bloomberg reported, citing officials, that a number of US allies believe the Strait of Hormuz has not yet been fully demined. These sources estimated the number of mines laid by the Islamic Republic at around 80 to 150, but the exact number of remaining mines is unknown. This assessment contradicts statements by Donald Trump about the waterway's clearance.",
+        "time": "23:29",
+        "ts": 1787786966
       }
     ],
     "language": "en",
-    "packId": "20260826-127",
-    "sequence": 127,
+    "packId": "20260826-128",
+    "sequence": 128,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:22"
+    "updatedAt": "23:29"
   },
   "verified": true
 }
