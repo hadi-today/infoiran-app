@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-54 seq=54 exp=1787918789",
+      "advancedStatus": "pack_id=20260826-56 seq=56 exp=1787921110",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:06",
+      "lastChecked": "12:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 12:06",
+    "expiresAt": "2026-08-28 12:45",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen reported in a video to Iran International that they paid 650,000 tomans for one and a half kilograms of fruit. The report highlights severe inflation in Iran. The issue of fruit price increases has been noted.",
-        "time": "12:32",
-        "ts": 1787661141
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Roberto Piazza, the Italian head coach of Iran's national volleyball team, announced the team's readiness for the Asian Championship and the four-nation tournament in Russia. He confirmed the policy of youth promotion and team renewal, aiming to qualify for the 2028 Los Angeles Olympics. Piazza also denied rumors about his retirement and explained his delay due to special circumstances and embassy advice.",
-        "time": "12:33",
-        "ts": 1787661216
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1001,14 +987,28 @@
         "text": "Hossein Mohibi, spokesperson for the IRGC, stated that the Strait of Hormuz will not be opened unless the US accepts Iran's conditions. He mentioned negotiations with Oman regarding the share of the two countries in the waters of the strait and said US interference delayed the implementation of agreements. He also emphasized that the Strait of Hormuz and the nearby waterway near Oman are under Iran's control.",
         "time": "12:05",
         "ts": 1787745956
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Seyed Ahmad Seyed Abdollahi, a political prisoner, was granted a five-day leave from Borujen prison on Tuesday, 3 Shahrivar 1405. The indictment for his case, accusing him of propaganda against the Islamic Republic, was issued and sent to the Borujen Revolutionary Court. Evidence extracted from his mobile phone was cited as part of the charges.",
+        "time": "12:16",
+        "ts": 1787746584
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Snap drivers in Tehran face reduced fuel quotas and a sharp increase in fares. Motorcycle fuel quotas have decreased from 25 to 15 liters, and gas stations are either closed or crowded. Additionally, GPS systems have been disrupted since Saturday, making work difficult for drivers.",
+        "time": "12:44",
+        "ts": 1787748257
       }
     ],
     "language": "en",
-    "packId": "20260826-54",
-    "sequence": 54,
+    "packId": "20260826-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:06"
+    "updatedAt": "12:45"
   },
   "verified": true
 }
