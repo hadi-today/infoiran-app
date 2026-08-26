@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-57 seq=57 exp=1787921506",
+      "advancedStatus": "pack_id=20260826-58 seq=58 exp=1787921927",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:51",
+      "lastChecked": "12:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 12:51",
+    "expiresAt": "2026-08-28 12:58",
     "items": [
       {
         "channel": "iranintl",
@@ -1001,14 +1001,21 @@
         "text": "The withdrawal from Iran's strategic fuel reserves has reached a red alert stage and may be depleted within weeks. This issue has caused a dispute between Masoud Pezeshkian's government and the Revolutionary Guards. The Guards oppose unlimited withdrawal, but the government wants to continue withdrawing.",
         "time": "12:51",
         "ts": 1787748663
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Ebrahimi, arrested during the January 2026 protests, was sentenced to 15 years in prison by the appeals court. He was arrested in early February 2026 in Tehran. His previous 20-year sentence was reduced after the appeal.",
+        "time": "12:58",
+        "ts": 1787749086
       }
     ],
     "language": "en",
-    "packId": "20260826-57",
-    "sequence": 57,
+    "packId": "20260826-58",
+    "sequence": 58,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:51"
+    "updatedAt": "12:58"
   },
   "verified": true
 }
