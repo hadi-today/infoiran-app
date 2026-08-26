@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-23 seq=23 exp=1787902843",
+      "advancedStatus": "pack_id=20260826-24 seq=24 exp=1787903679",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:40",
+      "lastChecked": "07:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 07:40",
+    "expiresAt": "2026-08-28 07:54",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Israeli Prime Minister claimed that the Islamic Republic tried to kill one of his two sons. He said that if his family were not under security protection, the perpetrators could have succeeded. These statements were made in defense of extending Shin Bet protection for his wife and children.",
-        "time": "07:53",
-        "ts": 1787644431
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -994,14 +987,21 @@
         "text": "John Ratcliffe, the CIA director, has traveled to Russia. This trip occurred amid serious tensions between the US and Russia. It is likely that topics such as the Ukraine war, Middle East developments, and the Islamic Republic dossier were discussed.",
         "time": "07:40",
         "ts": 1787730013
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A 19-year-old resident of Karaj was shot with a live bullet while helping an injured protester during the December 2025 protests and suffered severe injury to his left knee. After about a month and a half of treatment and several surgeries, part of his leg was amputated. He is now facing financial difficulties to cover treatment and prosthetic costs.",
+        "time": "07:54",
+        "ts": 1787730848
       }
     ],
     "language": "en",
-    "packId": "20260826-23",
-    "sequence": 23,
+    "packId": "20260826-24",
+    "sequence": 24,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:40"
+    "updatedAt": "07:54"
   },
   "verified": true
 }
