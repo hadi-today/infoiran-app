@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-08 seq=8 exp=1787893112",
+      "advancedStatus": "pack_id=20260826-09 seq=9 exp=1787893214",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:58",
+      "lastChecked": "05:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 04:58",
+    "expiresAt": "2026-08-28 05:00",
     "items": [
       {
         "channel": "iranintl",
@@ -1015,14 +1015,21 @@
         "text": "Italian media reported on the fall of the rial's value and the rise in essential goods prices in Iran. Corriere della Sera wrote that economic pressure has forced many Iranian households to remove meat and some other items from their tables. The report was prepared by Sadaf Baghbani from Iran International.",
         "time": "04:58",
         "ts": 1787720289
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Marco Rubio stated that the US currently does not intend to start a new round of military attacks against the Islamic Republic. The Trump administration is focusing on increasing economic pressure, naval blockade, and new sanctions. This information was reported by Iran International.",
+        "time": "04:59",
+        "ts": 1787720394
       }
     ],
     "language": "en",
-    "packId": "20260826-08",
-    "sequence": 8,
+    "packId": "20260826-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:58"
+    "updatedAt": "05:00"
   },
   "verified": true
 }
