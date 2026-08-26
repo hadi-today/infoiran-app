@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-58 seq=58 exp=1787921927",
+      "advancedStatus": "pack_id=20260826-59 seq=59 exp=1787922397",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:58",
+      "lastChecked": "13:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 12:58",
+    "expiresAt": "2026-08-28 13:06",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Abbas Araghchi, Iran's Foreign Minister, welcomed Badr Al-Busaidi, Oman's Foreign Minister, in Tehran. This meeting was part of ongoing diplomatic consultations between Iran and Oman.",
-        "time": "12:58",
-        "ts": 1787662723
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1008,14 +1001,28 @@
         "text": "Mohammad Ebrahimi, arrested during the January 2026 protests, was sentenced to 15 years in prison by the appeals court. He was arrested in early February 2026 in Tehran. His previous 20-year sentence was reduced after the appeal.",
         "time": "12:58",
         "ts": 1787749086
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Ahmad Keyshams, a citizen from Izeh, has been held in Sheiban prison in Ahvaz for over 9 months with an unclear judicial status. He suffers from kidney disease and vision problems but has been deprived of proper medical care. No court session has been held to address his charges so far.",
+        "time": "13:05",
+        "ts": 1787749557
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen told Iran International in a video that the price of several food items has reached about five million tomans. This occurred on the eve of the fifth decade of the Islamic Republic's rule.",
+        "time": "13:06",
+        "ts": 1787749574
       }
     ],
     "language": "en",
-    "packId": "20260826-58",
-    "sequence": 58,
+    "packId": "20260826-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:58"
+    "updatedAt": "13:06"
   },
   "verified": true
 }
