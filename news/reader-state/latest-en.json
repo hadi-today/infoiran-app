@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-36 seq=36 exp=1787908338",
+      "advancedStatus": "pack_id=20260826-37 seq=37 exp=1787908458",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:12",
+      "lastChecked": "09:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 09:12",
+    "expiresAt": "2026-08-28 09:14",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The CEO of Total stated that despite tensions in the Strait of Hormuz, transporting crude oil through this route is significantly profitable. He added that sellers' discounts offset transportation costs. These remarks were made in an interview with an Iran International reporter.",
-        "time": "09:12",
-        "ts": 1787649159
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1015,14 +1008,28 @@
         "text": "The Israeli Prime Minister said he discussed three options with Trump regarding the Islamic Republic: reaching an agreement, military action, or intensifying the blockade. He believes reaching an agreement with the current Iranian government is impossible and Israel is prepared for a severe defense if attacked. Trump has also increased pressure on those aiding the Iranian government.",
         "time": "09:11",
         "ts": 1787735508
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Dabir, head of the Wrestling Federation, stated that due to visa issues, the Iranian national wrestling team might not be sent to the World Junior Championships in the USA. He said if the US denies a visa to any team member, the team will not be sent.",
+        "time": "09:12",
+        "ts": 1787735555
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Newsmax reported that Yair Netanyahu was targeted in an assassination plot in Miami. Israeli intelligence identified an Iranian group monitoring his residence and daily routine. After the threat was discovered, Yair Netanyahu and his guards were ordered to leave Miami immediately.",
+        "time": "09:12",
+        "ts": 1787735561
       }
     ],
     "language": "en",
-    "packId": "20260826-36",
-    "sequence": 36,
+    "packId": "20260826-37",
+    "sequence": 37,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:12"
+    "updatedAt": "09:14"
   },
   "verified": true
 }
