@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-85 seq=85 exp=1787935493",
+      "advancedStatus": "pack_id=20260826-86 seq=86 exp=1787936061",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:44",
+      "lastChecked": "16:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 16:44",
+    "expiresAt": "2026-08-28 16:54",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Scott Bessent, US Treasury Secretary, said Iranian leaders are admitting that pressure is working. He quoted President Masoud Pezeshkian as saying war must end at some point, and Parliament Speaker Mohammad Bagher Ghalibaf as saying that without economic growth, military power cannot be sustained. Bessent stressed that under Trump, the Treasury will continue to cut off economic lifelines until Tehran is isolated.",
-        "time": "16:45",
-        "ts": 1787676328
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "US Treasury Secretary Scott Bessent said statements by Islamic Republic officials show that economic pressure on Tehran is taking effect. He pointed to remarks by Masoud Pezeshkian about economic shortages and the need to end the war, as well as statements by Mohammad Bagher Ghalibaf. Bessent stressed that the US Treasury will continue to cut off any economic lifeline keeping the Islamic Republic afloat so that Tehran is left alone.",
-        "time": "16:46",
-        "ts": 1787676401
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -959,14 +945,21 @@
         "text": "The spokesperson of the Revolutionary Guards stated that Iran and Oman have reached preliminary agreements on their share of the waters and revenues of the Strait of Hormuz after one month of negotiations. He said the Strait of Hormuz and the waterway near Oman are now under the control of the Islamic Republic. The United States was also accused of obstructing the negotiation process.",
         "time": "16:44",
         "ts": 1787762650
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Security forces prevented the anniversary ceremony of Aref Mirmousavi in his hometown, Dehshal. His family was given a written commitment not to attend the ceremony. Several family members were injured during the prevention of people's attendance.",
+        "time": "16:53",
+        "ts": 1787763217
       }
     ],
     "language": "en",
-    "packId": "20260826-85",
-    "sequence": 85,
+    "packId": "20260826-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:44"
+    "updatedAt": "16:54"
   },
   "verified": true
 }
