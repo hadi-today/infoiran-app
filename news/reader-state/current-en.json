@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-79 seq=79 exp=1787932148",
+      "advancedStatus": "pack_id=20260826-80 seq=80 exp=1787932340",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:49",
+      "lastChecked": "15:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 15:49",
+    "expiresAt": "2026-08-28 15:52",
     "items": [
       {
         "channel": "harana",
@@ -959,14 +959,21 @@
         "text": "UEFA intends to withdraw its threat to boycott FIFA competitions after receiving guarantees that the plan to sell World Cup shares will not be repeated. Previously, 55 European countries had agreed to boycott these competitions. However, UEFA plans to intensify actions against Gianni Infantino due to this plan.",
         "time": "15:48",
         "ts": 1787759307
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Minister of Communications stated that the filtering issue must be closed in the country. He warned that the use of VPNs causes significant damage and reduces internet quality. He also emphasized that governance in cyberspace cannot be achieved solely through technical means and that people will become dissatisfied.",
+        "time": "15:51",
+        "ts": 1787759501
       }
     ],
     "language": "en",
-    "packId": "20260826-79",
-    "sequence": 79,
+    "packId": "20260826-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:49"
+    "updatedAt": "15:52"
   },
   "verified": true
 }
