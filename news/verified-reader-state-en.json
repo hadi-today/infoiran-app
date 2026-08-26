@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-83 seq=83 exp=1787933801",
+      "advancedStatus": "pack_id=20260826-84 seq=84 exp=1787934706",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:16",
+      "lastChecked": "16:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 16:16",
+    "expiresAt": "2026-08-28 16:31",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US Treasury Department has sanctioned the Singaporean company Welbred Capital and its affiliates in the UAE, Switzerland, and France. Washington claims this network is linked to Mohammad Hossein Shamkhani and transports Iranian and Russian oil to global markets. Additionally, an Italian newspaper reported on the fall of the rial's value and the economic crisis's impact on daily life in Iran.",
-        "time": "16:21",
-        "ts": 1787674919
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Several fuel stations in Tehran have been closed due to a sudden increase in demand. The manager of the National Iranian Oil Products Distribution Company cited delays in deliveries and fuel shortages at some stations as the cause. Gasoline distribution in Tehran has increased by 30%, and fuel supply continues to be stable.",
-        "time": "16:30",
-        "ts": 1787675407
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -966,14 +952,21 @@
         "text": "The head of the Atomic Energy Organization stated that until inspection protocols for sites attacked militarily are established, the IAEA cannot claim inspections. He emphasized that the agency must clarify its stance on site security. He also mentioned that the US and Israel are pressuring the agency to inspect the damaged sites.",
         "time": "16:15",
         "ts": 1787760939
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Videos sent to Iran International show that the historic Municipality Square in Rasht has been occupied with government banners. These videos are from Wednesday, the 4th of Shahrivar. This issue was reported by Iran International.",
+        "time": "16:30",
+        "ts": 1787761851
       }
     ],
     "language": "en",
-    "packId": "20260826-83",
-    "sequence": 83,
+    "packId": "20260826-84",
+    "sequence": 84,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:16"
+    "updatedAt": "16:31"
   },
   "verified": true
 }
