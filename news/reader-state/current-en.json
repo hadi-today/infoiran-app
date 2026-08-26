@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-106 seq=106 exp=1787944280",
+      "advancedStatus": "pack_id=20260826-107 seq=107 exp=1787944611",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:11",
+      "lastChecked": "19:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 19:11",
+    "expiresAt": "2026-08-28 19:16",
     "items": [
       {
         "channel": "harana",
@@ -931,14 +931,21 @@
         "text": "People in various Iranian cities face long gasoline lines and severe economic problems. Education and living costs have risen sharply, causing public concern about the future. Some banks delay returning unauthorized withdrawals.",
         "time": "19:10",
         "ts": 1787771453
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Madineh Shahnavazi, a Sunni prisoner, has been held in Kerman prison for over 28 months without a clear case status. She was arrested in spring 1403 (2024) and her case is still under investigation in the prosecutor's office. No hearing has been held for her case yet.",
+        "time": "19:16",
+        "ts": 1787771782
       }
     ],
     "language": "en",
-    "packId": "20260826-106",
-    "sequence": 106,
+    "packId": "20260826-107",
+    "sequence": 107,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:11"
+    "updatedAt": "19:16"
   },
   "verified": true
 }
