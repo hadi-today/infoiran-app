@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-119 seq=119 exp=1787954995",
+      "advancedStatus": "pack_id=20260826-120 seq=120 exp=1787955131",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:09",
+      "lastChecked": "22:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 22:09",
+    "expiresAt": "2026-08-28 22:12",
     "items": [
       {
         "channel": "iranintl",
@@ -903,14 +903,28 @@
         "text": "Qalibaf stated that talking with Washington is not taboo amid tensions at the highest levels of government over negotiations with the US. He defended negotiating with the United States.",
         "time": "22:09",
         "ts": 1787782157
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Zakani, the mayor of Tehran, announced the construction of three stadiums with capacities between 40,000 and 60,000 in Tehran. He also requested that the renovation of the Azadi Stadium be assigned to the municipality. The Minister of Sports stated that building large stadiums is not currently a government priority, but acknowledged the municipality's efforts.",
+        "time": "22:10",
+        "ts": 1787782200
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Minister of Communications admitted that about 100,000 Starlink devices have entered Iran. He acknowledged that the government has failed to prevent people's access to social networks. He also said that the expansion of satellite internet will further reduce the Islamic Republic's control over the communication space.",
+        "time": "22:11",
+        "ts": 1787782317
       }
     ],
     "language": "en",
-    "packId": "20260826-119",
-    "sequence": 119,
+    "packId": "20260826-120",
+    "sequence": 120,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:09"
+    "updatedAt": "22:12"
   },
   "verified": true
 }
