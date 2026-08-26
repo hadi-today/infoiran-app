@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260826-37 seq=37 exp=1787908458",
+      "advancedStatus": "pack_id=20260826-38 seq=38 exp=1787908578",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:14",
+      "lastChecked": "09:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-26",
-    "expiresAt": "2026-08-28 09:14",
+    "expiresAt": "2026-08-28 09:16",
     "items": [
       {
         "channel": "iranintl",
@@ -1022,14 +1022,21 @@
         "text": "Newsmax reported that Yair Netanyahu was targeted in an assassination plot in Miami. Israeli intelligence identified an Iranian group monitoring his residence and daily routine. After the threat was discovered, Yair Netanyahu and his guards were ordered to leave Miami immediately.",
         "time": "09:12",
         "ts": 1787735561
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Parents complain about the soaring school expenses. Students have also expressed concerns about increased dormitory fees and financial pressures. Reports of educational space shortages in some cities have been received.",
+        "time": "09:14",
+        "ts": 1787735679
       }
     ],
     "language": "en",
-    "packId": "20260826-37",
-    "sequence": 37,
+    "packId": "20260826-38",
+    "sequence": 38,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:14"
+    "updatedAt": "09:16"
   },
   "verified": true
 }
