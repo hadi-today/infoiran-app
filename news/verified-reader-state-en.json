@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-120 seq=120 exp=1788044966",
+      "advancedStatus": "pack_id=20260827-121 seq=121 exp=1788046503",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:09",
+      "lastChecked": "23:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 23:09",
+    "expiresAt": "2026-08-29 23:35",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Anna Kelly, the principal deputy White House spokesperson, stated that there are no ongoing or planned negotiations with the Islamic Republic. Donald Trump also said there is no specific timeline for resuming talks and he is in no hurry. Trump added that both military attacks and economic pressure by the US against the Islamic Republic have been effective.",
-        "time": "23:21",
-        "ts": 1787786496
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Bloomberg reported, citing officials, that a number of US allies believe the Strait of Hormuz has not yet been fully demined. These sources estimated the number of mines laid by the Islamic Republic at around 80 to 150, but the exact number of remaining mines is unknown. This assessment contradicts statements by Donald Trump about the waterway's clearance.",
-        "time": "23:29",
-        "ts": 1787786966
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -896,14 +882,21 @@
         "text": "Alireza Nourizadeh said Qatar and Oman are trying to prevent the escalation of the crisis, but US economic pressures limit these efforts. The Trump administration believes that a compromise with the Islamic Republic will not be sustainable. Internal conflicts in the Islamic Republic have also intensified due to the absence of Mojtaba Khamenei.",
         "time": "23:08",
         "ts": 1787872139
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump criticized Fox News' report about the Islamic Republic as particularly false and claimed that Iranian officials want to negotiate with the US. He said he does not want to meet them, but they are begging for a deal. Trump also described Iran as a country in collapse.",
+        "time": "23:34",
+        "ts": 1787873669
       }
     ],
     "language": "en",
-    "packId": "20260827-120",
-    "sequence": 120,
+    "packId": "20260827-121",
+    "sequence": 121,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:09"
+    "updatedAt": "23:35"
   },
   "verified": true
 }
