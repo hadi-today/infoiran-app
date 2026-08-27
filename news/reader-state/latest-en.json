@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-85 seq=85 exp=1788024494",
+      "advancedStatus": "pack_id=20260827-86 seq=86 exp=1788025191",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:28",
+      "lastChecked": "17:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 17:28",
+    "expiresAt": "2026-08-29 17:39",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "On Tuesday, 24 August, the home of Keyhan and Fereshteh Atefi, a Baha'i couple in Isfahan, was searched by intelligence officers. During the search, several personal belongings, a car, and assets of the couple were confiscated. The confiscated items included a television, vacuum cleaner, toolbox, car, gold, valuable objects, communication devices, and the grandchild's toys.",
-        "time": "17:29",
-        "ts": 1787765396
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A tornado formed on Monday, August 24, in southern Carcassonne, France. The tornado reached the Puma area around 5 PM, injuring at least 26 people and causing power outages for about 2800 households. The French meteorological organization had previously issued a thunderstorm warning.",
-        "time": "17:34",
-        "ts": 1787765640
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +896,21 @@
         "text": "On the morning of Wednesday, 5 Shahrivar, part of a glacier in the Himalayas collapsed, causing a deadly flood. The incident resulted in at least 165 deaths and over a thousand missing people. Scientists are still investigating the exact cause of this disaster.",
         "time": "17:27",
         "ts": 1787851668
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "In a village in Sabzevar, Khorasan Razavi, citizens have written protest slogans and support for the Pahlavi family on the walls. This was reported through videos sent to Iran International.",
+        "time": "17:39",
+        "ts": 1787852361
       }
     ],
     "language": "en",
-    "packId": "20260827-85",
-    "sequence": 85,
+    "packId": "20260827-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:28"
+    "updatedAt": "17:39"
   },
   "verified": true
 }
