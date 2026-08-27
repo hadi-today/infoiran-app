@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-64 seq=64 exp=1788012387",
+      "advancedStatus": "pack_id=20260827-65 seq=65 exp=1788012598",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:06",
+      "lastChecked": "14:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 14:06",
+    "expiresAt": "2026-08-29 14:09",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Abolfazl Shekarchi called Persian-language media outside the country enemies, including Iran International, BBC, and Radio Farda. He stated that these media and their activists can be placed in the military target bank. He also emphasized that these media are not considered media by the armed forces.",
-        "time": "14:06",
-        "ts": 1787753172
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +910,21 @@
         "text": "A citizen criticized the high cost of medicine in a video sent to Iran International. He said the treatment cost for a simple cold is nearly three million tomans. This issue highlights patients' concerns.",
         "time": "14:05",
         "ts": 1787839502
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ebrahim Azizi, head of the National Security Commission of the Parliament, stated that any dialogue must be conducted from a position of strength and with acceptance of the realities on the ground. He emphasized that the confrontation with the enemy is not only military but also includes economic, cultural, social, media, diplomatic, and psychological arenas.",
+        "time": "14:09",
+        "ts": 1787839754
       }
     ],
     "language": "en",
-    "packId": "20260827-64",
-    "sequence": 64,
+    "packId": "20260827-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:06"
+    "updatedAt": "14:09"
   },
   "verified": true
 }
