@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-98 seq=98 exp=1788031894",
+      "advancedStatus": "pack_id=20260827-99 seq=99 exp=1788032082",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:31",
+      "lastChecked": "19:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 19:31",
+    "expiresAt": "2026-08-29 19:34",
     "items": [
       {
         "channel": "iranintl",
@@ -875,14 +875,21 @@
         "text": "The Intelligence Organization of the IRGC warned about increasing social dissatisfaction and the possibility of street protests. It claimed that the opponents of the Islamic Republic have changed their strategy to activating internal crises and psychological warfare. It also alleged the identification of a secret Mossad structure operating inside Iran.",
         "time": "19:31",
         "ts": 1787859068
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Donald Trump signed an executive order to change the name of Lake Ontario to Lake America. This decision was made following trade tensions between the US and Canada. Canadian officials have stated they will not recognize this name change.",
+        "time": "19:34",
+        "ts": 1787859259
       }
     ],
     "language": "en",
-    "packId": "20260827-98",
-    "sequence": 98,
+    "packId": "20260827-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:31"
+    "updatedAt": "19:34"
   },
   "verified": true
 }
