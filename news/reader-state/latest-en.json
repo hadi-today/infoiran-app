@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-101 seq=101 exp=1788032356",
+      "advancedStatus": "pack_id=20260827-102 seq=102 exp=1788032453",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:39",
+      "lastChecked": "19:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 19:39",
+    "expiresAt": "2026-08-29 19:40",
     "items": [
       {
         "channel": "iranintl",
@@ -896,14 +896,21 @@
         "text": "The Trump administration has stated it does not wish to return to the terms of the initial June agreement with the Islamic Republic. This stance has hindered efforts by Qatar, Oman, and Pakistan to revive negotiations between Washington and Tehran. The White House has announced that no negotiations with the Islamic Republic are underway and that the naval blockade and economic exclusion operations will continue.",
         "time": "19:38",
         "ts": 1787859535
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohsen Rezaei stated that if the blockade continues, the economic interests of the United States will be targeted 100%. He said that if fighting resumes, future wars will be different. Rezaei also announced the breaking of the naval blockade and the return of oil sales to pre-sanction levels.",
+        "time": "19:40",
+        "ts": 1787859625
       }
     ],
     "language": "en",
-    "packId": "20260827-101",
-    "sequence": 101,
+    "packId": "20260827-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:39"
+    "updatedAt": "19:40"
   },
   "verified": true
 }
