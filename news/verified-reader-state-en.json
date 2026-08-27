@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-09 seq=9 exp=1787982506",
+      "advancedStatus": "pack_id=20260827-10 seq=10 exp=1787982998",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:48",
+      "lastChecked": "05:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 05:48",
+    "expiresAt": "2026-08-29 05:56",
     "items": [
       {
         "channel": "iranintl",
@@ -882,14 +882,21 @@
         "text": "Arash Yazdani Hemmatabadi was shot by Khamenei's forces on January 8th at Haft-Hovz Square in Tehran. This event is recorded in the context of the Iranian National Revolution. His memory remains a guiding light for freedom seekers.",
         "time": "05:47",
         "ts": 1787809667
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shahram Khaledi said that Donald Trump's strategic ambiguity allowed him to shift the playing field against the Islamic Republic. He used military, economic, and diplomatic tools to increase the cost of the regime's survival. This is an analysis of Trump's policy towards Iran.",
+        "time": "05:56",
+        "ts": 1787810174
       }
     ],
     "language": "en",
-    "packId": "20260827-09",
-    "sequence": 9,
+    "packId": "20260827-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:48"
+    "updatedAt": "05:56"
   },
   "verified": true
 }
