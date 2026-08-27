@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-121 seq=121 exp=1788046503",
+      "advancedStatus": "pack_id=20260827-122 seq=122 exp=1788046899",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:35",
+      "lastChecked": "23:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 23:35",
+    "expiresAt": "2026-08-29 23:41",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Scott Perry, a Republican member of the US House of Representatives, said the Islamic Republic should not be allowed to obtain nuclear weapons. He added that Donald Trump seeks to end the conflict quickly. These remarks follow the Trump administration's stance on Iran's nuclear program.",
-        "time": "23:37",
-        "ts": 1787787459
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "Donald Trump criticized Fox News' report about the Islamic Republic as particularly false and claimed that Iranian officials want to negotiate with the US. He said he does not want to meet them, but they are begging for a deal. Trump also described Iran as a country in collapse.",
         "time": "23:34",
         "ts": 1787873669
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Turkish foreign minister welcomed the dissolution of the Syrian Democratic Forces and their integration into the Syrian army. He emphasized that Ankara will closely monitor the implementation of this decision. This report was provided by Narges Horkhsh from Iran International.",
+        "time": "23:41",
+        "ts": 1787874067
       }
     ],
     "language": "en",
-    "packId": "20260827-121",
-    "sequence": 121,
+    "packId": "20260827-122",
+    "sequence": 122,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:35"
+    "updatedAt": "23:41"
   },
   "verified": true
 }
