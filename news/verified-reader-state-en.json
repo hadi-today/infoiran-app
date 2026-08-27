@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-13 seq=13 exp=1787985189",
+      "advancedStatus": "pack_id=20260827-14 seq=14 exp=1787985594",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:33",
+      "lastChecked": "06:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 06:33",
+    "expiresAt": "2026-08-29 06:39",
     "items": [
       {
         "channel": "iranintl",
@@ -896,14 +896,21 @@
         "text": "Mehdi Beigi from Iran International reported that the IRGC opposes the government's unlimited withdrawal from strategic gasoline reserves. The government has made contradictory statements about fuel status, with a daily gasoline deficit of about 15 million liters. The reserves may run out in a few weeks, and the government is considering options such as limiting supply and raising prices.",
         "time": "06:32",
         "ts": 1787812367
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "US lawmakers from both parties have asked the Trump administration to sanction Chinese banks facilitating Iran's oil trade. Beijing called these pressures illegal and warned of retaliatory measures. These tensions have increased ahead of the US-China presidential meeting.",
+        "time": "06:39",
+        "ts": 1787812770
       }
     ],
     "language": "en",
-    "packId": "20260827-13",
-    "sequence": 13,
+    "packId": "20260827-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:33"
+    "updatedAt": "06:39"
   },
   "verified": true
 }
