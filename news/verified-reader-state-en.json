@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-23 seq=23 exp=1787991930",
+      "advancedStatus": "pack_id=20260827-24 seq=24 exp=1787992284",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:25",
+      "lastChecked": "08:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 08:25",
+    "expiresAt": "2026-08-29 08:31",
     "items": [
       {
         "channel": "harana",
@@ -896,14 +896,21 @@
         "text": "An eyewitness reported that some gas stations in the capital are out of gasoline and people are told there is no fuel. However, vehicles and motorcycles of the special unit easily refuel at Takhti gas station. This situation has also been observed in the Hijrat highway area.",
         "time": "08:24",
         "ts": 1787819086
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The CEO of Golestan Water and Wastewater Company announced that 257 villages are supplied with water by tanker continuously or during water stress periods. Out of 30 tankers, 25 are over 21 years old. An emergency water supply plan requires 1,336 billion tomans in funding.",
+        "time": "08:30",
+        "ts": 1787819439
       }
     ],
     "language": "en",
-    "packId": "20260827-23",
-    "sequence": 23,
+    "packId": "20260827-24",
+    "sequence": 24,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:25"
+    "updatedAt": "08:31"
   },
   "verified": true
 }
