@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-91 seq=91 exp=1788029372",
+      "advancedStatus": "pack_id=20260827-92 seq=92 exp=1788029456",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:49",
+      "lastChecked": "18:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 18:49",
+    "expiresAt": "2026-08-29 18:50",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,21 @@
         "text": "The family of Lindsay and Craig Foreman has asked the British government to arrange consular visits and check their health status. Despite the return of British embassy staff to Tehran, no consular meeting has taken place yet. Joe Bennet was able to speak with his mother by phone for the first time in three months.",
         "time": "18:49",
         "ts": 1787856549
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A US source stated that any agreement between the Islamic Republic and Oman is not important to Washington. It was also said that the Strait of Hormuz is open and mines have been cleared. Currently, no negotiations with Tehran are ongoing or planned.",
+        "time": "18:50",
+        "ts": 1787856633
       }
     ],
     "language": "en",
-    "packId": "20260827-91",
-    "sequence": 91,
+    "packId": "20260827-92",
+    "sequence": 92,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:49"
+    "updatedAt": "18:50"
   },
   "verified": true
 }
