@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-38 seq=38 exp=1788000134",
+      "advancedStatus": "pack_id=20260827-39 seq=39 exp=1788000626",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:42",
+      "lastChecked": "10:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 10:42",
+    "expiresAt": "2026-08-29 10:50",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "ISNA news agency reported that Hadi Choopan has missed the 2026 Mr. Olympia competition due to visa issues. Choopan intended to visit the US embassy in the UAE for a visa interview, but was unable to do so because the UAE denied him entry.",
-        "time": "10:48",
-        "ts": 1787741312
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -875,14 +868,21 @@
         "text": "Abdollah Naseri wrote a letter calling Mojtaba Khamenei the probable leader of the Islamic Republic and emphasized the need to transition from the religious government. Morteza Kazemian pointed to doubts about Mojtaba Khamenei's condition and the possibility of the Revolutionary Guards controlling the leadership. The letter raises concerns about the future of leadership and the system of velayat-e faqih.",
         "time": "10:41",
         "ts": 1787827299
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Football360 published a video of a southern fan who was prevented from entering the Sirous Ghayegharan Stadium in Anzali because he was wearing shorts. The fan ultimately had to change his clothes to watch the match between Malavan and Fajr Sepasi.",
+        "time": "10:50",
+        "ts": 1787827801
       }
     ],
     "language": "en",
-    "packId": "20260827-38",
-    "sequence": 38,
+    "packId": "20260827-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:42"
+    "updatedAt": "10:50"
   },
   "verified": true
 }
