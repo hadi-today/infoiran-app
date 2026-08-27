@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-07 seq=7 exp=1787980902",
+      "advancedStatus": "pack_id=20260827-08 seq=8 exp=1787981223",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:21",
+      "lastChecked": "05:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 05:21",
+    "expiresAt": "2026-08-29 05:27",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Farzin Nadimi stated that the newly identified section of the Natanz facility indicates the Islamic Republic's plan to rapidly expand enrichment capacity. The facility, with its strong structures, can be used to store materials related to enrichment. If restrictions are lifted, rapid development of the enrichment program will be possible.",
-        "time": "05:23",
-        "ts": 1787721783
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Abbas Aliabadi, the Minister of Energy, stated that government-supplied electricity encourages increased consumption and many people pay very little for electricity. He emphasized that people should consider electricity a valuable commodity and be careful in saving it. He also announced that the country is prepared for difficult days and threats.",
-        "time": "05:24",
-        "ts": 1787721873
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -896,14 +882,21 @@
         "text": "Kayhan newspaper wrote that the steadfastness of the Iranian people and armed forces has caused the White House to return to the cycle of sanctions. Kayhan stated that Tehran is changing the rules of the game and will target US positions in the region. The newspaper warned that if sanctions continue, the US must bear the heavy costs of insecurity in the region.",
         "time": "05:21",
         "ts": 1787808067
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehrdad Ghasemfar commented on Trump's statements about Mojtaba Khamenei's health, saying the main issue is his ability to lead the Islamic Republic. He added that if Mojtaba Khamenei cannot play the role of arbitrator for Ali Khamenei, the Islamic Republic will face a serious existential crisis.",
+        "time": "05:26",
+        "ts": 1787808391
       }
     ],
     "language": "en",
-    "packId": "20260827-07",
-    "sequence": 7,
+    "packId": "20260827-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:21"
+    "updatedAt": "05:27"
   },
   "verified": true
 }
