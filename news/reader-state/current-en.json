@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-27 seq=27 exp=1787994020",
+      "advancedStatus": "pack_id=20260827-28 seq=28 exp=1787994312",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:00",
+      "lastChecked": "09:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 09:00",
+    "expiresAt": "2026-08-29 09:05",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The disciplinary committee of Shiraz University has summoned about 20 students and opened disciplinary cases against them.",
-        "time": "09:03",
-        "ts": 1787735033
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "The director of education in Babol announced that 23 schools in the county are damaged and need reconstruction. Among them, 12 schools are in urban areas and 11 in rural areas. The extent of damage to these schools is estimated to be between 20 to 100 percent.",
         "time": "08:59",
         "ts": 1787821165
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen showed in a video to Iran International that he lit his house with candles and lanterns during a power outage. He compared the current situation to the \"Stone Age.\" The citizen held the Islamic Republic responsible for this situation.",
+        "time": "09:04",
+        "ts": 1787821471
       }
     ],
     "language": "en",
-    "packId": "20260827-27",
-    "sequence": 27,
+    "packId": "20260827-28",
+    "sequence": 28,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:00"
+    "updatedAt": "09:05"
   },
   "verified": true
 }
