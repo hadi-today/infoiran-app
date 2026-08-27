@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-109 seq=109 exp=1788037292",
+      "advancedStatus": "pack_id=20260827-110 seq=110 exp=1788038951",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:01",
+      "lastChecked": "21:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 21:01",
+    "expiresAt": "2026-08-29 21:29",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Real Madrid defeated Real Sociedad 4-1 in the postponed first week match of La Liga. Kylian Mbappe scored a hat-trick and Vinicius Junior scored one goal. Jude Bellingham provided two assists.",
-        "time": "21:07",
-        "ts": 1787778426
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Abolfazl Shekarchi, the spokesperson for the armed forces, called journalists and staff of Iran International, BBC, Manoto, and Radio Farda \"Zionist soldiers\" and \"soldiers of criminal America.\" He described these networks as hostile and warmongering and said the armed forces consider them in their military target bank. He also claimed these networks are directly connected to Mossad and the CIA and receive guidance from them.",
-        "time": "21:23",
-        "ts": 1787779414
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +903,21 @@
         "text": "Reports indicate that crude oil flow from the Strait of Hormuz has gradually increased, with Middle Eastern producers except Iran raising their exports. Donald Trump stated that 24 tankers passed through the Strait of Hormuz on Wednesday evening. This increase has helped contain prices, but transit through the strait remains risky.",
         "time": "21:01",
         "ts": 1787864463
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US State Department's \"Rewards for Justice\" program announced that it is still seeking information about Mohammad Bagher Shirinkar and Fatemeh Sedighian Kashi, two Iranian hackers linked to the \"Shahid Shoushtari\" group affiliated with the IRGC's Cyber-Electronic Command. The US had previously offered a reward of up to $10 million for information leading to the identification and location of these two individuals.",
+        "time": "21:28",
+        "ts": 1787866123
       }
     ],
     "language": "en",
-    "packId": "20260827-109",
-    "sequence": 109,
+    "packId": "20260827-110",
+    "sequence": 110,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:01"
+    "updatedAt": "21:29"
   },
   "verified": true
 }
