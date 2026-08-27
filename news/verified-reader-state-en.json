@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-104 seq=104 exp=1788034241",
+      "advancedStatus": "pack_id=20260827-105 seq=105 exp=1788034314",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:10",
+      "lastChecked": "20:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 20:10",
+    "expiresAt": "2026-08-29 20:11",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Bagher Ghalibaf defended dialogue with the United States. Masoud Pezeshkian referred to foreign interference and said the enemy wants to create discord among Islamic Republic officials. Donald Trump did not provide a specific timeline for resuming talks and is not in a hurry to restart negotiations.",
-        "time": "20:10",
-        "ts": 1787775025
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +903,28 @@
         "text": "Ahmad Donyamali stated that he is trying to create an opportunity for Chadormalu to represent Iran in the next season of the AFC Champions League. He mentioned that this issue is one of the reasons for his impeachment and emphasized not to accuse the Minister of Sports of corruption. Previously, the impeachment reasons included administrative corruption and poor international performance.",
         "time": "20:10",
         "ts": 1787861416
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Thomas Juneau stated that the Strait of Hormuz remains a major concern for the US and that the Islamic Republic can endure economic pressures in the short and medium term. He added that both sides are currently unwilling to resume direct war, but the situation is fragile. Despite damage to its military capabilities, the Islamic Republic still retains the ability to target the Strait of Hormuz and regional infrastructure.",
+        "time": "20:11",
+        "ts": 1787861462
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohsen Namjoo returned to Iran after about 29 years living abroad. He stated that he might resume his artistic activities and stage performances. The Minister of Culture also mentioned reviewing the possibility of the return of over 100 Iranian figures living abroad.",
+        "time": "20:11",
+        "ts": 1787861500
       }
     ],
     "language": "en",
-    "packId": "20260827-104",
-    "sequence": 104,
+    "packId": "20260827-105",
+    "sequence": 105,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:10"
+    "updatedAt": "20:11"
   },
   "verified": true
 }
