@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-95 seq=95 exp=1788030645",
+      "advancedStatus": "pack_id=20260827-96 seq=96 exp=1788031487",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:10",
+      "lastChecked": "19:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 19:10",
+    "expiresAt": "2026-08-29 19:24",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "People in various Iranian cities face long gasoline lines and severe economic problems. Education and living costs have risen sharply, causing public concern about the future. Some banks delay returning unauthorized withdrawals.",
-        "time": "19:10",
-        "ts": 1787771453
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Madineh Shahnavazi, a Sunni prisoner, has been held in Kerman prison for over 28 months without a clear case status. She was arrested in spring 1403 (2024) and her case is still under investigation in the prosecutor's office. No hearing has been held for her case yet.",
-        "time": "19:16",
-        "ts": 1787771782
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -868,14 +854,21 @@
         "text": "The VIP cafe in Tehran was closed by relevant authorities due to mandatory hijab issues. This action was reported by Harana News Agency. More details are provided in the continuation of the report.",
         "time": "19:10",
         "ts": 1787857819
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The 40th-day memorial ceremony for Aref Khoshkar was held in Behesht Zahra, Tehran, attended by his family and citizens. Aref Khoshkar was one of the detainees of the 2022 nationwide protests. He was executed in July of this year in Qezel Hesar prison in Karaj.",
+        "time": "19:24",
+        "ts": 1787858657
       }
     ],
     "language": "en",
-    "packId": "20260827-95",
-    "sequence": 95,
+    "packId": "20260827-96",
+    "sequence": 96,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:10"
+    "updatedAt": "19:24"
   },
   "verified": true
 }
