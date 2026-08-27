@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-04 seq=4 exp=1787972196",
+      "advancedStatus": "pack_id=20260827-05 seq=5 exp=1787973072",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:56",
+      "lastChecked": "03:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 02:56",
+    "expiresAt": "2026-08-29 03:11",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "Washington Stand, a conservative American media, analyzed threats by Barron Trump and an alleged attempt to kill one of Netanyahu's sons as reflecting the Islamic Republic's view of political leaders' families. It highlighted the role of family loyalty in the power structure of the Islamic Republic. The analysis also compared this with the influence of political families in the US.",
         "time": "02:56",
         "ts": 1787799363
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US Navy plans to deploy the aircraft carrier Theodore Roosevelt with five thousand crew members on a seven-month mission to the Middle East, which may extend to eight months. This carrier will replace the USS George Washington and will depart from San Diego. The average deployment duration of US aircraft carriers has increased to eight and a half months.",
+        "time": "03:10",
+        "ts": 1787800237
       }
     ],
     "language": "en",
-    "packId": "20260827-04",
-    "sequence": 4,
+    "packId": "20260827-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:56"
+    "updatedAt": "03:11"
   },
   "verified": true
 }
