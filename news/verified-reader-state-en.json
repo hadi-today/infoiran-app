@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-94 seq=94 exp=1788030529",
+      "advancedStatus": "pack_id=20260827-95 seq=95 exp=1788030645",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:08",
+      "lastChecked": "19:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 19:08",
+    "expiresAt": "2026-08-29 19:10",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "Abbas Araghchi stated that the Islamic Republic is sincerely implementing its commitments under the ceasefire agreement, but the US has disrupted the process by violating the agreement. He also said that the situation in the Strait of Hormuz cannot return to its state before March 2026 without considering the damages to Iran. These remarks were made during a meeting with his Qatari counterpart.",
         "time": "19:08",
         "ts": 1787857701
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The VIP cafe in Tehran was closed by relevant authorities due to mandatory hijab issues. This action was reported by Harana News Agency. More details are provided in the continuation of the report.",
+        "time": "19:10",
+        "ts": 1787857819
       }
     ],
     "language": "en",
-    "packId": "20260827-94",
-    "sequence": 94,
+    "packId": "20260827-95",
+    "sequence": 95,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:08"
+    "updatedAt": "19:10"
   },
   "verified": true
 }
