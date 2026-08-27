@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-02 seq=2 exp=1787963199",
+      "advancedStatus": "pack_id=20260827-03 seq=3 exp=1787963868",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:26",
+      "lastChecked": "00:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 00:26",
+    "expiresAt": "2026-08-29 00:37",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ahmad Al-Sharrah and Mazlum Abdi met in Damascus to discuss the integration of the Syrian Democratic Forces into government institutions. Abdi announced the end of the SDF's mission and its merger with the Syrian army. Kurdish language education will also start this year.",
-        "time": "00:30",
-        "ts": 1787704242
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Shayan Samiei stated that the US mine-clearing operation in the Strait of Hormuz has ended. Trump's threat to destroy mine-laying vessels indicates Washington's effort to control international waters. The goal is to establish a security regime managed by the US in the Strait of Hormuz.",
-        "time": "00:33",
-        "ts": 1787704433
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -945,14 +931,21 @@
         "text": "Nepalese officials initially attributed the deadly flood to an earthquake, but studies indicate a landslide of rock and ice blocked a river. The breaking of this natural dam caused a devastating wave of water and mud, killing at least 160 people and leaving hundreds missing. Experts have not yet confirmed a definite link between this disaster and climate change.",
         "time": "00:25",
         "ts": 1787790358
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A Politico report shows bipartisan support in the US Congress for sanctioning Chinese banks that assist Iran's financial flow has increased. These sanctions could have broad consequences for the global financial system. Concerns about China's possible retaliatory response have also been raised.",
+        "time": "00:37",
+        "ts": 1787791029
       }
     ],
     "language": "en",
-    "packId": "20260827-02",
-    "sequence": 2,
+    "packId": "20260827-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:26"
+    "updatedAt": "00:37"
   },
   "verified": true
 }
