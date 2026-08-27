@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-11 seq=11 exp=1787984229",
+      "advancedStatus": "pack_id=20260827-13 seq=13 exp=1787985189",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:17",
+      "lastChecked": "06:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 06:17",
+    "expiresAt": "2026-08-29 06:33",
     "items": [
       {
         "channel": "iranintl",
@@ -889,14 +889,21 @@
         "text": "Gila Gamliel, Israel's Minister of Innovation, said that Prince Reza Pahlavi will return to power in Iran and will be welcomed with royal splendor. She added that this event will happen soon and by God's will. Gamliel also emphasized continuing the fight against the Islamic Republic until the regime is overthrown.",
         "time": "06:16",
         "ts": 1787811419
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Beigi from Iran International reported that the IRGC opposes the government's unlimited withdrawal from strategic gasoline reserves. The government has made contradictory statements about fuel status, with a daily gasoline deficit of about 15 million liters. The reserves may run out in a few weeks, and the government is considering options such as limiting supply and raising prices.",
+        "time": "06:32",
+        "ts": 1787812367
       }
     ],
     "language": "en",
-    "packId": "20260827-11",
-    "sequence": 11,
+    "packId": "20260827-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:17"
+    "updatedAt": "06:33"
   },
   "verified": true
 }
