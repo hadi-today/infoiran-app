@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-30 seq=30 exp=1787995835",
+      "advancedStatus": "pack_id=20260827-31 seq=31 exp=1787996282",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:30",
+      "lastChecked": "09:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 09:30",
+    "expiresAt": "2026-08-29 09:38",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,21 @@
         "text": "The German federal government spokesperson stated that Berlin is in contact with the US and European partners regarding further actions against the Islamic Republic. The National Bank branch in Hamburg continues its daily operations. The German financial supervisory authority has not made a specific statement about the bank's status.",
         "time": "09:29",
         "ts": 1787822991
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli army announced that it killed two important members of Hamas's military wing named Rizq Suhail Suleiman and Hazem Mousa. These individuals were involved in planning actions against military forces and civilians. It was also stated that they violated the ceasefire.",
+        "time": "09:37",
+        "ts": 1787823436
       }
     ],
     "language": "en",
-    "packId": "20260827-30",
-    "sequence": 30,
+    "packId": "20260827-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:30"
+    "updatedAt": "09:38"
   },
   "verified": true
 }
