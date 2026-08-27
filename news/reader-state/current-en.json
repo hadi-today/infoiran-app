@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260827-41 seq=41 exp=1788001104",
+      "advancedStatus": "pack_id=20260827-42 seq=42 exp=1788001227",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:58",
+      "lastChecked": "11:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-27",
-    "expiresAt": "2026-08-29 10:58",
+    "expiresAt": "2026-08-29 11:00",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen in Isfahan needs to visit a clinic after back surgery. Due to a power outage, using the clinic's elevator is impossible. This issue was reported in a video to Iran International.",
-        "time": "11:00",
-        "ts": 1787742001
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "Aram News reported that European countries have provided confidential information to the US about tracking Iranian money abroad. This was detailed in a report by Sadaf Baghbani on Iran International.",
         "time": "10:57",
         "ts": 1787828229
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen in Mashhad reported an increase in the presence of armed groups and black-clad motorcyclists in Vakilabad and Ahmadabad boulevards. These forces are stationed on the streets from the evening and are sensitive to filming. The created atmosphere was described as similar to an undeclared martial law.",
+        "time": "11:00",
+        "ts": 1787828405
       }
     ],
     "language": "en",
-    "packId": "20260827-41",
-    "sequence": 41,
+    "packId": "20260827-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:58"
+    "updatedAt": "11:00"
   },
   "verified": true
 }
