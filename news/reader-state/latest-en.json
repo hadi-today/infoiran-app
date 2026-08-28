@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-82 seq=82 exp=1788103009",
+      "advancedStatus": "pack_id=20260828-83 seq=83 exp=1788103414",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:16",
+      "lastChecked": "15:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 15:16",
+    "expiresAt": "2026-08-30 15:23",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Majid Bahiraei, a political prisoner and detainee from the December 1404 protests, is serving his sentence in Malayer prison. He was sentenced to two years and two months of imprisonment by Branch 101 of the Nahavand Revolutionary Court. This information was confirmed by a source close to his family.",
-        "time": "15:18",
-        "ts": 1787843911
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Hojatollah Nikimaleki has been appointed as the chairman of Digikala's board. He previously managed the media of the Execution of Imam Khomeini's Order and the Afseran social network. This news was published by Iran International.",
-        "time": "15:21",
-        "ts": 1787844066
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -973,14 +959,21 @@
         "text": "The Iranian Statistics Center reported that the point-to-point inflation of food items has exceeded 128 percent. This rate is about twice the inflation of non-food goods. An economic journalist stated that official inflation figures do not reflect the real cost of living, and the inflation pressure is felt more by the lower income groups.",
         "time": "15:16",
         "ts": 1787930170
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Asieh Amini, a social issues analyst, stated that the Islamic Republic has ignored the role of women in Iran's modernization over nearly five decades. She expressed this in an interview with Iran International.",
+        "time": "15:23",
+        "ts": 1787930582
       }
     ],
     "language": "en",
-    "packId": "20260828-82",
-    "sequence": 82,
+    "packId": "20260828-83",
+    "sequence": 83,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:16"
+    "updatedAt": "15:23"
   },
   "verified": true
 }
