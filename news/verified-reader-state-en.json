@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-50 seq=50 exp=1788092466",
+      "advancedStatus": "pack_id=20260828-51 seq=51 exp=1788092549",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:21",
+      "lastChecked": "12:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 12:21",
+    "expiresAt": "2026-08-30 12:22",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "Reza Nouri, the Friday prayer leader of Bojnord, said that economic pressure on the US is severe and Trump's popularity has dropped below 30%. He added that the war with the US is no longer existential and that US military reserves have diminished. He also emphasized that the Strait of Hormuz is a strong point Iran maintains to exert economic pressure on the US.",
         "time": "12:20",
         "ts": 1787919641
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammed bin Abdulrahman Al Thani, Qatar's Prime Minister, met with Masoud Pezeshkian, Iran's head of government, in Tehran on Thursday. The meeting took place as Qatar seeks to revive stalled diplomacy six months after the war began. Al Thani emphasized the importance of maintaining freedom of navigation in the Strait of Hormuz according to international law.",
+        "time": "12:22",
+        "ts": 1787919721
       }
     ],
     "language": "en",
-    "packId": "20260828-50",
-    "sequence": 50,
+    "packId": "20260828-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:21"
+    "updatedAt": "12:22"
   },
   "verified": true
 }
