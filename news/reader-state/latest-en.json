@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-97 seq=97 exp=1788113945",
+      "advancedStatus": "pack_id=20260828-98 seq=98 exp=1788114624",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:19",
+      "lastChecked": "18:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 18:19",
+    "expiresAt": "2026-08-30 18:30",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "Ashkan Nezamabadi stated that the loss of hundreds of thousands of industrial jobs, reduced investment, energy crisis, and demand decline have pushed Iran's economy into a critical phase. Southern provinces, especially Hormozgan, have suffered the most damage. He also said that with ongoing sanctions and structural problems, no short-term improvement is expected.",
         "time": "18:17",
         "ts": 1787941076
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Fakhruddin Jafar Aghaei has been held in Zahedan prison for over 143 days without a judicial decision. No court session has been scheduled to address his charges. Temporary release on bail has not been granted.",
+        "time": "18:29",
+        "ts": 1787941796
       }
     ],
     "language": "en",
-    "packId": "20260828-97",
-    "sequence": 97,
+    "packId": "20260828-98",
+    "sequence": 98,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:19"
+    "updatedAt": "18:30"
   },
   "verified": true
 }
