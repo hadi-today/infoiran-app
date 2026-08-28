@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-117 seq=117 exp=1788130588",
+      "advancedStatus": "pack_id=20260828-118 seq=118 exp=1788131020",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:56",
+      "lastChecked": "23:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 22:56",
+    "expiresAt": "2026-08-30 23:03",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The White House spokesperson stated that currently there are no negotiations between Washington and Tehran. Trump has kept all options, including a naval blockade, on the table. The Basij commander said that every Iranian is ready to confront the enemy in the state of neither war nor peace.",
-        "time": "23:01",
-        "ts": 1787871719
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -903,14 +896,21 @@
         "text": "Israel Hayom reported that six months after the war began, US and Israeli attacks have severely damaged Iran's military capabilities but have not led to the government's overthrow. Iran has restored part of its missile capabilities and affected traffic in the Strait of Hormuz. The US is trying to isolate Iran through economic expulsion, but Washington's ultimate goal remains unclear.",
         "time": "22:56",
         "ts": 1787957760
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Meysam Mehrani said the Islamic Republic still uses the Strait of Hormuz as leverage, but the US has increased the cost of using it. He added that the Strait of Hormuz is no longer a major advantage in negotiations. Regional countries seek to reduce tensions and restore stability.",
+        "time": "23:03",
+        "ts": 1787958185
       }
     ],
     "language": "en",
-    "packId": "20260828-117",
-    "sequence": 117,
+    "packId": "20260828-118",
+    "sequence": 118,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:56"
+    "updatedAt": "23:03"
   },
   "verified": true
 }
