@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-93 seq=93 exp=1788112549",
+      "advancedStatus": "pack_id=20260828-94 seq=94 exp=1788113120",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:55",
+      "lastChecked": "18:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 17:55",
+    "expiresAt": "2026-08-30 18:05",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump stated that Russia has behaved very well regarding the Strait of Hormuz. He also said Vladimir Putin will not attack NATO territory. Trump signed an executive order to rename Lake Ontario to 'Lake America'.",
-        "time": "17:56",
-        "ts": 1787853396
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -945,14 +938,21 @@
         "text": "The office of Mojtaba Khamenei issued a statement saying that the honest admission of weaknesses by senior government officials is a great help to the enemy. The statement came after Masoud Pezeshkian and Abdolnaser Hemmati acknowledged the halt in oil sales and inability to import gasoline. The Islamic Republic's leader also called for highlighting the country's strengths and described economic problems as dark spots that must gradually disappear.",
         "time": "17:54",
         "ts": 1787939691
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abbas Araghchi stated in a Foreign Ministry meeting that the Islamic Republic will not forgive the blood of Ali Khamenei and the movement for revenge will continue. He also said that enemies could not extinguish Iran's missile fire and the system was unharmed in the absence of the leader.",
+        "time": "18:04",
+        "ts": 1787940295
       }
     ],
     "language": "en",
-    "packId": "20260828-93",
-    "sequence": 93,
+    "packId": "20260828-94",
+    "sequence": 94,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:55"
+    "updatedAt": "18:05"
   },
   "verified": true
 }
