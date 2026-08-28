@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-62 seq=62 exp=1788095182",
+      "advancedStatus": "pack_id=20260828-63 seq=63 exp=1788095334",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:06",
+      "lastChecked": "13:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 13:06",
+    "expiresAt": "2026-08-30 13:08",
     "items": [
       {
         "channel": "iranintl",
@@ -973,14 +973,21 @@
         "text": "Iran International audiences from Tehran, Isfahan, Ahvaz, Qom, Saqez, and Fardis Karaj report an increase in checkpoints and deployment of security forces. These measures coincide with the worsening fuel crisis and inflation in Iran. More details are provided in an interview with Mohsen Mohimeni.",
         "time": "13:05",
         "ts": 1787922336
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Informed sources told American media that CIA Director John Ratcliffe, during his secret visit to Moscow, asked Russian intelligence officials not to provide Iran with information that could help it. This is the first revealed trip by a CIA chief to Moscow since 2021, and the Kremlin confirmed the meeting with intelligence officials but said he did not meet with Putin. The topics of Russia's support for Iran and US concerns about NATO security were also discussed.",
+        "time": "13:06",
+        "ts": 1787922397
       }
     ],
     "language": "en",
-    "packId": "20260828-62",
-    "sequence": 62,
+    "packId": "20260828-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:06"
+    "updatedAt": "13:08"
   },
   "verified": true
 }
