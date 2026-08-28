@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-115 seq=115 exp=1788128082",
+      "advancedStatus": "pack_id=20260828-116 seq=116 exp=1788129448",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:14",
+      "lastChecked": "22:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 22:14",
+    "expiresAt": "2026-08-30 22:37",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump emphasized that the passage of ships through the Strait of Hormuz does not mean the end of US military actions. These remarks were made amid the continuation of the naval blockade of the Islamic Republic and the intensification of Washington's economic pressure on Tehran.",
-        "time": "22:30",
-        "ts": 1787869822
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Meysam Mehrani said economic pressures have shifted the balance in favor of the US and placed the Islamic Republic in a difficult position. He pointed to long gasoline lines and the economic crisis as signs of government problems. Mehrani added that the Trump administration aims to maintain economic pressure to gain the upper hand in potential negotiations.",
-        "time": "22:32",
-        "ts": 1787869941
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +903,21 @@
         "text": "Mohsen Rezaee referred to Mojtaba Khamenei's emphasis on avoiding discouraging speech and illusory dichotomies. He described this stance as a clear and unambiguous strategy. Mojtaba Khamenei also stated that any action harming social cohesion is forbidden.",
         "time": "22:14",
         "ts": 1787955254
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Mashinchian stated that out of 66 million Iranians of working age, only about 24 million are employed, and the official unemployment rate does not reflect the real labor market. He said this inaccurate data leads to policies that do not align with labor market realities. He also warned that job losses and economic pressures will expand the informal economy and worsen the livelihood crisis.",
+        "time": "22:36",
+        "ts": 1787956614
       }
     ],
     "language": "en",
-    "packId": "20260828-115",
-    "sequence": 115,
+    "packId": "20260828-116",
+    "sequence": 116,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:14"
+    "updatedAt": "22:37"
   },
   "verified": true
 }
