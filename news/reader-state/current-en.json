@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-67 seq=67 exp=1788096252",
+      "advancedStatus": "pack_id=20260828-68 seq=68 exp=1788096542",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:24",
+      "lastChecked": "13:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 13:24",
+    "expiresAt": "2026-08-30 13:29",
     "items": [
       {
         "channel": "harana",
@@ -1001,14 +1001,21 @@
         "text": "Residents of Ceuta destroyed a temporary migrant camp on the coast of the region. They dismantled tents and threw migrants' belongings into the sea. This action followed rising tensions after a large influx of migrants in late July.",
         "time": "13:23",
         "ts": 1787923397
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Alamolhoda criticized the economic performance of Masoud Pezeshkian's government during Friday prayers in Mashhad. He expressed concern over inflation rising from 40% to over 80% and called for utilizing the government's capabilities to manage the economy. He also expressed dissatisfaction with the presence of unveiled women in public streets.",
+        "time": "13:28",
+        "ts": 1787923698
       }
     ],
     "language": "en",
-    "packId": "20260828-67",
-    "sequence": 67,
+    "packId": "20260828-68",
+    "sequence": 68,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:24"
+    "updatedAt": "13:29"
   },
   "verified": true
 }
