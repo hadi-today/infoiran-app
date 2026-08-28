@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-76 seq=76 exp=1788099700",
+      "advancedStatus": "pack_id=20260828-77 seq=77 exp=1788100508",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:21",
+      "lastChecked": "14:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 14:21",
+    "expiresAt": "2026-08-30 14:35",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Caroline Lewitt, White House spokesperson, stated that currently there are no negotiations between the United States and the Islamic Republic. She emphasized that all options regarding the Islamic Republic remain on Donald Trump's table. These remarks were made in an interview with Fox News.",
-        "time": "14:32",
-        "ts": 1787841153
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -973,14 +966,21 @@
         "text": "The CENTCOM commander announced that US forces have cleared Islamic Republic-attributed sea mines from international waterways and are simultaneously enforcing a naval blockade. The US Treasury Secretary also said that the blockade and economic isolation campaign will completely shatter the Islamic Republic's economy.",
         "time": "14:21",
         "ts": 1787926862
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US Treasury Department announced that Reza Mohammad Tayidi, an Iranian national residing in Dubai who is linked to Bank Melli Iran, has been added to the OFAC sanctions list, and secondary US sanctions also apply to him. The Hong Kong-based company Kamang Trading has also been added to the US sanctions list. These actions were taken under sanctions related to the Islamic Republic and counterterrorism.",
+        "time": "14:34",
+        "ts": 1787927674
       }
     ],
     "language": "en",
-    "packId": "20260828-76",
-    "sequence": 76,
+    "packId": "20260828-77",
+    "sequence": 77,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:21"
+    "updatedAt": "14:35"
   },
   "verified": true
 }
