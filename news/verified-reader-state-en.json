@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-24 seq=24 exp=1788078721",
+      "advancedStatus": "pack_id=20260828-25 seq=25 exp=1788078830",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:32",
+      "lastChecked": "08:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 08:32",
+    "expiresAt": "2026-08-30 08:33",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The CEO of Golestan Water and Wastewater Company announced that 257 villages are supplied with water by tanker continuously or during water stress periods. Out of 30 tankers, 25 are over 21 years old. An emergency water supply plan requires 1,336 billion tomans in funding.",
-        "time": "08:30",
-        "ts": 1787819439
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +903,28 @@
         "text": "The Iranian national basketball team lost 93-91 to New Zealand in the first match of the second round of the 2027 World Cup qualifiers. Iran performed well in the fourth quarter but was defeated in overtime. Iran's next game will be against the Philippines on Sunday, August 30.",
         "time": "08:30",
         "ts": 1787905810
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Recently, 11 Bahá'í citizens in seven provinces of Iran have been arrested or sent to prison. Their personal belongings and livelihood equipment have been confiscated by authorities. The Bahá'í International Community has expressed concern about these actions and the economic pressure on families.",
+        "time": "08:32",
+        "ts": 1787905954
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen in a video to Iran International says that fuel shortages are rampant in various cities, especially in this city. The fuel crisis in these areas has been reported as severe. This issue has caused concerns.",
+        "time": "08:33",
+        "ts": 1787905994
       }
     ],
     "language": "en",
-    "packId": "20260828-24",
-    "sequence": 24,
+    "packId": "20260828-25",
+    "sequence": 25,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:32"
+    "updatedAt": "08:33"
   },
   "verified": true
 }
