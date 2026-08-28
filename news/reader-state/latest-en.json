@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-121 seq=121 exp=1788133556",
+      "advancedStatus": "pack_id=20260828-122 seq=122 exp=1788134277",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:45",
+      "lastChecked": "23:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 23:45",
+    "expiresAt": "2026-08-30 23:57",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Daily Sun reported that the war in Iran has reached a costly and dangerous stalemate after six months. The Islamic Republic faces sanctions and economic blockade but still holds power. Washington has shifted pressure to Iran's oil revenues and trade partners.",
-        "time": "23:50",
-        "ts": 1787874634
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "Mohammad Bagher Ghalibaf, the Speaker of the Parliament, responded to Mojtaba Khamenei's emphasis on maintaining social cohesion by stating that his message is a guiding principle for all officials. Ghalibaf added that one must avoid illusory dichotomies and any action harming social cohesion is nationally and religiously forbidden. Mojtaba Khamenei had earlier stressed avoiding discouraging speech and illusory dichotomies.",
         "time": "23:45",
         "ts": 1787960723
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump announced that the US has reached a major oil agreement with Venezuela. According to the deal, the US will control the majority of over 65 billion barrels of Venezuelan oil without cost to taxpayers. This agreement will more than double US oil reserves and help reduce gasoline prices.",
+        "time": "23:57",
+        "ts": 1787961446
       }
     ],
     "language": "en",
-    "packId": "20260828-121",
-    "sequence": 121,
+    "packId": "20260828-122",
+    "sequence": 122,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:45"
+    "updatedAt": "23:57"
   },
   "verified": true
 }
