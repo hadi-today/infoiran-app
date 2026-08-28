@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-81 seq=81 exp=1788102166",
+      "advancedStatus": "pack_id=20260828-82 seq=82 exp=1788103009",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:02",
+      "lastChecked": "15:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 15:02",
+    "expiresAt": "2026-08-30 15:16",
     "items": [
       {
         "channel": "harana",
@@ -966,14 +966,21 @@
         "text": "Saadollah Zarei said that honorable peace in the current situation means surrender. He stated that the goal of the US is the surrender of the Islamic Republic. He also mentioned that the US increases threats and pressures while proposing negotiations.",
         "time": "15:01",
         "ts": 1787929318
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iranian Statistics Center reported that the point-to-point inflation of food items has exceeded 128 percent. This rate is about twice the inflation of non-food goods. An economic journalist stated that official inflation figures do not reflect the real cost of living, and the inflation pressure is felt more by the lower income groups.",
+        "time": "15:16",
+        "ts": 1787930170
       }
     ],
     "language": "en",
-    "packId": "20260828-81",
-    "sequence": 81,
+    "packId": "20260828-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:02"
+    "updatedAt": "15:16"
   },
   "verified": true
 }
