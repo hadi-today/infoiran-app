@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-23 seq=23 exp=1788078589",
+      "advancedStatus": "pack_id=20260828-24 seq=24 exp=1788078721",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:29",
+      "lastChecked": "08:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 08:29",
+    "expiresAt": "2026-08-30 08:32",
     "items": [
       {
         "channel": "harana",
@@ -903,14 +903,21 @@
         "text": "The meeting of three European and four regional countries about the Strait of Hormuz, scheduled for August 30 in Istanbul, has been postponed. Foreign ministers of Germany, Britain, Pakistan, Turkey, France, Egypt, and Saudi Arabia were expected to attend. Egypt's foreign minister requested the postponement due to scheduling conflicts, and no new date has been set.",
         "time": "08:29",
         "ts": 1787905754
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iranian national basketball team lost 93-91 to New Zealand in the first match of the second round of the 2027 World Cup qualifiers. Iran performed well in the fourth quarter but was defeated in overtime. Iran's next game will be against the Philippines on Sunday, August 30.",
+        "time": "08:30",
+        "ts": 1787905810
       }
     ],
     "language": "en",
-    "packId": "20260828-23",
-    "sequence": 23,
+    "packId": "20260828-24",
+    "sequence": 24,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:29"
+    "updatedAt": "08:32"
   },
   "verified": true
 }
