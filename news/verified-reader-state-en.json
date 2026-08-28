@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-66 seq=66 exp=1788095794",
+      "advancedStatus": "pack_id=20260828-67 seq=67 exp=1788096252",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:16",
+      "lastChecked": "13:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 13:16",
+    "expiresAt": "2026-08-30 13:24",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Manouchehr Motaki said that if the US does not implement the agreement, Iran should not give Trump an advantage. He emphasized that it is time for action and that the US has rejected negotiations with the Islamic Republic. He also mentioned that if Trump loses the US midterm elections, there will be two years of confusion, but if he wins, Israel will push them towards war.",
-        "time": "13:19",
-        "ts": 1787836783
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1001,14 +994,21 @@
         "text": "Iran's Foreign Ministry, in a statement on Friday, called on countries not to implement unilateral US sanctions against Iran, labeling Washington's 'economic exclusion operation' as state terrorism. It claimed the new sanctions violate the UN Charter and international law, accusing the US of using the dollar to pressure other nations to sever economic ties with Iran. Iran also criticized the UN and member states for appeasement towards US actions.",
         "time": "13:15",
         "ts": 1787922922
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Residents of Ceuta destroyed a temporary migrant camp on the coast of the region. They dismantled tents and threw migrants' belongings into the sea. This action followed rising tensions after a large influx of migrants in late July.",
+        "time": "13:23",
+        "ts": 1787923397
       }
     ],
     "language": "en",
-    "packId": "20260828-66",
-    "sequence": 66,
+    "packId": "20260828-67",
+    "sequence": 67,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:16"
+    "updatedAt": "13:24"
   },
   "verified": true
 }
