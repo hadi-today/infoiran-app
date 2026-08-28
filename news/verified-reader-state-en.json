@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-54 seq=54 exp=1788093244",
+      "advancedStatus": "pack_id=20260828-55 seq=55 exp=1788093400",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:34",
+      "lastChecked": "12:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 12:34",
+    "expiresAt": "2026-08-30 12:36",
     "items": [
       {
         "channel": "iranintl",
@@ -938,14 +938,21 @@
         "text": "An oil tanker carrying gasoline and diesel has docked at the export pier of Kharg Island after about 40 days. The tanker is there to supply fuel for the island's power turbine tanks. This news was reported by a viewer of Iran International.",
         "time": "12:33",
         "ts": 1787920388
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "On Thursday, 5 Shahrivar, victims of the online investment group FNDK gathered in Talesh. The protest was due to the non-return of investors' funds. The prosecutor of Talesh announced that the case is under judicial investigation.",
+        "time": "12:34",
+        "ts": 1787920483
       }
     ],
     "language": "en",
-    "packId": "20260828-54",
-    "sequence": 54,
+    "packId": "20260828-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:34"
+    "updatedAt": "12:36"
   },
   "verified": true
 }
