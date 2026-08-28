@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-15 seq=15 exp=1788073256",
+      "advancedStatus": "pack_id=20260828-16 seq=16 exp=1788073742",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:00",
+      "lastChecked": "07:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 07:00",
+    "expiresAt": "2026-08-30 07:09",
     "items": [
       {
         "channel": "iranintl",
@@ -903,14 +903,21 @@
         "text": "Harald V, the King of Norway, passed away at the age of 89. He was hospitalized last week due to a rare blood disease. His son Haakon will succeed him.",
         "time": "07:00",
         "ts": 1787900431
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The football teams Foolad Khuzestan and Esteghlal will face each other today in the fourth week of the Premier League in Ahvaz. The match will take place this afternoon. To participate in the poll, visit the Iran International Sports Instagram page.",
+        "time": "07:08",
+        "ts": 1787900922
       }
     ],
     "language": "en",
-    "packId": "20260828-15",
-    "sequence": 15,
+    "packId": "20260828-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:00"
+    "updatedAt": "07:09"
   },
   "verified": true
 }
