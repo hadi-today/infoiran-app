@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-84 seq=84 exp=1788103818",
+      "advancedStatus": "pack_id=20260828-85 seq=85 exp=1788104292",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:30",
+      "lastChecked": "15:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 15:30",
+    "expiresAt": "2026-08-30 15:38",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Mohammed bin Abdulrahman Al Thani, the Prime Minister and Foreign Minister of Qatar, met with Masoud Pezeshkian during his visit to Tehran. He also discussed the resumption of negotiations between Washington and Tehran with Mohammad Bagher Ghalibaf. The Qatari foreign minister emphasized that dialogue is the best way to resolve disputes and prevent further escalation of tensions.",
-        "time": "15:34",
-        "ts": 1787844877
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -973,14 +966,21 @@
         "text": "The fourth week of the Iranian Premier League begins with six matches. Esteghlal, the leader with 9 points, will visit Foolad Khuzestan, which is ranked sixth with 5 points. An interview with Mohammad Taghavi about these matches has been conducted.",
         "time": "15:29",
         "ts": 1787930987
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Scott Bessent, the US Treasury Secretary, reacted to the sanctioning of Egypt's bank in the UAE for money laundering for the Islamic Republic, stating on X that the Treasury Department is committed to cutting off all remaining financial avenues of the Islamic Republic. Bessent added that those assisting the Islamic Republic had been warned they would no longer have access to the US dollar and the global financial system.",
+        "time": "15:37",
+        "ts": 1787931468
       }
     ],
     "language": "en",
-    "packId": "20260828-84",
-    "sequence": 84,
+    "packId": "20260828-85",
+    "sequence": 85,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:30"
+    "updatedAt": "15:38"
   },
   "verified": true
 }
