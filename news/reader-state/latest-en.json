@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-90 seq=90 exp=1788110577",
+      "advancedStatus": "pack_id=20260828-91 seq=91 exp=1788110695",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:22",
+      "lastChecked": "17:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 17:22",
+    "expiresAt": "2026-08-30 17:24",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,21 @@
         "text": "Mojtaba Khamenei, in a written message for Government Week, stated that expressing weaknesses when the enemy needs morale helps the enemy. He emphasized that any action harming social cohesion is forbidden. He also said that weaknesses require planning and action to solve problems, not highlighting them.",
         "time": "17:22",
         "ts": 1787937755
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Ehsan Azimirad, a member of the Education Commission of the Parliament, announced a shortage of about 120,000 teachers for the new school year. This figure is based on data announced by the Minister of Education about a month ago. Details about the shortage in different educational levels and fields have not yet been provided to the Education Commission.",
+        "time": "17:24",
+        "ts": 1787937874
       }
     ],
     "language": "en",
-    "packId": "20260828-90",
-    "sequence": 90,
+    "packId": "20260828-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:22"
+    "updatedAt": "17:24"
   },
   "verified": true
 }
