@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-116 seq=116 exp=1788129448",
+      "advancedStatus": "pack_id=20260828-117 seq=117 exp=1788130588",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:37",
+      "lastChecked": "22:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 22:37",
+    "expiresAt": "2026-08-30 22:56",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Al Jazeera reported that there is hope for reaching an agreement in Tehran and a space for negotiation and mediation has been formed. However, no agreement has been reached yet, and the Islamic Republic is currently in talks with mediators including Qatar and Pakistan. Talks between Iran and Oman and other Gulf countries are expected to continue.",
-        "time": "22:43",
-        "ts": 1787870604
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Amirhossein Mirasmaeili said the disagreement between supporters of a deal with the US and the faction close to the IRGC has put the Islamic Republic in a risky position. He added that while some officials talk about negotiations, others increase the risk of war by threatening the US. Additionally, the economic crisis and protests have increased pressure on the Islamic Republic.",
-        "time": "22:47",
-        "ts": 1787870870
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +896,21 @@
         "text": "Mohammad Mashinchian stated that out of 66 million Iranians of working age, only about 24 million are employed, and the official unemployment rate does not reflect the real labor market. He said this inaccurate data leads to policies that do not align with labor market realities. He also warned that job losses and economic pressures will expand the informal economy and worsen the livelihood crisis.",
         "time": "22:36",
         "ts": 1787956614
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Israel Hayom reported that six months after the war began, US and Israeli attacks have severely damaged Iran's military capabilities but have not led to the government's overthrow. Iran has restored part of its missile capabilities and affected traffic in the Strait of Hormuz. The US is trying to isolate Iran through economic expulsion, but Washington's ultimate goal remains unclear.",
+        "time": "22:56",
+        "ts": 1787957760
       }
     ],
     "language": "en",
-    "packId": "20260828-116",
-    "sequence": 116,
+    "packId": "20260828-117",
+    "sequence": 117,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:37"
+    "updatedAt": "22:56"
   },
   "verified": true
 }
