@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-95 seq=95 exp=1788113499",
+      "advancedStatus": "pack_id=20260828-96 seq=96 exp=1788113864",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:11",
+      "lastChecked": "18:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 18:11",
+    "expiresAt": "2026-08-30 18:17",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,21 @@
         "text": "The death sentences of two prisoners convicted of murder were carried out in Khorramabad and Vakilabad prisons in Mashhad. The number of executions in Yazd prison increased to two. These events occurred on the 3rd of Shahrivar.",
         "time": "18:11",
         "ts": 1787940671
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "About 205 laid-off workers of Borujerd textile factory have reported wage arrears. These workers are demanding to return to work. Their employment status remains uncertain.",
+        "time": "18:17",
+        "ts": 1787941029
       }
     ],
     "language": "en",
-    "packId": "20260828-95",
-    "sequence": 95,
+    "packId": "20260828-96",
+    "sequence": 96,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:11"
+    "updatedAt": "18:17"
   },
   "verified": true
 }
