@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-78 seq=78 exp=1788100632",
+      "advancedStatus": "pack_id=20260828-79 seq=79 exp=1788100753",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:37",
+      "lastChecked": "14:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 14:37",
+    "expiresAt": "2026-08-30 14:39",
     "items": [
       {
         "channel": "iranintl",
@@ -973,14 +973,21 @@
         "text": "A citizen reported in a video that they paid toll fees twice on the Khorramabad-Borujerd route. He also mentioned that Reza Shah built the Chalus road without charging tolls. This issue was raised on Iran International.",
         "time": "14:35",
         "ts": 1787927722
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Some participants of Friday prayers in Birjand gathered in front of the South Khorasan governor's office to protest the state of hijab in the city. The protest took place on Friday noon. In recent weeks, Friday prayer leaders in various cities have expressed their stance on the hijab situation.",
+        "time": "14:37",
+        "ts": 1787927856
       }
     ],
     "language": "en",
-    "packId": "20260828-78",
-    "sequence": 78,
+    "packId": "20260828-79",
+    "sequence": 79,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:37"
+    "updatedAt": "14:39"
   },
   "verified": true
 }
