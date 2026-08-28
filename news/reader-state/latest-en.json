@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-37 seq=37 exp=1788086079",
+      "advancedStatus": "pack_id=20260828-38 seq=38 exp=1788086447",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:34",
+      "lastChecked": "10:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 10:34",
+    "expiresAt": "2026-08-30 10:40",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "The second hearing of Vahid Abiri's case was held at the Old Bailey court in London. He was arrested by counter-terrorism police and accused of cooperating with a foreign intelligence service. This report was provided by Ali Rashid from Iran International.",
         "time": "10:34",
         "ts": 1787913270
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video has emerged showing a citizen protesting against the IRGC and Basij during nighttime government gatherings. The person refers to them as symbols of oppression. This video has been shared publicly.",
+        "time": "10:37",
+        "ts": 1787913466
       }
     ],
     "language": "en",
-    "packId": "20260828-37",
-    "sequence": 37,
+    "packId": "20260828-38",
+    "sequence": 38,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:34"
+    "updatedAt": "10:40"
   },
   "verified": true
 }
