@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-100 seq=100 exp=1788116085",
+      "advancedStatus": "pack_id=20260828-101 seq=101 exp=1788116233",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:54",
+      "lastChecked": "18:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 18:54",
+    "expiresAt": "2026-08-30 18:57",
     "items": [
       {
         "channel": "خبرگزاری هرانا",
@@ -824,13 +824,19 @@
         "text": "نصف شهرک صنعتی سمنان به دلیل کمبود مواد اولیه و قطعی برق تعطیل شده است. بانک ملی بدون اطلاع برداشت غیرمجاز انجام داده و پاسخگو نیست. همچنین مشکلاتی مانند سوختن یخچال مغازه‌ها، صف‌های طولانی بنزین و اخراج کارمندان در شرایط اقتصادی فعلی گزارش شده است.",
         "time": "18:54",
         "ts": 1787943251
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "مسعود پزشکیان اعلام کرد که نرخ سوم قیمت بنزین پس از هماهنگی با نهادها از پنج هزار تومان به ۱۰ هزار تومان افزایش می‌یابد. وی گفت که این نرخ بیش از ۱۰ هزار تومان نخواهد شد.",
+        "time": "18:56",
+        "ts": 1787943405
       }
     ],
-    "packId": "20260828-100",
-    "sequence": 100,
+    "packId": "20260828-101",
+    "sequence": 101,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "18:54"
+    "updatedAt": "18:57"
   },
   "verified": true
 }
