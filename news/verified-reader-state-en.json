@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-03 seq=3 exp=1788050999",
+      "advancedStatus": "pack_id=20260828-04 seq=4 exp=1788051684",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:49",
+      "lastChecked": "01:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 00:49",
+    "expiresAt": "2026-08-30 01:01",
     "items": [
       {
         "channel": "iranintl",
@@ -903,14 +903,21 @@
         "text": "Haaretz wrote in an analysis that the sharp decline in Iran's oil exports could limit the financial resources of the IRGC and security agencies. The analysis suggests that reduced oil revenue may decrease the government's ability to suppress protests. However, the extent of alternative resources and the impact of economic pressure on the power structure remain unclear.",
         "time": "00:49",
         "ts": 1787878168
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Scott Bessent, the US Treasury Secretary, intends to urge G20 members to enforce sanctions on Iran's government at the financial meeting in Asheville, North Carolina. A US Treasury official said Bessent will work to expand Iran's economic isolation. China, as the largest buyer of Iranian oil, is one of the main challenges to this campaign.",
+        "time": "01:00",
+        "ts": 1787878854
       }
     ],
     "language": "en",
-    "packId": "20260828-03",
-    "sequence": 3,
+    "packId": "20260828-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:49"
+    "updatedAt": "01:01"
   },
   "verified": true
 }
