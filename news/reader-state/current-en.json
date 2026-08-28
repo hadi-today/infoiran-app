@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-110 seq=110 exp=1788120120",
+      "advancedStatus": "pack_id=20260828-111 seq=111 exp=1788120521",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:02",
+      "lastChecked": "20:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 20:02",
+    "expiresAt": "2026-08-30 20:08",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,21 @@
         "text": "Miad Maleki stated that the new US sanctions, especially against branches of the National Bank, send a serious message to the UAE to limit the financial activities of the Islamic Republic. He added that the intertwined financial relations between Iran and the UAE make it difficult to completely cut off financial networks. Maleki also emphasized that if the UAE has the political will, it can identify and restrict these activities.",
         "time": "20:01",
         "ts": 1787947299
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Farzin Nadimi stated that satellite information is vital for monitoring Iran's nuclear and military activities. The US may currently limit itself to close monitoring but new military attacks are possible if enrichment accelerates. Iran has rebuilt much of its missile and drone capabilities.",
+        "time": "20:08",
+        "ts": 1787947699
       }
     ],
     "language": "en",
-    "packId": "20260828-110",
-    "sequence": 110,
+    "packId": "20260828-111",
+    "sequence": 111,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:02"
+    "updatedAt": "20:08"
   },
   "verified": true
 }
