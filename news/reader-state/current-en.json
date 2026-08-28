@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-01 seq=1 exp=1788048382",
+      "advancedStatus": "pack_id=20260828-02 seq=2 exp=1788050554",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:06",
+      "lastChecked": "00:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 00:06",
+    "expiresAt": "2026-08-30 00:42",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Meta has reached a settlement of up to $18 billion with 48 US states over allegations that Instagram and Facebook are addictive for children. This agreement halts several ongoing trials, and Meta is required to implement new protective measures for children and teenagers. However, thousands of individuals and hundreds of school districts still have complaints against Meta and other social media networks.",
-        "time": "00:14",
-        "ts": 1787789693
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Nepalese officials initially attributed the deadly flood to an earthquake, but studies indicate a landslide of rock and ice blocked a river. The breaking of this natural dam caused a devastating wave of water and mud, killing at least 160 people and leaving hundreds missing. Experts have not yet confirmed a definite link between this disaster and climate change.",
-        "time": "00:25",
-        "ts": 1787790358
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A Politico report shows bipartisan support in the US Congress for sanctioning Chinese banks that assist Iran's financial flow has increased. These sanctions could have broad consequences for the global financial system. Concerns about China's possible retaliatory response have also been raised.",
-        "time": "00:37",
-        "ts": 1787791029
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +889,21 @@
         "text": "Bloomberg reported that Venezuela is considering plans to leave OPEC. The issue was also raised in the country's talks with US officials. No final decision has been made yet, and Reuters has not been able to independently confirm the report.",
         "time": "00:05",
         "ts": 1787875541
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "US intelligence agencies believe the Kremlin views the Iran war as weakening Washington's military capability. The CIA chief warned Russia about escalating the Ukraine war. The Trump administration denied ammunition shortages but called for increased production.",
+        "time": "00:41",
+        "ts": 1787877719
       }
     ],
     "language": "en",
-    "packId": "20260828-01",
-    "sequence": 1,
+    "packId": "20260828-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:06"
+    "updatedAt": "00:42"
   },
   "verified": true
 }
