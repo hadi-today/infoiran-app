@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-85 seq=85 exp=1788104292",
+      "advancedStatus": "pack_id=20260828-86 seq=86 exp=1788104635",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:38",
+      "lastChecked": "15:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 15:38",
+    "expiresAt": "2026-08-30 15:43",
     "items": [
       {
         "channel": "iranintl",
@@ -973,14 +973,21 @@
         "text": "Scott Bessent, the US Treasury Secretary, reacted to the sanctioning of Egypt's bank in the UAE for money laundering for the Islamic Republic, stating on X that the Treasury Department is committed to cutting off all remaining financial avenues of the Islamic Republic. Bessent added that those assisting the Islamic Republic had been warned they would no longer have access to the US dollar and the global financial system.",
         "time": "15:37",
         "ts": 1787931468
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The U.S. Treasury Department announced that Reza Mohammad Tayidi, the manager of the Bank Melli branch in Dubai, and a Hong Kong-based company have been sanctioned as part of the economic pressure campaign against the Islamic Republic.",
+        "time": "15:43",
+        "ts": 1787931799
       }
     ],
     "language": "en",
-    "packId": "20260828-85",
-    "sequence": 85,
+    "packId": "20260828-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:38"
+    "updatedAt": "15:43"
   },
   "verified": true
 }
