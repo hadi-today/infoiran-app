@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-63 seq=63 exp=1788095334",
+      "advancedStatus": "pack_id=20260828-64 seq=64 exp=1788095487",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:08",
+      "lastChecked": "13:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 13:08",
+    "expiresAt": "2026-08-30 13:11",
     "items": [
       {
         "channel": "iranintl",
@@ -980,14 +980,28 @@
         "text": "Informed sources told American media that CIA Director John Ratcliffe, during his secret visit to Moscow, asked Russian intelligence officials not to provide Iran with information that could help it. This is the first revealed trip by a CIA chief to Moscow since 2021, and the Kremlin confirmed the meeting with intelligence officials but said he did not meet with Putin. The topics of Russia's support for Iran and US concerns about NATO security were also discussed.",
         "time": "13:06",
         "ts": 1787922397
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Maziar Zare, Malavan's head coach, said in a press conference before the match against Persepolis that playing in Tehran is difficult and Persepolis is a well-equipped team. He denied rumors about Alireza Beiranvand joining Malavan and explained Malavan's financial situation and the use of young players. Zare also commented on Persepolis's league status and playing style.",
+        "time": "13:09",
+        "ts": 1787922542
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The US military announced that it has cleared naval mines from the Strait of Hormuz and that international shipping routes are open. Admiral Brad Cooper confirmed this in a video message. However, the IRGC has denied this claim, stating that the Strait of Hormuz remains blocked.",
+        "time": "13:10",
+        "ts": 1787922650
       }
     ],
     "language": "en",
-    "packId": "20260828-63",
-    "sequence": 63,
+    "packId": "20260828-64",
+    "sequence": 64,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:08"
+    "updatedAt": "13:11"
   },
   "verified": true
 }
