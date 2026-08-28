@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-43 seq=43 exp=1788089727",
+      "advancedStatus": "pack_id=20260828-44 seq=44 exp=1788090341",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:35",
+      "lastChecked": "11:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 11:35",
+    "expiresAt": "2026-08-30 11:45",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Twelve plainclothes agents from the Ministry of Intelligence raided the house of Vahid Moghann in Isfahan. Sarir Moghann was arrested after several hours of search and transferred to Dolatabad prison. Many items including electronics, money, gold, and wedding rings were confiscated.",
-        "time": "11:38",
-        "ts": 1787830730
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +903,21 @@
         "text": "The Ministry of Intelligence of the Islamic Republic of Iran announced the arrest of 30 citizens in the Mahalat and Nimvar counties of Markazi province. These individuals were arrested due to their participation in the protests of Dey 1404. The announcement was made by the Ministry of Intelligence.",
         "time": "11:34",
         "ts": 1787916886
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Human Rights Organization for Sports reported the death sentence for five athletes arrested during the \"Iranian National Revolution.\" These individuals have been denied access to a lawyer of their choice. They are on the verge of execution.",
+        "time": "11:45",
+        "ts": 1787917506
       }
     ],
     "language": "en",
-    "packId": "20260828-43",
-    "sequence": 43,
+    "packId": "20260828-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:35"
+    "updatedAt": "11:45"
   },
   "verified": true
 }
