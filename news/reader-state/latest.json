@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-02 seq=2 exp=1788050554",
+      "advancedStatus": "pack_id=20260828-03 seq=3 exp=1788050999",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:42",
+      "lastChecked": "00:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-28",
-    "expiresAt": "2026-08-30 00:42",
+    "expiresAt": "2026-08-30 00:49",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -770,13 +770,19 @@
         "text": "نهادهای اطلاعاتی آمریکا معتقدند کرملین جنگ ایران را عاملی برای کاهش توان نظامی واشینگتن می‌داند. رئیس سازمان اطلاعات مرکزی آمریکا به روسیه درباره تشدید جنگ اوکراین هشدار داده است. دولت ترامپ کمبود مهمات را رد کرده اما خواستار افزایش تولید شده است.",
         "time": "00:41",
         "ts": 1787877719
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "هاآرتص در تحلیلی نوشت کاهش شدید صادرات نفت ایران می‌تواند منابع مالی سپاه پاسداران و دستگاه‌های امنیتی را محدود کند. این تحلیل می‌گوید کاهش درآمد نفت ممکن است توان حکومت برای سرکوب اعتراض‌ها را کاهش دهد. با این حال، میزان منابع جایگزین و تاثیر فشار اقتصادی بر ساختار قدرت هنوز نامشخص است.",
+        "time": "00:49",
+        "ts": 1787878168
       }
     ],
-    "packId": "20260828-02",
-    "sequence": 2,
+    "packId": "20260828-03",
+    "sequence": 3,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "00:42"
+    "updatedAt": "00:49"
   },
   "verified": true
 }
