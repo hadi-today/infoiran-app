@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-101 seq=101 exp=1788212206",
+      "advancedStatus": "pack_id=20260829-102 seq=102 exp=1788212457",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:36",
+      "lastChecked": "21:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 21:36",
+    "expiresAt": "2026-08-31 21:40",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -674,13 +674,19 @@
         "text": "مسعود پزشکیان در برنامه «گفت‌وگوی ویژه خبری» گفت منتقدان دولت باید با توجه به شرایط جنگی و محدودیت‌های مالی برنامه عملی ارائه دهند. او به کسانی که برای اجرای پیشنهادهایشان پول می‌خواهند گفت که دولت پول ندارد. پزشکیان همچنین ادعای بی‌اثر بودن تحریم‌ها را رد کرد.",
         "time": "21:36",
         "ts": 1788039382
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "جلال ملکی از انفجار یک تانکر در کارگاهی در ابتدای جاده فیروزبهـرام خبر داد. در این حادثه یک کارگر ۲۱ ساله جان باخت و دو نفر دیگر مصدوم شدند. همچنین دو کانکس کوچک در نزدیکی تانکر دچار آتش‌سوزی شدند.",
+        "time": "21:40",
+        "ts": 1788039636
       }
     ],
-    "packId": "20260829-101",
-    "sequence": 101,
+    "packId": "20260829-102",
+    "sequence": 102,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "21:36"
+    "updatedAt": "21:40"
   },
   "verified": true
 }
