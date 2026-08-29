@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-76 seq=76 exp=1788193383",
+      "advancedStatus": "pack_id=20260829-77 seq=77 exp=1788193464",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:23",
+      "lastChecked": "16:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 16:23",
+    "expiresAt": "2026-08-31 16:24",
     "items": [
       {
         "channel": "iranintl",
@@ -784,14 +784,28 @@
         "text": "Government sources announced that popular forces have been deployed to the Strait of Hormuz. This action was taken in response to Trump's provocations. Further details have not been disclosed.",
         "time": "16:22",
         "ts": 1788020556
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "According to recorded rates on Saturday, 6 Shahrivar 1405, the US dollar price in the free market was about 205,880 tomans, and in the Herat market about 205,230 tomans. The euro was traded at about 238,910 tomans, the pound at about 279,090 tomans, and the Canadian dollar at about 148,650 tomans. Each gram of 18-karat gold was reported at about 21,810,790 tomans, and each misqal of melted gold at about 94,480,000 tomans.",
+        "time": "16:23",
+        "ts": 1788020608
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Steven Miller, Deputy Chief of Staff at the White House, said Trump has achieved the most in fighting the Islamic terrorism of the Iranian government. He claimed that Iran's navy, air force, radars, and military command structure have been destroyed. Miller described this situation as the most asymmetric military achievement in modern war history.",
+        "time": "16:24",
+        "ts": 1788020654
       }
     ],
     "language": "en",
-    "packId": "20260829-76",
-    "sequence": 76,
+    "packId": "20260829-77",
+    "sequence": 77,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:23"
+    "updatedAt": "16:24"
   },
   "verified": true
 }
