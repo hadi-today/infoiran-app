@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-56 seq=56 exp=1788182444",
+      "advancedStatus": "pack_id=20260829-57 seq=57 exp=1788182550",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:20",
+      "lastChecked": "13:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 13:20",
+    "expiresAt": "2026-08-31 13:22",
     "items": [
       {
         "channel": "iranintl",
@@ -798,14 +798,21 @@
         "text": "According to reports, the Islamic Republic has provided weapons training to its supporters. A citizen reported weapons training for women and children in Kashan. Asieh Amini considers this action an ideological, security, and economic abuse.",
         "time": "13:20",
         "ts": 1788009609
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Masoud Pezeshkian, head of the Islamic Republic government, stated that implementing the agreement with the US based on internal unity can help overcome problems. He emphasized that the agreement is approved by all concerned patriots. Pezeshkian believes that executing it can help overcome difficulties.",
+        "time": "13:22",
+        "ts": 1788009723
       }
     ],
     "language": "en",
-    "packId": "20260829-56",
-    "sequence": 56,
+    "packId": "20260829-57",
+    "sequence": 57,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:20"
+    "updatedAt": "13:22"
   },
   "verified": true
 }
