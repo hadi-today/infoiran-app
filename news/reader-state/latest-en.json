@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-05 seq=5 exp=1788139188",
+      "advancedStatus": "pack_id=20260829-06 seq=6 exp=1788144537",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:19",
+      "lastChecked": "02:48",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 01:19",
+    "expiresAt": "2026-08-31 02:48",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "New Zealand's Foreign Ministry stated it will not take a position at this stage regarding the US economic exclusion campaign against the Islamic Republic. The country supports UN Security Council sanctions as long as they comply with international law. New Zealand has also sanctioned some Iranian individuals and companies involved in supporting Russia's war in Ukraine.",
-        "time": "02:03",
-        "ts": 1787882601
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "The New York Times reported in an analysis that six months after the start of the war with the Iranian government, most of President Donald Trump's goals have not been achieved, and the conflict continues without an exit strategy or a clear end. According to the newspaper, the Islamic Republic's air and naval capabilities have been damaged, but Tehran still has the ability to attack US bases and its allies. The newspaper added that daily ship traffic through the Strait of Hormuz has decreased from about 130 vessels before the war to 12.",
         "time": "01:19",
         "ts": 1787966358
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Associated Press reported that six months after the start of the war with Iran, American diplomats and some of their family members who had left regional countries in the early days of the war are returning to US embassies in the Middle East. The US State Department has begun easing some restrictions, and its embassies in Qatar, Kuwait, and Bahrain have authorized the return of diplomats' family members. These restrictions were imposed in March following attacks by the Islamic Republic on American interests, embassies, and military installations.",
+        "time": "02:48",
+        "ts": 1787971710
       }
     ],
     "language": "en",
-    "packId": "20260829-05",
-    "sequence": 5,
+    "packId": "20260829-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:19"
+    "updatedAt": "02:48"
   },
   "verified": true
 }
