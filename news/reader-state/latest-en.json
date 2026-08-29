@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-25 seq=25 exp=1788165181",
+      "advancedStatus": "pack_id=20260829-26 seq=26 exp=1788165369",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:33",
+      "lastChecked": "08:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 08:33",
+    "expiresAt": "2026-08-31 08:36",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen in a video to Iran International says that fuel shortages are rampant in various cities, especially in this city. The fuel crisis in these areas has been reported as severe. This issue has caused concerns.",
-        "time": "08:33",
-        "ts": 1787905994
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "The birthday ceremony of Seyed Aref Mirmousavi was held at his tomb with the presence of his family. Security forces blocked the area around the mosque and tomb, preventing some attendees from entering. Aref Mirmousavi was injured during the Tehran protests and died from his wounds.",
         "time": "08:32",
         "ts": 1787992360
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Meydari, Minister of Cooperatives, Labor, and Social Welfare, stated that the Islamic Republic is engaged in an economic war alongside the military war, and the government aims to win this war. He said the US is not adhering to agreements it previously accepted and is violating its commitments. Meydari described the US as untrustworthy and emphasized that the enemy failed to defeat Iran in the military war.",
+        "time": "08:35",
+        "ts": 1787992548
       }
     ],
     "language": "en",
-    "packId": "20260829-25",
-    "sequence": 25,
+    "packId": "20260829-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:33"
+    "updatedAt": "08:36"
   },
   "verified": true
 }
