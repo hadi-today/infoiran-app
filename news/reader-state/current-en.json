@@ -1,19 +1,19 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260828-122 seq=122 exp=1788134277",
+      "advancedStatus": "pack_id=20260829-01 seq=1 exp=1788134745",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:57",
+      "lastChecked": "00:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-08-28",
-    "expiresAt": "2026-08-30 23:57",
+    "date": "2026-08-29",
+    "expiresAt": "2026-08-31 00:05",
     "items": [
       {
         "channel": "iranintl",
@@ -889,14 +889,21 @@
         "text": "Donald Trump announced that the US has reached a major oil agreement with Venezuela. According to the deal, the US will control the majority of over 65 billion barrels of Venezuelan oil without cost to taxpayers. This agreement will more than double US oil reserves and help reduce gasoline prices.",
         "time": "23:57",
         "ts": 1787961446
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The International Maritime Organization stated that the crisis in the Strait of Hormuz remains unresolved six months after the Iran war. About 400 ships carrying nearly six thousand sailors have not been able to safely pass through the area. The organization reported 70 incidents and 19 sailor deaths.",
+        "time": "00:05",
+        "ts": 1787961917
       }
     ],
     "language": "en",
-    "packId": "20260828-122",
-    "sequence": 122,
+    "packId": "20260829-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:57"
+    "updatedAt": "00:05"
   },
   "verified": true
 }
