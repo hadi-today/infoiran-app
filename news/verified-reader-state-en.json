@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-73 seq=73 exp=1788192792",
+      "advancedStatus": "pack_id=20260829-74 seq=74 exp=1788193176",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:13",
+      "lastChecked": "16:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 16:13",
+    "expiresAt": "2026-08-31 16:19",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Hanna Neumann stated that the Islamic Republic's armed forces label Iran International, BBC Persian, and Radio Farda journalists as military targets. She described this as an example of cross-border repression increasing the risk of violence against journalists. Neumann called on the European Union to take further measures to protect journalists.",
-        "time": "16:13",
-        "ts": 1787933598
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -777,14 +770,21 @@
         "text": "Masoud Pezeshkian stated that if electricity must be cut, government electricity should be cut, not the production sector. He advised governors to prepare for winter and fuel management.",
         "time": "16:12",
         "ts": 1788019961
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iranian under-17 volleyball team defeated France 3-1 in the final of the World Championship in Doha, Qatar. Iran lost the third set but won the first, second, and fourth sets. This is Iran's first championship in this tournament.",
+        "time": "16:19",
+        "ts": 1788020344
       }
     ],
     "language": "en",
-    "packId": "20260829-73",
-    "sequence": 73,
+    "packId": "20260829-74",
+    "sequence": 74,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:13"
+    "updatedAt": "16:19"
   },
   "verified": true
 }
