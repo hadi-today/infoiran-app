@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-65 seq=65 exp=1788188407",
+      "advancedStatus": "pack_id=20260829-66 seq=66 exp=1788188701",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:00",
+      "lastChecked": "15:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 15:00",
+    "expiresAt": "2026-08-31 15:05",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Saadollah Zarei said that honorable peace in the current situation means surrender. He stated that the goal of the US is the surrender of the Islamic Republic. He also mentioned that the US increases threats and pressures while proposing negotiations.",
-        "time": "15:01",
-        "ts": 1787929318
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -763,14 +756,21 @@
         "text": "The Rajaei port in Bandar Abbas, Iran's largest commercial port, has recently been seen without ships and normal commercial activity. Masoud Pezeshkian stated that the goods entry route is closed and gasoline is not being imported. This indicates a halt in import activities at this port.",
         "time": "14:59",
         "ts": 1788015583
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen criticized the high prices and said that due to economic pressure, nothing remains in his refrigerator except bread and dates.",
+        "time": "15:04",
+        "ts": 1788015881
       }
     ],
     "language": "en",
-    "packId": "20260829-65",
-    "sequence": 65,
+    "packId": "20260829-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:00"
+    "updatedAt": "15:05"
   },
   "verified": true
 }
