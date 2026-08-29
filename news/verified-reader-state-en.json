@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-29 seq=29 exp=1788167058",
+      "advancedStatus": "pack_id=20260829-30 seq=30 exp=1788167157",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:04",
+      "lastChecked": "09:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 09:04",
+    "expiresAt": "2026-08-31 09:05",
     "items": [
       {
         "channel": "harana",
@@ -903,14 +903,21 @@
         "text": "Ali Hashemi, a detained protester from the December protests, died of cardiac arrest in Al-Zahra Hospital in Isfahan. He was arrested on May 15 at his father's home and was held in Isfahan Central Prison. His family initially expected his release upon paying a fine but were later told to await a court hearing.",
         "time": "09:03",
         "ts": 1787994234
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran International audiences reacted to Mokhberian's remarks about the naturalness of price increases. They believe the next round of widespread protests will also be natural. Mohsen Mahimini has explained these reactions.",
+        "time": "09:04",
+        "ts": 1787994271
       }
     ],
     "language": "en",
-    "packId": "20260829-29",
-    "sequence": 29,
+    "packId": "20260829-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:04"
+    "updatedAt": "09:05"
   },
   "verified": true
 }
