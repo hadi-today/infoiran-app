@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-80 seq=80 exp=1788195804",
+      "advancedStatus": "pack_id=20260829-81 seq=81 exp=1788196050",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:03",
+      "lastChecked": "17:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 17:03",
+    "expiresAt": "2026-08-31 17:07",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,21 @@
         "text": "A video sent to Iran International shows the slogan \"Long live the Shah\" on a wall in Mehrshahr, Karaj. The video is from a specific location in Karaj. The slogan in this video has attracted attention.",
         "time": "17:03",
         "ts": 1788022982
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "UEFA has opened a disciplinary case against Red Star Belgrade for displaying banners honoring Ratko Mladić during a match against Viktoria Plzeň. Mladić, convicted of the Srebrenica genocide, died on Thursday. Fans held banners reading \"General, eternal glory and thanks\" and chanted his name during the game.",
+        "time": "17:07",
+        "ts": 1788023228
       }
     ],
     "language": "en",
-    "packId": "20260829-80",
-    "sequence": 80,
+    "packId": "20260829-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:03"
+    "updatedAt": "17:07"
   },
   "verified": true
 }
