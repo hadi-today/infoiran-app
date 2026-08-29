@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-21 seq=21 exp=1788161501",
+      "advancedStatus": "pack_id=20260829-22 seq=22 exp=1788162711",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:31",
+      "lastChecked": "07:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 07:31",
+    "expiresAt": "2026-08-31 07:51",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen criticized rising prices in a video sent to Iran International, stating that the wages for three days of work only cover one day of food for the family. He pointed to the high costs. This highlights the economic pressure on families.",
-        "time": "07:41",
-        "ts": 1787902860
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +903,28 @@
         "text": "A video shows that on the 7th of Shahrivar, images of Yasmin and Noor Pahlavi were pasted on a wall in a neighborhood in Tehran. These images are of the wife and daughter of Prince Reza Pahlavi. This event was recorded by a citizen.",
         "time": "07:31",
         "ts": 1787988674
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hojat Karimi, CEO of Tractor club, denied negotiations with Mehdi Taremi and said they will negotiate with him next year. He also stated that they have not negotiated with Sardar Azmoun but would like him to join Tractor. He hopes this will happen.",
+        "time": "07:51",
+        "ts": 1787989890
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Cristiano Ronaldo scored against Al Taawoun to reach 104 goals for Al Nassr in the Saudi Pro League, surpassing Mohammad Al-Sahlawi's 103 goals and becoming the club's all-time top scorer in the competition.",
+        "time": "07:51",
+        "ts": 1787989905
       }
     ],
     "language": "en",
-    "packId": "20260829-21",
-    "sequence": 21,
+    "packId": "20260829-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:31"
+    "updatedAt": "07:51"
   },
   "verified": true
 }
