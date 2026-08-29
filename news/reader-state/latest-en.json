@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-26 seq=26 exp=1788165369",
+      "advancedStatus": "pack_id=20260829-27 seq=27 exp=1788166689",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:36",
+      "lastChecked": "08:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 08:36",
+    "expiresAt": "2026-08-31 08:58",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Rouhollah Rahimpour stated that Qatar and Pakistan are mediating between the Islamic Republic and the US. The main focus is on the Strait of Hormuz and restoring normal ship traffic. The goal is not to resolve disputes between Tehran and Washington.",
-        "time": "08:36",
-        "ts": 1787906212
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "Ahmad Meydari, Minister of Cooperatives, Labor, and Social Welfare, stated that the Islamic Republic is engaged in an economic war alongside the military war, and the government aims to win this war. He said the US is not adhering to agreements it previously accepted and is violating its commitments. Meydari described the US as untrustworthy and emphasized that the enemy failed to defeat Iran in the military war.",
         "time": "08:35",
         "ts": 1787992548
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The football teams Persepolis and Malavan will face each other on Saturday, 7th of Shahrivar 1405, at Ghal'eh Hasan Khan Stadium. This match is part of the fourth week of the Premier League. Iran International Sports Instagram page has a poll about the match result.",
+        "time": "08:57",
+        "ts": 1787993859
       }
     ],
     "language": "en",
-    "packId": "20260829-26",
-    "sequence": 26,
+    "packId": "20260829-27",
+    "sequence": 27,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:36"
+    "updatedAt": "08:58"
   },
   "verified": true
 }
