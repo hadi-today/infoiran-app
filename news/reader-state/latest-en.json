@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-16 seq=16 exp=1788158440",
+      "advancedStatus": "pack_id=20260829-17 seq=17 exp=1788159196",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:40",
+      "lastChecked": "06:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 06:40",
+    "expiresAt": "2026-08-31 06:53",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "Majid Adineh, a retired military officer, participated in protests on the evening of January 9. The Revolutionary Court of Karaj sentenced him to death and confiscation of property on charges including waging war and acting in favor of Israel and the United States. His death sentence was confirmed by the Supreme Court.",
         "time": "06:40",
         "ts": 1787985615
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Alavi referred to Masoud Pezeshkian's statements, saying the government is indecisive about raising the price of the third gasoline quota. He added that this uncertainty increases economic insecurity. Alavi also warned that the price increase could intensify dissatisfaction and lead to social unrest.",
+        "time": "06:52",
+        "ts": 1787986372
       }
     ],
     "language": "en",
-    "packId": "20260829-16",
-    "sequence": 16,
+    "packId": "20260829-17",
+    "sequence": 17,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:40"
+    "updatedAt": "06:53"
   },
   "verified": true
 }
