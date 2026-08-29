@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-51 seq=51 exp=1788180041",
+      "advancedStatus": "pack_id=20260829-52 seq=52 exp=1788180288",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:40",
+      "lastChecked": "12:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 12:40",
+    "expiresAt": "2026-08-31 12:44",
     "items": [
       {
         "channel": "iranintl",
@@ -840,14 +840,21 @@
         "text": "Rouhollah Lak Aliabadi, deputy head of the parliamentary health commission, called seizing American resources a practical way to counter sanctions. He urged hitting the economic or military interests of the US if necessary. He emphasized that wherever they have access to US interests, those resources should be seized.",
         "time": "12:40",
         "ts": 1788007217
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Roya (Razieh) Hashemi, a citizen from Abdanan, was detained by security forces three days ago. Her place of detention remains unknown. The arrest was made without presenting a judicial warrant.",
+        "time": "12:44",
+        "ts": 1788007465
       }
     ],
     "language": "en",
-    "packId": "20260829-51",
-    "sequence": 51,
+    "packId": "20260829-52",
+    "sequence": 52,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:40"
+    "updatedAt": "12:44"
   },
   "verified": true
 }
