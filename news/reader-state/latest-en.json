@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-39 seq=39 exp=1788171865",
+      "advancedStatus": "pack_id=20260829-40 seq=40 exp=1788172329",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:24",
+      "lastChecked": "10:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 10:24",
+    "expiresAt": "2026-08-31 10:32",
     "items": [
       {
         "channel": "iranintl",
@@ -903,14 +903,21 @@
         "text": "Babak Khatti, a pediatrician, warned about adding half a percent of methanol to gasoline. He said methanol can damage the optic nerve and liver and in severe cases cause permanent blindness. Direct exposure to methanol vapors causes eye problems, dizziness, and respiratory issues.",
         "time": "10:23",
         "ts": 1787999034
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Today, Saturday, 7 Shahrivar, some environmental health personnel in Hamedan protested against their living conditions and demands. The protesters demanded the removal of discrimination regarding Thursday remote work and payment of overdue wages. They also requested special bonuses, incentives, clothing allowance, and transportation costs.",
+        "time": "10:31",
+        "ts": 1787999496
       }
     ],
     "language": "en",
-    "packId": "20260829-39",
-    "sequence": 39,
+    "packId": "20260829-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:24"
+    "updatedAt": "10:32"
   },
   "verified": true
 }
