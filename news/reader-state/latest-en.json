@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-75 seq=75 exp=1788193297",
+      "advancedStatus": "pack_id=20260829-76 seq=76 exp=1788193383",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:21",
+      "lastChecked": "16:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 16:21",
+    "expiresAt": "2026-08-31 16:23",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Employees of Megamotor company have five months of unpaid salaries and severe economic problems persist. Public schools charge high registration fees and car parts have become expensive. Fuel shortages and power outages have been reported in Tehran and Karaj.",
-        "time": "16:21",
-        "ts": 1787934117
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -784,14 +777,21 @@
         "text": "Since the beginning of 2026, the Abdul Rahman Boroumand Foundation has documented 950 executions in Iran. Among those executed are at least 20 women and 30 protesters. Additionally, 45 executions were recorded in August.",
         "time": "16:21",
         "ts": 1788020470
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Government sources announced that popular forces have been deployed to the Strait of Hormuz. This action was taken in response to Trump's provocations. Further details have not been disclosed.",
+        "time": "16:22",
+        "ts": 1788020556
       }
     ],
     "language": "en",
-    "packId": "20260829-75",
-    "sequence": 75,
+    "packId": "20260829-76",
+    "sequence": 76,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:21"
+    "updatedAt": "16:23"
   },
   "verified": true
 }
