@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-02 seq=2 exp=1788135234",
+      "advancedStatus": "pack_id=20260829-03 seq=3 exp=1788135671",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:13",
+      "lastChecked": "00:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 00:13",
+    "expiresAt": "2026-08-31 00:21",
     "items": [
       {
         "channel": "iranintl",
@@ -896,14 +896,21 @@
         "text": "NBC News reported, citing two informed individuals, that US Secretary of Defense Pete Hegseth has privately discussed the possibility of running in the 2028 presidential election. The Pentagon denied the report, calling it “ridiculous.”",
         "time": "00:13",
         "ts": 1787962404
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Marco Rubio called the oil agreement between the US and Venezuela a major victory for both countries. The deal will bring nearly $100 billion in private investment to Venezuela and help rebuild its economy. Donald Trump described the agreement as the largest oil deal in world history.",
+        "time": "00:20",
+        "ts": 1787962844
       }
     ],
     "language": "en",
-    "packId": "20260829-02",
-    "sequence": 2,
+    "packId": "20260829-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:13"
+    "updatedAt": "00:21"
   },
   "verified": true
 }
