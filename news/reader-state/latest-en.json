@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-74 seq=74 exp=1788193176",
+      "advancedStatus": "pack_id=20260829-75 seq=75 exp=1788193297",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:19",
+      "lastChecked": "16:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 16:19",
+    "expiresAt": "2026-08-31 16:21",
     "items": [
       {
         "channel": "iranintl",
@@ -777,14 +777,21 @@
         "text": "The Iranian under-17 volleyball team defeated France 3-1 in the final of the World Championship in Doha, Qatar. Iran lost the third set but won the first, second, and fourth sets. This is Iran's first championship in this tournament.",
         "time": "16:19",
         "ts": 1788020344
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Since the beginning of 2026, the Abdul Rahman Boroumand Foundation has documented 950 executions in Iran. Among those executed are at least 20 women and 30 protesters. Additionally, 45 executions were recorded in August.",
+        "time": "16:21",
+        "ts": 1788020470
       }
     ],
     "language": "en",
-    "packId": "20260829-74",
-    "sequence": 74,
+    "packId": "20260829-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:19"
+    "updatedAt": "16:21"
   },
   "verified": true
 }
