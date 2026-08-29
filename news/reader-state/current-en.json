@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-81 seq=81 exp=1788196050",
+      "advancedStatus": "pack_id=20260829-82 seq=82 exp=1788196525",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:07",
+      "lastChecked": "17:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 17:07",
+    "expiresAt": "2026-08-31 17:15",
     "items": [
       {
         "channel": "iranintl",
@@ -812,14 +812,21 @@
         "text": "UEFA has opened a disciplinary case against Red Star Belgrade for displaying banners honoring Ratko Mladić during a match against Viktoria Plzeň. Mladić, convicted of the Srebrenica genocide, died on Thursday. Fans held banners reading \"General, eternal glory and thanks\" and chanted his name during the game.",
         "time": "17:07",
         "ts": 1788023228
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The absence of Mojtaba Khamenei continues while power gaps in the Islamic Republic have increased. Jaber Rajabi says security reasons do not sufficiently explain this absence. His absence, given his limited position, has deepened the existing void.",
+        "time": "17:15",
+        "ts": 1788023702
       }
     ],
     "language": "en",
-    "packId": "20260829-81",
-    "sequence": 81,
+    "packId": "20260829-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:07"
+    "updatedAt": "17:15"
   },
   "verified": true
 }
