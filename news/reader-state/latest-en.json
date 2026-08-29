@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-106 seq=106 exp=1788214853",
+      "advancedStatus": "pack_id=20260829-107 seq=107 exp=1788215088",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:20",
+      "lastChecked": "22:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 22:20",
+    "expiresAt": "2026-08-31 22:24",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,21 @@
         "text": "Mehdi Moslehi said that Iraq's oil exports via Turkey have limited short-term impact but can reduce Iraq's dependence on the Strait of Hormuz in the long term. Developing this route strengthens Iraq's energy security but requires resolving security and political obstacles. Until these challenges are addressed, the Strait of Hormuz remains Iraq's main oil export route.",
         "time": "22:19",
         "ts": 1788041956
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Navid Mohibi said that Prince Reza Pahlavi's emphasis on unity, discipline, and responsibility is a response to recent opposition disputes. He added that no successful political movement should allow personal differences to overshadow the main struggle. Also, the statement by royalist political prisoners shows an emphasis on common principles for convergence.",
+        "time": "22:24",
+        "ts": 1788042257
       }
     ],
     "language": "en",
-    "packId": "20260829-106",
-    "sequence": 106,
+    "packId": "20260829-107",
+    "sequence": 107,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:20"
+    "updatedAt": "22:24"
   },
   "verified": true
 }
