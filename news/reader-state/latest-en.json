@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-09 seq=9 exp=1788153126",
+      "advancedStatus": "pack_id=20260829-10 seq=10 exp=1788154242",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:12",
+      "lastChecked": "05:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 05:12",
+    "expiresAt": "2026-08-31 05:30",
     "items": [
       {
         "channel": "iranintl",
@@ -896,14 +896,21 @@
         "text": "Mohammad Qaedi discussed the oil contract between the US and Venezuela, stating that US investment could increase Venezuela's oil production capacity. He pointed out ambiguity regarding the interim government's authority to sign a long-term contract. The possibility of the contract being challenged in the future is also a major obstacle.",
         "time": "05:11",
         "ts": 1787980298
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Houshang Hassan Yari stated that Hezbollah has lost a significant part of its military capabilities and commanders. Naeem Qassem expressed support for the Islamic Republic, but Hezbollah currently lacks effective military support capacity. These statements are mainly a political message to maintain groups aligned with the Islamic Republic.",
+        "time": "05:30",
+        "ts": 1787981419
       }
     ],
     "language": "en",
-    "packId": "20260829-09",
-    "sequence": 9,
+    "packId": "20260829-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:12"
+    "updatedAt": "05:30"
   },
   "verified": true
 }
