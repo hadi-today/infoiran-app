@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-82 seq=82 exp=1788196525",
+      "advancedStatus": "pack_id=20260829-83 seq=83 exp=1788196883",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:15",
+      "lastChecked": "17:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 17:15",
+    "expiresAt": "2026-08-31 17:21",
     "items": [
       {
         "channel": "iranintl",
@@ -819,14 +819,21 @@
         "text": "The absence of Mojtaba Khamenei continues while power gaps in the Islamic Republic have increased. Jaber Rajabi says security reasons do not sufficiently explain this absence. His absence, given his limited position, has deepened the existing void.",
         "time": "17:15",
         "ts": 1788023702
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Minister of Science said that during crises people become more united, but after the crisis, demands increase. He emphasized the need for social capital and development of welfare for societal resilience. He also stated that the perception of a large gap with major powers is incorrect and Iran has the ability to stand firm.",
+        "time": "17:21",
+        "ts": 1788024062
       }
     ],
     "language": "en",
-    "packId": "20260829-82",
-    "sequence": 82,
+    "packId": "20260829-83",
+    "sequence": 83,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:15"
+    "updatedAt": "17:21"
   },
   "verified": true
 }
