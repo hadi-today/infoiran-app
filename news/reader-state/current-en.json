@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-04 seq=4 exp=1788137460",
+      "advancedStatus": "pack_id=20260829-05 seq=5 exp=1788139188",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:51",
+      "lastChecked": "01:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 00:51",
+    "expiresAt": "2026-08-31 01:19",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Scott Bessent, the US Treasury Secretary, intends to urge G20 members to enforce sanctions on Iran's government at the financial meeting in Asheville, North Carolina. A US Treasury official said Bessent will work to expand Iran's economic isolation. China, as the largest buyer of Iranian oil, is one of the main challenges to this campaign.",
-        "time": "01:00",
-        "ts": 1787878854
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Brad Cooper, CENTCOM commander, stated that US forces have protected the passage of nearly 1,500 ships carrying about 750 million barrels of crude oil through the Strait of Hormuz in recent months. The US has cleared mines planted by the IRGC, keeping international routes open. Washington continues the naval blockade of Iran, halting oil exports from Iranian ports.",
-        "time": "01:07",
-        "ts": 1787879224
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -896,14 +882,21 @@
         "text": "The US Central Command announced that by August 28, it had redirected 82 commercial ships, disabled three ships, and boarded two ships. These actions were part of the naval blockade against Iran. CENTCOM also released an image of a sailor on the USS John Paul Jones destroyer.",
         "time": "00:50",
         "ts": 1787964630
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The New York Times reported in an analysis that six months after the start of the war with the Iranian government, most of President Donald Trump's goals have not been achieved, and the conflict continues without an exit strategy or a clear end. According to the newspaper, the Islamic Republic's air and naval capabilities have been damaged, but Tehran still has the ability to attack US bases and its allies. The newspaper added that daily ship traffic through the Strait of Hormuz has decreased from about 130 vessels before the war to 12.",
+        "time": "01:19",
+        "ts": 1787966358
       }
     ],
     "language": "en",
-    "packId": "20260829-04",
-    "sequence": 4,
+    "packId": "20260829-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:51"
+    "updatedAt": "01:19"
   },
   "verified": true
 }
