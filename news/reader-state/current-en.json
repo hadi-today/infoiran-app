@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-20 seq=20 exp=1788161038",
+      "advancedStatus": "pack_id=20260829-21 seq=21 exp=1788161501",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:23",
+      "lastChecked": "07:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 07:23",
+    "expiresAt": "2026-08-31 07:31",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "On Thursday night, a deep lunar eclipse was visible in parts of the world. This astronomical event was one of the most spectacular. A similar event will not occur again for another 18 years.",
-        "time": "07:28",
-        "ts": 1787902122
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +903,21 @@
         "text": "Burial costs and the buying and selling of burial rights in Iran have reached billion-toman prices. This has become part of the livelihood crisis for families. Saman Rahmatian examined the impact of the economic crisis on the cemetery market in a report.",
         "time": "07:23",
         "ts": 1787988214
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows that on the 7th of Shahrivar, images of Yasmin and Noor Pahlavi were pasted on a wall in a neighborhood in Tehran. These images are of the wife and daughter of Prince Reza Pahlavi. This event was recorded by a citizen.",
+        "time": "07:31",
+        "ts": 1787988674
       }
     ],
     "language": "en",
-    "packId": "20260829-20",
-    "sequence": 20,
+    "packId": "20260829-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:23"
+    "updatedAt": "07:31"
   },
   "verified": true
 }
