@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-23 seq=23 exp=1788162788",
+      "advancedStatus": "pack_id=20260829-24 seq=24 exp=1788163735",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:53",
+      "lastChecked": "08:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 07:53",
+    "expiresAt": "2026-08-31 08:08",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A video from Iran International shows that following the nationwide gasoline crisis in Iran, a long gasoline queue formed in the Kianmehr neighborhood of Ahvaz. This queue formed overnight on Thursday evening.",
-        "time": "08:05",
-        "ts": 1787904305
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +910,21 @@
         "text": "Cristiano Ronaldo scored against Al Taawoun to reach 104 goals for Al Nassr in the Saudi Pro League, surpassing Mohammad Al-Sahlawi's 103 goals and becoming the club's all-time top scorer in the competition.",
         "time": "07:51",
         "ts": 1787989905
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Maryam Tajangi, a resident of Golbahar, has been held in Vakilabad Prison in Mashhad for nearly two months. Her case is under investigation in one of the interrogation branches in Golbahar. Her interrogation session was held via videoconference.",
+        "time": "08:08",
+        "ts": 1787990911
       }
     ],
     "language": "en",
-    "packId": "20260829-23",
-    "sequence": 23,
+    "packId": "20260829-24",
+    "sequence": 24,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:53"
+    "updatedAt": "08:08"
   },
   "verified": true
 }
