@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-32 seq=32 exp=1788167527",
+      "advancedStatus": "pack_id=20260829-33 seq=33 exp=1788167876",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:12",
+      "lastChecked": "09:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 09:12",
+    "expiresAt": "2026-08-31 09:17",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "The Islamic Republic's cabinet responded to Mojtaba Khamenei's message by stating it will stand against US and Israeli sanctions and conspiracies, advancing diplomacy and defense simultaneously. Controlling inflation, market management, job creation, and supporting domestic production are priorities of the fourteenth government. Gradual reduction of dependence on the dollar is also planned.",
         "time": "09:10",
         "ts": 1787994647
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Naim Qassem, Secretary-General of Hezbollah Lebanon, rejected the agreement between Lebanon and Israel mediated by the US. He described the agreement as illegal, humiliating, and destructive for the Lebanese government. Qassem stated that Hezbollah will continue its presence in southern Lebanon.",
+        "time": "09:17",
+        "ts": 1787995028
       }
     ],
     "language": "en",
-    "packId": "20260829-32",
-    "sequence": 32,
+    "packId": "20260829-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:12"
+    "updatedAt": "09:17"
   },
   "verified": true
 }
