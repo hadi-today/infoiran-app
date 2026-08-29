@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-54 seq=54 exp=1788181750",
+      "advancedStatus": "pack_id=20260829-55 seq=55 exp=1788181833",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:09",
+      "lastChecked": "13:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 13:09",
+    "expiresAt": "2026-08-31 13:10",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Maziar Zare, Malavan's head coach, said in a press conference before the match against Persepolis that playing in Tehran is difficult and Persepolis is a well-equipped team. He denied rumors about Alireza Beiranvand joining Malavan and explained Malavan's financial situation and the use of young players. Zare also commented on Persepolis's league status and playing style.",
-        "time": "13:09",
-        "ts": 1787922542
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -805,14 +798,21 @@
         "text": "A ranger in Baft County was injured during a mission by two illegal hunters. The offenders were identified and arrested.",
         "time": "13:08",
         "ts": 1788008927
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Masoumeh Taherkhani, an economic analyst, criticized the performance of the Pezeshkian government in managing the currency crisis. She said the government only reports the poor economic situation instead of providing an operational plan. She also warned that the president's remarks about reducing currency demand could lead to more rationing and increased inflation.",
+        "time": "13:10",
+        "ts": 1788009009
       }
     ],
     "language": "en",
-    "packId": "20260829-54",
-    "sequence": 54,
+    "packId": "20260829-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:09"
+    "updatedAt": "13:10"
   },
   "verified": true
 }
