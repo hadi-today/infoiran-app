@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-41 seq=41 exp=1788173077",
+      "advancedStatus": "pack_id=20260829-42 seq=42 exp=1788174909",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:44",
+      "lastChecked": "11:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 10:44",
+    "expiresAt": "2026-08-31 11:15",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Soheila Hejab, detained during the December 2025 protests, has been held in uncertain conditions in Karaj's Kachouyi prison for nearly eight months. She remains in custody, and a bail of four billion tomans has been set for her temporary release. This information was reported by the HRANA news agency.",
-        "time": "10:45",
-        "ts": 1787913957
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Water has been cut off in Safadasht from midnight on Thursday, September 5, until 2 PM on Friday, September 6. Internet in Tabriz has become very weak and VPNs are not working. Snapp drivers complain about the possible internet shutdown and economic difficulties.",
-        "time": "10:46",
-        "ts": 1787913982
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Javad Haj Ali Akbari stated that supporting the family and promoting a chaste lifestyle is a duty of the government. He criticized the anti-hijab policies during the Pahlavi era and called the promotion of immorality a factor weakening the family. He also urged media and elites to work towards protecting the family.",
-        "time": "10:58",
-        "ts": 1787914721
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -896,14 +875,21 @@
         "text": "The head of Imam Khomeini Hospital Complex in Tehran reported a lack of empty beds and an occupancy rate of up to 200% in the emergency department. He cited high private sector tariffs, economic problems, and patient referrals from other cities as reasons for increased visits to public hospitals. He also warned that this situation causes treatment delays and staff burnout in the emergency department.",
         "time": "10:43",
         "ts": 1788000235
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "According to the US Treasury report, a branch of Bank of Egypt in the UAE conducted dollar operations for the Islamic Republic. This bank was part of Iran's shadow banking system. After the sanctions, the bank announced it would cooperate with the US government.",
+        "time": "11:14",
+        "ts": 1788002086
       }
     ],
     "language": "en",
-    "packId": "20260829-41",
-    "sequence": 41,
+    "packId": "20260829-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:44"
+    "updatedAt": "11:15"
   },
   "verified": true
 }
