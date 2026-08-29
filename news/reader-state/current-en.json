@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-68 seq=68 exp=1788188960",
+      "advancedStatus": "pack_id=20260829-69 seq=69 exp=1788190120",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:09",
+      "lastChecked": "15:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 15:09",
+    "expiresAt": "2026-08-31 15:28",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Iranian Statistics Center reported that the point-to-point inflation of food items has exceeded 128 percent. This rate is about twice the inflation of non-food goods. An economic journalist stated that official inflation figures do not reflect the real cost of living, and the inflation pressure is felt more by the lower income groups.",
-        "time": "15:16",
-        "ts": 1787930170
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Asieh Amini, a social issues analyst, stated that the Islamic Republic has ignored the role of women in Iran's modernization over nearly five decades. She expressed this in an interview with Iran International.",
-        "time": "15:23",
-        "ts": 1787930582
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -777,14 +763,21 @@
         "text": "Five citizens from Sardush village in Mariwan, including Azad Norouzi, Zanyar Tavana, Pouya KakaMohammadi, Zanyar Ghaderi, and Shirzad Abdi, were arrested by security forces. They have been transferred to an unknown location. This event occurred today.",
         "time": "15:08",
         "ts": 1788016111
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Pezeshkian stated that with the continuation of sanctions, prices will increase. The former head of Mossad said that to overthrow the Iranian regime, economic pressure must be combined with military attacks and popular protests. These statements came after a message attributed to Mojtaba Khamenei about censoring shortages was published.",
+        "time": "15:28",
+        "ts": 1788017291
       }
     ],
     "language": "en",
-    "packId": "20260829-68",
-    "sequence": 68,
+    "packId": "20260829-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:09"
+    "updatedAt": "15:28"
   },
   "verified": true
 }
