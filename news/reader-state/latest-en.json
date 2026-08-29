@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-30 seq=30 exp=1788167157",
+      "advancedStatus": "pack_id=20260829-31 seq=31 exp=1788167369",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:05",
+      "lastChecked": "09:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 09:05",
+    "expiresAt": "2026-08-31 09:09",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The detention order for Soraya Manouchehrzadeh, Shima Sanaei, and Fakhereh Zahedi has been extended for one month. These three Baha'i citizens have been detained for seven days and are held in Tircola prison in Sari. They have been denied access to a lawyer and contact with their families.",
-        "time": "09:05",
-        "ts": 1787907931
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +903,21 @@
         "text": "Iran International audiences reacted to Mokhberian's remarks about the naturalness of price increases. They believe the next round of widespread protests will also be natural. Mohsen Mahimini has explained these reactions.",
         "time": "09:04",
         "ts": 1787994271
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Mansourian stated that he resolved the issue of signing the hosting letter for Esteghlal in the Asian Elite League by using his connections with the Iraqi Football Federation officials. This was mentioned in an interview with Mazdak Mirzaei. The Hattrick program has published this interview.",
+        "time": "09:09",
+        "ts": 1787994544
       }
     ],
     "language": "en",
-    "packId": "20260829-30",
-    "sequence": 30,
+    "packId": "20260829-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:05"
+    "updatedAt": "09:09"
   },
   "verified": true
 }
