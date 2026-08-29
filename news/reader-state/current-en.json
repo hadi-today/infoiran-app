@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-35 seq=35 exp=1788168847",
+      "advancedStatus": "pack_id=20260829-36 seq=36 exp=1788170484",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:34",
+      "lastChecked": "10:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 09:34",
+    "expiresAt": "2026-08-31 10:01",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen reported in a video that they paid nearly 800,000 tomans for a few grocery items. They protested against those responsible for the price increases. This report was published by Iran International.",
-        "time": "09:33",
-        "ts": 1787909630
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Shirazi referred to the report by the Iran Human Rights organization about the increase in executions. He said the Islamic Republic uses executions to create fear and terror. The reason for this action is the fear of renewed protests in Iran.",
-        "time": "09:56",
-        "ts": 1787910986
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Wall Street Journal reported that Bank Melli Iran continues to operate in Dubai despite US demands to close its branches. The US Treasury Secretary has called for all branches of Bank Melli Iran to be shut down. The bank also has branches in several European countries that remain active.",
-        "time": "09:57",
-        "ts": 1787911066
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +896,21 @@
         "text": "A video shows the moment of ground subsidence in Nashat Street, Isfahan. The head of crisis management in Isfahan province stated that the cause was a sewage pipeline break. This incident occurred at noon on the 7th of Shahrivar.",
         "time": "09:33",
         "ts": 1787996011
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Some Iranian businesses in Dubai have been closed. National and Saderat banks remain active in the UAE. Bank Misr continues its operations despite losing access to the US financial system.",
+        "time": "10:00",
+        "ts": 1787997647
       }
     ],
     "language": "en",
-    "packId": "20260829-35",
-    "sequence": 35,
+    "packId": "20260829-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:34"
+    "updatedAt": "10:01"
   },
   "verified": true
 }
