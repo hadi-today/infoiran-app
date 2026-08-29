@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-101 seq=101 exp=1788212206",
+      "advancedStatus": "pack_id=20260829-102 seq=102 exp=1788212457",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:36",
+      "lastChecked": "21:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 21:36",
+    "expiresAt": "2026-08-31 21:40",
     "items": [
       {
         "channel": "iranintl",
@@ -784,14 +784,21 @@
         "text": "Masoud Pezeshkian stated in the special news program that critics of the government should provide practical plans considering the war conditions and financial limitations. He told those who demand money for their proposals that the government does not have funds. Pezeshkian also rejected claims that sanctions are ineffective.",
         "time": "21:36",
         "ts": 1788039382
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Jalal Maleki reported an explosion of a tanker at a workshop at the beginning of Firouzbahram road. One 21-year-old worker died and two others were injured in the incident. Additionally, two small containers near the tanker caught fire.",
+        "time": "21:40",
+        "ts": 1788039636
       }
     ],
     "language": "en",
-    "packId": "20260829-101",
-    "sequence": 101,
+    "packId": "20260829-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:36"
+    "updatedAt": "21:40"
   },
   "verified": true
 }
