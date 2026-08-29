@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-07 seq=7 exp=1788148982",
+      "advancedStatus": "pack_id=20260829-08 seq=8 exp=1788152066",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:03",
+      "lastChecked": "04:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 04:03",
+    "expiresAt": "2026-08-31 04:54",
     "items": [
       {
         "channel": "iranintl",
@@ -882,14 +882,21 @@
         "text": "Iranian officials acknowledge increased economic pressure amid six months of conflict with the US. The Iranian president reported a 35% decrease in exports and imports and 66% inflation. Meanwhile, tensions in the Strait of Hormuz continue with reduced ship traffic.",
         "time": "04:02",
         "ts": 1787976157
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Political analyst Najat Bahrami, referring to Masoud Pezeshkian's description of the economic situation, said the Islamic Republic has 'run out of steam' in the economic sphere. He warned that continued US economic pressure and siege could push the regime toward creating tension or conflict in the region. Bahrami added that if the Trump administration continues this pressure until the November elections, the Islamic Republic might resort to a tension-creating action to disrupt this process.",
+        "time": "04:54",
+        "ts": 1787979242
       }
     ],
     "language": "en",
-    "packId": "20260829-07",
-    "sequence": 7,
+    "packId": "20260829-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:03"
+    "updatedAt": "04:54"
   },
   "verified": true
 }
