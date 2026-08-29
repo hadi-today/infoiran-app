@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-02 seq=2 exp=1788135234",
+      "advancedStatus": "pack_id=20260829-03 seq=3 exp=1788135671",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:13",
+      "lastChecked": "00:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 00:13",
+    "expiresAt": "2026-08-31 00:21",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -770,13 +770,19 @@
         "text": "ان‌بی‌سی نیوز به نقل از دو فرد مطلع گزارش داد پیت هگست، وزیر جنگ آمریکا، به‌صورت خصوصی درباره احتمال نامزدی خود در انتخابات ریاست‌جمهوری ۲۰۲۸ گفت‌وگو کرده است. پنتاگون این گزارش را رد کرد و آن را «احمقانه» خواند.",
         "time": "00:13",
         "ts": 1787962404
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "مارکو روبیو توافق نفتی آمریکا و ونزوئلا را پیروزی بزرگی برای هر دو کشور خواند. این توافق نزدیک به ۱۰۰ میلیارد دلار سرمایه‌گذاری خصوصی به ونزوئلا خواهد آورد و به بازسازی اقتصاد این کشور کمک می‌کند. دونالد ترامپ این توافق را بزرگ‌ترین توافق نفتی در تاریخ جهان معرفی کرد.",
+        "time": "00:20",
+        "ts": 1787962844
       }
     ],
-    "packId": "20260829-02",
-    "sequence": 2,
+    "packId": "20260829-03",
+    "sequence": 3,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "00:13"
+    "updatedAt": "00:21"
   },
   "verified": true
 }
