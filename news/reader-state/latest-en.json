@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260829-03 seq=3 exp=1788135671",
+      "advancedStatus": "pack_id=20260829-04 seq=4 exp=1788137460",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:21",
+      "lastChecked": "00:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-29",
-    "expiresAt": "2026-08-31 00:21",
+    "expiresAt": "2026-08-31 00:51",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "US intelligence agencies believe the Kremlin views the Iran war as weakening Washington's military capability. The CIA chief warned Russia about escalating the Ukraine war. The Trump administration denied ammunition shortages but called for increased production.",
-        "time": "00:41",
-        "ts": 1787877719
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Haaretz wrote in an analysis that the sharp decline in Iran's oil exports could limit the financial resources of the IRGC and security agencies. The analysis suggests that reduced oil revenue may decrease the government's ability to suppress protests. However, the extent of alternative resources and the impact of economic pressure on the power structure remain unclear.",
-        "time": "00:49",
-        "ts": 1787878168
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -903,14 +889,21 @@
         "text": "Marco Rubio called the oil agreement between the US and Venezuela a major victory for both countries. The deal will bring nearly $100 billion in private investment to Venezuela and help rebuild its economy. Donald Trump described the agreement as the largest oil deal in world history.",
         "time": "00:20",
         "ts": 1787962844
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US Central Command announced that by August 28, it had redirected 82 commercial ships, disabled three ships, and boarded two ships. These actions were part of the naval blockade against Iran. CENTCOM also released an image of a sailor on the USS John Paul Jones destroyer.",
+        "time": "00:50",
+        "ts": 1787964630
       }
     ],
     "language": "en",
-    "packId": "20260829-03",
-    "sequence": 3,
+    "packId": "20260829-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:21"
+    "updatedAt": "00:51"
   },
   "verified": true
 }
