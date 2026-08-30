@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-06 seq=6 exp=1788241554",
+      "advancedStatus": "pack_id=20260830-07 seq=7 exp=1788242149",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:45",
+      "lastChecked": "05:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 05:45",
+    "expiresAt": "2026-09-01 05:55",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ardavan Rouzbeh from Iran International said the US-Venezuela oil agreement affects the Strait of Hormuz crisis and US bargaining power against the Islamic Republic more than the oil volume. He added the agreement could strengthen Washington's position in negotiations or war and reduce Tehran's demands.",
-        "time": "05:45",
-        "ts": 1787982341
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -756,14 +749,21 @@
         "text": "Mojtaba Khamenei emphasized in a message for Unity Week that the real enemy of Islamic countries must be recognized and confronted. He stated that Islam has reached a decisive stage and that the enemy seeks to divide the Islamic community. He also said that the rulers of the US and Israel are enemies of the entire Islamic community.",
         "time": "05:45",
         "ts": 1788068731
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Simaei-Sarraf, the Minister of Science, announced that more than 400 expelled students and 100 expelled professors have returned to universities. Mehrdad Mohammadi stated that universities have become places for political personnel shifts. The Ministry of Science should announce the names of the returned individuals.",
+        "time": "05:55",
+        "ts": 1788069328
       }
     ],
     "language": "en",
-    "packId": "20260830-06",
-    "sequence": 6,
+    "packId": "20260830-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:45"
+    "updatedAt": "05:55"
   },
   "verified": true
 }
