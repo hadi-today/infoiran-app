@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-59 seq=59 exp=1788269708",
+      "advancedStatus": "pack_id=20260830-60 seq=60 exp=1788270059",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:35",
+      "lastChecked": "13:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 13:35",
+    "expiresAt": "2026-09-01 13:40",
     "items": [
       {
         "channel": "iranintl",
@@ -791,14 +791,21 @@
         "text": "Mark Fife, former US national security advisor, told Al Jazeera that China has reduced its daily oil imports from Iran from 1.5 million barrels to 500,000 barrels and has turned to buying from Brazil, Iraq, and Russia to meet its oil needs.",
         "time": "13:34",
         "ts": 1788096885
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Washington Post reported that senior US military officials warned Secretary of Defense Pete Hegseth that continued large-scale operations against the Islamic Republic are unsustainable and weaken the US military's ability to counter other threats. The warnings were given in a secret document dated August 14, and senior commanders registered non-concurrence with the order to extend deployment but will execute it.",
+        "time": "13:40",
+        "ts": 1788097201
       }
     ],
     "language": "en",
-    "packId": "20260830-59",
-    "sequence": 59,
+    "packId": "20260830-60",
+    "sequence": 60,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:35"
+    "updatedAt": "13:40"
   },
   "verified": true
 }
