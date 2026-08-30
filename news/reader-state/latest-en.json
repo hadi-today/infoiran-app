@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-46 seq=46 exp=1788264069",
+      "advancedStatus": "pack_id=20260830-48 seq=48 exp=1788265262",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:01",
+      "lastChecked": "12:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 12:01",
+    "expiresAt": "2026-09-01 12:21",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Iranians held a gathering in Stockholm protesting executions and repression. Participants commemorated Cyrus the Great and emphasized unity among Iranians and support for Prince Reza Pahlavi. The message of the gathering was united resistance for achieving a free and dignified Iran.",
-        "time": "12:20",
-        "ts": 1788006016
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -777,14 +770,28 @@
         "text": "A citizen sent a video showing the release of a white balloon in memory of Majid Adineh, an executed protester. Majid Adineh was arrested on January 9, 2026, and executed on August 23, 2026. His execution was ordered by the Revolutionary Court of Karaj.",
         "time": "12:00",
         "ts": 1788091248
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Nancy Grace Roman Space Telescope was launched into space by a Falcon Heavy rocket from Kennedy Space Center. Its main five-year mission is to study dark energy and dark matter and to identify thousands of exoplanets. This news was reported by Iran International.",
+        "time": "12:09",
+        "ts": 1788091798
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The Court of Appeal of West Azerbaijan Province sentenced 29 citizens of Piranshahr to pay 20 million tomans each as a fine instead of three months imprisonment. These individuals had previously faced legal action due to the release of a video showing dancing at a wedding ceremony.",
+        "time": "12:20",
+        "ts": 1788092437
       }
     ],
     "language": "en",
-    "packId": "20260830-46",
-    "sequence": 46,
+    "packId": "20260830-48",
+    "sequence": 48,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:01"
+    "updatedAt": "12:21"
   },
   "verified": true
 }
