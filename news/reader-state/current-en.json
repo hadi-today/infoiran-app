@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-01 seq=1 exp=1788226442",
+      "advancedStatus": "pack_id=20260830-02 seq=2 exp=1788227937",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:34",
+      "lastChecked": "01:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 01:34",
+    "expiresAt": "2026-09-01 01:58",
     "items": [
       {
         "channel": "iranintl",
@@ -756,14 +756,21 @@
         "text": "The US government has made a new decision to intensify sanctions against the Islamic Republic, which will make it difficult for Iranian students to participate in international exams such as TOEFL or GRE. The Office of Foreign Assets Control (OFAC) of the US Treasury Department announced that General License J, which since 2014 allowed the provision of educational and academic services to Iranians, has been suspended \"indefinitely\" as of August 23. This suspension means that American companies can no longer provide services related to university entrance and professional certification exams to Iranians.",
         "time": "01:33",
         "ts": 1788053622
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Maryam Saeedpour was named Fine Arts Photographer of the Year at the 2026 International Photography Awards for her series \"Painful Embrace.\" The series is a personal depiction of wartime in Tehran expressing fear and a desire for peace. Saeedpour will receive a $1,000 prize and compete for the International Photographer of the Year title.",
+        "time": "01:58",
+        "ts": 1788055117
       }
     ],
     "language": "en",
-    "packId": "20260830-01",
-    "sequence": 1,
+    "packId": "20260830-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:34"
+    "updatedAt": "01:58"
   },
   "verified": true
 }
