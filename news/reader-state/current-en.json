@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-41 seq=41 exp=1788261594",
+      "advancedStatus": "pack_id=20260830-43 seq=43 exp=1788262291",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:19",
+      "lastChecked": "11:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 11:19",
+    "expiresAt": "2026-09-01 11:31",
     "items": [
       {
         "channel": "iranintl",
@@ -770,14 +770,28 @@
         "text": "The acting head of Qazvin University of Medical Sciences reported a severe shortage of dialysis beds in the province. The treatment standard is one bed per four patients, but in Qazvin, this ratio has reached one bed per seven patients. He suggested solutions such as completing hospital projects and opening the Mohammadzadeh dialysis center.",
         "time": "11:19",
         "ts": 1788088771
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohsen Mahdian stated that reducing the hostility of the US towards the Islamic Republic to the nuclear issue and enrichment is simplistic. He added that enrichment is a symbol of hostility, not the essence of it.",
+        "time": "11:23",
+        "ts": 1788089018
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen in Gilan province says the electricity in their city is cut off for up to six hours a day. He compared this situation to the Stone Age. This report was sent to Iran International.",
+        "time": "11:31",
+        "ts": 1788089465
       }
     ],
     "language": "en",
-    "packId": "20260830-41",
-    "sequence": 41,
+    "packId": "20260830-43",
+    "sequence": 43,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:19"
+    "updatedAt": "11:31"
   },
   "verified": true
 }
