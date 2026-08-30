@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-110 seq=110 exp=1788299762",
+      "advancedStatus": "pack_id=20260830-111 seq=111 exp=1788299984",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:56",
+      "lastChecked": "21:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 21:56",
+    "expiresAt": "2026-09-01 21:59",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -728,13 +728,19 @@
         "text": "موشکی از خرم‌آباد پرتاب شده است.",
         "time": "21:55",
         "ts": 1788126942
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "نیروهای مسلح یمن یک قایق بدون سرنشین بمب‌گذاری‌شده حوثی‌ها را در دریای سرخ شناسایی و منهدم کردند. محل دقیق انهدام قایق اعلام نشده است. این رویداد در ادامه افزایش تنش‌های دریایی در منطقه رخ داده است.",
+        "time": "21:59",
+        "ts": 1788127155
       }
     ],
-    "packId": "20260830-110",
-    "sequence": 110,
+    "packId": "20260830-111",
+    "sequence": 111,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "21:56"
+    "updatedAt": "21:59"
   },
   "verified": true
 }
