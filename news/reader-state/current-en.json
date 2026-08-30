@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-55 seq=55 exp=1788268155",
+      "advancedStatus": "pack_id=20260830-56 seq=56 exp=1788268357",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:09",
+      "lastChecked": "13:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 13:09",
+    "expiresAt": "2026-09-01 13:12",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Masoumeh Taherkhani, an economic analyst, criticized the performance of the Pezeshkian government in managing the currency crisis. She said the government only reports the poor economic situation instead of providing an operational plan. She also warned that the president's remarks about reducing currency demand could lead to more rationing and increased inflation.",
-        "time": "13:10",
-        "ts": 1788009009
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -791,14 +784,21 @@
         "text": "Ashkan Nezamabadi said China dealt the biggest blow to the Islamic Republic in the energy market. China forced refineries to store oil and used its reserves. These actions prevented oil prices from reaching $200, and alternative oil routes remain operational.",
         "time": "13:08",
         "ts": 1788095329
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The Tabriz Civil Registration Office has opposed naming a boy \"Berkay.\" The child, born on 6 Bahman 1404, has been without a birth certificate for over seven months. The opposition is due to the name \"Berkay\" not being registered in the office's system.",
+        "time": "13:12",
+        "ts": 1788095522
       }
     ],
     "language": "en",
-    "packId": "20260830-55",
-    "sequence": 55,
+    "packId": "20260830-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:09"
+    "updatedAt": "13:12"
   },
   "verified": true
 }
