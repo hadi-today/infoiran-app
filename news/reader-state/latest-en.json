@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-75 seq=75 exp=1788276078",
+      "advancedStatus": "pack_id=20260830-76 seq=76 exp=1788276274",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:21",
+      "lastChecked": "15:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 15:21",
+    "expiresAt": "2026-09-01 15:24",
     "items": [
       {
         "channel": "iranintl",
@@ -833,14 +833,21 @@
         "text": "Mojtaba Khamenei called for Gulf countries to unite with Iran against the US and Israel. Israel's energy minister warned that if Iran resumes its missile and nuclear programs, Israel will attack Iran. This report was provided by Mojtaba Pourmohsen.",
         "time": "15:20",
         "ts": 1788103252
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Omid Pourfathollah, a detainee from the December 2025 protests, was sentenced by the Mashhad Revolutionary Court to 12 years, six months, and one day in prison. Five years of this sentence have been suspended. His charges include forming a group aimed at disrupting security and propaganda against the regime.",
+        "time": "15:24",
+        "ts": 1788103447
       }
     ],
     "language": "en",
-    "packId": "20260830-75",
-    "sequence": 75,
+    "packId": "20260830-76",
+    "sequence": 76,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:21"
+    "updatedAt": "15:24"
   },
   "verified": true
 }
