@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-101 seq=101 exp=1788291620",
+      "advancedStatus": "pack_id=20260830-102 seq=102 exp=1788291974",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:40",
+      "lastChecked": "19:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 19:40",
+    "expiresAt": "2026-09-01 19:46",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -716,13 +716,19 @@
         "text": "خبرگزاری فارس از شنیده شدن صدای انفجار در جزیره لارک خبر داد. هنوز محل دقیق و علت وقوع این انفجار مشخص نیست.",
         "time": "19:39",
         "ts": 1788118792
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "خبرگزاری تسنیم گزارش داد که حمله پهپادی به جزیره لارک در استان هرمزگان انجام شده است. برخی گزارش‌های اولیه غیررسمی حاکی از کشته شدن ۲ نفر و مجروح شدن ۲ نفر بر اثر این حمله است. این حمله به آمریکا نسبت داده شده است.",
+        "time": "19:45",
+        "ts": 1788119151
       }
     ],
-    "packId": "20260830-101",
-    "sequence": 101,
+    "packId": "20260830-102",
+    "sequence": 102,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "19:40"
+    "updatedAt": "19:46"
   },
   "verified": true
 }
