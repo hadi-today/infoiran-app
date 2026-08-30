@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-60 seq=60 exp=1788270059",
+      "advancedStatus": "pack_id=20260830-61 seq=61 exp=1788270324",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:40",
+      "lastChecked": "13:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 13:40",
+    "expiresAt": "2026-09-01 13:45",
     "items": [
       {
         "channel": "iranintl",
@@ -798,14 +798,21 @@
         "text": "The Washington Post reported that senior US military officials warned Secretary of Defense Pete Hegseth that continued large-scale operations against the Islamic Republic are unsustainable and weaken the US military's ability to counter other threats. The warnings were given in a secret document dated August 14, and senior commanders registered non-concurrence with the order to extend deployment but will execute it.",
         "time": "13:40",
         "ts": 1788097201
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The Washington Post reported that senior US military officials warned Secretary of Defense Pete Hegseth that continued large-scale military operations against Iran are unsustainable and weaken the military's ability to counter other threats. The warnings were recorded in a secret document, and commanders expressed non-concurrence with extending troop deployments. CENTCOM has kept over 50,000 troops on alert, and some deployments have been extended until 2027.",
+        "time": "13:44",
+        "ts": 1788097466
       }
     ],
     "language": "en",
-    "packId": "20260830-60",
-    "sequence": 60,
+    "packId": "20260830-61",
+    "sequence": 61,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:40"
+    "updatedAt": "13:45"
   },
   "verified": true
 }
