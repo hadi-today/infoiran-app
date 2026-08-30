@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-24 seq=24 exp=1788252034",
+      "advancedStatus": "pack_id=20260830-25 seq=25 exp=1788253229",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:40",
+      "lastChecked": "09:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 08:40",
+    "expiresAt": "2026-09-01 09:00",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The football teams Persepolis and Malavan will face each other on Saturday, 7th of Shahrivar 1405, at Ghal'eh Hasan Khan Stadium. This match is part of the fourth week of the Premier League. Iran International Sports Instagram page has a poll about the match result.",
-        "time": "08:57",
-        "ts": 1787993859
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A man in Mashhad killed his wife and two young sons using a cold weapon. After this incident, he ended his own life.",
-        "time": "08:59",
-        "ts": 1787993949
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -770,14 +756,21 @@
         "text": "Since early Shahrivar, the salaries of Qazvin University of Medical Sciences staff have not been fully paid. Gas stations in Mashhad have not recharged free fuel cards, and free fuel distribution has been halted. Ghadir Petrochemical Company has shut down due to the closure of Arvand Petrochemical, and power and water outages continue in Shahr-e Qods, Tehran.",
         "time": "08:40",
         "ts": 1788079208
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Islam Azarian, a resident of Dehdasht, was arrested by security forces in late August. He is currently held in Dehdasht prison facing charges of propaganda against the regime and insulting the leadership. His situation in prison remains uncertain.",
+        "time": "09:00",
+        "ts": 1788080404
       }
     ],
     "language": "en",
-    "packId": "20260830-24",
-    "sequence": 24,
+    "packId": "20260830-25",
+    "sequence": 25,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:40"
+    "updatedAt": "09:00"
   },
   "verified": true
 }
