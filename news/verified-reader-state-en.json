@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-20 seq=20 exp=1788250181",
+      "advancedStatus": "pack_id=20260830-21 seq=21 exp=1788250560",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:09",
+      "lastChecked": "08:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 08:09",
+    "expiresAt": "2026-09-01 08:16",
     "items": [
       {
         "channel": "iranintl",
@@ -756,14 +756,21 @@
         "text": "Israeli Energy Minister Eli Cohen stated that if the Islamic Republic attempts to rebuild its nuclear or missile programs, Israel will attack again. He emphasized that Israel's military action will take place regardless of any potential agreement between Tehran and Washington. This report was provided by Babak Es-haqi from Iran International.",
         "time": "08:09",
         "ts": 1788077356
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Reza Amani Far and Asghar Hajeb, two teacher activists in Bushehr province, were summoned to court in separate cases.",
+        "time": "08:15",
+        "ts": 1788077737
       }
     ],
     "language": "en",
-    "packId": "20260830-20",
-    "sequence": 20,
+    "packId": "20260830-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:09"
+    "updatedAt": "08:16"
   },
   "verified": true
 }
