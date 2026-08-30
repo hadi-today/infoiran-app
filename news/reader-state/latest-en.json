@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-56 seq=56 exp=1788268357",
+      "advancedStatus": "pack_id=20260830-57 seq=57 exp=1788268991",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:12",
+      "lastChecked": "13:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 13:12",
+    "expiresAt": "2026-09-01 13:23",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "According to reports, the Islamic Republic has provided weapons training to its supporters. A citizen reported weapons training for women and children in Kashan. Asieh Amini considers this action an ideological, security, and economic abuse.",
-        "time": "13:20",
-        "ts": 1788009609
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Masoud Pezeshkian, head of the Islamic Republic government, stated that implementing the agreement with the US based on internal unity can help overcome problems. He emphasized that the agreement is approved by all concerned patriots. Pezeshkian believes that executing it can help overcome difficulties.",
-        "time": "13:22",
-        "ts": 1788009723
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -791,14 +777,28 @@
         "text": "The Tabriz Civil Registration Office has opposed naming a boy \"Berkay.\" The child, born on 6 Bahman 1404, has been without a birth certificate for over seven months. The opposition is due to the name \"Berkay\" not being registered in the office's system.",
         "time": "13:12",
         "ts": 1788095522
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Asghar Hajeb, a board member of the Bushehr Teachers' Union, has been summoned again to the Revolutionary Court. He was arrested in May by security forces and released on bail. He is accused of propaganda against the regime and must appear in court on September 1.",
+        "time": "13:22",
+        "ts": 1788096153
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Images sent to Iran International show the critical and poor condition of prisoners in Isfahan Central Prison. At least 400 detainees of the Iranian National Revolution are held there without access to lawyers or family visits. This information was reported by the audience and Iran International.",
+        "time": "13:22",
+        "ts": 1788096158
       }
     ],
     "language": "en",
-    "packId": "20260830-56",
-    "sequence": 56,
+    "packId": "20260830-57",
+    "sequence": 57,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:12"
+    "updatedAt": "13:23"
   },
   "verified": true
 }
