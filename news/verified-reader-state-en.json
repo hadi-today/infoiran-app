@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-36 seq=36 exp=1788259235",
+      "advancedStatus": "pack_id=20260830-37 seq=37 exp=1788260463",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:40",
+      "lastChecked": "11:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 10:40",
+    "expiresAt": "2026-09-01 11:01",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The head of Imam Khomeini Hospital Complex in Tehran reported a lack of empty beds and an occupancy rate of up to 200% in the emergency department. He cited high private sector tariffs, economic problems, and patient referrals from other cities as reasons for increased visits to public hospitals. He also warned that this situation causes treatment delays and staff burnout in the emergency department.",
-        "time": "10:43",
-        "ts": 1788000235
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -756,14 +749,21 @@
         "text": "The Israeli prosecutor's office announced indictments against two teenagers aged 14 and 16 for cooperating with the Islamic Republic. They are accused of photographing, transferring information, and recruiting minors for missions of the Islamic Republic. The indictment has been submitted to the Haifa juvenile court.",
         "time": "10:40",
         "ts": 1788086410
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows a group of men and women performing a local dance in Qeytarieh Park, Tehran, on the evening of Friday, 6th of Shahrivar. They are holding hands while dancing. The video was received by Iran International.",
+        "time": "11:00",
+        "ts": 1788087641
       }
     ],
     "language": "en",
-    "packId": "20260830-36",
-    "sequence": 36,
+    "packId": "20260830-37",
+    "sequence": 37,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:40"
+    "updatedAt": "11:01"
   },
   "verified": true
 }
