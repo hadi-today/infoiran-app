@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-37 seq=37 exp=1788260463",
+      "advancedStatus": "pack_id=20260830-39 seq=39 exp=1788260750",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:01",
+      "lastChecked": "11:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 11:01",
+    "expiresAt": "2026-09-01 11:05",
     "items": [
       {
         "channel": "iranintl",
@@ -756,14 +756,28 @@
         "text": "A video shows a group of men and women performing a local dance in Qeytarieh Park, Tehran, on the evening of Friday, 6th of Shahrivar. They are holding hands while dancing. The video was received by Iran International.",
         "time": "11:00",
         "ts": 1788087641
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Israeli police have taken legal action against two teenagers aged 14 and 16 for espionage and carrying out missions for the Iranian government. The teenagers were recruited via Telegram in June and performed missions in exchange for money. The person who recruited them claimed to be connected to the Islamic Republic.",
+        "time": "11:03",
+        "ts": 1788087814
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Arash Azarmi referred to the statements of Masoud Pezeshkian's deputy about the organized fuel smuggling in Iran. He said daily smuggling of 20 to 30 million liters of fuel is not done in small scale and there is evidence of its organized nature. He added that fuel smuggling generates five to eight billion dollars annually and is an example of corruption and plundering of the country's oil resources.",
+        "time": "11:05",
+        "ts": 1788087924
       }
     ],
     "language": "en",
-    "packId": "20260830-37",
-    "sequence": 37,
+    "packId": "20260830-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:01"
+    "updatedAt": "11:05"
   },
   "verified": true
 }
