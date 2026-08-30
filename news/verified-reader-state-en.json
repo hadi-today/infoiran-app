@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-85 seq=85 exp=1788283514",
+      "advancedStatus": "pack_id=20260830-86 seq=86 exp=1788284086",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:25",
+      "lastChecked": "17:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 17:25",
+    "expiresAt": "2026-09-01 17:34",
     "items": [
       {
         "channel": "iranintl",
@@ -798,14 +798,21 @@
         "text": "Miad Maleki stated that the goal of removing the educational exemption is not Iranian students but to prevent misuse by the IRGC and affiliated institutions. The decision does not mean a permanent halt to educational services, and companies can continue with a license from the US Treasury. This mechanism is designed to maintain educational services while preventing misuse.",
         "time": "17:24",
         "ts": 1788110693
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ted Cruz, Republican senator, in an interview with NBC News, emphasized that the US does not have a duty to determine who rules Iran. He said that America's duty is to say that Iran's government should not be an extremist religious government that hates America and tries to kill Americans.",
+        "time": "17:34",
+        "ts": 1788111262
       }
     ],
     "language": "en",
-    "packId": "20260830-85",
-    "sequence": 85,
+    "packId": "20260830-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:25"
+    "updatedAt": "17:34"
   },
   "verified": true
 }
