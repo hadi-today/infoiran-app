@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-102 seq=102 exp=1788291974",
+      "advancedStatus": "pack_id=20260830-103 seq=103 exp=1788292806",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:46",
+      "lastChecked": "20:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 19:46",
+    "expiresAt": "2026-09-01 20:00",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Karim Bagheri stated in a press conference after the match with Malavan that fans should be patient and only support the Persepolis team. He emphasized that it does not matter who plays, as all players serve the team.",
-        "time": "19:52",
-        "ts": 1788033169
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Gholamreza Nouri Ghezeljeh stated that there is no problem in supplying goods, but siege, war, and sanctions affect prices. The government is trying to reduce the burden of these costs on people. Global prices of essential goods and transportation costs have increased.",
-        "time": "19:54",
-        "ts": 1788033288
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -840,14 +826,21 @@
         "text": "Tasnim news agency reported a drone attack on Larak Island in Hormozgan province. Initial unofficial reports indicate that 2 people have been killed and 2 injured in the attack. The attack has been attributed to the United States.",
         "time": "19:45",
         "ts": 1788119151
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Alipour scored in the Persepolis vs Malavan match, reaching Ali Parvin's record of 95 goals for the team. He has scored 95 goals wearing the Persepolis jersey so far. Farshad Pious holds the top record with 153 goals.",
+        "time": "19:59",
+        "ts": 1788119985
       }
     ],
     "language": "en",
-    "packId": "20260830-102",
-    "sequence": 102,
+    "packId": "20260830-103",
+    "sequence": 103,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:46"
+    "updatedAt": "20:00"
   },
   "verified": true
 }
