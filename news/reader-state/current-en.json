@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-79 seq=79 exp=1788279173",
+      "advancedStatus": "pack_id=20260830-80 seq=80 exp=1788279492",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:12",
+      "lastChecked": "16:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 16:12",
+    "expiresAt": "2026-09-01 16:18",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Masoud Pezeshkian stated that if electricity must be cut, government electricity should be cut, not the production sector. He advised governors to prepare for winter and fuel management.",
-        "time": "16:12",
-        "ts": 1788019961
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -833,14 +826,28 @@
         "text": "Mehdi Moslehi said the US is implementing a long-term strategy by limiting Iran's oil exports and protecting the passage of Arab oil tankers. He added that Iran has lost a large part of its oil market and leverage over the Strait of Hormuz. The relative calm in the oil market indicates traders do not expect a complete halt in regional oil exports.",
         "time": "16:12",
         "ts": 1788106349
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The deputy of primary education in North Khorasan's education department announced the identification of 1304 children out of school in the province. So far, 442 of these children have been enrolled in schools. The status of the remaining 862 children is still being followed up.",
+        "time": "16:17",
+        "ts": 1788106670
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shayan Samiei explained the US effort to involve G20 countries in economic pressure on the Islamic Republic. He said the key point is the decision of banks, shipping companies, and global insurers to continue or stop cooperation with Tehran. Cooperation with the Islamic Republic could jeopardize their access to the US financial system.",
+        "time": "16:17",
+        "ts": 1788106677
       }
     ],
     "language": "en",
-    "packId": "20260830-79",
-    "sequence": 79,
+    "packId": "20260830-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:12"
+    "updatedAt": "16:18"
   },
   "verified": true
 }
