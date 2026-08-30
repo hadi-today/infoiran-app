@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-08 seq=8 exp=1788242500",
+      "advancedStatus": "pack_id=20260830-09 seq=9 exp=1788242673",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:01",
+      "lastChecked": "06:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 06:01",
+    "expiresAt": "2026-09-01 06:04",
     "items": [
       {
         "channel": "iranintl",
@@ -763,14 +763,21 @@
         "text": "During the February 11, 2026 rally, a statue referred to as \"Baal\" by organizers was set on fire. Salar Velayatmadar, a parliamentary representative, stated that the publication of Mojtaba Khamenei's image was stopped on the advice of religious scholars and security officials. These statements indicate the official security narrative has incorporated occult sciences.",
         "time": "06:01",
         "ts": 1788069675
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Meysam Mehrani stated that Iraqi armed groups have committed to stopping operations, but real disarmament requires handing over all equipment and arsenals. These groups have influence in parliament and the Popular Mobilization Forces structure, and the Iraqi government has adopted a gradual process for disarmament. The government's current focus is on stopping the operations of these groups.",
+        "time": "06:04",
+        "ts": 1788069848
       }
     ],
     "language": "en",
-    "packId": "20260830-08",
-    "sequence": 8,
+    "packId": "20260830-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:01"
+    "updatedAt": "06:04"
   },
   "verified": true
 }
