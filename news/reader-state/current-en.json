@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-52 seq=52 exp=1788267420",
+      "advancedStatus": "pack_id=20260830-53 seq=53 exp=1788267674",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:57",
+      "lastChecked": "13:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 12:57",
+    "expiresAt": "2026-09-01 13:01",
     "items": [
       {
         "channel": "harana",
@@ -777,14 +777,21 @@
         "text": "Mojtaba Maleki, head of the Bodybuilding Federation, identified Masoud Zatparvar as one of the agitators of last December and condemned the act. He apologized to the families of the martyrs and those hurt by the incident. The federation will fully cooperate with legal authorities to identify those responsible for organizing the ceremony.",
         "time": "12:56",
         "ts": 1788094598
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen succeeded in getting a PhD admission in the US after three years of effort. However, he faced the Trump administration's ban on Iranian entry to the US. Also, with Iranian identification documents, it is not possible to take TOEFL and Duolingo tests, and the IELTS test is not held in Iran.",
+        "time": "13:00",
+        "ts": 1788094847
       }
     ],
     "language": "en",
-    "packId": "20260830-52",
-    "sequence": 52,
+    "packId": "20260830-53",
+    "sequence": 53,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:57"
+    "updatedAt": "13:01"
   },
   "verified": true
 }
