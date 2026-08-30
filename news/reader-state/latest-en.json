@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-64 seq=64 exp=1788270987",
+      "advancedStatus": "pack_id=20260830-65 seq=65 exp=1788272235",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:56",
+      "lastChecked": "14:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 13:56",
+    "expiresAt": "2026-09-01 14:17",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Power outage occurred at Azadi Sports Hall in Khorasgan, Isfahan on Saturday, 7th of Shahrivar. This incident caused a delay of about two hours in the taekwondo competitions. Athletes, coaches, and referees were present at the event.",
-        "time": "13:56",
-        "ts": 1788011777
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reports indicate that military training courses are being held for employees and supporters of the Islamic Republic in Tehran. The Tehran municipality has started weapons training for staff in its 22 districts. These courses are held amid increased security measures and concerns about potential protests.",
-        "time": "14:07",
-        "ts": 1788012437
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -819,14 +805,21 @@
         "text": "The head of the Civil Registration Organization announced that the smart national ID cards of 6 million Iranian citizens have not yet been issued and delivered. He attributed this to inflation of laws and multiple responsible agencies. He also mentioned that significant improvements will be made regarding the photos on the ID cards.",
         "time": "13:54",
         "ts": 1788098092
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iranians residing in Berlin held a protest gathering and raised the Lion and Sun flag. They carried images of those who died in the protests and emphasized keeping their memory alive. The protesters demanded the expulsion of Islamic Republic diplomats from Germany.",
+        "time": "14:16",
+        "ts": 1788099383
       }
     ],
     "language": "en",
-    "packId": "20260830-64",
-    "sequence": 64,
+    "packId": "20260830-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:56"
+    "updatedAt": "14:17"
   },
   "verified": true
 }
