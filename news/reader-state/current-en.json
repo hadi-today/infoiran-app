@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-48 seq=48 exp=1788265262",
+      "advancedStatus": "pack_id=20260830-49 seq=49 exp=1788265579",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:21",
+      "lastChecked": "12:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 12:21",
+    "expiresAt": "2026-09-01 12:26",
     "items": [
       {
         "channel": "iranintl",
@@ -784,14 +784,21 @@
         "text": "The Court of Appeal of West Azerbaijan Province sentenced 29 citizens of Piranshahr to pay 20 million tomans each as a fine instead of three months imprisonment. These individuals had previously faced legal action due to the release of a video showing dancing at a wedding ceremony.",
         "time": "12:20",
         "ts": 1788092437
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehr news agency reported that since August 22, 30 unauthorized vessels attempted to pass through the Strait of Hormuz but were stopped by the Islamic Republic's armed forces. Passage through the approved route is limited and requires coordination and payment of fees. Before the war, over 1,500 oil tankers and 1,700 commercial ships had passed through this route.",
+        "time": "12:25",
+        "ts": 1788092756
       }
     ],
     "language": "en",
-    "packId": "20260830-48",
-    "sequence": 48,
+    "packId": "20260830-49",
+    "sequence": 49,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:21"
+    "updatedAt": "12:26"
   },
   "verified": true
 }
