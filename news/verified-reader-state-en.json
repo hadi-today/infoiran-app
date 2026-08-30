@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-17 seq=17 exp=1788247946",
+      "advancedStatus": "pack_id=20260830-18 seq=18 exp=1788248292",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:32",
+      "lastChecked": "07:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 07:32",
+    "expiresAt": "2026-09-01 07:38",
     "items": [
       {
         "channel": "iranintl",
@@ -756,14 +756,21 @@
         "text": "The Israeli energy minister mentioned the possibility of another attack on the Islamic Republic if nuclear facilities are rebuilt. Israel reserves the right to preemptive military action and does not consider a potential Tehran-Washington agreement as a guarantee of its security. According to Israel, the agreement must limit Iran's nuclear technical capabilities.",
         "time": "07:32",
         "ts": 1788075126
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Alamolhoda, the Friday prayer leader of Mashhad, said the enemy will not stop until the religion is overthrown and that resistance with full power is necessary. He emphasized that yielding and giving in to the enemy's demands does not end the conflict. According to him, the more is given, the more pressure the enemy will apply.",
+        "time": "07:37",
+        "ts": 1788075469
       }
     ],
     "language": "en",
-    "packId": "20260830-17",
-    "sequence": 17,
+    "packId": "20260830-18",
+    "sequence": 18,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:32"
+    "updatedAt": "07:38"
   },
   "verified": true
 }
