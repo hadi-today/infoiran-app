@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-98 seq=98 exp=1788290892",
+      "advancedStatus": "pack_id=20260830-99 seq=99 exp=1788290999",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:28",
+      "lastChecked": "19:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 19:28",
+    "expiresAt": "2026-09-01 19:29",
     "items": [
       {
         "channel": "iranintl",
@@ -819,14 +819,21 @@
         "text": "An American official told Al Jazeera that US forces targeted two missile launch platforms belonging to the IRGC on Larak Island on Sunday. The official said the two Islamic Republic missile launch platforms were preparing to fire naval mine-carrying missiles toward the Strait of Hormuz.",
         "time": "19:27",
         "ts": 1788118070
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Manshe Amir, a Middle East expert, said that the weakening of Hezbollah and the reduction of financial support from the Islamic Republic have changed Lebanon's political equations. He believes the Lebanese government now has the ability to counter Hezbollah's military influence. It has also taken the path of dialogue with Israel.",
+        "time": "19:29",
+        "ts": 1788118177
       }
     ],
     "language": "en",
-    "packId": "20260830-98",
-    "sequence": 98,
+    "packId": "20260830-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:28"
+    "updatedAt": "19:29"
   },
   "verified": true
 }
