@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-122 seq=122 exp=1788305089",
+      "advancedStatus": "pack_id=20260830-123 seq=123 exp=1788305854",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:24",
+      "lastChecked": "23:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-30",
-    "expiresAt": "2026-09-01 23:24",
+    "expiresAt": "2026-09-01 23:37",
     "items": [
       {
         "channel": "iranintl",
@@ -882,14 +882,21 @@
         "text": "Videos published on social media show the interception of missiles fired by the IRGC in the sky of Jordan. An American source told Fox News that almost all the missiles that the Islamic Republic had fired in the recent stage of attacks were intercepted.",
         "time": "23:24",
         "ts": 1788132267
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reuters reported that oil prices rose by more than two percent, with Brent crude surpassing $90 per barrel. This increase followed a US attack on two IRGC launchers on Larak Island. This attack is the first known US strike on targets in Iran since late July.",
+        "time": "23:37",
+        "ts": 1788133030
       }
     ],
     "language": "en",
-    "packId": "20260830-122",
-    "sequence": 122,
+    "packId": "20260830-123",
+    "sequence": 123,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:24"
+    "updatedAt": "23:37"
   },
   "verified": true
 }
