@@ -1,19 +1,19 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260830-124 seq=124 exp=1788306628",
+      "advancedStatus": "pack_id=20260831-01 seq=1 exp=1788307237",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:50",
+      "lastChecked": "00:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-08-30",
-    "expiresAt": "2026-09-01 23:50",
+    "date": "2026-08-31",
+    "expiresAt": "2026-09-02 00:00",
     "items": [
       {
         "channel": "iranintl",
@@ -889,14 +889,21 @@
         "text": "The IRGC responded to US drone attacks on Larak Island by targeting two airbases in Jordan with ballistic missiles. Jordan's air defenses intercepted most missiles, and no significant damage was reported. These attacks caused oil prices to rise over two percent, with Brent crude surpassing $90 per barrel.",
         "time": "23:50",
         "ts": 1788133802
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reuters reported that the number of commercial ships passing through the Strait of Hormuz has decreased to five per day. Shipping companies are passing with more caution due to repeated attacks. Some ships have turned off their automatic identification systems to reduce the risk of attack.",
+        "time": "00:00",
+        "ts": 1788134412
       }
     ],
     "language": "en",
-    "packId": "20260830-124",
-    "sequence": 124,
+    "packId": "20260831-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:50"
+    "updatedAt": "00:00"
   },
   "verified": true
 }
