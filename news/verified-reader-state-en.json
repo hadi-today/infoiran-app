@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-17 seq=17 exp=1788329301",
+      "advancedStatus": "pack_id=20260831-18 seq=18 exp=1788329898",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:08",
+      "lastChecked": "06:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 06:08",
+    "expiresAt": "2026-09-02 06:18",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Abdolhossein Hemmati, a member of the Energy Commission of the Parliament, said the global oil and gas market is facing risks in production and transportation. European countries need more gas and LNG supplies as winter approaches. Any disruption in gas exports from the Persian Gulf could lead to price increases.",
-        "time": "06:13",
-        "ts": 1788070385
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Roozbeh Boualheri from Iran International stated that workers face increasing layoffs, low wages, and high living costs. The living cost for a household is about 90 million tomans, while the minimum wage for a married worker with one child is about 24 million tomans. Government promises to increase wages or ration cards are insufficient to bridge this gap.",
-        "time": "06:16",
-        "ts": 1788070594
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -945,14 +931,21 @@
         "text": "Amir Giti from Iran International reported on US attacks to prevent the IRGC from laying mines in the Strait of Hormuz. Washington has shortened the gap between warning and action. Alongside the blockade of ports and intensified sanctions, pressure on the Islamic Republic has increased.",
         "time": "06:07",
         "ts": 1788156477
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of Iranians living in Calgary, Canada, held a weekly gathering demanding the overthrow of the Islamic Republic and the cessation of executions in Iran. Participants carried Lion and Sun flags and images of martyrs. They emphasized avoiding distractions and focusing on the demands of the people inside Iran.",
+        "time": "06:17",
+        "ts": 1788157076
       }
     ],
     "language": "en",
-    "packId": "20260831-17",
-    "sequence": 17,
+    "packId": "20260831-18",
+    "sequence": 18,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:08"
+    "updatedAt": "06:18"
   },
   "verified": true
 }
