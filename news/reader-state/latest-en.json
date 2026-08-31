@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-50 seq=50 exp=1788345359",
+      "advancedStatus": "pack_id=20260831-51 seq=51 exp=1788345683",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:35",
+      "lastChecked": "10:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 10:35",
+    "expiresAt": "2026-09-02 10:41",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Israeli prosecutor's office announced indictments against two teenagers aged 14 and 16 for cooperating with the Islamic Republic. They are accused of photographing, transferring information, and recruiting minors for missions of the Islamic Republic. The indictment has been submitted to the Haifa juvenile court.",
-        "time": "10:40",
-        "ts": 1788086410
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -994,14 +987,21 @@
         "text": "Kayhan newspaper accused the government media section of leaking a video of an internal government meeting, calling it 'feeding the enemy.' Kayhan also accused appeasers of retreating from enrichment and missile programs. This reaction followed the release of Masoud Pezeshkian's criticism of the IRIB.",
         "time": "10:35",
         "ts": 1788172533
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Masoud Pezeshkian stated in a meeting with the Indian Prime Minister that the Islamic Republic has adhered to its commitments under agreements, but the US has not fulfilled its obligations. He emphasized efforts to achieve a path of agreement and understanding and said the continuation of war benefits no one. He also highlighted India's significant capacity to help strengthen peace and stability in the region.",
+        "time": "10:40",
+        "ts": 1788172859
       }
     ],
     "language": "en",
-    "packId": "20260831-50",
-    "sequence": 50,
+    "packId": "20260831-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:35"
+    "updatedAt": "10:41"
   },
   "verified": true
 }
