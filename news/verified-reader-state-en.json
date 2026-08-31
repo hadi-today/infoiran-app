@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-84 seq=84 exp=1788359476",
+      "advancedStatus": "pack_id=20260831-85 seq=85 exp=1788359928",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:31",
+      "lastChecked": "14:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 14:31",
+    "expiresAt": "2026-09-02 14:38",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Tabriz Civil Registration Office has refused to issue a birth certificate for a boy named 'Berkay' more than seven months after his birth. The parents' complaints against the registration office were rejected by the peace courts in Tabriz. The family presented another birth certificate with the same name to the court, but the registration office stated it belonged to a different person.",
-        "time": "14:33",
-        "ts": 1788100414
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -994,14 +987,21 @@
         "text": "Employees of Aryan Steel Company in Qazvin protested on Tuesday, September 9, due to power outages and factory closure. The factory's electricity has been completely cut off for about five months. Production activities in this facility have stopped.",
         "time": "14:30",
         "ts": 1788186652
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Tasnim news agency reported that one of the injured in the US attack on Larak Island died from severe injuries. The death toll from this attack reached three. The attack occurred on Sunday night and the injured were taken to the hospital.",
+        "time": "14:38",
+        "ts": 1788187104
       }
     ],
     "language": "en",
-    "packId": "20260831-84",
-    "sequence": 84,
+    "packId": "20260831-85",
+    "sequence": 85,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:31"
+    "updatedAt": "14:38"
   },
   "verified": true
 }
