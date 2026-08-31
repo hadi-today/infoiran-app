@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-24 seq=24 exp=1788334208",
+      "advancedStatus": "pack_id=20260831-25 seq=25 exp=1788334663",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:30",
+      "lastChecked": "07:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 07:30",
+    "expiresAt": "2026-09-02 07:37",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of Iranians living in Sweden gathered in Gothenburg on Saturday, 7th of Shahrivar. They protested against the Islamic Republic and shouted \"Long live the Shah.\" This event was recorded in videos received by Iran International.",
-        "time": "07:30",
-        "ts": 1788075052
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Israeli energy minister mentioned the possibility of another attack on the Islamic Republic if nuclear facilities are rebuilt. Israel reserves the right to preemptive military action and does not consider a potential Tehran-Washington agreement as a guarantee of its security. According to Israel, the agreement must limit Iran's nuclear technical capabilities.",
-        "time": "07:32",
-        "ts": 1788075126
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -952,14 +938,21 @@
         "text": "The overdue salary increases for social security retirees, which were supposed to be paid on September 9, were not paid. People complain about economic problems and severe inflation. Fuel shortages at some gas stations have also been reported.",
         "time": "07:29",
         "ts": 1788161388
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Jafar Ghaempanah stated that bypassing sanctions is currently very difficult and there is an oil blockade through the Strait of Hormuz and the Sea of Oman. He mentioned that there are ways to sell oil under sanctions, but the actions are confidential. He also expressed concerns about investment in insecure conditions.",
+        "time": "07:37",
+        "ts": 1788161834
       }
     ],
     "language": "en",
-    "packId": "20260831-24",
-    "sequence": 24,
+    "packId": "20260831-25",
+    "sequence": 25,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:30"
+    "updatedAt": "07:37"
   },
   "verified": true
 }
