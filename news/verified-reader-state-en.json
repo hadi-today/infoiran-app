@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-82 seq=82 exp=1788359180",
+      "advancedStatus": "pack_id=20260831-83 seq=83 exp=1788359365",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:26",
+      "lastChecked": "14:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 14:26",
+    "expiresAt": "2026-09-02 14:29",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump announced on Truth Social that he will refill the US strategic national reserve with Venezuelan oil, calling the reserves empty due to Joe Biden's performance. He said the process of completing these reserves will begin soon and considered it a gift from Venezuela to the American people.",
-        "time": "14:26",
-        "ts": 1788099969
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Donald Trump announced that Venezuelan oil will be used to fill the United States' strategic reserves. He described this action as a gift from the people of Venezuela to the people of the United States. The process of filling the reserves will begin soon.",
-        "time": "14:28",
-        "ts": 1788100096
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1001,14 +987,21 @@
         "text": "The cancellation of international English language exams has become a new concern for applicants seeking educational migration. This issue is raised alongside economic migration problems. More details are provided in an interview with Baharan Azadi.",
         "time": "14:25",
         "ts": 1788186355
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Al Hilal club in Saudi Arabia mutually terminated Karim Benzema's contract. Benzema scored 10 goals and made 5 assists in less than a year at Al Hilal. He does not intend to retire and has received offers including from the MLS.",
+        "time": "14:29",
+        "ts": 1788186541
       }
     ],
     "language": "en",
-    "packId": "20260831-82",
-    "sequence": 82,
+    "packId": "20260831-83",
+    "sequence": 83,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:26"
+    "updatedAt": "14:29"
   },
   "verified": true
 }
