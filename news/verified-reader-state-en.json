@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-29 seq=29 exp=1788336303",
+      "advancedStatus": "pack_id=20260831-30 seq=30 exp=1788336841",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:05",
+      "lastChecked": "08:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 08:05",
+    "expiresAt": "2026-09-02 08:14",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Israeli Energy Minister Eli Cohen stated that if the Islamic Republic attempts to rebuild its nuclear or missile programs, Israel will attack again. He emphasized that Israel's military action will take place regardless of any potential agreement between Tehran and Washington. This report was provided by Babak Es-haqi from Iran International.",
-        "time": "08:09",
-        "ts": 1788077356
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -959,14 +952,21 @@
         "text": "A citizen in Ahvaz says the electricity in their area is cut off three times a day. He attributes this situation to the actions of the Islamic Republic. The reason for these outages is unclear.",
         "time": "08:04",
         "ts": 1788163477
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Jafar Ghaem Panah, the executive deputy of Pezeshkian, spoke about the economic situation and inflation in Iran. He said inflation ranges from 30 to 80 percent and food inflation is 123 percent. He also mentioned budget problems and the impact of war on inflation.",
+        "time": "08:13",
+        "ts": 1788164020
       }
     ],
     "language": "en",
-    "packId": "20260831-29",
-    "sequence": 29,
+    "packId": "20260831-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:05"
+    "updatedAt": "08:14"
   },
   "verified": true
 }
