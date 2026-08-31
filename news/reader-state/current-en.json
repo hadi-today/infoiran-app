@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-01 seq=1 exp=1788307237",
+      "advancedStatus": "pack_id=20260831-02 seq=2 exp=1788307660",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:00",
+      "lastChecked": "00:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 00:00",
+    "expiresAt": "2026-09-02 00:07",
     "items": [
       {
         "channel": "iranintl",
@@ -896,14 +896,21 @@
         "text": "Reuters reported that the number of commercial ships passing through the Strait of Hormuz has decreased to five per day. Shipping companies are passing with more caution due to repeated attacks. Some ships have turned off their automatic identification systems to reduce the risk of attack.",
         "time": "00:00",
         "ts": 1788134412
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Jordanian army announced that it intercepted eight missiles after they entered the country's airspace on Monday morning. This news was released after the IRGC announced that in response to the US attack on Lark Island, it targeted the King Hussein and Al-Azraq airbases in Jordan with ballistic missiles and drones. An American source had also previously stated that almost all missiles fired by Iran were intercepted at this stage.",
+        "time": "00:07",
+        "ts": 1788134835
       }
     ],
     "language": "en",
-    "packId": "20260831-01",
-    "sequence": 1,
+    "packId": "20260831-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:00"
+    "updatedAt": "00:07"
   },
   "verified": true
 }
