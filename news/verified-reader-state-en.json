@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-18 seq=18 exp=1788329898",
+      "advancedStatus": "pack_id=20260831-19 seq=19 exp=1788330701",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:18",
+      "lastChecked": "06:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 06:18",
+    "expiresAt": "2026-09-02 06:31",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Hamidreza Haji Babaei stated that the US does not want the Iranian people to have a good life and opposes Iran. He added that the US fears Iran becoming a superpower. He also emphasized that Iran does not seek war but will respond if attacked.",
-        "time": "06:25",
-        "ts": 1788071134
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -938,14 +931,21 @@
         "text": "A group of Iranians living in Calgary, Canada, held a weekly gathering demanding the overthrow of the Islamic Republic and the cessation of executions in Iran. Participants carried Lion and Sun flags and images of martyrs. They emphasized avoiding distractions and focusing on the demands of the people inside Iran.",
         "time": "06:17",
         "ts": 1788157076
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A report in Australia warned that some universities in the country have collaborated with Iran in dual-use research fields. The report reviewed 21 studies with potential military applications. Earlier, the Australian Minister of Education vetoed 13 research grants due to national security concerns.",
+        "time": "06:31",
+        "ts": 1788157875
       }
     ],
     "language": "en",
-    "packId": "20260831-18",
-    "sequence": 18,
+    "packId": "20260831-19",
+    "sequence": 19,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:18"
+    "updatedAt": "06:31"
   },
   "verified": true
 }
