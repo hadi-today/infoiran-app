@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-123 seq=123 exp=1788383821",
+      "advancedStatus": "pack_id=20260831-124 seq=124 exp=1788384266",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:17",
+      "lastChecked": "21:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 21:17",
+    "expiresAt": "2026-09-02 21:24",
     "items": [
       {
         "channel": "iranintl",
@@ -1001,14 +1001,21 @@
         "text": "Alireza Namvar Haghighi stated that the US pursues three simultaneous strategies: weakening the military power of the Islamic Republic, increasing economic pressure, and limiting Tehran's energy leverage. He added that part of the Islamic Republic's military capability in the Persian Gulf has been damaged, limiting Tehran's options. Continued tensions could lead to more costly scenarios.",
         "time": "21:16",
         "ts": 1788211001
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Esmaeil Baqaei, spokesperson for Iran's Foreign Ministry, responded to the EU statement supporting the US economic war against Iran by saying Europe cannot claim strategic autonomy while acting as Washington's executor. He emphasized that autonomy requires the will and ability to make independent decisions. Baqaei urged Europe to choose between being an independent actor or merely echoing other countries' policies.",
+        "time": "21:24",
+        "ts": 1788211444
       }
     ],
     "language": "en",
-    "packId": "20260831-123",
-    "sequence": 123,
+    "packId": "20260831-124",
+    "sequence": 124,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:17"
+    "updatedAt": "21:24"
   },
   "verified": true
 }
