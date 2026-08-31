@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-85 seq=85 exp=1788359928",
+      "advancedStatus": "pack_id=20260831-86 seq=86 exp=1788360009",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:38",
+      "lastChecked": "14:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 14:38",
+    "expiresAt": "2026-09-02 14:40",
     "items": [
       {
         "channel": "iranintl",
@@ -994,14 +994,21 @@
         "text": "Tasnim news agency reported that one of the injured in the US attack on Larak Island died from severe injuries. The death toll from this attack reached three. The attack occurred on Sunday night and the injured were taken to the hospital.",
         "time": "14:38",
         "ts": 1788187104
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Job seekers in Gachsaran protested against the hiring process at the newly opened Lishter refinery. Security forces fired shots to disperse the protesters. Reports indicate that one person was injured during the shooting.",
+        "time": "14:39",
+        "ts": 1788187143
       }
     ],
     "language": "en",
-    "packId": "20260831-85",
-    "sequence": 85,
+    "packId": "20260831-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:38"
+    "updatedAt": "14:40"
   },
   "verified": true
 }
