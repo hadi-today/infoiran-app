@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-139 seq=139 exp=1788389474",
+      "advancedStatus": "pack_id=20260831-140 seq=140 exp=1788389659",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:51",
+      "lastChecked": "22:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 22:51",
+    "expiresAt": "2026-09-02 22:54",
     "items": [
       {
         "channel": "iranintl",
@@ -1029,14 +1029,21 @@
         "text": "Mike Waltz, the US ambassador to the United Nations, said the Iranian regime does not care about its people and is only focused on maintaining control and money. He called for the enforcement of sanctions and action against shell banks and companies to cut off the regime's financial resources. Waltz emphasized that the world must play its part in this effort.",
         "time": "22:49",
         "ts": 1788216596
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump said the Islamic Republic will never acquire nuclear weapons. He warned that these weapons could lead to the destruction of Israel and the Middle East. Trump also said the Islamic Republic officials do not know who their leader is.",
+        "time": "22:53",
+        "ts": 1788216838
       }
     ],
     "language": "en",
-    "packId": "20260831-139",
-    "sequence": 139,
+    "packId": "20260831-140",
+    "sequence": 140,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:51"
+    "updatedAt": "22:54"
   },
   "verified": true
 }
