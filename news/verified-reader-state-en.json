@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-69 seq=69 exp=1788354574",
+      "advancedStatus": "pack_id=20260831-70 seq=70 exp=1788355021",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:09",
+      "lastChecked": "13:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 13:09",
+    "expiresAt": "2026-09-02 13:17",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The Tabriz Civil Registration Office has opposed naming a boy \"Berkay.\" The child, born on 6 Bahman 1404, has been without a birth certificate for over seven months. The opposition is due to the name \"Berkay\" not being registered in the office's system.",
-        "time": "13:12",
-        "ts": 1788095522
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -987,14 +980,28 @@
         "text": "Masoud Pezeshkian and Abbas Araghchi participated in the Shanghai Cooperation Organization summit in Kyrgyzstan. Pezeshkian will meet with regional officials on the sidelines of the summit. Presidents of Turkey, Russia, and China, as well as prime ministers of India and Pakistan, are also attending the summit.",
         "time": "13:09",
         "ts": 1788181751
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "CENTCOM stated that no ship in the Strait of Hormuz has hit a mine. The command rejected the IRGC's claim about a supertanker hitting two naval mines and stopping. CENTCOM described this claim as an attempt to intimidate commercial shipping in the region.",
+        "time": "13:16",
+        "ts": 1788182201
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The executive deputy of Masoud Pezeshkian stated that the government's financial and currency policies have caused inflation and increased living pressures. Mohammad Jafar Ghaempanah said that due to budget deficits, they are forced to print money, which creates inflation. Economic journalist Ashkan Nezamabadi described this admission as unprecedented but containing misleading points.",
+        "time": "13:16",
+        "ts": 1788182210
       }
     ],
     "language": "en",
-    "packId": "20260831-69",
-    "sequence": 69,
+    "packId": "20260831-70",
+    "sequence": 70,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:09"
+    "updatedAt": "13:17"
   },
   "verified": true
 }
