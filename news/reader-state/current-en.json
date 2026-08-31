@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-37 seq=37 exp=1788339719",
+      "advancedStatus": "pack_id=20260831-38 seq=38 exp=1788339839",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:01",
+      "lastChecked": "09:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 09:01",
+    "expiresAt": "2026-09-02 09:03",
     "items": [
       {
         "channel": "iranintl",
@@ -973,14 +973,21 @@
         "text": "A citizen sent a video showing darkness in Mahestan city in Alborz province. He says there is no electricity in the morning and power outages occur at night. This highlights electricity problems in the area.",
         "time": "09:01",
         "ts": 1788166898
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Torabi, the national winger of Tractor, has suffered a severe injury to his cruciate ligament during team training. Initial examinations have increased concerns about a ligament tear, and doctors will perform additional MRIs for final confirmation. If confirmed, Torabi will face a long absence from the field and will miss the 2027 Asian Cup.",
+        "time": "09:03",
+        "ts": 1788167019
       }
     ],
     "language": "en",
-    "packId": "20260831-37",
-    "sequence": 37,
+    "packId": "20260831-38",
+    "sequence": 38,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:01"
+    "updatedAt": "09:03"
   },
   "verified": true
 }
