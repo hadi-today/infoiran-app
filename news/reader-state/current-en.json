@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-73 seq=73 exp=1788355446",
+      "advancedStatus": "pack_id=20260831-74 seq=74 exp=1788356135",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:24",
+      "lastChecked": "13:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 13:24",
+    "expiresAt": "2026-09-02 13:35",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mark Fife, former US national security advisor, told Al Jazeera that China has reduced its daily oil imports from Iran from 1.5 million barrels to 500,000 barrels and has turned to buying from Brazil, Iraq, and Russia to meet its oil needs.",
-        "time": "13:34",
-        "ts": 1788096885
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -994,14 +987,21 @@
         "text": "Donald Trump called Iran a failed state and described its economic and military situation as collapsed. He claimed that Iran's leaders should be tried for war crimes against humanity. Trump also referred to the suppression of internal protests and the killing of over 100,000 people.",
         "time": "13:23",
         "ts": 1788182621
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The European Union announced on Monday that it will continue cooperation with the US and international partners to maintain pressure on Iran. The EU welcomed efforts to stop Iran's destabilizing activities and engage in peace talks, including through further economic pressure such as the US-led economic exclusion operation. The statement was issued ahead of the G20 meeting.",
+        "time": "13:35",
+        "ts": 1788183300
       }
     ],
     "language": "en",
-    "packId": "20260831-73",
-    "sequence": 73,
+    "packId": "20260831-74",
+    "sequence": 74,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:24"
+    "updatedAt": "13:35"
   },
   "verified": true
 }
