@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-122 seq=122 exp=1788381874",
+      "advancedStatus": "pack_id=20260831-123 seq=123 exp=1788383821",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:44",
+      "lastChecked": "21:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 20:44",
+    "expiresAt": "2026-09-02 21:17",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Tabnak reported that missiles were fired from central Iran towards unknown targets. This report came after the US attacked two IRGC launch platforms on Larak Island. The IRGC confirmed the US attack and promised to punish American forces.",
-        "time": "21:15",
-        "ts": 1788124543
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1001,14 +994,21 @@
         "text": "The UK Maritime Trade Operations agency announced on Monday that it received a report about an incident in the Indian Ocean. The incident involved a tanker and military forces. No further details were provided.",
         "time": "20:44",
         "ts": 1788209051
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Namvar Haghighi stated that the US pursues three simultaneous strategies: weakening the military power of the Islamic Republic, increasing economic pressure, and limiting Tehran's energy leverage. He added that part of the Islamic Republic's military capability in the Persian Gulf has been damaged, limiting Tehran's options. Continued tensions could lead to more costly scenarios.",
+        "time": "21:16",
+        "ts": 1788211001
       }
     ],
     "language": "en",
-    "packId": "20260831-122",
-    "sequence": 122,
+    "packId": "20260831-123",
+    "sequence": 123,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:44"
+    "updatedAt": "21:17"
   },
   "verified": true
 }
