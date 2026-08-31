@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-22 seq=22 exp=1788332761",
+      "advancedStatus": "pack_id=20260831-23 seq=23 exp=1788333238",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:06",
+      "lastChecked": "07:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 07:06",
+    "expiresAt": "2026-09-02 07:13",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,21 @@
         "text": "The UAE Ministry of Defense denied reports of the Al Minhad airbase being targeted by missiles. The ministry stated that the armed forces remain on full alert. Earlier, the Iranian army announced it had targeted the base with dozens of drones.",
         "time": "07:05",
         "ts": 1788159938
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hedayat Mombini was removed from the secretary general position of the Football Federation, and Hamed Momeni was introduced as the acting secretary general. Mombini faced criticism for nominating Gol Gohar instead of Chadormalu as Iran's third representative in the AFC Champions League.",
+        "time": "07:13",
+        "ts": 1788160414
       }
     ],
     "language": "en",
-    "packId": "20260831-22",
-    "sequence": 22,
+    "packId": "20260831-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:06"
+    "updatedAt": "07:13"
   },
   "verified": true
 }
