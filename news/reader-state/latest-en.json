@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-45 seq=45 exp=1788343578",
+      "advancedStatus": "pack_id=20260831-46 seq=46 exp=1788344155",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:06",
+      "lastChecked": "10:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 10:06",
+    "expiresAt": "2026-09-02 10:15",
     "items": [
       {
         "channel": "iranintl",
@@ -994,14 +994,21 @@
         "text": "Mani Safarpour, an 18-year-old from Lahijan, was killed by government agents with gunfire in Sarsabil, Tehran on January 8, 2026. A video shows his mother's distress while arranging his clothes. This incident was reported to Iran International.",
         "time": "10:05",
         "ts": 1788170757
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The deputy of food and drug at Shiraz University of Medical Sciences reported a complete shortage of about 40 types of medicines needed by special and cancer patients. A significant part of this shortage involves imported and expensive drugs. Currency transfer issues, sanctions, and lengthy import processes are factors contributing to this situation.",
+        "time": "10:15",
+        "ts": 1788171334
       }
     ],
     "language": "en",
-    "packId": "20260831-45",
-    "sequence": 45,
+    "packId": "20260831-46",
+    "sequence": 46,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:06"
+    "updatedAt": "10:15"
   },
   "verified": true
 }
