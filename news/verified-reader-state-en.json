@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-145 seq=145 exp=1788391034",
+      "advancedStatus": "pack_id=20260831-146 seq=146 exp=1788391306",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:17",
+      "lastChecked": "23:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 23:17",
+    "expiresAt": "2026-09-02 23:21",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A Fox News journalist, citing an American source, reported that Iran targeted American forces stationed in Jordan. No details were provided about the location of the attack, the type of weapons used, or possible casualties. American officials have not yet officially confirmed the attack.",
-        "time": "23:17",
-        "ts": 1788131873
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1064,14 +1057,21 @@
         "text": "Six months after the start of US and Israeli attacks, Iranian officials have threatened to target oil exports from Persian Gulf countries if the naval blockade and US pressure continue. Mohsen Rezaei, Secretary of the Supreme National Security Council, said that if the blockade continues, Tehran will not allow 'a single drop of oil' to leave the Persian Gulf. Tehran is trying to spread the costs of the conflict among the US, regional countries, and the global economy by expanding the war.",
         "time": "23:16",
         "ts": 1788218212
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "US sanctions have led to the suspension of certain Treasury Department licenses, restricting educational services for Iranians. These restrictions affect international exams, admission processing, and tuition payments. Iranian students are facing new challenges in their education.",
+        "time": "23:21",
+        "ts": 1788218483
       }
     ],
     "language": "en",
-    "packId": "20260831-145",
-    "sequence": 145,
+    "packId": "20260831-146",
+    "sequence": 146,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:17"
+    "updatedAt": "23:21"
   },
   "verified": true
 }
