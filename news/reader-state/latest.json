@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-08 seq=8 exp=1788321393",
+      "advancedStatus": "pack_id=20260831-09 seq=9 exp=1788322330",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:56",
+      "lastChecked": "04:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 03:56",
+    "expiresAt": "2026-09-02 04:12",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -800,13 +800,19 @@
         "text": "بر اساس پیام‌های دریافتی، زمین در شرق تهران لرزیده است. جزئیات بیشتری ارائه نشده است. این خبر از منبع وحید آنلاین گزارش شده است.",
         "time": "03:56",
         "ts": 1788148569
+      },
+      {
+        "channel": "وحید آنلاین",
+        "text": "زمین‌لرزه‌ای به بزرگی ۳.۸ ریشتر در منطقه پردیس در شرق تهران رخ داده است.",
+        "time": "04:11",
+        "ts": 1788149509
       }
     ],
-    "packId": "20260831-08",
-    "sequence": 8,
+    "packId": "20260831-09",
+    "sequence": 9,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "03:56"
+    "updatedAt": "04:12"
   },
   "verified": true
 }
