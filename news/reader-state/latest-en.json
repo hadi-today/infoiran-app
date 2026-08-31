@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-124 seq=124 exp=1788384266",
+      "advancedStatus": "pack_id=20260831-125 seq=125 exp=1788384505",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:24",
+      "lastChecked": "21:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 21:24",
+    "expiresAt": "2026-09-02 21:28",
     "items": [
       {
         "channel": "iranintl",
@@ -1008,14 +1008,21 @@
         "text": "Esmaeil Baqaei, spokesperson for Iran's Foreign Ministry, responded to the EU statement supporting the US economic war against Iran by saying Europe cannot claim strategic autonomy while acting as Washington's executor. He emphasized that autonomy requires the will and ability to make independent decisions. Baqaei urged Europe to choose between being an independent actor or merely echoing other countries' policies.",
         "time": "21:24",
         "ts": 1788211444
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US has carried out attacks. The IRGC's mine-laying project in Hormuz has failed. This topic was discussed in the program Cheshmandaz with Mahdi Mahdavi Azad.",
+        "time": "21:28",
+        "ts": 1788211683
       }
     ],
     "language": "en",
-    "packId": "20260831-124",
-    "sequence": 124,
+    "packId": "20260831-125",
+    "sequence": 125,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:24"
+    "updatedAt": "21:28"
   },
   "verified": true
 }
