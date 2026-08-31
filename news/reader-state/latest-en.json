@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-44 seq=44 exp=1788343047",
+      "advancedStatus": "pack_id=20260831-45 seq=45 exp=1788343578",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:57",
+      "lastChecked": "10:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 09:57",
+    "expiresAt": "2026-09-02 10:06",
     "items": [
       {
         "channel": "iranintl",
@@ -987,14 +987,21 @@
         "text": "The 107th Tehran derby will be held on Wednesday, 11 Shahrivar, at the Naqsh-e Jahan Stadium in Isfahan. Despite the stadium's 75,000 capacity, only 35,000 tickets have been offered, with 29,000 for men and 6,000 for women. The ticket share for Esteghlal and Persepolis is equally divided.",
         "time": "09:56",
         "ts": 1788170219
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mani Safarpour, an 18-year-old from Lahijan, was killed by government agents with gunfire in Sarsabil, Tehran on January 8, 2026. A video shows his mother's distress while arranging his clothes. This incident was reported to Iran International.",
+        "time": "10:05",
+        "ts": 1788170757
       }
     ],
     "language": "en",
-    "packId": "20260831-44",
-    "sequence": 44,
+    "packId": "20260831-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:57"
+    "updatedAt": "10:06"
   },
   "verified": true
 }
