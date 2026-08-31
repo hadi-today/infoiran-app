@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-30 seq=30 exp=1788336841",
+      "advancedStatus": "pack_id=20260831-31 seq=31 exp=1788336937",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:14",
+      "lastChecked": "08:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 08:14",
+    "expiresAt": "2026-09-02 08:15",
     "items": [
       {
         "channel": "harana",
@@ -959,14 +959,21 @@
         "text": "Mohammad Jafar Ghaem Panah, the executive deputy of Pezeshkian, spoke about the economic situation and inflation in Iran. He said inflation ranges from 30 to 80 percent and food inflation is 123 percent. He also mentioned budget problems and the impact of war on inflation.",
         "time": "08:13",
         "ts": 1788164020
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iranian women's national football team camp will be held from September 2 to 8 at the National Football Center to produce a documentary about the players' return from Australia. The camp has faced protests from league coaches. Farideh Shojaei stated that the main goal is to film the documentary and players will not be pressured with football training.",
+        "time": "08:15",
+        "ts": 1788164111
       }
     ],
     "language": "en",
-    "packId": "20260831-30",
-    "sequence": 30,
+    "packId": "20260831-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:14"
+    "updatedAt": "08:15"
   },
   "verified": true
 }
