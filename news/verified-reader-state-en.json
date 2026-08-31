@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-92 seq=92 exp=1788363936",
+      "advancedStatus": "pack_id=20260831-93 seq=93 exp=1788364623",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:45",
+      "lastChecked": "15:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 15:45",
+    "expiresAt": "2026-09-02 15:57",
     "items": [
       {
         "channel": "iranintl",
@@ -994,14 +994,21 @@
         "text": "Donald Trump posted an animation of the bombing of Khark Island on Truth Social. JD Vance described this action as a message to the Iranian government. Trump does not disclose military actions on social media.",
         "time": "15:45",
         "ts": 1788191111
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hamid Ghanbari, Deputy Foreign Minister, stated that the new US sanctions will not change the policies of the Islamic Republic. He added that the enemy seeks media pressure and exaggeration about the effects of the sanctions.",
+        "time": "15:56",
+        "ts": 1788191793
       }
     ],
     "language": "en",
-    "packId": "20260831-92",
-    "sequence": 92,
+    "packId": "20260831-93",
+    "sequence": 93,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:45"
+    "updatedAt": "15:57"
   },
   "verified": true
 }
