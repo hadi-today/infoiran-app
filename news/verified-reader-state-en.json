@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-121 seq=121 exp=1788380158",
+      "advancedStatus": "pack_id=20260831-122 seq=122 exp=1788381874",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:15",
+      "lastChecked": "20:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 20:15",
+    "expiresAt": "2026-09-02 20:44",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A passenger ship with about 270 people capsized near Kyrenia port in Northern Cyprus. At least seven people have died and 237 have been rescued. Twenty-three people are missing and rescue operations are ongoing.",
-        "time": "20:29",
-        "ts": 1788121744
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Taghavi stated in the Hattrick program that Hossein Kanaani-Zadegan is currently the best central defender in Iran in playmaking. He also noted that Persepolis attacks Malavan's goal with many players. This analysis was made during the technical review of the Persepolis vs Malavan match.",
-        "time": "20:29",
-        "ts": 1788121748
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1008,14 +994,21 @@
         "text": "Farideh Shojaei announced a sudden camp for the women's national football team to complete the visual archive of the Asian Cup matches. The camp aims to record parts that could not be filmed during the competition. The goal is to create a complete and lasting archive of the national team's participation in these matches.",
         "time": "20:15",
         "ts": 1788207332
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The UK Maritime Trade Operations agency announced on Monday that it received a report about an incident in the Indian Ocean. The incident involved a tanker and military forces. No further details were provided.",
+        "time": "20:44",
+        "ts": 1788209051
       }
     ],
     "language": "en",
-    "packId": "20260831-121",
-    "sequence": 121,
+    "packId": "20260831-122",
+    "sequence": 122,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:15"
+    "updatedAt": "20:44"
   },
   "verified": true
 }
