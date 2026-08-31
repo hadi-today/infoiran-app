@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-72 seq=72 exp=1788355290",
+      "advancedStatus": "pack_id=20260831-73 seq=73 exp=1788355446",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:21",
+      "lastChecked": "13:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 13:21",
+    "expiresAt": "2026-09-02 13:24",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Asghar Hajeb, a board member of the Bushehr Teachers' Union, has been summoned again to the Revolutionary Court. He was arrested in May by security forces and released on bail. He is accused of propaganda against the regime and must appear in court on September 1.",
-        "time": "13:22",
-        "ts": 1788096153
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Images sent to Iran International show the critical and poor condition of prisoners in Isfahan Central Prison. At least 400 detainees of the Iranian National Revolution are held there without access to lawyers or family visits. This information was reported by the audience and Iran International.",
-        "time": "13:22",
-        "ts": 1788096158
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1001,14 +987,21 @@
         "text": "Netanyahu claims in Hebrew that he deceived the US government and dragged it into war with Iran on behalf of Israel. He laughs and says he influenced the US through 1000 hours of appearances on American TV networks. However, in English, he praises the leadership of the US president.",
         "time": "13:21",
         "ts": 1788182465
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Donald Trump called Iran a failed state and described its economic and military situation as collapsed. He claimed that Iran's leaders should be tried for war crimes against humanity. Trump also referred to the suppression of internal protests and the killing of over 100,000 people.",
+        "time": "13:23",
+        "ts": 1788182621
       }
     ],
     "language": "en",
-    "packId": "20260831-72",
-    "sequence": 72,
+    "packId": "20260831-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:21"
+    "updatedAt": "13:24"
   },
   "verified": true
 }
