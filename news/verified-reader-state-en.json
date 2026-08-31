@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-32 seq=32 exp=1788337819",
+      "advancedStatus": "pack_id=20260831-33 seq=33 exp=1788338033",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:30",
+      "lastChecked": "08:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 08:30",
+    "expiresAt": "2026-09-02 08:33",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "Ruhollah Rahimpour said the likelihood of renewed clashes has increased after US attacks on IRGC positions on Larak Island, but a full-scale war is unlikely. He added that the US has shifted its tactics to preventive actions to avoid blocking the Strait of Hormuz.",
         "time": "08:29",
         "ts": 1788164997
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morteza Kazemian described the IRGC attacks on the UAE and Jordan as mostly propagandistic and performative. He stated that the US continues to deliver precise and controlled strikes against the Islamic Republic. If American forces are killed, the cycle may get out of control and lead to a new phase of war.",
+        "time": "08:33",
+        "ts": 1788165207
       }
     ],
     "language": "en",
-    "packId": "20260831-32",
-    "sequence": 32,
+    "packId": "20260831-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:30"
+    "updatedAt": "08:33"
   },
   "verified": true
 }
