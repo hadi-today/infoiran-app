@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-43 seq=43 exp=1788342531",
+      "advancedStatus": "pack_id=20260831-44 seq=44 exp=1788343047",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:48",
+      "lastChecked": "09:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 09:48",
+    "expiresAt": "2026-09-02 09:57",
     "items": [
       {
         "channel": "iranintl",
@@ -980,14 +980,21 @@
         "text": "The UAE Ministry of Foreign Affairs reserves the right to respond to recent drone attacks by the Islamic Republic according to international law. These attacks are described as violations of sovereignty and threats to UAE security. The UAE holds the Islamic Republic fully responsible for these attacks and their consequences.",
         "time": "09:48",
         "ts": 1788169704
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The 107th Tehran derby will be held on Wednesday, 11 Shahrivar, at the Naqsh-e Jahan Stadium in Isfahan. Despite the stadium's 75,000 capacity, only 35,000 tickets have been offered, with 29,000 for men and 6,000 for women. The ticket share for Esteghlal and Persepolis is equally divided.",
+        "time": "09:56",
+        "ts": 1788170219
       }
     ],
     "language": "en",
-    "packId": "20260831-43",
-    "sequence": 43,
+    "packId": "20260831-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:48"
+    "updatedAt": "09:57"
   },
   "verified": true
 }
