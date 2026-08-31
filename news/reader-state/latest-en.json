@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-35 seq=35 exp=1788338584",
+      "advancedStatus": "pack_id=20260831-36 seq=36 exp=1788338794",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:43",
+      "lastChecked": "08:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 08:43",
+    "expiresAt": "2026-09-02 08:46",
     "items": [
       {
         "channel": "harana",
@@ -966,14 +966,21 @@
         "text": "Fatemeh Mohitizadeh broke the national heptathlon record with 5813 points at the women's national athletics championship in Shiraz. She has improved the record three times in less than a year. This achievement makes her one of Iran's main hopes in athletics for the Nagoya Asian Games.",
         "time": "08:42",
         "ts": 1788165762
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Manshe Amir, a Middle East expert, said that although it is not possible to discuss Israel's practical plans regarding Netanyahu's emphasis on overthrowing the Islamic Republic, Israel has shown initiative in the past. He added that Israel has plans and capabilities to facilitate a popular uprising in Iran and can implement them if necessary.",
+        "time": "08:46",
+        "ts": 1788165971
       }
     ],
     "language": "en",
-    "packId": "20260831-35",
-    "sequence": 35,
+    "packId": "20260831-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:43"
+    "updatedAt": "08:46"
   },
   "verified": true
 }
