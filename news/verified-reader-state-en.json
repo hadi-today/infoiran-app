@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-143 seq=143 exp=1788389993",
+      "advancedStatus": "pack_id=20260831-144 seq=144 exp=1788390067",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:59",
+      "lastChecked": "23:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 22:59",
+    "expiresAt": "2026-09-02 23:01",
     "items": [
       {
         "channel": "iranintl",
@@ -1057,14 +1057,21 @@
         "text": "The Wall Street Journal reported that Dan Driscoll, the US Secretary of the Army, has submitted his resignation to Donald Trump. His resignation is still under review and has not been accepted by the White House. Tensions with Pete Hegseth, the Secretary of Defense, over the direction of the force and the dismissal of senior army officers have been cited as reasons for the resignation.",
         "time": "22:58",
         "ts": 1788217110
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Minister of Roads and Urban Development announced a serious disruption in the country's aviation radar systems. Due to the lack of radar, some flights are being guided mentally. A defense analyst warned that if navigation systems also fail, the risk of flights will significantly increase.",
+        "time": "23:00",
+        "ts": 1788217218
       }
     ],
     "language": "en",
-    "packId": "20260831-143",
-    "sequence": 143,
+    "packId": "20260831-144",
+    "sequence": 144,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:59"
+    "updatedAt": "23:01"
   },
   "verified": true
 }
