@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-58 seq=58 exp=1788349219",
+      "advancedStatus": "pack_id=20260831-59 seq=59 exp=1788349432",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:40",
+      "lastChecked": "11:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 11:40",
+    "expiresAt": "2026-09-02 11:43",
     "items": [
       {
         "channel": "iranintl",
@@ -987,14 +987,21 @@
         "text": "Saeed Golsorkhi, a 31-year-old athlete from Shahroud, was killed during a security forces raid on his home after being injured in the National Iranian Revolution in January. He died in his mother's arms and in front of his young nephew. More details are provided in an interview with Farnoush Faraji.",
         "time": "11:39",
         "ts": 1788176395
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Ebrahim Rahmanpour, a citizen from Naqadeh, was sentenced by the judicial authority to 38 months and 15 days of imprisonment.",
+        "time": "11:43",
+        "ts": 1788176612
       }
     ],
     "language": "en",
-    "packId": "20260831-58",
-    "sequence": 58,
+    "packId": "20260831-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:40"
+    "updatedAt": "11:43"
   },
   "verified": true
 }
