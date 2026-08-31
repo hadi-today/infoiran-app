@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-15 seq=15 exp=1788328205",
+      "advancedStatus": "pack_id=20260831-16 seq=16 exp=1788328671",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:50",
+      "lastChecked": "05:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 05:50",
+    "expiresAt": "2026-09-02 05:57",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Hossein Simaei-Sarraf, the Minister of Science, announced that more than 400 expelled students and 100 expelled professors have returned to universities. Mehrdad Mohammadi stated that universities have become places for political personnel shifts. The Ministry of Science should announce the names of the returned individuals.",
-        "time": "05:55",
-        "ts": 1788069328
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -952,14 +945,21 @@
         "text": "Amir Hamidi commented on the US attack on two IRGC launchers in Larak Island. He said that increased missile and drone attacks or pressure on shipping in the Strait of Hormuz could lead to an expanded US response. This response might target more parts of the IRGC's military and naval network.",
         "time": "05:49",
         "ts": 1788155384
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Erfan Ghanei-Fard said Israel has placed the defeat of the Islamic Republic at the top of its regional goals. Israel considers the Islamic Republic as the center of a network that includes Hamas and Hezbollah. Due to the security and military vulnerabilities of the Islamic Republic, Israel aims to weaken this center.",
+        "time": "05:57",
+        "ts": 1788155849
       }
     ],
     "language": "en",
-    "packId": "20260831-15",
-    "sequence": 15,
+    "packId": "20260831-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:50"
+    "updatedAt": "05:57"
   },
   "verified": true
 }
