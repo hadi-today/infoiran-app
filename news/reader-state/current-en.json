@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-119 seq=119 exp=1788377735",
+      "advancedStatus": "pack_id=20260831-120 seq=120 exp=1788378632",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:35",
+      "lastChecked": "19:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 19:35",
+    "expiresAt": "2026-09-02 19:50",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Fars News Agency reported hearing an explosion sound on Larak Island. The exact location and cause of the explosion are not yet known.",
-        "time": "19:39",
-        "ts": 1788118792
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Tasnim news agency reported a drone attack on Larak Island in Hormozgan province. Initial unofficial reports indicate that 2 people have been killed and 2 injured in the attack. The attack has been attributed to the United States.",
-        "time": "19:45",
-        "ts": 1788119151
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1022,14 +1008,21 @@
         "text": "In the audio version of the program 24 with Fardad Farahzad, Trump's emphasis on a severe attack on Iran is discussed.",
         "time": "19:35",
         "ts": 1788204901
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammadreza Zafarghandi, the Minister of Health, attributed the increase in drug prices to inflation in transportation and raw materials and called for insurance to cover these price hikes. He stated that there is no shortage of medicine and efforts are being made to import drugs through other means. He also mentioned the rising costs of aluminum and petrochemical products used in drug packaging.",
+        "time": "19:50",
+        "ts": 1788205804
       }
     ],
     "language": "en",
-    "packId": "20260831-119",
-    "sequence": 119,
+    "packId": "20260831-120",
+    "sequence": 120,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:35"
+    "updatedAt": "19:50"
   },
   "verified": true
 }
