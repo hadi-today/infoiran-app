@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-20 seq=20 exp=1788331527",
+      "advancedStatus": "pack_id=20260831-21 seq=21 exp=1788332515",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:45",
+      "lastChecked": "07:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 06:45",
+    "expiresAt": "2026-09-02 07:01",
     "items": [
       {
         "channel": "iranintl",
@@ -938,14 +938,21 @@
         "text": "The UAE Ministry of Defense announced that its air forces confronted a drone that entered UAE territorial waters from Iran. The UAE armed forces are on full alert. Air defense systems continuously monitor the airspace around the clock.",
         "time": "06:44",
         "ts": 1788158699
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Videos received by Iran International show a memorial birthday ceremony for Mohammad Hossein Jamshidi at his grave. Mohammad Hossein was killed on January 9, 2026, in Hesar Karaj by agents of the Islamic Republic.",
+        "time": "07:01",
+        "ts": 1788159692
       }
     ],
     "language": "en",
-    "packId": "20260831-20",
-    "sequence": 20,
+    "packId": "20260831-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:45"
+    "updatedAt": "07:01"
   },
   "verified": true
 }
