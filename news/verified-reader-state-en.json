@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-141 seq=141 exp=1788389762",
+      "advancedStatus": "pack_id=20260831-142 seq=142 exp=1788389920",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:56",
+      "lastChecked": "22:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 22:56",
+    "expiresAt": "2026-09-02 22:58",
     "items": [
       {
         "channel": "iranintl",
@@ -1043,14 +1043,28 @@
         "text": "Benjamin Netanyahu said that overthrowing the Islamic Republic is one of Israel's goals. He added that the regime is now much weaker than before. Netanyahu emphasized that the defeat of the Islamic Republic is possible.",
         "time": "22:55",
         "ts": 1788216943
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ghassan Ashour said that regional countries bear the highest cost of the 'neither war nor peace' situation. This condition has harmed their economy, trade, energy exports, and tourism. Iran and the US use this opportunity to rebuild their strength, but the UAE, Qatar, and Iraq want to end this situation.",
+        "time": "22:58",
+        "ts": 1788217098
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Wall Street Journal reported that Dan Driscoll, the US Secretary of the Army, has submitted his resignation to Donald Trump. His resignation is still under review and has not been accepted by the White House. Tensions with Pete Hegseth, the Secretary of Defense, over the direction of the force and the dismissal of senior army officers have been cited as reasons for the resignation.",
+        "time": "22:58",
+        "ts": 1788217110
       }
     ],
     "language": "en",
-    "packId": "20260831-141",
-    "sequence": 141,
+    "packId": "20260831-142",
+    "sequence": 142,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:56"
+    "updatedAt": "22:58"
   },
   "verified": true
 }
