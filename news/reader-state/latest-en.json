@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-10 seq=10 exp=1788323533",
+      "advancedStatus": "pack_id=20260831-11 seq=11 exp=1788323808",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:32",
+      "lastChecked": "04:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 04:32",
+    "expiresAt": "2026-09-02 04:36",
     "items": [
       {
         "channel": "iranintl",
@@ -938,14 +938,21 @@
         "text": "The IRGC Navy announced that a supertanker attempting to pass through the illegal route south of the Strait of Hormuz caught fire and came to a complete stop after hitting two naval mines. The force warned that the fate of ships violating the security regulations of the Strait of Hormuz will be nothing but this. It also asked shipping companies not to be deceived by the US Army's provocations.",
         "time": "04:31",
         "ts": 1788150712
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Donald Trump shared an AI-generated video of an attack and explosion on Iran's Kharg Island. Trump wrote that Kharg Island is being destroyed. The video was released hours after CENTCOM attacked missile launchers on Larak Island.",
+        "time": "04:36",
+        "ts": 1788150984
       }
     ],
     "language": "en",
-    "packId": "20260831-10",
-    "sequence": 10,
+    "packId": "20260831-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:32"
+    "updatedAt": "04:36"
   },
   "verified": true
 }
