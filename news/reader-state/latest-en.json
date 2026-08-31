@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-140 seq=140 exp=1788389659",
+      "advancedStatus": "pack_id=20260831-141 seq=141 exp=1788389762",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:54",
+      "lastChecked": "22:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 22:54",
+    "expiresAt": "2026-09-02 22:56",
     "items": [
       {
         "channel": "iranintl",
@@ -1036,14 +1036,21 @@
         "text": "Donald Trump said the Islamic Republic will never acquire nuclear weapons. He warned that these weapons could lead to the destruction of Israel and the Middle East. Trump also said the Islamic Republic officials do not know who their leader is.",
         "time": "22:53",
         "ts": 1788216838
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Benjamin Netanyahu said that overthrowing the Islamic Republic is one of Israel's goals. He added that the regime is now much weaker than before. Netanyahu emphasized that the defeat of the Islamic Republic is possible.",
+        "time": "22:55",
+        "ts": 1788216943
       }
     ],
     "language": "en",
-    "packId": "20260831-140",
-    "sequence": 140,
+    "packId": "20260831-141",
+    "sequence": 141,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:54"
+    "updatedAt": "22:56"
   },
   "verified": true
 }
