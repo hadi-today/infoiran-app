@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-40 seq=40 exp=1788340306",
+      "advancedStatus": "pack_id=20260831-41 seq=41 exp=1788340389",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:11",
+      "lastChecked": "09:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 09:11",
+    "expiresAt": "2026-09-02 09:13",
     "items": [
       {
         "channel": "iranintl",
@@ -994,14 +994,21 @@
         "text": "Hossein Aghaei stated that a new round of US attacks in Larak occurred in response to the Islamic Republic's efforts to escalate tensions in the Strait of Hormuz. The continuation of these attacks depends on Tehran's subsequent actions.",
         "time": "09:11",
         "ts": 1788167484
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Gholamhossein Mohseni Ejei stated that the enemy and their agents are planning anti-security actions in Iran. He warned that a strong response will be given if unrest occurs. Security forces and the judiciary are at the highest level of readiness.",
+        "time": "09:12",
+        "ts": 1788167570
       }
     ],
     "language": "en",
-    "packId": "20260831-40",
-    "sequence": 40,
+    "packId": "20260831-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:11"
+    "updatedAt": "09:13"
   },
   "verified": true
 }
