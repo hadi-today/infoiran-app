@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-91 seq=91 exp=1788363360",
+      "advancedStatus": "pack_id=20260831-92 seq=92 exp=1788363936",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:36",
+      "lastChecked": "15:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 15:36",
+    "expiresAt": "2026-09-02 15:45",
     "items": [
       {
         "channel": "iranintl",
@@ -987,14 +987,21 @@
         "text": "The police commander of Rudsar announced the arrest of a 29-year-old citizen in the city. The individual is accused of causing public disturbance on social media. This news was reported by Harana News Agency.",
         "time": "15:35",
         "ts": 1788190531
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump posted an animation of the bombing of Khark Island on Truth Social. JD Vance described this action as a message to the Iranian government. Trump does not disclose military actions on social media.",
+        "time": "15:45",
+        "ts": 1788191111
       }
     ],
     "language": "en",
-    "packId": "20260831-91",
-    "sequence": 91,
+    "packId": "20260831-92",
+    "sequence": 92,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:36"
+    "updatedAt": "15:45"
   },
   "verified": true
 }
