@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-102 seq=102 exp=1788369440",
+      "advancedStatus": "pack_id=20260831-103 seq=103 exp=1788369798",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:17",
+      "lastChecked": "17:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 17:17",
+    "expiresAt": "2026-09-02 17:23",
     "items": [
       {
         "channel": "iranintl",
@@ -1015,14 +1015,21 @@
         "text": "At least 10 protests were held today, Monday, 9 Shahrivar, in various cities of Iran. The protest of job seekers in Gachsaran escalated into violence due to police gunfire. Additionally, retirees and company employees held protests in several cities.",
         "time": "17:16",
         "ts": 1788196613
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Football Federation announced Moud Bonyadifar as the referee for the 107th derby between Esteghlal and Persepolis. The match will take place in the fifth week of the Premier League on September 1, 2026, at the Naqsh-e Jahan Stadium in Isfahan. Alireza Ildarom, Bahman Abdollahi, and Seyed Reza Mahdavi will assist Bonyadifar in this game.",
+        "time": "17:22",
+        "ts": 1788196976
       }
     ],
     "language": "en",
-    "packId": "20260831-102",
-    "sequence": 102,
+    "packId": "20260831-103",
+    "sequence": 103,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:17"
+    "updatedAt": "17:23"
   },
   "verified": true
 }
