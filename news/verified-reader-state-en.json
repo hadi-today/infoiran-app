@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-12 seq=12 exp=1788324414",
+      "advancedStatus": "pack_id=20260831-13 seq=13 exp=1788325357",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:46",
+      "lastChecked": "05:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 04:46",
+    "expiresAt": "2026-09-02 05:02",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Anwar Gargash, the UAE foreign policy advisor, stated that the UAE stands firmly with the just cause of the Palestinians. He also said the UAE opposes exploiting this issue to fuel extremism and violence. The UAE has long provided a refuge and opportunities for a dignified life, security, and stability for Palestinians.",
-        "time": "04:55",
-        "ts": 1788065723
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -945,14 +938,21 @@
         "text": "The IRGC Navy announced that a supertanker in the southern Strait of Hormuz caught fire and stopped after hitting two naval mines. The IRGC warned that ships not following Iran's regulations will be targeted. This statement was released after CENTCOM's attacks on missile launchers on Larak Island.",
         "time": "04:46",
         "ts": 1788151593
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran's army public relations announced that after US attacks on Larak Island, the Al-Minhad base in the UAE was targeted with dozens of drones. This base hosts American helicopters and forces. Iran's army emphasized it stands firm to ensure national security until the enemy threat is removed.",
+        "time": "05:02",
+        "ts": 1788152531
       }
     ],
     "language": "en",
-    "packId": "20260831-12",
-    "sequence": 12,
+    "packId": "20260831-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:46"
+    "updatedAt": "05:02"
   },
   "verified": true
 }
