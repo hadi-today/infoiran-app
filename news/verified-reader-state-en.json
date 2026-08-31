@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-04 seq=4 exp=1788313618",
+      "advancedStatus": "pack_id=20260831-05 seq=5 exp=1788314049",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:46",
+      "lastChecked": "01:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 01:46",
+    "expiresAt": "2026-09-02 01:54",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "Israel Hayom reported that war, sanctions, and mismanagement have worsened the livelihood crisis in Iran. The media also cited corruption and the presence of the IRGC in the economy as factors in economic problems. Experts warned that economic pressure may lead to increased repression or military actions.",
         "time": "01:46",
         "ts": 1788140798
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "US President Donald Trump said on Sunday, 8 Shahrivar, that the Islamic Republic will not obtain a nuclear weapon and that he does not necessarily need a signed agreement to win the fight against Iran. He stated that the US naval blockade and financial pressure have dealt heavy blows to Iran, causing the regime to collapse. Trump called Iran the biggest state sponsor of terrorism and stressed that they cannot be allowed to have nuclear weapons.",
+        "time": "01:53",
+        "ts": 1788141229
       }
     ],
     "language": "en",
-    "packId": "20260831-04",
-    "sequence": 4,
+    "packId": "20260831-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:46"
+    "updatedAt": "01:54"
   },
   "verified": true
 }
