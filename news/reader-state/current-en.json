@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-05 seq=5 exp=1788314049",
+      "advancedStatus": "pack_id=20260831-06 seq=6 exp=1788314135",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:54",
+      "lastChecked": "01:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 01:54",
+    "expiresAt": "2026-09-02 01:55",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "US President Donald Trump said on Sunday, 8 Shahrivar, that the Islamic Republic will not obtain a nuclear weapon and that he does not necessarily need a signed agreement to win the fight against Iran. He stated that the US naval blockade and financial pressure have dealt heavy blows to Iran, causing the regime to collapse. Trump called Iran the biggest state sponsor of terrorism and stressed that they cannot be allowed to have nuclear weapons.",
         "time": "01:53",
         "ts": 1788141229
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "CENTCOM denied the IRGC's claim about US attacks in the Strait of Hormuz. According to CENTCOM, the US took limited and precise action against IRGC mine-laying forces posing a threat. The US stated its goal was to protect civilian mariners and global trade flow.",
+        "time": "01:55",
+        "ts": 1788141314
       }
     ],
     "language": "en",
-    "packId": "20260831-05",
-    "sequence": 5,
+    "packId": "20260831-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:54"
+    "updatedAt": "01:55"
   },
   "verified": true
 }
