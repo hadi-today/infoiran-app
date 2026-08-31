@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-71 seq=71 exp=1788355102",
+      "advancedStatus": "pack_id=20260831-72 seq=72 exp=1788355290",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:18",
+      "lastChecked": "13:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 13:18",
+    "expiresAt": "2026-09-02 13:21",
     "items": [
       {
         "channel": "iranintl",
@@ -994,14 +994,21 @@
         "text": "The executive deputy of Masoud Pezeshkian stated that the government's financial and currency policies have caused inflation and increased living pressures. Mohammad Jafar Ghaempanah said that due to budget deficits, they are forced to print money, which creates inflation. Economic journalist Ashkan Nezamabadi described this admission as unprecedented but containing misleading points.",
         "time": "13:16",
         "ts": 1788182210
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Netanyahu claims in Hebrew that he deceived the US government and dragged it into war with Iran on behalf of Israel. He laughs and says he influenced the US through 1000 hours of appearances on American TV networks. However, in English, he praises the leadership of the US president.",
+        "time": "13:21",
+        "ts": 1788182465
       }
     ],
     "language": "en",
-    "packId": "20260831-71",
-    "sequence": 71,
+    "packId": "20260831-72",
+    "sequence": 72,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:18"
+    "updatedAt": "13:21"
   },
   "verified": true
 }
