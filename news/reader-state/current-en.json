@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-89 seq=89 exp=1788362629",
+      "advancedStatus": "pack_id=20260831-90 seq=90 exp=1788362978",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:23",
+      "lastChecked": "15:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 15:23",
+    "expiresAt": "2026-09-02 15:29",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Omid Pourfathollah, a detainee from the December 2025 protests, was sentenced by the Mashhad Revolutionary Court to 12 years, six months, and one day in prison. Five years of this sentence have been suspended. His charges include forming a group aimed at disrupting security and propaganda against the regime.",
-        "time": "15:24",
-        "ts": 1788103447
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Saeed Jalili stated that the idea of resolving issues through negotiation must be corrected and deterrence occurs when the opponent knows their actions will not go unanswered. He emphasized the need to maximize the use of the Strait of Hormuz's capacity. Jalili also mentioned that war is not limited to the military domain but includes economic, political, media, and security areas.",
-        "time": "15:28",
-        "ts": 1788103681
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -987,14 +973,21 @@
         "text": "Iran International has revealed the identities of members of the IRGC Intelligence Unit 4000. This unit has recruited three individuals through clerics from Thailand and Indonesia for sabotage in East Asian waters. The report was prepared by Mojtaba Pourmohsen.",
         "time": "15:23",
         "ts": 1788189804
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Lionel Messi announced that after some reflection and an incident involving his father, he has decided to retire from the Argentina national team. He wrote in a note that the decision is painful but the time has come. Messi emphasized that he always gave his best for the national team.",
+        "time": "15:29",
+        "ts": 1788190152
       }
     ],
     "language": "en",
-    "packId": "20260831-89",
-    "sequence": 89,
+    "packId": "20260831-90",
+    "sequence": 90,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:23"
+    "updatedAt": "15:29"
   },
   "verified": true
 }
