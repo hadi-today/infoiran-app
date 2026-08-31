@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-111 seq=111 exp=1788375116",
+      "advancedStatus": "pack_id=20260831-112 seq=112 exp=1788375476",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:51",
+      "lastChecked": "18:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-08-31",
-    "expiresAt": "2026-09-02 18:51",
+    "expiresAt": "2026-09-02 18:57",
     "items": [
       {
         "channel": "iranintl",
@@ -994,14 +994,21 @@
         "text": "Mehdi Mahdavi-Azad stated that the Islamic Republic claimed an attack on a supertanker and ships in the Strait of Hormuz, but the US Central Command denied the claim. He added that such claims have been made several times but are not true. According to him, these actions indicate a decline in the military capability of the Islamic Republic.",
         "time": "18:51",
         "ts": 1788202274
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abbas Araghchi stated after the Shanghai summit that the US has violated the Islamabad agreement and must return to its commitments. He added that after the US returns, the current situation can be resolved. Masoud Pezeshkian also called for the US to return to this agreement.",
+        "time": "18:57",
+        "ts": 1788202632
       }
     ],
     "language": "en",
-    "packId": "20260831-111",
-    "sequence": 111,
+    "packId": "20260831-112",
+    "sequence": 112,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:51"
+    "updatedAt": "18:57"
   },
   "verified": true
 }
