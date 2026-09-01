@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-60 seq=60 exp=1788441733",
+      "advancedStatus": "pack_id=20260901-61 seq=61 exp=1788441976",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:22",
+      "lastChecked": "13:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 13:22",
+    "expiresAt": "2026-09-03 13:26",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Donald Trump called Iran a failed state and described its economic and military situation as collapsed. He claimed that Iran's leaders should be tried for war crimes against humanity. Trump also referred to the suppression of internal protests and the killing of over 100,000 people.",
-        "time": "13:23",
-        "ts": 1788182621
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -966,14 +959,21 @@
         "text": "Jomaran website analyzed the support of part of Iranian society for Reza Pahlavi. This support was attributed to disappointment with the current situation and a nostalgic view of the past. Omid Mohaddes linked this condition to a society without a future seeking refuge in the past.",
         "time": "13:21",
         "ts": 1788268910
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Navid Mohammadzadeh, an actor in cinema and theater, was removed from the orchestral theater \"Arash\" after posting in support of Palestine. This action caused widespread reactions. Sharareh Azizi explained the reasons behind the reactions and his removal.",
+        "time": "13:25",
+        "ts": 1788269148
       }
     ],
     "language": "en",
-    "packId": "20260901-60",
-    "sequence": 60,
+    "packId": "20260901-61",
+    "sequence": 61,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:22"
+    "updatedAt": "13:26"
   },
   "verified": true
 }
