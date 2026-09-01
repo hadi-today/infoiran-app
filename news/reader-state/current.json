@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-128 seq=128 exp=1788464591",
+      "advancedStatus": "pack_id=20260901-129 seq=129 exp=1788464770",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:43",
+      "lastChecked": "19:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 19:43",
+    "expiresAt": "2026-09-03 19:46",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -968,13 +968,19 @@
         "text": "در ساعت‌های مختلف، از کرمانشاه موشک پرتاب شده است. صدای انفجار و پرتاب موشک در این منطقه گزارش شده است. همچنین صدای جنگنده‌ها نیز شنیده شده است.",
         "time": "19:42",
         "ts": 1788291739
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "ویدیوهای رسیده به ایران‌اینترنشنال پرتاب موشک‌های جمهوری اسلامی را از خمین در شامگاه سه‌شنبه ۱۰ شهریور نشان می‌دهند.",
+        "time": "19:45",
+        "ts": 1788291947
       }
     ],
-    "packId": "20260901-128",
-    "sequence": 128,
+    "packId": "20260901-129",
+    "sequence": 129,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "19:43"
+    "updatedAt": "19:46"
   },
   "verified": true
 }
