@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-58 seq=58 exp=1788441453",
+      "advancedStatus": "pack_id=20260901-59 seq=59 exp=1788441642",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:17",
+      "lastChecked": "13:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 13:17",
+    "expiresAt": "2026-09-03 13:20",
     "items": [
       {
         "channel": "vahid online",
@@ -959,14 +959,21 @@
         "text": "On Tuesday, 10 Shahrivar, the April salary increase was deposited with a five-month delay and an insufficient amount. This amount is very low for elderly people who need hygiene supplies. Economic problems and high living costs, including overdue rent and medical expenses, have also been reported.",
         "time": "13:17",
         "ts": 1788268622
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The Chabzi cafe and restaurant in Yazd was closed on Monday, 9 Shahrivar. This action was taken by judicial order due to hosting a music event with a DJ. Officers from the Public Places Supervision Department sealed the venue.",
+        "time": "13:20",
+        "ts": 1788268819
       }
     ],
     "language": "en",
-    "packId": "20260901-58",
-    "sequence": 58,
+    "packId": "20260901-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:17"
+    "updatedAt": "13:20"
   },
   "verified": true
 }
