@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-22 seq=22 exp=1788421908",
+      "advancedStatus": "pack_id=20260901-23 seq=23 exp=1788422197",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:51",
+      "lastChecked": "07:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 07:51",
+    "expiresAt": "2026-09-03 07:56",
     "items": [
       {
         "channel": "iranintl",
@@ -1008,14 +1008,21 @@
         "text": "The disciplinary committee of the Football Federation rejected the complaints from Sepahan and Mes Shahrbabak clubs regarding Yaser Asani's presence in Esteghlal. The league organization has not registered any contract termination for Asani, and Esteghlal proved with a FIFA inquiry that Asani is a legal player. Asani's participation in upcoming Esteghlal matches has no legal obstacles.",
         "time": "07:51",
         "ts": 1788249084
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Ahmad Taj, a resident of Tehran, was sentenced to seven years in prison by Branch 36 of the Tehran Province Court of Appeals. The sentence was announced on Monday, 9 Shahrivar. The lawyer stated that the verdict was issued without considering the defenses of the case's lawyers.",
+        "time": "07:56",
+        "ts": 1788249373
       }
     ],
     "language": "en",
-    "packId": "20260901-22",
-    "sequence": 22,
+    "packId": "20260901-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:51"
+    "updatedAt": "07:56"
   },
   "verified": true
 }
