@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-151 seq=151 exp=1788476810",
+      "advancedStatus": "pack_id=20260901-152 seq=152 exp=1788477319",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:06",
+      "lastChecked": "23:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 23:06",
+    "expiresAt": "2026-09-03 23:15",
     "items": [
       {
         "channel": "iranintl",
@@ -1113,14 +1113,21 @@
         "text": "Foreign Ministry spokesman Esmail Baghaei wrote on X that a residential home in Kuhestak, Sirik, was targeted tonight while people were holding a wedding celebration. He stated that this attack cannot be separated from the chain of previous attacks and warned that the Islamic Republic will respond decisively.",
         "time": "23:06",
         "ts": 1788303987
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "France announced that the UN Security Council will vote this month on extending the mandate of the expert panel monitoring Iran sanctions. The mandate expires on September 26, with the vote expected on September 17. Russia and China may veto the extension, arguing the Security Council no longer has authority over the issue.",
+        "time": "23:14",
+        "ts": 1788304498
       }
     ],
     "language": "en",
-    "packId": "20260901-151",
-    "sequence": 151,
+    "packId": "20260901-152",
+    "sequence": 152,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:06"
+    "updatedAt": "23:15"
   },
   "verified": true
 }
