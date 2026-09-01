@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-140 seq=140 exp=1788472229",
+      "advancedStatus": "pack_id=20260901-141 seq=141 exp=1788472595",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:50",
+      "lastChecked": "21:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 21:50",
+    "expiresAt": "2026-09-03 21:56",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reports indicate that police fired at young protesters in gatherings in Gachsaran and Ahvaz. The protesters demanded transparency in hiring and priority for local workers. Iranian officials have not yet commented on the incident.",
-        "time": "21:51",
-        "ts": 1788213118
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1148,14 +1141,21 @@
         "text": "Traffic police reported that a Hyundai vehicle collided with a Changan vehicle and then struck a crowd supporting the regime. The driver was not in a normal state, resulting in several deaths and injuries. Government sources stated the accident was unintentional.",
         "time": "21:50",
         "ts": 1788299406
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen sent a video showing missile launches from Parand on Tuesday, 10 Shahrivar. In the video, a person is heard chanting \"Death to the Islamic Republic.\" The video was sent to Iran International.",
+        "time": "21:56",
+        "ts": 1788299770
       }
     ],
     "language": "en",
-    "packId": "20260901-140",
-    "sequence": 140,
+    "packId": "20260901-141",
+    "sequence": 141,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:50"
+    "updatedAt": "21:56"
   },
   "verified": true
 }
