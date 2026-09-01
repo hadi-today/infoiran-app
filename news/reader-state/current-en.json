@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-134 seq=134 exp=1788465673",
+      "advancedStatus": "pack_id=20260901-135 seq=135 exp=1788466204",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:01",
+      "lastChecked": "20:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 20:01",
+    "expiresAt": "2026-09-03 20:10",
     "items": [
       {
         "channel": "iranintl",
@@ -1162,14 +1162,21 @@
         "text": "According to Tanker Trackers, Iran's crude oil exports in August 2026 dropped to zero. This represents a 100% decrease compared to the pre-war level in winter 1405. The report indicates a complete halt in Iran's crude oil exports during this period.",
         "time": "20:00",
         "ts": 1788292852
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "According to a video sent to Iran International, the Islamic Republic fired a missile from Tehran on Tuesday, 10 Shahrivar.",
+        "time": "20:09",
+        "ts": 1788293384
       }
     ],
     "language": "en",
-    "packId": "20260901-134",
-    "sequence": 134,
+    "packId": "20260901-135",
+    "sequence": 135,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:01"
+    "updatedAt": "20:10"
   },
   "verified": true
 }
