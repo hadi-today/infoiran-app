@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-15 seq=15 exp=1788419190",
+      "advancedStatus": "pack_id=20260901-16 seq=16 exp=1788419408",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:06",
+      "lastChecked": "07:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 07:06",
+    "expiresAt": "2026-09-03 07:10",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -860,13 +860,19 @@
         "text": "یک شهروند در شیراز اعلام کرد برق منطقه آنها چهار ساعت در روز قطع می‌شود. این موضوع در ویدیویی به ایران‌اینترنشنال گزارش شده است. قطع برق در این منطقه باعث نارضایتی شده است.",
         "time": "07:06",
         "ts": 1788246365
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "مسعود پزشکیان در آغاز نشست سازمان همکاری شانگهای در قرقیزستان گفت جمهوری اسلامی آماده بازگشت به توافق اسلام‌آباد با آمریکا است. او آمریکا را به اجرا نکردن تعهداتش متهم کرد و گفت در صورت بازگشت واشینگتن به تعهدات، ایران «بلافاصله» اقدام متقابل خواهد کرد.",
+        "time": "07:09",
+        "ts": 1788246580
       }
     ],
-    "packId": "20260901-15",
-    "sequence": 15,
+    "packId": "20260901-16",
+    "sequence": 16,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "07:06"
+    "updatedAt": "07:10"
   },
   "verified": true
 }
