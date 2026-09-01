@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-15 seq=15 exp=1788419190",
+      "advancedStatus": "pack_id=20260901-16 seq=16 exp=1788419408",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:06",
+      "lastChecked": "07:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 07:06",
+    "expiresAt": "2026-09-03 07:10",
     "items": [
       {
         "channel": "iranintl",
@@ -1001,14 +1001,21 @@
         "text": "A citizen in Shiraz reported that the electricity in their area is cut off for four hours a day. This was reported in a video to Iran International. The power outage has caused dissatisfaction in the area.",
         "time": "07:06",
         "ts": 1788246365
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Masoud Pezeshkian said at the start of the Shanghai Cooperation Organization meeting in Kyrgyzstan that the Islamic Republic is ready to return to the Islamabad agreement with America. He accused America of not fulfilling its commitments and said if Washington returns to its commitments, Iran will",
+        "time": "07:09",
+        "ts": 1788246580
       }
     ],
     "language": "en",
-    "packId": "20260901-15",
-    "sequence": 15,
+    "packId": "20260901-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:06"
+    "updatedAt": "07:10"
   },
   "verified": true
 }
