@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-142 seq=142 exp=1788472882",
+      "advancedStatus": "pack_id=20260901-143 seq=143 exp=1788473815",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:01",
+      "lastChecked": "22:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 22:01",
+    "expiresAt": "2026-09-03 22:16",
     "items": [
       {
         "channel": "iranintl",
@@ -1155,14 +1155,21 @@
         "text": "Reports indicate a US attack on a telecommunications tower near Sirik in southern Iran resulted in casualties among those attending a nearby wedding ceremony. Islamic Republic television reported at least four killed and 35 seriously injured. Ahmad Nafisi, deputy governor of Hormozgan, said a residential building hosting the wedding was hit during the attack.",
         "time": "22:01",
         "ts": 1788300060
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Financial Times reported that Russia has secretly helped Iran develop advanced hypersonic cruise missiles. The program, codenamed C430L, started in 2023 and involves Russian experts assisting in ramjet propulsion system development. There is no evidence yet that these missiles have been operationally deployed.",
+        "time": "22:16",
+        "ts": 1788300995
       }
     ],
     "language": "en",
-    "packId": "20260901-142",
-    "sequence": 142,
+    "packId": "20260901-143",
+    "sequence": 143,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:01"
+    "updatedAt": "22:16"
   },
   "verified": true
 }
