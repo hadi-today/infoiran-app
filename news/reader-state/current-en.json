@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-41 seq=41 exp=1788432788",
+      "advancedStatus": "pack_id=20260901-42 seq=42 exp=1788433480",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:53",
+      "lastChecked": "11:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 10:53",
+    "expiresAt": "2026-09-03 11:04",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The UAE Ministry of Foreign Affairs stated that it reserves the full and legitimate right to respond to recent drone attacks by the Islamic Republic in accordance with international law. This statement was issued on Monday, 9th of Shahrivar. An Iran International reporter covers reactions to the Islamic Republic's attacks in the region.",
-        "time": "10:53",
-        "ts": 1788173638
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen from Shiraz reported that fuel stations announce the end of their fuel card quota after a few hours. Then they sell gasoline at a higher price. This issue was sent to Iran International in a video.",
-        "time": "11:01",
-        "ts": 1788174077
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "On the evening of Sunday, 8 Shahrivar 1405, the US army targeted two IRGC launchers on Larak Island. The IRGC confirmed casualties among its forces and local residents. The governor of Qeshm stated that two people were killed and one wounded in the attack.",
-        "time": "11:03",
-        "ts": 1788174199
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -973,14 +952,21 @@
         "text": "Article 2 of the Countering Infiltration Plan requires registration and permits for scientific, research, educational, and cultural collaborations with foreign entities. This has drawn criticism from academics and researchers over restrictions on academic freedom and increased self-censorship. Experts warn that these limitations may reduce Iranian researchers' participation in international scientific networks and exacerbate specialist migration.",
         "time": "10:52",
         "ts": 1788259966
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Football Federation's Ethics Committee banned Payam Sadeghian for 15 years from sports activities and stadium attendance due to founding and managing a betting site. This ban lasts until 1413 in the Iranian calendar. Milad Hatami expressed surprise about Sadeghian's involvement in betting activities.",
+        "time": "11:04",
+        "ts": 1788260648
       }
     ],
     "language": "en",
-    "packId": "20260901-41",
-    "sequence": 41,
+    "packId": "20260901-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:53"
+    "updatedAt": "11:04"
   },
   "verified": true
 }
