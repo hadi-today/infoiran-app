@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-85 seq=85 exp=1788451463",
+      "advancedStatus": "pack_id=20260901-86 seq=86 exp=1788451922",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:04",
+      "lastChecked": "16:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 16:04",
+    "expiresAt": "2026-09-03 16:12",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Alireza Elhami, commander of the air defense joint headquarters, stated that the Islamic Republic is a decisive victor in the battlefield. He mentioned that information about scientific and defense achievements is less published to be better utilized. These remarks were made at a ceremony at the burial site of Ruhollah Khomeini.",
-        "time": "16:09",
-        "ts": 1788192585
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -1001,14 +994,21 @@
         "text": "As the 1405-1406 school year approaches, many first-grade elementary students have not yet been registered. Reports indicate a significant number of middle school students have dropped out. This highlights a crisis of dropout and educational deprivation in elementary and middle school levels.",
         "time": "16:03",
         "ts": 1788278617
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Multiple explosions have been reported in Konarak and Chabahar. The explosions were heard between 19:33 and 19:36. The number of explosions is reported to be between five and seven.",
+        "time": "16:11",
+        "ts": 1788279099
       }
     ],
     "language": "en",
-    "packId": "20260901-85",
-    "sequence": 85,
+    "packId": "20260901-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:04"
+    "updatedAt": "16:12"
   },
   "verified": true
 }
