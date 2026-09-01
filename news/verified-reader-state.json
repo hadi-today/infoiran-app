@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-101 seq=101 exp=1788457129",
+      "advancedStatus": "pack_id=20260901-102 seq=102 exp=1788457696",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:38",
+      "lastChecked": "17:48",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 17:38",
+    "expiresAt": "2026-09-03 17:48",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -884,13 +884,19 @@
         "text": "خبرگزاری صدا و سیما از شنیده شدن صدای انفجار در منطقه ۴ عسلویه در حوالی ساعت ۲۰:۱۰ سه‌شنبه خبر داد. این حادثه در ساعت مشخصی رخ داده است. جزئیات بیشتر اعلام نشده است.",
         "time": "17:38",
         "ts": 1788284280
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "دونالد ترامپ اعلام کرد ارتش آمریکا حملاتی به اهداف ایرانی در اطراف تنگه هرمز انجام می‌دهد. این حملات واکنشی به تلاش ایران برای کار گذاشتن مین‌های دریایی و شلیک موشک به پایگاه آمریکا در اردن است. ترامپ هشدار داد در صورت تلافی ایران، حملات شدیدتری انجام خواهد شد.",
+        "time": "17:47",
+        "ts": 1788284870
       }
     ],
-    "packId": "20260901-101",
-    "sequence": 101,
+    "packId": "20260901-102",
+    "sequence": 102,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "17:38"
+    "updatedAt": "17:48"
   },
   "verified": true
 }
