@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-27 seq=27 exp=1788424100",
+      "advancedStatus": "pack_id=20260901-28 seq=28 exp=1788424375",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:28",
+      "lastChecked": "08:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 08:28",
+    "expiresAt": "2026-09-03 08:32",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ruhollah Rahimpour said the likelihood of renewed clashes has increased after US attacks on IRGC positions on Larak Island, but a full-scale war is unlikely. He added that the US has shifted its tactics to preventive actions to avoid blocking the Strait of Hormuz.",
-        "time": "08:29",
-        "ts": 1788164997
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1022,14 +1015,21 @@
         "text": "Reports indicate severe economic hardship and poverty in Iran. Employees of Saipa company receive weekly wages, and parts suppliers are compensated with vehicles instead of money. Additionally, in Tehran, Basij forces set up checkpoints, harassing people and beating young individuals.",
         "time": "08:27",
         "ts": 1788251275
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen stated in a video that due to high prices and lack of money, they had to buy several food items on credit. This highlights the economic difficulties faced by people. The video was sent to Iran International.",
+        "time": "08:32",
+        "ts": 1788251549
       }
     ],
     "language": "en",
-    "packId": "20260901-27",
-    "sequence": 27,
+    "packId": "20260901-28",
+    "sequence": 28,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:28"
+    "updatedAt": "08:32"
   },
   "verified": true
 }
