@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-43 seq=43 exp=1788434225",
+      "advancedStatus": "pack_id=20260901-44 seq=44 exp=1788434599",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:17",
+      "lastChecked": "11:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 11:17",
+    "expiresAt": "2026-09-03 11:23",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "Ali Zarei Dozdarhesi, a political prisoner in Qezel Hesar prison, has been sentenced to death for corruption on earth. The sentence was issued by Branch 23 of the Tehran Revolutionary Court and notified on August 23, 2026. Charges include political activities, propaganda against the regime, and disturbing security.",
         "time": "11:16",
         "ts": 1788261404
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video of Hassan Hossein Khani dancing in shorts in a villa yard was released, provoking reactions from the community of eulogists. The House of Eulogists condemned the act, calling it a basis for enemies' exploitation. Hamshahri newspaper also described the video as disruptive to social norms.",
+        "time": "11:22",
+        "ts": 1788261772
       }
     ],
     "language": "en",
-    "packId": "20260901-43",
-    "sequence": 43,
+    "packId": "20260901-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:17"
+    "updatedAt": "11:23"
   },
   "verified": true
 }
