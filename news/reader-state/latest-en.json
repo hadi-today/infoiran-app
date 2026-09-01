@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-21 seq=21 exp=1788421800",
+      "advancedStatus": "pack_id=20260901-22 seq=22 exp=1788421908",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:50",
+      "lastChecked": "07:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 07:50",
+    "expiresAt": "2026-09-03 07:51",
     "items": [
       {
         "channel": "iranintl",
@@ -1001,14 +1001,21 @@
         "text": "David Zini, head of Israel's internal security agency, traveled secretly to Washington. He will discuss sensitive security cases with FBI officials, including threats against Benjamin Netanyahu's son. The trip took place on Saturday evening.",
         "time": "07:48",
         "ts": 1788248932
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The disciplinary committee of the Football Federation rejected the complaints from Sepahan and Mes Shahrbabak clubs regarding Yaser Asani's presence in Esteghlal. The league organization has not registered any contract termination for Asani, and Esteghlal proved with a FIFA inquiry that Asani is a legal player. Asani's participation in upcoming Esteghlal matches has no legal obstacles.",
+        "time": "07:51",
+        "ts": 1788249084
       }
     ],
     "language": "en",
-    "packId": "20260901-21",
-    "sequence": 21,
+    "packId": "20260901-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:50"
+    "updatedAt": "07:51"
   },
   "verified": true
 }
