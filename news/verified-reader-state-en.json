@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-31 seq=31 exp=1788426919",
+      "advancedStatus": "pack_id=20260901-32 seq=32 exp=1788427061",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:15",
+      "lastChecked": "09:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 09:15",
+    "expiresAt": "2026-09-03 09:17",
     "items": [
       {
         "channel": "iranintl",
@@ -980,14 +980,21 @@
         "text": "Staff and medical personnel of Hakim Hospital in Nishapur held a protest today. They demanded payment of their dues and attention to their job-related issues. The protest took place around the hospital building.",
         "time": "09:14",
         "ts": 1788254096
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Power outages across the country have disrupted people's lives and caused damage to businesses. As a result, hundreds of workers at the Aryan Steel Complex in Qazvin held a protest march. More details are provided in an interview with Leila Saadati.",
+        "time": "09:17",
+        "ts": 1788254239
       }
     ],
     "language": "en",
-    "packId": "20260901-31",
-    "sequence": 31,
+    "packId": "20260901-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:15"
+    "updatedAt": "09:17"
   },
   "verified": true
 }
