@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-68 seq=68 exp=1788446280",
+      "advancedStatus": "pack_id=20260901-69 seq=69 exp=1788446366",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:38",
+      "lastChecked": "14:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 14:38",
+    "expiresAt": "2026-09-03 14:39",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Tasnim news agency reported that one of the injured in the US attack on Larak Island died from severe injuries. The death toll from this attack reached three. The attack occurred on Sunday night and the injured were taken to the hospital.",
-        "time": "14:38",
-        "ts": 1788187104
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -938,14 +931,21 @@
         "text": "Mohammad Reza Aref, the first deputy of Pezeshkian, said that after the war, the situation improves week by week.",
         "time": "14:37",
         "ts": 1788273453
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The Iranian University Professors' Union has warned that if the law to adjust faculty salaries is not fully implemented by the end of September 1405, academic activities will be suspended from October. This suspension will cover educational, research, executive, and advisory fields and will continue until the law is fully implemented. The union accused the Budget Organization of obstruction and warned about the consequences of neglecting faculty living conditions.",
+        "time": "14:38",
+        "ts": 1788273538
       }
     ],
     "language": "en",
-    "packId": "20260901-68",
-    "sequence": 68,
+    "packId": "20260901-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:38"
+    "updatedAt": "14:39"
   },
   "verified": true
 }
