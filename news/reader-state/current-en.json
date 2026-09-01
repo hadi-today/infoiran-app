@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-11 seq=11 exp=1788413060",
+      "advancedStatus": "pack_id=20260901-12 seq=12 exp=1788413147",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:24",
+      "lastChecked": "05:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 05:24",
+    "expiresAt": "2026-09-03 05:25",
     "items": [
       {
         "channel": "iranintl",
@@ -1036,14 +1036,21 @@
         "text": "Masoud Pezeshkian stated at the Shanghai Cooperation Organization summit that if the US returns to its commitments in the Islamabad agreement, the Islamic Republic will reciprocate immediately. He emphasized that sustainable security comes through mutual trust and respect for national sovereignty. Pezeshkian also said regional security depends on opposing force-based approaches.",
         "time": "05:23",
         "ts": 1788240183
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Dadpay stated that the dollar price has surpassed 210,000 tomans and the devaluation of the rial is no longer temporary. Iran's economy is moving towards a new equilibrium with high inflation and a weaker rial. He cited money printing, goods shortages, and sanctions as factors worsening the crisis and warned that people's purchasing power will decline.",
+        "time": "05:25",
+        "ts": 1788240325
       }
     ],
     "language": "en",
-    "packId": "20260901-11",
-    "sequence": 11,
+    "packId": "20260901-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:24"
+    "updatedAt": "05:25"
   },
   "verified": true
 }
