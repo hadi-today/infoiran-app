@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-83 seq=83 exp=1788451313",
+      "advancedStatus": "pack_id=20260901-85 seq=85 exp=1788451463",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:01",
+      "lastChecked": "16:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 16:01",
+    "expiresAt": "2026-09-03 16:04",
     "items": [
       {
         "channel": "iranintl",
@@ -987,14 +987,28 @@
         "text": "Several explosions were heard in Bandar Abbas. No further details about the incident have been announced. Reports indicate that messages from the public about these explosions have been received.",
         "time": "16:01",
         "ts": 1788278488
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen stated that to receive a Saipa car promised in three months, they sold their spouse's gold and their own Pride car. However, it has been ten months and they have not yet received the car. This issue reflects customer dissatisfaction.",
+        "time": "16:02",
+        "ts": 1788278570
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "As the 1405-1406 school year approaches, many first-grade elementary students have not yet been registered. Reports indicate a significant number of middle school students have dropped out. This highlights a crisis of dropout and educational deprivation in elementary and middle school levels.",
+        "time": "16:03",
+        "ts": 1788278617
       }
     ],
     "language": "en",
-    "packId": "20260901-83",
-    "sequence": 83,
+    "packId": "20260901-85",
+    "sequence": 85,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:01"
+    "updatedAt": "16:04"
   },
   "verified": true
 }
