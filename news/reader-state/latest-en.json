@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-02 seq=2 exp=1788395239",
+      "advancedStatus": "pack_id=20260901-03 seq=3 exp=1788399788",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:27",
+      "lastChecked": "01:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 00:27",
+    "expiresAt": "2026-09-03 01:43",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "CENTCOM announced that US forces took \"limited and precise\" action to counter what it called an \"imminent threat\" from IRGC mine-laying forces in the Strait of Hormuz. CENTCOM called the IRGC's statement, which described the US attack as an \"aggressive act,\" \"completely false,\" stating that Iran created the threat. This position relates to the August 30th attack by US forces on two IRGC launchers on Lark Island, which US officials said were being prepared for mine-laying.",
-        "time": "01:28",
-        "ts": 1788139731
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1050,14 +1043,21 @@
         "text": "The UK Maritime Trade Operations announced that a tanker was targeted while passing through the Strait of Hormuz. The incident occurred 31 kilometers east of the Khasab area in Oman. The tanker was hit by three unknown projectiles.",
         "time": "00:26",
         "ts": 1788222419
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Israel's public broadcaster Kan reported that the country is not satisfied with the Lebanese army's progress in disarming Hezbollah in southern Lebanon. According to a senior US official, Lebanese army officers have opposed the withdrawal of Israeli forces, fearing Hezbollah's return. The US official said they are working with both sides for a future agreement, but the process will take time.",
+        "time": "01:42",
+        "ts": 1788226965
       }
     ],
     "language": "en",
-    "packId": "20260901-02",
-    "sequence": 2,
+    "packId": "20260901-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:27"
+    "updatedAt": "01:43"
   },
   "verified": true
 }
