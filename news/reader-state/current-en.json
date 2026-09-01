@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-25 seq=25 exp=1788423845",
+      "advancedStatus": "pack_id=20260901-26 seq=26 exp=1788423924",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:24",
+      "lastChecked": "08:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 08:24",
+    "expiresAt": "2026-09-03 08:25",
     "items": [
       {
         "channel": "iranintl",
@@ -1008,14 +1008,21 @@
         "text": "The head of the Emergency Medical Services Center in Mazandaran reported that about 70% of the ambulances in the province are worn out. The emergency fleet consists of 180 ambulances operating in 107 bases. Many of these ambulances have been repaired multiple times and some may no longer be repairable.",
         "time": "08:23",
         "ts": 1788251020
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ismail Kowsari, a member of the Parliament's National Security and Foreign Policy Commission, said that some think the US will change following Pakistan's mediation, but it will not. Referring to the visit of Asim Munir to Tehran, he said that some imagine that the 'Great Satan' will become human, but they still have their satanic spirit, selfishness and arrogance.",
+        "time": "08:24",
+        "ts": 1788251068
       }
     ],
     "language": "en",
-    "packId": "20260901-25",
-    "sequence": 25,
+    "packId": "20260901-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:24"
+    "updatedAt": "08:25"
   },
   "verified": true
 }
