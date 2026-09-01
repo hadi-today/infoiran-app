@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-05 seq=5 exp=1788404187",
+      "advancedStatus": "pack_id=20260901-06 seq=6 exp=1788406749",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:56",
+      "lastChecked": "03:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 02:56",
+    "expiresAt": "2026-09-03 03:39",
     "items": [
       {
         "channel": "vahid online",
@@ -1036,14 +1036,21 @@
         "text": "Scott Bessent, the US Treasury Secretary, is seeking international support to increase economic pressure on Iran at the G20 finance ministers' meeting. He announced that another bank will be sanctioned under the 'Economic Exclusion Campaign' this week, and said the US is ready to apply 'financial violence' if necessary. Bessent also reported full EU support and said that regarding sanctions on China for buying Iranian oil, 'all options are on the table.'",
         "time": "02:56",
         "ts": 1788231362
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "David Zini, head of Shin Bet, has secretly traveled to the United States. The purpose of the trip is to meet FBI officials and discuss sensitive issues including settler violence and the return of Netanyahu's son. This is Zini's first foreign trip since assuming his position.",
+        "time": "03:38",
+        "ts": 1788233927
       }
     ],
     "language": "en",
-    "packId": "20260901-05",
-    "sequence": 5,
+    "packId": "20260901-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:56"
+    "updatedAt": "03:39"
   },
   "verified": true
 }
