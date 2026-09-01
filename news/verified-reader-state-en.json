@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-119 seq=119 exp=1788462233",
+      "advancedStatus": "pack_id=20260901-120 seq=120 exp=1788462312",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:03",
+      "lastChecked": "19:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 19:03",
+    "expiresAt": "2026-09-03 19:05",
     "items": [
       {
         "channel": "iranintl",
@@ -1106,14 +1106,28 @@
         "text": "A video shows that on Tuesday, 10 Shahrivar, a missile fell in Khomain after launch. This incident was reported by Iran International.",
         "time": "19:03",
         "ts": 1788289415
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Multiple severe explosions were reported around Qeshm and Bandar Abbas at 22:28 and 22:30. The sound of missile whistling was heard before the explosions. These explosions occurred in various areas including the Tolou Industrial Town of Qeshm.",
+        "time": "19:04",
+        "ts": 1788289461
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Masoud Farhikhteh and Zartosht Ahmadi-Ragheb, two political prisoners in Karaj Central Prison, have been held in a separate room without basic facilities since July 30. They have been deprived of contact with their families, and family inquiries have so far been unsuccessful. The reason for these restrictions remains unclear.",
+        "time": "19:05",
+        "ts": 1788289508
       }
     ],
     "language": "en",
-    "packId": "20260901-119",
-    "sequence": 119,
+    "packId": "20260901-120",
+    "sequence": 120,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:03"
+    "updatedAt": "19:05"
   },
   "verified": true
 }
