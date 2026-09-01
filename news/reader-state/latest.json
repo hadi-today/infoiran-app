@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-92 seq=92 exp=1788453652",
+      "advancedStatus": "pack_id=20260901-93 seq=93 exp=1788453979",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:40",
+      "lastChecked": "16:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 16:40",
+    "expiresAt": "2026-09-03 16:46",
     "items": [
       {
         "channel": "خبرگزاری هرانا",
@@ -884,13 +884,19 @@
         "text": "سنتکام اعلام کرد سه‌شنبه ساعت ۱۹:۳۰ به وقت تهران، نیروهای آمریکایی حمله به اهداف سپاه پاسداران در ایران را آغاز کردند. این حملات پس از تلاش‌های سپاه برای حمله به کشتی‌های تجاری و نیروهای آمریکایی در منطقه انجام شد. سنتکام این اقدام را واکنشی به تهدیدهای اخیر سپاه عنوان کرد.",
         "time": "16:40",
         "ts": 1788280828
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "text": "یک فعال محیط‌زیست در کرمانشاه هنگام عملیات اطفای حریق در منطقه حفاظت‌شده بوزین و مرخیل بر اثر انفجار مین مصدوم شد. مین به‌جامانده از جنگ ایران و عراق بوده است. مصدومیت از ناحیه پا گزارش شده است.",
+        "time": "16:45",
+        "ts": 1788281152
       }
     ],
-    "packId": "20260901-92",
-    "sequence": 92,
+    "packId": "20260901-93",
+    "sequence": 93,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "16:40"
+    "updatedAt": "16:46"
   },
   "verified": true
 }
