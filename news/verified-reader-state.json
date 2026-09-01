@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-01 seq=1 exp=1788395026",
+      "advancedStatus": "pack_id=20260901-02 seq=2 exp=1788395239",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:23",
+      "lastChecked": "00:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 00:23",
+    "expiresAt": "2026-09-03 00:27",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -896,13 +896,19 @@
         "text": "مهدی زارع از ثبت ۹ زمین‌لرزه با بزرگی بیش از سه در شرق تهران از ابتدای سال جاری خبر داد. او هشدار داد که گسل‌های فعال و رسوبات نرم می‌توانند خطر زلزله را افزایش دهند. گسل مشا و گسل‌های پارچین و ایوانکی مناطق مختلف تهران را تهدید می‌کنند.",
         "time": "00:23",
         "ts": 1788222201
+      },
+      {
+        "channel": "وحید آنلاین",
+        "text": "سازمان عملیات تجارت دریایی بریتانیا اعلام کرد یک نفتکش هنگام عبور از تنگه هرمز هدف قرار گرفته است. این حادثه در فاصله ۳۱ کیلومتری شرق منطقه خصب عمان رخ داده است. نفتکش هدف اصابت سه پرتابه ناشناس قرار گرفته است.",
+        "time": "00:26",
+        "ts": 1788222419
       }
     ],
-    "packId": "20260901-01",
-    "sequence": 1,
+    "packId": "20260901-02",
+    "sequence": 2,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "00:23"
+    "updatedAt": "00:27"
   },
   "verified": true
 }
