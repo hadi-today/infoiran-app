@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-59 seq=59 exp=1788441642",
+      "advancedStatus": "pack_id=20260901-60 seq=60 exp=1788441733",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:20",
+      "lastChecked": "13:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 13:20",
+    "expiresAt": "2026-09-03 13:22",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Netanyahu claims in Hebrew that he deceived the US government and dragged it into war with Iran on behalf of Israel. He laughs and says he influenced the US through 1000 hours of appearances on American TV networks. However, in English, he praises the leadership of the US president.",
-        "time": "13:21",
-        "ts": 1788182465
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -966,14 +959,21 @@
         "text": "The Chabzi cafe and restaurant in Yazd was closed on Monday, 9 Shahrivar. This action was taken by judicial order due to hosting a music event with a DJ. Officers from the Public Places Supervision Department sealed the venue.",
         "time": "13:20",
         "ts": 1788268819
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Jomaran website analyzed the support of part of Iranian society for Reza Pahlavi. This support was attributed to disappointment with the current situation and a nostalgic view of the past. Omid Mohaddes linked this condition to a society without a future seeking refuge in the past.",
+        "time": "13:21",
+        "ts": 1788268910
       }
     ],
     "language": "en",
-    "packId": "20260901-59",
-    "sequence": 59,
+    "packId": "20260901-60",
+    "sequence": 60,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:20"
+    "updatedAt": "13:22"
   },
   "verified": true
 }
