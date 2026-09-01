@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-110 seq=110 exp=1788459806",
+      "advancedStatus": "pack_id=20260901-111 seq=111 exp=1788459900",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:23",
+      "lastChecked": "18:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 18:23",
+    "expiresAt": "2026-09-03 18:25",
     "items": [
       {
         "channel": "iranintl",
@@ -1057,14 +1057,21 @@
         "text": "Donald Trump said that if Iran responds to US attacks, it could be completely destroyed. He warned that if Iran retaliates, there will be harsher attacks. Trump also made harsh remarks about the Iranian government and said that any agreement with them is worthless.",
         "time": "18:22",
         "ts": 1788286977
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "On the early morning of Tuesday, 3 Shahrivar, the execution of a prisoner in Sepidar Prison in Ahvaz was carried out. Also, a murder suspect in Tehran was sentenced to death. Two prisoners in Qazvin and Kerman were spared from execution after the victim's families expressed satisfaction.",
+        "time": "18:23",
+        "ts": 1788287020
       }
     ],
     "language": "en",
-    "packId": "20260901-110",
-    "sequence": 110,
+    "packId": "20260901-111",
+    "sequence": 111,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:23"
+    "updatedAt": "18:25"
   },
   "verified": true
 }
