@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-132 seq=132 exp=1788465343",
+      "advancedStatus": "pack_id=20260901-133 seq=133 exp=1788465431",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:55",
+      "lastChecked": "19:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 19:55",
+    "expiresAt": "2026-09-03 19:57",
     "items": [
       {
         "channel": "iranintl",
@@ -1148,14 +1148,21 @@
         "text": "The audio version of the program 24 with Fardad Farahzad about the new round of US attacks on southern Iran has been released.",
         "time": "19:54",
         "ts": 1788292457
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehr news agency reported air defense activity in east Tehran on Tuesday evening. This news was published by the Islamic Propagation Organization. The exact time of the event was Tuesday evening.",
+        "time": "19:56",
+        "ts": 1788292574
       }
     ],
     "language": "en",
-    "packId": "20260901-132",
-    "sequence": 132,
+    "packId": "20260901-133",
+    "sequence": 133,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:55"
+    "updatedAt": "19:57"
   },
   "verified": true
 }
