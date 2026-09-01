@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-38 seq=38 exp=1788431492",
+      "advancedStatus": "pack_id=20260901-39 seq=39 exp=1788431704",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:31",
+      "lastChecked": "10:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 10:31",
+    "expiresAt": "2026-09-03 10:35",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Asaad Salehi, a board member of the Supreme Association of Workers' Trade Unions, called for updating wages due to the sharp decline in workers' purchasing power. He rejected claims that wage increases cause inflation and described the allocation of ration cards as shirking legal responsibility. Salehi emphasized that workers' household expenses can only be met through a real increase in purchasing power.",
-        "time": "10:33",
-        "ts": 1788172389
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -980,14 +973,21 @@
         "text": "A protester in Tehran wrote on a wall addressing Ahmad Vahidi: \"How many more thousands must be sacrificed due to your stubborn refusal to sign?\" This protest refers to Ahmad Vahidi's role in shaping the hard stance of the Islamic Republic in war-ending negotiations. This issue was reported by the Associated Press.",
         "time": "10:31",
         "ts": 1788258667
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A number of shareholders of Jihad Nasr Company gathered in front of Kermanshah Governorate. They protested financial violations in the company and demanded investigation. The protesters also reported delays in paying salaries and insurance premiums of the staff.",
+        "time": "10:34",
+        "ts": 1788258877
       }
     ],
     "language": "en",
-    "packId": "20260901-38",
-    "sequence": 38,
+    "packId": "20260901-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:31"
+    "updatedAt": "10:35"
   },
   "verified": true
 }
