@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-150 seq=150 exp=1788476587",
+      "advancedStatus": "pack_id=20260901-151 seq=151 exp=1788476810",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:03",
+      "lastChecked": "23:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 23:03",
+    "expiresAt": "2026-09-03 23:06",
     "items": [
       {
         "channel": "iranintl",
@@ -1106,14 +1106,21 @@
         "text": "Iranian government sources reported a heavy ballistic missile attack on the hangars of RQ-4 and MQ-9 long-range drones at Prince Hassan base. A number of drones were destroyed and some pilots and flight technical crew were killed, and technical infrastructure was set on fire. This was done in retaliation for the US bombing of a wedding celebration in Sirik, Hormozgan.",
         "time": "23:02",
         "ts": 1788303766
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Foreign Ministry spokesman Esmail Baghaei wrote on X that a residential home in Kuhestak, Sirik, was targeted tonight while people were holding a wedding celebration. He stated that this attack cannot be separated from the chain of previous attacks and warned that the Islamic Republic will respond decisively.",
+        "time": "23:06",
+        "ts": 1788303987
       }
     ],
     "language": "en",
-    "packId": "20260901-150",
-    "sequence": 150,
+    "packId": "20260901-151",
+    "sequence": 151,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:03"
+    "updatedAt": "23:06"
   },
   "verified": true
 }
