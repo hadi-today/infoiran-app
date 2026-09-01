@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-73 seq=73 exp=1788447255",
+      "advancedStatus": "pack_id=20260901-74 seq=74 exp=1788447749",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:54",
+      "lastChecked": "15:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 14:54",
+    "expiresAt": "2026-09-03 15:02",
     "items": [
       {
         "channel": "harana",
@@ -952,14 +952,21 @@
         "text": "Mohammad Bagher Ghalibaf, Speaker of the Islamic Consultative Assembly, stated that if the blockade is intensified, a military response will be given. He considered this action a military act under international law. He also said that if the Islamic Republic cannot export oil from the Persian Gulf, no one else will be able to either.",
         "time": "14:53",
         "ts": 1788274421
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Scott Bessent, the US Treasury Secretary, stated that Iran is trying to use the Strait of Hormuz as a choke point, but this situation will change within two years. He warned that any entity trading with the IRGC will face sanctions, and the economic pressure on Iran will continue. The US is also in talks with China to prevent Iran from acquiring nuclear weapons.",
+        "time": "15:01",
+        "ts": 1788274915
       }
     ],
     "language": "en",
-    "packId": "20260901-73",
-    "sequence": 73,
+    "packId": "20260901-74",
+    "sequence": 74,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:54"
+    "updatedAt": "15:02"
   },
   "verified": true
 }
