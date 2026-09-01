@@ -1,48 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260831-147 seq=147 exp=1788392078",
+      "advancedStatus": "pack_id=20260901-01 seq=1 exp=1788395026",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:34",
+      "lastChecked": "00:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-08-31",
-    "expiresAt": "2026-09-02 23:34",
+    "date": "2026-09-01",
+    "expiresAt": "2026-09-03 00:23",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reuters reported that oil prices rose by more than two percent, with Brent crude surpassing $90 per barrel. This increase followed a US attack on two IRGC launchers on Larak Island. This attack is the first known US strike on targets in Iran since late July.",
-        "time": "23:37",
-        "ts": 1788133030
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "The IRGC responded to US drone attacks on Larak Island by targeting two airbases in Jordan with ballistic missiles. Jordan's air defenses intercepted most missiles, and no significant damage was reported. These attacks caused oil prices to rise over two percent, with Brent crude surpassing $90 per barrel.",
-        "time": "23:50",
-        "ts": 1788133802
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reuters reported that the number of commercial ships passing through the Strait of Hormuz has decreased to five per day. Shipping companies are passing with more caution due to repeated attacks. Some ships have turned off their automatic identification systems to reduce the risk of attack.",
-        "time": "00:00",
-        "ts": 1788134412
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Jordanian army announced that it intercepted eight missiles after they entered the country's airspace on Monday morning. This news was released after the IRGC announced that in response to the US attack on Lark Island, it targeted the King Hussein and Al-Azraq airbases in Jordan with ballistic missiles and drones. An American source had also previously stated that almost all missiles fired by Iran were intercepted at this stage.",
-        "time": "00:07",
-        "ts": 1788134835
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1064,14 +1036,21 @@
         "text": "The UK Maritime Trade Operations center reported an incident 17 nautical miles east of Khasab in Oman. A tanker was hit by three unidentified projectiles while exiting the Strait of Hormuz. No casualties or environmental damage have been reported so far.",
         "time": "23:34",
         "ts": 1788219256
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Zare announced the occurrence of 9 earthquakes with a magnitude over three in east Tehran since the beginning of this year. He warned that active faults and soft sediments could increase the risk of earthquakes. The Mosha fault and Parchin and Ivanki faults threaten different areas of Tehran.",
+        "time": "00:23",
+        "ts": 1788222201
       }
     ],
     "language": "en",
-    "packId": "20260831-147",
-    "sequence": 147,
+    "packId": "20260901-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:34"
+    "updatedAt": "00:23"
   },
   "verified": true
 }
