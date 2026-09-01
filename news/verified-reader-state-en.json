@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-144 seq=144 exp=1788474008",
+      "advancedStatus": "pack_id=20260901-145 seq=145 exp=1788474295",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:20",
+      "lastChecked": "22:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 22:20",
+    "expiresAt": "2026-09-03 22:24",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Morad Vaisi said Trump has threatened to respond harshly to new attacks by the IRGC on US forces. The IRGC also stated that if targeted again, it will respond strongly. It appears the two sides are moving toward a new conflict, raising the question of whether it will escalate into a war or remain limited.",
-        "time": "22:22",
-        "ts": 1788214930
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1169,14 +1162,21 @@
         "text": "The International Atomic Energy Agency has resolved remaining questions about Syria's nuclear activities and confirmed the Deir ez-Zor site as a reactor under construction. The agency praised the cooperation of new Syrian authorities but has made no progress regarding Iranian nuclear sites targeted by US and Israeli attacks. The agency expressed concern over lack of access to verify Iran's enriched uranium.",
         "time": "22:19",
         "ts": 1788301184
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Kuwait's air defense is currently countering hostile drone attacks. The second statement adds that the defense is also addressing missile attacks. The army headquarters announced that explosion sounds are due to intercepting hostile targets.",
+        "time": "22:24",
+        "ts": 1788301473
       }
     ],
     "language": "en",
-    "packId": "20260901-144",
-    "sequence": 144,
+    "packId": "20260901-145",
+    "sequence": 145,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:20"
+    "updatedAt": "22:24"
   },
   "verified": true
 }
