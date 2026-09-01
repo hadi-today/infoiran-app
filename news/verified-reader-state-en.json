@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-103 seq=103 exp=1788457943",
+      "advancedStatus": "pack_id=20260901-104 seq=104 exp=1788458081",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:52",
+      "lastChecked": "17:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 17:52",
+    "expiresAt": "2026-09-03 17:54",
     "items": [
       {
         "channel": "iranintl",
@@ -1043,14 +1043,21 @@
         "text": "The Tehran Revolutionary Court issued a death sentence for Ali Zarei, an eye injury victim of the 1401 protests. The Supreme Court also confirmed the death sentence for Ali Asghar Peygambari, a 26-year-old protester. These sentences are part of the ongoing wave of death sentences for protesters and political prisoners.",
         "time": "17:51",
         "ts": 1788285113
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US has launched a severe attack on southern Iran. Tehran has announced it will respond quickly. This news was reported by Niousha Saremi.",
+        "time": "17:54",
+        "ts": 1788285255
       }
     ],
     "language": "en",
-    "packId": "20260901-103",
-    "sequence": 103,
+    "packId": "20260901-104",
+    "sequence": 104,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:52"
+    "updatedAt": "17:54"
   },
   "verified": true
 }
