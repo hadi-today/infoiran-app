@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-36 seq=36 exp=1788429354",
+      "advancedStatus": "pack_id=20260901-37 seq=37 exp=1788430070",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:55",
+      "lastChecked": "10:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 09:55",
+    "expiresAt": "2026-09-03 10:07",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The 107th Tehran derby will be held on Wednesday, 11 Shahrivar, at the Naqsh-e Jahan Stadium in Isfahan. Despite the stadium's 75,000 capacity, only 35,000 tickets have been offered, with 29,000 for men and 6,000 for women. The ticket share for Esteghlal and Persepolis is equally divided.",
-        "time": "09:56",
-        "ts": 1788170219
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mani Safarpour, an 18-year-old from Lahijan, was killed by government agents with gunfire in Sarsabil, Tehran on January 8, 2026. A video shows his mother's distress while arranging his clothes. This incident was reported to Iran International.",
-        "time": "10:05",
-        "ts": 1788170757
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1001,14 +987,21 @@
         "text": "Manouchehr Bakhtiari was sentenced to 10 years in prison by the Revolutionary Court of Bandar Abbas. His charges include propaganda against the regime, inciting people to conflict, and sending videos to foreign social networks. The sentence was verbally communicated to him in Bandar Abbas prison.",
         "time": "09:55",
         "ts": 1788256517
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Aghaei says Iran's leverage in the Strait of Hormuz is weakening and Tehran is trying to maintain its cards by escalating tensions. The US is planning a response that likely will not lead to a full-scale war. There is a possibility of an operation against Iran in the southern front.",
+        "time": "10:07",
+        "ts": 1788257247
       }
     ],
     "language": "en",
-    "packId": "20260901-36",
-    "sequence": 36,
+    "packId": "20260901-37",
+    "sequence": 37,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:55"
+    "updatedAt": "10:07"
   },
   "verified": true
 }
