@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-54 seq=54 exp=1788438791",
+      "advancedStatus": "pack_id=20260901-55 seq=55 exp=1788438980",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:33",
+      "lastChecked": "12:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 12:33",
+    "expiresAt": "2026-09-03 12:36",
     "items": [
       {
         "channel": "iranintl",
@@ -994,14 +994,21 @@
         "text": "Esmaeil Baghayi, spokesperson for the Ministry of Foreign Affairs, criticized the US approach in negotiations as dictation. He emphasized that Iran's armed forces will not leave any aggression unanswered. These remarks were made in response to the US behavior in the talks.",
         "time": "12:32",
         "ts": 1788265967
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "On Tuesday, 9 Shahrivar, five Baha'i citizens residing in Karaj were arrested at the Shahr-e Rey Revolutionary Court to serve a one-year prison sentence. They were initially supposed to be transferred to Tehran Grand Prison but were held in Shahr-e Rey detention center, with a possible transfer to Qezel Hesar Prison. Their final place of detention is not yet known.",
+        "time": "12:35",
+        "ts": 1788266155
       }
     ],
     "language": "en",
-    "packId": "20260901-54",
-    "sequence": 54,
+    "packId": "20260901-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:33"
+    "updatedAt": "12:36"
   },
   "verified": true
 }
