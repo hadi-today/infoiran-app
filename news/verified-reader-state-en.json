@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-98 seq=98 exp=1788456729",
+      "advancedStatus": "pack_id=20260901-99 seq=99 exp=1788456856",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:32",
+      "lastChecked": "17:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 17:32",
+    "expiresAt": "2026-09-03 17:34",
     "items": [
       {
         "channel": "harana",
@@ -1015,14 +1015,21 @@
         "text": "On Tuesday, Bandar Abbas, Qeshm, and Sirik were targeted by missile attacks. These attacks followed Donald Trump's promise of severe strikes on Iranian military targets. The United States carried out precise defensive strikes on positions in Bandar Abbas.",
         "time": "17:31",
         "ts": 1788283899
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The virtual US embassy in Tehran warned its citizens not to travel to Iran for any reason and urged American citizens to leave Iran immediately. The warning is due to tensions and a complex security situation in the Middle East. There is also a possibility of flight cancellations and changes in border crossing procedures in Iran.",
+        "time": "17:33",
+        "ts": 1788284025
       }
     ],
     "language": "en",
-    "packId": "20260901-98",
-    "sequence": 98,
+    "packId": "20260901-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:32"
+    "updatedAt": "17:34"
   },
   "verified": true
 }
