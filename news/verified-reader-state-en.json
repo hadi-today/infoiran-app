@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-55 seq=55 exp=1788438980",
+      "advancedStatus": "pack_id=20260901-56 seq=56 exp=1788440166",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:36",
+      "lastChecked": "12:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 12:36",
+    "expiresAt": "2026-09-03 12:56",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Hana Human Rights Organization reported that at least 77 Kurdish citizens in cities and villages of Kurdistan have been arrested by security agencies. Most of these arrests were made without summons or judicial orders. Three detainees were sentenced to 74 lashes and one received a death sentence.",
-        "time": "12:42",
-        "ts": 1788180140
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Thirteen citizens from Qorveh were sentenced to a total of 24 years, three months, and one day in prison by Branch 102 of the criminal court. Four of them were also sentenced to a total of 196 lashes, and one was sentenced to two years of exile in Minab. These sentences are related to the December protests.",
-        "time": "12:43",
-        "ts": 1788180187
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump announced that the United States will respond tonight to Iran's missile attack on American forces. He emphasized that a hard strike will be delivered to Iran. Trump said there will be a response.",
-        "time": "12:44",
-        "ts": 1788180275
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1001,14 +980,21 @@
         "text": "On Tuesday, 9 Shahrivar, five Baha'i citizens residing in Karaj were arrested at the Shahr-e Rey Revolutionary Court to serve a one-year prison sentence. They were initially supposed to be transferred to Tehran Grand Prison but were held in Shahr-e Rey detention center, with a possible transfer to Qezel Hesar Prison. Their final place of detention is not yet known.",
         "time": "12:35",
         "ts": 1788266155
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Masoud Pezeshkian thanked Russia's position on war and sanctions during his meeting with Vladimir Putin. He stated that it is possible to resist US unilateralism and that the US has no right to impose sanctions. Pezeshkian also said that the US attack had no logical justification.",
+        "time": "12:55",
+        "ts": 1788267344
       }
     ],
     "language": "en",
-    "packId": "20260901-55",
-    "sequence": 55,
+    "packId": "20260901-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:36"
+    "updatedAt": "12:56"
   },
   "verified": true
 }
