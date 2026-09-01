@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-96 seq=96 exp=1788455259",
+      "advancedStatus": "pack_id=20260901-97 seq=97 exp=1788455653",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:07",
+      "lastChecked": "17:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 17:07",
+    "expiresAt": "2026-09-03 17:14",
     "items": [
       {
         "channel": "iranintl",
@@ -1029,14 +1029,21 @@
         "text": "The US embassies in Israel, Jordan, and Qatar issued a security alert on Tuesday, 10 Shahrivar, stating that due to tensions in the Middle East, the security situation remains complex and there is a possibility of unforeseen escalation. The embassies asked American citizens to be vigilant and aware of possible flight cancellations, airspace closures, and travel disruptions. The alert said US diplomatic facilities have been targeted and that the Islamic Republic and its affiliated groups may target US interests and American citizens worldwide.",
         "time": "17:07",
         "ts": 1788282432
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Keyvan Bana, a detainee from the December 2025 protests, was transferred to Torbat Heydariyeh prison to serve his sentence. He was sentenced to 10 years and one day of imprisonment. His charges include propaganda against the regime and espionage.",
+        "time": "17:13",
+        "ts": 1788282832
       }
     ],
     "language": "en",
-    "packId": "20260901-96",
-    "sequence": 96,
+    "packId": "20260901-97",
+    "sequence": 97,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:07"
+    "updatedAt": "17:14"
   },
   "verified": true
 }
