@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-148 seq=148 exp=1788476394",
+      "advancedStatus": "pack_id=20260901-149 seq=149 exp=1788476472",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:59",
+      "lastChecked": "23:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 22:59",
+    "expiresAt": "2026-09-03 23:01",
     "items": [
       {
         "channel": "iranintl",
@@ -1099,14 +1099,21 @@
         "text": "Morad Veisi said that the Islamic Republic's move towards more conflict and war to force the US to break the oil blockade is unlikely to succeed. He added that intensifying conflict by the IRGC will not solve economic problems and will worsen the situation. This situation will continue until the fall of the Islamic Republic.",
         "time": "22:59",
         "ts": 1788303570
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "CENTCOM announced that US forces successfully executed attacks against Iranian military targets in response to recent IRGC attempts to attack commercial ships and US forces. The attacks targeted IRGC positions including air defense, radar, naval equipment, and communication centers. Iranian media reported at least 5 killed and 68 injured in the attack on Kuhestak Sirik.",
+        "time": "23:00",
+        "ts": 1788303616
       }
     ],
     "language": "en",
-    "packId": "20260901-148",
-    "sequence": 148,
+    "packId": "20260901-149",
+    "sequence": 149,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:59"
+    "updatedAt": "23:01"
   },
   "verified": true
 }
