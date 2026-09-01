@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-102 seq=102 exp=1788457696",
+      "advancedStatus": "pack_id=20260901-103 seq=103 exp=1788457943",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:48",
+      "lastChecked": "17:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 17:48",
+    "expiresAt": "2026-09-03 17:52",
     "items": [
       {
         "channel": "iranintl",
@@ -1036,14 +1036,21 @@
         "text": "Donald Trump announced that the US military is conducting attacks on Iranian targets around the Strait of Hormuz. These attacks are in response to Iran's attempt to plant naval mines and missile launches at a US base in Jordan. Trump warned that if Iran retaliates, stronger attacks will follow.",
         "time": "17:47",
         "ts": 1788284870
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Tehran Revolutionary Court issued a death sentence for Ali Zarei, an eye injury victim of the 1401 protests. The Supreme Court also confirmed the death sentence for Ali Asghar Peygambari, a 26-year-old protester. These sentences are part of the ongoing wave of death sentences for protesters and political prisoners.",
+        "time": "17:51",
+        "ts": 1788285113
       }
     ],
     "language": "en",
-    "packId": "20260901-102",
-    "sequence": 102,
+    "packId": "20260901-103",
+    "sequence": 103,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:48"
+    "updatedAt": "17:52"
   },
   "verified": true
 }
