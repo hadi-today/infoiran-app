@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-35 seq=35 exp=1788429143",
+      "advancedStatus": "pack_id=20260901-36 seq=36 exp=1788429354",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:52",
+      "lastChecked": "09:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 09:52",
+    "expiresAt": "2026-09-03 09:55",
     "items": [
       {
         "channel": "iranintl",
@@ -994,14 +994,21 @@
         "text": "Iran's national freestyle and Greco-Roman wrestling hopefuls teams traveled to Turkey early Tuesday, 10 Shahrivar, to obtain US visas and participate in the Las Vegas world championships. The competitions will be held from 20 to 26 Mehr in Las Vegas. The delegation is about 40 people and members are scheduled to appear at the US embassy in Ankara today.",
         "time": "09:52",
         "ts": 1788256320
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Manouchehr Bakhtiari was sentenced to 10 years in prison by the Revolutionary Court of Bandar Abbas. His charges include propaganda against the regime, inciting people to conflict, and sending videos to foreign social networks. The sentence was verbally communicated to him in Bandar Abbas prison.",
+        "time": "09:55",
+        "ts": 1788256517
       }
     ],
     "language": "en",
-    "packId": "20260901-35",
-    "sequence": 35,
+    "packId": "20260901-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:52"
+    "updatedAt": "09:55"
   },
   "verified": true
 }
