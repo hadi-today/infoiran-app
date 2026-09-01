@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-123 seq=123 exp=1788463378",
+      "advancedStatus": "pack_id=20260901-124 seq=124 exp=1788463717",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:22",
+      "lastChecked": "19:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 19:22",
+    "expiresAt": "2026-09-03 19:28",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "The Iranian Armed Forces Headquarters stated that the US uses the airspace or soil of some Middle Eastern countries to target Iran and warned it would target them. This statement came after Trump's announcement of retaliatory attacks against Iran. Iran threatened to respond more heavily if US attacks continue.",
-        "time": "19:27",
-        "ts": 1788204429
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The judiciary announced the pardon, reduction, or conversion of sentences for 2,577 convicts from various courts. It is unclear how many of these are convicts from revolutionary courts. Convicts of security crimes, espionage, and actions against national security will not be pardoned.",
-        "time": "19:27",
-        "ts": 1788204477
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1120,14 +1106,21 @@
         "text": "On the evening of Tuesday, 10 Shahrivar, a vessel caught fire in the waters of Qeshm near the village of Salakh. This incident was reported based on a video received by Iran International. Further details have not been announced.",
         "time": "19:22",
         "ts": 1788290552
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Several missiles have been launched from Khomein. The number of missiles reported is at least three. The sound of the launches was also heard from Aligudarz.",
+        "time": "19:28",
+        "ts": 1788290886
       }
     ],
     "language": "en",
-    "packId": "20260901-123",
-    "sequence": 123,
+    "packId": "20260901-124",
+    "sequence": 124,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:22"
+    "updatedAt": "19:28"
   },
   "verified": true
 }
