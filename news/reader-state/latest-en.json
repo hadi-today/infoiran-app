@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-94 seq=94 exp=1788454645",
+      "advancedStatus": "pack_id=20260901-95 seq=95 exp=1788455087",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:57",
+      "lastChecked": "17:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 16:57",
+    "expiresAt": "2026-09-03 17:04",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen reported that their electricity bill for one month was about one million tomans. This was reported via a voice message to Iran International.",
-        "time": "17:03",
-        "ts": 1788195805
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1022,14 +1015,21 @@
         "text": "In recent months, government interventions in areas such as closing cafes, blocking Instagram pages, and confronting tourism tours have increased. These actions are part of social control policies and limiting social autonomy in Iran. The main issue is the expansion of government interference in freedom of expression, privacy, and the right to participate in cultural life.",
         "time": "16:57",
         "ts": 1788281823
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Homayoun Falakshahi stated that Iran's oil loading in August dropped to about 250,000 barrels per day. Iran's oil exports to China have effectively reached zero, and no tanker has been able to pass through the US naval blockade. Iran's oil revenue could reach zero by mid-December.",
+        "time": "17:04",
+        "ts": 1788282258
       }
     ],
     "language": "en",
-    "packId": "20260901-94",
-    "sequence": 94,
+    "packId": "20260901-95",
+    "sequence": 95,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:57"
+    "updatedAt": "17:04"
   },
   "verified": true
 }
