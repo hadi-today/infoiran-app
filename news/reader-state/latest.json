@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-50 seq=50 exp=1788437348",
+      "advancedStatus": "pack_id=20260901-51 seq=51 exp=1788437637",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:09",
+      "lastChecked": "12:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 12:09",
+    "expiresAt": "2026-09-03 12:13",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -830,13 +830,19 @@
         "text": "ویدئویی نشان می‌دهد که یک شهروند در روز سه‌شنبه ۱۰ شهریور محسن نامجو را در خیابان می‌بیند و او را خطاب قرار می‌دهد. این شهروند می‌گوید محسن نامجو پا روی خون بچه‌هایشان گذاشته است. این اتفاق در ویدئوی ارسال شده به ایران‌اینترنشنال ثبت شده است.",
         "time": "12:08",
         "ts": 1788264527
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "محمدرضا عارف در مراسم جایزه دیپلماسی فرهنگی و عمومی ایران به کشورهای عربی منطقه هشدار داد که اگر مسیر خود را تغییر ندهند، سرنگون خواهند شد. او گفت نظام سلطه تنها تا زمانی که در مسیر امیالش باشند از آنها حمایت می‌کند. همچنین به شیوخ کشورهای جنوبی توصیه کرد به مردم خود بازگردند و به آنها اتکا کنند.",
+        "time": "12:13",
+        "ts": 1788264814
       }
     ],
-    "packId": "20260901-50",
-    "sequence": 50,
+    "packId": "20260901-51",
+    "sequence": 51,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "12:09"
+    "updatedAt": "12:13"
   },
   "verified": true
 }
