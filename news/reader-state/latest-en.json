@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-133 seq=133 exp=1788465431",
+      "advancedStatus": "pack_id=20260901-134 seq=134 exp=1788465673",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:57",
+      "lastChecked": "20:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 19:57",
+    "expiresAt": "2026-09-03 20:01",
     "items": [
       {
         "channel": "iranintl",
@@ -1155,14 +1155,21 @@
         "text": "Mehr news agency reported air defense activity in east Tehran on Tuesday evening. This news was published by the Islamic Propagation Organization. The exact time of the event was Tuesday evening.",
         "time": "19:56",
         "ts": 1788292574
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "According to Tanker Trackers, Iran's crude oil exports in August 2026 dropped to zero. This represents a 100% decrease compared to the pre-war level in winter 1405. The report indicates a complete halt in Iran's crude oil exports during this period.",
+        "time": "20:00",
+        "ts": 1788292852
       }
     ],
     "language": "en",
-    "packId": "20260901-133",
-    "sequence": 133,
+    "packId": "20260901-134",
+    "sequence": 134,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:57"
+    "updatedAt": "20:01"
   },
   "verified": true
 }
