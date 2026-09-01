@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-03 seq=3 exp=1788399788",
+      "advancedStatus": "pack_id=20260901-04 seq=4 exp=1788400928",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:43",
+      "lastChecked": "02:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 01:43",
+    "expiresAt": "2026-09-03 02:02",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Israel Hayom reported that war, sanctions, and mismanagement have worsened the livelihood crisis in Iran. The media also cited corruption and the presence of the IRGC in the economy as factors in economic problems. Experts warned that economic pressure may lead to increased repression or military actions.",
-        "time": "01:46",
-        "ts": 1788140798
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "US President Donald Trump said on Sunday, 8 Shahrivar, that the Islamic Republic will not obtain a nuclear weapon and that he does not necessarily need a signed agreement to win the fight against Iran. He stated that the US naval blockade and financial pressure have dealt heavy blows to Iran, causing the regime to collapse. Trump called Iran the biggest state sponsor of terrorism and stressed that they cannot be allowed to have nuclear weapons.",
-        "time": "01:53",
-        "ts": 1788141229
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "CENTCOM denied the IRGC's claim about US attacks in the Strait of Hormuz. According to CENTCOM, the US took limited and precise action against IRGC mine-laying forces posing a threat. The US stated its goal was to protect civilian mariners and global trade flow.",
-        "time": "01:55",
-        "ts": 1788141314
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1050,14 +1029,21 @@
         "text": "Israel's public broadcaster Kan reported that the country is not satisfied with the Lebanese army's progress in disarming Hezbollah in southern Lebanon. According to a senior US official, Lebanese army officers have opposed the withdrawal of Israeli forces, fearing Hezbollah's return. The US official said they are working with both sides for a future agreement, but the process will take time.",
         "time": "01:42",
         "ts": 1788226965
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Jack Keane said Iranian leaders believe they can outlast the US and hope Trump will be weaker after the midterm elections. Iran prioritizes preserving its leadership structure and disregards the suffering of its people. Keane predicted Iran will continue or escalate aggressive actions until the elections.",
+        "time": "02:01",
+        "ts": 1788228106
       }
     ],
     "language": "en",
-    "packId": "20260901-03",
-    "sequence": 3,
+    "packId": "20260901-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:43"
+    "updatedAt": "02:02"
   },
   "verified": true
 }
