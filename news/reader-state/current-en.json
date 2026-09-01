@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-39 seq=39 exp=1788431704",
+      "advancedStatus": "pack_id=20260901-40 seq=40 exp=1788431975",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:35",
+      "lastChecked": "10:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 10:35",
+    "expiresAt": "2026-09-03 10:39",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Kayhan newspaper accused the government media section of leaking a video of an internal government meeting, calling it 'feeding the enemy.' Kayhan also accused appeasers of retreating from enrichment and missile programs. This reaction followed the release of Masoud Pezeshkian's criticism of the IRIB.",
-        "time": "10:35",
-        "ts": 1788172533
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -980,14 +973,21 @@
         "text": "A number of shareholders of Jihad Nasr Company gathered in front of Kermanshah Governorate. They protested financial violations in the company and demanded investigation. The protesters also reported delays in paying salaries and insurance premiums of the staff.",
         "time": "10:34",
         "ts": 1788258877
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Citizens report a very poor employment situation and unemployment. Incomes have decreased while expenses have increased. Some workshops have closed due to economic problems, leading to unemployment.",
+        "time": "10:39",
+        "ts": 1788259151
       }
     ],
     "language": "en",
-    "packId": "20260901-39",
-    "sequence": 39,
+    "packId": "20260901-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:35"
+    "updatedAt": "10:39"
   },
   "verified": true
 }
