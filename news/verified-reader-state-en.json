@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-23 seq=23 exp=1788422197",
+      "advancedStatus": "pack_id=20260901-24 seq=24 exp=1788422561",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:56",
+      "lastChecked": "08:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 07:56",
+    "expiresAt": "2026-09-03 08:02",
     "items": [
       {
         "channel": "iranintl",
@@ -1015,14 +1015,21 @@
         "text": "Ahmad Taj, a resident of Tehran, was sentenced to seven years in prison by Branch 36 of the Tehran Province Court of Appeals. The sentence was announced on Monday, 9 Shahrivar. The lawyer stated that the verdict was issued without considering the defenses of the case's lawyers.",
         "time": "07:56",
         "ts": 1788249373
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video sent to Iran International on Tuesday, 10 Shahrivar, shows contaminated and unsafe tap water in Shiraz. The video depicts the water condition in the city. The issue of unsafe water in Shiraz has drawn attention.",
+        "time": "08:02",
+        "ts": 1788249737
       }
     ],
     "language": "en",
-    "packId": "20260901-23",
-    "sequence": 23,
+    "packId": "20260901-24",
+    "sequence": 24,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:56"
+    "updatedAt": "08:02"
   },
   "verified": true
 }
