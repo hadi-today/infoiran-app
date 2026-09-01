@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-30 seq=30 exp=1788426264",
+      "advancedStatus": "pack_id=20260901-31 seq=31 exp=1788426919",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:04",
+      "lastChecked": "09:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-01",
-    "expiresAt": "2026-09-03 09:04",
+    "expiresAt": "2026-09-03 09:15",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The death sentence of Ali Asghar Peygambari, a detainee from the December 2025 protests, was confirmed by the Supreme Court. He was recently transferred from Tehran Grand Prison to Qezel Hesar Prison in Karaj. This transfer has caused concern for his family.",
-        "time": "09:09",
-        "ts": 1788167372
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Hossein Aghaei stated that a new round of US attacks in Larak occurred in response to the Islamic Republic's efforts to escalate tensions in the Strait of Hormuz. The continuation of these attacks depends on Tehran's subsequent actions.",
-        "time": "09:11",
-        "ts": 1788167484
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Gholamhossein Mohseni Ejei stated that the enemy and their agents are planning anti-security actions in Iran. He warned that a strong response will be given if unrest occurs. Security forces and the judiciary are at the highest level of readiness.",
-        "time": "09:12",
-        "ts": 1788167570
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -994,14 +973,21 @@
         "text": "Hadi Rabuseh, an environmental activist from Mariwan, was arrested by intelligence officers on Friday, 6 Shahrivar. He was transferred to the detention center of this agency in Sanandaj.",
         "time": "09:04",
         "ts": 1788253440
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Staff and medical personnel of Hakim Hospital in Nishapur held a protest today. They demanded payment of their dues and attention to their job-related issues. The protest took place around the hospital building.",
+        "time": "09:14",
+        "ts": 1788254096
       }
     ],
     "language": "en",
-    "packId": "20260901-30",
-    "sequence": 30,
+    "packId": "20260901-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:04"
+    "updatedAt": "09:15"
   },
   "verified": true
 }
