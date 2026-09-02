@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-05 seq=5 exp=1788484152",
+      "advancedStatus": "pack_id=20260902-06 seq=6 exp=1788484574",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:09",
+      "lastChecked": "01:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 01:09",
+    "expiresAt": "2026-09-04 01:16",
     "items": [
       {
         "channel": "iranintl",
@@ -1127,14 +1127,28 @@
         "text": "The Kuwaiti government has issued a decree allowing loans to be taken from the sovereign wealth fund with assets exceeding one trillion dollars to support financial resources. Repayment of these loans is prioritized if a budget surplus occurs, and cancellation or forgiveness without legal authorization is prohibited. These reforms are part of Kuwait's financial and legal changes.",
         "time": "01:08",
         "ts": 1788311331
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Hossein Marashi stated that Beijing has set conditions for Qalibaf's trip to China. These conditions include reopening the Strait of Hormuz, not charging tolls, and resolving issues with Saudi Arabia and the United States. Qalibaf has been appointed as Iran's special representative for China affairs.",
+        "time": "01:15",
+        "ts": 1788311754
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US targeted two Iranian oil tankers in attacks on Tuesday. This attack is part of the new \"tanker for tanker\" policy approved by Donald Trump. The aim of these attacks is stated to reduce Tehran's threat against commercial ships in the Strait of Hormuz.",
+        "time": "01:16",
+        "ts": 1788311766
       }
     ],
     "language": "en",
-    "packId": "20260902-05",
-    "sequence": 5,
+    "packId": "20260902-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:09"
+    "updatedAt": "01:16"
   },
   "verified": true
 }
