@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-74 seq=74 exp=1788533131",
+      "advancedStatus": "pack_id=20260902-75 seq=75 exp=1788533728",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:45",
+      "lastChecked": "14:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 14:45",
+    "expiresAt": "2026-09-04 14:55",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "The price of the dollar in Iran's free market reached 213,700 tomans, marking the fourth consecutive record in four working days. The Central Bank governor stated that Iran does not have a currency shortage and is ready to inject up to two billion dollars into the market. These remarks came after the Supreme Leader's message emphasizing the need to portray Iran's strength.",
-        "time": "14:46",
-        "ts": 1788274008
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Bagher Ghalibaf stated that if the US does not fulfill its commitments, the Islamic Republic will force it to do so by using power. He said the Strait of Hormuz will not be reopened until the US commitments are implemented. Ghalibaf also mentioned oil exports and essential goods imports during the implementation of the Islamabad agreement.",
-        "time": "14:52",
-        "ts": 1788274334
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Bagher Ghalibaf, Speaker of the Islamic Consultative Assembly, stated that if the blockade is intensified, a military response will be given. He considered this action a military act under international law. He also said that if the Islamic Republic cannot export oil from the Persian Gulf, no one else will be able to either.",
-        "time": "14:53",
-        "ts": 1788274421
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -1141,14 +1120,21 @@
         "text": "At dawn on Wednesday, September 2, the execution of a prisoner named Aziz Roshanai was carried out in Adelabad Prison in Shiraz. The prisoner had previously been sentenced to death for murder. Harana News Agency reported this news.",
         "time": "14:45",
         "ts": 1788360304
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Marco Rubio, US Secretary of State, said anything that poses an immediate threat to US forces or global shipping in the Strait of Hormuz will be targeted. He added that the strait will remain open and will not be under Iran's control, and this is what the US president is now doing.",
+        "time": "14:55",
+        "ts": 1788360902
       }
     ],
     "language": "en",
-    "packId": "20260902-74",
-    "sequence": 74,
+    "packId": "20260902-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:45"
+    "updatedAt": "14:55"
   },
   "verified": true
 }
