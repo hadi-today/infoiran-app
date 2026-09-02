@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-123 seq=123 exp=1788561957",
+      "advancedStatus": "pack_id=20260902-124 seq=124 exp=1788562033",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:45",
+      "lastChecked": "22:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 22:45",
+    "expiresAt": "2026-09-04 22:47",
     "items": [
       {
         "channel": "iranintl",
@@ -931,14 +931,21 @@
         "text": "The Wall Street Journal reported that the view of Trump administration officials on the durability of the Islamic Republic is changing, and the possibility of its collapse has been raised again in Washington. Treasury Secretary Scott Bessent said the collapse could happen within weeks or months. The newspaper also pointed to economic challenges and discontent that have increased pressure on the Islamic Republic.",
         "time": "22:45",
         "ts": 1788389132
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Vaisi, a senior analyst at Iran International, said that after experiencing previous governments, people no longer have the opportunity to try reforms again. He added that reforms have repeatedly failed. The government, instead of addressing people's demands, has resorted to suppressing protests.",
+        "time": "22:46",
+        "ts": 1788389171
       }
     ],
     "language": "en",
-    "packId": "20260902-123",
-    "sequence": 123,
+    "packId": "20260902-124",
+    "sequence": 124,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:45"
+    "updatedAt": "22:47"
   },
   "verified": true
 }
