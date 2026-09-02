@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-18 seq=18 exp=1788497808",
+      "advancedStatus": "pack_id=20260902-19 seq=19 exp=1788498067",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:56",
+      "lastChecked": "05:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 04:56",
+    "expiresAt": "2026-09-04 05:01",
     "items": [
       {
         "channel": "iranintl",
@@ -1183,14 +1183,21 @@
         "text": "Bourgan Nezami, an economist, stated that the dollar rate reached 215,000 tomans and recent fluctuations are due to sanctions and economic policies. He pointed to banking crises, inflation, and the devaluation of the rial. He warned of possible banking failures and increased demand for foreign currency in the coming months.",
         "time": "04:56",
         "ts": 1788324983
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amir Hayat-Moghaddam, a member of the presiding board of the Parliament's National Security Commission, called for acquiring and unveiling long-range intercontinental missiles to target American military bases in Washington and New York. He also emphasized designing a strategic plan to counter US hegemony and force the country to leave the region.",
+        "time": "05:00",
+        "ts": 1788325243
       }
     ],
     "language": "en",
-    "packId": "20260902-18",
-    "sequence": 18,
+    "packId": "20260902-19",
+    "sequence": 19,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:56"
+    "updatedAt": "05:01"
   },
   "verified": true
 }
