@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-51 seq=51 exp=1788519371",
+      "advancedStatus": "pack_id=20260902-52 seq=52 exp=1788520694",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:56",
+      "lastChecked": "11:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 10:56",
+    "expiresAt": "2026-09-04 11:18",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Football Federation's Ethics Committee banned Payam Sadeghian for 15 years from sports activities and stadium attendance due to founding and managing a betting site. This ban lasts until 1413 in the Iranian calendar. Milad Hatami expressed surprise about Sadeghian's involvement in betting activities.",
-        "time": "11:04",
-        "ts": 1788260648
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Ali Zarei Dozdarhesi, a political prisoner in Qezel Hesar prison, has been sentenced to death for corruption on earth. The sentence was issued by Branch 23 of the Tehran Revolutionary Court and notified on August 23, 2026. Charges include political activities, propaganda against the regime, and disturbing security.",
-        "time": "11:16",
-        "ts": 1788261404
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1183,14 +1169,21 @@
         "text": "The director of treatment at the Drug Control Headquarters stated that 20 to 30 percent of the 16 million student population smoke cigarettes. The use of psychoactive substances has also spread among university students. He mentioned the existence of 300 types of drugs and psychoactive substances in the country and the spread of addiction among various social groups.",
         "time": "10:55",
         "ts": 1788346548
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The deputy director of intelligence for southern Tehran province announced the identification and arrest of nearly 100 people in Rey County during the recent conflict.",
+        "time": "11:17",
+        "ts": 1788347868
       }
     ],
     "language": "en",
-    "packId": "20260902-51",
-    "sequence": 51,
+    "packId": "20260902-52",
+    "sequence": 52,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:56"
+    "updatedAt": "11:18"
   },
   "verified": true
 }
