@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-24 seq=24 exp=1788500471",
+      "advancedStatus": "pack_id=20260902-25 seq=25 exp=1788501239",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:41",
+      "lastChecked": "05:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 05:41",
+    "expiresAt": "2026-09-04 05:53",
     "items": [
       {
         "channel": "iranintl",
@@ -1183,14 +1183,21 @@
         "text": "Mike Huckabee, the US ambassador to Israel, identified Hezbollah as the only obstacle to progress in Israel-Lebanon negotiations. He described Hezbollah as a group supported by the Islamic Republic responsible for killing hundreds of Americans. Huckabee also discussed the negotiations with Netanyahu and the US ambassador to Lebanon.",
         "time": "05:40",
         "ts": 1788327648
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iraqi Football Federation signed a one-year contract with an Iranian coaching staff for the national girls' teams under 15 and under 17. Shadi Mohini was appointed head coach, with Maryam Azmoon and Rashin Hamidi as assistants. Their first mission is to lead the Iraq under-17 team in the Asian Cup qualifiers in Malaysia.",
+        "time": "05:53",
+        "ts": 1788328419
       }
     ],
     "language": "en",
-    "packId": "20260902-24",
-    "sequence": 24,
+    "packId": "20260902-25",
+    "sequence": 25,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:41"
+    "updatedAt": "05:53"
   },
   "verified": true
 }
