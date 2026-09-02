@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-118 seq=118 exp=1788558587",
+      "advancedStatus": "pack_id=20260902-119 seq=119 exp=1788560031",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:49",
+      "lastChecked": "22:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 21:49",
+    "expiresAt": "2026-09-04 22:13",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Traffic police reported that a Hyundai vehicle collided with a Changan vehicle and then struck a crowd supporting the regime. The driver was not in a normal state, resulting in several deaths and injuries. Government sources stated the accident was unintentional.",
-        "time": "21:50",
-        "ts": 1788299406
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen sent a video showing missile launches from Parand on Tuesday, 10 Shahrivar. In the video, a person is heard chanting \"Death to the Islamic Republic.\" The video was sent to Iran International.",
-        "time": "21:56",
-        "ts": 1788299770
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reports indicate a US attack on a telecommunications tower near Sirik in southern Iran resulted in casualties among those attending a nearby wedding ceremony. Islamic Republic television reported at least four killed and 35 seriously injured. Ahmad Nafisi, deputy governor of Hormozgan, said a residential building hosting the wedding was hit during the attack.",
-        "time": "22:01",
-        "ts": 1788300060
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -945,14 +924,21 @@
         "text": "In last night's US attacks on the village of Kohestak in Sirik, a telecommunications tower and several residential houses were targeted. These attacks resulted in 4 deaths and 68 injuries. The youngest victim was a four-year-old child.",
         "time": "21:49",
         "ts": 1788385765
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amir Giti from Iran International said Trump is aware of the suppression of protests in Iran and the security apparatus's actions. Trump is pursuing economic and military pressures to weaken the regime. He believes these pressures could bring the regime to a point where it cannot afford the costs of repression.",
+        "time": "22:13",
+        "ts": 1788387210
       }
     ],
     "language": "en",
-    "packId": "20260902-118",
-    "sequence": 118,
+    "packId": "20260902-119",
+    "sequence": 119,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:49"
+    "updatedAt": "22:13"
   },
   "verified": true
 }
