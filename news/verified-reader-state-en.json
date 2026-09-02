@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-09 seq=9 exp=1788486313",
+      "advancedStatus": "pack_id=20260902-10 seq=10 exp=1788486956",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:45",
+      "lastChecked": "01:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 01:45",
+    "expiresAt": "2026-09-04 01:55",
     "items": [
       {
         "channel": "iranintl",
@@ -1148,14 +1148,21 @@
         "text": "Donald Trump, the US President, wrote on Truth Social that, contrary to ABC's report, he is not trying to bring Iran to the negotiating table. He added that he does not care if Iran signs a worthless agreement and prefers the current situation with almost complete control over the Strait of Hormuz and Iran's collapsing economy. Trump also wrote, \"When are the people of Iran going to rise up and fight?\"",
         "time": "01:44",
         "ts": 1788313493
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Tim Hawkins, spokesperson for CENTCOM, commented on reports of five killed and 68 injured at a wedding in southern Iran. He stated they are aware of these reports originating from Iranian state media. He also emphasized that the US military, unlike the IRGC, never targets civilians.",
+        "time": "01:55",
+        "ts": 1788314135
       }
     ],
     "language": "en",
-    "packId": "20260902-09",
-    "sequence": 9,
+    "packId": "20260902-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:45"
+    "updatedAt": "01:55"
   },
   "verified": true
 }
