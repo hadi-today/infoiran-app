@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-19 seq=19 exp=1788498067",
+      "advancedStatus": "pack_id=20260902-20 seq=20 exp=1788498145",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:01",
+      "lastChecked": "05:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 05:01",
+    "expiresAt": "2026-09-04 05:02",
     "items": [
       {
         "channel": "iranintl",
@@ -1190,14 +1190,21 @@
         "text": "Amir Hayat-Moghaddam, a member of the presiding board of the Parliament's National Security Commission, called for acquiring and unveiling long-range intercontinental missiles to target American military bases in Washington and New York. He also emphasized designing a strategic plan to counter US hegemony and force the country to leave the region.",
         "time": "05:00",
         "ts": 1788325243
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Revolutionary Guard announced it shot down a US MQ-9 drone following US attacks. It also threatened that the Strait of Hormuz will remain closed. Reports have emerged of attacks by the Islamic Republic on positions in Bahrain and Kuwait.",
+        "time": "05:01",
+        "ts": 1788325284
       }
     ],
     "language": "en",
-    "packId": "20260902-19",
-    "sequence": 19,
+    "packId": "20260902-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:01"
+    "updatedAt": "05:02"
   },
   "verified": true
 }
