@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-78 seq=78 exp=1788536129",
+      "advancedStatus": "pack_id=20260902-79 seq=79 exp=1788536574",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:35",
+      "lastChecked": "15:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 15:35",
+    "expiresAt": "2026-09-04 15:42",
     "items": [
       {
         "channel": "iranintl",
@@ -1092,14 +1092,21 @@
         "text": "A group of job seekers protested for the third consecutive day in front of the Deybal Khazaei Agro-Industry Company in Ahvaz. The protesters demand the employment of local residents in the industrial unit. This protest took place today.",
         "time": "15:34",
         "ts": 1788363298
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump, the President of the United States, proposed renaming the Strait of Hormuz to the Trump Strait in a post on Truth Social. He wrote: Now that we control it, should we change the name of the Strait of Hormuz to the 'Trump Strait'?",
+        "time": "15:42",
+        "ts": 1788363746
       }
     ],
     "language": "en",
-    "packId": "20260902-78",
-    "sequence": 78,
+    "packId": "20260902-79",
+    "sequence": 79,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:35"
+    "updatedAt": "15:42"
   },
   "verified": true
 }
