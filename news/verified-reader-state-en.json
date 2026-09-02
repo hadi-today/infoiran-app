@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-124 seq=124 exp=1788562033",
+      "advancedStatus": "pack_id=20260902-125 seq=125 exp=1788562521",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:47",
+      "lastChecked": "22:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 22:47",
+    "expiresAt": "2026-09-04 22:55",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Kuwaiti Army General Staff announced that its air defense is responding to hostile drone attacks following Iran's aggression. The heard explosions are due to interception of these attacks. People have been asked to follow safety and security instructions.",
-        "time": "22:52",
-        "ts": 1788303129
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -938,14 +931,21 @@
         "text": "Morad Vaisi, a senior analyst at Iran International, said that after experiencing previous governments, people no longer have the opportunity to try reforms again. He added that reforms have repeatedly failed. The government, instead of addressing people's demands, has resorted to suppressing protests.",
         "time": "22:46",
         "ts": 1788389171
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Vaisi, senior analyst at Iran International, said that the government, by ordering faster and more executions, has shown it neither wants nor can be reformed. He added that the government has closed the path to reform for years and the only remaining way is its overthrow. Vaisi made these remarks following the people's uprising.",
+        "time": "22:55",
+        "ts": 1788389700
       }
     ],
     "language": "en",
-    "packId": "20260902-124",
-    "sequence": 124,
+    "packId": "20260902-125",
+    "sequence": 125,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:47"
+    "updatedAt": "22:55"
   },
   "verified": true
 }
