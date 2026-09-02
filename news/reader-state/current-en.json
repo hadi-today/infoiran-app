@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-100 seq=100 exp=1788547217",
+      "advancedStatus": "pack_id=20260902-101 seq=101 exp=1788547473",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:40",
+      "lastChecked": "18:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 18:40",
+    "expiresAt": "2026-09-04 18:44",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Media affiliated with the IRGC reported the start of Iranian missile and drone attacks on US positions. Fars and Tasnim news agencies announced the operation as a response to US attacks. US officials have not yet commented on these attacks.",
-        "time": "18:40",
-        "ts": 1788288023
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -994,14 +987,21 @@
         "text": "The prison sentence of Payam Faridian, a Bahá'í citizen in Mashhad, was reduced from three years to two years in the appeals court. He was previously sentenced to three years by the second branch of the Revolutionary Court in Mashhad. The fifth branch of the Appeals Court of Khorasan Razavi Province reduced his sentence.",
         "time": "18:39",
         "ts": 1788374394
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Mohsen Dashti, a blogger residing in Konarak, was released from Zahedan prison yesterday after posting bail. This news was reported by Harana News Agency. More details are available in the original text.",
+        "time": "18:44",
+        "ts": 1788374646
       }
     ],
     "language": "en",
-    "packId": "20260902-100",
-    "sequence": 100,
+    "packId": "20260902-101",
+    "sequence": 101,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:40"
+    "updatedAt": "18:44"
   },
   "verified": true
 }
