@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-106 seq=106 exp=1788550812",
+      "advancedStatus": "pack_id=20260902-107 seq=107 exp=1788551599",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:40",
+      "lastChecked": "19:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,36 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 19:40",
+    "expiresAt": "2026-09-04 19:53",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The deputy security official of Khuzestan province announced that on Tuesday evening, a location near Ahvaz city was targeted by a missile attack from the US military. This news was reported by Fars News Agency. No further details about the attack have been provided.",
-        "time": "19:40",
-        "ts": 1788291658
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Missiles have been launched from Kermanshah at different times. Explosions and missile launches have been reported in the area. Sounds of fighter jets have also been heard.",
-        "time": "19:42",
-        "ts": 1788291739
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Videos received by Iran International show missile launches by the Islamic Republic from Khomein on the evening of Tuesday, 10 Shahrivar.",
-        "time": "19:45",
-        "ts": 1788291947
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Ahmad Nafisi, deputy governor of Hormozgan, announced that in a US attack on a residential house in the Kohestak area of Sirik, where a wedding ceremony was held, two people were killed and more than 20 injured. The wounded were transferred to Minab hospital and rescue forces were present at the scene. The investigation of the incident is ongoing and the final casualty figures will be announced after evaluation.",
-        "time": "19:52",
-        "ts": 1788292339
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -952,14 +924,21 @@
         "text": "Sohrab Bakhtiarizadeh said after the 1-1 draw between Esteghlal and Persepolis that both teams played well and the match had few controversies. He added that Esteghlal was the better team in the second half and controlled the game. He also mentioned a missed penalty call and a wrongly given yellow card against his team.",
         "time": "19:39",
         "ts": 1788377954
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "CENTCOM stated that the US Navy is strictly enforcing the maritime blockade of Iran. So far, 86 commercial ships have been forced to change course. Additionally, three ships have broken down and two ships have been inspected.",
+        "time": "19:52",
+        "ts": 1788378776
       }
     ],
     "language": "en",
-    "packId": "20260902-106",
-    "sequence": 106,
+    "packId": "20260902-107",
+    "sequence": 107,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:40"
+    "updatedAt": "19:53"
   },
   "verified": true
 }
