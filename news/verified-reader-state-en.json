@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-98 seq=98 exp=1788546661",
+      "advancedStatus": "pack_id=20260902-99 seq=99 exp=1788546804",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:31",
+      "lastChecked": "18:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 18:31",
+    "expiresAt": "2026-09-04 18:33",
     "items": [
       {
         "channel": "harana",
@@ -994,14 +994,21 @@
         "text": "The court session for Ehsan Khodayari's charges was held on Monday, 9 Shahrivar, at Branch 112 of the Criminal Court Two in Rasht. He was tried on charges of spreading falsehoods through computer and telecommunications systems. Ehsan Khodayari defended himself with the presence of his lawyer.",
         "time": "18:30",
         "ts": 1788373837
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Chris Wright and Delcy Rodriguez signed an oil agreement granting the US majority control over 65 billion barrels of Venezuela's oil reserves. The deal includes US access to 17 oil fields, and Chevron signed a separate contract to develop two other fields. The agreement has faced criticism, but the Venezuelan government sees it as beneficial for attracting investment.",
+        "time": "18:32",
+        "ts": 1788373979
       }
     ],
     "language": "en",
-    "packId": "20260902-98",
-    "sequence": 98,
+    "packId": "20260902-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:31"
+    "updatedAt": "18:33"
   },
   "verified": true
 }
