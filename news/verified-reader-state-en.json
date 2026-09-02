@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-81 seq=81 exp=1788537840",
+      "advancedStatus": "pack_id=20260902-82 seq=82 exp=1788538622",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:04",
+      "lastChecked": "16:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 16:04",
+    "expiresAt": "2026-09-04 16:17",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "As the 1405-1406 school year approaches, many first-grade elementary students have not yet been registered. Reports indicate a significant number of middle school students have dropped out. This highlights a crisis of dropout and educational deprivation in elementary and middle school levels.",
-        "time": "16:03",
-        "ts": 1788278617
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Multiple explosions have been reported in Konarak and Chabahar. The explosions were heard between 19:33 and 19:36. The number of explosions is reported to be between five and seven.",
-        "time": "16:11",
-        "ts": 1788279099
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -1085,14 +1071,21 @@
         "text": "Donald Trump, President of the United States, said in an interview with the 'Dan Patrick' podcast that the US now controls the Strait of Hormuz and destroyed 28 ships last night. He also claimed that the Islamic Republic was two weeks away from having a nuclear weapon, and if they had obtained it, Israel and the Middle East would have been destroyed and they would have attacked US cities.",
         "time": "16:03",
         "ts": 1788365012
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Mohsen Rezaei, Secretary of the Supreme National Security Council, announced that Iran will use a new strategy in the ongoing war. He warned that US efforts to exit the current situation will be futile. Rezaei said this new strategy will break the foundations of the US in the battlefield, diplomacy, and economic siege confrontation.",
+        "time": "16:16",
+        "ts": 1788365800
       }
     ],
     "language": "en",
-    "packId": "20260902-81",
-    "sequence": 81,
+    "packId": "20260902-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:04"
+    "updatedAt": "16:17"
   },
   "verified": true
 }
