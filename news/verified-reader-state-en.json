@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-17 seq=17 exp=1788497083",
+      "advancedStatus": "pack_id=20260902-18 seq=18 exp=1788497808",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:44",
+      "lastChecked": "04:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 04:44",
+    "expiresAt": "2026-09-04 04:56",
     "items": [
       {
         "channel": "iranintl",
@@ -1176,14 +1176,21 @@
         "text": "Scott Bassett, the US Treasury Secretary, stated that Washington continues to increase economic pressure on the Islamic Republic. He said sanctions and delays in salary payments have increased pressure on the regime's officials and forces. Bassett added that the Islamic Republic is going through its final stages.",
         "time": "04:44",
         "ts": 1788324260
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Bourgan Nezami, an economist, stated that the dollar rate reached 215,000 tomans and recent fluctuations are due to sanctions and economic policies. He pointed to banking crises, inflation, and the devaluation of the rial. He warned of possible banking failures and increased demand for foreign currency in the coming months.",
+        "time": "04:56",
+        "ts": 1788324983
       }
     ],
     "language": "en",
-    "packId": "20260902-17",
-    "sequence": 17,
+    "packId": "20260902-18",
+    "sequence": 18,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:44"
+    "updatedAt": "04:56"
   },
   "verified": true
 }
