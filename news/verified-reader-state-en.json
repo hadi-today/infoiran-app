@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-90 seq=90 exp=1788542980",
+      "advancedStatus": "pack_id=20260902-91 seq=91 exp=1788543124",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:29",
+      "lastChecked": "17:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 17:29",
+    "expiresAt": "2026-09-04 17:32",
     "items": [
       {
         "channel": "iranintl",
@@ -1057,14 +1057,21 @@
         "text": "The Israeli Prime Minister stated that his forces can be present in Iran at any moment and will defeat the regime. He emphasized that he means the fall and overthrow of the Iranian government. He also said that all Israeli security agencies operate under his guidance to overthrow the Islamic Republic.",
         "time": "17:29",
         "ts": 1788370151
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Financial Times reported that Russia has secretly assisted Iran in developing supersonic anti-ship cruise missile technology in recent years. Farzin Nadimi, a senior defense and security researcher at the Washington Institute, said this cooperation could bring the project closer to operational stage. He added that if these missiles enter service, US naval groups may be forced to increase their operational distance from Iran.",
+        "time": "17:31",
+        "ts": 1788370299
       }
     ],
     "language": "en",
-    "packId": "20260902-90",
-    "sequence": 90,
+    "packId": "20260902-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:29"
+    "updatedAt": "17:32"
   },
   "verified": true
 }
