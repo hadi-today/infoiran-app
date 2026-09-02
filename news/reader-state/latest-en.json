@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-20 seq=20 exp=1788498145",
+      "advancedStatus": "pack_id=20260902-21 seq=21 exp=1788498225",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:02",
+      "lastChecked": "05:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 05:02",
+    "expiresAt": "2026-09-04 05:03",
     "items": [
       {
         "channel": "iranintl",
@@ -1197,14 +1197,21 @@
         "text": "The Revolutionary Guard announced it shot down a US MQ-9 drone following US attacks. It also threatened that the Strait of Hormuz will remain closed. Reports have emerged of attacks by the Islamic Republic on positions in Bahrain and Kuwait.",
         "time": "05:01",
         "ts": 1788325284
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Arman Eshraghi, a financial economics professor, said that China's long-term economic interests do not align with the continuation of tensions by the Islamic Republic in the Middle East. He added that Iran's oil export dependence on China gives Beijing significant bargaining power. It seems unlikely that China will bear the costs of the Islamic Republic's tension-inducing policies in the long term.",
+        "time": "05:02",
+        "ts": 1788325358
       }
     ],
     "language": "en",
-    "packId": "20260902-20",
-    "sequence": 20,
+    "packId": "20260902-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:02"
+    "updatedAt": "05:03"
   },
   "verified": true
 }
