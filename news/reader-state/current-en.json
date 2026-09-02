@@ -1,27 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260901-153 seq=153 exp=1788478125",
+      "advancedStatus": "pack_id=20260902-01 seq=1 exp=1788481059",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:28",
+      "lastChecked": "00:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-09-01",
-    "expiresAt": "2026-09-03 23:28",
+    "date": "2026-09-02",
+    "expiresAt": "2026-09-04 00:17",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The UK Maritime Trade Operations center reported an incident 17 nautical miles east of Khasab in Oman. A tanker was hit by three unidentified projectiles while exiting the Strait of Hormuz. No casualties or environmental damage have been reported so far.",
-        "time": "23:34",
-        "ts": 1788219256
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1113,14 +1106,21 @@
         "text": "Xi Jinping, the President of China, arrived in Egypt on Tuesday, marking his first visit to the country in a decade. This visit coincides with regional countries reassessing their security and economic relations following the Iran war. China has also requested Iran to keep the Strait of Hormuz open without tolls.",
         "time": "23:28",
         "ts": 1788305304
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Russian newspaper Izvestia described the intensification of US sanctions against the Islamic Republic as a sign of the lack of a long-term strategy by Trump. The newspaper stated that the US cannot focus solely on the Middle East and that the sanctions may destabilize global energy markets. It also predicted that the Islamic Republic will continue to receive support through third countries.",
+        "time": "00:17",
+        "ts": 1788308237
       }
     ],
     "language": "en",
-    "packId": "20260901-153",
-    "sequence": 153,
+    "packId": "20260902-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:28"
+    "updatedAt": "00:17"
   },
   "verified": true
 }
