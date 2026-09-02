@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-59 seq=59 exp=1788528048",
+      "advancedStatus": "pack_id=20260902-61 seq=61 exp=1788528292",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:20",
+      "lastChecked": "13:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 13:20",
+    "expiresAt": "2026-09-04 13:24",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The Chabzi cafe and restaurant in Yazd was closed on Monday, 9 Shahrivar. This action was taken by judicial order due to hosting a music event with a DJ. Officers from the Public Places Supervision Department sealed the venue.",
-        "time": "13:20",
-        "ts": 1788268819
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Jomaran website analyzed the support of part of Iranian society for Reza Pahlavi. This support was attributed to disappointment with the current situation and a nostalgic view of the past. Omid Mohaddes linked this condition to a society without a future seeking refuge in the past.",
-        "time": "13:21",
-        "ts": 1788268910
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1120,14 +1106,28 @@
         "text": "Axios reported, citing US officials, that the US military targeted two Iranian government oil tankers during Tuesday night strikes near the Iranian coast. American drones struck the tankers' engine rooms with missiles. A US official described the action as part of a new 'tanker-for-tanker' policy approved by Donald Trump.",
         "time": "13:20",
         "ts": 1788355212
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Miad Maleki, former head of the Treasury Department's sanctions targeting office, stated that new sanctions focus on intermediaries, exchange offices, and individuals enabling Iran's access to the global financial system and oil revenues. These sanctions increase economic pressure on Iran.",
+        "time": "13:20",
+        "ts": 1788355252
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The price of the euro in Iran surpassed 255,000 tomans for the first time. The US dollar was reported around 220,000 tomans and the UAE dirham over 60,000 tomans. The central bank governor stated that the central bank is ready to supply up to two billion dollars to control the market.",
+        "time": "13:23",
+        "ts": 1788355410
       }
     ],
     "language": "en",
-    "packId": "20260902-59",
-    "sequence": 59,
+    "packId": "20260902-61",
+    "sequence": 61,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:20"
+    "updatedAt": "13:24"
   },
   "verified": true
 }
