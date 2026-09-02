@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-115 seq=115 exp=1788554758",
+      "advancedStatus": "pack_id=20260902-116 seq=116 exp=1788555527",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:45",
+      "lastChecked": "20:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 20:45",
+    "expiresAt": "2026-09-04 20:58",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,21 @@
         "text": "The spokesman of CENTCOM responded to Iran's claims about a US attack on a wedding ceremony in Kohestak, stating that the US military never targets civilians. He added that they are aware of the reports from Iranian state media and are investigating them. These remarks were made in response to statements by Iranian officials.",
         "time": "20:45",
         "ts": 1788381931
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Matthew Whitaker, the US ambassador to NATO, described Iran as a bankrupt country unable to pay the salaries of military forces and government employees. He stated that the people of Iran are dissatisfied with the current situation and should blame their government. He also emphasized that the people definitely want change and a different path for the future.",
+        "time": "20:58",
+        "ts": 1788382705
       }
     ],
     "language": "en",
-    "packId": "20260902-115",
-    "sequence": 115,
+    "packId": "20260902-116",
+    "sequence": 116,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:45"
+    "updatedAt": "20:58"
   },
   "verified": true
 }
