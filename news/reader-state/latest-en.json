@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-119 seq=119 exp=1788560031",
+      "advancedStatus": "pack_id=20260902-120 seq=120 exp=1788560484",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:13",
+      "lastChecked": "22:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 22:13",
+    "expiresAt": "2026-09-04 22:21",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Financial Times reported that Russia has secretly helped Iran develop advanced hypersonic cruise missiles. The program, codenamed C430L, started in 2023 and involves Russian experts assisting in ramjet propulsion system development. There is no evidence yet that these missiles have been operationally deployed.",
-        "time": "22:16",
-        "ts": 1788300995
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The International Atomic Energy Agency has resolved remaining questions about Syria's nuclear activities and confirmed the Deir ez-Zor site as a reactor under construction. The agency praised the cooperation of new Syrian authorities but has made no progress regarding Iranian nuclear sites targeted by US and Israeli attacks. The agency expressed concern over lack of access to verify Iran's enriched uranium.",
-        "time": "22:19",
-        "ts": 1788301184
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -931,14 +917,21 @@
         "text": "Amir Giti from Iran International said Trump is aware of the suppression of protests in Iran and the security apparatus's actions. Trump is pursuing economic and military pressures to weaken the regime. He believes these pressures could bring the regime to a point where it cannot afford the costs of repression.",
         "time": "22:13",
         "ts": 1788387210
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran International's investigation reveals that 15 banks in China and the UAE help the Islamic Republic access the global financial system. Among them, 13 banks have not been sanctioned yet. Miad Maleki has explained the implications of this issue.",
+        "time": "22:21",
+        "ts": 1788387661
       }
     ],
     "language": "en",
-    "packId": "20260902-119",
-    "sequence": 119,
+    "packId": "20260902-120",
+    "sequence": 120,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:13"
+    "updatedAt": "22:21"
   },
   "verified": true
 }
