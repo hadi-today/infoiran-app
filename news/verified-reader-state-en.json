@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-111 seq=111 exp=1788552994",
+      "advancedStatus": "pack_id=20260902-112 seq=112 exp=1788553585",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:16",
+      "lastChecked": "20:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 20:16",
+    "expiresAt": "2026-09-04 20:26",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "Mohammad Hossein Kanaani-Zadegan commented after derby 107 about the fight with Aref Aghasi, saying football involves clashes. He referred to the incident of Padovani, who became paralyzed. These remarks were made in response to the bloody fight between players.",
         "time": "20:16",
         "ts": 1788380173
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Aram Hesami stated that despite military and economic pressures, the US does not intend to change its doctrine regarding Iran, with the main goal being to prevent Iran from acquiring nuclear weapons. He added that the narratives from US officials are more psychological warfare. Hesami warned that the 'neither war nor peace' situation could lead to increased tensions.",
+        "time": "20:26",
+        "ts": 1788380764
       }
     ],
     "language": "en",
-    "packId": "20260902-111",
-    "sequence": 111,
+    "packId": "20260902-112",
+    "sequence": 112,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:16"
+    "updatedAt": "20:26"
   },
   "verified": true
 }
