@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-101 seq=101 exp=1788547473",
+      "advancedStatus": "pack_id=20260902-102 seq=102 exp=1788547700",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:44",
+      "lastChecked": "18:48",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 18:44",
+    "expiresAt": "2026-09-04 18:48",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "At least 18 protests were held in various cities in Iran over the past two days. These protests involved hospital staff in Hakim Nishapur, green space contractors in Tehran, national housing applicants in Sanandaj, and other groups. Employees of the Pars Oil and Gas Company in the South Pars region also held protests.",
-        "time": "18:47",
-        "ts": 1788288428
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -994,14 +987,21 @@
         "text": "Mohsen Dashti, a blogger residing in Konarak, was released from Zahedan prison yesterday after posting bail. This news was reported by Harana News Agency. More details are available in the original text.",
         "time": "18:44",
         "ts": 1788374646
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Persepolis club intends to file a complaint about Yaser Asani's presence in Esteghlal's lineup in the 107th derby. The club claims that due to Esteghlal's closed transfer window, Asani's participation in this season's matches is legally questionable. Persepolis plans to pursue the case in higher authorities, including the Court of Arbitration for Sport, if necessary.",
+        "time": "18:47",
+        "ts": 1788374875
       }
     ],
     "language": "en",
-    "packId": "20260902-101",
-    "sequence": 101,
+    "packId": "20260902-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:44"
+    "updatedAt": "18:48"
   },
   "verified": true
 }
