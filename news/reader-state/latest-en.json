@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-76 seq=76 exp=1788534243",
+      "advancedStatus": "pack_id=20260902-77 seq=77 exp=1788534644",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:04",
+      "lastChecked": "15:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 15:04",
+    "expiresAt": "2026-09-04 15:10",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The university professors' union warned that if the full salaries of faculty members are not paid by the end of Shahrivar, their educational, research, and executive activities will be suspended from the beginning of Mehr. Jiran Moghadam emphasized that this union movement should go beyond just demanding professors' rights and that professors should see themselves as part of the university. He also stated that professors' rights cannot be separated from students' rights to education, security, and protest.",
-        "time": "15:05",
-        "ts": 1788275144
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Mahdi Khanmohammadi, a 19-year-old courier from Karaj, was killed on January 8, 2026, while helping the injured by a direct gunshot. A video shows his sister Sara Khanmohammadi lighting a candle in his memory and saying, \"I neither forgive nor forget.\"",
-        "time": "15:06",
-        "ts": 1788275182
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1127,14 +1113,21 @@
         "text": "Marco Rubio, the US Secretary of State, stated that no country should help Iran evade sanctions or create mechanisms for their income. He said Iran's money is spent on supporting terrorist and paramilitary groups, not its people. Rubio emphasized that Iran aims to finance terrorism and develop nuclear weapons, and the US will not allow this.",
         "time": "15:03",
         "ts": 1788361416
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The Supreme Court approved the retrial in Alireza Sepahi's case. The peer branch rejected the retrial without holding a hearing and sent the case to enforcement of the death sentence. This case concerns a prisoner sentenced to death in Isfahan.",
+        "time": "15:10",
+        "ts": 1788361818
       }
     ],
     "language": "en",
-    "packId": "20260902-76",
-    "sequence": 76,
+    "packId": "20260902-77",
+    "sequence": 77,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:04"
+    "updatedAt": "15:10"
   },
   "verified": true
 }
