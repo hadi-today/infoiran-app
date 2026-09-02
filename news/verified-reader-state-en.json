@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-01 seq=1 exp=1788481059",
+      "advancedStatus": "pack_id=20260902-02 seq=2 exp=1788481138",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:17",
+      "lastChecked": "00:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 00:17",
+    "expiresAt": "2026-09-04 00:18",
     "items": [
       {
         "channel": "iranintl",
@@ -1113,14 +1113,21 @@
         "text": "The Russian newspaper Izvestia described the intensification of US sanctions against the Islamic Republic as a sign of the lack of a long-term strategy by Trump. The newspaper stated that the US cannot focus solely on the Middle East and that the sanctions may destabilize global energy markets. It also predicted that the Islamic Republic will continue to receive support through third countries.",
         "time": "00:17",
         "ts": 1788308237
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Veysi, a senior analyst at Iran International, said the US is combining economic pressure with military power against Iran. He referred to statements by US Treasury Secretary Scott Bessent as more significant. He questioned whether the US is effectively moving toward the overthrow of the Islamic Republic.",
+        "time": "00:17",
+        "ts": 1788308277
       }
     ],
     "language": "en",
-    "packId": "20260902-01",
-    "sequence": 1,
+    "packId": "20260902-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:17"
+    "updatedAt": "00:18"
   },
   "verified": true
 }
