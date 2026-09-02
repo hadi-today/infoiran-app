@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-87 seq=87 exp=1788540175",
+      "advancedStatus": "pack_id=20260902-88 seq=88 exp=1788540581",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:42",
+      "lastChecked": "16:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 16:42",
+    "expiresAt": "2026-09-04 16:49",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "An environmental activist in Kermanshah was injured due to a landmine explosion during firefighting operations in the Bozin and Markhil protected area. The mine was left over from the Iran-Iraq war. The injury occurred in the leg.",
-        "time": "16:45",
-        "ts": 1788281152
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1071,14 +1064,21 @@
         "text": "Shahram Kholdi said the US government believes that continued economic pressure may lead to protests in Iran. He added that the Islamic Republic has lost previous opportunities for an agreement with Washington. The US has reached a stage where it is unwilling to give the Islamic Republic a new chance.",
         "time": "16:42",
         "ts": 1788367350
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Alavi, an economist, stated that the increase in the dollar rate is due to structural economic problems, reduced exports and imports, and disruptions in foreign trade. He pointed to decreased imports of goods and raw materials caused by disruptions in maritime trade, which has intensified inflation and price increases. According to him, this trend will continue until economic and political conditions change.",
+        "time": "16:49",
+        "ts": 1788367757
       }
     ],
     "language": "en",
-    "packId": "20260902-87",
-    "sequence": 87,
+    "packId": "20260902-88",
+    "sequence": 88,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:42"
+    "updatedAt": "16:49"
   },
   "verified": true
 }
