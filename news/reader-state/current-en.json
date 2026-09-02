@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-128 seq=128 exp=1788563177",
+      "advancedStatus": "pack_id=20260902-129 seq=129 exp=1788563975",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:06",
+      "lastChecked": "23:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 23:06",
+    "expiresAt": "2026-09-04 23:19",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Foreign Ministry spokesman Esmail Baghaei wrote on X that a residential home in Kuhestak, Sirik, was targeted tonight while people were holding a wedding celebration. He stated that this attack cannot be separated from the chain of previous attacks and warned that the Islamic Republic will respond decisively.",
-        "time": "23:06",
-        "ts": 1788303987
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "France announced that the UN Security Council will vote this month on extending the mandate of the expert panel monitoring Iran sanctions. The mandate expires on September 26, with the vote expected on September 17. Russia and China may veto the extension, arguing the Security Council no longer has authority over the issue.",
-        "time": "23:14",
-        "ts": 1788304498
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -938,14 +924,21 @@
         "text": "A 24-second video of the long-range Kheibar Shekan missiles was released by media affiliated with the IRGC, showing five missiles on the ground but six missiles launching into the sky. This issue was discussed by Kambiz Hosseini in a program. The video suggests the possible use of artificial intelligence in missile launches.",
         "time": "23:05",
         "ts": 1788390355
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Arif Aghasi, Esteghlal defender, was injured and bleeding in the neck during an altercation with Persepolis captain Hossein Kanaani-Zadegan. The referee saw the incident but did not take any disciplinary action. The VAR team also did not consider the scene worthy of a red card due to lack of clear footage.",
+        "time": "23:19",
+        "ts": 1788391155
       }
     ],
     "language": "en",
-    "packId": "20260902-128",
-    "sequence": 128,
+    "packId": "20260902-129",
+    "sequence": 129,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:06"
+    "updatedAt": "23:19"
   },
   "verified": true
 }
