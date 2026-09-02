@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-96 seq=96 exp=1788546056",
+      "advancedStatus": "pack_id=20260902-97 seq=97 exp=1788546239",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:20",
+      "lastChecked": "18:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 18:20",
+    "expiresAt": "2026-09-04 18:23",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump said that if Iran responds to US attacks, it could be completely destroyed. He warned that if Iran retaliates, there will be harsher attacks. Trump also made harsh remarks about the Iranian government and said that any agreement with them is worthless.",
-        "time": "18:22",
-        "ts": 1788286977
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1015,14 +1008,21 @@
         "text": "In the audio version of Titrawal with Niousha Saremi, the emphasis of Trump and Bassent on the uprising of the Iranian people is discussed. The topic is whether Washington is waiting for an Iranian uprising. This issue was raised on Iran International.",
         "time": "18:20",
         "ts": 1788373231
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump said that people in Iran are directly shot when they protest. He added that the Iranian government uses machine guns and snipers for suppression and estimated the number of protesters killed at around 65,000. Trump believes the Iranian government is weakening daily and people will no longer tolerate this situation.",
+        "time": "18:23",
+        "ts": 1788373417
       }
     ],
     "language": "en",
-    "packId": "20260902-96",
-    "sequence": 96,
+    "packId": "20260902-97",
+    "sequence": 97,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:20"
+    "updatedAt": "18:23"
   },
   "verified": true
 }
