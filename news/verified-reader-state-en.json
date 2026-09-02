@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-129 seq=129 exp=1788563975",
+      "advancedStatus": "pack_id=20260902-130 seq=130 exp=1788564391",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:19",
+      "lastChecked": "23:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 23:19",
+    "expiresAt": "2026-09-04 23:26",
     "items": [
       {
         "channel": "iranintl",
@@ -931,14 +931,21 @@
         "text": "Arif Aghasi, Esteghlal defender, was injured and bleeding in the neck during an altercation with Persepolis captain Hossein Kanaani-Zadegan. The referee saw the incident but did not take any disciplinary action. The VAR team also did not consider the scene worthy of a red card due to lack of clear footage.",
         "time": "23:19",
         "ts": 1788391155
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Akram al-Kaabi, secretary-general of the Al-Nujaba Movement in Iraq, threatened that US forces stationed in Iraq will be targeted if they remain after September 30. He also stated that US plans in Iraq will not be realized. In March 2019, the US designated this group and al-Kaabi as global terrorists.",
+        "time": "23:26",
+        "ts": 1788391569
       }
     ],
     "language": "en",
-    "packId": "20260902-129",
-    "sequence": 129,
+    "packId": "20260902-130",
+    "sequence": 130,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:19"
+    "updatedAt": "23:26"
   },
   "verified": true
 }
