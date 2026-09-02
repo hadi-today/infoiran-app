@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-28 seq=28 exp=1788502832",
+      "advancedStatus": "pack_id=20260902-29 seq=29 exp=1788504426",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:20",
+      "lastChecked": "06:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 06:20",
+    "expiresAt": "2026-09-04 06:47",
     "items": [
       {
         "channel": "iranintl",
@@ -1204,14 +1204,21 @@
         "text": "On Wednesday morning, the condition of several residential houses in Kohestak, Hormozgan was assessed. No further details about the condition of these houses were provided. This report pertains to Wednesday morning.",
         "time": "06:20",
         "ts": 1788330008
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Manchester City finalized the transfer of Enzo Fernandez from Chelsea for 125 million pounds. The 25-year-old Argentine midfielder joined City to strengthen their midfield. Manchester City's total spending in this transfer window reached 458 million pounds.",
+        "time": "06:46",
+        "ts": 1788331595
       }
     ],
     "language": "en",
-    "packId": "20260902-28",
-    "sequence": 28,
+    "packId": "20260902-29",
+    "sequence": 29,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:20"
+    "updatedAt": "06:47"
   },
   "verified": true
 }
