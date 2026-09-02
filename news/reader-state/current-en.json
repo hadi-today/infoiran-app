@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-08 seq=8 exp=1788485297",
+      "advancedStatus": "pack_id=20260902-09 seq=9 exp=1788486313",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:28",
+      "lastChecked": "01:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 01:28",
+    "expiresAt": "2026-09-04 01:45",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Israel's public broadcaster Kan reported that the country is not satisfied with the Lebanese army's progress in disarming Hezbollah in southern Lebanon. According to a senior US official, Lebanese army officers have opposed the withdrawal of Israeli forces, fearing Hezbollah's return. The US official said they are working with both sides for a future agreement, but the process will take time.",
-        "time": "01:42",
-        "ts": 1788226965
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1148,14 +1141,21 @@
         "text": "Chris Wright, the US Energy Secretary, stated that 17 million barrels of oil were exported through the Strait of Hormuz on Monday. This is the highest level of crude oil passage through this waterway since the start of the Iran war and the reduction of oil flow. The news was reported by Reuters.",
         "time": "01:27",
         "ts": 1788312473
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump, the US President, wrote on Truth Social that, contrary to ABC's report, he is not trying to bring Iran to the negotiating table. He added that he does not care if Iran signs a worthless agreement and prefers the current situation with almost complete control over the Strait of Hormuz and Iran's collapsing economy. Trump also wrote, \"When are the people of Iran going to rise up and fight?\"",
+        "time": "01:44",
+        "ts": 1788313493
       }
     ],
     "language": "en",
-    "packId": "20260902-08",
-    "sequence": 8,
+    "packId": "20260902-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:28"
+    "updatedAt": "01:45"
   },
   "verified": true
 }
