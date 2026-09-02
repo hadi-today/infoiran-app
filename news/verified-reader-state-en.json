@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-46 seq=46 exp=1788516061",
+      "advancedStatus": "pack_id=20260902-47 seq=47 exp=1788516148",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:01",
+      "lastChecked": "10:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 10:01",
+    "expiresAt": "2026-09-04 10:02",
     "items": [
       {
         "channel": "iranintl",
@@ -1183,14 +1183,21 @@
         "text": "Twenty Premier League clubs spent over 4 billion euros on summer transfers, setting a new record. Manchester City led the spending with 458 million pounds, signing players like Enzo Fernandez. The spending continued until the final hours of the transfer window.",
         "time": "10:00",
         "ts": 1788343201
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows the destruction of residential houses in Sirik. This destruction is due to US attacks on probable targets in the area. The attacks occurred on Tuesday, 10 Shahrivar.",
+        "time": "10:01",
+        "ts": 1788343313
       }
     ],
     "language": "en",
-    "packId": "20260902-46",
-    "sequence": 46,
+    "packId": "20260902-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:01"
+    "updatedAt": "10:02"
   },
   "verified": true
 }
