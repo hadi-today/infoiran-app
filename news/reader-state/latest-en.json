@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-02 seq=2 exp=1788481138",
+      "advancedStatus": "pack_id=20260902-03 seq=3 exp=1788481704",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:18",
+      "lastChecked": "00:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 00:18",
+    "expiresAt": "2026-09-04 00:28",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mehdi Zare announced the occurrence of 9 earthquakes with a magnitude over three in east Tehran since the beginning of this year. He warned that active faults and soft sediments could increase the risk of earthquakes. The Mosha fault and Parchin and Ivanki faults threaten different areas of Tehran.",
-        "time": "00:23",
-        "ts": 1788222201
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "The UK Maritime Trade Operations announced that a tanker was targeted while passing through the Strait of Hormuz. The incident occurred 31 kilometers east of the Khasab area in Oman. The tanker was hit by three unknown projectiles.",
-        "time": "00:26",
-        "ts": 1788222419
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1120,14 +1106,21 @@
         "text": "Morad Veysi, a senior analyst at Iran International, said the US is combining economic pressure with military power against Iran. He referred to statements by US Treasury Secretary Scott Bessent as more significant. He questioned whether the US is effectively moving toward the overthrow of the Islamic Republic.",
         "time": "00:17",
         "ts": 1788308277
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Bahrain's news agency reported that the country's air defense systems tracked and destroyed Iranian drones over Bahrain. These systems are fully prepared to protect Bahrain's security.",
+        "time": "00:28",
+        "ts": 1788308882
       }
     ],
     "language": "en",
-    "packId": "20260902-02",
-    "sequence": 2,
+    "packId": "20260902-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:18"
+    "updatedAt": "00:28"
   },
   "verified": true
 }
