@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-63 seq=63 exp=1788528779",
+      "advancedStatus": "pack_id=20260902-64 seq=64 exp=1788529224",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:32",
+      "lastChecked": "13:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 13:32",
+    "expiresAt": "2026-09-04 13:40",
     "items": [
       {
         "channel": "iranintl",
@@ -1113,14 +1113,21 @@
         "text": "The average daily gasoline consumption in the first week of Shahrivar exceeded 148 million liters. The highest daily demand during this period was over 154 million liters. The Iranian government stated there is no problem in gasoline supply, but production capacity has decreased.",
         "time": "13:32",
         "ts": 1788355938
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The head of the Martyrs and Veterans Center of Fajr Corps in Fars stated that in the early Wednesday attacks by the US on Jahrom county, a member of the Khatam al-Anbiya Base and a Basiji from Fasa Corps was killed. Iranian media had not reported any explosion in Jahrom on Tuesday night or early Wednesday.",
+        "time": "13:39",
+        "ts": 1788356394
       }
     ],
     "language": "en",
-    "packId": "20260902-63",
-    "sequence": 63,
+    "packId": "20260902-64",
+    "sequence": 64,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:32"
+    "updatedAt": "13:40"
   },
   "verified": true
 }
