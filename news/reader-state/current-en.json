@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-68 seq=68 exp=1788530538",
+      "advancedStatus": "pack_id=20260902-69 seq=69 exp=1788531532",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:02",
+      "lastChecked": "14:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 14:02",
+    "expiresAt": "2026-09-04 14:18",
     "items": [
       {
         "channel": "iranintl",
@@ -1141,14 +1141,21 @@
         "text": "A citizen sent a video to Iran International showing the empty refrigerator in his home. He said they have nothing to eat. The video highlights his living conditions.",
         "time": "14:01",
         "ts": 1788357704
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ingrid Alexandra, the Crown Princess of Norway, signed an oath of loyalty to the constitution following the death of her grandfather, King Harald. Her father, King Haakon, also took an oath in a parliamentary ceremony. Masoud Qarakhani, the Iranian-Norwegian parliament speaker, presided over the ceremony.",
+        "time": "14:18",
+        "ts": 1788358708
       }
     ],
     "language": "en",
-    "packId": "20260902-68",
-    "sequence": 68,
+    "packId": "20260902-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:02"
+    "updatedAt": "14:18"
   },
   "verified": true
 }
