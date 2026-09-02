@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-15 seq=15 exp=1788495175",
+      "advancedStatus": "pack_id=20260902-16 seq=16 exp=1788496875",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:12",
+      "lastChecked": "04:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 04:12",
+    "expiresAt": "2026-09-04 04:41",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Kayhan newspaper wrote that the government should listen to the concerns of families worried about the spread of unveiled behavior. The newspaper emphasized that preserving Iranian-Islamic culture and confronting unveiled behavior is the government's duty. Kayhan also mentioned some officials' opposition to warnings directed at unveiled individuals.",
-        "time": "04:20",
-        "ts": 1788236435
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1169,14 +1162,21 @@
         "text": "Jerome Bonafon, the French ambassador to the UN, stated that the Iranian people are victims of decisions by the Islamic Republic and widespread repression. The Security Council will review Iran's compliance with nuclear commitments this month. He also expressed concerns about freedom of navigation in the Strait of Hormuz.",
         "time": "04:12",
         "ts": 1788322350
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Scott Bessent, the US Treasury Secretary, described the Iranian people as \"great people.\" He said Iranians should know they can become a normal country again. Bessent also mentioned that a small group cannot remain in power forever.",
+        "time": "04:40",
+        "ts": 1788324054
       }
     ],
     "language": "en",
-    "packId": "20260902-15",
-    "sequence": 15,
+    "packId": "20260902-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:12"
+    "updatedAt": "04:41"
   },
   "verified": true
 }
