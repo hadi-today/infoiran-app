@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260902-127 seq=127 exp=1788563065",
+      "advancedStatus": "pack_id=20260902-128 seq=128 exp=1788563177",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:04",
+      "lastChecked": "23:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-02",
-    "expiresAt": "2026-09-04 23:04",
+    "expiresAt": "2026-09-04 23:06",
     "items": [
       {
         "channel": "iranintl",
@@ -931,14 +931,21 @@
         "text": "A campaign has been launched to sacrifice 10,000 sheep worth 250 billion tomans for Mojtaba's health. This issue is discussed in a program hosted by Kambiz Hosseini. People facing financial difficulties are expected to pay for this matter.",
         "time": "23:04",
         "ts": 1788390244
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A 24-second video of the long-range Kheibar Shekan missiles was released by media affiliated with the IRGC, showing five missiles on the ground but six missiles launching into the sky. This issue was discussed by Kambiz Hosseini in a program. The video suggests the possible use of artificial intelligence in missile launches.",
+        "time": "23:05",
+        "ts": 1788390355
       }
     ],
     "language": "en",
-    "packId": "20260902-127",
-    "sequence": 127,
+    "packId": "20260902-128",
+    "sequence": 128,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:04"
+    "updatedAt": "23:06"
   },
   "verified": true
 }
