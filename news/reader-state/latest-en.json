@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-56 seq=56 exp=1788613351",
+      "advancedStatus": "pack_id=20260903-57 seq=57 exp=1788614087",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:02",
+      "lastChecked": "13:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 13:02",
+    "expiresAt": "2026-09-05 13:14",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The head of the support commission for lawyers in the Fars region announced the formation of judicial cases against about 20 lawyers in Fars province following the protests of December 1404. Twelve of these lawyers have been arrested, and some have received final prison sentences.",
-        "time": "13:02",
-        "ts": 1788354159
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -931,14 +924,21 @@
         "text": "The head of Iran's AIDS Research Center announced that sexual transmission has become the main route of HIV infection. In 1404, about 65% of new cases were identified through sexual contact. A significant portion of these cases involved sexual relations between men.",
         "time": "13:02",
         "ts": 1788440525
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Free Iran and European Union conference will be held in Düsseldorf, Germany. The main topics include the outlook for a free and democratic Iran, economic capacities and investment, and future cooperation between Iran and the EU. Legal and political issues during the transition period will also be discussed.",
+        "time": "13:14",
+        "ts": 1788441263
       }
     ],
     "language": "en",
-    "packId": "20260903-56",
-    "sequence": 56,
+    "packId": "20260903-57",
+    "sequence": 57,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:02"
+    "updatedAt": "13:14"
   },
   "verified": true
 }
