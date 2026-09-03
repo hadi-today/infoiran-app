@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-37 seq=37 exp=1788600879",
+      "advancedStatus": "pack_id=20260903-38 seq=38 exp=1788601859",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:34",
+      "lastChecked": "09:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 09:34",
+    "expiresAt": "2026-09-05 09:50",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump's question about when the Iranian people will rise up against the Islamic Republic drew widespread reactions from Iran International's audience. Some responders stressed that a nationwide uprising requires serious weakening of the repression apparatus and clarity on the US strategy. They said they need assurance they will not be left alone this time before returning to the streets.",
-        "time": "09:50",
-        "ts": 1788342613
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "Babak Sadeghi Mohseni's sister joined the memorial campaign \"One Candle, One Name, One Memory\" and called for preserving the memory of the immortal. Babak Sadeghi Mohseni died on January 9, 2026, in Tehran from a direct gunshot. He was born in 1994 in Karaj and lived in Hamedan.",
         "time": "09:34",
         "ts": 1788428053
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Sima Sabto and Nahid Falahati, Bahá'í citizens residing in Shiraz, have been detained and in legal limbo for over 70 days in Adelabad Prison. They are deprived of the possibility to contact or meet their families. The situation has been reported by the HRANA news agency.",
+        "time": "09:50",
+        "ts": 1788429035
       }
     ],
     "language": "en",
-    "packId": "20260903-37",
-    "sequence": 37,
+    "packId": "20260903-38",
+    "sequence": 38,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:34"
+    "updatedAt": "09:50"
   },
   "verified": true
 }
