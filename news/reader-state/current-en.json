@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-93 seq=93 exp=1788634903",
+      "advancedStatus": "pack_id=20260903-94 seq=94 exp=1788634994",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:01",
+      "lastChecked": "19:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 19:01",
+    "expiresAt": "2026-09-05 19:03",
     "items": [
       {
         "channel": "harana",
@@ -875,14 +875,21 @@
         "text": "FIFA submitted legal documents to a US court to reject UEFA's request for access to documents related to the canceled plan to sell 20% of FIFA's new commercial company. UEFA accused Gianni Infantino of criminal mismanagement and setting prices outside market norms. FIFA stated the plan was only a proposal and could proceed only with majority support from member federations.",
         "time": "19:01",
         "ts": 1788462076
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A shopkeeper sent a video to Iran International comparing his shop's prices with last year. He shows that prices have increased several times. The video highlights a significant price increase.",
+        "time": "19:01",
+        "ts": 1788462118
       }
     ],
     "language": "en",
-    "packId": "20260903-93",
-    "sequence": 93,
+    "packId": "20260903-94",
+    "sequence": 94,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:01"
+    "updatedAt": "19:03"
   },
   "verified": true
 }
