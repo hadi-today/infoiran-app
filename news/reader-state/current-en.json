@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-57 seq=57 exp=1788614087",
+      "advancedStatus": "pack_id=20260903-58 seq=58 exp=1788614485",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:14",
+      "lastChecked": "13:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 13:14",
+    "expiresAt": "2026-09-05 13:21",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Axios reported, citing US officials, that the US military targeted two Iranian government oil tankers during Tuesday night strikes near the Iranian coast. American drones struck the tankers' engine rooms with missiles. A US official described the action as part of a new 'tanker-for-tanker' policy approved by Donald Trump.",
-        "time": "13:20",
-        "ts": 1788355212
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Miad Maleki, former head of the Treasury Department's sanctions targeting office, stated that new sanctions focus on intermediaries, exchange offices, and individuals enabling Iran's access to the global financial system and oil revenues. These sanctions increase economic pressure on Iran.",
-        "time": "13:20",
-        "ts": 1788355252
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -931,14 +917,21 @@
         "text": "The Free Iran and European Union conference will be held in Düsseldorf, Germany. The main topics include the outlook for a free and democratic Iran, economic capacities and investment, and future cooperation between Iran and the EU. Legal and political issues during the transition period will also be discussed.",
         "time": "13:14",
         "ts": 1788441263
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The deputy of training and education of the Islamic Republic Army stated that the military doctrine is defensive, but the capability and training for preemptive attacks exist. Penetration and attack trainings have been provided across various army forces and are executable. Experiences from the 12-day war were applied in the 40-day war.",
+        "time": "13:20",
+        "ts": 1788441655
       }
     ],
     "language": "en",
-    "packId": "20260903-57",
-    "sequence": 57,
+    "packId": "20260903-58",
+    "sequence": 58,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:14"
+    "updatedAt": "13:21"
   },
   "verified": true
 }
