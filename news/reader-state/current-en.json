@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-119 seq=119 exp=1788650574",
+      "advancedStatus": "pack_id=20260903-120 seq=120 exp=1788651000",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:22",
+      "lastChecked": "23:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 23:22",
+    "expiresAt": "2026-09-05 23:30",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Akram al-Kaabi, secretary-general of the Al-Nujaba Movement in Iraq, threatened that US forces stationed in Iraq will be targeted if they remain after September 30. He also stated that US plans in Iraq will not be realized. In March 2019, the US designated this group and al-Kaabi as global terrorists.",
-        "time": "23:26",
-        "ts": 1788391569
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -875,14 +868,21 @@
         "text": "Family and friends of Ali Abazari gathered at his grave in Behesht Zahra instead of celebrating his birthday at home or a cafe. Ali was an 18-year-old accounting student who was killed by security forces while returning from protests. The gathering was held in memory of him and his short life.",
         "time": "23:22",
         "ts": 1788477752
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump said in an interview with GB News that US military actions against Iran are linked to UK security, and Washington is saving Britain by preventing Tehran from obtaining nuclear weapons. He claimed the US has broken Iran's navy, air force, and command structure and controls the Strait of Hormuz, which is vital for UK energy. Trump also criticized the UK's level of cooperation with US operations and said military and economic pressure on Tehran is part of an effort to eliminate threats.",
+        "time": "23:29",
+        "ts": 1788478179
       }
     ],
     "language": "en",
-    "packId": "20260903-119",
-    "sequence": 119,
+    "packId": "20260903-120",
+    "sequence": 120,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:22"
+    "updatedAt": "23:30"
   },
   "verified": true
 }
