@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-78 seq=78 exp=1788625286",
+      "advancedStatus": "pack_id=20260903-79 seq=79 exp=1788626083",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:21",
+      "lastChecked": "16:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 16:21",
+    "expiresAt": "2026-09-05 16:34",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Nava Bahamin, a Bahá'í citizen residing in Yazd, was summoned and interrogated by the local intelligence agency. The summons was made by phone on Tuesday, 10 Shahrivar, and the interrogation took place on Wednesday, 11 Shahrivar. This was reported by the HRANA news agency.",
-        "time": "16:25",
-        "ts": 1788366317
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "In the fifth week of the Premier League, Esteghlal and Persepolis will face each other in Isfahan. Persepolis has won two of the last five matches against Esteghlal. Three other matches ended in a draw.",
-        "time": "16:26",
-        "ts": 1788366363
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The UAE Ministry of Foreign Affairs condemned the Islamic Republic's attacks on Jordan, the Kurdistan Region of Iraq, Bahrain, and Kuwait. These attacks were described as violations of sovereignty and threats to security. The UAE expressed full solidarity with these countries and support for security measures.",
-        "time": "16:31",
-        "ts": 1788366711
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +896,21 @@
         "text": "The police commander of Abadan announced the arrest of an Instagram page admin. The page was blocked by judicial order. The page was accused of publishing indecent content and inappropriate images.",
         "time": "16:20",
         "ts": 1788452451
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Beiranvand, the national football team goalkeeper, stated that he does not intend to retire from the national team. He said his aspirations are set on the World Cup and if he does not get injured, he will be part of the 2030 World Cup team.",
+        "time": "16:34",
+        "ts": 1788453253
       }
     ],
     "language": "en",
-    "packId": "20260903-78",
-    "sequence": 78,
+    "packId": "20260903-79",
+    "sequence": 79,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:21"
+    "updatedAt": "16:34"
   },
   "verified": true
 }
