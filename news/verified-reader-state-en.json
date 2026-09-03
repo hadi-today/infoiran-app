@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-74 seq=74 exp=1788622620",
+      "advancedStatus": "pack_id=20260903-75 seq=75 exp=1788624106",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:37",
+      "lastChecked": "16:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 15:37",
+    "expiresAt": "2026-09-05 16:01",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump, the President of the United States, proposed renaming the Strait of Hormuz to the Trump Strait in a post on Truth Social. He wrote: Now that we control it, should we change the name of the Strait of Hormuz to the 'Trump Strait'?",
-        "time": "15:42",
-        "ts": 1788363746
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "In the deadliest night of military clashes in the Persian Gulf since the ceasefire, the US attacked 100 targets in 40 locations in Iran, killing at least 19 people. After these attacks, Trump referred to the imminent economic collapse of Iran. He also asked when the people of Iran would revolt.",
-        "time": "15:44",
-        "ts": 1788363843
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +903,21 @@
         "text": "Farshad Momeni stated that the poor population in Iran has doubled over the past three years. He described this trend alongside increasing inequality as one of the most serious economic and social issues in the country. Momeni questioned why no significant changes have been made in economic policies despite this situation.",
         "time": "15:36",
         "ts": 1788449794
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Joint Maritime Information Center reported that attacks and efforts by the IRGC to target or disrupt shipping in the Strait of Hormuz continue. Commercial traffic in the area remains below normal levels, with single-digit numbers of ships passing through. Additionally, two crew members were killed in an attack on the tanker \"Sider.\"",
+        "time": "16:01",
+        "ts": 1788451275
       }
     ],
     "language": "en",
-    "packId": "20260903-74",
-    "sequence": 74,
+    "packId": "20260903-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:37"
+    "updatedAt": "16:01"
   },
   "verified": true
 }
