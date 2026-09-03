@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-41 seq=41 exp=1788603908",
+      "advancedStatus": "pack_id=20260903-42 seq=42 exp=1788604182",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:25",
+      "lastChecked": "10:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 10:25",
+    "expiresAt": "2026-09-05 10:29",
     "items": [
       {
         "channel": "iranintl",
@@ -875,14 +875,21 @@
         "text": "A citizen sent a video showing a fire in the trees at Shindan beach in Astara. The incident occurred on Thursday, 12 Shahrivar. The video was sent to Iran International.",
         "time": "10:24",
         "ts": 1788431086
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Emmanuel Macron will meet with the new British Prime Minister Andy Burnham in his first visit to the UK since Burnham took office. They will discuss migrants in the English Channel, defense and economic cooperation, support for Ukraine, and Middle East developments. The meeting will take place at 10 Downing Street.",
+        "time": "10:29",
+        "ts": 1788431359
       }
     ],
     "language": "en",
-    "packId": "20260903-41",
-    "sequence": 41,
+    "packId": "20260903-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:25"
+    "updatedAt": "10:29"
   },
   "verified": true
 }
