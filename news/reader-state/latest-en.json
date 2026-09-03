@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-99 seq=99 exp=1788637562",
+      "advancedStatus": "pack_id=20260903-100 seq=100 exp=1788638329",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:46",
+      "lastChecked": "19:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 19:46",
+    "expiresAt": "2026-09-05 19:58",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "CENTCOM stated that the US Navy is strictly enforcing the maritime blockade of Iran. So far, 86 commercial ships have been forced to change course. Additionally, three ships have broken down and two ships have been inspected.",
-        "time": "19:52",
-        "ts": 1788378776
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mehdi Mahdavi-Azad said in the program \"Cheshmandaz\" that recent messages from Donald Trump and increased economic pressure should be seen as efforts to increase internal pressure on the Islamic Republic. He added that the US policy aims to increase pressure to the point of protests and uprisings against the government. The ultimate goal is the surrender of the Islamic Republic.",
-        "time": "19:55",
-        "ts": 1788378915
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "In the audio version of program 24 with Fardad Farahzad, Trump's emphasis on full control of the Strait of Hormuz is discussed.",
-        "time": "19:56",
-        "ts": 1788378987
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -896,14 +875,21 @@
         "text": "On Thursday, 12 Shahrivar, a large explosion occurred near the port of Sochi in southwestern Russia. On Wednesday, 11 Shahrivar, Ukraine officially informed ICAO that Russian airspace is not safe. This announcement followed increased Ukrainian drone attacks on Russian territory.",
         "time": "19:45",
         "ts": 1788464733
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shayan Samiei said the Islamic Republic is trying to push Gulf countries to mediate and pressure the US by increasing tensions and attacking their interests. He added that the Islamic Republic cannot confront the US directly and seeks to regionalize the conflict. Samiei warned that continuing these attacks may push Gulf countries closer to the United States.",
+        "time": "19:58",
+        "ts": 1788465502
       }
     ],
     "language": "en",
-    "packId": "20260903-99",
-    "sequence": 99,
+    "packId": "20260903-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:46"
+    "updatedAt": "19:58"
   },
   "verified": true
 }
