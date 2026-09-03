@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-25 seq=25 exp=1788595988",
+      "advancedStatus": "pack_id=20260903-26 seq=26 exp=1788597250",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:13",
+      "lastChecked": "08:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 08:13",
+    "expiresAt": "2026-09-05 08:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US Central Command announced that it targeted military centers of the Islamic Republic. The targets included air defense positions, radar systems, naval equipment, and communication centers of the Revolutionary Guards. This news was published by CENTCOM on the social network X.",
-        "time": "08:21",
-        "ts": 1788337319
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Official media reported airstrikes by the US military on various locations in Iran, including Bandar Abbas, Qeshm, Sirik, and Khuzestan province. Several people, including children and military personnel, were killed or injured in these attacks. Additionally, damage was inflicted on telecommunications infrastructure and ports.",
-        "time": "08:24",
-        "ts": 1788337479
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -854,14 +840,21 @@
         "text": "The group stage draw of the AFC Champions League was held, and Khatun Bam was placed in Group A with Nagawhyang North Korea, Leonessa Kobe Japan, and Ayody Myanmar. Nagawhyang North Korea is the defending champion. The group stage will be held from October 31 to November 7.",
         "time": "08:12",
         "ts": 1788423156
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Adel Matlibnejad's sister commemorated him in a video message. Matlibnejad was killed on January 9, 2026, in Baharestan Square, Isfahan, by three bullets. His body was delivered a week later after the family gave a commitment.",
+        "time": "08:33",
+        "ts": 1788424430
       }
     ],
     "language": "en",
-    "packId": "20260903-25",
-    "sequence": 25,
+    "packId": "20260903-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:13"
+    "updatedAt": "08:34"
   },
   "verified": true
 }
