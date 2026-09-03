@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-02 seq=2 exp=1788568135",
+      "advancedStatus": "pack_id=20260903-03 seq=3 exp=1788570162",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:28",
+      "lastChecked": "01:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 00:28",
+    "expiresAt": "2026-09-05 01:02",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "G20 finance ministers emphasized the need to maintain free, safe, and predictable passage of ships through the Strait of Hormuz. The final statement of the G20 meeting expressed concern over disruptions in energy trade. All members except China agreed with the statement.",
-        "time": "00:45",
-        "ts": 1788309942
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -931,14 +924,21 @@
         "text": "Ynet reported that oil tankers, with the support of the US Navy, mostly transit the Strait of Hormuz at night and with their automatic identification systems turned off to reduce the risk of attacks by the Islamic Republic. They then transfer their cargo to other ships in the Gulf of Oman.",
         "time": "00:28",
         "ts": 1788395309
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump stated that the US has very strong control over the Strait of Hormuz and millions of barrels of oil pass through it daily. He said the Islamic Republic fires drones and missiles that the US shoots down and has targeted Iran's missile systems. Trump also reported a missile attack on a US base in Jordan and the American forces' response.",
+        "time": "01:02",
+        "ts": 1788397342
       }
     ],
     "language": "en",
-    "packId": "20260903-02",
-    "sequence": 2,
+    "packId": "20260903-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:28"
+    "updatedAt": "01:02"
   },
   "verified": true
 }
