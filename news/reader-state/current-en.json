@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-64 seq=64 exp=1788617352",
+      "advancedStatus": "pack_id=20260903-65 seq=65 exp=1788617740",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:09",
+      "lastChecked": "14:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 14:09",
+    "expiresAt": "2026-09-05 14:15",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "Spanish police clashed with protesters in Madrid on Wednesday, September 2, and dispersed them. The protesters demanded stricter border controls. Official statistics on detainees or injuries have not yet been released.",
         "time": "14:08",
         "ts": 1788444524
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A human rights group in Germany has filed a criminal complaint. They have called for an investigation into crimes against humanity in Iran. This action was taken by the human rights group.",
+        "time": "14:15",
+        "ts": 1788444912
       }
     ],
     "language": "en",
-    "packId": "20260903-64",
-    "sequence": 64,
+    "packId": "20260903-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:09"
+    "updatedAt": "14:15"
   },
   "verified": true
 }
