@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-28 seq=28 exp=1788597914",
+      "advancedStatus": "pack_id=20260903-29 seq=29 exp=1788598009",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:45",
+      "lastChecked": "08:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 08:45",
+    "expiresAt": "2026-09-05 08:46",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,21 @@
         "text": "Tehran's prosecutor announced charges against the staff and officials of Didar News for publishing false and insulting content. A legal case has been filed regarding this matter. The charges relate to one of the internet programs of this media outlet.",
         "time": "08:44",
         "ts": 1788425091
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "After the draw in the match against Persepolis, Esteghlal club officially complained to the referees committee. Esteghlal pointed to three incidents where Persepolis players should have been sent off for fouls. The club also protested the referee's performance and the silence of the VAR room, requesting serious action from the referees committee.",
+        "time": "08:46",
+        "ts": 1788425180
       }
     ],
     "language": "en",
-    "packId": "20260903-28",
-    "sequence": 28,
+    "packId": "20260903-29",
+    "sequence": 29,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:45"
+    "updatedAt": "08:46"
   },
   "verified": true
 }
