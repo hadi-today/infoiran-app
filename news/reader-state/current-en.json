@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-47 seq=47 exp=1788607122",
+      "advancedStatus": "pack_id=20260903-46 seq=46 exp=1788607022",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:18",
+      "lastChecked": "11:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,8 +13,15 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 11:18",
+    "expiresAt": "2026-09-05 11:17",
     "items": [
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The deputy director of intelligence for southern Tehran province announced the identification and arrest of nearly 100 people in Rey County during the recent conflict.",
+        "time": "11:17",
+        "ts": 1788347868
+      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -896,21 +903,14 @@
         "text": "Voria Ghafouri announced in the 360 program that Yaser Asani has prepared a house for an Iranian. Asani scored the equalizing goal for Esteghlal against Persepolis in Derby 107. This news was mentioned in the special derby program.",
         "time": "11:16",
         "ts": 1788434203
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Videos received by Iran International indicate an intensifying fuel crisis and very long queues at fuel stations in various Iranian cities. Reports from the public suggest that the queues sometimes last until late at night. Baharan Azadi, a member of Iran International's editorial team, has provided more details.",
-        "time": "11:18",
-        "ts": 1788434289
       }
     ],
     "language": "en",
-    "packId": "20260903-47",
-    "sequence": 47,
+    "packId": "20260903-46",
+    "sequence": 46,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:18"
+    "updatedAt": "11:17"
   },
   "verified": true
 }
