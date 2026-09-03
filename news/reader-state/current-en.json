@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-87 seq=87 exp=1788631490",
+      "advancedStatus": "pack_id=20260903-88 seq=88 exp=1788631570",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:04",
+      "lastChecked": "18:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 18:04",
+    "expiresAt": "2026-09-05 18:06",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Esteghlal and Persepolis drew 1-1 in the 107th derby of the Premier League's fifth week. Mohammadmahdi Mohibi and Yaser Asani scored the goals. The match was held at Naghsh-e Jahan Stadium in Isfahan with nearly 40,000 spectators.",
-        "time": "18:03",
-        "ts": 1788372221
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Nahid Kasnazani, a citizen of Saqez, was arrested by security forces and transferred to an unknown location. This occurred yesterday. No further details have been provided.",
-        "time": "18:04",
-        "ts": 1788372271
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -910,14 +896,28 @@
         "text": "The US State Department's \"Rewards for Justice\" program announced a reward of up to $10 million for information on Amir Yaryab, head of cyber operations in the IRGC's Cyber-Electronic Command. The program stated on X that Yaryab organizes and directs malicious cyber groups like \"Shahid Hemmat\" and \"Shahid Shushtari\" to target critical US infrastructure.",
         "time": "18:03",
         "ts": 1788458604
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A severe storm on Wednesday, 11 Shahrivar, flooded streets and damaged buildings in the Greater Toronto Area, Canada. Images from Brampton, Vaughan, and Toronto show submerged cars and debris from damaged buildings. Police are assisting occupants of a vehicle trapped in a flooded tunnel.",
+        "time": "18:05",
+        "ts": 1788458713
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Omid Chaubaz and Hadi Bayzidi, two citizens from Bukan, were released from the city's prison on bail.",
+        "time": "18:06",
+        "ts": 1788458760
       }
     ],
     "language": "en",
-    "packId": "20260903-87",
-    "sequence": 87,
+    "packId": "20260903-88",
+    "sequence": 88,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:04"
+    "updatedAt": "18:06"
   },
   "verified": true
 }
