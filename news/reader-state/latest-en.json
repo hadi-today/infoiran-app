@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-45 seq=45 exp=1788606236",
+      "advancedStatus": "pack_id=20260903-46 seq=46 exp=1788607022",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:03",
+      "lastChecked": "11:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 11:03",
+    "expiresAt": "2026-09-05 11:17",
     "items": [
       {
         "channel": "harana",
@@ -889,14 +889,28 @@
         "text": "A video on social media shows long lines of cars waiting for gasoline in Mashhad. A citizen in the video sarcastically comments on the issued rulings for protesters, saying, \"Even if we swear, we become agents of Mossad.\"",
         "time": "11:03",
         "ts": 1788433414
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Ghana Football Federation has extended the contract of Carlos Queiroz, the Portuguese head coach of the national team. Previous financial issues were resolved with the help of Ghana's Ministry of Sports, allowing Queiroz to continue leading the team. Queiroz led Ghana to the round of 16 in the 2026 World Cup.",
+        "time": "11:16",
+        "ts": 1788434188
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Voria Ghafouri announced in the 360 program that Yaser Asani has prepared a house for an Iranian. Asani scored the equalizing goal for Esteghlal against Persepolis in Derby 107. This news was mentioned in the special derby program.",
+        "time": "11:16",
+        "ts": 1788434203
       }
     ],
     "language": "en",
-    "packId": "20260903-45",
-    "sequence": 45,
+    "packId": "20260903-46",
+    "sequence": 46,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:03"
+    "updatedAt": "11:17"
   },
   "verified": true
 }
