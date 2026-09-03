@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-20 seq=20 exp=1788593463",
+      "advancedStatus": "pack_id=20260903-21 seq=21 exp=1788593992",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:31",
+      "lastChecked": "07:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 07:31",
+    "expiresAt": "2026-09-05 07:39",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Morteza Kazemian from Iran International says Trump has recently spoken more explicitly about the role of the Iranian people in the conflict with the Islamic Republic. These statements coincided with increased economic pressure from the US. It appears the Trump administration is paying more attention to Iran's internal conditions and the protesting society's reactions.",
-        "time": "07:36",
-        "ts": 1788334610
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The euro price in Iran's free market surpassed 250,000 tomans for the first time, reaching 251,200 tomans. The dollar was traded at 217,000 tomans and the pound exceeded 292,000 tomans. Additionally, the UAE dirham and Turkish lira reached 59,650 tomans and 4,495 tomans respectively.",
-        "time": "07:38",
-        "ts": 1788334695
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -861,14 +847,21 @@
         "text": "A video shared on social media shows an increase in gold prices in a market. A citizen stated that the price of one gram of gold has reached 23,291,000 tomans. This price has surpassed 23 million tomans.",
         "time": "07:30",
         "ts": 1788420640
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Javad Akbarin explained Trump's claim about monitoring the Islamic Republic's movements is partly based on recent war experiences. He believes the regional crisis is not yet uncontrollable. There is no sign of the Islamic Republic finding a way out of economic and political crises.",
+        "time": "07:39",
+        "ts": 1788421168
       }
     ],
     "language": "en",
-    "packId": "20260903-20",
-    "sequence": 20,
+    "packId": "20260903-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:31"
+    "updatedAt": "07:39"
   },
   "verified": true
 }
