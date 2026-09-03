@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-68 seq=68 exp=1788619093",
+      "advancedStatus": "pack_id=20260903-69 seq=69 exp=1788619174",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:38",
+      "lastChecked": "14:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 14:38",
+    "expiresAt": "2026-09-05 14:39",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Islamic Republic returned from the Shanghai summit with a supportive statement. A brief meeting between Pezeshkian and Xi Jinping and talks between China and the US about Iran also took place on the sidelines. Mehdi Beigi analyzed these signs regarding the real relationship between Tehran and Beijing.",
-        "time": "14:38",
-        "ts": 1788359883
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -917,14 +910,21 @@
         "text": "The funeral ceremony of Farahnaz Espad, journalist and presenter of Iran International, was held on Thursday morning, 12 Shahrivar, in London. The ceremony was attended by her husband and dozens of journalists and civil activists at a cemetery in the British capital. The event was held in her memory.",
         "time": "14:37",
         "ts": 1788446269
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The \"Justice Beyond Borders\" meeting was held in Berlin to examine legal ways in Germany and the EU to hold perpetrators of human rights violations in Iran accountable. Ahmad Samadi, a reporter for Iran International, covered the event. An interview was also conducted with Sina Yousefi, a lawyer and vice president of the Human Rights Commission.",
+        "time": "14:38",
+        "ts": 1788446306
       }
     ],
     "language": "en",
-    "packId": "20260903-68",
-    "sequence": 68,
+    "packId": "20260903-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:38"
+    "updatedAt": "14:39"
   },
   "verified": true
 }
