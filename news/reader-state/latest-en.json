@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-42 seq=42 exp=1788604182",
+      "advancedStatus": "pack_id=20260903-43 seq=43 exp=1788605467",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:29",
+      "lastChecked": "10:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 10:29",
+    "expiresAt": "2026-09-05 10:51",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Raul Asensio, Real Madrid defender, was fined 14,400 euros and banned from driving for eight months due to drunk driving in the Canary Islands. His alcohol test showed four times the legal limit, and his case was escalated to a criminal offense against road safety. Asensio is also facing another legal case for charges including breach of privacy and unauthorized content disclosure.",
-        "time": "10:40",
-        "ts": 1788345635
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -882,14 +875,21 @@
         "text": "Emmanuel Macron will meet with the new British Prime Minister Andy Burnham in his first visit to the UK since Burnham took office. They will discuss migrants in the English Channel, defense and economic cooperation, support for Ukraine, and Middle East developments. The meeting will take place at 10 Downing Street.",
         "time": "10:29",
         "ts": 1788431359
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Islamic Republic Army announced that it targeted US military bases in the UAE and Kuwait with missiles and drones. The targets included satellite communication systems, equipment warehouses, and fighter aircraft hangars. This action is part of ongoing tensions and reciprocal attacks with the US.",
+        "time": "10:50",
+        "ts": 1788432645
       }
     ],
     "language": "en",
-    "packId": "20260903-42",
-    "sequence": 42,
+    "packId": "20260903-43",
+    "sequence": 43,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:29"
+    "updatedAt": "10:51"
   },
   "verified": true
 }
