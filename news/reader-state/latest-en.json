@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-77 seq=77 exp=1788625122",
+      "advancedStatus": "pack_id=20260903-78 seq=78 exp=1788625286",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:18",
+      "lastChecked": "16:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 16:18",
+    "expiresAt": "2026-09-05 16:21",
     "items": [
       {
         "channel": "harana",
@@ -910,14 +910,21 @@
         "text": "The US Central Command announced that more than 2,600 soldiers and marines are stationed on the USS Boxer warship in the Middle East. These forces are carrying out their operational duties alongside the amphibious mission of the Boxer. CENTCOM has shared images and details of the marines' activities on the ship.",
         "time": "16:18",
         "ts": 1788452290
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The police commander of Abadan announced the arrest of an Instagram page admin. The page was blocked by judicial order. The page was accused of publishing indecent content and inappropriate images.",
+        "time": "16:20",
+        "ts": 1788452451
       }
     ],
     "language": "en",
-    "packId": "20260903-77",
-    "sequence": 77,
+    "packId": "20260903-78",
+    "sequence": 78,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:18"
+    "updatedAt": "16:21"
   },
   "verified": true
 }
