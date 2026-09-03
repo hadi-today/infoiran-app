@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-43 seq=43 exp=1788605467",
+      "advancedStatus": "pack_id=20260903-44 seq=44 exp=1788606129",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:51",
+      "lastChecked": "11:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 10:51",
+    "expiresAt": "2026-09-05 11:02",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The director of treatment at the Drug Control Headquarters stated that 20 to 30 percent of the 16 million student population smoke cigarettes. The use of psychoactive substances has also spread among university students. He mentioned the existence of 300 types of drugs and psychoactive substances in the country and the spread of addiction among various social groups.",
-        "time": "10:55",
-        "ts": 1788346548
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -882,14 +875,21 @@
         "text": "The Islamic Republic Army announced that it targeted US military bases in the UAE and Kuwait with missiles and drones. The targets included satellite communication systems, equipment warehouses, and fighter aircraft hangars. This action is part of ongoing tensions and reciprocal attacks with the US.",
         "time": "10:50",
         "ts": 1788432645
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Saudi Arabia is building a factory near Riyadh to produce a drone similar to the Islamic Republic's \"Shahed.\" The \"Sky Wasp\" drone will be produced in cooperation with an American and a Saudi company. Its range has been announced to be up to 1,500 kilometers.",
+        "time": "11:01",
+        "ts": 1788433306
       }
     ],
     "language": "en",
-    "packId": "20260903-43",
-    "sequence": 43,
+    "packId": "20260903-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:51"
+    "updatedAt": "11:02"
   },
   "verified": true
 }
