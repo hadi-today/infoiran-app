@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-48 seq=48 exp=1788607310",
+      "advancedStatus": "pack_id=20260903-49 seq=49 exp=1788608021",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:21",
+      "lastChecked": "11:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 11:21",
+    "expiresAt": "2026-09-05 11:33",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "Saipa company has significantly increased the prices of four products due to higher costs of scrap certificates and legal fees. The prices of Quick S and Sahand S dual-fuel have each risen by 33 million tomans. Additionally, the prices of assembled and imported cars like Citroen C3-XR and Changan CS55 Plus have increased by 115 and 198 million tomans respectively.",
         "time": "11:20",
         "ts": 1788434419
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The sister of Mojtaba Roostaei lit a candle in memory of her brother and the missing persons of Malayer by joining the campaign \"One Candle, One Name, One Memory.\" Mojtaba Roostaei was killed by officers' gunfire on January 9, 2026.",
+        "time": "11:33",
+        "ts": 1788435193
       }
     ],
     "language": "en",
-    "packId": "20260903-48",
-    "sequence": 48,
+    "packId": "20260903-49",
+    "sequence": 49,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:21"
+    "updatedAt": "11:33"
   },
   "verified": true
 }
