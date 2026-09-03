@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-95 seq=95 exp=1788636437",
+      "advancedStatus": "pack_id=20260903-96 seq=96 exp=1788637061",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:27",
+      "lastChecked": "19:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 19:27",
+    "expiresAt": "2026-09-05 19:37",
     "items": [
       {
         "channel": "iranintl",
@@ -882,14 +882,21 @@
         "text": "One-dollar coins featuring the image of US President Donald Trump were released on Wednesday, 11 Shahrivar, in rolls and bags. The coins were minted for the 250th anniversary of US independence in 2026. One side features Trump's image alongside the words 'Liberty', 'In God We Trust', and the years '1776-2026', while the other side bears the presidential seal and the number '250'.",
         "time": "19:26",
         "ts": 1788463614
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "On September 2nd, a group of military personnel housing applicants in Kermanshah held a protest. The gathering took place at the cooperative of the 81st Armored Division of the army. The protesters demanded attention to their housing issues.",
+        "time": "19:37",
+        "ts": 1788464234
       }
     ],
     "language": "en",
-    "packId": "20260903-95",
-    "sequence": 95,
+    "packId": "20260903-96",
+    "sequence": 96,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:27"
+    "updatedAt": "19:37"
   },
   "verified": true
 }
