@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-117 seq=117 exp=1788649546",
+      "advancedStatus": "pack_id=20260903-118 seq=118 exp=1788649780",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:05",
+      "lastChecked": "23:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 23:05",
+    "expiresAt": "2026-09-05 23:09",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A 24-second video of the long-range Kheibar Shekan missiles was released by media affiliated with the IRGC, showing five missiles on the ground but six missiles launching into the sky. This issue was discussed by Kambiz Hosseini in a program. The video suggests the possible use of artificial intelligence in missile launches.",
-        "time": "23:05",
-        "ts": 1788390355
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -875,14 +868,21 @@
         "text": "Ben Sabti said Israel's control over the heights overlooking southern Lebanon enables monitoring movements and cutting Hezbollah's logistical lines. This limits the transfer of forces, ammunition, and weapons of Hezbollah. Additionally, the reduction of financial resources of the Islamic Republic has weakened Hezbollah's capabilities.",
         "time": "23:05",
         "ts": 1788476720
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Canadian federal government has extended the temporary exemption of indirect taxes on gasoline, diesel, and aviation fuel until the end of January 2027. This decision was made in response to rising oil prices to reduce pressure on consumers and businesses. The report was provided by Mahsa Mortazavi from Iran International.",
+        "time": "23:09",
+        "ts": 1788476956
       }
     ],
     "language": "en",
-    "packId": "20260903-117",
-    "sequence": 117,
+    "packId": "20260903-118",
+    "sequence": 118,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:05"
+    "updatedAt": "23:09"
   },
   "verified": true
 }
