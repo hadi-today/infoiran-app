@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-86 seq=86 exp=1788631379",
+      "advancedStatus": "pack_id=20260903-87 seq=87 exp=1788631490",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:02",
+      "lastChecked": "18:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 18:02",
+    "expiresAt": "2026-09-05 18:04",
     "items": [
       {
         "channel": "iranintl",
@@ -903,14 +903,21 @@
         "text": "Tractor football team remained at the top of the Premier League table after the fifth week despite a draw. Esteghlal and Aluminium Arak both reached 11 points and are in second and third place. Five matches ended in draws this week, showing a cautious approach by teams.",
         "time": "18:02",
         "ts": 1788458545
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US State Department's \"Rewards for Justice\" program announced a reward of up to $10 million for information on Amir Yaryab, head of cyber operations in the IRGC's Cyber-Electronic Command. The program stated on X that Yaryab organizes and directs malicious cyber groups like \"Shahid Hemmat\" and \"Shahid Shushtari\" to target critical US infrastructure.",
+        "time": "18:03",
+        "ts": 1788458604
       }
     ],
     "language": "en",
-    "packId": "20260903-86",
-    "sequence": 86,
+    "packId": "20260903-87",
+    "sequence": 87,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:02"
+    "updatedAt": "18:04"
   },
   "verified": true
 }
