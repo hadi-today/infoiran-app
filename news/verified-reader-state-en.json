@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-91 seq=91 exp=1788633645",
+      "advancedStatus": "pack_id=20260903-92 seq=92 exp=1788633772",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:40",
+      "lastChecked": "18:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 18:40",
+    "expiresAt": "2026-09-05 18:42",
     "items": [
       {
         "channel": "harana",
@@ -882,14 +882,21 @@
         "text": "JD Vance, the US Vice President, stated that the US will not negotiate with the Islamic Republic until attacks on commercial ships stop. The US message to the Islamic Republic is clear: they must cease these attacks. The US plans to use its tools to address the nuclear threat and ensure global energy markets are properly supplied.",
         "time": "18:40",
         "ts": 1788460819
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The Vice President for Women and Family Affairs stated that the traffic police are obligated to issue motorcycle licenses to women based on a Cabinet resolution. This resolution was approved last February but has not yet been implemented in practice. The police have not yet started issuing motorcycle licenses to women.",
+        "time": "18:42",
+        "ts": 1788460946
       }
     ],
     "language": "en",
-    "packId": "20260903-91",
-    "sequence": 91,
+    "packId": "20260903-92",
+    "sequence": 92,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:40"
+    "updatedAt": "18:42"
   },
   "verified": true
 }
