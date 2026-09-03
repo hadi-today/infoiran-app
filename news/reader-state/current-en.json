@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-70 seq=70 exp=1788620780",
+      "advancedStatus": "pack_id=20260903-71 seq=71 exp=1788621154",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:06",
+      "lastChecked": "15:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 15:06",
+    "expiresAt": "2026-09-05 15:12",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The Supreme Court approved the retrial in Alireza Sepahi's case. The peer branch rejected the retrial without holding a hearing and sent the case to enforcement of the death sentence. This case concerns a prisoner sentenced to death in Isfahan.",
-        "time": "15:10",
-        "ts": 1788361818
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -903,14 +896,21 @@
         "text": "Farhad Amani's mother lit a candle in memory of her son by joining the campaign \"One Candle, One Name, One Memory.\" Farhad Amani, 25, was shot and killed on January 8, 2026, in the Punak neighborhood of Tehran. His mother emphasized that their memory should not be forgotten.",
         "time": "15:05",
         "ts": 1788447951
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Saeed Ghaseminejad stated that the top priority after passing the Islamic Republic is to rebuild the country's security system. This reconstruction will include military, food, energy, and infrastructure security. Efforts will also be made to lift all sanctions imposed on Iran.",
+        "time": "15:12",
+        "ts": 1788448328
       }
     ],
     "language": "en",
-    "packId": "20260903-70",
-    "sequence": 70,
+    "packId": "20260903-71",
+    "sequence": 71,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:06"
+    "updatedAt": "15:12"
   },
   "verified": true
 }
