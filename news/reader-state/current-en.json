@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-84 seq=84 exp=1788628782",
+      "advancedStatus": "pack_id=20260903-85 seq=85 exp=1788630023",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:19",
+      "lastChecked": "17:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 17:19",
+    "expiresAt": "2026-09-05 17:40",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Fereshteh Pezeshk said the US wants to change the foreign policy and anti-American stance of the Islamic Republic but lacks a clear strategy. Washington uses economic pressure and potential internal protests as leverage. It is unclear if these protests will achieve the desired outcome.",
-        "time": "17:25",
-        "ts": 1788369933
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Israeli Prime Minister stated that his forces can be present in Iran at any moment and will defeat the regime. He emphasized that he means the fall and overthrow of the Iranian government. He also said that all Israeli security agencies operate under his guidance to overthrow the Islamic Republic.",
-        "time": "17:29",
-        "ts": 1788370151
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Financial Times reported that Russia has secretly assisted Iran in developing supersonic anti-ship cruise missile technology in recent years. Farzin Nadimi, a senior defense and security researcher at the Washington Institute, said this cooperation could bring the project closer to operational stage. He added that if these missiles enter service, US naval groups may be forced to increase their operational distance from Iran.",
-        "time": "17:31",
-        "ts": 1788370299
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +896,21 @@
         "text": "A worker at a stone-cutting factory in Mashhad suffered an accident due to lack of workplace safety. The accident resulted in the amputation of his right leg. This incident occurred yesterday.",
         "time": "17:19",
         "ts": 1788455958
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli Prime Minister stated in a meeting that he has the ability to overthrow the Islamic Republic and that this mission is near and achievable. He described the Iranian government as collapsing and weaker than ever. Netanyahu also announced that they have averted the threats posed by the Iranian regime.",
+        "time": "17:39",
+        "ts": 1788457194
       }
     ],
     "language": "en",
-    "packId": "20260903-84",
-    "sequence": 84,
+    "packId": "20260903-85",
+    "sequence": 85,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:19"
+    "updatedAt": "17:40"
   },
   "verified": true
 }
