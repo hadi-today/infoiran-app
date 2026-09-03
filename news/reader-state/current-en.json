@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-06 seq=6 exp=1788576646",
+      "advancedStatus": "pack_id=20260903-07 seq=7 exp=1788577280",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:50",
+      "lastChecked": "03:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 02:50",
+    "expiresAt": "2026-09-05 03:01",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The aircraft carrier Abraham Lincoln entered Laem Chabang port in Thailand after more than 200 days on a mission in the Middle East. With about five thousand sailors, it set a record for the longest continuous time at sea. The carrier is scheduled to stay in Thailand for five days to rest and regroup.",
-        "time": "02:50",
-        "ts": 1788317429
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -896,14 +889,21 @@
         "text": "Donald Trump stated that the US is winning the war against the Islamic Republic by a large margin. He said recent US attacks have caused extensive damage to Iran's military capabilities and that Iran's economy is in a critical state. Trump also emphasized that the US controls the Strait of Hormuz.",
         "time": "02:50",
         "ts": 1788403823
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Wall Street Journal reported that US Secretary of War Pete Hegseth has extended the deployment of some American forces in the Middle East until 2027. Approximately 50,000 US troops remain in the region, with missions including intercepting Islamic Republic missiles, protecting commercial vessels in the Strait of Hormuz, and enforcing a blockade of Iran. The newspaper also wrote that Donald Trump believes continued economic pressure could force the Islamic Republic to dismantle its nuclear program or lead to the regime's collapse.",
+        "time": "03:00",
+        "ts": 1788404457
       }
     ],
     "language": "en",
-    "packId": "20260903-06",
-    "sequence": 6,
+    "packId": "20260903-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:50"
+    "updatedAt": "03:01"
   },
   "verified": true
 }
