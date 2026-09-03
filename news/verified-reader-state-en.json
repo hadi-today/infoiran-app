@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-107 seq=107 exp=1788646476",
+      "advancedStatus": "pack_id=20260903-108 seq=108 exp=1788646663",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:14",
+      "lastChecked": "22:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 22:14",
+    "expiresAt": "2026-09-05 22:17",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "Alireza Kiani stated in the program \"Fereydoun\" that Iranian postmodern feminism did not accept the slogan \"Woman, Life, Freedom / Man, Homeland, Prosperity\" during the Mahsa uprising. He described this approach as influenced by Western postmodernism. Kiani also said this feminism views men as carriers of gender domination.",
         "time": "22:14",
         "ts": 1788473654
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Charles III said in a meeting with Pakistan's Interior Minister Mohsin Naqvi that everything is going backward regarding the Iran-US conflict. He mentioned that they will have to rely heavily on Pakistan. The Pakistani minister described the situation as a story of one step forward and one step back.",
+        "time": "22:17",
+        "ts": 1788473843
       }
     ],
     "language": "en",
-    "packId": "20260903-107",
-    "sequence": 107,
+    "packId": "20260903-108",
+    "sequence": 108,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:14"
+    "updatedAt": "22:17"
   },
   "verified": true
 }
