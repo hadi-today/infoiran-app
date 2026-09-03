@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-22 seq=22 exp=1788594423",
+      "advancedStatus": "pack_id=20260903-23 seq=23 exp=1788594684",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:47",
+      "lastChecked": "07:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 07:47",
+    "expiresAt": "2026-09-05 07:51",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "Ali Shirazi from Iran International explained the threat by Hossein Shariatmadari to attack submarine cables and fiber optics in the Strait of Hormuz. This threat was raised in response to economic pressures and claims about the ineffectiveness of closing the strait. Attacking communication infrastructure could provoke a broad international reaction.",
         "time": "07:46",
         "ts": 1788421602
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Tiger Woods reached an agreement with Florida prosecutors and accepted the reckless driving charge. His driver's license will be suspended for five years and he will pay a $1,000 fine. The charge of driving under the influence was dropped.",
+        "time": "07:50",
+        "ts": 1788421857
       }
     ],
     "language": "en",
-    "packId": "20260903-22",
-    "sequence": 22,
+    "packId": "20260903-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:47"
+    "updatedAt": "07:51"
   },
   "verified": true
 }
