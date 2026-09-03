@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-82 seq=82 exp=1788627674",
+      "advancedStatus": "pack_id=20260903-83 seq=83 exp=1788627910",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:01",
+      "lastChecked": "17:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 17:01",
+    "expiresAt": "2026-09-05 17:05",
     "items": [
       {
         "channel": "iranintl",
@@ -903,14 +903,21 @@
         "text": "The Maku Civil Registration Office issued a birth certificate for a child named Chagari after six years. The child was born in 2020, and the name was initially deemed illegal. After the parents' complaint and legal procedures, the certificate was issued in August 2025.",
         "time": "17:00",
         "ts": 1788454846
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Armin, 19, his father Omid, 47, and his uncle Amir, 42, were killed on January 9, 2026, in Fardis. A citizen joined the campaign \"One Candle, One Name, One Memory\" in their memory. The video was sent to Iran International.",
+        "time": "17:04",
+        "ts": 1788455085
       }
     ],
     "language": "en",
-    "packId": "20260903-82",
-    "sequence": 82,
+    "packId": "20260903-83",
+    "sequence": 83,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:01"
+    "updatedAt": "17:05"
   },
   "verified": true
 }
