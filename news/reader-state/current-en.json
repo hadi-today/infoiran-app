@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-33 seq=33 exp=1788599491",
+      "advancedStatus": "pack_id=20260903-34 seq=34 exp=1788600333",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:11",
+      "lastChecked": "09:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 09:11",
+    "expiresAt": "2026-09-05 09:25",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A video showing the destruction caused by US attacks in Sirik has been released. Official media of the Islamic Republic reported that these attacks resulted in the death and injury of several civilians at a wedding ceremony. The video was published on Wednesday, 11 Shahrivar.",
-        "time": "09:19",
-        "ts": 1788340766
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Hossein Aghaei considers the US attacks on Islamic Republic targets as a sign of Washington's changing approach. He sees recent statements by Donald Trump and other US officials as a sign of moving towards regime change. However, this strategic signal has not yet become fully clear or operational.",
-        "time": "09:19",
-        "ts": 1788340772
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A man in Mashhad strangled his 61-year-old wife due to family disputes, killing her. The suspect then attempted suicide. He was transferred to a medical center.",
-        "time": "09:21",
-        "ts": 1788340862
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -882,14 +861,28 @@
         "text": "Former parliament deputy speaker Ali Motahhari said that the Islamic Republic and the United States have no choice but to reach an understanding and agreement. He said the best option is to return to the agreement and that the US must be forced to do so. Motahhari also said that Trump's remarks about abandoning the agreement should not be taken seriously.",
         "time": "09:11",
         "ts": 1788426661
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The head of the health network in Gachsaran reported the aging of part of the emergency fleet in the county. Only two out of four ambulances are operational, and both require major repairs. Gachsaran needs four new ambulances for road fleet reinforcement, estimated to cost about 80 billion tomans.",
+        "time": "09:25",
+        "ts": 1788427507
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "After a missile hit a wedding ceremony in Kuhestak Sirik, the Islamic Republic accused the US of targeting civilians. Tehran's representative at the UN called the attack a war crime. CENTCOM stated it is investigating the incident and emphasized that the US military never targets civilians.",
+        "time": "09:25",
+        "ts": 1788427515
       }
     ],
     "language": "en",
-    "packId": "20260903-33",
-    "sequence": 33,
+    "packId": "20260903-34",
+    "sequence": 34,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:11"
+    "updatedAt": "09:25"
   },
   "verified": true
 }
