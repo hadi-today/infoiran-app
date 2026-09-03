@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-04 seq=4 exp=1788571399",
+      "advancedStatus": "pack_id=20260903-05 seq=5 exp=1788572363",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:23",
+      "lastChecked": "01:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 01:23",
+    "expiresAt": "2026-09-05 01:39",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Chris Wright, the US Energy Secretary, stated that 17 million barrels of oil were exported through the Strait of Hormuz on Monday. This is the highest level of crude oil passage through this waterway since the start of the Iran war and the reduction of oil flow. The news was reported by Reuters.",
-        "time": "01:27",
-        "ts": 1788312473
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +910,21 @@
         "text": "Richard Marles, Australia's defense minister, said in Washington that Iran's action to restrict shipping in the Strait of Hormuz violates the UN convention and the passage must be reopened. He emphasized the importance of keeping the Strait of Hormuz open and restoring global fuel supply chains to normal. Marles also called for a reduction of tensions in the Middle East.",
         "time": "01:22",
         "ts": 1788398575
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "An emergency alert has been issued in Kuwait due to a security threat. People are advised to stay in safe places and avoid windows and open spaces. The alert was announced by Civil Defense and the Ministry of Interior.",
+        "time": "01:39",
+        "ts": 1788399541
       }
     ],
     "language": "en",
-    "packId": "20260903-04",
-    "sequence": 4,
+    "packId": "20260903-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:23"
+    "updatedAt": "01:39"
   },
   "verified": true
 }
