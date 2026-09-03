@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-44 seq=44 exp=1788606129",
+      "advancedStatus": "pack_id=20260903-45 seq=45 exp=1788606236",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:02",
+      "lastChecked": "11:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 11:02",
+    "expiresAt": "2026-09-05 11:03",
     "items": [
       {
         "channel": "harana",
@@ -882,14 +882,21 @@
         "text": "Saudi Arabia is building a factory near Riyadh to produce a drone similar to the Islamic Republic's \"Shahed.\" The \"Sky Wasp\" drone will be produced in cooperation with an American and a Saudi company. Its range has been announced to be up to 1,500 kilometers.",
         "time": "11:01",
         "ts": 1788433306
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video on social media shows long lines of cars waiting for gasoline in Mashhad. A citizen in the video sarcastically comments on the issued rulings for protesters, saying, \"Even if we swear, we become agents of Mossad.\"",
+        "time": "11:03",
+        "ts": 1788433414
       }
     ],
     "language": "en",
-    "packId": "20260903-44",
-    "sequence": 44,
+    "packId": "20260903-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:02"
+    "updatedAt": "11:03"
   },
   "verified": true
 }
