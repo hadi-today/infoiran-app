@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-32 seq=32 exp=1788599355",
+      "advancedStatus": "pack_id=20260903-33 seq=33 exp=1788599491",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:09",
+      "lastChecked": "09:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 09:09",
+    "expiresAt": "2026-09-05 09:11",
     "items": [
       {
         "channel": "iranintl",
@@ -875,14 +875,21 @@
         "text": "Family and friends of Milad Mianehkhah Monfaredi, a former youth player of Malavan club, held his 30th birthday celebration at his grave. Milad was killed on January 9, 2026, during the Iranian National Revolution in Bandar Anzali. He was shot by the suppressive forces of the Islamic Republic.",
         "time": "09:08",
         "ts": 1788426535
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Former parliament deputy speaker Ali Motahhari said that the Islamic Republic and the United States have no choice but to reach an understanding and agreement. He said the best option is to return to the agreement and that the US must be forced to do so. Motahhari also said that Trump's remarks about abandoning the agreement should not be taken seriously.",
+        "time": "09:11",
+        "ts": 1788426661
       }
     ],
     "language": "en",
-    "packId": "20260903-32",
-    "sequence": 32,
+    "packId": "20260903-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:09"
+    "updatedAt": "09:11"
   },
   "verified": true
 }
