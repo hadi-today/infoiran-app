@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-103 seq=103 exp=1788642466",
+      "advancedStatus": "pack_id=20260903-104 seq=104 exp=1788644477",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:07",
+      "lastChecked": "21:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 21:07",
+    "expiresAt": "2026-09-05 21:41",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,21 @@
         "text": "Pouya Idani, the Iranian chess grandmaster, has changed his federation to France. He cited unfulfilled promises and unpaid rewards by the Iranian Chess Federation as reasons for this decision. FIDE has confirmed the change, and Idani is now ranked fourth in France.",
         "time": "21:07",
         "ts": 1788469646
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Nouri al-Maliki opposed disarming armed groups in Iraq and called for organizing and controlling weapons instead of handing them over. He stated that after the deadline, armed groups will not surrender their weapons. This stance conflicts with the Iraqi government's plan to monopolize weapons under government control.",
+        "time": "21:40",
+        "ts": 1788471652
       }
     ],
     "language": "en",
-    "packId": "20260903-103",
-    "sequence": 103,
+    "packId": "20260903-104",
+    "sequence": 104,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:07"
+    "updatedAt": "21:41"
   },
   "verified": true
 }
