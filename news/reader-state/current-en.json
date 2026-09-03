@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-01 seq=1 exp=1788566514",
+      "advancedStatus": "pack_id=20260903-02 seq=2 exp=1788568135",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:01",
+      "lastChecked": "00:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 00:01",
+    "expiresAt": "2026-09-05 00:28",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Russian newspaper Izvestia described the intensification of US sanctions against the Islamic Republic as a sign of the lack of a long-term strategy by Trump. The newspaper stated that the US cannot focus solely on the Middle East and that the sanctions may destabilize global energy markets. It also predicted that the Islamic Republic will continue to receive support through third countries.",
-        "time": "00:17",
-        "ts": 1788308237
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Morad Veysi, a senior analyst at Iran International, said the US is combining economic pressure with military power against Iran. He referred to statements by US Treasury Secretary Scott Bessent as more significant. He questioned whether the US is effectively moving toward the overthrow of the Islamic Republic.",
-        "time": "00:17",
-        "ts": 1788308277
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Bahrain's news agency reported that the country's air defense systems tracked and destroyed Iranian drones over Bahrain. These systems are fully prepared to protect Bahrain's security.",
-        "time": "00:28",
-        "ts": 1788308882
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -945,14 +924,21 @@
         "text": "The Islamic Republic has added 11 more ships to the blacklist of vessels passing through the Strait of Hormuz. The total number of ships on this list has reached 56. Ships on this list may face fines, detention, or confiscation.",
         "time": "00:01",
         "ts": 1788393693
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ynet reported that oil tankers, with the support of the US Navy, mostly transit the Strait of Hormuz at night and with their automatic identification systems turned off to reduce the risk of attacks by the Islamic Republic. They then transfer their cargo to other ships in the Gulf of Oman.",
+        "time": "00:28",
+        "ts": 1788395309
       }
     ],
     "language": "en",
-    "packId": "20260903-01",
-    "sequence": 1,
+    "packId": "20260903-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:01"
+    "updatedAt": "00:28"
   },
   "verified": true
 }
