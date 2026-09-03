@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-76 seq=76 exp=1788624204",
+      "advancedStatus": "pack_id=20260903-77 seq=77 exp=1788625122",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:03",
+      "lastChecked": "16:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 16:03",
+    "expiresAt": "2026-09-05 16:18",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump, President of the United States, said in an interview with the 'Dan Patrick' podcast that the US now controls the Strait of Hormuz and destroyed 28 ships last night. He also claimed that the Islamic Republic was two weeks away from having a nuclear weapon, and if they had obtained it, Israel and the Middle East would have been destroyed and they would have attacked US cities.",
-        "time": "16:03",
-        "ts": 1788365012
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Mohsen Rezaei, Secretary of the Supreme National Security Council, announced that Iran will use a new strategy in the ongoing war. He warned that US efforts to exit the current situation will be futile. Rezaei said this new strategy will break the foundations of the US in the battlefield, diplomacy, and economic siege confrontation.",
-        "time": "16:16",
-        "ts": 1788365800
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -917,14 +903,21 @@
         "text": "A truck driver told Iran International in a video that the Islamic Republic is smuggling fuel to neighboring countries. This smuggling is done by land. According to him, this is the reason for the fuel shortage inside the country.",
         "time": "16:01",
         "ts": 1788451317
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US Central Command announced that more than 2,600 soldiers and marines are stationed on the USS Boxer warship in the Middle East. These forces are carrying out their operational duties alongside the amphibious mission of the Boxer. CENTCOM has shared images and details of the marines' activities on the ship.",
+        "time": "16:18",
+        "ts": 1788452290
       }
     ],
     "language": "en",
-    "packId": "20260903-76",
-    "sequence": 76,
+    "packId": "20260903-77",
+    "sequence": 77,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:03"
+    "updatedAt": "16:18"
   },
   "verified": true
 }
