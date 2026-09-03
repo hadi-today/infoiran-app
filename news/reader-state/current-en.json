@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-14 seq=14 exp=1788586597",
+      "advancedStatus": "pack_id=20260903-15 seq=15 exp=1788586735",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:36",
+      "lastChecked": "05:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 05:36",
+    "expiresAt": "2026-09-05 05:38",
     "items": [
       {
         "channel": "iranintl",
@@ -875,14 +875,21 @@
         "text": "The United Arab Emirates condemned the Islamic Republic's attack on a Saudi oil tanker in the Strait of Hormuz, which resulted in the death of two sailors. The UAE Foreign Ministry also condemned missile attacks by the Islamic Republic on Bahrain, Kuwait, Jordan, and the Kurdistan Region of Iraq. Previously, several regional countries had described these attacks as a threat to regional security.",
         "time": "05:36",
         "ts": 1788413774
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Farzin Nadimi commented on the extension of the US forces' mission in the region until 2027. He said maintaining about 50,000 US troops and military equipment indicates the Pentagon's readiness to continue its military presence. This was stated in an interview with Iran International.",
+        "time": "05:38",
+        "ts": 1788413915
       }
     ],
     "language": "en",
-    "packId": "20260903-14",
-    "sequence": 14,
+    "packId": "20260903-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:36"
+    "updatedAt": "05:38"
   },
   "verified": true
 }
