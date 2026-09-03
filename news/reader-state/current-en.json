@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-36 seq=36 exp=1788600604",
+      "advancedStatus": "pack_id=20260903-37 seq=37 exp=1788600879",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:30",
+      "lastChecked": "09:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 09:30",
+    "expiresAt": "2026-09-05 09:34",
     "items": [
       {
         "channel": "iranintl",
@@ -882,14 +882,21 @@
         "text": "Citizens have reported water shortages and tree drying in Chitgar Park. Reza Bayani, the director general of natural resources in Tehran province, announced the formation of a legal case regarding the cutting of thousands of trees in the park. The issue is currently under investigation.",
         "time": "09:29",
         "ts": 1788427784
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Babak Sadeghi Mohseni's sister joined the memorial campaign \"One Candle, One Name, One Memory\" and called for preserving the memory of the immortal. Babak Sadeghi Mohseni died on January 9, 2026, in Tehran from a direct gunshot. He was born in 1994 in Karaj and lived in Hamedan.",
+        "time": "09:34",
+        "ts": 1788428053
       }
     ],
     "language": "en",
-    "packId": "20260903-36",
-    "sequence": 36,
+    "packId": "20260903-37",
+    "sequence": 37,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:30"
+    "updatedAt": "09:34"
   },
   "verified": true
 }
