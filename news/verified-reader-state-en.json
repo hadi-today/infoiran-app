@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-71 seq=71 exp=1788621154",
+      "advancedStatus": "pack_id=20260903-72 seq=72 exp=1788621607",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:12",
+      "lastChecked": "15:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 15:12",
+    "expiresAt": "2026-09-05 15:20",
     "items": [
       {
         "channel": "harana",
@@ -903,14 +903,21 @@
         "text": "Saeed Ghaseminejad stated that the top priority after passing the Islamic Republic is to rebuild the country's security system. This reconstruction will include military, food, energy, and infrastructure security. Efforts will also be made to lift all sanctions imposed on Iran.",
         "time": "15:12",
         "ts": 1788448328
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump, the US President, criticized media outlets on Truth Social for failing to accurately report on US military operations in Iran. He stated that the US possesses an almost unlimited supply of medium to high-quality ammunition and is currently producing ammunition at an unprecedented level. Trump also noted that the Joe Biden administration provided Ukraine with significantly more ammunition without charge.",
+        "time": "15:19",
+        "ts": 1788448785
       }
     ],
     "language": "en",
-    "packId": "20260903-71",
-    "sequence": 71,
+    "packId": "20260903-72",
+    "sequence": 72,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:12"
+    "updatedAt": "15:20"
   },
   "verified": true
 }
