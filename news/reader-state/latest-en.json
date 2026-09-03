@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-11 seq=11 exp=1788584968",
+      "advancedStatus": "pack_id=20260903-12 seq=12 exp=1788585889",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:09",
+      "lastChecked": "05:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 05:09",
+    "expiresAt": "2026-09-05 05:24",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "China has amended its national defense mobilization law and increased domestic readiness for wartime conditions. Taiwan is testing ways to break the blockade and maintain the supply of essential goods. The number of Chinese ships around Taiwan reached a record 244 in July, and tensions have extended to the Pacific leaders' summit.",
-        "time": "05:10",
-        "ts": 1788325857
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mehdi Sarami Far stated that the Islamic Republic conducts part of its cyber operations through contracting companies and cybercriminal networks. Changing the names of companies like Mabna and Project Symbol does not change the true identity of the hackers. These networks operate simultaneously for government institutions and financial crimes against the public.",
-        "time": "05:12",
-        "ts": 1788325963
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -868,14 +854,21 @@
         "text": "Scott Bessent, the US Treasury Secretary, warned that Washington's message to all countries, including Russia, is to distance themselves from the Islamic Republic and not support Tehran. This message aims to prevent international support for the Islamic Republic. The report was prepared by Maryam Rahmati from Iran International.",
         "time": "05:09",
         "ts": 1788412145
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Sadegh Beigdelie said the short-term goal of the US is to weaken the Islamic Republic and force Tehran to reach an agreement. He added that in the long term, the US seeks to change Iran's position in the global order. Beigdelie also pointed to signs of economic collapse in Iran.",
+        "time": "05:24",
+        "ts": 1788413066
       }
     ],
     "language": "en",
-    "packId": "20260903-11",
-    "sequence": 11,
+    "packId": "20260903-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:09"
+    "updatedAt": "05:24"
   },
   "verified": true
 }
