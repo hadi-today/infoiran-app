@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-65 seq=65 exp=1788617740",
+      "advancedStatus": "pack_id=20260903-66 seq=66 exp=1788617943",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:15",
+      "lastChecked": "14:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 14:15",
+    "expiresAt": "2026-09-05 14:19",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ingrid Alexandra, the Crown Princess of Norway, signed an oath of loyalty to the constitution following the death of her grandfather, King Harald. Her father, King Haakon, also took an oath in a parliamentary ceremony. Masoud Qarakhani, the Iranian-Norwegian parliament speaker, presided over the ceremony.",
-        "time": "14:18",
-        "ts": 1788358708
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "A human rights group in Germany has filed a criminal complaint. They have called for an investigation into crimes against humanity in Iran. This action was taken by the human rights group.",
         "time": "14:15",
         "ts": 1788444912
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Mohammad Reza Aref, the First Vice President of the Islamic Republic of Iran, warned on Thursday, 12 Shahrivar, that 'dark months' await the United States economy and called on the American people to stockpile fuel and gasoline. He emphasized that 'America's new crimes' have changed its defense doctrine to 'unbalanced' and 'multi-layered' tactics.",
+        "time": "14:18",
+        "ts": 1788445116
       }
     ],
     "language": "en",
-    "packId": "20260903-65",
-    "sequence": 65,
+    "packId": "20260903-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:15"
+    "updatedAt": "14:19"
   },
   "verified": true
 }
