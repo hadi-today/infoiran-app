@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-111 seq=111 exp=1788647218",
+      "advancedStatus": "pack_id=20260903-112 seq=112 exp=1788647573",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:26",
+      "lastChecked": "22:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 22:26",
+    "expiresAt": "2026-09-05 22:32",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Traders report a 30 to 50 percent decrease in sea imports from China due to increased transportation risks. Media reports indicate a reduction in supply and a sharp rise in prices of goods such as mobile phones and auto spare parts in Iran. This report was prepared by Niloufar Mansouri from Iran International.",
-        "time": "22:26",
-        "ts": 1788387997
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -882,14 +875,21 @@
         "text": "The New York Post reported on Thursday, 12 Shahrivar, quoting a senior regional official, that Oman has rejected the Islamic Republic's proposal for joint collection of service fees from commercial ships passing through the Strait of Hormuz. The official said Muscat did not even agree to voluntary collection of environmental and security fees. A US official also said that the terms of the proposed agreement between Iran and Oman for revenue sharing have not been finalized.",
         "time": "22:26",
         "ts": 1788474396
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Donald Trump stated that the US has full control over the Strait of Hormuz and targets 30 to 40 Iranian boats every night. He also said Iran's economy is collapsing with inflation possibly reaching 300 percent. Trump claimed Iran was only two to four weeks away from obtaining nuclear weapons.",
+        "time": "22:32",
+        "ts": 1788474747
       }
     ],
     "language": "en",
-    "packId": "20260903-111",
-    "sequence": 111,
+    "packId": "20260903-112",
+    "sequence": 112,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:26"
+    "updatedAt": "22:32"
   },
   "verified": true
 }
