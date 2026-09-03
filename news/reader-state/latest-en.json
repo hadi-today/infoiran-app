@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-03 seq=3 exp=1788570162",
+      "advancedStatus": "pack_id=20260903-04 seq=4 exp=1788571399",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:02",
+      "lastChecked": "01:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 01:02",
+    "expiresAt": "2026-09-05 01:23",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Kuwaiti government has issued a decree allowing loans to be taken from the sovereign wealth fund with assets exceeding one trillion dollars to support financial resources. Repayment of these loans is prioritized if a budget surplus occurs, and cancellation or forgiveness without legal authorization is prohibited. These reforms are part of Kuwait's financial and legal changes.",
-        "time": "01:08",
-        "ts": 1788311331
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Hossein Marashi stated that Beijing has set conditions for Qalibaf's trip to China. These conditions include reopening the Strait of Hormuz, not charging tolls, and resolving issues with Saudi Arabia and the United States. Qalibaf has been appointed as Iran's special representative for China affairs.",
-        "time": "01:15",
-        "ts": 1788311754
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US targeted two Iranian oil tankers in attacks on Tuesday. This attack is part of the new \"tanker for tanker\" policy approved by Donald Trump. The aim of these attacks is stated to reduce Tehran's threat against commercial ships in the Strait of Hormuz.",
-        "time": "01:16",
-        "ts": 1788311766
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -931,14 +910,21 @@
         "text": "Donald Trump stated that the US has very strong control over the Strait of Hormuz and millions of barrels of oil pass through it daily. He said the Islamic Republic fires drones and missiles that the US shoots down and has targeted Iran's missile systems. Trump also reported a missile attack on a US base in Jordan and the American forces' response.",
         "time": "01:02",
         "ts": 1788397342
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Richard Marles, Australia's defense minister, said in Washington that Iran's action to restrict shipping in the Strait of Hormuz violates the UN convention and the passage must be reopened. He emphasized the importance of keeping the Strait of Hormuz open and restoring global fuel supply chains to normal. Marles also called for a reduction of tensions in the Middle East.",
+        "time": "01:22",
+        "ts": 1788398575
       }
     ],
     "language": "en",
-    "packId": "20260903-03",
-    "sequence": 3,
+    "packId": "20260903-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:02"
+    "updatedAt": "01:23"
   },
   "verified": true
 }
