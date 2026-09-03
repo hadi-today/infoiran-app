@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-72 seq=72 exp=1788621607",
+      "advancedStatus": "pack_id=20260903-73 seq=73 exp=1788621686",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:20",
+      "lastChecked": "15:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 15:20",
+    "expiresAt": "2026-09-05 15:21",
     "items": [
       {
         "channel": "harana",
@@ -910,14 +910,21 @@
         "text": "Donald Trump, the US President, criticized media outlets on Truth Social for failing to accurately report on US military operations in Iran. He stated that the US possesses an almost unlimited supply of medium to high-quality ammunition and is currently producing ammunition at an unprecedented level. Trump also noted that the Joe Biden administration provided Ukraine with significantly more ammunition without charge.",
         "time": "15:19",
         "ts": 1788448785
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Donald Trump stated that the US has virtually unlimited amounts of medium-to-high-quality munitions and is producing them at an unprecedented level. He said the munitions are being kept for the United States, but sales to allies will resume soon. Trump also claimed the Biden administration gave hundreds of billions of dollars in free munitions to Ukraine.",
+        "time": "15:20",
+        "ts": 1788448828
       }
     ],
     "language": "en",
-    "packId": "20260903-72",
-    "sequence": 72,
+    "packId": "20260903-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:20"
+    "updatedAt": "15:21"
   },
   "verified": true
 }
