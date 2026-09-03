@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-27 seq=27 exp=1788597535",
+      "advancedStatus": "pack_id=20260903-28 seq=28 exp=1788597914",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:38",
+      "lastChecked": "08:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 08:38",
+    "expiresAt": "2026-09-05 08:45",
     "items": [
       {
         "channel": "iranintl",
@@ -847,14 +847,21 @@
         "text": "The price of the British pound in Iran's free market surpassed 300,000 tomans for the first time, reaching 300,280 tomans. The dollar was traded above 222,000 tomans and the euro above 258,000 tomans. Additionally, the price of the Emami coin exceeded 235 million tomans.",
         "time": "08:38",
         "ts": 1788424712
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Tehran's prosecutor announced charges against the staff and officials of Didar News for publishing false and insulting content. A legal case has been filed regarding this matter. The charges relate to one of the internet programs of this media outlet.",
+        "time": "08:44",
+        "ts": 1788425091
       }
     ],
     "language": "en",
-    "packId": "20260903-27",
-    "sequence": 27,
+    "packId": "20260903-28",
+    "sequence": 28,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:38"
+    "updatedAt": "08:45"
   },
   "verified": true
 }
