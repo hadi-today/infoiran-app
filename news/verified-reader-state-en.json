@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-29 seq=29 exp=1788598009",
+      "advancedStatus": "pack_id=20260903-30 seq=30 exp=1788598652",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:46",
+      "lastChecked": "08:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 08:46",
+    "expiresAt": "2026-09-05 08:57",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Islamic Republic of Iran is producing a documentary about the asylum of Iranian women's national football team members after the Asian Championship. The football federation has called players to a camp to film this documentary. This project has delayed the start of the women's Premier League by one week.",
-        "time": "08:48",
-        "ts": 1788338905
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -861,14 +854,21 @@
         "text": "After the draw in the match against Persepolis, Esteghlal club officially complained to the referees committee. Esteghlal pointed to three incidents where Persepolis players should have been sent off for fouls. The club also protested the referee's performance and the silence of the VAR room, requesting serious action from the referees committee.",
         "time": "08:46",
         "ts": 1788425180
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iranian army's public relations claimed attacks on the Ahmad Al-Jaber base in Kuwait and the Al-Minhad base in the UAE using missiles and drones. These attacks are said to continue against US bases. Any US attack will be met with a hard and devastating response.",
+        "time": "08:57",
+        "ts": 1788425827
       }
     ],
     "language": "en",
-    "packId": "20260903-29",
-    "sequence": 29,
+    "packId": "20260903-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:46"
+    "updatedAt": "08:57"
   },
   "verified": true
 }
