@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-112 seq=112 exp=1788647573",
+      "advancedStatus": "pack_id=20260903-113 seq=113 exp=1788647650",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:32",
+      "lastChecked": "22:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 22:32",
+    "expiresAt": "2026-09-05 22:34",
     "items": [
       {
         "channel": "iranintl",
@@ -882,14 +882,21 @@
         "text": "Donald Trump stated that the US has full control over the Strait of Hormuz and targets 30 to 40 Iranian boats every night. He also said Iran's economy is collapsing with inflation possibly reaching 300 percent. Trump claimed Iran was only two to four weeks away from obtaining nuclear weapons.",
         "time": "22:32",
         "ts": 1788474747
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reuters reported that the US naval blockade and sanctions have severely limited Iran's access to international financial networks. The cost of public necessities has sharply increased, and Iran's gasoline reserves have dropped to about two months. The commander of the IRGC emphasized retaliation against the US attack, while Ali Motahari considered returning to the agreement the best solution.",
+        "time": "22:33",
+        "ts": 1788474831
       }
     ],
     "language": "en",
-    "packId": "20260903-112",
-    "sequence": 112,
+    "packId": "20260903-113",
+    "sequence": 113,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:32"
+    "updatedAt": "22:34"
   },
   "verified": true
 }
