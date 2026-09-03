@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-61 seq=61 exp=1788616333",
+      "advancedStatus": "pack_id=20260903-62 seq=62 exp=1788616412",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:52",
+      "lastChecked": "13:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 13:52",
+    "expiresAt": "2026-09-05 13:53",
     "items": [
       {
         "channel": "harana",
@@ -924,14 +924,21 @@
         "text": "The funeral ceremony of Farahnaz Espad, a journalist and presenter at Iran International, was held in London. She passed away at the age of 37 after battling cancer for two years. Espad had been collaborating with Iran International for eight years.",
         "time": "13:52",
         "ts": 1788443523
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Reza Aref stated that recent US actions against Iran have changed the security equations and defense doctrine of the Islamic Republic. He said Iran's response will be disproportionate, multilayered, and security-denying to the aggressor. He also warned that dark months await the US economy.",
+        "time": "13:52",
+        "ts": 1788443574
       }
     ],
     "language": "en",
-    "packId": "20260903-61",
-    "sequence": 61,
+    "packId": "20260903-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:52"
+    "updatedAt": "13:53"
   },
   "verified": true
 }
