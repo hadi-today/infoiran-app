@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-49 seq=49 exp=1788608021",
+      "advancedStatus": "pack_id=20260903-50 seq=50 exp=1788609158",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:33",
+      "lastChecked": "11:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 11:33",
+    "expiresAt": "2026-09-05 11:52",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The 107th derby between Esteghlal and Persepolis will be held at the Naghshe Jahan Stadium in Isfahan. Some fans who were killed during the National Iranian Revolution are absent from this match. This derby serves as a reminder of those who could have been present in the stands.",
-        "time": "11:36",
-        "ts": 1788348998
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +910,21 @@
         "text": "The sister of Mojtaba Roostaei lit a candle in memory of her brother and the missing persons of Malayer by joining the campaign \"One Candle, One Name, One Memory.\" Mojtaba Roostaei was killed by officers' gunfire on January 9, 2026.",
         "time": "11:33",
         "ts": 1788435193
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Tasnim News Agency reported the killing of three Iranian army pilots in the US attack on Tuesday night. Two of the pilots were from the Navy and one from the Air Force. The attacks targeted various areas in Iran, including Jiroft airport and cities in Khuzestan.",
+        "time": "11:52",
+        "ts": 1788436325
       }
     ],
     "language": "en",
-    "packId": "20260903-49",
-    "sequence": 49,
+    "packId": "20260903-50",
+    "sequence": 50,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:33"
+    "updatedAt": "11:52"
   },
   "verified": true
 }
