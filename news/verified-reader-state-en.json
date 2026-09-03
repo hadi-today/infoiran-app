@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-63 seq=63 exp=1788616982",
+      "advancedStatus": "pack_id=20260903-64 seq=64 exp=1788617352",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:03",
+      "lastChecked": "14:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 14:03",
+    "expiresAt": "2026-09-05 14:09",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "A citizen reported in a video to Iran International that drug prices in Iran have doubled within one month. This highlights the ongoing inflation in the country. The report concerns the economic and pharmaceutical situation in Iran.",
         "time": "14:02",
         "ts": 1788444156
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Spanish police clashed with protesters in Madrid on Wednesday, September 2, and dispersed them. The protesters demanded stricter border controls. Official statistics on detainees or injuries have not yet been released.",
+        "time": "14:08",
+        "ts": 1788444524
       }
     ],
     "language": "en",
-    "packId": "20260903-63",
-    "sequence": 63,
+    "packId": "20260903-64",
+    "sequence": 64,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:03"
+    "updatedAt": "14:09"
   },
   "verified": true
 }
