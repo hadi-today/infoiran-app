@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-80 seq=80 exp=1788626860",
+      "advancedStatus": "pack_id=20260903-81 seq=81 exp=1788627350",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:47",
+      "lastChecked": "16:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-03",
-    "expiresAt": "2026-09-05 16:47",
+    "expiresAt": "2026-09-05 16:55",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ahmad Alavi, an economist, stated that the increase in the dollar rate is due to structural economic problems, reduced exports and imports, and disruptions in foreign trade. He pointed to decreased imports of goods and raw materials caused by disruptions in maritime trade, which has intensified inflation and price increases. According to him, this trend will continue until economic and political conditions change.",
-        "time": "16:49",
-        "ts": 1788367757
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -896,14 +889,21 @@
         "text": "On the night of 10 Shahrivar 1405, concurrent with US airstrikes on Sirik, an explosion destroyed a house in Bandar-e Kuhestak where a wedding was taking place. According to reports, five people, including a four-year-old child, died and 65 were injured. Evidence such as CCTV footage and a CENTCOM statement strengthens the attribution to the US, but it is still unclear what projectile hit the house.",
         "time": "16:47",
         "ts": 1788454025
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reuters, citing three senior sources in the Islamic Republic, reported that economic pressure from the naval blockade and US sanctions has reached a level that is difficult for the government to bear. Iran's crude oil loading has dropped to about 260,000 barrels per day this month. Additionally, the United Arab Emirates has suspended all trade and financial transactions with the Islamic Republic.",
+        "time": "16:55",
+        "ts": 1788454522
       }
     ],
     "language": "en",
-    "packId": "20260903-80",
-    "sequence": 80,
+    "packId": "20260903-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:47"
+    "updatedAt": "16:55"
   },
   "verified": true
 }
