@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-25 seq=25 exp=1788683615",
+      "advancedStatus": "pack_id=20260904-26 seq=26 exp=1788683752",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:33",
+      "lastChecked": "08:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 08:33",
+    "expiresAt": "2026-09-06 08:35",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Adel Matlibnejad's sister commemorated him in a video message. Matlibnejad was killed on January 9, 2026, in Baharestan Square, Isfahan, by three bullets. His body was delivered a week later after the family gave a commitment.",
-        "time": "08:33",
-        "ts": 1788424430
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -882,14 +875,21 @@
         "text": "Saeed Bashirtash stated at the 'Free Iran and the European Union' conference that organizing political parties is important for the transition from the Islamic Republic. He added that parties can support people during protests. He also emphasized the necessity of strengthening parties for the post-Islamic Republic era.",
         "time": "08:33",
         "ts": 1788510788
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows that the establishment of a checkpoint in Pardis on the evening of Thursday, September 2, caused heavy traffic and inconvenience for people. This incident was reported by Iran International.",
+        "time": "08:35",
+        "ts": 1788510928
       }
     ],
     "language": "en",
-    "packId": "20260904-25",
-    "sequence": 25,
+    "packId": "20260904-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:33"
+    "updatedAt": "08:35"
   },
   "verified": true
 }
