@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-23 seq=23 exp=1788682684",
+      "advancedStatus": "pack_id=20260904-24 seq=24 exp=1788683230",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:18",
+      "lastChecked": "08:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 08:18",
+    "expiresAt": "2026-09-06 08:27",
     "items": [
       {
         "channel": "iranintl",
@@ -868,14 +868,21 @@
         "text": "Yisrael Katz stated that Israel will not withdraw from the security zone in southern Lebanon until Hezbollah is disarmed throughout Lebanon. He considered the capture of the Ali Taher heights an important step in consolidating Israeli control over the area. The decision to capture these heights was made after discovering Hezbollah's command tunnels.",
         "time": "08:17",
         "ts": 1788509862
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hamidreza Haji Babaei, the deputy speaker of the parliament, said that the economic interests of the US in the region should be targeted and US bases should be hit. He also emphasized that US sanctions make Iran stronger. These remarks were made in response to US sanctions.",
+        "time": "08:26",
+        "ts": 1788510409
       }
     ],
     "language": "en",
-    "packId": "20260904-23",
-    "sequence": 23,
+    "packId": "20260904-24",
+    "sequence": 24,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:18"
+    "updatedAt": "08:27"
   },
   "verified": true
 }
