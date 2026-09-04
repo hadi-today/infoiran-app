@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-56 seq=56 exp=1788700751",
+      "advancedStatus": "pack_id=20260904-57 seq=57 exp=1788700877",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:19",
+      "lastChecked": "13:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 13:19",
+    "expiresAt": "2026-09-06 13:21",
     "items": [
       {
         "channel": "iranintl",
@@ -875,14 +875,21 @@
         "text": "Mohammad Nabi Mousavi-Fard, the Friday prayer leader of Ahvaz, stated that the Islamic Republic has full control over regional movements and will not reopen the Strait of Hormuz. He emphasized that Iran's resolve to cut off America's influence in the region is strong and unbreakable. He also said that the Iranian people will stand firm against any excess demands.",
         "time": "13:18",
         "ts": 1788527927
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The head of the National Pharmacists Association announced that the country faces a shortage of about 400 types of medicine. Among these, 90 essential medicines have a definite shortage and 20 medicines are completely unavailable. Economic problems and the removal of preferential currency are the main reasons for these shortages.",
+        "time": "13:20",
+        "ts": 1788528050
       }
     ],
     "language": "en",
-    "packId": "20260904-56",
-    "sequence": 56,
+    "packId": "20260904-57",
+    "sequence": 57,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:19"
+    "updatedAt": "13:21"
   },
   "verified": true
 }
