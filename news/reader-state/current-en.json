@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-49 seq=49 exp=1788698201",
+      "advancedStatus": "pack_id=20260904-50 seq=50 exp=1788698339",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:36",
+      "lastChecked": "12:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 12:36",
+    "expiresAt": "2026-09-06 12:38",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,21 @@
         "text": "A citizen reported to Iran International that the drug Tiotropium prescribed for their lung disease is not available with insurance and must be purchased on the free market for 1.7 million tomans.",
         "time": "12:36",
         "ts": 1788525375
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Arshia Barari, a 22-year-old karateka and fitness champion, was killed during the protests of Dey 1404. He was a representative of the Kyokushin style and a self-defense coach in Zanjan province. He was also an official trainer of search and rescue dogs.",
+        "time": "12:38",
+        "ts": 1788525514
       }
     ],
     "language": "en",
-    "packId": "20260904-49",
-    "sequence": 49,
+    "packId": "20260904-50",
+    "sequence": 50,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:36"
+    "updatedAt": "12:38"
   },
   "verified": true
 }
