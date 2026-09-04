@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-12 seq=12 exp=1788676888",
+      "advancedStatus": "pack_id=20260904-13 seq=13 exp=1788677140",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:41",
+      "lastChecked": "06:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 06:41",
+    "expiresAt": "2026-09-06 06:45",
     "items": [
       {
         "channel": "iranintl",
@@ -847,14 +847,21 @@
         "text": "Erfan Ghanei-Fard stated that regime change in Iran has become part of Israel's security doctrine. He added that the collapse of the Islamic Republic requires multilayered pressure, including disruption of command structures and weakening of the repression apparatus. These measures would create conditions for internal protests and divisions within the government.",
         "time": "06:41",
         "ts": 1788504066
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shamkhal Jafari, a commander of the Khatam al-Anbiya Air Defense Headquarters, announced that the headquarters will take actions against the enemy in the future that will cause surprise. He said the future behavior of this headquarters will confuse and astonish the enemy.",
+        "time": "06:45",
+        "ts": 1788504315
       }
     ],
     "language": "en",
-    "packId": "20260904-12",
-    "sequence": 12,
+    "packId": "20260904-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:41"
+    "updatedAt": "06:45"
   },
   "verified": true
 }
