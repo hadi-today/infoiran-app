@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-38 seq=38 exp=1788690834",
+      "advancedStatus": "pack_id=20260904-39 seq=39 exp=1788690929",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:33",
+      "lastChecked": "10:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 10:33",
+    "expiresAt": "2026-09-06 10:35",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "A citizen stated in a video that their home heating package has been broken for four months and they cannot afford to repair it. They have to heat water in a barrel for their children to bathe.",
         "time": "10:32",
         "ts": 1788517953
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Khatami, the temporary Friday prayer leader of Tehran, said economic pressure aims to create a gap between the people and the system and weaken the front of truth. He added that these pressures have a long history and will ultimately lead to the defeat of the enemies. Khatami urged people to do whatever they can to help the Islamic Republic.",
+        "time": "10:34",
+        "ts": 1788518045
       }
     ],
     "language": "en",
-    "packId": "20260904-38",
-    "sequence": 38,
+    "packId": "20260904-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:33"
+    "updatedAt": "10:35"
   },
   "verified": true
 }
