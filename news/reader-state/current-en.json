@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-62 seq=62 exp=1788703712",
+      "advancedStatus": "pack_id=20260904-63 seq=63 exp=1788703833",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:08",
+      "lastChecked": "14:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 14:08",
+    "expiresAt": "2026-09-06 14:10",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Spanish police clashed with protesters in Madrid on Wednesday, September 2, and dispersed them. The protesters demanded stricter border controls. Official statistics on detainees or injuries have not yet been released.",
-        "time": "14:08",
-        "ts": 1788444524
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -868,14 +861,21 @@
         "text": "The Minister of Education emphasized the continuation of in-person schooling even during wartime. He stated that Iranian schools will continue in-person activities even under the most severe conditions. The enemy aims to shut down education in the country.",
         "time": "14:08",
         "ts": 1788530888
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Ali Shahriari said that repaying Iran's debt in the form of food and medicine is wrong and Iran should decide on its financial resources. He emphasized that the Islamic Republic and the IRGC Navy will remain in control of the Strait of Hormuz and will not allow any new passage to be created. Shahriari also stated that the Islamic Republic will not give up its right to nuclear enrichment.",
+        "time": "14:10",
+        "ts": 1788531008
       }
     ],
     "language": "en",
-    "packId": "20260904-62",
-    "sequence": 62,
+    "packId": "20260904-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:08"
+    "updatedAt": "14:10"
   },
   "verified": true
 }
