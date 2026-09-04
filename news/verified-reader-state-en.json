@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-50 seq=50 exp=1788698339",
+      "advancedStatus": "pack_id=20260904-51 seq=51 exp=1788698906",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:38",
+      "lastChecked": "12:48",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 12:38",
+    "expiresAt": "2026-09-06 12:48",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "Arshia Barari, a 22-year-old karateka and fitness champion, was killed during the protests of Dey 1404. He was a representative of the Kyokushin style and a self-defense coach in Zanjan province. He was also an official trainer of search and rescue dogs.",
         "time": "12:38",
         "ts": 1788525514
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Akrami-Nia, spokesperson for the Islamic Republic of Iran Army, stated that Tehran's military doctrine has shifted toward \"preemptive operations.\" Operation \"Thunderbolt\" was carried out in three stages using Fath missiles and Arash-2 drones equipped with artificial intelligence, targeting American bases from Jordan to the UAE. He emphasized that they will stand firm until the Americans leave the region.",
+        "time": "12:47",
+        "ts": 1788526078
       }
     ],
     "language": "en",
-    "packId": "20260904-50",
-    "sequence": 50,
+    "packId": "20260904-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:38"
+    "updatedAt": "12:48"
   },
   "verified": true
 }
