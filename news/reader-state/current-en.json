@@ -1,27 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260903-122 seq=122 exp=1788652289",
+      "advancedStatus": "pack_id=20260904-01 seq=1 exp=1788653255",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:51",
+      "lastChecked": "00:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-09-03",
-    "expiresAt": "2026-09-05 23:51",
+    "date": "2026-09-04",
+    "expiresAt": "2026-09-06 00:07",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Islamic Republic has added 11 more ships to the blacklist of vessels passing through the Strait of Hormuz. The total number of ships on this list has reached 56. Ships on this list may face fines, detention, or confiscation.",
-        "time": "00:01",
-        "ts": 1788393693
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -882,14 +875,21 @@
         "text": "Yemen's legitimate government forces recaptured military positions in the Al-Tuwair front in the Maqbanah area of Taiz province from the Houthis. Clashes between government forces and Houthis continue in the Jabal Dabas axis. This report was published by Al Hadath.",
         "time": "23:51",
         "ts": 1788479467
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "South Korea is preparing to send military equipment to help secure freedom of navigation in the Strait of Hormuz. This action requires parliamentary approval and may begin by the end of the year. The South Korean presidential office stated that no final decision has been made yet.",
+        "time": "00:07",
+        "ts": 1788480430
       }
     ],
     "language": "en",
-    "packId": "20260903-122",
-    "sequence": 122,
+    "packId": "20260904-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:51"
+    "updatedAt": "00:07"
   },
   "verified": true
 }
