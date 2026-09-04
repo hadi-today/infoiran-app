@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-108 seq=108 exp=1788733833",
+      "advancedStatus": "pack_id=20260904-109 seq=109 exp=1788735114",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:30",
+      "lastChecked": "22:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 22:30",
+    "expiresAt": "2026-09-06 22:51",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Donald Trump stated that the US has full control over the Strait of Hormuz and targets 30 to 40 Iranian boats every night. He also said Iran's economy is collapsing with inflation possibly reaching 300 percent. Trump claimed Iran was only two to four weeks away from obtaining nuclear weapons.",
-        "time": "22:32",
-        "ts": 1788474747
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reuters reported that the US naval blockade and sanctions have severely limited Iran's access to international financial networks. The cost of public necessities has sharply increased, and Iran's gasoline reserves have dropped to about two months. The commander of the IRGC emphasized retaliation against the US attack, while Ali Motahari considered returning to the agreement the best solution.",
-        "time": "22:33",
-        "ts": 1788474831
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A human rights group in Iran filed a criminal complaint with the German Federal Prosecutor General, requesting a structural investigation into alleged crimes against humanity in Iran. Simultaneously, a meeting was held in Berlin with lawyers and human rights experts to explore legal avenues for holding perpetrators accountable. The complaint is based on Article 7 of the German International Crimes Act and is supported by extensive documentation.",
-        "time": "22:46",
-        "ts": 1788475561
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -854,14 +833,21 @@
         "text": "Ata Mohamad said that Israel's capture of Ali Al-Taher hill reduces Hezbollah's operational capabilities and gives Israel military superiority. This development may increase pressure on the Lebanese government to disarm Hezbollah. It also raises the likelihood of a long-term Israeli presence in the southern Lebanon buffer zone.",
         "time": "22:30",
         "ts": 1788561006
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The 107th derby between Esteghlal and Persepolis was the first match between the two teams after the massacre of the Iranian people on January 8 and 9, 2026. Many martyrs of January were supporters of these two teams. Mazdak Mirzaei interviewed Mohammad Taghavi on the Hat-trick program.",
+        "time": "22:51",
+        "ts": 1788562286
       }
     ],
     "language": "en",
-    "packId": "20260904-108",
-    "sequence": 108,
+    "packId": "20260904-109",
+    "sequence": 109,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:30"
+    "updatedAt": "22:51"
   },
   "verified": true
 }
