@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-01 seq=1 exp=1788653255",
+      "advancedStatus": "pack_id=20260904-02 seq=2 exp=1788654278",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:07",
+      "lastChecked": "00:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 00:07",
+    "expiresAt": "2026-09-06 00:24",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -758,13 +758,19 @@
         "text": "کره جنوبی در حال آماده‌سازی مقدمات اعزام تجهیزات نظامی برای کمک به آزادی کشتیرانی در تنگه هرمز است. این اقدام نیازمند دریافت مجوز پارلمان است و ممکن است تا پایان سال آغاز شود. دفتر ریاست‌جمهوری کره جنوبی اعلام کرده که تصمیم نهایی برای اعزام گرفته نشده است.",
         "time": "00:07",
         "ts": 1788480430
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "اسکات بسنت، وزیر خزانه‌داری آمریکا، اعلام کرد اتحادیه اروپا رسما به عملیات طرد اقتصادی جمهوری اسلامی پیوسته است. آمریکا از موضع قاطع اروپا در این زمینه قدردانی می‌کند. فشارهای مالی علیه جمهوری اسلامی تا قطع همه مسیرهای تامین مالی ادامه خواهد یافت.",
+        "time": "00:24",
+        "ts": 1788481454
       }
     ],
-    "packId": "20260904-01",
-    "sequence": 1,
+    "packId": "20260904-02",
+    "sequence": 2,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "00:07"
+    "updatedAt": "00:24"
   },
   "verified": true
 }
