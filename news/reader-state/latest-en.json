@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-61 seq=61 exp=1788703514",
+      "advancedStatus": "pack_id=20260904-62 seq=62 exp=1788703712",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:05",
+      "lastChecked": "14:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 14:05",
+    "expiresAt": "2026-09-06 14:08",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "A citizen posted a video showing the emptiness of the computer market in Noor Passage, Tehran. He said he had never seen the market like this before. The market is very slow.",
         "time": "14:04",
         "ts": 1788530685
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Minister of Education emphasized the continuation of in-person schooling even during wartime. He stated that Iranian schools will continue in-person activities even under the most severe conditions. The enemy aims to shut down education in the country.",
+        "time": "14:08",
+        "ts": 1788530888
       }
     ],
     "language": "en",
-    "packId": "20260904-61",
-    "sequence": 61,
+    "packId": "20260904-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:05"
+    "updatedAt": "14:08"
   },
   "verified": true
 }
