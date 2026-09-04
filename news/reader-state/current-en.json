@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-65 seq=65 exp=1788704106",
+      "advancedStatus": "pack_id=20260904-66 seq=66 exp=1788704694",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:15",
+      "lastChecked": "14:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 14:15",
+    "expiresAt": "2026-09-06 14:24",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A human rights group in Germany has filed a criminal complaint. They have called for an investigation into crimes against humanity in Iran. This action was taken by the human rights group.",
-        "time": "14:15",
-        "ts": 1788444912
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Mohammad Reza Aref, the First Vice President of the Islamic Republic of Iran, warned on Thursday, 12 Shahrivar, that 'dark months' await the United States economy and called on the American people to stockpile fuel and gasoline. He emphasized that 'America's new crimes' have changed its defense doctrine to 'unbalanced' and 'multi-layered' tactics.",
-        "time": "14:18",
-        "ts": 1788445116
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -882,14 +868,21 @@
         "text": "The US, along with the UK, France, and Germany, is seeking to pass a resolution at the IAEA Board of Governors to report Iran's nuclear violations to the UN Security Council. This resolution follows a previous one that accused Iran of incomplete cooperation. The resolution is set to be approved one day before Israeli attacks on Iran's nuclear sites.",
         "time": "14:14",
         "ts": 1788531283
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "In Iran, videos are being shared where people state the prices of their purchases and then dance. The prices are very high, close to half of the minimum monthly wage. Some individuals say they smile out of fear of accusations and punishment.",
+        "time": "14:24",
+        "ts": 1788531866
       }
     ],
     "language": "en",
-    "packId": "20260904-65",
-    "sequence": 65,
+    "packId": "20260904-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:15"
+    "updatedAt": "14:24"
   },
   "verified": true
 }
