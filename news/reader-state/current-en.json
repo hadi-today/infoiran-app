@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-74 seq=74 exp=1788709903",
+      "advancedStatus": "pack_id=20260904-75 seq=75 exp=1788710108",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:51",
+      "lastChecked": "15:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 15:51",
+    "expiresAt": "2026-09-06 15:55",
     "items": [
       {
         "channel": "iranintl",
@@ -875,14 +875,21 @@
         "text": "Several missiles were launched from Isfahan at different times today. The sound of missile launches has been reported. This event has been announced by local sources.",
         "time": "15:51",
         "ts": 1788537077
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The British institution Pearson announced that due to new US sanctions, PTE language tests and Australian medical exams for residents of Iran have been canceled. This decision has been effective since September 8, 2026, and candidates must provide proof of residence outside Iran. This affects students and doctors intending to migrate.",
+        "time": "15:54",
+        "ts": 1788537274
       }
     ],
     "language": "en",
-    "packId": "20260904-74",
-    "sequence": 74,
+    "packId": "20260904-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:51"
+    "updatedAt": "15:55"
   },
   "verified": true
 }
