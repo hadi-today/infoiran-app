@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-01 seq=1 exp=1788653255",
+      "advancedStatus": "pack_id=20260904-02 seq=2 exp=1788654278",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:07",
+      "lastChecked": "00:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 00:07",
+    "expiresAt": "2026-09-06 00:24",
     "items": [
       {
         "channel": "iranintl",
@@ -882,14 +882,21 @@
         "text": "South Korea is preparing to send military equipment to help secure freedom of navigation in the Strait of Hormuz. This action requires parliamentary approval and may begin by the end of the year. The South Korean presidential office stated that no final decision has been made yet.",
         "time": "00:07",
         "ts": 1788480430
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Scott Bessent, the US Treasury Secretary, announced that the European Union has officially joined the economic expulsion operation against the Islamic Republic. The US appreciates Europe's firm stance on this issue. Financial pressures against the Islamic Republic will continue until all remaining funding channels are cut off.",
+        "time": "00:24",
+        "ts": 1788481454
       }
     ],
     "language": "en",
-    "packId": "20260904-01",
-    "sequence": 1,
+    "packId": "20260904-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:07"
+    "updatedAt": "00:24"
   },
   "verified": true
 }
