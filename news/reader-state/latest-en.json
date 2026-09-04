@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-15 seq=15 exp=1788678288",
+      "advancedStatus": "pack_id=20260904-16 seq=16 exp=1788679288",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:04",
+      "lastChecked": "07:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 07:04",
+    "expiresAt": "2026-09-06 07:21",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Esmail Kowsari praised the nightly gatherings of government supporters in city squares. He said that despite economic problems, people come to the squares more energetically each night. This presence has disappointed the enemy.",
-        "time": "07:20",
-        "ts": 1788420039
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -868,14 +861,21 @@
         "text": "Babak Dadbakhsh, a political prisoner in Ardabil prison, ended his hunger strike after promises from officials. He ended his strike on Wednesday, 10 Shahrivar, after receiving assurances regarding his demands. Dadbakhsh was transferred to the prison infirmary and is under observation.",
         "time": "07:04",
         "ts": 1788505466
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amir Hamidi, a national security expert, stated that the US is applying economic pressure, limiting revenues, and diplomatic pressure to change Tehran's cost-benefit calculation. He warned that the risk of escalation is high. Each stage of increased tension could lead to a heavier response for the Islamic Republic.",
+        "time": "07:21",
+        "ts": 1788506460
       }
     ],
     "language": "en",
-    "packId": "20260904-15",
-    "sequence": 15,
+    "packId": "20260904-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:04"
+    "updatedAt": "07:21"
   },
   "verified": true
 }
