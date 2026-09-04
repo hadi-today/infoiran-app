@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-106 seq=106 exp=1788733619",
+      "advancedStatus": "pack_id=20260904-107 seq=107 exp=1788733689",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:26",
+      "lastChecked": "22:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 22:26",
+    "expiresAt": "2026-09-06 22:28",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The New York Post reported on Thursday, 12 Shahrivar, quoting a senior regional official, that Oman has rejected the Islamic Republic's proposal for joint collection of service fees from commercial ships passing through the Strait of Hormuz. The official said Muscat did not even agree to voluntary collection of environmental and security fees. A US official also said that the terms of the proposed agreement between Iran and Oman for revenue sharing have not been finalized.",
-        "time": "22:26",
-        "ts": 1788474396
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -847,14 +840,21 @@
         "text": "Donald Trump stated that the US military may soon target underground facilities at Mount Kalang-Gazla in Iran. At the same time, the IRGC launched missile attacks on Jordan. The Trump administration is developing a strategic plan for the post-war period with the Islamic Republic.",
         "time": "22:26",
         "ts": 1788560796
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US has simultaneously sanctioned a bank and two Turkish financial companies. Siamak Javadi stated that the US is targeting the financial architecture of the Islamic Republic through secondary sanctions. These measures may lead to reduced foreign currency revenues and increased pressure on Iran's economy.",
+        "time": "22:27",
+        "ts": 1788560868
       }
     ],
     "language": "en",
-    "packId": "20260904-106",
-    "sequence": 106,
+    "packId": "20260904-107",
+    "sequence": 107,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:26"
+    "updatedAt": "22:28"
   },
   "verified": true
 }
