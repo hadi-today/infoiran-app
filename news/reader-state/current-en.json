@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-89 seq=89 exp=1788714159",
+      "advancedStatus": "pack_id=20260904-90 seq=90 exp=1788714484",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:02",
+      "lastChecked": "17:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 17:02",
+    "expiresAt": "2026-09-06 17:08",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Armin, 19, his father Omid, 47, and his uncle Amir, 42, were killed on January 9, 2026, in Fardis. A citizen joined the campaign \"One Candle, One Name, One Memory\" in their memory. The video was sent to Iran International.",
-        "time": "17:04",
-        "ts": 1788455085
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "A group of Iranians living in Germany gathered in Hamburg on Friday, 13 Shahrivar. The gathering was in protest against the executions by the Islamic Republic. Videos of this gathering have been sent to Iran International.",
         "time": "17:02",
         "ts": 1788541331
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Bagher Ghalibaf, the Speaker of the Parliament, stated on X that China seeks to strengthen common security, an approach supported by the Islamic Republic. He emphasized that regional countries should work to establish a regional security structure. Ghalibaf added that the Islamic Republic is ready to cooperate in this effort.",
+        "time": "17:07",
+        "ts": 1788541659
       }
     ],
     "language": "en",
-    "packId": "20260904-89",
-    "sequence": 89,
+    "packId": "20260904-90",
+    "sequence": 90,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:02"
+    "updatedAt": "17:08"
   },
   "verified": true
 }
