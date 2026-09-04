@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-20 seq=20 exp=1788681693",
+      "advancedStatus": "pack_id=20260904-21 seq=21 exp=1788681834",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:01",
+      "lastChecked": "08:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 08:01",
+    "expiresAt": "2026-09-06 08:03",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "Leila Bahmani announced the development of a transitional justice program for the transition period. The program includes mechanisms to address human rights violations and examine the roles of individuals and institutions of the Islamic Republic. The planned components include a court, truth commission, investigation committee, and conditional amnesty.",
         "time": "08:01",
         "ts": 1788508871
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A memorial birthday ceremony for Mehran Salimi was held on Thursday, 12 Shahrivar, at his gravesite. Mehran Salimi was 27 years old and was killed on 18 Dey 1404 in Hashtgerd. A video of this ceremony was received by Iran International.",
+        "time": "08:03",
+        "ts": 1788509013
       }
     ],
     "language": "en",
-    "packId": "20260904-20",
-    "sequence": 20,
+    "packId": "20260904-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:01"
+    "updatedAt": "08:03"
   },
   "verified": true
 }
