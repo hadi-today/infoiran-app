@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-75 seq=75 exp=1788710108",
+      "advancedStatus": "pack_id=20260904-76 seq=76 exp=1788710227",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:55",
+      "lastChecked": "15:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 15:55",
+    "expiresAt": "2026-09-06 15:57",
     "items": [
       {
         "channel": "iranintl",
@@ -882,14 +882,21 @@
         "text": "The British institution Pearson announced that due to new US sanctions, PTE language tests and Australian medical exams for residents of Iran have been canceled. This decision has been effective since September 8, 2026, and candidates must provide proof of residence outside Iran. This affects students and doctors intending to migrate.",
         "time": "15:54",
         "ts": 1788537274
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Diesel prices in the United States have reached a new record, exceeding five and a half dollars per gallon. The American Automobile Association announced on Friday, September 4th, that the price of diesel in the country has now reached five dollars and eighty-five cents per gallon. The association attributed this price increase to disruptions in fuel transportation due to the war between the US and Iran.",
+        "time": "15:55",
+        "ts": 1788537338
       }
     ],
     "language": "en",
-    "packId": "20260904-75",
-    "sequence": 75,
+    "packId": "20260904-76",
+    "sequence": 76,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:55"
+    "updatedAt": "15:57"
   },
   "verified": true
 }
