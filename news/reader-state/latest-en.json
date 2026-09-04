@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-77 seq=77 exp=1788710318",
+      "advancedStatus": "pack_id=20260904-78 seq=78 exp=1788710398",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:58",
+      "lastChecked": "15:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 15:58",
+    "expiresAt": "2026-09-06 15:59",
     "items": [
       {
         "channel": "iranintl",
@@ -896,14 +896,21 @@
         "text": "Disputes between Iran and the US have intensified over the future of the Strait of Hormuz. The US has rejected returning to the Islamabad memorandum and demands a new agreement. Iran seeks to revive the agreement to reduce tensions and resume oil transit.",
         "time": "15:57",
         "ts": 1788537428
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Moslehi explained that delivering Iranian oil thousands of kilometers away from the Persian Gulf does not necessarily mean fresh shipments are passing through maritime routes. Some of Iran's oil was previously stored in floating tanks or Asian ports. Now, it is delivered to customers through ship-to-ship transfers and document changes.",
+        "time": "15:58",
+        "ts": 1788537539
       }
     ],
     "language": "en",
-    "packId": "20260904-77",
-    "sequence": 77,
+    "packId": "20260904-78",
+    "sequence": 78,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:58"
+    "updatedAt": "15:59"
   },
   "verified": true
 }
