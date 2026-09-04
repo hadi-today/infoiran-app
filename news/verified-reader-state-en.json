@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-64 seq=64 exp=1788703919",
+      "advancedStatus": "pack_id=20260904-65 seq=65 exp=1788704106",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:11",
+      "lastChecked": "14:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 14:11",
+    "expiresAt": "2026-09-06 14:15",
     "items": [
       {
         "channel": "harana",
@@ -875,14 +875,21 @@
         "text": "In the past week, 22 illegal hunters and wood traffickers were arrested, and over 6 hectares of natural resources were affected by fire. The air quality index in 31 cities was declared unhealthy and dangerous. Drought crisis, waste, and pollutants were also reported as other environmental issues.",
         "time": "14:11",
         "ts": 1788531096
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US, along with the UK, France, and Germany, is seeking to pass a resolution at the IAEA Board of Governors to report Iran's nuclear violations to the UN Security Council. This resolution follows a previous one that accused Iran of incomplete cooperation. The resolution is set to be approved one day before Israeli attacks on Iran's nuclear sites.",
+        "time": "14:14",
+        "ts": 1788531283
       }
     ],
     "language": "en",
-    "packId": "20260904-64",
-    "sequence": 64,
+    "packId": "20260904-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:11"
+    "updatedAt": "14:15"
   },
   "verified": true
 }
