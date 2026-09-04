@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-107 seq=107 exp=1788733689",
+      "advancedStatus": "pack_id=20260904-108 seq=108 exp=1788733833",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:28",
+      "lastChecked": "22:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 22:28",
+    "expiresAt": "2026-09-06 22:30",
     "items": [
       {
         "channel": "vahid online",
@@ -847,14 +847,21 @@
         "text": "The US has simultaneously sanctioned a bank and two Turkish financial companies. Siamak Javadi stated that the US is targeting the financial architecture of the Islamic Republic through secondary sanctions. These measures may lead to reduced foreign currency revenues and increased pressure on Iran's economy.",
         "time": "22:27",
         "ts": 1788560868
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ata Mohamad said that Israel's capture of Ali Al-Taher hill reduces Hezbollah's operational capabilities and gives Israel military superiority. This development may increase pressure on the Lebanese government to disarm Hezbollah. It also raises the likelihood of a long-term Israeli presence in the southern Lebanon buffer zone.",
+        "time": "22:30",
+        "ts": 1788561006
       }
     ],
     "language": "en",
-    "packId": "20260904-107",
-    "sequence": 107,
+    "packId": "20260904-108",
+    "sequence": 108,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:28"
+    "updatedAt": "22:30"
   },
   "verified": true
 }
