@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-43 seq=43 exp=1788694578",
+      "advancedStatus": "pack_id=20260904-44 seq=44 exp=1788694890",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:36",
+      "lastChecked": "11:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 11:36",
+    "expiresAt": "2026-09-06 11:41",
     "items": [
       {
         "channel": "vahid online",
@@ -840,14 +840,21 @@
         "text": "Keyvan Khosravani, an Iranian artist and fashion designer, passed away at the age of 88 in France. He was influential in environmental art, architecture, and fashion design in Iran and designed clothes for Empress Farah Pahlavi. Khosravani was also a pioneer in men's boutique fashion in Iran.",
         "time": "11:35",
         "ts": 1788521755
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Giorgia Meloni, Italy's Prime Minister, has set a new record for the longest uninterrupted government in the country's republican history with 1413 days in office. The previous record was held by Silvio Berlusconi's second government. Meloni's government's stability is unprecedented in a country known for frequent government changes.",
+        "time": "11:41",
+        "ts": 1788522060
       }
     ],
     "language": "en",
-    "packId": "20260904-43",
-    "sequence": 43,
+    "packId": "20260904-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:36"
+    "updatedAt": "11:41"
   },
   "verified": true
 }
