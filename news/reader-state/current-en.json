@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-85 seq=85 exp=1788713483",
+      "advancedStatus": "pack_id=20260904-86 seq=86 exp=1788713637",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:51",
+      "lastChecked": "16:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 16:51",
+    "expiresAt": "2026-09-06 16:53",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "Canada's Foreign Ministry condemned the threats against Iranian journalists abroad by the spokesperson of the Islamic Republic's armed forces. The ministry emphasized strong support for the right of media to operate freely and independently. This report was prepared by Mahsa Mortazavi.",
         "time": "16:50",
         "ts": 1788540658
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "In Iran, governmental methods to control citizens' behavior before actions occur have increased. These methods include summons, warnings, obtaining commitments, and threats of closure aimed at changing future behavior. This shift indicates a move from punishment after the act to preventive control of behaviors.",
+        "time": "16:53",
+        "ts": 1788540811
       }
     ],
     "language": "en",
-    "packId": "20260904-85",
-    "sequence": 85,
+    "packId": "20260904-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:51"
+    "updatedAt": "16:53"
   },
   "verified": true
 }
