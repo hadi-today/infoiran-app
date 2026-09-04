@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-31 seq=31 exp=1788687775",
+      "advancedStatus": "pack_id=20260904-32 seq=32 exp=1788687862",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:42",
+      "lastChecked": "09:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 09:42",
+    "expiresAt": "2026-09-06 09:44",
     "items": [
       {
         "channel": "harana",
@@ -847,14 +847,21 @@
         "text": "Alireza Raisi, Deputy Minister of Health, warned about the increase in positive COVID-19 cases and called for intensified health precautions. In a letter to medical universities, he emphasized continuous monitoring of viruses causing acute respiratory diseases. He also recommended mask use in enclosed spaces and readiness of gathering centers to face the upcoming wave.",
         "time": "09:42",
         "ts": 1788514954
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Rouhollah Rahimpour stated that Trump's remarks indicate Iran's nuclear activities are monitored by the US. He added that if Iran rebuilds its enrichment program, it would cross a red line for the US and Israel. In that case, the likelihood of a military attack on Iran's nuclear program would increase.",
+        "time": "09:43",
+        "ts": 1788514994
       }
     ],
     "language": "en",
-    "packId": "20260904-31",
-    "sequence": 31,
+    "packId": "20260904-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:42"
+    "updatedAt": "09:44"
   },
   "verified": true
 }
