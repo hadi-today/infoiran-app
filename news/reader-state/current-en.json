@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-09 seq=9 exp=1788673894",
+      "advancedStatus": "pack_id=20260904-10 seq=10 exp=1788675240",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:51",
+      "lastChecked": "06:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 05:51",
+    "expiresAt": "2026-09-06 06:14",
     "items": [
       {
         "channel": "iranintl",
@@ -840,14 +840,21 @@
         "text": "Kambiz Tavana, a member of the Iran International editorial board, said the Pakistan route does not have sufficient capacity to compensate for the restrictions caused by US economic pressure and naval blockade. He added that the Islamic Republic's calculation is that with the midterm elections approaching, the US cannot sustain this pressure for long, while Washington believes it is capable of continuing the naval blockade.",
         "time": "05:51",
         "ts": 1788501069
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen reported paying 70,000 tomans in service fees for a drug priced at 40,000 tomans. This issue was reported in a video to Iran International. The report highlights an unexpected increase in pharmaceutical service costs.",
+        "time": "06:13",
+        "ts": 1788502415
       }
     ],
     "language": "en",
-    "packId": "20260904-09",
-    "sequence": 9,
+    "packId": "20260904-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:51"
+    "updatedAt": "06:14"
   },
   "verified": true
 }
