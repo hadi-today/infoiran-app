@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-45 seq=45 exp=1788696881",
+      "advancedStatus": "pack_id=20260904-46 seq=46 exp=1788697018",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:14",
+      "lastChecked": "12:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 12:14",
+    "expiresAt": "2026-09-06 12:16",
     "items": [
       {
         "channel": "harana",
@@ -833,14 +833,21 @@
         "text": "Hossein Taeb, head of the Basij organization, said the US must bow before the Iranian nation because it started the war. He described Israel as a war factory used to attack regional countries. Taeb also emphasized that Iran has never requested a ceasefire or negotiations.",
         "time": "12:14",
         "ts": 1788524052
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Pouya Aideni, Iran's chess grandmaster, has decided to compete for France with the approval of the World Chess Federation. He cited unfulfilled promises and unpaid rewards by the Iranian Chess Federation as reasons for this decision. Aideni felt he had no choice but to change federations.",
+        "time": "12:16",
+        "ts": 1788524195
       }
     ],
     "language": "en",
-    "packId": "20260904-45",
-    "sequence": 45,
+    "packId": "20260904-46",
+    "sequence": 46,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:14"
+    "updatedAt": "12:16"
   },
   "verified": true
 }
