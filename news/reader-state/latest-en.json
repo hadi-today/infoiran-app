@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-60 seq=60 exp=1788703438",
+      "advancedStatus": "pack_id=20260904-61 seq=61 exp=1788703514",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:03",
+      "lastChecked": "14:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 14:03",
+    "expiresAt": "2026-09-06 14:05",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,21 @@
         "text": "Donald Trump claimed that three main nuclear sites of the Islamic Republic have been completely destroyed in the war between the US and Iran. Washington is monitoring activities at these sites and Kuh-e-Kalang from space. These statements were made more than six months after the start of the war.",
         "time": "14:03",
         "ts": 1788530611
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen posted a video showing the emptiness of the computer market in Noor Passage, Tehran. He said he had never seen the market like this before. The market is very slow.",
+        "time": "14:04",
+        "ts": 1788530685
       }
     ],
     "language": "en",
-    "packId": "20260904-60",
-    "sequence": 60,
+    "packId": "20260904-61",
+    "sequence": 61,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:03"
+    "updatedAt": "14:05"
   },
   "verified": true
 }
