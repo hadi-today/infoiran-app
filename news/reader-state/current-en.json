@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-14 seq=14 exp=1788677609",
+      "advancedStatus": "pack_id=20260904-15 seq=15 exp=1788678288",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:53",
+      "lastChecked": "07:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 06:53",
+    "expiresAt": "2026-09-06 07:04",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "A video of two teenagers performing protest rap in Tehran metro has been released. In the song, the teenagers express their feelings and situation. They talk about freedom and prison in their lyrics.",
         "time": "06:53",
         "ts": 1788504785
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Babak Dadbakhsh, a political prisoner in Ardabil prison, ended his hunger strike after promises from officials. He ended his strike on Wednesday, 10 Shahrivar, after receiving assurances regarding his demands. Dadbakhsh was transferred to the prison infirmary and is under observation.",
+        "time": "07:04",
+        "ts": 1788505466
       }
     ],
     "language": "en",
-    "packId": "20260904-14",
-    "sequence": 14,
+    "packId": "20260904-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:53"
+    "updatedAt": "07:04"
   },
   "verified": true
 }
