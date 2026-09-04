@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-32 seq=32 exp=1788687862",
+      "advancedStatus": "pack_id=20260904-33 seq=33 exp=1788688469",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:44",
+      "lastChecked": "09:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 09:44",
+    "expiresAt": "2026-09-06 09:54",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Sima Sabto and Nahid Falahati, Bahá'í citizens residing in Shiraz, have been detained and in legal limbo for over 70 days in Adelabad Prison. They are deprived of the possibility to contact or meet their families. The situation has been reported by the HRANA news agency.",
-        "time": "09:50",
-        "ts": 1788429035
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "Rouhollah Rahimpour stated that Trump's remarks indicate Iran's nuclear activities are monitored by the US. He added that if Iran rebuilds its enrichment program, it would cross a red line for the US and Israel. In that case, the likelihood of a military attack on Iran's nuclear program would increase.",
         "time": "09:43",
         "ts": 1788514994
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reza Talebi reported that four missiles hit the site and one missile hit a nearby area in Sirik. He mentioned the high accuracy of the missiles and the possibility of errors in coordinates. He also referred to the UN Secretary-General's warning about humanitarian law compliance and the lack of a central warning system in Iran.",
+        "time": "09:54",
+        "ts": 1788515644
       }
     ],
     "language": "en",
-    "packId": "20260904-32",
-    "sequence": 32,
+    "packId": "20260904-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:44"
+    "updatedAt": "09:54"
   },
   "verified": true
 }
