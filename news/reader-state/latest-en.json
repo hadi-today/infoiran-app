@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-10 seq=10 exp=1788675240",
+      "advancedStatus": "pack_id=20260904-11 seq=11 exp=1788676334",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:14",
+      "lastChecked": "06:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 06:14",
+    "expiresAt": "2026-09-06 06:32",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The sentence of Sadegh Saedinia, CEO of Saedinia Properties and Industries, was confirmed by the Supreme Court. He was sentenced to 12 years, 6 months, and one day of imprisonment and confiscation of all movable and immovable property. He was also banned from working in the cafe business for two years after serving his sentence.",
-        "time": "06:20",
-        "ts": 1788416427
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen sent a video showing the deployment of a missile launcher in the Abuzar neighborhood of Mashhad. The video was sent to Iran International on the evening of Wednesday, 11 Shahrivar. The location of the launcher deployment in this neighborhood is shown.",
-        "time": "06:21",
-        "ts": 1788416467
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -847,14 +833,21 @@
         "text": "A citizen reported paying 70,000 tomans in service fees for a drug priced at 40,000 tomans. This issue was reported in a video to Iran International. The report highlights an unexpected increase in pharmaceutical service costs.",
         "time": "06:13",
         "ts": 1788502415
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Dadpay pointed out that due to currency shortages and budget deficits, the government transfers the crisis costs to the people by printing money. This process reduces asset values and purchasing power, acting as a hidden tax. Additionally, liquidity growth and budget deficits have pushed several economic indicators into the red zone.",
+        "time": "06:31",
+        "ts": 1788503507
       }
     ],
     "language": "en",
-    "packId": "20260904-10",
-    "sequence": 10,
+    "packId": "20260904-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:14"
+    "updatedAt": "06:32"
   },
   "verified": true
 }
