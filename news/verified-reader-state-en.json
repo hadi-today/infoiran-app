@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-17 seq=17 exp=1788679897",
+      "advancedStatus": "pack_id=20260904-18 seq=18 exp=1788680304",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:31",
+      "lastChecked": "07:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 07:31",
+    "expiresAt": "2026-09-06 07:38",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "The Iranian national volleyball team defeated New Zealand 3-0 in their first match at the 2026 Asian Men's Championship. The sets ended with scores of 25-15, 25-12, and 25-22. Iran will face India in their second match on Sunday, 15 Shahrivar.",
         "time": "07:31",
         "ts": 1788507071
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Saman Ghaderi, detained in connection with the December 1404 protests, was sentenced to 14 years in prison by Branch 26 of the Tehran Revolutionary Court. He received 11 years for acting against national security and 3 years for insulting sacred beliefs. The sentence was communicated to him on Tuesday, 3 Shahrivar.",
+        "time": "07:38",
+        "ts": 1788507483
       }
     ],
     "language": "en",
-    "packId": "20260904-17",
-    "sequence": 17,
+    "packId": "20260904-18",
+    "sequence": 18,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:31"
+    "updatedAt": "07:38"
   },
   "verified": true
 }
