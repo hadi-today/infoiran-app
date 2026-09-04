@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-99 seq=99 exp=1788725006",
+      "advancedStatus": "pack_id=20260904-100 seq=100 exp=1788726748",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:03",
+      "lastChecked": "20:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 20:03",
+    "expiresAt": "2026-09-06 20:32",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "The audio version of program 24 with Fardad Farahzad discusses the empty docks of Iranian ports following US economic sanctions. This issue is presented as an economic challenge for Iran. The program examines the effects of these sanctions.",
         "time": "20:03",
         "ts": 1788552184
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Research by Program 24 shows a sharp decline in activity at Shahid Rajaee and Imam Khomeini ports. Shahid Rajaee port, handling 85% of Iran's container trade, has been most affected. Increased insurance costs and the naval blockade have reduced commercial ship traffic.",
+        "time": "20:32",
+        "ts": 1788553926
       }
     ],
     "language": "en",
-    "packId": "20260904-99",
-    "sequence": 99,
+    "packId": "20260904-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:03"
+    "updatedAt": "20:32"
   },
   "verified": true
 }
