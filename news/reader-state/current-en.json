@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-69 seq=69 exp=1788707988",
+      "advancedStatus": "pack_id=20260904-70 seq=70 exp=1788708821",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:19",
+      "lastChecked": "15:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 15:19",
+    "expiresAt": "2026-09-06 15:33",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump, the US President, criticized media outlets on Truth Social for failing to accurately report on US military operations in Iran. He stated that the US possesses an almost unlimited supply of medium to high-quality ammunition and is currently producing ammunition at an unprecedented level. Trump also noted that the Joe Biden administration provided Ukraine with significantly more ammunition without charge.",
-        "time": "15:19",
-        "ts": 1788448785
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Donald Trump stated that the US has virtually unlimited amounts of medium-to-high-quality munitions and is producing them at an unprecedented level. He said the munitions are being kept for the United States, but sales to allies will resume soon. Trump also claimed the Biden administration gave hundreds of billions of dollars in free munitions to Ukraine.",
-        "time": "15:20",
-        "ts": 1788448828
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -861,14 +847,21 @@
         "text": "The complete score of the special anthem for the 2500-year celebration of the Iranian monarchy has been published for the first time. Music researcher Pejman Akbarzadeh released this document. The written version of the anthem was found in an archive in Tehran.",
         "time": "15:19",
         "ts": 1788535157
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alhurra network reported a plan to deliver weapons of armed groups affiliated with the Islamic Republic to the Popular Mobilization Forces instead of the Iraqi government is under review. The military spokesman of the Iraqi Prime Minister confirmed these weapons will be reorganized after delivery. More details were provided by the Iran International reporter.",
+        "time": "15:33",
+        "ts": 1788535994
       }
     ],
     "language": "en",
-    "packId": "20260904-69",
-    "sequence": 69,
+    "packId": "20260904-70",
+    "sequence": 70,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:19"
+    "updatedAt": "15:33"
   },
   "verified": true
 }
