@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-71 seq=71 exp=1788709004",
+      "advancedStatus": "pack_id=20260904-72 seq=72 exp=1788709090",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:36",
+      "lastChecked": "15:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 15:36",
+    "expiresAt": "2026-09-06 15:38",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Farshad Momeni stated that the poor population in Iran has doubled over the past three years. He described this trend alongside increasing inequality as one of the most serious economic and social issues in the country. Momeni questioned why no significant changes have been made in economic policies despite this situation.",
-        "time": "15:36",
-        "ts": 1788449794
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -861,14 +854,21 @@
         "text": "Artin Ghazanfari, a Baha'i citizen and photojournalist, has been held indefinitely in Tehran's Great Prison for over seven months. He suffers from heart disease, asthma, and high blood pressure and has been deprived of proper medical care. His family's efforts to secure his temporary release for treatment have been unsuccessful.",
         "time": "15:36",
         "ts": 1788536180
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Scott Bassett stated that the Islamic Republic has not exported any oil in the past month and a half and currently has neither exports nor imports. He said the US will take new action on Tuesday, September 7, and more banks may be sanctioned. The Treasury Secretary described Iran's economic situation as critical and said US allies support this policy.",
+        "time": "15:37",
+        "ts": 1788536268
       }
     ],
     "language": "en",
-    "packId": "20260904-71",
-    "sequence": 71,
+    "packId": "20260904-72",
+    "sequence": 72,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:36"
+    "updatedAt": "15:38"
   },
   "verified": true
 }
