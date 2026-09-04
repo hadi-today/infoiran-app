@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-47 seq=47 exp=1788697128",
+      "advancedStatus": "pack_id=20260904-48 seq=48 exp=1788697239",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:18",
+      "lastChecked": "12:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 12:18",
+    "expiresAt": "2026-09-06 12:20",
     "items": [
       {
         "channel": "harana",
@@ -847,14 +847,21 @@
         "text": "Israel's Defense Minister Yisrael Katz stated that Israel will not withdraw from the security zone in southern Lebanon until Hezbollah is disarmed throughout Lebanon. He emphasized that the continued presence of Israeli forces depends on Hezbollah's disarmament status. These remarks were reported by an Iran International journalist.",
         "time": "12:18",
         "ts": 1788524299
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Heavy vehicle drivers reported a halt and uncertainty at the Pishin border terminal in Rask county. Their follow-ups with the customs head have so far been unsuccessful. They are calling for urgent intervention by authorities to resolve the issue.",
+        "time": "12:20",
+        "ts": 1788524408
       }
     ],
     "language": "en",
-    "packId": "20260904-47",
-    "sequence": 47,
+    "packId": "20260904-48",
+    "sequence": 48,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:18"
+    "updatedAt": "12:20"
   },
   "verified": true
 }
