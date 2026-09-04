@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-04 seq=4 exp=1788665055",
+      "advancedStatus": "pack_id=20260904-05 seq=5 exp=1788665663",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:24",
+      "lastChecked": "03:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 03:24",
+    "expiresAt": "2026-09-06 03:34",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,21 @@
         "text": "The US sanctioned five branches of Bank of Egypt in the UAE for processing transactions linked to the shadow banking network of the Islamic Republic. Egypt began receiving petrochemical products from Iran in May 2025 due to the end of cheap Saudi fuel access and an economic crisis. The central banks of Egypt and the UAE have started investigations into the activities of these branches.",
         "time": "03:23",
         "ts": 1788492229
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Dmitry Peskov, Kremlin spokesperson, stated that Russia will maintain and develop its friendly and cooperative relations with Iran. He responded to the US Treasury Secretary's warning to countries supporting the Islamic Republic. Peskov said the US cannot monopolize relations with other countries.",
+        "time": "03:33",
+        "ts": 1788492836
       }
     ],
     "language": "en",
-    "packId": "20260904-04",
-    "sequence": 4,
+    "packId": "20260904-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:24"
+    "updatedAt": "03:34"
   },
   "verified": true
 }
