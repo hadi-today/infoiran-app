@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-52 seq=52 exp=1788699557",
+      "advancedStatus": "pack_id=20260904-53 seq=53 exp=1788699877",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:59",
+      "lastChecked": "13:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 12:59",
+    "expiresAt": "2026-09-06 13:04",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The head of Iran's AIDS Research Center announced that sexual transmission has become the main route of HIV infection. In 1404, about 65% of new cases were identified through sexual contact. A significant portion of these cases involved sexual relations between men.",
-        "time": "13:02",
-        "ts": 1788440525
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -861,14 +854,21 @@
         "text": "Canada's Foreign Ministry condemned the threats by the Iranian Armed Forces spokesperson against journalists abroad. The ministry emphasized strong support for the right of media to operate. Canada considers media freedom an essential part of democratic societies.",
         "time": "12:58",
         "ts": 1788526733
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A truck driver complained in a video to Iran International about the rising prices of vehicle spare parts and the reduction of fuel quotas for drivers. He said fuel prices increase daily but their quotas are reduced. He also mentioned neglect of drivers' rights.",
+        "time": "13:04",
+        "ts": 1788527052
       }
     ],
     "language": "en",
-    "packId": "20260904-52",
-    "sequence": 52,
+    "packId": "20260904-53",
+    "sequence": 53,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:59"
+    "updatedAt": "13:04"
   },
   "verified": true
 }
