@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-95 seq=95 exp=1788719743",
+      "advancedStatus": "pack_id=20260904-96 seq=96 exp=1788721038",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:35",
+      "lastChecked": "18:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-04",
-    "expiresAt": "2026-09-06 18:35",
+    "expiresAt": "2026-09-06 18:57",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "JD Vance, the US Vice President, stated that the US will not negotiate with the Islamic Republic until attacks on commercial ships stop. The US message to the Islamic Republic is clear: they must cease these attacks. The US plans to use its tools to address the nuclear threat and ensure global energy markets are properly supplied.",
-        "time": "18:40",
-        "ts": 1788460819
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The Vice President for Women and Family Affairs stated that the traffic police are obligated to issue motorcycle licenses to women based on a Cabinet resolution. This resolution was approved last February but has not yet been implemented in practice. The police have not yet started issuing motorcycle licenses to women.",
-        "time": "18:42",
-        "ts": 1788460946
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +896,21 @@
         "text": "Alireza Arafi stated that the US is unfamiliar with Iran's asymmetric and guerrilla warfare methods. He also mentioned the global hatred towards the US due to its oppressive actions. These remarks were made in Qom.",
         "time": "18:35",
         "ts": 1788546910
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump stated that there are no naval mines in the Strait of Hormuz and that the US lost no personnel in its operation in Venezuela. He mentioned that the US might soon target 'Kuh Kolang Gazla' and that 18 people were killed in the conflict with Iran. Trump also said the US targeted the Islamic Republic's radars for the second time.",
+        "time": "18:56",
+        "ts": 1788548201
       }
     ],
     "language": "en",
-    "packId": "20260904-95",
-    "sequence": 95,
+    "packId": "20260904-96",
+    "sequence": 96,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:35"
+    "updatedAt": "18:57"
   },
   "verified": true
 }
