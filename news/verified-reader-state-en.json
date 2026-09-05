@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-21 seq=21 exp=1788768385",
+      "advancedStatus": "pack_id=20260905-22 seq=22 exp=1788769352",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:06",
+      "lastChecked": "08:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 08:06",
+    "expiresAt": "2026-09-07 08:22",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Yisrael Katz stated that Israel will not withdraw from the security zone in southern Lebanon until Hezbollah is disarmed throughout Lebanon. He considered the capture of the Ali Taher heights an important step in consolidating Israeli control over the area. The decision to capture these heights was made after discovering Hezbollah's command tunnels.",
-        "time": "08:17",
-        "ts": 1788509862
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -791,14 +784,21 @@
         "text": "Alireza Zakani, the mayor of Tehran, announced that the city management aims to electrify all of Tehran. The city's energy needs can be met through solar power, local gas-based electricity production, and imported electricity. He also stated that Tehran is pursuing nuclear power and described this plan as a big win for the country.",
         "time": "08:06",
         "ts": 1788595560
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shayan Azadi's sister joined the campaign \"One Candle, One Name, One Memory\" and lit a candle. Shayan Azadi, 25, was killed by government agents during protests in Karaj on the evening of January 8. This act was done in memory of Iran's martyrs.",
+        "time": "08:22",
+        "ts": 1788596530
       }
     ],
     "language": "en",
-    "packId": "20260905-21",
-    "sequence": 21,
+    "packId": "20260905-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:06"
+    "updatedAt": "08:22"
   },
   "verified": true
 }
