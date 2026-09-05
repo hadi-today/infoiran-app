@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-48 seq=48 exp=1788787113",
+      "advancedStatus": "pack_id=20260905-49 seq=49 exp=1788787232",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:18",
+      "lastChecked": "13:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 13:18",
+    "expiresAt": "2026-09-07 13:20",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Nabi Mousavi-Fard, the Friday prayer leader of Ahvaz, stated that the Islamic Republic has full control over regional movements and will not reopen the Strait of Hormuz. He emphasized that Iran's resolve to cut off America's influence in the region is strong and unbreakable. He also said that the Iranian people will stand firm against any excess demands.",
-        "time": "13:18",
-        "ts": 1788527927
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -749,14 +742,21 @@
         "text": "A video obtained by Iran International shows US military radio warnings to the tanker STARK 1 before it was targeted near Kharg Island. Three warnings are heard via VHF channel, giving the crew time to evacuate. Islamic Republic media reported on Saturday morning that a tanker was targeted six miles from Kharg Island but did not name it.",
         "time": "13:18",
         "ts": 1788614289
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Javad Mojabi, an Iranian poet and writer, passed away on Saturday, 14 Shahrivar after a period of illness. He was born in 1939 in Qazvin and was active in literature and visual arts. Mojabi collaborated with various publications and published several works.",
+        "time": "13:20",
+        "ts": 1788614409
       }
     ],
     "language": "en",
-    "packId": "20260905-48",
-    "sequence": 48,
+    "packId": "20260905-49",
+    "sequence": 49,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:18"
+    "updatedAt": "13:20"
   },
   "verified": true
 }
