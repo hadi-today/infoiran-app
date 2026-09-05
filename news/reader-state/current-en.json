@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-92 seq=92 exp=1788819372",
+      "advancedStatus": "pack_id=20260905-93 seq=93 exp=1788820483",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:16",
+      "lastChecked": "22:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 22:16",
+    "expiresAt": "2026-09-07 22:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump stated that the US military may soon target underground facilities at Mount Kalang-Gazla in Iran. At the same time, the IRGC launched missile attacks on Jordan. The Trump administration is developing a strategic plan for the post-war period with the Islamic Republic.",
-        "time": "22:26",
-        "ts": 1788560796
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US has simultaneously sanctioned a bank and two Turkish financial companies. Siamak Javadi stated that the US is targeting the financial architecture of the Islamic Republic through secondary sanctions. These measures may lead to reduced foreign currency revenues and increased pressure on Iran's economy.",
-        "time": "22:27",
-        "ts": 1788560868
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ata Mohamad said that Israel's capture of Ali Al-Taher hill reduces Hezbollah's operational capabilities and gives Israel military superiority. This development may increase pressure on the Lebanese government to disarm Hezbollah. It also raises the likelihood of a long-term Israeli presence in the southern Lebanon buffer zone.",
-        "time": "22:30",
-        "ts": 1788561006
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -707,14 +686,21 @@
         "text": "Mohammad Qaedi said the US has so far targeted Iran's central bank and some small Chinese refineries but not major Chinese banks. Washington may refrain from escalating sanctions before the Trump-Xi Jinping meeting. If China does not cooperate, the next phase of sanctions could target major Chinese banks.",
         "time": "22:15",
         "ts": 1788646542
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Due to incidents in the fourth week of the Iranian Premier League, Chader-Malou club has been banned from having male spectators. The sixth-week match will be held only with female spectators. This measure aims to increase women's presence in stadiums.",
+        "time": "22:34",
+        "ts": 1788647656
       }
     ],
     "language": "en",
-    "packId": "20260905-92",
-    "sequence": 92,
+    "packId": "20260905-93",
+    "sequence": 93,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:16"
+    "updatedAt": "22:34"
   },
   "verified": true
 }
