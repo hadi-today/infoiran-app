@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-57 seq=57 exp=1788792110",
+      "advancedStatus": "pack_id=20260905-58 seq=58 exp=1788792342",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:41",
+      "lastChecked": "14:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 14:41",
+    "expiresAt": "2026-09-07 14:45",
     "items": [
       {
         "channel": "harana",
@@ -735,14 +735,21 @@
         "text": "Amid worsening economic crisis and security pressures, citizens have called for the fall of the government in messages to Iran International. They emphasize the need for street protests. Mohsen Mahimini explains the messages and officials' statements about a national revolution and repeated protests.",
         "time": "14:41",
         "ts": 1788619286
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Nuzhat Mirrazi, the mother of two deceased protesters in Iran, was arrested in Lahijan and transferred to an unknown location. The arrest occurred one day after she released a video and amid increased security pressures in Gilan province. No information has been released about the detaining authority or possible charges.",
+        "time": "14:45",
+        "ts": 1788619510
       }
     ],
     "language": "en",
-    "packId": "20260905-57",
-    "sequence": 57,
+    "packId": "20260905-58",
+    "sequence": 58,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:41"
+    "updatedAt": "14:45"
   },
   "verified": true
 }
