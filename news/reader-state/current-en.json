@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-73 seq=73 exp=1788800481",
+      "advancedStatus": "pack_id=20260905-74 seq=74 exp=1788800573",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:01",
+      "lastChecked": "17:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 17:01",
+    "expiresAt": "2026-09-07 17:02",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of Iranians living in Germany gathered in Hamburg on Friday, 13 Shahrivar. The gathering was in protest against the executions by the Islamic Republic. Videos of this gathering have been sent to Iran International.",
-        "time": "17:02",
-        "ts": 1788541331
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -693,14 +686,21 @@
         "text": "The Al-Taher hill in southern Lebanon was captured by Israel. Two missile cities, Emad 2 and 4, under this hill fell to Israel. Hezbollah lost much of its ability to launch missile attacks on Israel on behalf of Tehran.",
         "time": "17:00",
         "ts": 1788627653
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A fuel tanker exploded on the Sanandaj-Hamedan road, causing a fire that spread to several vehicles. So far, 11 people have died and 7 have been injured. Rescue and safety operations at the site are ongoing.",
+        "time": "17:02",
+        "ts": 1788627734
       }
     ],
     "language": "en",
-    "packId": "20260905-73",
-    "sequence": 73,
+    "packId": "20260905-74",
+    "sequence": 74,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:01"
+    "updatedAt": "17:02"
   },
   "verified": true
 }
