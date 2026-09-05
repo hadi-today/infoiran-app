@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-19 seq=19 exp=1788768052",
+      "advancedStatus": "pack_id=20260905-20 seq=20 exp=1788768270",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:00",
+      "lastChecked": "08:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 08:00",
+    "expiresAt": "2026-09-07 08:04",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Leila Bahmani announced the development of a transitional justice program for the transition period. The program includes mechanisms to address human rights violations and examine the roles of individuals and institutions of the Islamic Republic. The planned components include a court, truth commission, investigation committee, and conditional amnesty.",
-        "time": "08:01",
-        "ts": 1788508871
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A memorial birthday ceremony for Mehran Salimi was held on Thursday, 12 Shahrivar, at his gravesite. Mehran Salimi was 27 years old and was killed on 18 Dey 1404 in Hashtgerd. A video of this ceremony was received by Iran International.",
-        "time": "08:03",
-        "ts": 1788509013
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -798,14 +784,21 @@
         "text": "The US Treasury Department sanctioned Golden Global Bank and two affiliated financial institutions in Turkey. These institutions facilitated financial transactions for the IRGC Quds Force. The US stated it will continue targeting financial institutions supporting the Islamic Republic.",
         "time": "08:00",
         "ts": 1788595229
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The public relations of the Seyyed al-Shohada Corps in Tehran province announced that the explosion sound heard in Damavand was related to the educational exercise \"Heydar Karar.\" These sounds were part of the pre-planned exercise activities. There was no prior announcement about this exercise.",
+        "time": "08:04",
+        "ts": 1788595446
       }
     ],
     "language": "en",
-    "packId": "20260905-19",
-    "sequence": 19,
+    "packId": "20260905-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:00"
+    "updatedAt": "08:04"
   },
   "verified": true
 }
