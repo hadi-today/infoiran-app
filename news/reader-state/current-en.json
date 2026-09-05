@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-29 seq=29 exp=1788772472",
+      "advancedStatus": "pack_id=20260905-30 seq=30 exp=1788772588",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:14",
+      "lastChecked": "09:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 09:14",
+    "expiresAt": "2026-09-07 09:16",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Alireza Zakani, the mayor of Tehran, stated that the nightly governmental gatherings will continue as long as Mojtaba Khamenei decides. He said the matter will not be closed based on others' opinions.",
-        "time": "09:14",
-        "ts": 1788513252
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The grass field of Azadi Stadium has been completely removed and workers are preparing the base. Officials have announced that the football field will be usable by January. The previous grass was still usable, but a decision was made to replace it with hybrid grass.",
-        "time": "09:14",
-        "ts": 1788513257
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Legal cases have been filed against several protesting nurses at Fayyazbakhsh Hospital in Tehran. The court sessions for six of them were held last week. Five nurses face charges including spreading false information and disturbing public opinion.",
-        "time": "09:15",
-        "ts": 1788513331
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -812,14 +791,21 @@
         "text": "A man who intentionally ran over his wife with a car after she requested a divorce and demanded her dowry was arrested. The woman suffered fractures in parts of her body during the incident. The man was arrested and sent to prison.",
         "time": "09:14",
         "ts": 1788599650
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump announced that the US military may soon target underground facilities at Kuh-e Kelang in Iran. He said the US has taken control of Iran and targeted the Islamic Republic's military equipment in the Persian Gulf. Trump also confirmed the death of 18 American soldiers and stated that the Strait of Hormuz has been cleared of naval mines.",
+        "time": "09:16",
+        "ts": 1788599765
       }
     ],
     "language": "en",
-    "packId": "20260905-29",
-    "sequence": 29,
+    "packId": "20260905-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:14"
+    "updatedAt": "09:16"
   },
   "verified": true
 }
