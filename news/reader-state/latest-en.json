@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-81 seq=81 exp=1788806514",
+      "advancedStatus": "pack_id=20260905-82 seq=82 exp=1788806586",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:41",
+      "lastChecked": "18:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 18:41",
+    "expiresAt": "2026-09-07 18:43",
     "items": [
       {
         "channel": "iranintl",
@@ -700,14 +700,21 @@
         "text": "Mehdi Shafakhah, an activist in education and support for working children, was sentenced to two years and three months in prison by Branch 29 of the Tehran Revolutionary Court. His charges include propaganda against the regime and insulting the leader. This news was reported by Harana News Agency.",
         "time": "18:41",
         "ts": 1788633686
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Zakani stated that in the attack that led to the death of Ali Khamenei, his library and manuscripts were destroyed. So far, there is no news of his will. These remarks were made in response to a question about the will of the former leader of the Islamic Republic.",
+        "time": "18:42",
+        "ts": 1788633761
       }
     ],
     "language": "en",
-    "packId": "20260905-81",
-    "sequence": 81,
+    "packId": "20260905-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:41"
+    "updatedAt": "18:43"
   },
   "verified": true
 }
