@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-04 seq=4 exp=1788748204",
+      "advancedStatus": "pack_id=20260905-05 seq=5 exp=1788751685",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:30",
+      "lastChecked": "03:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 02:30",
+    "expiresAt": "2026-09-07 03:28",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Axios reported that CENTCOM is investigating the origin of a deadly explosion at a wedding ceremony in Kuhestak, Sirik County. The investigation is pursuing two possibilities: impact from US-fired munitions or the crash of a stray Iranian munition nearby. US officials have not yet publicly provided evidence to confirm either possibility.",
-        "time": "03:20",
-        "ts": 1788492020
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US sanctioned five branches of Bank of Egypt in the UAE for processing transactions linked to the shadow banking network of the Islamic Republic. Egypt began receiving petrochemical products from Iran in May 2025 due to the end of cheap Saudi fuel access and an economic crisis. The central banks of Egypt and the UAE have started investigations into the activities of these branches.",
-        "time": "03:23",
-        "ts": 1788492229
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -812,14 +798,21 @@
         "text": "More than 120 people have been killed in Yemen after Houthi forces launched an operation to advance towards the strategic Bab al-Mandeb Strait. The clashes began with a ground attack supported by missile and drone strikes near the Red Sea coast. The Houthis are trying to strengthen their positions in this area.",
         "time": "02:29",
         "ts": 1788575384
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "On Friday evening, part of Kazemi Street in Isfahan subsided as a tanker passed. The tanker's wheels fell into the created hole. Firefighters and the water and sewage company managed to remove the tanker from the hole.",
+        "time": "03:27",
+        "ts": 1788578860
       }
     ],
     "language": "en",
-    "packId": "20260905-04",
-    "sequence": 4,
+    "packId": "20260905-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:30"
+    "updatedAt": "03:28"
   },
   "verified": true
 }
