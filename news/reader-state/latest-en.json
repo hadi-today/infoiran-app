@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-53 seq=53 exp=1788789646",
+      "advancedStatus": "pack_id=20260905-54 seq=54 exp=1788790279",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:00",
+      "lastChecked": "14:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,36 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 14:00",
+    "expiresAt": "2026-09-07 14:11",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump claimed that three main nuclear sites of the Islamic Republic have been completely destroyed in the war between the US and Iran. Washington is monitoring activities at these sites and Kuh-e-Kalang from space. These statements were made more than six months after the start of the war.",
-        "time": "14:03",
-        "ts": 1788530611
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen posted a video showing the emptiness of the computer market in Noor Passage, Tehran. He said he had never seen the market like this before. The market is very slow.",
-        "time": "14:04",
-        "ts": 1788530685
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Minister of Education emphasized the continuation of in-person schooling even during wartime. He stated that Iranian schools will continue in-person activities even under the most severe conditions. The enemy aims to shut down education in the country.",
-        "time": "14:08",
-        "ts": 1788530888
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Hossein Ali Shahriari said that repaying Iran's debt in the form of food and medicine is wrong and Iran should decide on its financial resources. He emphasized that the Islamic Republic and the IRGC Navy will remain in control of the Strait of Hormuz and will not allow any new passage to be created. Shahriari also stated that the Islamic Republic will not give up its right to nuclear enrichment.",
-        "time": "14:10",
-        "ts": 1788531008
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -756,14 +728,21 @@
         "text": "Carlos Tevez plans to hold his farewell match in December this year at La Bombonera stadium. Cristiano Ronaldo and Lionel Messi may play together on the same team for the first time in this match. Tevez intends to form his main team from his closest friends.",
         "time": "14:00",
         "ts": 1788616817
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US Central Command released a video showing attacks by the IRGC on three oil tankers and two US Navy warships. Two tankers are out of service and one tanker was destroyed in the Gulf of Oman. These attacks followed ballistic missile launches.",
+        "time": "14:10",
+        "ts": 1788617453
       }
     ],
     "language": "en",
-    "packId": "20260905-53",
-    "sequence": 53,
+    "packId": "20260905-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:00"
+    "updatedAt": "14:11"
   },
   "verified": true
 }
