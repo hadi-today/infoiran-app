@@ -1,34 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260904-111 seq=111 exp=1788739072",
+      "advancedStatus": "pack_id=20260905-01 seq=1 exp=1788741315",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:57",
+      "lastChecked": "00:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-09-04",
-    "expiresAt": "2026-09-06 23:57",
+    "date": "2026-09-05",
+    "expiresAt": "2026-09-07 00:35",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "South Korea is preparing to send military equipment to help secure freedom of navigation in the Strait of Hormuz. This action requires parliamentary approval and may begin by the end of the year. The South Korean presidential office stated that no final decision has been made yet.",
-        "time": "00:07",
-        "ts": 1788480430
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Scott Bessent, the US Treasury Secretary, announced that the European Union has officially joined the economic expulsion operation against the Islamic Republic. The US appreciates Europe's firm stance on this issue. Financial pressures against the Islamic Republic will continue until all remaining funding channels are cut off.",
-        "time": "00:24",
-        "ts": 1788481454
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -798,14 +784,21 @@
         "text": "Niloufar Majaver, a young woman from Piranshahr and Oshnavieh, was transferred to a hospital with severe injuries 10 days after leaving home and died from brain death. Her family holds a 41-year-old man responsible, but official investigations have not confirmed this. Reports differ on the details of the incident and Niloufar's personal information.",
         "time": "23:57",
         "ts": 1788566247
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "CENTCOM announced that US paratroopers have deployed communication equipment in a remote location in the Middle East. The exact location of the deployment was not disclosed. This action coincides with the ongoing extensive US military presence in the region.",
+        "time": "00:34",
+        "ts": 1788568492
       }
     ],
     "language": "en",
-    "packId": "20260904-111",
-    "sequence": 111,
+    "packId": "20260905-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:57"
+    "updatedAt": "00:35"
   },
   "verified": true
 }
