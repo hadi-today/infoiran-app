@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-34 seq=34 exp=1788774580",
+      "advancedStatus": "pack_id=20260905-35 seq=35 exp=1788775720",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:49",
+      "lastChecked": "10:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 09:49",
+    "expiresAt": "2026-09-07 10:08",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reza Talebi reported that four missiles hit the site and one missile hit a nearby area in Sirik. He mentioned the high accuracy of the missiles and the possibility of errors in coordinates. He also referred to the UN Secretary-General's warning about humanitarian law compliance and the lack of a central warning system in Iran.",
-        "time": "09:54",
-        "ts": 1788515644
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Tasnim reported that Kopal Nazemi refused to referee in the fifth week of the Premier League after Mooud Bonyadifard was selected to officiate the 107th derby. According to Tasnim, Nazemi expected to be assigned the Esteghlal vs Persepolis match and was upset after Bonyadifard was chosen. The refereeing committee had scheduled him for Malavan Bandar Anzali vs Nassaji Mazandaran, but he declined.",
-        "time": "10:03",
-        "ts": 1788516189
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -805,14 +791,21 @@
         "text": "The interrogation session of Pari Samani and Roya Samani, two sisters from Mahabad, was held at the first interrogation branch of the Public and Revolutionary Prosecutor's Office of the city. This session took place today.",
         "time": "09:49",
         "ts": 1788601752
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US dollar rate in Iran's free market reached an unprecedented 225,000 tomans. The prices of the euro, pound, and dirham were also traded at high levels. Additionally, the price of the Emami coin rose to 237 million tomans.",
+        "time": "10:08",
+        "ts": 1788602893
       }
     ],
     "language": "en",
-    "packId": "20260905-34",
-    "sequence": 34,
+    "packId": "20260905-35",
+    "sequence": 35,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:49"
+    "updatedAt": "10:08"
   },
   "verified": true
 }
