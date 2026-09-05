@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-58 seq=58 exp=1788792342",
+      "advancedStatus": "pack_id=20260905-59 seq=59 exp=1788793088",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:45",
+      "lastChecked": "14:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 14:45",
+    "expiresAt": "2026-09-07 14:58",
     "items": [
       {
         "channel": "harana",
@@ -742,14 +742,21 @@
         "text": "Nuzhat Mirrazi, the mother of two deceased protesters in Iran, was arrested in Lahijan and transferred to an unknown location. The arrest occurred one day after she released a video and amid increased security pressures in Gilan province. No information has been released about the detaining authority or possible charges.",
         "time": "14:45",
         "ts": 1788619510
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The fleet development manager of the Road Maintenance Organization stated that out of 14,500 intercity buses, 8,600 are worn out and 3,000 are nearing wear. Additionally, 96% of active minibuses are worn out. There has been a more than 30% decrease in public transport passengers over the past three years.",
+        "time": "14:57",
+        "ts": 1788620266
       }
     ],
     "language": "en",
-    "packId": "20260905-58",
-    "sequence": 58,
+    "packId": "20260905-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:45"
+    "updatedAt": "14:58"
   },
   "verified": true
 }
