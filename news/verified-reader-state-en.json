@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-51 seq=51 exp=1788788223",
+      "advancedStatus": "pack_id=20260905-52 seq=52 exp=1788788551",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:37",
+      "lastChecked": "13:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 13:37",
+    "expiresAt": "2026-09-07 13:42",
     "items": [
       {
         "channel": "iranintl",
@@ -742,14 +742,21 @@
         "text": "Artin Khajouy-Nia, a 16-year-old computer student, was killed by live gunfire during protests in front of the city hall of Qods on January 8, 2026. His mother shared a video of his shoes from different periods of his life as keepsakes. She called her son her eternal hero and expressed her lasting memory of him.",
         "time": "13:36",
         "ts": 1788615369
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "CENTCOM destroyed three IRGC oil tankers after two US warships were targeted by Iran. These tankers financed the IRGC and its proxy forces. CENTCOM's commander warned they will not hesitate to defend US forces.",
+        "time": "13:42",
+        "ts": 1788615722
       }
     ],
     "language": "en",
-    "packId": "20260905-51",
-    "sequence": 51,
+    "packId": "20260905-52",
+    "sequence": 52,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:37"
+    "updatedAt": "13:42"
   },
   "verified": true
 }
