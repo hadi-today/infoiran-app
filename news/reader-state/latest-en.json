@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-44 seq=44 exp=1788783353",
+      "advancedStatus": "pack_id=20260905-45 seq=45 exp=1788783427",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:15",
+      "lastChecked": "12:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 12:15",
+    "expiresAt": "2026-09-07 12:17",
     "items": [
       {
         "channel": "iranintl",
@@ -791,14 +791,21 @@
         "text": "Masoud Pezeshkian said the Islamic Republic has failed to instill the belief in youth that they are the builders of the country's future. At the opening ceremony of the first police high school, he stated that the authorities, not the youth, are responsible for the problems young people face. Pezeshkian emphasized that proper education has not been provided to the youth.",
         "time": "12:15",
         "ts": 1788610533
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Football Federation's Disciplinary Committee has sentenced Chadormalu Ardakan Club to hold one home match with only female spectators. This ruling has been described as gender-biased. An interview was also conducted with Masoumeh Hasrati, a former player of Iran's women's national football team.",
+        "time": "12:16",
+        "ts": 1788610570
       }
     ],
     "language": "en",
-    "packId": "20260905-44",
-    "sequence": 44,
+    "packId": "20260905-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:15"
+    "updatedAt": "12:17"
   },
   "verified": true
 }
