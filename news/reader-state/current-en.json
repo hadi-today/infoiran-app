@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-40 seq=40 exp=1788781209",
+      "advancedStatus": "pack_id=20260905-41 seq=41 exp=1788781497",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:40",
+      "lastChecked": "11:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 11:40",
+    "expiresAt": "2026-09-07 11:44",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Giorgia Meloni, Italy's Prime Minister, has set a new record for the longest uninterrupted government in the country's republican history with 1413 days in office. The previous record was held by Silvio Berlusconi's second government. Meloni's government's stability is unprecedented in a country known for frequent government changes.",
-        "time": "11:41",
-        "ts": 1788522060
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -770,14 +763,21 @@
         "text": "Al Arabiya, citing Yemeni military sources, reported that four Iranians and Lebanese were killed in an attack on a Houthi command center in Al-Jawf province. Yemeni military sources did not provide further details about the identities or roles of these individuals. The exact timing of the attack is unclear, but air and ground strikes occurred on September 4 and 5 in the area.",
         "time": "11:39",
         "ts": 1788608385
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "ILNA news agency reported on school dropout among children and adolescents in the border areas of West Azerbaijan. Poverty, long distances to schools, and lack of transportation services are cited as main factors. Experts warn that this situation may lead to increased poverty and social harm.",
+        "time": "11:44",
+        "ts": 1788608670
       }
     ],
     "language": "en",
-    "packId": "20260905-40",
-    "sequence": 40,
+    "packId": "20260905-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:40"
+    "updatedAt": "11:44"
   },
   "verified": true
 }
