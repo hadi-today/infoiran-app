@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-54 seq=54 exp=1788790279",
+      "advancedStatus": "pack_id=20260905-55 seq=55 exp=1788791442",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:11",
+      "lastChecked": "14:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 14:11",
+    "expiresAt": "2026-09-07 14:30",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "In the past week, 22 illegal hunters and wood traffickers were arrested, and over 6 hectares of natural resources were affected by fire. The air quality index in 31 cities was declared unhealthy and dangerous. Drought crisis, waste, and pollutants were also reported as other environmental issues.",
-        "time": "14:11",
-        "ts": 1788531096
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US, along with the UK, France, and Germany, is seeking to pass a resolution at the IAEA Board of Governors to report Iran's nuclear violations to the UN Security Council. This resolution follows a previous one that accused Iran of incomplete cooperation. The resolution is set to be approved one day before Israeli attacks on Iran's nuclear sites.",
-        "time": "14:14",
-        "ts": 1788531283
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "In Iran, videos are being shared where people state the prices of their purchases and then dance. The prices are very high, close to half of the minimum monthly wage. Some individuals say they smile out of fear of accusations and punishment.",
-        "time": "14:24",
-        "ts": 1788531866
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -735,14 +714,21 @@
         "text": "The US Central Command released a video showing attacks by the IRGC on three oil tankers and two US Navy warships. Two tankers are out of service and one tanker was destroyed in the Gulf of Oman. These attacks followed ballistic missile launches.",
         "time": "14:10",
         "ts": 1788617453
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Baqer Kharazi, a detained cleric, has been summoned to the Special Clergy Prosecutor's Office due to reports sent against him by the Ministry of Foreign Affairs and other institutions. The concerns relate to his statements about domestic policy and hijab. The case is under investigation and the final decision rests with the judicial authority.",
+        "time": "14:30",
+        "ts": 1788618617
       }
     ],
     "language": "en",
-    "packId": "20260905-54",
-    "sequence": 54,
+    "packId": "20260905-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:11"
+    "updatedAt": "14:30"
   },
   "verified": true
 }
