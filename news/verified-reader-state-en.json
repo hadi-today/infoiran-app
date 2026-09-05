@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-68 seq=68 exp=1788797709",
+      "advancedStatus": "pack_id=20260905-69 seq=69 exp=1788798351",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:15",
+      "lastChecked": "16:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 16:15",
+    "expiresAt": "2026-09-07 16:25",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Fatemeh Mohajerani, the government spokesperson, stated that the president's perspective is feminine and maternal, paying special attention to soft areas. She added that the presence of four women in the cabinet has highlighted issues such as details of social groups, the environment, and social matters.",
-        "time": "16:18",
-        "ts": 1788538735
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -714,14 +707,21 @@
         "text": "Asieh Amini commented on the compulsory attendance of students in schools and the opening of the Police High School. She said the government exploits students' situation for security and political goals instead of ensuring their safety. This statement refers to the military and security training of children.",
         "time": "16:14",
         "ts": 1788624887
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US Department of Defense denied a Reuters report about considering options to replace Deputy Secretary of Defense Steve Feinberg, stating no process is underway to replace him. The department added that it has \"never had a better deputy.\" The White House and the Secretary of Defense also expressed support for Feinberg's performance.",
+        "time": "16:25",
+        "ts": 1788625529
       }
     ],
     "language": "en",
-    "packId": "20260905-68",
-    "sequence": 68,
+    "packId": "20260905-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:15"
+    "updatedAt": "16:25"
   },
   "verified": true
 }
