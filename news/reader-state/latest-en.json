@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-64 seq=64 exp=1788796882",
+      "advancedStatus": "pack_id=20260905-65 seq=65 exp=1788797104",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:01",
+      "lastChecked": "16:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 16:01",
+    "expiresAt": "2026-09-07 16:05",
     "items": [
       {
         "channel": "iranintl",
@@ -693,14 +693,21 @@
         "text": "The US Embassy in Bahrain issued a security alert on Saturday, September 5, asking American citizens to exercise increased caution due to the possibility of an 'unforeseen escalation' of tensions in the Middle East. The embassy stated that the Islamic Republic and its affiliated groups may target US interests and American citizens worldwide. This warning was issued hours before the announcement of a US attack on three Iranian oil tankers.",
         "time": "16:01",
         "ts": 1788624060
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The UK Maritime Trade Operations center reported that several commercial ships in the northern Persian Gulf and the Sea of Oman have been targeted by fire. These attacks occurred within the ongoing military activities in the region. The aim of the attacks was to disable the ships.",
+        "time": "16:04",
+        "ts": 1788624281
       }
     ],
     "language": "en",
-    "packId": "20260905-64",
-    "sequence": 64,
+    "packId": "20260905-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:01"
+    "updatedAt": "16:05"
   },
   "verified": true
 }
