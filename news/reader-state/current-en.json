@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-06 seq=6 exp=1788752745",
+      "advancedStatus": "pack_id=20260905-07 seq=7 exp=1788754499",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:45",
+      "lastChecked": "04:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 03:45",
+    "expiresAt": "2026-09-07 04:14",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,21 @@
         "text": "Two labor organizations condemned the shooting of job-seeking youth in Gachsaran and Ahvaz in a joint statement. They described the incident as part of labor suppression and widespread unemployment. They also warned that poverty and unemployment have become a serious crisis.",
         "time": "03:45",
         "ts": 1788579923
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The New York Times reported that US government inspectors subjected about 50 members of the Joint Chiefs of Staff to lie detector tests in connection with leaks to journalists. The tests were conducted in August following reports of shortages of key munitions. A Pentagon spokesman declined to comment on the investigation but said the department takes leaks of classified information seriously.",
+        "time": "04:14",
+        "ts": 1788581679
       }
     ],
     "language": "en",
-    "packId": "20260905-06",
-    "sequence": 6,
+    "packId": "20260905-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:45"
+    "updatedAt": "04:14"
   },
   "verified": true
 }
