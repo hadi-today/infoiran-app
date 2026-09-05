@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-66 seq=66 exp=1788797523",
+      "advancedStatus": "pack_id=20260905-67 seq=67 exp=1788797633",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:12",
+      "lastChecked": "16:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 16:12",
+    "expiresAt": "2026-09-07 16:13",
     "items": [
       {
         "channel": "iranintl",
@@ -700,14 +700,21 @@
         "text": "The UK Maritime Trade Operations announced that several commercial ships in the northern Persian Gulf and the Sea of Oman were targeted by fire. The organization has received reports about these attacks but has not confirmed casualties or environmental impacts. Investigations are ongoing, and sailors are advised to follow security updates.",
         "time": "16:11",
         "ts": 1788624698
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fatemeh Mohajerani, the government spokesperson, described the December 1404 protests as the bitterest days of her career. She told Masoud Pezeshkian that despite no doubt about foreign interference, she does not really know the details of the matter. She also questioned how society reached a point where a security force member was martyred.",
+        "time": "16:13",
+        "ts": 1788624810
       }
     ],
     "language": "en",
-    "packId": "20260905-66",
-    "sequence": 66,
+    "packId": "20260905-67",
+    "sequence": 67,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:12"
+    "updatedAt": "16:13"
   },
   "verified": true
 }
