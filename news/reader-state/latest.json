@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-41 seq=41 exp=1788781497",
+      "advancedStatus": "pack_id=20260905-42 seq=42 exp=1788781974",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:44",
+      "lastChecked": "11:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 11:44",
+    "expiresAt": "2026-09-07 11:52",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -662,13 +662,19 @@
         "text": "خبرگزاری ایلنا به بازماندگی از تحصیل کودکان و نوجوانان در مناطق مرزی آذربایجان غربی پرداخته است. فقر، فاصله طولانی تا مدارس و کمبود سرویس رفت‌وآمد از عوامل اصلی عنوان شده‌اند. کارشناسان هشدار داده‌اند که این وضعیت می‌تواند به گسترش فقر و افزایش آسیب‌های اجتماعی منجر شود.",
         "time": "11:44",
         "ts": 1788608670
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "داروهای ساده پزشکی کمیاب شده و بازار سیاه دارو کاهش یافته است. شهریه مدارس بسیار گران شده و قطعی برق در محله جیحون تهران به مدت چهار ساعت ادامه داشته است. قیمت اقلامی مانند ذرت و سویا به شدت افزایش یافته است.",
+        "time": "11:52",
+        "ts": 1788609153
       }
     ],
-    "packId": "20260905-41",
-    "sequence": 41,
+    "packId": "20260905-42",
+    "sequence": 42,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "11:44"
+    "updatedAt": "11:52"
   },
   "verified": true
 }
