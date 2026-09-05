@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-41 seq=41 exp=1788781497",
+      "advancedStatus": "pack_id=20260905-42 seq=42 exp=1788781974",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:44",
+      "lastChecked": "11:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 11:44",
+    "expiresAt": "2026-09-07 11:52",
     "items": [
       {
         "channel": "iranintl",
@@ -770,14 +770,21 @@
         "text": "ILNA news agency reported on school dropout among children and adolescents in the border areas of West Azerbaijan. Poverty, long distances to schools, and lack of transportation services are cited as main factors. Experts warn that this situation may lead to increased poverty and social harm.",
         "time": "11:44",
         "ts": 1788608670
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Simple medical drugs have become scarce and the black market for drugs has decreased. School tuition fees have become very expensive, and a power outage lasted for four hours in the Jeyhoon neighborhood of Tehran. Prices of items like corn and soy have increased sharply.",
+        "time": "11:52",
+        "ts": 1788609153
       }
     ],
     "language": "en",
-    "packId": "20260905-41",
-    "sequence": 41,
+    "packId": "20260905-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:44"
+    "updatedAt": "11:52"
   },
   "verified": true
 }
