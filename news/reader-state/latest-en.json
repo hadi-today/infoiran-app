@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-11 seq=11 exp=1788763425",
+      "advancedStatus": "pack_id=20260905-12 seq=12 exp=1788763516",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:43",
+      "lastChecked": "06:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 06:43",
+    "expiresAt": "2026-09-07 06:45",
     "items": [
       {
         "channel": "iranintl",
@@ -791,14 +791,21 @@
         "text": "Daneshjoo news agency reported that a small Islamic Republic oil tanker was attacked on Khark Island. The attack was carried out by the US military with a missile. There were no casualties, and no other sources have confirmed the report yet.",
         "time": "06:43",
         "ts": 1788590604
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Chamran, head of Tehran City Council, called for preemptive actions to disrupt the enemy's war formation and stated that a deterrent attack can be part of defense. He emphasized the creation of public shelters and designing multi-story parking lots to be usable as shelters in emergencies.",
+        "time": "06:44",
+        "ts": 1788590697
       }
     ],
     "language": "en",
-    "packId": "20260905-11",
-    "sequence": 11,
+    "packId": "20260905-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:43"
+    "updatedAt": "06:45"
   },
   "verified": true
 }
