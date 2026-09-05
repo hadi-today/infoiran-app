@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-01 seq=1 exp=1788741315",
+      "advancedStatus": "pack_id=20260905-02 seq=2 exp=1788742574",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:35",
+      "lastChecked": "00:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 00:35",
+    "expiresAt": "2026-09-07 00:56",
     "items": [
       {
         "channel": "iranintl",
@@ -791,14 +791,21 @@
         "text": "CENTCOM announced that US paratroopers have deployed communication equipment in a remote location in the Middle East. The exact location of the deployment was not disclosed. This action coincides with the ongoing extensive US military presence in the region.",
         "time": "00:34",
         "ts": 1788568492
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Yemen's legitimate government forces have regained control of Saeed Taher Hill and the Dhayban area in Hayfan district from the Houthis. Military positions in the Al-Tuwair front in Taiz province were also recaptured, and the air force bombed Houthi positions. The Yemeni army reported that hundreds of Houthi militants were killed and wounded on the western coast.",
+        "time": "00:55",
+        "ts": 1788569750
       }
     ],
     "language": "en",
-    "packId": "20260905-01",
-    "sequence": 1,
+    "packId": "20260905-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:35"
+    "updatedAt": "00:56"
   },
   "verified": true
 }
