@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-65 seq=65 exp=1788797104",
+      "advancedStatus": "pack_id=20260905-66 seq=66 exp=1788797523",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:05",
+      "lastChecked": "16:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 16:05",
+    "expiresAt": "2026-09-07 16:12",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Rescuers in Nepal saved one survivor nine days after an ice, rock, and mudslide in a tunnel connected to a hydropower plant on the Trishuli River. The incident occurred on Wednesday, 4 Shahrivar, trapping at least 900 people in the tunnels. The Nepal Army released a video of the rescue operation.",
-        "time": "16:09",
-        "ts": 1788538143
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -700,14 +693,21 @@
         "text": "The UK Maritime Trade Operations center reported that several commercial ships in the northern Persian Gulf and the Sea of Oman have been targeted by fire. These attacks occurred within the ongoing military activities in the region. The aim of the attacks was to disable the ships.",
         "time": "16:04",
         "ts": 1788624281
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The UK Maritime Trade Operations announced that several commercial ships in the northern Persian Gulf and the Sea of Oman were targeted by fire. The organization has received reports about these attacks but has not confirmed casualties or environmental impacts. Investigations are ongoing, and sailors are advised to follow security updates.",
+        "time": "16:11",
+        "ts": 1788624698
       }
     ],
     "language": "en",
-    "packId": "20260905-65",
-    "sequence": 65,
+    "packId": "20260905-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:05"
+    "updatedAt": "16:12"
   },
   "verified": true
 }
