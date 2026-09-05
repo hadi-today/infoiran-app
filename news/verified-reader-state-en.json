@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260905-10 seq=10 exp=1788762426",
+      "advancedStatus": "pack_id=20260905-11 seq=11 exp=1788763425",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:27",
+      "lastChecked": "06:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-05",
-    "expiresAt": "2026-09-07 06:27",
+    "expiresAt": "2026-09-07 06:43",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Dadpay pointed out that due to currency shortages and budget deficits, the government transfers the crisis costs to the people by printing money. This process reduces asset values and purchasing power, acting as a hidden tax. Additionally, liquidity growth and budget deficits have pushed several economic indicators into the red zone.",
-        "time": "06:31",
-        "ts": 1788503507
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Erfan Ghanei-Fard stated that regime change in Iran has become part of Israel's security doctrine. He added that the collapse of the Islamic Republic requires multilayered pressure, including disruption of command structures and weakening of the repression apparatus. These measures would create conditions for internal protests and divisions within the government.",
-        "time": "06:41",
-        "ts": 1788504066
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -798,14 +784,21 @@
         "text": "Alireza Namvar Haghighi stated that the US, UK, France, and Germany are trying to refer Iran's nuclear file back to the UN Security Council. He said this move is mostly symbolic and political. Practically, it will not bring any new measures beyond existing resolutions and sanctions.",
         "time": "06:26",
         "ts": 1788589605
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Daneshjoo news agency reported that a small Islamic Republic oil tanker was attacked on Khark Island. The attack was carried out by the US military with a missile. There were no casualties, and no other sources have confirmed the report yet.",
+        "time": "06:43",
+        "ts": 1788590604
       }
     ],
     "language": "en",
-    "packId": "20260905-10",
-    "sequence": 10,
+    "packId": "20260905-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:27"
+    "updatedAt": "06:43"
   },
   "verified": true
 }
