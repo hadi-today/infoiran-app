@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-76 seq=76 exp=1788881077",
+      "advancedStatus": "pack_id=20260906-77 seq=77 exp=1788881737",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:24",
+      "lastChecked": "15:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 15:24",
+    "expiresAt": "2026-09-08 15:35",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Alireza Zakani, the mayor of Tehran, said that the United States has no limits and will always demand more regardless of what it is given. He also stated that so far, the actions of the Americans regarding the JCPOA have been against their commitments.",
-        "time": "15:26",
-        "ts": 1788621972
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Abolhasan Fatemi, Khamenei's representative in Chaharmahal and Bakhtiari, stated that in this critical historical period, the presence of clerics in gatherings and religious sessions has become more necessary. He emphasized that people pay attention to the number of clerics present at events and judge accordingly.",
-        "time": "15:28",
-        "ts": 1788622097
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of Iranians in Nuremberg, Germany, commemorated the memory of the eternal names with a performance and gathering. The event took place on September 5th. Organizers introduced the eternal names and expressed support for the Iranian national revolution in Germany.",
-        "time": "15:34",
-        "ts": 1788622494
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -798,14 +777,21 @@
         "text": "The National Security Commission of the Parliament approved Article 9 of the Strategic Action Plan to Secure the Strait of Hormuz. According to this resolution, passage of vessels or cargo related to countries that sanction the Islamic Republic or take hostile actions is prohibited. The Armed Forces Headquarters is responsible for identifying hostile actions, and the Supreme National Security Council will determine the countries and institutions imposing sanctions.",
         "time": "15:23",
         "ts": 1788708180
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The governor of Kohgiluyeh and Boyer-Ahmad announced that 176 villages are facing water stress. The governor of Boyer-Ahmad reported severe water stress in 9 villages, with some springs completely dried up. The CEO of the water and wastewater company stated that restoring springs and water transmission lines is essential for sustainable water supply.",
+        "time": "15:35",
+        "ts": 1788708908
       }
     ],
     "language": "en",
-    "packId": "20260906-76",
-    "sequence": 76,
+    "packId": "20260906-77",
+    "sequence": 77,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:24"
+    "updatedAt": "15:35"
   },
   "verified": true
 }
