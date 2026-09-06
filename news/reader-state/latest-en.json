@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-35 seq=35 exp=1788859879",
+      "advancedStatus": "pack_id=20260906-36 seq=36 exp=1788859970",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:31",
+      "lastChecked": "09:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 09:31",
+    "expiresAt": "2026-09-08 09:32",
     "items": [
       {
         "channel": "iranintl",
@@ -707,14 +707,21 @@
         "text": "Nahid Nafisi, head of the National Breast Surgery Association, reported 23,000 to 25,000 new annual breast cancer cases in Iran. The average age of onset in Iran is about 48 to 50 years, which is 10 years younger than the global average. She also mentioned the increasing trend of incidence and related factors.",
         "time": "09:30",
         "ts": 1788687053
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of young job seekers from the villages of Moran and Amisheh in Khuzestan province protested for the tenth consecutive day in front of the Dabbol Khazaei Agro-Industry Company. They are protesting the failure to prioritize the employment of local forces. The protest took place on Sunday, September 6.",
+        "time": "09:32",
+        "ts": 1788687129
       }
     ],
     "language": "en",
-    "packId": "20260906-35",
-    "sequence": 35,
+    "packId": "20260906-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:31"
+    "updatedAt": "09:32"
   },
   "verified": true
 }
