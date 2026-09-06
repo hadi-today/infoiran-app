@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-06 seq=6 exp=1788843705",
+      "advancedStatus": "pack_id=20260906-07 seq=7 exp=1788843881",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:01",
+      "lastChecked": "05:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 05:01",
+    "expiresAt": "2026-09-08 05:04",
     "items": [
       {
         "channel": "iranintl",
@@ -679,14 +679,21 @@
         "text": "Habibollah Sayari said Trump repeatedly claims Iran has no nuclear weapons and faces economic problems. Sayari added that Iran's armed forces are working to enhance deterrence capabilities. He referred to past wars and stated efforts continue to strengthen strengths.",
         "time": "05:01",
         "ts": 1788670884
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fatemeh Azizkhani stated that the poverty line in 1405 will be about 32 million tomans nationwide and over 62 million tomans in Tehran. She warned that without an economic security network, even working households will fall below the poverty line. Additionally, increased security pressures to control labor protests have been reported.",
+        "time": "05:04",
+        "ts": 1788671058
       }
     ],
     "language": "en",
-    "packId": "20260906-06",
-    "sequence": 6,
+    "packId": "20260906-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:01"
+    "updatedAt": "05:04"
   },
   "verified": true
 }
