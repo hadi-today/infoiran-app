@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-14 seq=14 exp=1788850241",
+      "advancedStatus": "pack_id=20260906-15 seq=15 exp=1788850387",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:50",
+      "lastChecked": "06:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 06:50",
+    "expiresAt": "2026-09-08 06:53",
     "items": [
       {
         "channel": "iranintl",
@@ -693,14 +693,21 @@
         "text": "Omid Memarian, a political analyst, said that the Islamic Republic is trying to impose costs on the US by disrupting the Persian Gulf and Strait of Hormuz. He added that if Iran cannot maintain this pressure, the balance of power will shift completely in favor of the US.",
         "time": "06:50",
         "ts": 1788677417
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fathollah Tavassoli stated that the US and Europe cannot weaken the Iranian nation through sanctions. He emphasized that Iran has resisted demands and continued its domestic progress and international cooperation. Economic pressures have increased internal cohesion and reduced trust in the West.",
+        "time": "06:52",
+        "ts": 1788677568
       }
     ],
     "language": "en",
-    "packId": "20260906-14",
-    "sequence": 14,
+    "packId": "20260906-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:50"
+    "updatedAt": "06:53"
   },
   "verified": true
 }
