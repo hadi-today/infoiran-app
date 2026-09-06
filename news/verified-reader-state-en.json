@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-74 seq=74 exp=1788880853",
+      "advancedStatus": "pack_id=20260906-75 seq=75 exp=1788880982",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:20",
+      "lastChecked": "15:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 15:20",
+    "expiresAt": "2026-09-08 15:23",
     "items": [
       {
         "channel": "iranintl",
@@ -784,14 +784,28 @@
         "text": "The brother of Mojtaba Khamenei's wife revealed that Ali Khamenei has handed over the political, security, and financial affairs of the country to his son for 25 years. Meanwhile, The Sunday Times reported that two luxury apartments of Mojtaba Khamenei in London, worth 36 million pounds, have been put up for sale. This report was prepared by Mojtaba Pourmohsen.",
         "time": "15:20",
         "ts": 1788708019
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Amir Ali Falahati, a teenager from Mashhad who was detained during military clashes, was released on bail. This release took place on Saturday, 14 Shahrivar 1405. The news was reported by HRANA news agency.",
+        "time": "15:22",
+        "ts": 1788708158
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The National Security Commission of the Parliament approved Article 9 of the Strategic Action Plan to Secure the Strait of Hormuz. According to this resolution, passage of vessels or cargo related to countries that sanction the Islamic Republic or take hostile actions is prohibited. The Armed Forces Headquarters is responsible for identifying hostile actions, and the Supreme National Security Council will determine the countries and institutions imposing sanctions.",
+        "time": "15:23",
+        "ts": 1788708180
       }
     ],
     "language": "en",
-    "packId": "20260906-74",
-    "sequence": 74,
+    "packId": "20260906-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:20"
+    "updatedAt": "15:23"
   },
   "verified": true
 }
