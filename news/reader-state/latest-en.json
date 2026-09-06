@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-83 seq=83 exp=1788884526",
+      "advancedStatus": "pack_id=20260906-84 seq=84 exp=1788884785",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:22",
+      "lastChecked": "16:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 16:22",
+    "expiresAt": "2026-09-08 16:26",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US Department of Defense denied a Reuters report about considering options to replace Deputy Secretary of Defense Steve Feinberg, stating no process is underway to replace him. The department added that it has \"never had a better deputy.\" The White House and the Secretary of Defense also expressed support for Feinberg's performance.",
-        "time": "16:25",
-        "ts": 1788625529
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -784,14 +777,21 @@
         "text": "The US dollar rate in Iran's free market reached 228,000 tomans. The price of each new design gold coin also increased to 239,500,000 tomans. Arzoo Karimi evaluated the price fluctuations and the role of the Central Bank.",
         "time": "16:21",
         "ts": 1788711698
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Chris Wright, the US Secretary of Energy, said the United States is pressuring Iran's economy to change the current government's policy or form a new government. He described preventing Iran's oil and gas exports as the US military's main role in this strategy. Wright also emphasized that the US is always ready for an agreement and that Donald Trump's goal is to reach a negotiated solution.",
+        "time": "16:26",
+        "ts": 1788711962
       }
     ],
     "language": "en",
-    "packId": "20260906-83",
-    "sequence": 83,
+    "packId": "20260906-84",
+    "sequence": 84,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:22"
+    "updatedAt": "16:26"
   },
   "verified": true
 }
