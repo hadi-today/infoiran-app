@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-43 seq=43 exp=1788863862",
+      "advancedStatus": "pack_id=20260906-44 seq=44 exp=1788863936",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:37",
+      "lastChecked": "10:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 10:37",
+    "expiresAt": "2026-09-08 10:38",
     "items": [
       {
         "channel": "iranintl",
@@ -735,14 +735,21 @@
         "text": "An official in Israel's National Security Council stated that the Islamic Republic has increased efforts to target opponents, journalists, Jews, and Israelis abroad. Operational units are active in various countries and exploit the lack of full security support for opponents. The official also mentioned the Islamic Republic's revenge efforts following the killing of Ali Khamenei and senior officials.",
         "time": "10:37",
         "ts": 1788691041
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Moslehi described the gasoline crisis in Iran as a result of distribution and economic problems. He stated that the Islamic Republic cannot blame gasoline shortages on consumer usage. He also pointed to the lack of options for fuel-efficient vehicles and public transportation.",
+        "time": "10:38",
+        "ts": 1788691112
       }
     ],
     "language": "en",
-    "packId": "20260906-43",
-    "sequence": 43,
+    "packId": "20260906-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:37"
+    "updatedAt": "10:38"
   },
   "verified": true
 }
