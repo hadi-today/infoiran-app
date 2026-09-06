@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-80 seq=80 exp=1788882633",
+      "advancedStatus": "pack_id=20260906-81 seq=81 exp=1788883442",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:50",
+      "lastChecked": "16:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 15:50",
+    "expiresAt": "2026-09-08 16:04",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US Embassy in Bahrain issued a security alert on Saturday, September 5, asking American citizens to exercise increased caution due to the possibility of an 'unforeseen escalation' of tensions in the Middle East. The embassy stated that the Islamic Republic and its affiliated groups may target US interests and American citizens worldwide. This warning was issued hours before the announcement of a US attack on three Iranian oil tankers.",
-        "time": "16:01",
-        "ts": 1788624060
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -798,14 +791,21 @@
         "text": "The Israeli Prime Minister stated that the country is stronger than ever and has eliminated the threat of nuclear bombs and ballistic missiles. He said the Iran axis has been targeted and the Iranian regime is collapsing. Netanyahu warned that if Iran attacks Israel, it will suffer a severe blow.",
         "time": "15:50",
         "ts": 1788709808
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Tractor Club stated that the released audio file of Khodadad Azizi was edited and distorted, calling it against national and security interests. The club requested the competent authorities to investigate the matter. It also announced that judicial and disciplinary follow-up will be carried out.",
+        "time": "16:03",
+        "ts": 1788710608
       }
     ],
     "language": "en",
-    "packId": "20260906-80",
-    "sequence": 80,
+    "packId": "20260906-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:50"
+    "updatedAt": "16:04"
   },
   "verified": true
 }
