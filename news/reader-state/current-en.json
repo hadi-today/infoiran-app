@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-29 seq=29 exp=1788858347",
+      "advancedStatus": "pack_id=20260906-30 seq=30 exp=1788858418",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:05",
+      "lastChecked": "09:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 09:05",
+    "expiresAt": "2026-09-08 09:06",
     "items": [
       {
         "channel": "harana",
@@ -693,14 +693,21 @@
         "text": "A citizen sent a video showing that papers have been distributed in Basij centers. These papers allow Basij members to receive free bread by presenting them. Each presenter can receive up to 26 pieces of free bread.",
         "time": "09:05",
         "ts": 1788685523
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "In Mashhad, gas stations are crowded due to fuel shortages and reduced quotas. Prices of gasoline and essential goods like meat and gold have sharply increased. Additionally, new hijab enforcement orders have been reported, and the morality police vans have been reactivated.",
+        "time": "09:06",
+        "ts": 1788685596
       }
     ],
     "language": "en",
-    "packId": "20260906-29",
-    "sequence": 29,
+    "packId": "20260906-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:05"
+    "updatedAt": "09:06"
   },
   "verified": true
 }
