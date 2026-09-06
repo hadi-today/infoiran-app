@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-112 seq=112 exp=1788908659",
+      "advancedStatus": "pack_id=20260906-113 seq=113 exp=1788909946",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:04",
+      "lastChecked": "23:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 23:04",
+    "expiresAt": "2026-09-08 23:25",
     "items": [
       {
         "channel": "vahid online",
@@ -798,14 +798,21 @@
         "text": "An Amazon Prime Air cargo plane ran off the runway while landing at Miami International Airport on Sunday, 15 Shahrivar, causing all runways and flights to be halted. Local officials said at least five people were killed and five others injured. The plane was a Boeing 767 operated by Air 21 for Amazon, and the US Federal Aviation Administration has begun investigating the cause.",
         "time": "23:03",
         "ts": 1788735837
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Leon Panetta, former US defense secretary, warned that the war with the Islamic Republic may continue for at least six more months and could become a never-ending war. He presented three options for the US and said victory is only possible by changing the approach and focusing on reopening the Strait of Hormuz. Panetta also pointed to chaos in the Pentagon and concerns about war management.",
+        "time": "23:25",
+        "ts": 1788737125
       }
     ],
     "language": "en",
-    "packId": "20260906-112",
-    "sequence": 112,
+    "packId": "20260906-113",
+    "sequence": 113,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:04"
+    "updatedAt": "23:25"
   },
   "verified": true
 }
