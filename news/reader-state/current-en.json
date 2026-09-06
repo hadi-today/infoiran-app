@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-90 seq=90 exp=1788889004",
+      "advancedStatus": "pack_id=20260906-91 seq=91 exp=1788889790",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:36",
+      "lastChecked": "17:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 17:36",
+    "expiresAt": "2026-09-08 17:49",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The spokesperson of Khatam al-Anbia Headquarters warned that if the US continues to harass Iranian ships, the armed forces will strike US military vessels more severely. The sounds heard in Jask and Qeshm were due to punishing violating vessels in the Strait of Hormuz. The US Secretary of Defense also warned that if Iran fires at American ships, Iranian oil tankers will be destroyed.",
-        "time": "17:38",
-        "ts": 1788629939
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -770,14 +763,21 @@
         "text": "Some neighboring countries have refused to accept Iran's transit shipments. Iranian trucks remain stranded at the borders. Tehran cannot rely unconditionally on transit through Islamabad.",
         "time": "17:36",
         "ts": 1788716180
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Ali Mohammad Baghshahi, a clinical psychology student at Beheshti University, was arrested after appearing at Yazd Prosecutor's Office. This occurred on Sunday, 15 Shahrivar. No further details are provided in the text.",
+        "time": "17:49",
+        "ts": 1788716962
       }
     ],
     "language": "en",
-    "packId": "20260906-90",
-    "sequence": 90,
+    "packId": "20260906-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:36"
+    "updatedAt": "17:49"
   },
   "verified": true
 }
