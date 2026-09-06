@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-45 seq=45 exp=1788864185",
+      "advancedStatus": "pack_id=20260906-46 seq=46 exp=1788865366",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:43",
+      "lastChecked": "11:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 10:43",
+    "expiresAt": "2026-09-08 11:02",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Masoud Pezeshkian and Ahmadreza Radan inaugurated the first smart police boarding high school. This school was established to identify and train teenagers for the police force. Similar schools are planned to be opened in other provinces.",
-        "time": "10:43",
-        "ts": 1788605019
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -735,14 +728,28 @@
         "text": "Saeed Shiayi, a 17-year-old teenager detained during the nationwide protests of December 2025, was released on bail from the Mashhad Correction and Rehabilitation Center. He is a resident of Sabzevar. The news was reported by the HRANA news agency.",
         "time": "10:42",
         "ts": 1788691362
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A worker on the Ahvaz metro project set himself on fire in front of the city hall due to five months of unpaid wages and dismissal. He was rescued by other workers and taken to the hospital. This incident occurred on the morning of Sunday, September 6.",
+        "time": "11:02",
+        "ts": 1788692539
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The father of Ilya Ojaqloo protested the destruction of his son's tombstone by removing the picture of his brothers killed in the Iran-Iraq war. Ilya Ojaqloo, 18 years old, was shot and killed on the evening of January 8, 2026, in front of Sabzeh Meydan police station in Zanjan.",
+        "time": "11:02",
+        "ts": 1788692548
       }
     ],
     "language": "en",
-    "packId": "20260906-45",
-    "sequence": 45,
+    "packId": "20260906-46",
+    "sequence": 46,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:43"
+    "updatedAt": "11:02"
   },
   "verified": true
 }
