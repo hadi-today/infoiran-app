@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-57 seq=57 exp=1788872494",
+      "advancedStatus": "pack_id=20260906-59 seq=59 exp=1788873639",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:01",
+      "lastChecked": "13:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 13:01",
+    "expiresAt": "2026-09-08 13:20",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Iran International has obtained three audio files of US military communications with the crew of the Stark 1 tanker. Hossein Aghaei analyzes that repeated CENTCOM attacks on tankers may indicate a change in the US military approach. The naval blockade has also moved closer to Iran's ports and islands.",
-        "time": "13:11",
-        "ts": 1788613903
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A video obtained by Iran International shows US military radio warnings to the tanker STARK 1 before it was targeted near Kharg Island. Three warnings are heard via VHF channel, giving the crew time to evacuate. Islamic Republic media reported on Saturday morning that a tanker was targeted six miles from Kharg Island but did not name it.",
-        "time": "13:18",
-        "ts": 1788614289
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -756,14 +742,28 @@
         "text": "Ali Manouchehrabadi, 21 years old, died in Tehran due to direct shooting by officers. His mother lit a candle in the campaign \"One Candle, One Name, One Memory\" in his memory. She said her son was the foundation that could have built his homeland.",
         "time": "13:01",
         "ts": 1788699669
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The head of the Cinema House board reported an increase in summons and case formations for filmmakers after the recent war. Even sharing or liking certain images on social media has led to case formations. The Cinema House's protest was sent to Masoud Pezeshkian and referred to the head of the judiciary and the Culture and Media Prosecutor's Office for review.",
+        "time": "13:19",
+        "ts": 1788700746
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mostafa Moeini Arani, representative of Kashan, described the state of hijab as a deep wound on society. He requested the parliament speaker to notify the government president about the hijab and chastity law. Additionally, Mohammad Seraj mentioned the activity of malicious elements promoting immorality.",
+        "time": "13:19",
+        "ts": 1788700792
       }
     ],
     "language": "en",
-    "packId": "20260906-57",
-    "sequence": 57,
+    "packId": "20260906-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:01"
+    "updatedAt": "13:20"
   },
   "verified": true
 }
