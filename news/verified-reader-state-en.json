@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-88 seq=88 exp=1788887264",
+      "advancedStatus": "pack_id=20260906-89 seq=89 exp=1788888572",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:07",
+      "lastChecked": "17:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 17:07",
+    "expiresAt": "2026-09-08 17:29",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Fereydoun Haddad Adel stated in an interview that Ali Fadavi, a commander of the IRGC, confirmed that orders from Mojtaba Khamenei were approved by the leader. He added that Mojtaba Khamenei has been active in political, security, and military matters since June 1997 and has been an assistant to the leader. The leader has also said several times that Mojtaba is not just a son of the leader but is a leader himself.",
-        "time": "17:22",
-        "ts": 1788628973
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Sohrab Bakhtiyari-Zadeh, the head coach of Esteghlal, announced that Saleh Hardani has been excluded from team training due to unprofessional behavior and recent disorder. He stated that as long as he is coach, Hardani cannot attend training sessions. Bakhtiyari-Zadeh also mentioned that the main reason for this decision was Hardani's unprofessional conduct during a set-piece moment in the derby.",
-        "time": "17:23",
-        "ts": 1788629014
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -777,14 +763,21 @@
         "text": "The US Central Command announced that the Iranian tanker Kaylo sank in the Gulf of Oman. CENTCOM attributed the incident to the precision and professionalism of US military forces. The tanker Kaylo has joined the Iranian navy in the depths of the sea.",
         "time": "17:07",
         "ts": 1788714439
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Esteghlal and Aluminium football teams drew 0-0 in the sixth week of the Premier League. Both teams remained in second and third place with 12 points. Tractor is the league leader, and Persepolis will move to second place if they win tomorrow.",
+        "time": "17:29",
+        "ts": 1788715743
       }
     ],
     "language": "en",
-    "packId": "20260906-88",
-    "sequence": 88,
+    "packId": "20260906-89",
+    "sequence": 89,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:07"
+    "updatedAt": "17:29"
   },
   "verified": true
 }
