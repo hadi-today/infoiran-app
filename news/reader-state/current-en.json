@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-25 seq=25 exp=1788854512",
+      "advancedStatus": "pack_id=20260906-26 seq=26 exp=1788855900",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:01",
+      "lastChecked": "08:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 08:01",
+    "expiresAt": "2026-09-08 08:25",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The public relations of the Seyyed al-Shohada Corps in Tehran province announced that the explosion sound heard in Damavand was related to the educational exercise \"Heydar Karar.\" These sounds were part of the pre-planned exercise activities. There was no prior announcement about this exercise.",
-        "time": "08:04",
-        "ts": 1788595446
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Alireza Zakani, the mayor of Tehran, announced that the city management aims to electrify all of Tehran. The city's energy needs can be met through solar power, local gas-based electricity production, and imported electricity. He also stated that Tehran is pursuing nuclear power and described this plan as a big win for the country.",
-        "time": "08:06",
-        "ts": 1788595560
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Shayan Azadi's sister joined the campaign \"One Candle, One Name, One Memory\" and lit a candle. Shayan Azadi, 25, was killed by government agents during protests in Karaj on the evening of January 8. This act was done in memory of Iran's martyrs.",
-        "time": "08:22",
-        "ts": 1788596530
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -728,14 +707,21 @@
         "text": "A group of Iranians living in Germany protested against executions by the Islamic Republic on Saturday, September 5, in Hamburg, Düsseldorf, and Frankfurt. They chanted \"Long live the Shah.\" This event was reported based on videos received by Iran International.",
         "time": "08:01",
         "ts": 1788681688
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Madanizadeh, the Minister of Economy, responded to the US Treasury Secretary's remarks about intensifying sanctions. He stated that the economy is built by the people, not the US Treasury. These remarks were made in response to economic pressures against the Islamic Republic.",
+        "time": "08:24",
+        "ts": 1788683075
       }
     ],
     "language": "en",
-    "packId": "20260906-25",
-    "sequence": 25,
+    "packId": "20260906-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:01"
+    "updatedAt": "08:25"
   },
   "verified": true
 }
