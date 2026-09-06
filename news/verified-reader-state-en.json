@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-15 seq=15 exp=1788850387",
+      "advancedStatus": "pack_id=20260906-16 seq=16 exp=1788852275",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:53",
+      "lastChecked": "07:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 06:53",
+    "expiresAt": "2026-09-08 07:24",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Taghavi said in the Hattrick program that the 107th derby between Esteghlal and Persepolis was one of the few derbies that everyone was satisfied with. He attributed the many goal opportunities to the disorganized defense of both teams and their quick transition to attack. Fans, coaches, and players were all pleased with the match.",
-        "time": "07:05",
-        "ts": 1788591928
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Simultaneously with the 107th derby between Esteghlal and Persepolis, families and associates of some martyrs of the Iranian National Revolution commemorated their loved ones who were killed by the Islamic Republic in December 2025. Among them were Amir Yektaei-Yeganeh, Mohammadjavad Rahimian, Akbar Hamzeh-Hosseini, and Mehrdad Moshtaqi. This commemoration included the release of images and explanations by Raha Pourbakhsh in the Hattrick program.",
-        "time": "07:19",
-        "ts": 1788592787
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -700,14 +686,21 @@
         "text": "Fathollah Tavassoli stated that the US and Europe cannot weaken the Iranian nation through sanctions. He emphasized that Iran has resisted demands and continued its domestic progress and international cooperation. Economic pressures have increased internal cohesion and reduced trust in the West.",
         "time": "06:52",
         "ts": 1788677568
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Aghaei from Iran International said that US attacks on Iranian oil tankers have approached Iranian ports and islands. This indicates a change in Washington's approach. The US may sink Iranian tankers if tensions continue.",
+        "time": "07:24",
+        "ts": 1788679453
       }
     ],
     "language": "en",
-    "packId": "20260906-15",
-    "sequence": 15,
+    "packId": "20260906-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:53"
+    "updatedAt": "07:24"
   },
   "verified": true
 }
