@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-62 seq=62 exp=1788875669",
+      "advancedStatus": "pack_id=20260906-63 seq=63 exp=1788876003",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:54",
+      "lastChecked": "14:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 13:54",
+    "expiresAt": "2026-09-08 14:00",
     "items": [
       {
         "channel": "iranintl",
@@ -749,14 +749,21 @@
         "text": "The price of the dollar in Iran's free market returned to the 226,000 toman range after surpassing 230,000 toman. The dollar rate on Sunday morning was 226,105 toman. Eghtesad News attributed this decline to the Central Bank's intervention in the market.",
         "time": "13:54",
         "ts": 1788702846
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Iran's Parliament Speaker Mohammad Bagher Ghalibaf said on Sunday, September 6, a day after the US attack on several Iranian tankers in the Persian Gulf, that the era of 'proportionate responses' is over. He threatened that any aggression against Iran would receive a 'faster, heavier, and more painful' response. Ghalibaf also acknowledged economic problems including currency fluctuations, inflation, and unemployment.",
+        "time": "13:59",
+        "ts": 1788703171
       }
     ],
     "language": "en",
-    "packId": "20260906-62",
-    "sequence": 62,
+    "packId": "20260906-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:54"
+    "updatedAt": "14:00"
   },
   "verified": true
 }
