@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-101 seq=101 exp=1788895937",
+      "advancedStatus": "pack_id=20260906-102 seq=102 exp=1788896029",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:32",
+      "lastChecked": "19:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 19:32",
+    "expiresAt": "2026-09-08 19:33",
     "items": [
       {
         "channel": "iranintl",
@@ -784,14 +784,21 @@
         "text": "Donald Trump posted an AI-generated image of an attack by American fighter jets on Khark Island on the Truth Social network. He also shared three statistical charts about Iran's economic situation, including currency value, hyperinflation, and oil exports. These images were published on September 6.",
         "time": "19:31",
         "ts": 1788723114
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohsen Rezaee stated that Israel has taken parts of Lebanon but Lebanon will regain strength and inflict hard blows on Israel. He said the Islamic Republic tested a special anti-destroyer missile over a US warship 48 hours ago. Rezaee reserved the right to respond to the US attack on a wedding ceremony in Kohestak.",
+        "time": "19:33",
+        "ts": 1788723203
       }
     ],
     "language": "en",
-    "packId": "20260906-101",
-    "sequence": 101,
+    "packId": "20260906-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:32"
+    "updatedAt": "19:33"
   },
   "verified": true
 }
