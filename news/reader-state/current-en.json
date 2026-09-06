@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-56 seq=56 exp=1788871138",
+      "advancedStatus": "pack_id=20260906-57 seq=57 exp=1788872494",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:38",
+      "lastChecked": "13:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 12:38",
+    "expiresAt": "2026-09-08 13:01",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The governor of Qazvin announced a shortage of about 500 hospital beds in the province, stating that the per capita hospital bed ratio in Qazvin is 1.5 beds per thousand people. He also cited the dilapidation of medical equipment and infrastructure, a shortage of specialist doctors, and emergency medical personnel as other problems in the province's health sector.",
-        "time": "12:53",
-        "ts": 1788612804
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -756,14 +749,21 @@
         "text": "Mehdi Chamran, head of Tehran City Council, stated that Iran should not allow attacks and must act preemptively. He emphasized that the Islamic Republic should respond to US actions with unity and resistance. He also expressed regret that such a person is the president of the United States.",
         "time": "12:38",
         "ts": 1788698318
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Manouchehrabadi, 21 years old, died in Tehran due to direct shooting by officers. His mother lit a candle in the campaign \"One Candle, One Name, One Memory\" in his memory. She said her son was the foundation that could have built his homeland.",
+        "time": "13:01",
+        "ts": 1788699669
       }
     ],
     "language": "en",
-    "packId": "20260906-56",
-    "sequence": 56,
+    "packId": "20260906-57",
+    "sequence": 57,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:38"
+    "updatedAt": "13:01"
   },
   "verified": true
 }
