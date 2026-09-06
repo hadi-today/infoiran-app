@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-07 seq=7 exp=1788843881",
+      "advancedStatus": "pack_id=20260906-08 seq=8 exp=1788844481",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:04",
+      "lastChecked": "05:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 05:04",
+    "expiresAt": "2026-09-08 05:14",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Shahram Khaledi mentioned the possibility of a US attack on the Kooh Kalang nuclear site. He said the impact of such an attack depends on how it is carried out. Destroying underground equipment may require many bunker-buster bombs or special forces.",
-        "time": "05:05",
-        "ts": 1788584724
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -686,14 +679,21 @@
         "text": "Fatemeh Azizkhani stated that the poverty line in 1405 will be about 32 million tomans nationwide and over 62 million tomans in Tehran. She warned that without an economic security network, even working households will fall below the poverty line. Additionally, increased security pressures to control labor protests have been reported.",
         "time": "05:04",
         "ts": 1788671058
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morteza Zamaniyan, Deputy Minister of Economy, announced the formation of an Economic War Headquarters to coordinate and quickly resolve economic issues. The initial focus of this headquarters is on the duties of the Ministry of Economy. The goal is to facilitate cooperation between agencies and prevent bureaucratic delays.",
+        "time": "05:14",
+        "ts": 1788671659
       }
     ],
     "language": "en",
-    "packId": "20260906-07",
-    "sequence": 7,
+    "packId": "20260906-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:04"
+    "updatedAt": "05:14"
   },
   "verified": true
 }
