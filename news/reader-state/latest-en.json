@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-61 seq=61 exp=1788875514",
+      "advancedStatus": "pack_id=20260906-62 seq=62 exp=1788875669",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:51",
+      "lastChecked": "13:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 13:51",
+    "expiresAt": "2026-09-08 13:54",
     "items": [
       {
         "channel": "iranintl",
@@ -742,14 +742,21 @@
         "text": "Armin Teymouri Rad, 19, his father Omid Teymouri Rad, 47, and his uncle Omid Teymouri Rad, 42, were killed on January 8 in Fardis, Karaj by government forces. The date on their grave is January 9. Omid's wife and Armin's mother were also severely injured by gunfire.",
         "time": "13:51",
         "ts": 1788702691
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The price of the dollar in Iran's free market returned to the 226,000 toman range after surpassing 230,000 toman. The dollar rate on Sunday morning was 226,105 toman. Eghtesad News attributed this decline to the Central Bank's intervention in the market.",
+        "time": "13:54",
+        "ts": 1788702846
       }
     ],
     "language": "en",
-    "packId": "20260906-61",
-    "sequence": 61,
+    "packId": "20260906-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:51"
+    "updatedAt": "13:54"
   },
   "verified": true
 }
