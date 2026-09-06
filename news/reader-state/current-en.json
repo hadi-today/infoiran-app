@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-66 seq=66 exp=1788877574",
+      "advancedStatus": "pack_id=20260906-67 seq=67 exp=1788877654",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:26",
+      "lastChecked": "14:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 14:26",
+    "expiresAt": "2026-09-08 14:27",
     "items": [
       {
         "channel": "iranintl",
@@ -763,14 +763,21 @@
         "text": "Steve Whitkoff and Jared Kushner, special envoys of Donald Trump, visited Kyiv after meeting Vladimir Putin in Moscow. Volodymyr Zelensky emphasized the need for security guarantees to end the Russia-Ukraine war. These meetings are part of Washington's efforts to end the war.",
         "time": "14:24",
         "ts": 1788704683
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Razieh Alishvandi stated that efforts to follow up on the status of four captured pilots in Qatar have not yet yielded results. A meeting is planned between the head of Iran's Red Crescent and the head of the International Committee of the Red Cross. A request for a meeting with the Qatar Red Crescent has also been submitted.",
+        "time": "14:27",
+        "ts": 1788704821
       }
     ],
     "language": "en",
-    "packId": "20260906-66",
-    "sequence": 66,
+    "packId": "20260906-67",
+    "sequence": 67,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:26"
+    "updatedAt": "14:27"
   },
   "verified": true
 }
