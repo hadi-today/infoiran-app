@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-06 seq=6 exp=1788843705",
+      "advancedStatus": "pack_id=20260906-07 seq=7 exp=1788843881",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:01",
+      "lastChecked": "05:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 05:01",
+    "expiresAt": "2026-09-08 05:04",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -584,13 +584,19 @@
         "text": "حبیب‌الله سیاری گفت ترامپ جملاتی را درباره نداشتن سلاح هسته‌ای و مشکلات اقتصادی ایران تکرار می‌کند. سیاری افزود که نیروهای مسلح ایران در حال ارتقای توان بازدارندگی هستند. او به تجربیات جنگ‌های گذشته اشاره کرد و گفت تلاش برای تقویت نقاط قوت ادامه دارد.",
         "time": "05:01",
         "ts": 1788670884
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "فاطمه عزیزخانی اعلام کرد خط فقر در سال ۱۴۰۵ در کل کشور حدود ۳۲ میلیون تومان و در تهران بیش از ۶۲ میلیون تومان است. او هشدار داد اگر شبکه امنیت اقتصادی طراحی نشود، خانوارهای شاغل نیز به زیر خط فقر خواهند رفت. همچنین، افزایش فشارهای امنیتی برای مهار اعتراضات صنفی گزارش شده است.",
+        "time": "05:04",
+        "ts": 1788671058
       }
     ],
-    "packId": "20260906-06",
-    "sequence": 6,
+    "packId": "20260906-07",
+    "sequence": 7,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "05:01"
+    "updatedAt": "05:04"
   },
   "verified": true
 }
