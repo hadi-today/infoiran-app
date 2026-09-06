@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-95 seq=95 exp=1788892268",
+      "advancedStatus": "pack_id=20260906-96 seq=96 exp=1788893210",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:31",
+      "lastChecked": "18:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 18:31",
+    "expiresAt": "2026-09-08 18:46",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Mehdi Shafakhah, an activist in education and support for working children, was sentenced to two years and three months in prison by Branch 29 of the Tehran Revolutionary Court. His charges include propaganda against the regime and insulting the leader. This news was reported by Harana News Agency.",
-        "time": "18:41",
-        "ts": 1788633686
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Alireza Zakani stated that in the attack that led to the death of Ali Khamenei, his library and manuscripts were destroyed. So far, there is no news of his will. These remarks were made in response to a question about the will of the former leader of the Islamic Republic.",
-        "time": "18:42",
-        "ts": 1788633761
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -784,14 +770,21 @@
         "text": "Fatemeh Mohajerani announced that the 60-liter gasoline quota will remain at 1500 tomans and the 50-liter gasoline quota at 3000 tomans without change. The gas station card rate will increase to 10,000 tomans from midnight on September 7.",
         "time": "18:30",
         "ts": 1788719444
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohsen Rezaei announced that the Islamic Republic will declare a new restricted zone in the Persian Gulf starting from the US naval blockade line. Any ship entering this zone will be subject to sanctions by the Islamic Republic. Rezaei described the Strait of Hormuz as completely closed and called Donald Trump's statements about its openness a lie.",
+        "time": "18:46",
+        "ts": 1788720382
       }
     ],
     "language": "en",
-    "packId": "20260906-95",
-    "sequence": 95,
+    "packId": "20260906-96",
+    "sequence": 96,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:31"
+    "updatedAt": "18:46"
   },
   "verified": true
 }
