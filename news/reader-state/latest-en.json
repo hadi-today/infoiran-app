@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-79 seq=79 exp=1788882375",
+      "advancedStatus": "pack_id=20260906-80 seq=80 exp=1788882633",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:46",
+      "lastChecked": "15:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 15:46",
+    "expiresAt": "2026-09-08 15:50",
     "items": [
       {
         "channel": "iranintl",
@@ -791,14 +791,21 @@
         "text": "According to a report by the Joint Maritime Information Center, no oil tanker passed through the Strait of Hormuz without US assistance from 12 to 14 Shahrivar. During the same period, US data indicates 59 cases of ships passing with the country's help.",
         "time": "15:45",
         "ts": 1788709554
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli Prime Minister stated that the country is stronger than ever and has eliminated the threat of nuclear bombs and ballistic missiles. He said the Iran axis has been targeted and the Iranian regime is collapsing. Netanyahu warned that if Iran attacks Israel, it will suffer a severe blow.",
+        "time": "15:50",
+        "ts": 1788709808
       }
     ],
     "language": "en",
-    "packId": "20260906-79",
-    "sequence": 79,
+    "packId": "20260906-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:46"
+    "updatedAt": "15:50"
   },
   "verified": true
 }
