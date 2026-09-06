@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-34 seq=34 exp=1788859617",
+      "advancedStatus": "pack_id=20260906-35 seq=35 exp=1788859879",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:26",
+      "lastChecked": "09:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 09:26",
+    "expiresAt": "2026-09-08 09:31",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Israeli army captured the strategic heights of Ali al-Taher and Hezbollah's command tunnels. These attacks followed Hezbollah firing a drone towards Israeli forces in southern Lebanon. More details are provided in an interview with an Iran International reporter.",
-        "time": "09:28",
-        "ts": 1788600529
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -707,14 +700,21 @@
         "text": "Ahmad Bakhshaish Ardestani stated that if the war prolongs, there is a possibility of the US using a nuclear bomb and Trump is willing to take that risk. He also commented on Iran's orientation towards the East and the current economic conditions. The parliament is working to double the amount of ration coupons.",
         "time": "09:26",
         "ts": 1788686796
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Nahid Nafisi, head of the National Breast Surgery Association, reported 23,000 to 25,000 new annual breast cancer cases in Iran. The average age of onset in Iran is about 48 to 50 years, which is 10 years younger than the global average. She also mentioned the increasing trend of incidence and related factors.",
+        "time": "09:30",
+        "ts": 1788687053
       }
     ],
     "language": "en",
-    "packId": "20260906-34",
-    "sequence": 34,
+    "packId": "20260906-35",
+    "sequence": 35,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:26"
+    "updatedAt": "09:31"
   },
   "verified": true
 }
