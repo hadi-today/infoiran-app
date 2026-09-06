@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-104 seq=104 exp=1788897411",
+      "advancedStatus": "pack_id=20260906-105 seq=105 exp=1788899561",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:56",
+      "lastChecked": "20:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 19:56",
+    "expiresAt": "2026-09-08 20:32",
     "items": [
       {
         "channel": "iranintl",
@@ -784,14 +784,21 @@
         "text": "Leila Morvati said the simultaneous naval blockade and economic sanctions have increased pressure on the Islamic Republic. So far, there is no sign of a change in Tehran's strategy and the likelihood of escalating tensions remains high. China is an important buyer of Iranian oil but is unlikely to risk its relations with the US.",
         "time": "19:56",
         "ts": 1788724586
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohsen Rezaei announced that the Islamic Republic intends to declare an area outside the Strait of Hormuz as a forbidden zone. Any ship entering this area with the aim of passing through the strait will be sanctioned. Rezaei said this action could have a greater impact than missile attacks.",
+        "time": "20:32",
+        "ts": 1788726735
       }
     ],
     "language": "en",
-    "packId": "20260906-104",
-    "sequence": 104,
+    "packId": "20260906-105",
+    "sequence": 105,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:56"
+    "updatedAt": "20:32"
   },
   "verified": true
 }
