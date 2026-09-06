@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260906-96 seq=96 exp=1788893210",
+      "advancedStatus": "pack_id=20260906-97 seq=97 exp=1788893654",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:46",
+      "lastChecked": "18:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-06",
-    "expiresAt": "2026-09-08 18:46",
+    "expiresAt": "2026-09-08 18:54",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ahmad Nadari stated that the Islamic Republic may carry out preemptive attacks to defend its interests if necessary. He said the Islamic Republic is prepared for full-scale war and reciprocal response. Additionally, it will deliver heavy and military responses if sanctions escalate.",
-        "time": "18:47",
-        "ts": 1788634076
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -777,14 +770,21 @@
         "text": "Mohsen Rezaei announced that the Islamic Republic will declare a new restricted zone in the Persian Gulf starting from the US naval blockade line. Any ship entering this zone will be subject to sanctions by the Islamic Republic. Rezaei described the Strait of Hormuz as completely closed and called Donald Trump's statements about its openness a lie.",
         "time": "18:46",
         "ts": 1788720382
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Contrary to Iran's international commitments under the Convention on the Rights of the Child, several adolescents from Dorud city were sent to the \"Rahian-e Noor\" camp in war operational areas. This action violates Iran's obligations regarding the non-use of children in military activities. The issue was reported by Harana News Agency.",
+        "time": "18:53",
+        "ts": 1788720830
       }
     ],
     "language": "en",
-    "packId": "20260906-96",
-    "sequence": 96,
+    "packId": "20260906-97",
+    "sequence": 97,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:46"
+    "updatedAt": "18:54"
   },
   "verified": true
 }
