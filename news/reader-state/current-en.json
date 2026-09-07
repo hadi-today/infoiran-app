@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-81 seq=81 exp=1788967538",
+      "advancedStatus": "pack_id=20260907-82 seq=82 exp=1788968056",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:25",
+      "lastChecked": "15:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 15:25",
+    "expiresAt": "2026-09-09 15:34",
     "items": [
       {
         "channel": "harana",
@@ -854,14 +854,21 @@
         "text": "Qalibaf threatened that if Iranian oil tankers are attacked, Tehran will target American oil and gas companies in the region. At the same time, the IRGC fired a medium-range missile at warships for the first time. These developments occurred following Trump's signals for an attack on Kharg Island.",
         "time": "15:25",
         "ts": 1788794704
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "An online taxi driver sent a video to Iran International reporting a sharp decrease in passengers and financial difficulties due to rising essential goods prices. He says he can no longer cover living expenses through online taxi work. This highlights the impact of inflation on online businesses.",
+        "time": "15:33",
+        "ts": 1788795230
       }
     ],
     "language": "en",
-    "packId": "20260907-81",
-    "sequence": 81,
+    "packId": "20260907-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:25"
+    "updatedAt": "15:34"
   },
   "verified": true
 }
