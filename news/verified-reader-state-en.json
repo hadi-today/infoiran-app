@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-42 seq=42 exp=1788949100",
+      "advancedStatus": "pack_id=20260907-43 seq=43 exp=1788950187",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:18",
+      "lastChecked": "10:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 10:18",
+    "expiresAt": "2026-09-09 10:36",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The New York Times reported that Iran's attacks on ships in the Strait of Hormuz continue after more than six months of war. The oil passage through the Strait is about 60% lower than before the war. US protective operations since late April have helped the passage of thousands of ships and millions of barrels of oil.",
-        "time": "10:18",
-        "ts": 1788689894
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen sent a video showing a group of government supporters waving flags at a nighttime gathering. He says the number of these people is small and they are government dependents. The video was published by Iran International.",
-        "time": "10:33",
-        "ts": 1788690790
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -833,14 +819,21 @@
         "text": "Iranian security agencies have launched a Telegram group under the guise of far-right ideology to create insecurity in Israel. The goal is to recruit Israeli citizens for espionage and terrorist operations. This report was published by Channel 11 of Israeli television.",
         "time": "10:17",
         "ts": 1788776276
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "During the match between Esteghlal and Aluminium Arak on September 6, spectators chanted the name of Mehrdad Moshtaghi. Mehrdad Moshtaghi, a 27-year-old engineer and Esteghlal fan, was killed by a bullet in Arak on January 9, 2026.",
+        "time": "10:36",
+        "ts": 1788777363
       }
     ],
     "language": "en",
-    "packId": "20260907-42",
-    "sequence": 42,
+    "packId": "20260907-43",
+    "sequence": 43,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:18"
+    "updatedAt": "10:36"
   },
   "verified": true
 }
