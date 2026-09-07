@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-110 seq=110 exp=1788988879",
+      "advancedStatus": "pack_id=20260907-111 seq=111 exp=1788989752",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:21",
+      "lastChecked": "21:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 21:21",
+    "expiresAt": "2026-09-09 21:35",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Sadegh Azimifar, Deputy Minister of Oil, announced the identification of free fuel station cards. In this plan, individuals are authenticated through bank cards and verification is done without the user noticing. The system checks the individual's previous fuel consumption by receiving their national ID code.",
-        "time": "21:34",
-        "ts": 1788730456
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "Hojjat Karimi, CEO of Tractor, explained that Khodadad Azizi's insults after the match with Gol Gohar were reactions to events during the game. He said a Gol Gohar player insulted the referee, and the referee gave Khodadad a card. He also mentioned that Omid Alishah's disrespect towards Khodadad in the locker room triggered this reaction.",
         "time": "21:20",
         "ts": 1788816055
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hojat Karimi, CEO of Tractor, reacted to Khodadad Azizi's insults towards Omid Alishah and the release of the audio file, saying it worsened the public mood. He also questioned the disciplinary committee's decision to ban Khodadad from stadiums. Karimi added that Shoja Khalilzadeh complained after the game against Gol Gohar about why incidents were not allowed in the stands.",
+        "time": "21:35",
+        "ts": 1788816924
       }
     ],
     "language": "en",
-    "packId": "20260907-110",
-    "sequence": 110,
+    "packId": "20260907-111",
+    "sequence": 111,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:21"
+    "updatedAt": "21:35"
   },
   "verified": true
 }
