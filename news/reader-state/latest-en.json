@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-45 seq=45 exp=1788950448",
+      "advancedStatus": "pack_id=20260907-46 seq=46 exp=1788950567",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:40",
+      "lastChecked": "10:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 10:40",
+    "expiresAt": "2026-09-09 10:42",
     "items": [
       {
         "channel": "harana",
@@ -826,14 +826,21 @@
         "text": "Reports have emerged about broken escalators in Tehran metro, rising prices of medicines and goods, internet issues in Mazandaran, and difficult living conditions. People have reported severe inflation and shortages of specific drugs like Vectibix. Additionally, problems such as frequent internet outages and increased car repair costs have been highlighted.",
         "time": "10:40",
         "ts": 1788777622
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Behzad Sharifipour, director of natural resources in Kurdistan, reported a shortage of protective forces in the province. Only about 80 forest rangers are active in protecting forests and pastures. These forces are also responsible for combating fires, land grabbing, and wood smuggling.",
+        "time": "10:42",
+        "ts": 1788777744
       }
     ],
     "language": "en",
-    "packId": "20260907-45",
-    "sequence": 45,
+    "packId": "20260907-46",
+    "sequence": 46,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:40"
+    "updatedAt": "10:42"
   },
   "verified": true
 }
