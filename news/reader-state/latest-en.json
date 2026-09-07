@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-34 seq=34 exp=1788945197",
+      "advancedStatus": "pack_id=20260907-35 seq=35 exp=1788945785",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:13",
+      "lastChecked": "09:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 09:13",
+    "expiresAt": "2026-09-09 09:23",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Social security retirees in Ahvaz held a protest gathering. They demanded full implementation of Articles 96 and 111, correction of salary adjustment rulings, and an increase in pensions. They also highlighted their livelihood and healthcare problems.",
-        "time": "09:13",
-        "ts": 1788686031
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Jerusalem Post reported that Israeli intelligence assessments indicate that the Islamic Republic is trying to coordinate its proxy forces for a simultaneous attack on Israel. Benjamin Netanyahu announced that Israel will continue operations against the Islamic Republic. This issue was discussed in an interview with an Iran International reporter.",
-        "time": "09:14",
-        "ts": 1788686068
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Bagher Ghalibaf, the Speaker of the Parliament, stated that the era of proportional responses has ended and Iran's recent strikes were just the beginning. He warned that any aggression against Iran's interests and security will be met with faster, heavier, and more painful responses. Ghalibaf also mentioned economic challenges such as currency fluctuations, inflation, and unemployment that are putting pressure on people's livelihoods.",
-        "time": "09:16",
-        "ts": 1788686187
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -847,14 +826,21 @@
         "text": "Hossein Taeb, head of the Basij Organization, stated that the enemy has not fulfilled its financial and political commitments. He emphasized that the Islamic Republic will decide based on the real actions of the other side. His message is that every commitment must be implemented and the rights of the nation must be ensured.",
         "time": "09:12",
         "ts": 1788772365
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Esmaeil Kowsari, a member of the National Security Commission of the Parliament, stated that the armed forces have a plan to expel the United States from the West Asia region and are following it precisely. He also said that Iran does not accept any agreement or memorandum with the US and must continue on its path.",
+        "time": "09:22",
+        "ts": 1788772959
       }
     ],
     "language": "en",
-    "packId": "20260907-34",
-    "sequence": 34,
+    "packId": "20260907-35",
+    "sequence": 35,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:13"
+    "updatedAt": "09:23"
   },
   "verified": true
 }
