@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-32 seq=32 exp=1788944373",
+      "advancedStatus": "pack_id=20260907-33 seq=33 exp=1788944477",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:59",
+      "lastChecked": "09:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 08:59",
+    "expiresAt": "2026-09-09 09:01",
     "items": [
       {
         "channel": "iranintl",
@@ -847,14 +847,21 @@
         "text": "The seventh episode of the documentary series \"Death of Khamenei\" titled \"Khamenei and Women, Life, Freedom\" will be released. This episode reviews the former Supreme Leader's reactions to the Women, Life, Freedom uprising. It will be aired on Thursday, September 10th at 20:30 Tehran time on Iran International.",
         "time": "08:59",
         "ts": 1788771546
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of motorcycle couriers in Arak went on strike on Monday, 16 Shahrivar, due to low fares and high commissions. The protest took the form of a strike. Videos of the event were sent to Iran International.",
+        "time": "09:00",
+        "ts": 1788771653
       }
     ],
     "language": "en",
-    "packId": "20260907-32",
-    "sequence": 32,
+    "packId": "20260907-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:59"
+    "updatedAt": "09:01"
   },
   "verified": true
 }
