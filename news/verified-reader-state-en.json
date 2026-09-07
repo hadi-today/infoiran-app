@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-109 seq=109 exp=1788987751",
+      "advancedStatus": "pack_id=20260907-110 seq=110 exp=1788988879",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:02",
+      "lastChecked": "21:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 21:02",
+    "expiresAt": "2026-09-09 21:21",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "In the sixth week of the Premier League, the match between Tractor and Gol Gohar at Sahand Stadium in Tabriz was accompanied by many controversies. Tractor fans chanted slogans against Omid Alishah before the game. This led to a confrontation between Khodadad Azizi and Alishah.",
-        "time": "21:15",
-        "ts": 1788729308
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "A citizen complained about power outages in their area in a video sent to Iran International. They said they contacted the electricity department and were told no directive had been received to prevent outages. The citizen accused the minister of lying.",
         "time": "21:02",
         "ts": 1788814930
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hojjat Karimi, CEO of Tractor, explained that Khodadad Azizi's insults after the match with Gol Gohar were reactions to events during the game. He said a Gol Gohar player insulted the referee, and the referee gave Khodadad a card. He also mentioned that Omid Alishah's disrespect towards Khodadad in the locker room triggered this reaction.",
+        "time": "21:20",
+        "ts": 1788816055
       }
     ],
     "language": "en",
-    "packId": "20260907-109",
-    "sequence": 109,
+    "packId": "20260907-110",
+    "sequence": 110,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:02"
+    "updatedAt": "21:21"
   },
   "verified": true
 }
