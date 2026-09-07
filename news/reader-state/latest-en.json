@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-107 seq=107 exp=1788984872",
+      "advancedStatus": "pack_id=20260907-108 seq=108 exp=1788986414",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:14",
+      "lastChecked": "20:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 20:14",
+    "expiresAt": "2026-09-09 20:40",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohsen Rezaei announced that the Islamic Republic intends to declare an area outside the Strait of Hormuz as a forbidden zone. Any ship entering this area with the aim of passing through the strait will be sanctioned. Rezaei said this action could have a greater impact than missile attacks.",
-        "time": "20:32",
-        "ts": 1788726735
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -847,14 +840,21 @@
         "text": "Shahier Shaheed Thalath said the attack on Saudi oil facilities delays reconstruction more than reducing production capacity. The Islamic Republic aims to raise oil prices above $100 to pressure the US and its allies. Global markets have largely factored these tensions into oil prices, so a sharp price spike is unlikely.",
         "time": "20:14",
         "ts": 1788812046
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Tartaar stated after Persepolis' victory over Zob Ahan that he changed the course of the game with the help of the team's captains. He emphasized the important role of the captains in team cohesion. Additionally, a disagreement between Esteghlal's coach and the team's second captain has become a major controversy.",
+        "time": "20:39",
+        "ts": 1788813592
       }
     ],
     "language": "en",
-    "packId": "20260907-107",
-    "sequence": 107,
+    "packId": "20260907-108",
+    "sequence": 108,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:14"
+    "updatedAt": "20:40"
   },
   "verified": true
 }
