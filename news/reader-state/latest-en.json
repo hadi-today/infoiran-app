@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-11 seq=11 exp=1788935862",
+      "advancedStatus": "pack_id=20260907-12 seq=12 exp=1788936110",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:37",
+      "lastChecked": "06:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 06:37",
+    "expiresAt": "2026-09-09 06:41",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,21 @@
         "text": "Iranians in Calgary held another protest in front of the city hall. They demanded an end to repression and executions in Iran. They also emphasized solidarity with the people inside the country.",
         "time": "06:37",
         "ts": 1788763039
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Danial Karimi, the father of Amir Mohammad Karimi who was killed in the December 1404 protests in Marvdasht, committed suicide on September 6. Amir Mohammad Karimi was 19 years old and a former member of Iran's national youth taekwondo team. His body was buried in the village of Joonjan.",
+        "time": "06:41",
+        "ts": 1788763286
       }
     ],
     "language": "en",
-    "packId": "20260907-11",
-    "sequence": 11,
+    "packId": "20260907-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:37"
+    "updatedAt": "06:41"
   },
   "verified": true
 }
