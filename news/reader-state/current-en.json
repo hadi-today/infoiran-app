@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-62 seq=62 exp=1788958731",
+      "advancedStatus": "pack_id=20260907-63 seq=63 exp=1788959037",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:58",
+      "lastChecked": "13:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 12:58",
+    "expiresAt": "2026-09-09 13:03",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Manouchehrabadi, 21 years old, died in Tehran due to direct shooting by officers. His mother lit a candle in the campaign \"One Candle, One Name, One Memory\" in his memory. She said her son was the foundation that could have built his homeland.",
-        "time": "13:01",
-        "ts": 1788699669
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -861,14 +854,21 @@
         "text": "Hossein Taeb, the new commander of Basij, has started a security plan aimed at eliminating Mojtaba Khamenei's rivals within the government and preventing any internal protests. This was reported by Alhurra TV network. More details are available in an interview with an Iran International reporter.",
         "time": "12:58",
         "ts": 1788785901
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of retired telecommunications workers in Isfahan protested their living conditions. They chanted slogans against the IRGC. This protest was shown in a released video.",
+        "time": "13:03",
+        "ts": 1788786212
       }
     ],
     "language": "en",
-    "packId": "20260907-62",
-    "sequence": 62,
+    "packId": "20260907-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:58"
+    "updatedAt": "13:03"
   },
   "verified": true
 }
