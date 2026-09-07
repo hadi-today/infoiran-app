@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-55 seq=55 exp=1788955636",
+      "advancedStatus": "pack_id=20260907-56 seq=56 exp=1788955956",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:07",
+      "lastChecked": "12:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 12:07",
+    "expiresAt": "2026-09-09 12:12",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "CENTCOM announced that US forces have redirected 92 commercial ships and disabled three ships by September 5. They have boarded two ships to ensure compliance with the blockade. A stealth F-35 fighter also patrolled the waters during the blockade.",
-        "time": "12:10",
-        "ts": 1788696606
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ezzatollah Zarghami stated that due to Ahmad Jannati's advanced age, it is not possible to meet or talk with him. He added that no one dares to discuss Jannati's condition.",
-        "time": "12:12",
-        "ts": 1788696723
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -847,14 +833,21 @@
         "text": "Motahareh Gune'i, a student activist, was arrested and sent to prison to serve her 15-month sentence. She was previously sentenced to 21 months in prison by the Revolutionary Court. The enforceable part of the sentence is 15 months.",
         "time": "12:06",
         "ts": 1788782813
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "After reaching a historic high, gasoline prices in Israel have decreased. Prime Minister Benjamin Netanyahu announced the price reduction. This decrease was achieved by removing part of the fuel tax.",
+        "time": "12:12",
+        "ts": 1788783130
       }
     ],
     "language": "en",
-    "packId": "20260907-55",
-    "sequence": 55,
+    "packId": "20260907-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:07"
+    "updatedAt": "12:12"
   },
   "verified": true
 }
