@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-101 seq=101 exp=1788980865",
+      "advancedStatus": "pack_id=20260907-102 seq=102 exp=1788981086",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:07",
+      "lastChecked": "19:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 19:07",
+    "expiresAt": "2026-09-09 19:11",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -722,13 +722,19 @@
         "text": "مراسم هفتم علی میررضایی، خواننده مازندرانی که هفته گذشته اعدام شد، برگزار شد. این مراسم بحثی درباره مواجهه جامعه با خطاهای سنگین و مجازات مرگ را به میان آورده است. حضور گسترده مردم در این مراسم تاثیر اجتماعی قابل توجهی داشته است.",
         "time": "19:07",
         "ts": 1788808040
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "text": "روز جمعه ۱۳ شهریورماه، دستکم ۱۰ شهروند اهل سنت عرب در اهواز توسط نیروهای اطلاعاتی بازداشت شدند. این افراد در یک نشست در کوی مشعلی حضور داشتند و پس از بازداشت به مکان نامعلومی منتقل شدند. هویت سه تن از بازداشت‌شدگان احراز شده است.",
+        "time": "19:11",
+        "ts": 1788808260
       }
     ],
-    "packId": "20260907-101",
-    "sequence": 101,
+    "packId": "20260907-102",
+    "sequence": 102,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "19:07"
+    "updatedAt": "19:11"
   },
   "verified": true
 }
