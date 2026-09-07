@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-82 seq=82 exp=1788968056",
+      "advancedStatus": "pack_id=20260907-83 seq=83 exp=1788968245",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:34",
+      "lastChecked": "15:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 15:34",
+    "expiresAt": "2026-09-09 15:37",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The governor of Kohgiluyeh and Boyer-Ahmad announced that 176 villages are facing water stress. The governor of Boyer-Ahmad reported severe water stress in 9 villages, with some springs completely dried up. The CEO of the water and wastewater company stated that restoring springs and water transmission lines is essential for sustainable water supply.",
-        "time": "15:35",
-        "ts": 1788708908
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -861,14 +854,21 @@
         "text": "An online taxi driver sent a video to Iran International reporting a sharp decrease in passengers and financial difficulties due to rising essential goods prices. He says he can no longer cover living expenses through online taxi work. This highlights the impact of inflation on online businesses.",
         "time": "15:33",
         "ts": 1788795230
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "On Sunday, September 6, intelligence agents searched the homes of three Bahá'í families in Isfahan. Personal belongings, property, and documents of these families were confiscated during the operation. Agents seized electronic devices, gold, jewelry, and other possessions.",
+        "time": "15:36",
+        "ts": 1788795417
       }
     ],
     "language": "en",
-    "packId": "20260907-82",
-    "sequence": 82,
+    "packId": "20260907-83",
+    "sequence": 83,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:34"
+    "updatedAt": "15:37"
   },
   "verified": true
 }
