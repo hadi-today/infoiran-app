@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-68 seq=68 exp=1788960886",
+      "advancedStatus": "pack_id=20260907-69 seq=69 exp=1788961022",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:34",
+      "lastChecked": "13:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 13:34",
+    "expiresAt": "2026-09-09 13:37",
     "items": [
       {
         "channel": "harana",
@@ -882,14 +882,21 @@
         "text": "The US plans to propose referring Iran's nuclear case to the UN Security Council at the IAEA Board of Governors meeting. Washington demands Iran immediately address non-compliance issues and allow necessary inspections. Inspectors have been unable to fully verify Iran's uranium stockpile and nuclear activities over the past 15 months.",
         "time": "13:34",
         "ts": 1788788059
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Peyvand and Borna Naeimi, two Baha'i citizens, have been held in Kerman prison for eight and six months respectively without a clear status. Peyvand Naeimi's court session has been postponed to September 17. This information was confirmed by a source close to their families.",
+        "time": "13:36",
+        "ts": 1788788194
       }
     ],
     "language": "en",
-    "packId": "20260907-68",
-    "sequence": 68,
+    "packId": "20260907-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:34"
+    "updatedAt": "13:37"
   },
   "verified": true
 }
