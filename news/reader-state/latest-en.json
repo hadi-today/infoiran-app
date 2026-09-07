@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-120 seq=120 exp=1788995854",
+      "advancedStatus": "pack_id=20260907-121 seq=121 exp=1788995936",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:17",
+      "lastChecked": "23:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 23:17",
+    "expiresAt": "2026-09-09 23:18",
     "items": [
       {
         "channel": "iranintl",
@@ -882,14 +882,21 @@
         "text": "Satellite images show that since the reimposition of the US naval blockade in late July, ship activity at the ports of Rajaei and Khomeini has sharply declined. This reduction in activity has increased pressure on Iran's imports and exports. Copernicus images reveal significant changes in ship presence and terminal activity at these ports.",
         "time": "23:17",
         "ts": 1788823027
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Two luxury penthouses linked to Mojtaba Khamenei's financial network have been put up for sale in a building overlooking Kensington Palace in London. The total price of these two properties is close to 36 million pounds. This issue was reported by The Sunday Times.",
+        "time": "23:18",
+        "ts": 1788823100
       }
     ],
     "language": "en",
-    "packId": "20260907-120",
-    "sequence": 120,
+    "packId": "20260907-121",
+    "sequence": 121,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:17"
+    "updatedAt": "23:18"
   },
   "verified": true
 }
