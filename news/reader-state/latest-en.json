@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-98 seq=98 exp=1788979573",
+      "advancedStatus": "pack_id=20260907-99 seq=99 exp=1788980084",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:46",
+      "lastChecked": "18:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 18:46",
+    "expiresAt": "2026-09-09 18:54",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohsen Rezaei announced that the Islamic Republic will declare a new restricted zone in the Persian Gulf starting from the US naval blockade line. Any ship entering this zone will be subject to sanctions by the Islamic Republic. Rezaei described the Strait of Hormuz as completely closed and called Donald Trump's statements about its openness a lie.",
-        "time": "18:46",
-        "ts": 1788720382
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Contrary to Iran's international commitments under the Convention on the Rights of the Child, several adolescents from Dorud city were sent to the \"Rahian-e Noor\" camp in war operational areas. This action violates Iran's obligations regarding the non-use of children in military activities. The issue was reported by Harana News Agency.",
-        "time": "18:53",
-        "ts": 1788720830
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -847,14 +833,21 @@
         "text": "Volker Turk, the UN High Commissioner for Human Rights, warned that advanced artificial intelligence could become an existential threat to humanity. He called for comprehensive action to ensure the safety and security of AI. The UN had previously called for global coordination in AI governance.",
         "time": "18:45",
         "ts": 1788806708
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Tractor football team leads the Premier League by three points over Persepolis and has kept a clean sheet in all six past matches. Persepolis reached second place by defeating Zob Ahan, Esteghlal, and Aluminium. In the sixth week, most home teams won their matches with full points.",
+        "time": "18:54",
+        "ts": 1788807257
       }
     ],
     "language": "en",
-    "packId": "20260907-98",
-    "sequence": 98,
+    "packId": "20260907-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:46"
+    "updatedAt": "18:54"
   },
   "verified": true
 }
