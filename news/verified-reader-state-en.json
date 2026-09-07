@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-14 seq=14 exp=1788936778",
+      "advancedStatus": "pack_id=20260907-15 seq=15 exp=1788937445",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:52",
+      "lastChecked": "07:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 06:52",
+    "expiresAt": "2026-09-09 07:04",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Fathollah Tavassoli stated that the US and Europe cannot weaken the Iranian nation through sanctions. He emphasized that Iran has resisted demands and continued its domestic progress and international cooperation. Economic pressures have increased internal cohesion and reduced trust in the West.",
-        "time": "06:52",
-        "ts": 1788677568
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -819,14 +812,21 @@
         "text": "Ali Dadpay described the gasoline price increase as late and ill-timed. He said this action transfers costs to the people and does not solve the fuel shortage. He also warned that higher transportation costs could lead to price increases.",
         "time": "06:51",
         "ts": 1788763918
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Siamak Mofidi, 17, and Soroush Enayati, 16, two teenagers from Takab, were arrested by security forces on Saturday. They were transferred to an unknown location in Tehran. The arrest took place in Takab county.",
+        "time": "07:03",
+        "ts": 1788764623
       }
     ],
     "language": "en",
-    "packId": "20260907-14",
-    "sequence": 14,
+    "packId": "20260907-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:52"
+    "updatedAt": "07:04"
   },
   "verified": true
 }
