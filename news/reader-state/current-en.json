@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-90 seq=90 exp=1788973402",
+      "advancedStatus": "pack_id=20260907-91 seq=91 exp=1788974183",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:03",
+      "lastChecked": "17:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 17:03",
+    "expiresAt": "2026-09-09 17:16",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US Central Command announced that the Iranian tanker Kaylo sank in the Gulf of Oman. CENTCOM attributed the incident to the precision and professionalism of US military forces. The tanker Kaylo has joined the Iranian navy in the depths of the sea.",
-        "time": "17:07",
-        "ts": 1788714439
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -840,14 +833,21 @@
         "text": "The Disciplinary Committee of the Football Federation issued its ruling on the clashes during the Tractor and Gol Gohar match. Khodadad Azizi, Tractor's head, was fined 2 billion tomans and banned from stadiums for 4 months. Additionally, Tractor and Gol Gohar clubs were fined financially.",
         "time": "17:02",
         "ts": 1788800573
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Official employees of Iran's oil industry held protests on offshore platforms of Pars Oil and Gas Company and Asaluyeh. They demand the removal of salary caps, adjustment of minimum wages, and payment of financial arrears according to Article 10 of the Ministry of Oil law. These protests take place every Monday.",
+        "time": "17:15",
+        "ts": 1788801356
       }
     ],
     "language": "en",
-    "packId": "20260907-90",
-    "sequence": 90,
+    "packId": "20260907-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:03"
+    "updatedAt": "17:16"
   },
   "verified": true
 }
