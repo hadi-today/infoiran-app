@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-50 seq=50 exp=1788953008",
+      "advancedStatus": "pack_id=20260907-51 seq=51 exp=1788953202",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:23",
+      "lastChecked": "11:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 11:23",
+    "expiresAt": "2026-09-09 11:26",
     "items": [
       {
         "channel": "iranintl",
@@ -833,14 +833,21 @@
         "text": "Rafael Grossi stated that the Islamic Republic of Iran has not provided any information to the International Atomic Energy Agency. Iran has declared it does not intend to cooperate with the agency before a political agreement with the US. Grossi added that the situation in Iran will not normalize without interaction with the agency.",
         "time": "11:23",
         "ts": 1788780180
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Financial Times reported that Aramco oil facilities in Jizan, Saudi Arabia, were attacked on Monday. The assessment of the damage is ongoing. One source said the recent attack was similar in scale to the attack last month.",
+        "time": "11:26",
+        "ts": 1788780371
       }
     ],
     "language": "en",
-    "packId": "20260907-50",
-    "sequence": 50,
+    "packId": "20260907-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:23"
+    "updatedAt": "11:26"
   },
   "verified": true
 }
