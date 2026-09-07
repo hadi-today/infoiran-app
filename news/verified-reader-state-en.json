@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-12 seq=12 exp=1788936110",
+      "advancedStatus": "pack_id=20260907-13 seq=13 exp=1788936697",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:41",
+      "lastChecked": "06:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 06:41",
+    "expiresAt": "2026-09-09 06:51",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Omid Memarian, a political analyst, said that the Islamic Republic is trying to impose costs on the US by disrupting the Persian Gulf and Strait of Hormuz. He added that if Iran cannot maintain this pressure, the balance of power will shift completely in favor of the US.",
-        "time": "06:50",
-        "ts": 1788677417
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -812,14 +805,21 @@
         "text": "Danial Karimi, the father of Amir Mohammad Karimi who was killed in the December 1404 protests in Marvdasht, committed suicide on September 6. Amir Mohammad Karimi was 19 years old and a former member of Iran's national youth taekwondo team. His body was buried in the village of Joonjan.",
         "time": "06:41",
         "ts": 1788763286
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reza Niaparest, a master's student of history at Beheshti University, was sentenced by the disciplinary committee to two semesters of suspension and expulsion for causing unrest and insulting religious or national symbols. The sentence is preliminary. The issue concerns his behavior within the university environment.",
+        "time": "06:51",
+        "ts": 1788763875
       }
     ],
     "language": "en",
-    "packId": "20260907-12",
-    "sequence": 12,
+    "packId": "20260907-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:41"
+    "updatedAt": "06:51"
   },
   "verified": true
 }
