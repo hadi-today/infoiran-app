@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-74 seq=74 exp=1788963973",
+      "advancedStatus": "pack_id=20260907-75 seq=75 exp=1788964069",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:26",
+      "lastChecked": "14:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 14:26",
+    "expiresAt": "2026-09-09 14:27",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Razieh Alishvandi stated that efforts to follow up on the status of four captured pilots in Qatar have not yet yielded results. A meeting is planned between the head of Iran's Red Crescent and the head of the International Committee of the Red Cross. A request for a meeting with the Qatar Red Crescent has also been submitted.",
-        "time": "14:27",
-        "ts": 1788704821
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -875,14 +868,21 @@
         "text": "The jury of political and press courts did not find the managers of the newspapers Javan and Tose'e Irani and the news websites Mahin News and Ashkan News guilty. This decision was made in separate cases. The managers of these media outlets were acquitted.",
         "time": "14:25",
         "ts": 1788791149
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Belgian Football Federation announced that it will not support Gianni Infantino's candidacy in the FIFA presidential election. This decision was made due to FIFA's lack of transparency regarding the commercial case and the red card suspension of Balogan. The Belgian federation has requested that this case be included in the agenda of the next FIFA Council meeting.",
+        "time": "14:27",
+        "ts": 1788791240
       }
     ],
     "language": "en",
-    "packId": "20260907-74",
-    "sequence": 74,
+    "packId": "20260907-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:26"
+    "updatedAt": "14:27"
   },
   "verified": true
 }
