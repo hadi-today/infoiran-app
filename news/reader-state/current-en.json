@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-33 seq=33 exp=1788944477",
+      "advancedStatus": "pack_id=20260907-34 seq=34 exp=1788945197",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:01",
+      "lastChecked": "09:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 09:01",
+    "expiresAt": "2026-09-09 09:13",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen sent a video showing that papers have been distributed in Basij centers. These papers allow Basij members to receive free bread by presenting them. Each presenter can receive up to 26 pieces of free bread.",
-        "time": "09:05",
-        "ts": 1788685523
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "In Mashhad, gas stations are crowded due to fuel shortages and reduced quotas. Prices of gasoline and essential goods like meat and gold have sharply increased. Additionally, new hijab enforcement orders have been reported, and the morality police vans have been reactivated.",
-        "time": "09:06",
-        "ts": 1788685596
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -854,14 +840,21 @@
         "text": "A group of motorcycle couriers in Arak went on strike on Monday, 16 Shahrivar, due to low fares and high commissions. The protest took the form of a strike. Videos of the event were sent to Iran International.",
         "time": "09:00",
         "ts": 1788771653
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Taeb, head of the Basij Organization, stated that the enemy has not fulfilled its financial and political commitments. He emphasized that the Islamic Republic will decide based on the real actions of the other side. His message is that every commitment must be implemented and the rights of the nation must be ensured.",
+        "time": "09:12",
+        "ts": 1788772365
       }
     ],
     "language": "en",
-    "packId": "20260907-33",
-    "sequence": 33,
+    "packId": "20260907-34",
+    "sequence": 34,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:01"
+    "updatedAt": "09:13"
   },
   "verified": true
 }
