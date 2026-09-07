@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-20 seq=20 exp=1788939223",
+      "advancedStatus": "pack_id=20260907-21 seq=21 exp=1788940121",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:33",
+      "lastChecked": "07:48",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 07:33",
+    "expiresAt": "2026-09-09 07:48",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Turkey has increased its diplomatic activities to reduce tensions between the US and the Islamic Republic. This report was prepared by Narges Horkhsh, a journalist from Iran International. The goal of these activities is to reduce existing tensions between the two countries.",
-        "time": "07:38",
-        "ts": 1788680298
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mehdi Chamran, head of Tehran City Council, stated that Lebanon and Hezbollah are the frontline and Israeli attacks must be responded to. He also said Netanyahu lies for elections and called for the overthrow of those cooperating with Israel. These remarks were made during a Tehran City Council meeting.",
-        "time": "07:45",
-        "ts": 1788680748
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Disciplinary Committee of the Football Federation issued a notice to Khodadad Azizi, the head of Tractor team, due to misconduct and misbehavior during the match against Gol Gohar. Azizi must submit his defense within 48 hours. Gol Gohar club claims that Azizi insulted one of their players with offensive language after the match.",
-        "time": "07:46",
-        "ts": 1788680796
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -826,14 +805,21 @@
         "text": "Saeed Hassani, a Bahá'í citizen residing in Shiraz, remains detained in Adel Abad prison after 77 days. He was recently moved from solitary confinement to the general ward and has met with his family. His legal case is still unresolved, and no trial has been held for him yet.",
         "time": "07:33",
         "ts": 1788766399
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Rouhollah Rahimpour commented on the Islamic Republic's threat to create a new restricted zone in regional waters, stating that the boundaries and rules are not yet clear. He suggested the goal might be psychological warfare with the US and increasing escort costs for ships. This move could also be an attempt to create a new bargaining chip in negotiations with the US.",
+        "time": "07:48",
+        "ts": 1788767300
       }
     ],
     "language": "en",
-    "packId": "20260907-20",
-    "sequence": 20,
+    "packId": "20260907-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:33"
+    "updatedAt": "07:48"
   },
   "verified": true
 }
