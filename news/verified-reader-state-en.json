@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-36 seq=36 exp=1788946249",
+      "advancedStatus": "pack_id=20260907-37 seq=37 exp=1788946996",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:30",
+      "lastChecked": "09:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 09:30",
+    "expiresAt": "2026-09-09 09:43",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Nahid Nafisi, head of the National Breast Surgery Association, reported 23,000 to 25,000 new annual breast cancer cases in Iran. The average age of onset in Iran is about 48 to 50 years, which is 10 years younger than the global average. She also mentioned the increasing trend of incidence and related factors.",
-        "time": "09:30",
-        "ts": 1788687053
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of young job seekers from the villages of Moran and Amisheh in Khuzestan province protested for the tenth consecutive day in front of the Dabbol Khazaei Agro-Industry Company. They are protesting the failure to prioritize the employment of local forces. The protest took place on Sunday, September 6.",
-        "time": "09:32",
-        "ts": 1788687129
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -833,14 +819,21 @@
         "text": "The quarterly meeting of the IAEA Board of Governors has started. The agency's director general stated there has been no progress in relations between Tehran and the agency. Germany, France, the UK, and the US are preparing a draft resolution against Tehran.",
         "time": "09:30",
         "ts": 1788773419
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Asghar Sharafi reacted to Khodadad Azizi's behavior during the Tractor and Gol Gohar match, stating he should be disciplined. He emphasized that Azizi's actions set a bad example for youth, suggesting that swearing leads to fame. At the end of the match, a verbal altercation occurred between Azizi and Omid Alishah, leading to a complaint from Gol Gohar.",
+        "time": "09:42",
+        "ts": 1788774161
       }
     ],
     "language": "en",
-    "packId": "20260907-36",
-    "sequence": 36,
+    "packId": "20260907-37",
+    "sequence": 37,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:30"
+    "updatedAt": "09:43"
   },
   "verified": true
 }
