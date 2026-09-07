@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-01 seq=1 exp=1788912053",
+      "advancedStatus": "pack_id=20260907-02 seq=2 exp=1788912758",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:00",
+      "lastChecked": "00:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 00:00",
+    "expiresAt": "2026-09-09 00:12",
     "items": [
       {
         "channel": "vahid online",
@@ -826,14 +826,21 @@
         "text": "Mark Levin, an American commentator, has once again called for arming the people of Iran. He previously suggested that the US should train and support the Iranian people. Levin also referred to the Reagan Doctrine and urged the US or Israel to take action in this regard.",
         "time": "00:00",
         "ts": 1788739234
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Joe Wilson, a Republican member of the US Congress, welcomed the success of Yemen government forces against Houthi attacks. He said the Houthis lost large areas in the clashes and called for an end to the Islamic Republic's influence in Yemen. The fighting in Yemen has intensified in recent days.",
+        "time": "00:12",
+        "ts": 1788739935
       }
     ],
     "language": "en",
-    "packId": "20260907-01",
-    "sequence": 1,
+    "packId": "20260907-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:00"
+    "updatedAt": "00:12"
   },
   "verified": true
 }
