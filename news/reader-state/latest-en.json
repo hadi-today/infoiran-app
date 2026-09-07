@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-21 seq=21 exp=1788940121",
+      "advancedStatus": "pack_id=20260907-22 seq=22 exp=1788940374",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:48",
+      "lastChecked": "07:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 07:48",
+    "expiresAt": "2026-09-09 07:52",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ruhollah Rahimpour stated that Tehran's 'tanker for tanker' approach has placed it in a strategic dilemma. Continuing attacks could lead to the loss of economic assets, while stopping attacks means losing control of the Strait of Hormuz. He described Abbas Araghchi's recent contacts as rescue diplomacy to prevent a regional coalition against Iran.",
-        "time": "07:50",
-        "ts": 1788681034
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -812,14 +805,21 @@
         "text": "Rouhollah Rahimpour commented on the Islamic Republic's threat to create a new restricted zone in regional waters, stating that the boundaries and rules are not yet clear. He suggested the goal might be psychological warfare with the US and increasing escort costs for ships. This move could also be an attempt to create a new bargaining chip in negotiations with the US.",
         "time": "07:48",
         "ts": 1788767300
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The head of the league announced that the Football Federation's board decided that the unfinished league from last year has no champion. This decision was made a few months ago and the league's case is closed. The Esteghlal club had previously stated that it would pursue the championship trophy through legal channels.",
+        "time": "07:52",
+        "ts": 1788767550
       }
     ],
     "language": "en",
-    "packId": "20260907-21",
-    "sequence": 21,
+    "packId": "20260907-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:48"
+    "updatedAt": "07:52"
   },
   "verified": true
 }
