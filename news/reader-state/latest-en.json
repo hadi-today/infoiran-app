@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-22 seq=22 exp=1788940374",
+      "advancedStatus": "pack_id=20260907-23 seq=23 exp=1788940961",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:52",
+      "lastChecked": "08:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 07:52",
+    "expiresAt": "2026-09-09 08:02",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Roozbeh Gilasian, a writer from Gorgan, was sentenced to four years and eight months in prison by Branch One of the Revolutionary Court in Bandar Abbas. He was sentenced to eight months for propaganda against the regime and four years for educational or deviant propaganda activities. The sentence was issued on September 1st.",
-        "time": "07:55",
-        "ts": 1788681350
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of Iranians living in Germany protested against executions by the Islamic Republic on Saturday, September 5, in Hamburg, Düsseldorf, and Frankfurt. They chanted \"Long live the Shah.\" This event was reported based on videos received by Iran International.",
-        "time": "08:01",
-        "ts": 1788681688
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -812,14 +798,21 @@
         "text": "The head of the league announced that the Football Federation's board decided that the unfinished league from last year has no champion. This decision was made a few months ago and the league's case is closed. The Esteghlal club had previously stated that it would pursue the championship trophy through legal channels.",
         "time": "07:52",
         "ts": 1788767550
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "An Iranian citizen participated in the night half-marathon in the Praga district of Warsaw on Sunday, September 6, wearing a shirt adorned with the Lion and Sun emblem. He completed the five-kilometer route. These videos were received by Iran International.",
+        "time": "08:02",
+        "ts": 1788768135
       }
     ],
     "language": "en",
-    "packId": "20260907-22",
-    "sequence": 22,
+    "packId": "20260907-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:52"
+    "updatedAt": "08:02"
   },
   "verified": true
 }
