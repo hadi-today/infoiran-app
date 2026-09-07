@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-25 seq=25 exp=1788941320",
+      "advancedStatus": "pack_id=20260907-26 seq=26 exp=1788942030",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:08",
+      "lastChecked": "08:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 08:08",
+    "expiresAt": "2026-09-09 08:20",
     "items": [
       {
         "channel": "iranintl",
@@ -819,14 +819,21 @@
         "text": "Khabar Varzeshi criticized Khodadad Azizi's behavior in the conflict with Omid Alishah in a harsh note. The note mentioned Azizi's insults and offensive language and recalled his controversial past. It also emphasized that Azizi does not recognize any limits in his language.",
         "time": "08:08",
         "ts": 1788768494
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ismail Baghaei, spokesperson for the Islamic Republic's Foreign Ministry, said the agreement between Iran and Oman to determine a safe transit route in the Strait of Hormuz will be registered in the International Maritime Organization in the coming days. He attributed the insecurity of the Strait of Hormuz to US actions and expressed hope that some parties would not obstruct the implementation of the Iran-Oman agreement.",
+        "time": "08:20",
+        "ts": 1788769208
       }
     ],
     "language": "en",
-    "packId": "20260907-25",
-    "sequence": 25,
+    "packId": "20260907-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:08"
+    "updatedAt": "08:20"
   },
   "verified": true
 }
