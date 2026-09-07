@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-06 seq=6 exp=1788930355",
+      "advancedStatus": "pack_id=20260907-07 seq=7 exp=1788932157",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:05",
+      "lastChecked": "05:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 05:05",
+    "expiresAt": "2026-09-09 05:35",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Morteza Zamaniyan, Deputy Minister of Economy, announced the formation of an Economic War Headquarters to coordinate and quickly resolve economic issues. The initial focus of this headquarters is on the duties of the Ministry of Economy. The goal is to facilitate cooperation between agencies and prevent bureaucratic delays.",
-        "time": "05:14",
-        "ts": 1788671659
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -812,14 +805,21 @@
         "text": "Farzin Nadimi, a senior defense researcher, suggested that the IRGC might establish a no-go zone. He said the IRGC may attack ships inside the Persian Gulf and east of the Strait of Hormuz. These vessels are easier targets for attacks.",
         "time": "05:05",
         "ts": 1788757531
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shahram Khaledi stated that Hezbollah is the forefront of the Islamic Republic's proxy program in the region and is on the verge of collapse. He added that Israel's attacks on Hezbollah send a message to Tehran. Benjamin Netanyahu emphasized the destruction of the command and leadership of forces acting against Israel.",
+        "time": "05:35",
+        "ts": 1788759334
       }
     ],
     "language": "en",
-    "packId": "20260907-06",
-    "sequence": 6,
+    "packId": "20260907-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:05"
+    "updatedAt": "05:35"
   },
   "verified": true
 }
