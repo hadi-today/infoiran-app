@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-104 seq=104 exp=1788984116",
+      "advancedStatus": "pack_id=20260907-105 seq=105 exp=1788984227",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:01",
+      "lastChecked": "20:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 20:01",
+    "expiresAt": "2026-09-09 20:03",
     "items": [
       {
         "channel": "iranintl",
@@ -826,14 +826,21 @@
         "text": "The Canadian Federal Court has ordered the government to make a final decision within 60 days on Naser Mansour Sharifloo's temporary residence visa application. His visa request had been pending for over 900 days due to security reviews. Canadian security agencies have scrutinized thousands of applications related to affiliates of the Iranian government and canceled hundreds of visas.",
         "time": "20:01",
         "ts": 1788811293
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video from the fruit and vegetable market in Isfahan on Monday, 16 Shahrivar, has been released. The video shows the market's sluggishness and emptiness of customers. The market's condition on this day is depicted.",
+        "time": "20:03",
+        "ts": 1788811404
       }
     ],
     "language": "en",
-    "packId": "20260907-104",
-    "sequence": 104,
+    "packId": "20260907-105",
+    "sequence": 105,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:01"
+    "updatedAt": "20:03"
   },
   "verified": true
 }
