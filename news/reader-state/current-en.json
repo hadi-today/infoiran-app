@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-97 seq=97 exp=1789057793",
+      "advancedStatus": "pack_id=20260908-98 seq=98 exp=1789057897",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:29",
+      "lastChecked": "16:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 16:29",
+    "expiresAt": "2026-09-10 16:31",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "The US Treasury Department added 28 Iranian airlines, including Ata, Iran Airtour, Aseman, Kish, and Qeshm, and seven aviation-related companies to its sanctions list. Several companies based in the UAE, Britain, Turkey, Malaysia, and Kazakhstan with ties to Mahan Air or its associated networks were also sanctioned.",
         "time": "16:29",
         "ts": 1788884966
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Active and retired railway workers in Iran gathered in front of the Ministry of Roads and Urban Development on Tuesday, September 7. They protested against low salaries and benefits. The gathering was held to express dissatisfaction with their pay conditions.",
+        "time": "16:31",
+        "ts": 1788885073
       }
     ],
     "language": "en",
-    "packId": "20260908-97",
-    "sequence": 97,
+    "packId": "20260908-98",
+    "sequence": 98,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:29"
+    "updatedAt": "16:31"
   },
   "verified": true
 }
