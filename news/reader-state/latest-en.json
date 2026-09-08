@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-11 seq=11 exp=1789017188",
+      "advancedStatus": "pack_id=20260908-12 seq=12 exp=1789017465",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:13",
+      "lastChecked": "05:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 05:13",
+    "expiresAt": "2026-09-10 05:17",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,28 @@
         "text": "Rafael Grossi stated that the IAEA is unaware of the status of Iran's enriched uranium stocks. Inspectors still do not have access to Iran's nuclear facilities. These remarks were made at the IAEA Board of Governors quarterly meeting.",
         "time": "05:12",
         "ts": 1788844364
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Security forces searched the home of Parisa Naseri, a Baha'i citizen in Qaemshahr, and confiscated her personal belongings. Iraj Shakour and Pedram Abhar, two Baha'i citizens in Tehran, were arrested after visiting the Tehran Security Prosecutor's Office and transferred to prison. A spokesperson for the Baha'i International Community explained the increasing pressure on Baha'i citizens in Iran.",
+        "time": "05:17",
+        "ts": 1788844640
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Reza Aref stated that the real cost of importing one liter of gasoline is over 70,000 tomans, and the third gasoline price of 10,000 tomans is far from the actual cost. He said imported gasoline will be gradually liberalized with price adjustments. Also, a plan to reduce fuel smuggling in three provinces was approved, but the fourth gasoline price was added without approval.",
+        "time": "05:17",
+        "ts": 1788844652
       }
     ],
     "language": "en",
-    "packId": "20260908-11",
-    "sequence": 11,
+    "packId": "20260908-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:13"
+    "updatedAt": "05:17"
   },
   "verified": true
 }
