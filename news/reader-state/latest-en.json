@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-58 seq=58 exp=1789039706",
+      "advancedStatus": "pack_id=20260908-59 seq=59 exp=1789040552",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:28",
+      "lastChecked": "11:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 11:28",
+    "expiresAt": "2026-09-10 11:42",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Youssef Reji, Lebanon's foreign minister, criticized Iran's attacks on Gulf countries as an attempt to trade their security for opportunistic gains. He also blamed Hezbollah for dragging Lebanon into two consecutive wars. Reji condemned Israeli attacks on Lebanon and called negotiation the most effective way to stop the attacks.",
-        "time": "11:31",
-        "ts": 1788780702
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "People report that their income is no longer sufficient even for food and they cannot afford essential goods. Teachers and others with high salaries have lost the ability to buy necessary items. The continuous rise in prices has made future planning impossible.",
-        "time": "11:40",
-        "ts": 1788781250
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -938,14 +924,21 @@
         "text": "Families and relatives of those who died in the December protests have launched a campaign called \"One Candle, One Name, One Memory.\" The campaign involves lighting candles and remembering the names and memories of the deceased to keep their memory alive. More details were provided by Farnoush Faraji, a member of the Iran International editorial team.",
         "time": "11:27",
         "ts": 1788866878
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Yousef Salahshour, a Turkic activist, is serving a one-year prison sentence in Tabriz prison. He was sentenced by the third branch of the Revolutionary Court of Tabriz to one year in prison and additional penalties. He was arrested and transferred to prison on August 22, 2026.",
+        "time": "11:42",
+        "ts": 1788867728
       }
     ],
     "language": "en",
-    "packId": "20260908-58",
-    "sequence": 58,
+    "packId": "20260908-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:28"
+    "updatedAt": "11:42"
   },
   "verified": true
 }
