@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-111 seq=111 exp=1789064198",
+      "advancedStatus": "pack_id=20260908-112 seq=112 exp=1789064443",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:16",
+      "lastChecked": "18:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 18:16",
+    "expiresAt": "2026-09-10 18:20",
     "items": [
       {
         "channel": "خبرگزاری هرانا",
@@ -860,13 +860,19 @@
         "text": "یک کاسب جوان در ویدیویی اعلام کرد که مغازه‌اش را جمع می‌کند و از وضعیت خود ابراز نگرانی کرد. او گفت اگر حرفی بزند به او برچسب مزدور بیگانه می‌زنند. این ویدیو در رسانه‌های اجتماعی منتشر شده است.",
         "time": "18:16",
         "ts": 1788891364
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "اسکات بسنت، وزیر خزانه‌داری آمریکا، عملیات تازه‌ای را علیه اقتصاد جمهوری اسلامی هدایت می‌کند که نامش را «طرد اقتصادی» گذاشته و آن را سخت‌ترین تحریم تاریخ خوانده است.",
+        "time": "18:20",
+        "ts": 1788891610
       }
     ],
-    "packId": "20260908-111",
-    "sequence": 111,
+    "packId": "20260908-112",
+    "sequence": 112,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "18:16"
+    "updatedAt": "18:20"
   },
   "verified": true
 }
