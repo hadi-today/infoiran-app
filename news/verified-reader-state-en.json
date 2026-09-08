@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-104 seq=104 exp=1789060324",
+      "advancedStatus": "pack_id=20260908-105 seq=105 exp=1789060801",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:12",
+      "lastChecked": "17:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 17:12",
+    "expiresAt": "2026-09-10 17:20",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Official employees of Iran's oil industry held protests on offshore platforms of Pars Oil and Gas Company and Asaluyeh. They demand the removal of salary caps, adjustment of minimum wages, and payment of financial arrears according to Article 10 of the Ministry of Oil law. These protests take place every Monday.",
-        "time": "17:15",
-        "ts": 1788801356
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -994,14 +987,21 @@
         "text": "Saudi Civil Defense announced that the warning system has been activated in Jazan, Abha, and Najran. No further details have been provided at the time of the report.",
         "time": "17:11",
         "ts": 1788887490
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Heavy and torrential rainfall on the early morning of Tuesday, September 7, caused flooding in streets and public areas in northern Iran. The intensity was higher in some areas, leading to traffic disruptions. Rising runoff and river levels have increased concerns about potential damage in vulnerable locations.",
+        "time": "17:19",
+        "ts": 1788887969
       }
     ],
     "language": "en",
-    "packId": "20260908-104",
-    "sequence": 104,
+    "packId": "20260908-105",
+    "sequence": 105,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:12"
+    "updatedAt": "17:20"
   },
   "verified": true
 }
