@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-89 seq=89 exp=1789054396",
+      "advancedStatus": "pack_id=20260908-90 seq=90 exp=1789054483",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:33",
+      "lastChecked": "15:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 15:33",
+    "expiresAt": "2026-09-10 15:34",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,21 @@
         "text": "A video shows a protester writing the slogan \"Long live the Shah\" on walls at night in the alleys of Torbat Heydariyeh. This incident took place in Khorasan Razavi province. The video was released by Iran International.",
         "time": "15:30",
         "ts": 1788881438
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The judiciary spokesperson announced that Mohammad Baqer Kharazi remains in detention. His case is being handled by the Special Clergy Prosecutor's Office. This news was reported by Harana News Agency.",
+        "time": "15:33",
+        "ts": 1788881598
       }
     ],
     "language": "en",
-    "packId": "20260908-89",
-    "sequence": 89,
+    "packId": "20260908-90",
+    "sequence": 90,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:33"
+    "updatedAt": "15:34"
   },
   "verified": true
 }
