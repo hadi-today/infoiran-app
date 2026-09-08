@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-151 seq=151 exp=1789082117",
+      "advancedStatus": "pack_id=20260908-152 seq=152 exp=1789084206",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:15",
+      "lastChecked": "23:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 23:15",
+    "expiresAt": "2026-09-10 23:50",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Satellite images show that since the reimposition of the US naval blockade in late July, ship activity at the ports of Rajaei and Khomeini has sharply declined. This reduction in activity has increased pressure on Iran's imports and exports. Copernicus images reveal significant changes in ship presence and terminal activity at these ports.",
-        "time": "23:17",
-        "ts": 1788823027
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Two luxury penthouses linked to Mojtaba Khamenei's financial network have been put up for sale in a building overlooking Kensington Palace in London. The total price of these two properties is close to 36 million pounds. This issue was reported by The Sunday Times.",
-        "time": "23:18",
-        "ts": 1788823100
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1120,14 +1106,21 @@
         "text": "Alireza Namvar Haghighi stated that the goal of the Islamic Republic's attacks on American ships is to break sanctions and increase pressure on the Trump administration. These actions aim to force the US to withdraw from the region. Tensions in the area have escalated following these attacks.",
         "time": "23:14",
         "ts": 1788909295
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The company Tanker Trackers reported that five Iranian oil tankers targeted by the US military on Tuesday have exported a total of 45 million barrels of crude oil and petroleum products since May 2019.",
+        "time": "23:49",
+        "ts": 1788911384
       }
     ],
     "language": "en",
-    "packId": "20260908-151",
-    "sequence": 151,
+    "packId": "20260908-152",
+    "sequence": 152,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:15"
+    "updatedAt": "23:50"
   },
   "verified": true
 }
