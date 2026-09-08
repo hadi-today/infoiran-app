@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-122 seq=122 exp=1788997956",
+      "advancedStatus": "pack_id=20260907-123 seq=123 exp=1788998400",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:52",
+      "lastChecked": "00:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-07",
-    "expiresAt": "2026-09-09 23:52",
+    "expiresAt": "2026-09-10 00:00",
     "items": [
       {
         "channel": "iranintl",
@@ -875,14 +875,21 @@
         "text": "Sergey Ryabkov stated that the situation in Iran is the most important issue on BRICS' political agenda and a significant part of the upcoming summit will be dedicated to it. He mentioned that some BRICS members have a critical stance towards Tehran's recent actions but did not name them. The situation in the Persian Gulf is also an urgent topic, and the outcome of the negotiations is still uncertain.",
         "time": "23:52",
         "ts": 1788825130
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fouad Hussein, Iraq's Foreign Minister, emphasized the importance of opening dialogue channels among stakeholders to achieve peaceful solutions. He reiterated Baghdad's stance supporting countries' sovereignty and rejecting war and conflict expansion. He also stressed prioritizing dialogue and diplomatic tools to reduce tensions and achieve regional security.",
+        "time": "23:59",
+        "ts": 1788825575
       }
     ],
     "language": "en",
-    "packId": "20260907-122",
-    "sequence": 122,
+    "packId": "20260907-123",
+    "sequence": 123,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:52"
+    "updatedAt": "00:00"
   },
   "verified": true
 }
