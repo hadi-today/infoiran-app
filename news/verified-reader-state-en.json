@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-84 seq=84 exp=1789052958",
+      "advancedStatus": "pack_id=20260908-85 seq=85 exp=1789053064",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:09",
+      "lastChecked": "15:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 15:09",
+    "expiresAt": "2026-09-10 15:11",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,28 @@
         "text": "Abdolraouf Es'haqi, the commander of the Basij resistance area in Parood, Rask County, Sistan and Baluchestan province, was killed on Tuesday, September 7, during an attack by unknown assailants.",
         "time": "15:08",
         "ts": 1788880098
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reza Pahlavi called on Iranian psychologists and therapists to provide immediate and confidential support to the families of the missing. He also urged compatriots to visit and support these families. Recently, a justice-seeking father and the fiancée of one of the missing ended their lives.",
+        "time": "15:09",
+        "ts": 1788880161
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The Islamic Revolutionary Guard Corps announced the seizure of an unmanned submarine belonging to the US military in the Strait of Hormuz. The submarine is about 580 cm long, weighs nearly three tons, and can operate for up to 10 days. Additionally, the Iranian army shot down a US MQ-1 drone over Bandar Abbas.",
+        "time": "15:10",
+        "ts": 1788880216
       }
     ],
     "language": "en",
-    "packId": "20260908-84",
-    "sequence": 84,
+    "packId": "20260908-85",
+    "sequence": 85,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:09"
+    "updatedAt": "15:11"
   },
   "verified": true
 }
