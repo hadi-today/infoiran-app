@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-53 seq=53 exp=1789035999",
+      "advancedStatus": "pack_id=20260908-54 seq=54 exp=1789036304",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:26",
+      "lastChecked": "10:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 10:26",
+    "expiresAt": "2026-09-10 10:31",
     "items": [
       {
         "channel": "iranintl",
@@ -966,14 +966,21 @@
         "text": "Israel hosted the first international physical artificial intelligence conference in Tel Aviv. The conference was held in cooperation with the National AI Headquarters at the Israeli Prime Minister's Office. It focused on the connection between artificial intelligence, robotics, and autonomous systems.",
         "time": "10:26",
         "ts": 1788863169
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen protested the increase in gasoline prices in a video. He said that Pezeshkian had stated that permission would be obtained from the people for the price hike, but no such permission was taken. He also mentioned that the price of motor oil has increased by 50 percent.",
+        "time": "10:31",
+        "ts": 1788863474
       }
     ],
     "language": "en",
-    "packId": "20260908-53",
-    "sequence": 53,
+    "packId": "20260908-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:26"
+    "updatedAt": "10:31"
   },
   "verified": true
 }
