@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-128 seq=128 exp=1789069710",
+      "advancedStatus": "pack_id=20260908-129 seq=129 exp=1789069879",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:48",
+      "lastChecked": "19:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 19:48",
+    "expiresAt": "2026-09-10 19:51",
     "items": [
       {
         "channel": "iranintl",
@@ -1071,14 +1071,21 @@
         "text": "Three oil tankers near Khark Island have been hit. In Kermanshah, sounds of two missiles or warplanes were heard. Additionally, clashes occurred between people and Basij forces in Malard, Karaj.",
         "time": "19:48",
         "ts": 1788896885
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of Iranians in London gathered on September 8 in front of the British Prime Minister's office. The protest coincided with the 98th week of the 'No to Execution' campaign. They protested against executions in Iran.",
+        "time": "19:50",
+        "ts": 1788897056
       }
     ],
     "language": "en",
-    "packId": "20260908-128",
-    "sequence": 128,
+    "packId": "20260908-129",
+    "sequence": 129,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:48"
+    "updatedAt": "19:51"
   },
   "verified": true
 }
