@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-118 seq=118 exp=1789066878",
+      "advancedStatus": "pack_id=20260908-119 seq=119 exp=1789066994",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:01",
+      "lastChecked": "19:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 19:01",
+    "expiresAt": "2026-09-10 19:03",
     "items": [
       {
         "channel": "iranintl",
@@ -1022,14 +1022,21 @@
         "text": "A citizen criticized the high prices of medicines in a video sent to Iran International. He asked what a low-income patient who urgently needs medicine should do. The video highlights concerns about access to medication.",
         "time": "19:00",
         "ts": 1788894041
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "On September 7, nurses and healthcare staff in Kermanshah held a protest gathering. Esmaeil Bakhshi staged a sit-in at the entrance of the Haft Tappeh Sugarcane Company. Workers of Mahvar Gostar Nasr Company in Sirjan protested against the relocation of their workplace.",
+        "time": "19:02",
+        "ts": 1788894167
       }
     ],
     "language": "en",
-    "packId": "20260908-118",
-    "sequence": 118,
+    "packId": "20260908-119",
+    "sequence": 119,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:01"
+    "updatedAt": "19:03"
   },
   "verified": true
 }
