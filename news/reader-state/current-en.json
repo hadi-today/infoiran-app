@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-147 seq=147 exp=1789080683",
+      "advancedStatus": "pack_id=20260908-148 seq=148 exp=1789080764",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:51",
+      "lastChecked": "22:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 22:51",
+    "expiresAt": "2026-09-10 22:52",
     "items": [
       {
         "channel": "iranintl",
@@ -1113,14 +1113,21 @@
         "text": "Rubio, responding to a journalist's question about US attacks on Iranian oil tankers, said that Iran continues to try to target US Navy ships and loses an oil tanker each time. He also predicted that this would happen again today.",
         "time": "22:50",
         "ts": 1788907859
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US Central Command destroyed five oil tankers carrying Iranian crude oil. This action followed missile attacks by the IRGC on a US warship. No American personnel were harmed in these attacks.",
+        "time": "22:52",
+        "ts": 1788907932
       }
     ],
     "language": "en",
-    "packId": "20260908-147",
-    "sequence": 147,
+    "packId": "20260908-148",
+    "sequence": 148,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:51"
+    "updatedAt": "22:52"
   },
   "verified": true
 }
