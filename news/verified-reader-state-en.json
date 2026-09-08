@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-14 seq=14 exp=1789017616",
+      "advancedStatus": "pack_id=20260908-15 seq=15 exp=1789019090",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:20",
+      "lastChecked": "05:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 05:20",
+    "expiresAt": "2026-09-10 05:44",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Shahram Khaledi stated that Hezbollah is the forefront of the Islamic Republic's proxy program in the region and is on the verge of collapse. He added that Israel's attacks on Hezbollah send a message to Tehran. Benjamin Netanyahu emphasized the destruction of the command and leadership of forces acting against Israel.",
-        "time": "05:35",
-        "ts": 1788759334
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -945,14 +938,21 @@
         "text": "Dave Sharma, an Australian senator, described Reza Pahlavi as an important voice in political discussions about Iran's future. He stated that Australia desires a peaceful political change in Iran. He also said that Australia does not support the current government.",
         "time": "05:19",
         "ts": 1788844782
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Kambiz Tavana said that with the escalation of conflicts between Yemeni government forces and Houthis, the restriction of arms shipment routes from Iran, and the increase of US military presence in the region, the equations of Yemen and the Strait of Hormuz have entered a new phase. CENTCOM movements and the continued limited passage of ships through the Strait of Hormuz have added to the sensitivity of the situation.",
+        "time": "05:44",
+        "ts": 1788846265
       }
     ],
     "language": "en",
-    "packId": "20260908-14",
-    "sequence": 14,
+    "packId": "20260908-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:20"
+    "updatedAt": "05:44"
   },
   "verified": true
 }
