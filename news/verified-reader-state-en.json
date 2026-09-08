@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-105 seq=105 exp=1789060801",
+      "advancedStatus": "pack_id=20260908-106 seq=106 exp=1789060916",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:20",
+      "lastChecked": "17:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 17:20",
+    "expiresAt": "2026-09-10 17:21",
     "items": [
       {
         "channel": "iranintl",
@@ -994,14 +994,21 @@
         "text": "Heavy and torrential rainfall on the early morning of Tuesday, September 7, caused flooding in streets and public areas in northern Iran. The intensity was higher in some areas, leading to traffic disruptions. Rising runoff and river levels have increased concerns about potential damage in vulnerable locations.",
         "time": "17:19",
         "ts": 1788887969
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Aref Assar, detained during the December 2025 protests, is serving his sentence in Torbat Heydariyeh prison. His initial sentence of five years and one day was reduced to two years and six months on appeal. He has been in prison since August 7, 2026.",
+        "time": "17:21",
+        "ts": 1788888092
       }
     ],
     "language": "en",
-    "packId": "20260908-105",
-    "sequence": 105,
+    "packId": "20260908-106",
+    "sequence": 106,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:20"
+    "updatedAt": "17:21"
   },
   "verified": true
 }
