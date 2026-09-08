@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-144 seq=144 exp=1789079281",
+      "advancedStatus": "pack_id=20260908-145 seq=145 exp=1789079717",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:28",
+      "lastChecked": "22:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 22:28",
+    "expiresAt": "2026-09-10 22:35",
     "items": [
       {
         "channel": "iranintl",
@@ -1106,14 +1106,21 @@
         "text": "Marco Rubio, the US Secretary of State, stated that if Iran attempts to attack US Navy ships, Iranian oil tankers will be targeted. This statement reflects ongoing tensions between the two countries. Rubio directly threatened a retaliatory response.",
         "time": "22:27",
         "ts": 1788906460
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Recent reports have emerged about the theft of food items such as cheese, yogurt, cream, rice, and oil. Some accused individuals have no prior criminal record and have been arrested for theft for the first time. This issue raises concerns about the economic and living conditions of the people.",
+        "time": "22:34",
+        "ts": 1788906897
       }
     ],
     "language": "en",
-    "packId": "20260908-144",
-    "sequence": 144,
+    "packId": "20260908-145",
+    "sequence": 145,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:28"
+    "updatedAt": "22:35"
   },
   "verified": true
 }
