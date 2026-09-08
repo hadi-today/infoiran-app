@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-93 seq=93 exp=1789056732",
+      "advancedStatus": "pack_id=20260908-94 seq=94 exp=1789056993",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:12",
+      "lastChecked": "16:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 16:12",
+    "expiresAt": "2026-09-10 16:16",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,21 @@
         "text": "Marco Rubio, the US Secretary of State, described the Houthis as Iran's proxy. He stated that the Iranian government's involvement is clearly seen behind part of this issue. He also mentioned that the US has very strong military relations with Saudi Arabia.",
         "time": "16:11",
         "ts": 1788883901
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Amin Salami's brother called on the families of the deceased to remain steadfast in keeping the memory of their loved ones alive. This message was released following reports of suicides among some family members of the deceased. Mohammad Amin Salami, 26, was killed in Kermanshah.",
+        "time": "16:15",
+        "ts": 1788884152
       }
     ],
     "language": "en",
-    "packId": "20260908-93",
-    "sequence": 93,
+    "packId": "20260908-94",
+    "sequence": 94,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:12"
+    "updatedAt": "16:16"
   },
   "verified": true
 }
