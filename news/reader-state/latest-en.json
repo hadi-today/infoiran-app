@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-67 seq=67 exp=1789045243",
+      "advancedStatus": "pack_id=20260908-68 seq=68 exp=1789045498",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:00",
+      "lastChecked": "13:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 13:00",
+    "expiresAt": "2026-09-10 13:04",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of retired telecommunications workers in Isfahan protested their living conditions. They chanted slogans against the IRGC. This protest was shown in a released video.",
-        "time": "13:03",
-        "ts": 1788786212
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "The Islamic Republic's delegation stated at the IAEA Board of Governors meeting that the agency is responsible for illegal attacks on peaceful nuclear facilities under inspection. The delegation highlighted breaches of confidentiality and misuse of sensitive information. They also questioned how member states can trust the agency's performance if it does not adequately address nuclear security consequences.",
         "time": "13:00",
         "ts": 1788872414
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A group of nurses and healthcare staff in Kermanshah held a protest in front of Taleghani University of Medical Sciences today. They protested their living conditions and demanded attention with slogans. The protest took place on September 7.",
+        "time": "13:04",
+        "ts": 1788872671
       }
     ],
     "language": "en",
-    "packId": "20260908-67",
-    "sequence": 67,
+    "packId": "20260908-68",
+    "sequence": 68,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:00"
+    "updatedAt": "13:04"
   },
   "verified": true
 }
