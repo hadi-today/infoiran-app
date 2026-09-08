@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-68 seq=68 exp=1789045498",
+      "advancedStatus": "pack_id=20260908-69 seq=69 exp=1789045582",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:04",
+      "lastChecked": "13:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 13:04",
+    "expiresAt": "2026-09-10 13:06",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "A group of nurses and healthcare staff in Kermanshah held a protest in front of Taleghani University of Medical Sciences today. They protested their living conditions and demanded attention with slogans. The protest took place on September 7.",
         "time": "13:04",
         "ts": 1788872671
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Houthis released a video showing an attack on Saudi trucks near Al-Wadiah on the Yemen-Saudi border. The trucks were burning and had entered from Saudi Arabia. Houthis stated that these trucks were targeted in the attack.",
+        "time": "13:05",
+        "ts": 1788872715
       }
     ],
     "language": "en",
-    "packId": "20260908-68",
-    "sequence": 68,
+    "packId": "20260908-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:04"
+    "updatedAt": "13:06"
   },
   "verified": true
 }
