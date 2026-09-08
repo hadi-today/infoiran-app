@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-142 seq=142 exp=1789079032",
+      "advancedStatus": "pack_id=20260908-143 seq=143 exp=1789079112",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:23",
+      "lastChecked": "22:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 22:23",
+    "expiresAt": "2026-09-10 22:25",
     "items": [
       {
         "channel": "iranintl",
@@ -1092,14 +1092,21 @@
         "text": "Al Hadath network reported that Jordan's air defense intercepted a wave of missiles launched by the Islamic Republic. The network also recorded interceptions of missiles in southern Syria. So far, no reports of casualties or material damage have been released.",
         "time": "22:23",
         "ts": 1788906209
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The US Central Command destroyed five Iranian oil tankers after two US warships were targeted by the IRGC. The tankers were destroyed in the Sea of Oman and near Khark Island, with crews evacuated before the attack. Iran used these tankers to finance the IRGC and its regional proxy forces.",
+        "time": "22:24",
+        "ts": 1788906248
       }
     ],
     "language": "en",
-    "packId": "20260908-142",
-    "sequence": 142,
+    "packId": "20260908-143",
+    "sequence": 143,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:23"
+    "updatedAt": "22:25"
   },
   "verified": true
 }
