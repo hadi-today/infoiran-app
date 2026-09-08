@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-59 seq=59 exp=1789040552",
+      "advancedStatus": "pack_id=20260908-60 seq=60 exp=1789040647",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:42",
+      "lastChecked": "11:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 11:42",
+    "expiresAt": "2026-09-10 11:44",
     "items": [
       {
         "channel": "iranintl",
@@ -931,14 +931,21 @@
         "text": "Yousef Salahshour, a Turkic activist, is serving a one-year prison sentence in Tabriz prison. He was sentenced by the third branch of the Revolutionary Court of Tabriz to one year in prison and additional penalties. He was arrested and transferred to prison on August 22, 2026.",
         "time": "11:42",
         "ts": 1788867728
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abdolkareem Hashemi Nakhl Ebrahimi, a member of parliament, stated that the people of the region and the guardians of the Strait of Hormuz are ready to confront the enemy using small boats. He added that if the US does not accept the Islamic Republic's conditions, they must powerfully attack the enemy's naval fleet and break the naval blockade. The goal is to expel the enemy from the region.",
+        "time": "11:43",
+        "ts": 1788867825
       }
     ],
     "language": "en",
-    "packId": "20260908-59",
-    "sequence": 59,
+    "packId": "20260908-60",
+    "sequence": 60,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:42"
+    "updatedAt": "11:44"
   },
   "verified": true
 }
