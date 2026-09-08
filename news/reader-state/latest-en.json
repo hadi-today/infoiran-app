@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-15 seq=15 exp=1789019090",
+      "advancedStatus": "pack_id=20260908-16 seq=16 exp=1789019519",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:44",
+      "lastChecked": "05:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 05:44",
+    "expiresAt": "2026-09-10 05:51",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,21 @@
         "text": "Kambiz Tavana said that with the escalation of conflicts between Yemeni government forces and Houthis, the restriction of arms shipment routes from Iran, and the increase of US military presence in the region, the equations of Yemen and the Strait of Hormuz have entered a new phase. CENTCOM movements and the continued limited passage of ships through the Strait of Hormuz have added to the sensitivity of the situation.",
         "time": "05:44",
         "ts": 1788846265
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "More than 150 people attacked a private dormitory of Iraqi students in Semnan, injuring several students. Semnan University denied any clashes between Iranian and foreign students. The Iraqi embassy announced that the crisis involving Iraqi students in Semnan has been resolved and they have been granted a one-month academic leave.",
+        "time": "05:51",
+        "ts": 1788846698
       }
     ],
     "language": "en",
-    "packId": "20260908-15",
-    "sequence": 15,
+    "packId": "20260908-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:44"
+    "updatedAt": "05:51"
   },
   "verified": true
 }
