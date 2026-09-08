@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-42 seq=42 exp=1789030816",
+      "advancedStatus": "pack_id=20260908-43 seq=43 exp=1789031955",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:00",
+      "lastChecked": "09:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 09:00",
+    "expiresAt": "2026-09-10 09:19",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of motorcycle couriers in Arak went on strike on Monday, 16 Shahrivar, due to low fares and high commissions. The protest took the form of a strike. Videos of the event were sent to Iran International.",
-        "time": "09:00",
-        "ts": 1788771653
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Hossein Taeb, head of the Basij Organization, stated that the enemy has not fulfilled its financial and political commitments. He emphasized that the Islamic Republic will decide based on the real actions of the other side. His message is that every commitment must be implemented and the rights of the nation must be ensured.",
-        "time": "09:12",
-        "ts": 1788772365
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -959,14 +945,21 @@
         "text": "Workers of Mahvar Gostar Nasr company in Sirjan protested the company's decision to transfer their workplace to projects in Mehran or Jask. They demand job security and the possibility to continue working in regional projects. These protests were made at the Sirjan Governor's Office and the Department of Labor and Social Welfare.",
         "time": "08:59",
         "ts": 1788857994
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of nurses in Kermanshah gathered on Tuesday, 17 Shahrivar, to protest their living conditions. They chanted that they have no salaries and the police are brought in. The protest was held due to the financial problems of the nurses.",
+        "time": "09:18",
+        "ts": 1788859132
       }
     ],
     "language": "en",
-    "packId": "20260908-42",
-    "sequence": 42,
+    "packId": "20260908-43",
+    "sequence": 43,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:00"
+    "updatedAt": "09:19"
   },
   "verified": true
 }
