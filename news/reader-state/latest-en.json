@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-05 seq=5 exp=1789005801",
+      "advancedStatus": "pack_id=20260908-06 seq=6 exp=1789008982",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:03",
+      "lastChecked": "02:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 02:03",
+    "expiresAt": "2026-09-10 02:56",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Anita Anand, Canada's Foreign Minister, stated that the threats from the Islamic Republic in the Strait of Hormuz and Iran's illegal nuclear activities threaten global peace. She referred to a joint statement with Canada's Finance Minister about sanctions and pressure on Iran. Canada continues to exert pressure on the Islamic Republic in cooperation with its partners.",
-        "time": "02:15",
-        "ts": 1788747341
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -896,14 +889,21 @@
         "text": "Ali Madanizadeh, Minister of Economic Affairs and Finance, stated that developing relations with Russia is part of the government's plans. Masoud Pezeshkian is seriously pursuing joint projects between Tehran and Moscow. Securing essential goods from the Eurasian region, especially Russia, is a government priority.",
         "time": "02:03",
         "ts": 1788832980
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Prince Reza Pahlavi held a virtual meeting with senior representatives and senators of the Australian coalition. Senators described him as a symbol of opposition to the regime and support for democracy. The Australian coalition has invited him to visit the country.",
+        "time": "02:55",
+        "ts": 1788836158
       }
     ],
     "language": "en",
-    "packId": "20260908-05",
-    "sequence": 5,
+    "packId": "20260908-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:03"
+    "updatedAt": "02:56"
   },
   "verified": true
 }
