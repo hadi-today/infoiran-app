@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-112 seq=112 exp=1789064443",
+      "advancedStatus": "pack_id=20260908-113 seq=113 exp=1789064996",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:20",
+      "lastChecked": "18:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 18:20",
+    "expiresAt": "2026-09-10 18:29",
     "items": [
       {
         "channel": "خبرگزاری هرانا",
@@ -866,13 +866,19 @@
         "text": "اسکات بسنت، وزیر خزانه‌داری آمریکا، عملیات تازه‌ای را علیه اقتصاد جمهوری اسلامی هدایت می‌کند که نامش را «طرد اقتصادی» گذاشته و آن را سخت‌ترین تحریم تاریخ خوانده است.",
         "time": "18:20",
         "ts": 1788891610
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "خبرگزاری رویترز به نقل از یک مقام آمریکایی گزارش داد یک زهپاد ارتش آمریکا هنگام بررسی آب‌های منطقه در حمایت از عملیات مرتبط با جنگ ایران، دچار نقص فنی شده است. این مقام آمریکایی افزود زهپاد مدلی قدیمی‌تر بوده و تجهیزات محرمانه سونار یا راداری حمل نمی‌کرده است.",
+        "time": "18:29",
+        "ts": 1788892166
       }
     ],
-    "packId": "20260908-112",
-    "sequence": 112,
+    "packId": "20260908-113",
+    "sequence": 113,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "18:20"
+    "updatedAt": "18:29"
   },
   "verified": true
 }
