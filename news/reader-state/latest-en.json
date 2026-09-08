@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-22 seq=22 exp=1789024021",
+      "advancedStatus": "pack_id=20260908-23 seq=23 exp=1789024101",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:07",
+      "lastChecked": "07:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 07:07",
+    "expiresAt": "2026-09-10 07:08",
     "items": [
       {
         "channel": "iranintl",
@@ -938,14 +938,21 @@
         "text": "A citizen sent a video to Iran International showing armed Basij members stationed on the roof of a Basij base in Khomeini Shahr on the evening of Monday, September 6. The video was sent to Iran International. The exact time of the event is the evening of Monday, September 6.",
         "time": "07:06",
         "ts": 1788851198
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morteza Kazemian criticized the government's justification for the gasoline price increase. He said that reducing costs to citizens ignores the widespread economic pressure on most people. He also warned that the fuel price increase could trigger a chain of price hikes and intensify dissatisfaction.",
+        "time": "07:07",
+        "ts": 1788851236
       }
     ],
     "language": "en",
-    "packId": "20260908-22",
-    "sequence": 22,
+    "packId": "20260908-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:07"
+    "updatedAt": "07:08"
   },
   "verified": true
 }
