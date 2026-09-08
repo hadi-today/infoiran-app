@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-77 seq=77 exp=1789050503",
+      "advancedStatus": "pack_id=20260908-78 seq=78 exp=1789050734",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:28",
+      "lastChecked": "14:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 14:28",
+    "expiresAt": "2026-09-10 14:32",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Citizens have reported that with the momentary rise in prices, planning for the near future has become difficult. Inflationary pressure has reached food, transportation, essential repairs, and daily expenses. This issue was discussed in an interview with Seba Heydarkhani.",
-        "time": "14:29",
-        "ts": 1788791353
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A merchant made a humorous comment about the rise in gasoline prices and goods prices in a video. He said he is happy about inflation and price increases and that others should be happy too. Otherwise, they are threatened with execution.",
-        "time": "14:31",
-        "ts": 1788791493
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -903,14 +889,21 @@
         "text": "A grandmother who supports Esteghlal said she offered a bribe to her grandchildren who support Persepolis to change their team. Her grandchildren replied that their blood is red and they will not change their team. This interview was conducted by Football 360.",
         "time": "14:27",
         "ts": 1788877670
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The mother of Siavash Mahmoudi, a protester killed in the \"Woman, Life, Freedom\" uprising, joined the \"One Candle, One Name, One Memory\" campaign. She lit a candle for her son and said he was a cry for freedom and liberty.",
+        "time": "14:31",
+        "ts": 1788877909
       }
     ],
     "language": "en",
-    "packId": "20260908-77",
-    "sequence": 77,
+    "packId": "20260908-78",
+    "sequence": 78,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:28"
+    "updatedAt": "14:32"
   },
   "verified": true
 }
