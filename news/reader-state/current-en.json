@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-80 seq=80 exp=1789052136",
+      "advancedStatus": "pack_id=20260908-81 seq=81 exp=1789052213",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:55",
+      "lastChecked": "14:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 14:55",
+    "expiresAt": "2026-09-10 14:56",
     "items": [
       {
         "channel": "harana",
@@ -903,14 +903,21 @@
         "text": "Gideon Sa'ar, Israel's Foreign Minister, announced the closure of the British consulate in East Jerusalem in response to Britain's sanctions against Israeli settlements. Entry of 10 British officials and citizens to Israel will also be banned. Sa'ar described Britain's sanctions as interference in Israel's upcoming elections.",
         "time": "14:55",
         "ts": 1788879308
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donya-e-Eqtesad newspaper reported that Iran's foreign trade crisis has spread from the sea to land borders and financial routes. Media reported the accumulation of 17,000 containers at Karachi port and the stoppage of thousands of trucks at Pakistan's borders. This issue was discussed in an interview with Mahtab Gholizadeh.",
+        "time": "14:55",
+        "ts": 1788879349
       }
     ],
     "language": "en",
-    "packId": "20260908-80",
-    "sequence": 80,
+    "packId": "20260908-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:55"
+    "updatedAt": "14:56"
   },
   "verified": true
 }
