@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-20 seq=20 exp=1789022157",
+      "advancedStatus": "pack_id=20260908-21 seq=21 exp=1789022812",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:35",
+      "lastChecked": "06:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 06:35",
+    "expiresAt": "2026-09-10 06:46",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Iranians in Calgary held another protest in front of the city hall. They demanded an end to repression and executions in Iran. They also emphasized solidarity with the people inside the country.",
-        "time": "06:37",
-        "ts": 1788763039
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Danial Karimi, the father of Amir Mohammad Karimi who was killed in the December 1404 protests in Marvdasht, committed suicide on September 6. Amir Mohammad Karimi was 19 years old and a former member of Iran's national youth taekwondo team. His body was buried in the village of Joonjan.",
-        "time": "06:41",
-        "ts": 1788763286
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -959,14 +945,21 @@
         "text": "Heydar Baharvand, head of the league organization, stated that the last season's league has no champion and the case is closed. The league spokesperson said Esteghlal's request for the championship trophy will be reviewed by the Football Federation's board. Ali Tajernia, chairman of Esteghlal's board, emphasized they will pursue the championship trophy issue.",
         "time": "06:35",
         "ts": 1788849336
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Jassim Mohammed Al-Budaiwi strongly condemned the Houthi attacks on civilians and facilities in southern Saudi Arabia. He described these attacks as violations of international laws and acts of terrorism. The GCC Secretary-General called for a firm stance from the international community against these attacks.",
+        "time": "06:46",
+        "ts": 1788849982
       }
     ],
     "language": "en",
-    "packId": "20260908-20",
-    "sequence": 20,
+    "packId": "20260908-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:35"
+    "updatedAt": "06:46"
   },
   "verified": true
 }
