@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-72 seq=72 exp=1789046803",
+      "advancedStatus": "pack_id=20260908-73 seq=73 exp=1789047087",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:26",
+      "lastChecked": "13:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 13:26",
+    "expiresAt": "2026-09-10 13:31",
     "items": [
       {
         "channel": "iranintl",
@@ -931,14 +931,21 @@
         "text": "The Russian Foreign Minister announced that Russia and Saudi Arabia will continue their close cooperation and coordination within the OPEC+ framework to stabilize the global oil market. This announcement was made at a joint press conference in Moscow. More details are available in an interview with an Iran International reporter.",
         "time": "13:26",
         "ts": 1788873981
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows that on September 6, military forces on motorcycles were present in the streets of Tabriz. This video was received by Iran International. The presence of military forces on this date has been documented.",
+        "time": "13:30",
+        "ts": 1788874252
       }
     ],
     "language": "en",
-    "packId": "20260908-72",
-    "sequence": 72,
+    "packId": "20260908-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:26"
+    "updatedAt": "13:31"
   },
   "verified": true
 }
