@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-106 seq=106 exp=1789060916",
+      "advancedStatus": "pack_id=20260908-107 seq=107 exp=1789061939",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:21",
+      "lastChecked": "17:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 17:21",
+    "expiresAt": "2026-09-10 17:38",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US is presenting a resolution at the IAEA Board of Governors meeting to refer Iran's nuclear file to the UN Security Council. The resolution calls for the return of inspectors and resumption of inspections at Iran's nuclear sites. The US, UK, France, and Germany say Iran has not provided verifiable information about its enriched uranium stockpiles.",
-        "time": "17:36",
-        "ts": 1788802587
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The Administrative Justice Court confirmed the four-month temporary suspension of Salah Haji-Mirzaei, a teachers' union activist in Sanandaj. The 31st appellate branch rejected his complaint and upheld the temporary suspension penalty. This ruling is related to administrative violations by the Ministry of Education.",
-        "time": "17:37",
-        "ts": 1788802645
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Persepolis football team defeated Zob Ahan 2-0 in the sixth week of the Premier League and moved up to second place. Ali Alipour and Pouria Shahabadi scored for Persepolis. Mehdi Tartaar included Aston Aronov in the starting lineup, and the referee reviewed a suspicious penalty incident but the result remained unchanged.",
-        "time": "17:37",
-        "ts": 1788802656
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1001,14 +980,21 @@
         "text": "Aref Assar, detained during the December 2025 protests, is serving his sentence in Torbat Heydariyeh prison. His initial sentence of five years and one day was reduced to two years and six months on appeal. He has been in prison since August 7, 2026.",
         "time": "17:21",
         "ts": 1788888092
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli Prime Minister's Office denied the UAE's warning about the October 7 attack. The office stated that if such information existed, it would have been transmitted through intelligence channels. Haaretz had reported that the UAE warned Netanyahu before the attack.",
+        "time": "17:38",
+        "ts": 1788889109
       }
     ],
     "language": "en",
-    "packId": "20260908-106",
-    "sequence": 106,
+    "packId": "20260908-107",
+    "sequence": 107,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:21"
+    "updatedAt": "17:38"
   },
   "verified": true
 }
