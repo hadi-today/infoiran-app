@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-120 seq=120 exp=1789067382",
+      "advancedStatus": "pack_id=20260908-121 seq=121 exp=1789067540",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:09",
+      "lastChecked": "19:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 19:09",
+    "expiresAt": "2026-09-10 19:12",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "At least 10 Sunni Arab citizens were arrested in Ahvaz on Friday, September 3rd, by intelligence forces. They were attending a meeting in the Mashali neighborhood and were transferred to an unknown location after arrest. The identities of three detainees have been confirmed.",
-        "time": "19:11",
-        "ts": 1788808260
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1029,14 +1022,21 @@
         "text": "Babak Moradifar, a political activist, was sentenced to 30 months of imprisonment by Branch 28 of the Tehran Revolutionary Court. The sentence was issued at the preliminary stage under Judge Amouzad. Harana News Agency reported this news.",
         "time": "19:09",
         "ts": 1788894556
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Yemeni government forces announced that Abu Ali Al-Ajni, head of Ansar Allah's intelligence organization, was captured in clashes in Taiz province. This commander was detained along with nine others. Heavy clashes in Taiz have been ongoing since last Thursday.",
+        "time": "19:11",
+        "ts": 1788894711
       }
     ],
     "language": "en",
-    "packId": "20260908-120",
-    "sequence": 120,
+    "packId": "20260908-121",
+    "sequence": 121,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:09"
+    "updatedAt": "19:12"
   },
   "verified": true
 }
