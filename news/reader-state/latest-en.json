@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-12 seq=12 exp=1789017465",
+      "advancedStatus": "pack_id=20260908-14 seq=14 exp=1789017616",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:17",
+      "lastChecked": "05:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 05:17",
+    "expiresAt": "2026-09-10 05:20",
     "items": [
       {
         "channel": "iranintl",
@@ -931,14 +931,28 @@
         "text": "Mohammad Reza Aref stated that the real cost of importing one liter of gasoline is over 70,000 tomans, and the third gasoline price of 10,000 tomans is far from the actual cost. He said imported gasoline will be gradually liberalized with price adjustments. Also, a plan to reduce fuel smuggling in three provinces was approved, but the fourth gasoline price was added without approval.",
         "time": "05:17",
         "ts": 1788844652
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Saudi officials reported that a wave of attacks by Iran-backed Houthis on Saudi Arabia injured 73 people. The attacks targeted civilian and economic facilities in several Saudi cities. The Saudi-led coalition stated it will take all necessary operational measures to deter the Houthis.",
+        "time": "05:19",
+        "ts": 1788844775
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Dave Sharma, an Australian senator, described Reza Pahlavi as an important voice in political discussions about Iran's future. He stated that Australia desires a peaceful political change in Iran. He also said that Australia does not support the current government.",
+        "time": "05:19",
+        "ts": 1788844782
       }
     ],
     "language": "en",
-    "packId": "20260908-12",
-    "sequence": 12,
+    "packId": "20260908-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:17"
+    "updatedAt": "05:20"
   },
   "verified": true
 }
