@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-03 seq=3 exp=1789003310",
+      "advancedStatus": "pack_id=20260908-04 seq=4 exp=1789004113",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:21",
+      "lastChecked": "01:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 01:21",
+    "expiresAt": "2026-09-10 01:35",
     "items": [
       {
         "channel": "iranintl",
@@ -882,14 +882,21 @@
         "text": "Majid Ibn al-Reza, the acting defense minister, claimed that the country's military forces have the ability to target American combat ships.",
         "time": "01:21",
         "ts": 1788830488
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Esmaeil Baqaei, spokesperson for Iran's Foreign Ministry, called Canada's statement supporting the US economic war against Tehran complicity in lawbreaking. He said Canada cannot claim to be a promoter of peace while supporting illegal US actions. Baqaei described this behavior as a sign of strategic confusion and submission to bullying.",
+        "time": "01:34",
+        "ts": 1788831288
       }
     ],
     "language": "en",
-    "packId": "20260908-03",
-    "sequence": 3,
+    "packId": "20260908-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:21"
+    "updatedAt": "01:35"
   },
   "verified": true
 }
