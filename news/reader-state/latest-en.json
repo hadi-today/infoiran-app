@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-19 seq=19 exp=1789021845",
+      "advancedStatus": "pack_id=20260908-20 seq=20 exp=1789022157",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:30",
+      "lastChecked": "06:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 06:30",
+    "expiresAt": "2026-09-10 06:35",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,21 @@
         "text": "Ali Nikzad, the Deputy Speaker of the Parliament, stated that American soldiers have been displaced to hotels due to their bases being targeted and are experiencing depression. He suggested that the US should withdraw from the war as soon as possible. Nikzad also emphasized that the Islamic Republic is conducting the war with precise tactics.",
         "time": "06:30",
         "ts": 1788849023
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Heydar Baharvand, head of the league organization, stated that the last season's league has no champion and the case is closed. The league spokesperson said Esteghlal's request for the championship trophy will be reviewed by the Football Federation's board. Ali Tajernia, chairman of Esteghlal's board, emphasized they will pursue the championship trophy issue.",
+        "time": "06:35",
+        "ts": 1788849336
       }
     ],
     "language": "en",
-    "packId": "20260908-19",
-    "sequence": 19,
+    "packId": "20260908-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:30"
+    "updatedAt": "06:35"
   },
   "verified": true
 }
