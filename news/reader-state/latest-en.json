@@ -1,34 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260907-123 seq=123 exp=1788998400",
+      "advancedStatus": "pack_id=20260908-01 seq=1 exp=1788999337",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:00",
+      "lastChecked": "00:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-09-07",
-    "expiresAt": "2026-09-10 00:00",
+    "date": "2026-09-08",
+    "expiresAt": "2026-09-10 00:15",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mark Levin, an American commentator, has once again called for arming the people of Iran. He previously suggested that the US should train and support the Iranian people. Levin also referred to the Reagan Doctrine and urged the US or Israel to take action in this regard.",
-        "time": "00:00",
-        "ts": 1788739234
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Joe Wilson, a Republican member of the US Congress, welcomed the success of Yemen government forces against Houthi attacks. He said the Houthis lost large areas in the clashes and called for an end to the Islamic Republic's influence in Yemen. The fighting in Yemen has intensified in recent days.",
-        "time": "00:12",
-        "ts": 1788739935
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -882,14 +868,21 @@
         "text": "Fouad Hussein, Iraq's Foreign Minister, emphasized the importance of opening dialogue channels among stakeholders to achieve peaceful solutions. He reiterated Baghdad's stance supporting countries' sovereignty and rejecting war and conflict expansion. He also stressed prioritizing dialogue and diplomatic tools to reduce tensions and achieve regional security.",
         "time": "23:59",
         "ts": 1788825575
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump wrote on Truth Social that with America's victory in the war against the Islamic Republic, oil prices will sharply decrease. He predicted that gasoline prices would first drop to three dollars and then to less than two dollars per gallon. Trump said this change would happen quickly.",
+        "time": "00:15",
+        "ts": 1788826510
       }
     ],
     "language": "en",
-    "packId": "20260907-123",
-    "sequence": 123,
+    "packId": "20260908-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:00"
+    "updatedAt": "00:15"
   },
   "verified": true
 }
