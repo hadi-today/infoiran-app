@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-129 seq=129 exp=1789069879",
+      "advancedStatus": "pack_id=20260908-130 seq=130 exp=1789070142",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:51",
+      "lastChecked": "19:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 19:51",
+    "expiresAt": "2026-09-10 19:55",
     "items": [
       {
         "channel": "iranintl",
@@ -1078,14 +1078,28 @@
         "text": "A group of Iranians in London gathered on September 8 in front of the British Prime Minister's office. The protest coincided with the 98th week of the 'No to Execution' campaign. They protested against executions in Iran.",
         "time": "19:50",
         "ts": 1788897056
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "In September 2026, the Human Rights Activists Group submitted a request for a structural investigation into Iran's situation to the German Federal Prosecutor. The request focuses on the suppression of protests in December 2025 and January 2026 and includes over 109 pages of documents and evidence. Concurrently, events and activities were held in Berlin to garner public support.",
+        "time": "19:55",
+        "ts": 1788897313
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Al-Basha stated that no audio or video message from the new leader of the Islamic Republic has been released. He said that currently, affairs are managed by the commanders of the Revolutionary Guards who are allied with the Houthis.",
+        "time": "19:55",
+        "ts": 1788897321
       }
     ],
     "language": "en",
-    "packId": "20260908-129",
-    "sequence": 129,
+    "packId": "20260908-130",
+    "sequence": 130,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:51"
+    "updatedAt": "19:55"
   },
   "verified": true
 }
