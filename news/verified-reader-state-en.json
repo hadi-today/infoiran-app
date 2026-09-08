@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-113 seq=113 exp=1789064996",
+      "advancedStatus": "pack_id=20260908-114 seq=114 exp=1789065667",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:29",
+      "lastChecked": "18:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 18:29",
+    "expiresAt": "2026-09-10 18:41",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Kamran Hekmati, a 71-year-old dual Iranian-American Jewish citizen with cancer, was released from Evin prison. Despite his release, he remains banned from leaving the country. He is not allowed to leave Iran.",
-        "time": "18:33",
-        "ts": 1788805997
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1015,14 +1008,21 @@
         "text": "Reuters reported, citing a US official, that a US Navy ROV suffered a technical malfunction while surveying regional waters in support of operations related to the Iran war. The US official added that the ROV was an older model and did not carry any classified sonar or radar equipment.",
         "time": "18:29",
         "ts": 1788892166
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Some employees of the Mahshahr Petrochemical Research and Technology Company reported non-payment of their overtime for the past months. In addition to overtime, some benefits, facilities, and welfare and incentive payments have also not been paid or have been delayed.",
+        "time": "18:40",
+        "ts": 1788892842
       }
     ],
     "language": "en",
-    "packId": "20260908-113",
-    "sequence": 113,
+    "packId": "20260908-114",
+    "sequence": 114,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:29"
+    "updatedAt": "18:41"
   },
   "verified": true
 }
