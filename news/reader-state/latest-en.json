@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-55 seq=55 exp=1789036748",
+      "advancedStatus": "pack_id=20260908-56 seq=56 exp=1789036908",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:39",
+      "lastChecked": "10:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 10:39",
+    "expiresAt": "2026-09-10 10:41",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reports have emerged about broken escalators in Tehran metro, rising prices of medicines and goods, internet issues in Mazandaran, and difficult living conditions. People have reported severe inflation and shortages of specific drugs like Vectibix. Additionally, problems such as frequent internet outages and increased car repair costs have been highlighted.",
-        "time": "10:40",
-        "ts": 1788777622
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -966,14 +959,21 @@
         "text": "The court session for Fariba Asadi, a civil activist related to the 1404 protests, was held at Branch Two of the Revolutionary Court in Karaj. The session took place on September 7 under Judge Sabzevari. Asadi is accused of assembly and collusion, acting against national security, and participating in protests.",
         "time": "10:38",
         "ts": 1788863925
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The UK government issued a new law on September 7 to intensify sanctions against the Islamic Republic. The law expands trade restrictions and the authority to target ships. It also bans Iranian planes from landing in the UK except in exempted cases.",
+        "time": "10:41",
+        "ts": 1788864081
       }
     ],
     "language": "en",
-    "packId": "20260908-55",
-    "sequence": 55,
+    "packId": "20260908-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:39"
+    "updatedAt": "10:41"
   },
   "verified": true
 }
