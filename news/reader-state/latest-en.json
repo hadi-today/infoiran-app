@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-45 seq=45 exp=1789032250",
+      "advancedStatus": "pack_id=20260908-46 seq=46 exp=1789032359",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:24",
+      "lastChecked": "09:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 09:24",
+    "expiresAt": "2026-09-10 09:25",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "Citizens have reacted to the increase in gasoline price to 10,000 tomans, seeing it as a cause for rising prices of bread, fares, and other goods. They believe this increase has made life harder and increased economic pressure. They also demand wages to be raised proportionally to the price hikes.",
         "time": "09:23",
         "ts": 1788859417
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Taghi Naqdali, representative of Khomeini Shahr, said the government has retreated on the issue of hijab and compromised religious principles. He also mentioned the government's bypassing of the Supreme Council of Cyberspace and failure to enforce the hijab law. Naqdali stated that the counter-infiltration plan and hijab are revolutionary slogans that will be pursued.",
+        "time": "09:25",
+        "ts": 1788859505
       }
     ],
     "language": "en",
-    "packId": "20260908-45",
-    "sequence": 45,
+    "packId": "20260908-46",
+    "sequence": 46,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:24"
+    "updatedAt": "09:25"
   },
   "verified": true
 }
