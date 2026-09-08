@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-54 seq=54 exp=1789036304",
+      "advancedStatus": "pack_id=20260908-55 seq=55 exp=1789036748",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:31",
+      "lastChecked": "10:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 10:31",
+    "expiresAt": "2026-09-10 10:39",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "During the match between Esteghlal and Aluminium Arak on September 6, spectators chanted the name of Mehrdad Moshtaghi. Mehrdad Moshtaghi, a 27-year-old engineer and Esteghlal fan, was killed by a bullet in Arak on January 9, 2026.",
-        "time": "10:36",
-        "ts": 1788777363
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Shahram Irani, the commander of the Navy, stated that surprising the enemy has disrupted the operational capability of hostile ships. He said the Navy can immobilize the enemy anywhere. The main mission is to prevent the enemy from achieving its goals, and enemy movements are monitored in real time.",
-        "time": "10:36",
-        "ts": 1788777415
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -973,14 +959,21 @@
         "text": "A citizen protested the increase in gasoline prices in a video. He said that Pezeshkian had stated that permission would be obtained from the people for the price hike, but no such permission was taken. He also mentioned that the price of motor oil has increased by 50 percent.",
         "time": "10:31",
         "ts": 1788863474
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The court session for Fariba Asadi, a civil activist related to the 1404 protests, was held at Branch Two of the Revolutionary Court in Karaj. The session took place on September 7 under Judge Sabzevari. Asadi is accused of assembly and collusion, acting against national security, and participating in protests.",
+        "time": "10:38",
+        "ts": 1788863925
       }
     ],
     "language": "en",
-    "packId": "20260908-54",
-    "sequence": 54,
+    "packId": "20260908-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:31"
+    "updatedAt": "10:39"
   },
   "verified": true
 }
