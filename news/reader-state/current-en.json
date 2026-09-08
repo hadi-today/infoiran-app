@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260908-119 seq=119 exp=1789066994",
+      "advancedStatus": "pack_id=20260908-120 seq=120 exp=1789067382",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:03",
+      "lastChecked": "19:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-08",
-    "expiresAt": "2026-09-10 19:03",
+    "expiresAt": "2026-09-10 19:09",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The seventh-day ceremony of Ali Mirrezaei, a Mazandaran singer who was executed last week, was held. This ceremony has sparked a discussion about how society should deal with serious offenses and the death penalty. The large public attendance at the ceremony had a significant social impact.",
-        "time": "19:07",
-        "ts": 1788808040
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1029,14 +1022,21 @@
         "text": "On September 7, nurses and healthcare staff in Kermanshah held a protest gathering. Esmaeil Bakhshi staged a sit-in at the entrance of the Haft Tappeh Sugarcane Company. Workers of Mahvar Gostar Nasr Company in Sirjan protested against the relocation of their workplace.",
         "time": "19:02",
         "ts": 1788894167
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Babak Moradifar, a political activist, was sentenced to 30 months of imprisonment by Branch 28 of the Tehran Revolutionary Court. The sentence was issued at the preliminary stage under Judge Amouzad. Harana News Agency reported this news.",
+        "time": "19:09",
+        "ts": 1788894556
       }
     ],
     "language": "en",
-    "packId": "20260908-119",
-    "sequence": 119,
+    "packId": "20260908-120",
+    "sequence": 120,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:03"
+    "updatedAt": "19:09"
   },
   "verified": true
 }
