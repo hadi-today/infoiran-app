@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-03 seq=3 exp=1789086814",
+      "advancedStatus": "pack_id=20260909-04 seq=4 exp=1789087672",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:33",
+      "lastChecked": "00:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 00:33",
+    "expiresAt": "2026-09-11 00:47",
     "items": [
       {
         "channel": "iranintl",
@@ -1127,14 +1127,21 @@
         "text": "Ellen Burstyn, a 93-year-old American actress, received the Golden Lion for Lifetime Achievement at the 83rd Venice Film Festival. In her speech, she highlighted the changing role of women in cinema and expressed hope for greater female presence. Report by Sadaf Baghbani, Iran International reporter.",
         "time": "00:33",
         "ts": 1788913989
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Richard Goldberg, an analyst at the Foundation for Defense of Democracies, wrote that the IRGC is in a losing position in its policy of escalating tensions. He added that each attack accelerates the organization's collapse. Additionally, the IRGC's tanker and air fleets are at risk of destruction and grounding.",
+        "time": "00:47",
+        "ts": 1788914848
       }
     ],
     "language": "en",
-    "packId": "20260909-03",
-    "sequence": 3,
+    "packId": "20260909-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:33"
+    "updatedAt": "00:47"
   },
   "verified": true
 }
