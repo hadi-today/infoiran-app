@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-60 seq=60 exp=1789128791",
+      "advancedStatus": "pack_id=20260909-61 seq=61 exp=1789130143",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:13",
+      "lastChecked": "12:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 12:13",
+    "expiresAt": "2026-09-11 12:35",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "An online taxi driver criticized the increase in gasoline prices in a video. He said that with the current quota and price of gasoline, working is not profitable. He also warned that everything is going to become more expensive.",
-        "time": "12:33",
-        "ts": 1788870839
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Nozhat Mirrazi, a resident of Rudsar, was released on Monday, 16 Shahrivar, from Lakaan Prison in Rasht on bail. This news was reported by HRANA news agency. Her release occurred after a period of detention.",
-        "time": "12:34",
-        "ts": 1788870884
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1078,14 +1064,21 @@
         "text": "The case of 18 prisoners in Dastgerd prison in Isfahan has been referred to the Revolutionary Court. They are accused of involvement in unrest and arson at the prison. They face the risk of receiving death sentences.",
         "time": "12:11",
         "ts": 1788955916
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video posted on social media shows a citizen visiting the Tomb of the Immortals. The person placed flowers on their gravestone. This event has been reflected in the virtual space.",
+        "time": "12:35",
+        "ts": 1788957316
       }
     ],
     "language": "en",
-    "packId": "20260909-60",
-    "sequence": 60,
+    "packId": "20260909-61",
+    "sequence": 61,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:13"
+    "updatedAt": "12:35"
   },
   "verified": true
 }
