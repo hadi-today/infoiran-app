@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-138 seq=138 exp=1789169723",
+      "advancedStatus": "pack_id=20260909-139 seq=139 exp=1789170064",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:35",
+      "lastChecked": "23:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 23:35",
+    "expiresAt": "2026-09-11 23:41",
     "items": [
       {
         "channel": "iranintl",
@@ -1008,14 +1008,21 @@
         "text": "Reuters reported that Iran has obtained a US Navy underwater drone. The drone, an older Dive-LD model, was found by Iranian forces after a technical failure. Iran may reverse-engineer parts of the drone, but this is unlikely to provide a decisive military advantage for Tehran.",
         "time": "23:34",
         "ts": 1788996898
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Arash Aramesh, a lawyer and security expert, said the Trump administration has not yet made a final decision on its ultimate strategy towards the Islamic Republic. He added that the US is currently between three options: escalating the war, continuing the status quo, or moving towards a deal, and it is not yet clear which path it will choose. He also said the US has the military capability to conduct limited ground operations, including on some strategic Iranian islands, but the decision depends more on political will than military factors.",
+        "time": "23:40",
+        "ts": 1788997243
       }
     ],
     "language": "en",
-    "packId": "20260909-138",
-    "sequence": 138,
+    "packId": "20260909-139",
+    "sequence": 139,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:35"
+    "updatedAt": "23:41"
   },
   "verified": true
 }
