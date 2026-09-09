@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-103 seq=103 exp=1789149136",
+      "advancedStatus": "pack_id=20260909-104 seq=104 exp=1789149988",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:52",
+      "lastChecked": "18:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 17:52",
+    "expiresAt": "2026-09-11 18:06",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "One of Yusef Ahmadi's death sentences in Sanandaj prison was replaced by payment of blood money and 10 years of imprisonment. His other death sentence for the charge of \"rebellion\" remains in effect. His lawyers have submitted a request for retrial to the Supreme Court for the third time.",
-        "time": "17:59",
-        "ts": 1788890346
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Shabib, a reporter for Al-Manar network, encountered an explosion on September 6 while preparing for a live broadcast in Nabatieh, reportedly caused by an Israeli attack. In this incident, Shabib and Mohammad Barjawi, the cameraman, were injured. Released images show the explosion and their injuries.",
-        "time": "18:05",
-        "ts": 1788890719
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1071,14 +1057,21 @@
         "text": "A worker in the Khazra Industrial Town in Kerman province was injured while working with an industrial machine. The accident occurred due to a lack of safety and poor working conditions. The report was published by Harana News Agency.",
         "time": "17:51",
         "ts": 1788976306
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "An informed source told Iran International that the health and humanitarian situation in Qom Central Prison is dire. Most prisoners have contracted influenza and COVID-19. The prison environment is heavily contaminated and the prisoners' daily food rations are insufficient.",
+        "time": "18:06",
+        "ts": 1788977160
       }
     ],
     "language": "en",
-    "packId": "20260909-103",
-    "sequence": 103,
+    "packId": "20260909-104",
+    "sequence": 104,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:52"
+    "updatedAt": "18:06"
   },
   "verified": true
 }
