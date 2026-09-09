@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-129 seq=129 exp=1789162609",
+      "advancedStatus": "pack_id=20260909-130 seq=130 exp=1789163261",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:36",
+      "lastChecked": "21:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 21:36",
+    "expiresAt": "2026-09-11 21:47",
     "items": [
       {
         "channel": "iranintl",
@@ -1029,14 +1029,21 @@
         "text": "Rouhollah Najabat stated that the Islamic Republic will accelerate the technical development of its nuclear program in response to the IAEA Board of Governors resolution. He emphasized that Iran will not give any concessions and will respond more firmly. Najabat also described the resolution as political and held Western countries responsible for any potential tensions.",
         "time": "21:36",
         "ts": 1788989765
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Esmaeil Baqaei, spokesperson for Iran's Foreign Ministry, denied Marco Rubio's claims that the Houthis are proxies of Iran, stating that the Houthis are an independent actor who take their own decisions. This response came after Houthi attacks on Saudi Arabia that injured at least 73 people. It was also reported that Saudi Arabia sent a message through Pakistan asking Iran to intervene to stop the Houthi attacks.",
+        "time": "21:47",
+        "ts": 1788990434
       }
     ],
     "language": "en",
-    "packId": "20260909-129",
-    "sequence": 129,
+    "packId": "20260909-130",
+    "sequence": 130,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:36"
+    "updatedAt": "21:47"
   },
   "verified": true
 }
