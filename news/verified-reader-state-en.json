@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-12 seq=12 exp=1789102590",
+      "advancedStatus": "pack_id=20260909-13 seq=13 exp=1789102774",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:56",
+      "lastChecked": "04:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 04:56",
+    "expiresAt": "2026-09-11 04:59",
     "items": [
       {
         "channel": "iranintl",
@@ -1134,14 +1134,21 @@
         "text": "The Islamic Revolutionary Guard Corps announced that in response to the US attack on 5 Iranian tankers, it targeted two American vessels and eight tankers. It also claimed that 10 unauthorized ships in the Strait of Hormuz were attacked. These reports have not yet been independently verified.",
         "time": "04:56",
         "ts": 1788929765
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Saleh Jokar warned that if the US continues the naval blockade, it will face a devastating response. He stated that US missile systems can no longer track Iranian missiles. Additionally, Iran's military and missile capabilities have significantly improved compared to the past.",
+        "time": "04:59",
+        "ts": 1788929949
       }
     ],
     "language": "en",
-    "packId": "20260909-12",
-    "sequence": 12,
+    "packId": "20260909-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:56"
+    "updatedAt": "04:59"
   },
   "verified": true
 }
