@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-59 seq=59 exp=1789128675",
+      "advancedStatus": "pack_id=20260909-60 seq=60 exp=1789128791",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:11",
+      "lastChecked": "12:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 12:11",
+    "expiresAt": "2026-09-11 12:13",
     "items": [
       {
         "channel": "iranintl",
@@ -1071,14 +1071,21 @@
         "text": "Mohammad Ali Ghadousi, head of the legal department of the Football Federation, stated that managers have not yet received official notification about the indictment. The case concerns a $20,000 bonus paid to board members after qualifying for the 2022 World Cup. Yashar Soltani also reported that indictments have been issued against several senior federation managers on embezzlement charges.",
         "time": "12:10",
         "ts": 1788955843
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The case of 18 prisoners in Dastgerd prison in Isfahan has been referred to the Revolutionary Court. They are accused of involvement in unrest and arson at the prison. They face the risk of receiving death sentences.",
+        "time": "12:11",
+        "ts": 1788955916
       }
     ],
     "language": "en",
-    "packId": "20260909-59",
-    "sequence": 59,
+    "packId": "20260909-60",
+    "sequence": 60,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:11"
+    "updatedAt": "12:13"
   },
   "verified": true
 }
