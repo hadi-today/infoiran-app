@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-110 seq=110 exp=1789154226",
+      "advancedStatus": "pack_id=20260909-111 seq=111 exp=1789154324",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:17",
+      "lastChecked": "19:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 19:17",
+    "expiresAt": "2026-09-11 19:18",
     "items": [
       {
         "channel": "iranintl",
@@ -1008,14 +1008,21 @@
         "text": "Donald Trump stated that the war with Iran will end immediately after the 2026 US elections. He said he is no longer seeking an agreement with the Islamic Republic and that negotiations might occur but are not the current focus. Trump also mentioned working on matters beyond the nuclear deal, involving new issues.",
         "time": "19:15",
         "ts": 1788981356
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video from the evening of September 8 shows that a government gathering in one of the squares in Qom was sparse. The seats at this gathering were mostly empty. This video was received by Iran International.",
+        "time": "19:17",
+        "ts": 1788981432
       }
     ],
     "language": "en",
-    "packId": "20260909-110",
-    "sequence": 110,
+    "packId": "20260909-111",
+    "sequence": 111,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:17"
+    "updatedAt": "19:18"
   },
   "verified": true
 }
