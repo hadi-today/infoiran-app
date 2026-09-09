@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-34 seq=34 exp=1789113599",
+      "advancedStatus": "pack_id=20260909-35 seq=35 exp=1789113687",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:59",
+      "lastChecked": "08:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 07:59",
+    "expiresAt": "2026-09-11 08:01",
     "items": [
       {
         "channel": "harana",
@@ -1120,14 +1120,21 @@
         "text": "Pakistan has expressed its support for Saudi Arabia's right to defend its territory and citizens. The Pakistani Ministry of Foreign Affairs considers this right legitimate. This statement continues Pakistan's regional support for Saudi Arabia against proxy attacks by the Islamic Republic.",
         "time": "07:59",
         "ts": 1788940768
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ben Shelton defeated Carlos Alcaraz in the US Open quarterfinals to advance to the semifinals. The five-set match ended with scores of 6-7, 6-1, 6-3, 1-6, and 7-6 in favor of Shelton. Shelton will face Frances Tiafoe in the semifinals.",
+        "time": "08:00",
+        "ts": 1788940813
       }
     ],
     "language": "en",
-    "packId": "20260909-34",
-    "sequence": 34,
+    "packId": "20260909-35",
+    "sequence": 35,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:59"
+    "updatedAt": "08:01"
   },
   "verified": true
 }
