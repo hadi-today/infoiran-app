@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-31 seq=31 exp=1789112439",
+      "advancedStatus": "pack_id=20260909-32 seq=32 exp=1789113252",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:40",
+      "lastChecked": "07:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 07:40",
+    "expiresAt": "2026-09-11 07:54",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "On Monday, 16 Shahrivar, security forces created a security atmosphere in Khorramabad by deploying machine guns, vehicles, and motorcycles throughout the city. This news is based on a video received by Iran International.",
-        "time": "07:46",
-        "ts": 1788853581
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Safar Harandi stated that the social capital of the system has risen above 50% after the war. He attributed the increase in public trust to the system's ability to confront global powers. He also said that Ali Khamenei increased hope among the people through his speeches and presence.",
-        "time": "07:50",
-        "ts": 1788853853
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1127,14 +1113,21 @@
         "text": "Ruhollah Rahimpour stated that the CENTCOM strategic operation indicates the US is seeking to increase economic pressure on the Islamic Republic. He added that targeting Iranian oil tankers could directly pressure Iran's oil exports and foreign currency revenues.",
         "time": "07:40",
         "ts": 1788939612
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Alavi, an economist, reported the intensification of the drug and treatment crisis in Iran. He identified the insurance budget deficit as a cause of the government's financial crisis and resource allocation issues. Financial pressure on pharmacies has led to direct treatment costs being passed to patients and the expansion of the drug black market.",
+        "time": "07:53",
+        "ts": 1788940428
       }
     ],
     "language": "en",
-    "packId": "20260909-31",
-    "sequence": 31,
+    "packId": "20260909-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:40"
+    "updatedAt": "07:54"
   },
   "verified": true
 }
