@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-10 seq=10 exp=1789094989",
+      "advancedStatus": "pack_id=20260909-11 seq=11 exp=1789098338",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:49",
+      "lastChecked": "03:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 02:49",
+    "expiresAt": "2026-09-11 03:45",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Prince Reza Pahlavi held a virtual meeting with senior representatives and senators of the Australian coalition. Senators described him as a symbol of opposition to the regime and support for democracy. The Australian coalition has invited him to visit the country.",
-        "time": "02:55",
-        "ts": 1788836158
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Iraqi embassy in Tehran announced that the crisis involving Iraqi students in Semnan province has been resolved. The students have been granted a one-month academic leave. This measure will help restore stability to the university environment.",
-        "time": "03:16",
-        "ts": 1788837387
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The \"Bring Our Families Home\" campaign on X called on the Islamic Republic and the US government to take action for the release of Reza Valizadeh, an American citizen, from Evin Prison. The campaign described this as a small, low-cost goodwill gesture to return a son to his elderly parents. The campaign members are families of American hostages and unlawful detainees.",
-        "time": "03:22",
-        "ts": 1788837769
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1148,14 +1127,21 @@
         "text": "The family of Niloufar Majavari, who died last week following torture and assault, gathered at her grave in Zargatan Cemetery, Piranshahr, to condemn her murder. The suspect is still at large, and police and judiciary are investigating the injuries and working to arrest him. After Niloufar was declared brain dead, her family agreed to donate her two kidneys.",
         "time": "02:49",
         "ts": 1788922167
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Jacob Coxon, a 27-year-old researcher at Anthropic, is leaving the AI industry due to concerns about competition among tech companies to develop self-improving AI models. He warned that competition between American and Chinese companies could lead to compromises in safety. Over a thousand AI researchers have called for global coordination to slow down the development of self-improving models.",
+        "time": "03:45",
+        "ts": 1788925512
       }
     ],
     "language": "en",
-    "packId": "20260909-10",
-    "sequence": 10,
+    "packId": "20260909-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:49"
+    "updatedAt": "03:45"
   },
   "verified": true
 }
