@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-119 seq=119 exp=1789158276",
+      "advancedStatus": "pack_id=20260909-120 seq=120 exp=1789158771",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:24",
+      "lastChecked": "20:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 20:24",
+    "expiresAt": "2026-09-11 20:32",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Memorial posters of Mahsa Amini were installed and distributed in the streets and around the cemetery of Saqez. These posters invite people to join the \"White Balloons\" campaign. The video sender says Mahsa Amini's path continues.",
-        "time": "20:30",
-        "ts": 1788899431
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -1001,14 +994,21 @@
         "text": "Farzin Nadimi stated that conventional bombs may not be sufficient to completely destroy the underground facilities of Kuh-e Kalang-Gazla. The Pentagon is considering developing more advanced penetrator weapons and new operational scenarios. Additionally, locations near the Strait of Hormuz hold greater military significance than Khark Island.",
         "time": "20:24",
         "ts": 1788985450
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen installed a street sign named Mahsa Amini Street in eastern Seyyed Ghotb Street, Piranshahr, on the eve of the anniversary of Mahsa Zeina Amini's death. This act is shown in a video received by Iran International.",
+        "time": "20:32",
+        "ts": 1788985950
       }
     ],
     "language": "en",
-    "packId": "20260909-119",
-    "sequence": 119,
+    "packId": "20260909-120",
+    "sequence": 120,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:24"
+    "updatedAt": "20:32"
   },
   "verified": true
 }
