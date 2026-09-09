@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-19 seq=19 exp=1789106527",
+      "advancedStatus": "pack_id=20260909-20 seq=20 exp=1789106605",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:02",
+      "lastChecked": "06:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 06:02",
+    "expiresAt": "2026-09-11 06:03",
     "items": [
       {
         "channel": "iranintl",
@@ -1120,14 +1120,21 @@
         "text": "The US has sanctioned 27 Iranian airlines and foreign companies linked to Mahan Air. These sanctions target the transfer of personnel, sensitive equipment, and financial resources of the Islamic Republic. Additionally, the suspension of aviation licenses and maritime pressures create new restrictions on Tehran's external communications.",
         "time": "06:01",
         "ts": 1788933704
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abdolhossein Khosropanah, Secretary of the Supreme Council of the Cultural Revolution, stated that there is a lack of hijab observance in some government offices and pharmacies. He emphasized that all executive bodies are required to monitor compliance with hijab regulations. He also mentioned that the council does not see a need for new regulations on chastity and hijab.",
+        "time": "06:02",
+        "ts": 1788933744
       }
     ],
     "language": "en",
-    "packId": "20260909-19",
-    "sequence": 19,
+    "packId": "20260909-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:02"
+    "updatedAt": "06:03"
   },
   "verified": true
 }
