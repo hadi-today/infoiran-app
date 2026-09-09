@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-101 seq=101 exp=1789148212",
+      "advancedStatus": "pack_id=20260909-102 seq=102 exp=1789148636",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:36",
+      "lastChecked": "17:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 17:36",
+    "expiresAt": "2026-09-11 17:43",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Israeli Prime Minister's Office denied the UAE's warning about the October 7 attack. The office stated that if such information existed, it would have been transmitted through intelligence channels. Haaretz had reported that the UAE warned Netanyahu before the attack.",
-        "time": "17:38",
-        "ts": 1788889109
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1071,14 +1064,21 @@
         "text": "A video has been released showing a young woman singing a local song at the grave of Omid Sarlak. She pays respect in front of his picture installed at the grave. Omid Sarlak, a 27-year-old athlete from Aligudarz, was suspiciously killed in November 2025.",
         "time": "17:34",
         "ts": 1788975296
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A US official told NewsNation that American forces are not conducting any attacks near Jask, following reports of an explosion sound. The Islamic Republic of Iran Broadcasting had reported hearing an explosion from the direction of the Strait of Hormuz in Jask on Wednesday evening.",
+        "time": "17:43",
+        "ts": 1788975803
       }
     ],
     "language": "en",
-    "packId": "20260909-101",
-    "sequence": 101,
+    "packId": "20260909-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:36"
+    "updatedAt": "17:43"
   },
   "verified": true
 }
