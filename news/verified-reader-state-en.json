@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-06 seq=6 exp=1789089360",
+      "advancedStatus": "pack_id=20260909-07 seq=7 exp=1789091762",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:16",
+      "lastChecked": "01:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 01:16",
+    "expiresAt": "2026-09-11 01:56",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Majid Ibn al-Reza, the acting defense minister, claimed that the country's military forces have the ability to target American combat ships.",
-        "time": "01:21",
-        "ts": 1788830488
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Esmaeil Baqaei, spokesperson for Iran's Foreign Ministry, called Canada's statement supporting the US economic war against Tehran complicity in lawbreaking. He said Canada cannot claim to be a promoter of peace while supporting illegal US actions. Baqaei described this behavior as a sign of strategic confusion and submission to bullying.",
-        "time": "01:34",
-        "ts": 1788831288
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1141,14 +1127,21 @@
         "text": "Raf Chikoni, head of the Australian Parliament's intelligence committee, called the threats against Persian-speaking journalists by the IRGC unacceptable and emphasized their right to work freely. He urged global support for the Iranian people and the Iranian diaspora. Chikoni mentioned actions such as expelling Iranian diplomats and sanctioning individuals linked to the IRGC in Australia.",
         "time": "01:15",
         "ts": 1788916539
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Oil prices have risen for the fourth consecutive day, nearing $100 per barrel. This increase followed the US announcement of destroying five oil tankers linked to the IRGC and a missile attack by the IRGC on a US base in Jordan. Analysts have suggested the possibility of Brent oil prices surging above $120.",
+        "time": "01:55",
+        "ts": 1788918931
       }
     ],
     "language": "en",
-    "packId": "20260909-06",
-    "sequence": 6,
+    "packId": "20260909-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:16"
+    "updatedAt": "01:56"
   },
   "verified": true
 }
