@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-48 seq=48 exp=1789120253",
+      "advancedStatus": "pack_id=20260909-49 seq=49 exp=1789120378",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:50",
+      "lastChecked": "09:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 09:50",
+    "expiresAt": "2026-09-11 09:52",
     "items": [
       {
         "channel": "iranintl",
@@ -1120,14 +1120,21 @@
         "text": "A member of Iran International's editorial team referred to the Pakistani defense minister's remarks about the possible activation of the Makkah defense pact. He said the military readiness of Turkey and Pakistan to defend Saudi Arabia and the global reactions against the Houthis indicate a major decision to close the proxy conflict in Yemen.",
         "time": "09:50",
         "ts": 1788947425
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ebrahim Rezaei stated that Iran's membership in the NPT treaty has brought no benefit and sensitive information has been exposed to espionage. He criticized the IAEA for not aiding Iran's nuclear technology and called its director a Western agent. The Islamic Republic will respond to any possible IAEA Board of Governors resolution.",
+        "time": "09:52",
+        "ts": 1788947548
       }
     ],
     "language": "en",
-    "packId": "20260909-48",
-    "sequence": 48,
+    "packId": "20260909-49",
+    "sequence": 49,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:50"
+    "updatedAt": "09:52"
   },
   "verified": true
 }
