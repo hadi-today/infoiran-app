@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-63 seq=63 exp=1789130539",
+      "advancedStatus": "pack_id=20260909-64 seq=64 exp=1789130626",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:42",
+      "lastChecked": "12:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 12:42",
+    "expiresAt": "2026-09-11 12:43",
     "items": [
       {
         "channel": "iranintl",
@@ -1085,14 +1085,21 @@
         "text": "The Hercules Star oil tanker near Dubai experienced an incident resulting in one crew member killed and another missing. The chartering company stated that a specialized team is searching for the missing crew, and other crew members are safe. Initial assessments indicate a possible drone attack on the tanker.",
         "time": "12:41",
         "ts": 1788957706
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Mamosta Mohammad Nezhati, a Sunni cleric and prayer leader in Chiane area of Piranshahr, was killed in an armed attack. The Revolutionary Guards blamed the attack on Kurdish separatist and Zionist-American groups. Nezhati had a history of cooperation with the Basij and supported Shia-Sunni unity.",
+        "time": "12:43",
+        "ts": 1788957795
       }
     ],
     "language": "en",
-    "packId": "20260909-63",
-    "sequence": 63,
+    "packId": "20260909-64",
+    "sequence": 64,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:42"
+    "updatedAt": "12:43"
   },
   "verified": true
 }
