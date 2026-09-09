@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-137 seq=137 exp=1789169175",
+      "advancedStatus": "pack_id=20260909-138 seq=138 exp=1789169723",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:26",
+      "lastChecked": "23:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 23:26",
+    "expiresAt": "2026-09-11 23:35",
     "items": [
       {
         "channel": "iranintl",
@@ -1001,14 +1001,21 @@
         "text": "Chris Wright, the US Energy Secretary, announced that more contracts with oil companies in Venezuela will be announced soon. He previously said these contracts would more than double Venezuela's oil production. Increased investment in Venezuela's energy sector could significantly boost oil production capacity.",
         "time": "23:25",
         "ts": 1788996353
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reuters reported that Iran has obtained a US Navy underwater drone. The drone, an older Dive-LD model, was found by Iranian forces after a technical failure. Iran may reverse-engineer parts of the drone, but this is unlikely to provide a decisive military advantage for Tehran.",
+        "time": "23:34",
+        "ts": 1788996898
       }
     ],
     "language": "en",
-    "packId": "20260909-137",
-    "sequence": 137,
+    "packId": "20260909-138",
+    "sequence": 138,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:26"
+    "updatedAt": "23:35"
   },
   "verified": true
 }
