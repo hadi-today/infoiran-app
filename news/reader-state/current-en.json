@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-120 seq=120 exp=1789158771",
+      "advancedStatus": "pack_id=20260909-121 seq=121 exp=1789159479",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:32",
+      "lastChecked": "20:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 20:32",
+    "expiresAt": "2026-09-11 20:44",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Iranian state media confirmed that a tanker near Jask was targeted by the US military. The crew are being transferred to coastal areas by lifeboat. Israeli and American media also reported that several Iranian tankers were targeted.",
-        "time": "20:39",
-        "ts": 1788899976
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The father of the late Rabin Moradi announced his climb to the 2770-meter Band Eish castle in memory of his son. Rabin Moradi, a 17-year-old student and youth player of Saipa team, was killed during the National Iranian Revolution in Tehran. He was recognized as one of the young football talents in Tehran.",
-        "time": "20:39",
-        "ts": 1788899983
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1001,14 +987,21 @@
         "text": "A citizen installed a street sign named Mahsa Amini Street in eastern Seyyed Ghotb Street, Piranshahr, on the eve of the anniversary of Mahsa Zeina Amini's death. This act is shown in a video received by Iran International.",
         "time": "20:32",
         "ts": 1788985950
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Al Nassr football team defeated Abha 2-1 in the sixth week of the Saudi Professional League. Cristiano Ronaldo scored the first goal in the 22nd minute, bringing his career goal tally to 979. With this win, Al Nassr achieved their fifth victory and tied in points with Al Hilal and Al Qadsiah.",
+        "time": "20:44",
+        "ts": 1788986657
       }
     ],
     "language": "en",
-    "packId": "20260909-120",
-    "sequence": 120,
+    "packId": "20260909-121",
+    "sequence": 121,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:32"
+    "updatedAt": "20:44"
   },
   "verified": true
 }
