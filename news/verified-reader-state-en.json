@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-36 seq=36 exp=1789115485",
+      "advancedStatus": "pack_id=20260909-37 seq=37 exp=1789115581",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:31",
+      "lastChecked": "08:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 08:31",
+    "expiresAt": "2026-09-11 08:33",
     "items": [
       {
         "channel": "iranintl",
@@ -1085,14 +1085,21 @@
         "text": "Citizens reported the simultaneous passage of several missiles over the skies of Shahin Shahr, Najafabad, Khomeinishahr, and Baharestan. The number of missiles was reported to be between 4 and 9. The launch sites were identified as two military bases in Najafabad.",
         "time": "08:31",
         "ts": 1788942664
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Islamic Republic launched a missile attack on Jordan. This attack has increased concerns about the expansion of conflict in the region. Tehran's target was a base used by American forces in Jordan.",
+        "time": "08:31",
+        "ts": 1788942701
       }
     ],
     "language": "en",
-    "packId": "20260909-36",
-    "sequence": 36,
+    "packId": "20260909-37",
+    "sequence": 37,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:31"
+    "updatedAt": "08:33"
   },
   "verified": true
 }
