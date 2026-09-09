@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-94 seq=94 exp=1789144230",
+      "advancedStatus": "pack_id=20260909-95 seq=95 exp=1789144552",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:30",
+      "lastChecked": "16:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 16:30",
+    "expiresAt": "2026-09-11 16:35",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Active and retired railway workers in Iran gathered in front of the Ministry of Roads and Urban Development on Tuesday, September 7. They protested against low salaries and benefits. The gathering was held to express dissatisfaction with their pay conditions.",
-        "time": "16:31",
-        "ts": 1788885073
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1078,14 +1071,21 @@
         "text": "Fars news agency reported hearing an explosion sound on Wednesday evening in Jask. The sound was heard from the sea in the southern areas of Jask county. The source of this news is Fars, affiliated with the Revolutionary Guards.",
         "time": "16:30",
         "ts": 1788971402
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "An electronics specialist and industrial board repair technician stated that he has not found work for several years and his life situation is disrupted. This was reported in a video to Iran International. He is experiencing difficult circumstances.",
+        "time": "16:35",
+        "ts": 1788971721
       }
     ],
     "language": "en",
-    "packId": "20260909-94",
-    "sequence": 94,
+    "packId": "20260909-95",
+    "sequence": 95,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:30"
+    "updatedAt": "16:35"
   },
   "verified": true
 }
