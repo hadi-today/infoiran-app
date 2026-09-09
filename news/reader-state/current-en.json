@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-124 seq=124 exp=1789160546",
+      "advancedStatus": "pack_id=20260909-125 seq=125 exp=1789160829",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:02",
+      "lastChecked": "21:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 21:02",
+    "expiresAt": "2026-09-11 21:07",
     "items": [
       {
         "channel": "iranintl",
@@ -1001,14 +1001,21 @@
         "text": "The mother of Setareh Rafiei lit a candle in the campaign \"One Candle, One Name, One Memory\" in memory of her daughter. Setareh Rafiei, 19 years old, was killed on January 9, 2026, in Narmak, Tehran. Her mother stated that she neither forgives nor forgets.",
         "time": "21:02",
         "ts": 1788987724
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Marco Rubio, the US Secretary of State, said that the Islamic Republic has not received assistance to change the war conditions. He added that the Islamic Republic attacks US Navy ships but has lost five of its oil tankers in response. Rubio emphasized that the US will continue to economically suffocate the Islamic Republic.",
+        "time": "21:06",
+        "ts": 1788988003
       }
     ],
     "language": "en",
-    "packId": "20260909-124",
-    "sequence": 124,
+    "packId": "20260909-125",
+    "sequence": 125,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:02"
+    "updatedAt": "21:07"
   },
   "verified": true
 }
