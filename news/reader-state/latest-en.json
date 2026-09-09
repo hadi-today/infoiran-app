@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-21 seq=21 exp=1789106848",
+      "advancedStatus": "pack_id=20260909-22 seq=22 exp=1789106986",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:07",
+      "lastChecked": "06:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 06:07",
+    "expiresAt": "2026-09-11 06:09",
     "items": [
       {
         "channel": "iranintl",
@@ -1134,14 +1134,21 @@
         "text": "The Washington Post reported that Persian Gulf countries are strengthening their defense capabilities and creating alternative routes to reduce dependence on the Strait of Hormuz amid the ongoing US-Iran war. Officials from the UAE and Qatar have stated that reliance on US security support is insufficient and regional countries must build more independent defense capabilities.",
         "time": "06:07",
         "ts": 1788934025
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US, UK, France, and Germany submitted a draft resolution against the Islamic Republic to the IAEA Board of Governors. The resolution calls for referring Iran's nuclear case to the UN Security Council. This action is due to Tehran's failure to comply with nuclear non-proliferation commitments.",
+        "time": "06:09",
+        "ts": 1788934164
       }
     ],
     "language": "en",
-    "packId": "20260909-21",
-    "sequence": 21,
+    "packId": "20260909-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:07"
+    "updatedAt": "06:09"
   },
   "verified": true
 }
