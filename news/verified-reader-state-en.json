@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-09 seq=9 exp=1789092585",
+      "advancedStatus": "pack_id=20260909-10 seq=10 exp=1789094989",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:09",
+      "lastChecked": "02:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 02:09",
+    "expiresAt": "2026-09-11 02:49",
     "items": [
       {
         "channel": "iranintl",
@@ -1141,14 +1141,21 @@
         "text": "The price of gasoline outside the quota in Iran has increased to 100,000 rials per liter. This increase can generate less than 500 million dollars in additional annual revenue for the government. However, it will have limited impact on the fuel shortage.",
         "time": "02:09",
         "ts": 1788919758
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The family of Niloufar Majavari, who died last week following torture and assault, gathered at her grave in Zargatan Cemetery, Piranshahr, to condemn her murder. The suspect is still at large, and police and judiciary are investigating the injuries and working to arrest him. After Niloufar was declared brain dead, her family agreed to donate her two kidneys.",
+        "time": "02:49",
+        "ts": 1788922167
       }
     ],
     "language": "en",
-    "packId": "20260909-09",
-    "sequence": 9,
+    "packId": "20260909-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:09"
+    "updatedAt": "02:49"
   },
   "verified": true
 }
