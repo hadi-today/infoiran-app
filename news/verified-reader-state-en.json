@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-142 seq=142 exp=1789170907",
+      "advancedStatus": "pack_id=20260909-143 seq=143 exp=1789170997",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:55",
+      "lastChecked": "23:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 23:55",
+    "expiresAt": "2026-09-11 23:56",
     "items": [
       {
         "channel": "iranintl",
@@ -1022,14 +1022,21 @@
         "text": "Hadad Adel stated that the Islamic Republic has failed regarding women's dress code. He said policies that ignore women's right to choose have caused this failure. He also emphasized that people have not been influenced by enemy infiltration but have moved beyond the government's policies.",
         "time": "23:54",
         "ts": 1788998086
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Center for Strategic and International Studies reported that satellite images show increased construction activities in the underground complex of Kuh-e Kalang Gazla near the Natanz nuclear facility in 2026. Activities have shifted from excavation to internal construction and tunnel entrance reinforcement. The center neither confirmed nor denied claims of centrifuge transfers to this complex.",
+        "time": "23:56",
+        "ts": 1788998171
       }
     ],
     "language": "en",
-    "packId": "20260909-142",
-    "sequence": 142,
+    "packId": "20260909-143",
+    "sequence": 143,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:55"
+    "updatedAt": "23:56"
   },
   "verified": true
 }
