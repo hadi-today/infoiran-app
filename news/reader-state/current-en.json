@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-33 seq=33 exp=1789113439",
+      "advancedStatus": "pack_id=20260909-34 seq=34 exp=1789113599",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:57",
+      "lastChecked": "07:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 07:57",
+    "expiresAt": "2026-09-11 07:59",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A video shows cars lined up for gasoline in Shahr-e Rey. The video is from the evening of Monday, 16 Shahrivar. A fuel price increase is imminent.",
-        "time": "07:56",
-        "ts": 1788854217
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1120,14 +1113,21 @@
         "text": "Soran Yari, a resident of Javanrud, was arrested by intelligence officers on Sunday, September 6. His place of detention is unknown. This news was reported by Harana News Agency.",
         "time": "07:56",
         "ts": 1788940612
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Pakistan has expressed its support for Saudi Arabia's right to defend its territory and citizens. The Pakistani Ministry of Foreign Affairs considers this right legitimate. This statement continues Pakistan's regional support for Saudi Arabia against proxy attacks by the Islamic Republic.",
+        "time": "07:59",
+        "ts": 1788940768
       }
     ],
     "language": "en",
-    "packId": "20260909-33",
-    "sequence": 33,
+    "packId": "20260909-34",
+    "sequence": 34,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:57"
+    "updatedAt": "07:59"
   },
   "verified": true
 }
