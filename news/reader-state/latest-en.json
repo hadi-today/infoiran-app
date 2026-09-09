@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-106 seq=106 exp=1789151118",
+      "advancedStatus": "pack_id=20260909-107 seq=107 exp=1789151689",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:25",
+      "lastChecked": "18:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 18:25",
+    "expiresAt": "2026-09-11 18:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reuters reported, citing a US official, that a US Navy ROV suffered a technical malfunction while surveying regional waters in support of operations related to the Iran war. The US official added that the ROV was an older model and did not carry any classified sonar or radar equipment.",
-        "time": "18:29",
-        "ts": 1788892166
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1064,14 +1057,21 @@
         "text": "Ismail Baqaei, the Foreign Ministry spokesperson, said that referring Iran's nuclear case to the UN Security Council is irrelevant because Iran has not violated any commitments. He attributed the issues raised in the Board of Governors resolution to attacks by the US and Israel. Baqaei described Japan and Saudi Arabia's positive vote on the resolution as ineffective.",
         "time": "18:24",
         "ts": 1788978291
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Three defendants in Lavasanat, Shemiranat County, were sentenced to provide stationery for underprivileged students and supply equipment for eight classrooms instead of prison sentences.",
+        "time": "18:34",
+        "ts": 1788978861
       }
     ],
     "language": "en",
-    "packId": "20260909-106",
-    "sequence": 106,
+    "packId": "20260909-107",
+    "sequence": 107,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:25"
+    "updatedAt": "18:34"
   },
   "verified": true
 }
