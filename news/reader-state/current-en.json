@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-53 seq=53 exp=1789121500",
+      "advancedStatus": "pack_id=20260909-54 seq=54 exp=1789123290",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:11",
+      "lastChecked": "10:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,36 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-09",
-    "expiresAt": "2026-09-11 10:11",
+    "expiresAt": "2026-09-11 10:41",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The Deputy of Cultural and Political Affairs of the Supreme Leader's Representative Office in Universities announced the drafting of a mandatory hijab guideline for universities across the country. This guideline will soon be issued by the Ministry of Science and the Ministry of Health. This move continues the restrictive policies regarding women's and girls' dress code.",
-        "time": "10:16",
-        "ts": 1788862603
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Israel hosted the first international physical artificial intelligence conference in Tel Aviv. The conference was held in cooperation with the National AI Headquarters at the Israeli Prime Minister's Office. It focused on the connection between artificial intelligence, robotics, and autonomous systems.",
-        "time": "10:26",
-        "ts": 1788863169
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen protested the increase in gasoline prices in a video. He said that Pezeshkian had stated that permission would be obtained from the people for the price hike, but no such permission was taken. He also mentioned that the price of motor oil has increased by 50 percent.",
-        "time": "10:31",
-        "ts": 1788863474
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The court session for Fariba Asadi, a civil activist related to the 1404 protests, was held at Branch Two of the Revolutionary Court in Karaj. The session took place on September 7 under Judge Sabzevari. Asadi is accused of assembly and collusion, acting against national security, and participating in protests.",
-        "time": "10:38",
-        "ts": 1788863925
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1120,14 +1092,21 @@
         "text": "The Turkish Ministry of Foreign Affairs strongly condemned the recent Houthi attacks against Saudi Arabia. Ankara warned about the threat to civilians and called for an immediate halt to the Houthis' aggressive actions. These attacks have escalated regional tensions and undermined diplomatic efforts to end the conflict in Yemen.",
         "time": "10:11",
         "ts": 1788948673
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iranian Foreign Ministry stated that the armed forces will respond decisively to any US aggression. This statement was issued after the US attacked several Iranian oil tankers on September 7. The ministry called these attacks a violation of international law and urged the UN Security Council to take action.",
+        "time": "10:41",
+        "ts": 1788950466
       }
     ],
     "language": "en",
-    "packId": "20260909-53",
-    "sequence": 53,
+    "packId": "20260909-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:11"
+    "updatedAt": "10:41"
   },
   "verified": true
 }
