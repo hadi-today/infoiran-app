@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-17 seq=17 exp=1789194948",
+      "advancedStatus": "pack_id=20260910-18 seq=18 exp=1789195195",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:35",
+      "lastChecked": "06:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 06:35",
+    "expiresAt": "2026-09-12 06:39",
     "items": [
       {
         "channel": "harana",
@@ -980,14 +980,21 @@
         "text": "The Iranian national basketball team lost 59-53 to Qatar in their first game at the Nagoya Asian Games. The first quarter ended tied at 10-10, and Qatar led 31-21 at halftime. Iran will next face Taiwan and Jordan in the group stage.",
         "time": "06:35",
         "ts": 1789022122
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Sadegh Motamedian, the governor of Tehran, called for the return of schools that have been taken over by other organizations. He emphasized that these educational spaces must be returned to the Ministry of Education before the start of the school year. The governor did not specify which organizations are involved.",
+        "time": "06:39",
+        "ts": 1789022373
       }
     ],
     "language": "en",
-    "packId": "20260910-17",
-    "sequence": 17,
+    "packId": "20260910-18",
+    "sequence": 18,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:35"
+    "updatedAt": "06:39"
   },
   "verified": true
 }
