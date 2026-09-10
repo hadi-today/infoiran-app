@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-14 seq=14 exp=1789193681",
+      "advancedStatus": "pack_id=20260910-15 seq=15 exp=1789193967",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:14",
+      "lastChecked": "06:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 06:14",
+    "expiresAt": "2026-09-12 06:19",
     "items": [
       {
         "channel": "iranintl",
@@ -966,14 +966,21 @@
         "text": "The \"Jan Faday Iran\" exercise will be held on September 17 with the participation of Basij forces, the Revolutionary Guards, and police. The commander of Tehran's Revolutionary Guards stated that this exercise demonstrates the readiness and determination of the Iranian nation. Its purpose is declared to confront the enemies.",
         "time": "06:14",
         "ts": 1789020858
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Roghayeh Rezaei reported an increase in the prices of menstrual hygiene products. She stated that the Islamic Republic imposes restrictions on women's bodies alongside pro-natalist policies. Additionally, necessary support for women's healthcare is not provided.",
+        "time": "06:19",
+        "ts": 1789021143
       }
     ],
     "language": "en",
-    "packId": "20260910-14",
-    "sequence": 14,
+    "packId": "20260910-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:14"
+    "updatedAt": "06:19"
   },
   "verified": true
 }
