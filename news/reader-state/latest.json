@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-115 seq=115 exp=1789240729",
+      "advancedStatus": "pack_id=20260910-116 seq=116 exp=1789240851",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:18",
+      "lastChecked": "19:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 19:18",
+    "expiresAt": "2026-09-12 19:20",
     "items": [
       {
         "channel": "خبرگزاری هرانا",
@@ -908,13 +908,19 @@
         "text": "ارتش اسرائیل اعلام کرد بیش از ۱۱۰۰ تن مواد منفجره برای انهدام تونل‌های حزب‌الله در ارتفاعات علی‌طاهر در جنوب لبنان استفاده شده است. عملیات انهدام مسیرها و زیرساخت‌های زیرزمینی حزب‌الله در رشته‌کوه علی‌طاهر به پایان رسیده است. این عملیات در نزدیکی نبطیه انجام شده است.",
         "time": "19:18",
         "ts": 1789067902
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "text": "شمار اعدام‌شدگان در زندان‌های وکیل‌آباد مشهد و دستگرد اصفهان به شش نفر رسید. این اعدام‌ها در روزهای ۱۵ و ۱۸ شهریور انجام شده است. همچنین یک متهم به قتل در مشهد به اعدام محکوم شد.",
+        "time": "19:20",
+        "ts": 1789068023
       }
     ],
-    "packId": "20260910-115",
-    "sequence": 115,
+    "packId": "20260910-116",
+    "sequence": 116,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "19:18"
+    "updatedAt": "19:20"
   },
   "verified": true
 }
