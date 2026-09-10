@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-33 seq=33 exp=1789201511",
+      "advancedStatus": "pack_id=20260910-34 seq=34 exp=1789201678",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:25",
+      "lastChecked": "08:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 08:25",
+    "expiresAt": "2026-09-12 08:27",
     "items": [
       {
         "channel": "iranintl",
@@ -1008,14 +1008,21 @@
         "text": "Ali Parvin commented on Khodadad Azizi's audio file, saying Khodadad should be careful and hopes the issue will be resolved. He also said that Persepolis started the league well and has had an acceptable performance so far. Parvin believes if the team continues this way, they will become champions.",
         "time": "08:24",
         "ts": 1789028681
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The identity of Lefteh Heydari, one of the detained Sunni citizens in Ahvaz, has been confirmed. This individual was arrested along with at least nine others on Friday, September 4. The identities of several other detainees had been confirmed earlier.",
+        "time": "08:27",
+        "ts": 1789028849
       }
     ],
     "language": "en",
-    "packId": "20260910-33",
-    "sequence": 33,
+    "packId": "20260910-34",
+    "sequence": 34,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:25"
+    "updatedAt": "08:27"
   },
   "verified": true
 }
