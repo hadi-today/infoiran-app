@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-46 seq=46 exp=1789208049",
+      "advancedStatus": "pack_id=20260910-47 seq=47 exp=1789208749",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:14",
+      "lastChecked": "10:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 10:14",
+    "expiresAt": "2026-09-12 10:25",
     "items": [
       {
         "channel": "iranintl",
@@ -973,14 +973,21 @@
         "text": "People report becoming angry more quickly and having less tolerance than before. The poor economic and social conditions have negatively affected people's mental health. Additionally, the price of Depakine, a medication for nerves, has significantly increased.",
         "time": "10:13",
         "ts": 1789035210
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A protest rally was held in Rome in support of Taraneh and Romina Rahimi, two 19-year-old Iranian sisters sentenced to death and 25 years in prison. Representatives from the 'Moderates' party and other members of the Italian parliament called for an end to executions and torture of political prisoners in Iran. The main slogan of the rally was 'Freedom is not hanged.'",
+        "time": "10:25",
+        "ts": 1789035920
       }
     ],
     "language": "en",
-    "packId": "20260910-46",
-    "sequence": 46,
+    "packId": "20260910-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:14"
+    "updatedAt": "10:25"
   },
   "verified": true
 }
