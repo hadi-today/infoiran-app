@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-06 seq=6 exp=1789181492",
+      "advancedStatus": "pack_id=20260910-07 seq=7 exp=1789182071",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:51",
+      "lastChecked": "03:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 02:51",
+    "expiresAt": "2026-09-12 03:01",
     "items": [
       {
         "channel": "iranintl",
@@ -994,14 +994,21 @@
         "text": "Donald Trump said at a Republican gathering in Dallas that the war with the Islamic Republic will end shortly after the November 3 midterm elections. He added that Tehran wants a deal with the Democrats.",
         "time": "02:51",
         "ts": 1789008668
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump stated that the decision to attack Iran's nuclear facilities was made after receiving reports about Tehran's proximity to nuclear weapons. He said some officials wanted to delay the attack, but he opposed it. Trump also discussed the bomber operation and the possibility of attacking Kuh-e Kolang Gazla.",
+        "time": "03:00",
+        "ts": 1789009248
       }
     ],
     "language": "en",
-    "packId": "20260910-06",
-    "sequence": 6,
+    "packId": "20260910-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:51"
+    "updatedAt": "03:01"
   },
   "verified": true
 }
