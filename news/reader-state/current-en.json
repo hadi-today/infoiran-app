@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-24 seq=24 exp=1789197636",
+      "advancedStatus": "pack_id=20260910-25 seq=25 exp=1789197716",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:20",
+      "lastChecked": "07:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 07:20",
+    "expiresAt": "2026-09-12 07:21",
     "items": [
       {
         "channel": "iranintl",
@@ -1015,14 +1015,21 @@
         "text": "Hossein Akbari, deputy of natural environment at Isfahan Environmental Protection, attributed the mass death of fish in the Zayandeh Rud riverbed to the water flow cut. He stated that the regional water company must take responsibility for this incident. After the water flow was cut on September 6, thousands of fish died and some were trapped in remaining pools.",
         "time": "07:20",
         "ts": 1789024809
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "On Wednesday, 18 Shahrivar, several users of Cryptoland exchange protested in front of Tehran Prosecutor's Office due to lack of response to their demands. The protesters held banners and chanted slogans demanding investigation of the case and recovery of their assets. The protest was met with police intervention and some arrests.",
+        "time": "07:21",
+        "ts": 1789024887
       }
     ],
     "language": "en",
-    "packId": "20260910-24",
-    "sequence": 24,
+    "packId": "20260910-25",
+    "sequence": 25,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:20"
+    "updatedAt": "07:21"
   },
   "verified": true
 }
