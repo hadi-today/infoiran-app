@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-19 seq=19 exp=1789195276",
+      "advancedStatus": "pack_id=20260910-20 seq=20 exp=1789195419",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:41",
+      "lastChecked": "06:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 06:41",
+    "expiresAt": "2026-09-12 06:43",
     "items": [
       {
         "channel": "harana",
@@ -994,14 +994,21 @@
         "text": "A report on the economic difficulties faced by people in Iran, including reduced wages, rising prices of goods and services, and issues caused by power outages and financial restrictions. A threefold increase in electricity bills in Tehran and educational problems in Khorramabad were also mentioned. These conditions have led to depression and dissatisfaction among the people.",
         "time": "06:40",
         "ts": 1789022453
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Qaedi, an international relations lecturer, said Pakistan is mediating between Saudi Arabia and the Islamic Republic. Saudi Arabia still prefers diplomacy over military confrontation. However, continued Houthi attacks and heavy casualties may force Saudi Arabia to react.",
+        "time": "06:43",
+        "ts": 1789022593
       }
     ],
     "language": "en",
-    "packId": "20260910-19",
-    "sequence": 19,
+    "packId": "20260910-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:41"
+    "updatedAt": "06:43"
   },
   "verified": true
 }
