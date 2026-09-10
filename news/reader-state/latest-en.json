@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-89 seq=89 exp=1789224953",
+      "advancedStatus": "pack_id=20260910-90 seq=90 exp=1789225524",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:55",
+      "lastChecked": "15:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 14:55",
+    "expiresAt": "2026-09-12 15:05",
     "items": [
       {
         "channel": "iranintl",
@@ -1092,14 +1092,21 @@
         "text": "The head of the Health Commission of the Parliament announced that drug prices in the country have increased 5 to 6 times. Medical equipment prices have also risen significantly. He warned that continuing this trend will put more pressure on people and patients.",
         "time": "14:54",
         "ts": 1789052099
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen criticized the high prices of nuts and dried fruits in a video sent to Iran International. He said he paid over half a million tomans for two handfuls of almonds. This indicates a significant increase in prices.",
+        "time": "15:04",
+        "ts": 1789052685
       }
     ],
     "language": "en",
-    "packId": "20260910-89",
-    "sequence": 89,
+    "packId": "20260910-90",
+    "sequence": 90,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:55"
+    "updatedAt": "15:05"
   },
   "verified": true
 }
