@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-13 seq=13 exp=1789193594",
+      "advancedStatus": "pack_id=20260910-14 seq=14 exp=1789193681",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:13",
+      "lastChecked": "06:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 06:13",
+    "expiresAt": "2026-09-12 06:14",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "Marzieh Hosseini, a reporter for Iran International, has reported on Donald Trump's speech at the Republican gathering. She mentioned the possibility of another US attack on the Kooh Kalang facilities. She also examined the connection between the war with the Islamic Republic and the US midterm elections.",
         "time": "06:12",
         "ts": 1789020771
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The \"Jan Faday Iran\" exercise will be held on September 17 with the participation of Basij forces, the Revolutionary Guards, and police. The commander of Tehran's Revolutionary Guards stated that this exercise demonstrates the readiness and determination of the Iranian nation. Its purpose is declared to confront the enemies.",
+        "time": "06:14",
+        "ts": 1789020858
       }
     ],
     "language": "en",
-    "packId": "20260910-13",
-    "sequence": 13,
+    "packId": "20260910-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:13"
+    "updatedAt": "06:14"
   },
   "verified": true
 }
