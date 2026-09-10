@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-114 seq=114 exp=1789240244",
+      "advancedStatus": "pack_id=20260910-115 seq=115 exp=1789240729",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:10",
+      "lastChecked": "19:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 19:10",
+    "expiresAt": "2026-09-12 19:18",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A 38-year-old man was killed in Qom by one of his friends and colleagues. The accused claimed that after learning about the victim's relationship and harassment of his wife, he committed the murder.",
-        "time": "19:15",
-        "ts": 1788981312
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump stated that the war with Iran will end immediately after the 2026 US elections. He said he is no longer seeking an agreement with the Islamic Republic and that negotiations might occur but are not the current focus. Trump also mentioned working on matters beyond the nuclear deal, involving new issues.",
-        "time": "19:15",
-        "ts": 1788981356
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A video from the evening of September 8 shows that a government gathering in one of the squares in Qom was sparse. The seats at this gathering were mostly empty. This video was received by Iran International.",
-        "time": "19:17",
-        "ts": 1788981432
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1071,14 +1050,21 @@
         "text": "Mokhtar Vaezie criticized structural discrimination in the payment of contract workers in electricity distribution and the role of contracting companies. He stated that official employees receive up to twice the salary of contract workers, and part of the contract workers' earnings is lost in the contracting cycle. Violations by contractors in registering workers' insurance records have also been reported.",
         "time": "19:10",
         "ts": 1789067419
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli army announced that over 1,100 tons of explosives were used to destroy Hezbollah tunnels in the Ali Taher heights in southern Lebanon. The operation to destroy Hezbollah's underground routes and infrastructure in the Ali Taher mountain range near Nabatieh has been completed. This operation took place near Nabatieh.",
+        "time": "19:18",
+        "ts": 1789067902
       }
     ],
     "language": "en",
-    "packId": "20260910-114",
-    "sequence": 114,
+    "packId": "20260910-115",
+    "sequence": 115,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:10"
+    "updatedAt": "19:18"
   },
   "verified": true
 }
