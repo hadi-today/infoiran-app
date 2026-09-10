@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-51 seq=51 exp=1789210100",
+      "advancedStatus": "pack_id=20260910-52 seq=52 exp=1789210807",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:48",
+      "lastChecked": "11:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 10:48",
+    "expiresAt": "2026-09-12 11:00",
     "items": [
       {
         "channel": "iranintl",
@@ -1001,14 +1001,21 @@
         "text": "TankerTrackers reported that ship-to-ship transfers of crude oil in the Gulf of Oman reached 7.15 million barrels per day over the past 14 days, a 56 percent increase from the previous month. The increase comes amid ongoing concerns about shipping security in the Strait of Hormuz.",
         "time": "10:47",
         "ts": 1789037255
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The mother of Soda Akramifard, a protester killed in December 2025, joined the campaign \"One Candle, One Name, One Memory.\" She urged others to light candles in memory of the eternal names. This video was shared on social media.",
+        "time": "10:59",
+        "ts": 1789037980
       }
     ],
     "language": "en",
-    "packId": "20260910-51",
-    "sequence": 51,
+    "packId": "20260910-52",
+    "sequence": 52,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:48"
+    "updatedAt": "11:00"
   },
   "verified": true
 }
