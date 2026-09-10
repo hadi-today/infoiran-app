@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-62 seq=62 exp=1789216169",
+      "advancedStatus": "pack_id=20260910-63 seq=63 exp=1789216495",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:29",
+      "lastChecked": "12:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 12:29",
+    "expiresAt": "2026-09-12 12:34",
     "items": [
       {
         "channel": "iranintl",
@@ -1036,14 +1036,21 @@
         "text": "Israel Katz, Israel's defense minister, wished Iranian Jews a good and safe year and called for Tehran to be freed from oppression. He warned that if the Islamic Republic attacks Israel, a strong response will target sites in Iran. Katz stated such an attack would set Iran back decades and destabilize the regime.",
         "time": "12:29",
         "ts": 1789043341
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ukraine targeted eight Russian infrastructure facilities in the past 24 hours, including an oil refinery in Yamalo-Nenets and a seaport in Dagestan. Videos have been released showing an attack on a port in Makhachkala, Dagestan. Ukraine had previously targeted an Iranian vessel in the Caspian Sea.",
+        "time": "12:34",
+        "ts": 1789043657
       }
     ],
     "language": "en",
-    "packId": "20260910-62",
-    "sequence": 62,
+    "packId": "20260910-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:29"
+    "updatedAt": "12:34"
   },
   "verified": true
 }
