@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-96 seq=96 exp=1789228903",
+      "advancedStatus": "pack_id=20260910-97 seq=97 exp=1789230256",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:01",
+      "lastChecked": "16:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 16:01",
+    "expiresAt": "2026-09-12 16:24",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Saeed Javanmard, a former army officer, has been sentenced to a total of eight years in prison in two judicial cases. He was expelled from the army and sentenced to three years in prison after participating in the 1401 protests. In a new case, he was sentenced to five years for charges including cooperation with hostile states and disrupting order.",
-        "time": "16:05",
-        "ts": 1788969937
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Saleh Nikbakht, a legal expert, stated that there is no criminal offense called 'disruption of norms' in the Islamic Penal Code. He emphasized that business owners cannot be held responsible for their customers' behavior. He also described these actions as part of internal conflicts within the government.",
-        "time": "16:10",
-        "ts": 1788970254
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Israeli Prime Minister said Israel will not allow any terrorist army to be stationed on its borders during a visit to the army positions on Mount Hermon. He called the Islamic Republic a terrorist regime and stated that Israel's main goal is to defeat the Iranian government. Netanyahu added that they are close to achieving this goal.",
-        "time": "16:12",
-        "ts": 1788970330
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1078,14 +1057,21 @@
         "text": "The UN Security Council is holding a public meeting to review the activities of the sanctions committee under Resolution 1737 concerning Iran. This meeting takes place one day after the IAEA Board of Governors adopted a resolution. The resolution requests the IAEA Director General to report Iran's nuclear file to the Security Council and the General Assembly.",
         "time": "16:01",
         "ts": 1789056067
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "CENTCOM announced that the US military has forced 96 commercial ships to change course by Thursday. Additionally, more than 50 ships carrying humanitarian aid were allowed to pass. This operation took place in the blockade of Iranian ports.",
+        "time": "16:23",
+        "ts": 1789057428
       }
     ],
     "language": "en",
-    "packId": "20260910-96",
-    "sequence": 96,
+    "packId": "20260910-97",
+    "sequence": 97,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:01"
+    "updatedAt": "16:24"
   },
   "verified": true
 }
