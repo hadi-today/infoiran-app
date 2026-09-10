@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-118 seq=118 exp=1789241359",
+      "advancedStatus": "pack_id=20260910-119 seq=119 exp=1789242199",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:29",
+      "lastChecked": "19:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 19:29",
+    "expiresAt": "2026-09-12 19:43",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Milad Morvati, a law student at Azad University of Mahabad, was released from the city's prison after posting bail. This event occurred today. More information is available from Harana News Agency.",
-        "time": "19:32",
-        "ts": 1788982360
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Fouad Fathi, a labor activist, was released from Evin Prison after serving his sentence. This event occurred today. More information is available from Harana News Agency.",
-        "time": "19:36",
-        "ts": 1788982591
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1064,14 +1050,21 @@
         "text": "Drones recreated an image of the Twin Towers over New York Harbor on Wednesday, September 8. The display used 2,977 lights, representing the number of victims of the September 11 attacks. The lights first formed a spiral and then shaped the towers in their original dimensions against the city skyline.",
         "time": "19:28",
         "ts": 1789068529
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Israel sent a message to Hezbollah and the Islamic Republic after destroying tunnels in the Ali Taher heights, warning that any response would be met with a large-scale explosion. The Israeli army has increased its alert level, especially in the air force. The 36th Division has begun redeployment and left the Ali Taher heights.",
+        "time": "19:42",
+        "ts": 1789069371
       }
     ],
     "language": "en",
-    "packId": "20260910-118",
-    "sequence": 118,
+    "packId": "20260910-119",
+    "sequence": 119,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:29"
+    "updatedAt": "19:43"
   },
   "verified": true
 }
