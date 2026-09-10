@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-44 seq=44 exp=1789207637",
+      "advancedStatus": "pack_id=20260910-45 seq=45 exp=1789207716",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:07",
+      "lastChecked": "10:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 10:07",
+    "expiresAt": "2026-09-12 10:08",
     "items": [
       {
         "channel": "harana",
@@ -973,14 +973,21 @@
         "text": "The Iranian Football League Organization announced that four matches of the seventh week of the Premier League have been postponed due to the presence of players in the national youth team camp. The matches Zob Ahan - Sepahan, Kheybar - Persepolis, Malavan - Foolad, and Fajr Sepasi - Aluminium will not be held. The new dates for these matches will be announced later.",
         "time": "10:06",
         "ts": 1789034783
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Hossein Ghazizadeh stated that the Islamic Republic has deployed military and security forces in schools. This move is to use schools as a protective layer for their forces. There are also reports of attempts to permanently seize some schools.",
+        "time": "10:07",
+        "ts": 1789034862
       }
     ],
     "language": "en",
-    "packId": "20260910-44",
-    "sequence": 44,
+    "packId": "20260910-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:07"
+    "updatedAt": "10:08"
   },
   "verified": true
 }
