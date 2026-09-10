@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-116 seq=116 exp=1789240851",
+      "advancedStatus": "pack_id=20260910-117 seq=117 exp=1789241234",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:20",
+      "lastChecked": "19:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 19:20",
+    "expiresAt": "2026-09-12 19:27",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "On Wednesday, 18 Shahrivar, gas line six workers in Ahvaz and Bidboland went on strike for the third consecutive day. Esmail Bakhshi protested in front of the Haft Tappeh Sugarcane Complex. Additionally, SnappBox drivers held protests in Semnan and Arak.",
-        "time": "19:21",
-        "ts": 1788981690
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Sardar Azmoun has been re-invited to the Iranian national football team after recent controversies and government criticisms. He is expected to participate in the upcoming FIFA international window and preparations for the Asian Cup. This return comes after Azmoun distanced himself from the national team and had his assets seized.",
-        "time": "19:21",
-        "ts": 1788981713
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1064,14 +1050,21 @@
         "text": "The number of executions in Vakilabad Prison in Mashhad and Dastgerd Prison in Isfahan has reached six. These executions took place on the 15th and 18th of Shahrivar. Additionally, a murder suspect in Mashhad was sentenced to death.",
         "time": "19:20",
         "ts": 1789068023
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abbas Araghchi held phone talks with Asim Munir and Faisal bin Farhan about escalating tensions and insecurity in the region. The parties emphasized the need for diplomatic cooperation and efforts to restore stability. They also stressed regional coordination to establish lasting peace.",
+        "time": "19:26",
+        "ts": 1789068407
       }
     ],
     "language": "en",
-    "packId": "20260910-116",
-    "sequence": 116,
+    "packId": "20260910-117",
+    "sequence": 117,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:20"
+    "updatedAt": "19:27"
   },
   "verified": true
 }
