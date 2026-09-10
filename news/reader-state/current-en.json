@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-124 seq=124 exp=1789247270",
+      "advancedStatus": "pack_id=20260910-125 seq=125 exp=1789248690",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:07",
+      "lastChecked": "21:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 21:07",
+    "expiresAt": "2026-09-12 21:31",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Alireza Salimi stated that leaving the Nuclear Non-Proliferation Treaty (NPT) could be one of Iran's options to respond to the IAEA Board of Governors resolution. He described the resolution as political and hostile and said Iran has not benefited from the treaty's rights. Salimi predicted that actions related to the resolution would face a veto due to Russia and China's membership in the Security Council.",
-        "time": "21:22",
-        "ts": 1788988944
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1022,14 +1015,21 @@
         "text": "The Israeli army announced that Hezbollah tunnels under the Ali al-Taher heights in southern Lebanon were destroyed with over 1100 tons of explosives. Weapons and equipment made by the Islamic Republic were found in these tunnels. These tunnels served as the command center for Hezbollah's Badr regional unit.",
         "time": "21:07",
         "ts": 1789074447
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Wall Street Journal, citing American officials, reported that the Islamic Republic has resumed production of ballistic missiles in underground facilities using stored parts. According to the newspaper, despite heavy attacks on missile sites and industrial facilities in the first phase of the war, the assembly of liquid-fueled ballistic missiles has resumed.",
+        "time": "21:31",
+        "ts": 1789075867
       }
     ],
     "language": "en",
-    "packId": "20260910-124",
-    "sequence": 124,
+    "packId": "20260910-125",
+    "sequence": 125,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:07"
+    "updatedAt": "21:31"
   },
   "verified": true
 }
