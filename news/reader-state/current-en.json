@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-10 seq=10 exp=1789190325",
+      "advancedStatus": "pack_id=20260910-11 seq=11 exp=1789192675",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:18",
+      "lastChecked": "05:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 05:18",
+    "expiresAt": "2026-09-12 05:57",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Alireza Salimi, a member of the parliament's presidium, stated that the way to confront Israel is through resistance and a strong response. He criticized the Lebanese government's approach towards Israel, calling it a black mark on its political record. Salimi also emphasized that the Islamic Republic has always supported the resistance and will continue to do so.",
-        "time": "05:41",
-        "ts": 1788932511
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Marco Rubio, US Secretary of State, described the Houthis as Iran's proxy forces and stated that Washington is closely monitoring the group's activities and the Islamic Republic's role in regional affairs.",
-        "time": "05:52",
-        "ts": 1788933165
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -980,14 +966,21 @@
         "text": "Shayan Samiei said Trump has left the door open for negotiations with the Islamic Republic but considers the previous agreement ended. He added that Trump sends a message to the Iranian people that they are separate from the government.",
         "time": "05:18",
         "ts": 1789017500
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shahram Kholdi referred to Donald Trump's statements about the attack on the Kuh-e-Kalang facility and said that if the attack does not lead to the complete destruction of the facility, the Islamic Republic will move towards militarizing its nuclear program.",
+        "time": "05:57",
+        "ts": 1789019853
       }
     ],
     "language": "en",
-    "packId": "20260910-10",
-    "sequence": 10,
+    "packId": "20260910-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:18"
+    "updatedAt": "05:57"
   },
   "verified": true
 }
