@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-55 seq=55 exp=1789213487",
+      "advancedStatus": "pack_id=20260910-56 seq=56 exp=1789213594",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:44",
+      "lastChecked": "11:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 11:44",
+    "expiresAt": "2026-09-12 11:46",
     "items": [
       {
         "channel": "iranintl",
@@ -1008,14 +1008,21 @@
         "text": "Mehdi Tartaar, Persepolis coach, announced the unilateral cancellation of their match against Kheybar by the league organization without coordination. He stated that the club had not requested the cancellation and that the decision caused shock and dissatisfaction. Tartaar emphasized that his team opposes the cancellation and wants the match to be played.",
         "time": "11:44",
         "ts": 1789040657
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen stated in a video that they paid 1,100,000 tomans for several dairy products. He held the Islamic Republic responsible for this situation. This issue has raised concerns about rising prices.",
+        "time": "11:46",
+        "ts": 1789040770
       }
     ],
     "language": "en",
-    "packId": "20260910-55",
-    "sequence": 55,
+    "packId": "20260910-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:44"
+    "updatedAt": "11:46"
   },
   "verified": true
 }
