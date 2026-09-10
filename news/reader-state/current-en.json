@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-47 seq=47 exp=1789208749",
+      "advancedStatus": "pack_id=20260910-48 seq=48 exp=1789209063",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:25",
+      "lastChecked": "10:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 10:25",
+    "expiresAt": "2026-09-12 10:31",
     "items": [
       {
         "channel": "iranintl",
@@ -980,14 +980,21 @@
         "text": "A protest rally was held in Rome in support of Taraneh and Romina Rahimi, two 19-year-old Iranian sisters sentenced to death and 25 years in prison. Representatives from the 'Moderates' party and other members of the Italian parliament called for an end to executions and torture of political prisoners in Iran. The main slogan of the rally was 'Freedom is not hanged.'",
         "time": "10:25",
         "ts": 1789035920
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Military sources from the Yemeni government say that the Houthis, supported by the Islamic Republic, are trying to strengthen their position near the strategic Bab al-Mandab Strait. Reuters, citing four military sources, reported that the Houthis have nearly full control over coastal areas including the ports of Mocha and Dhubab. More details were provided by an Iran International reporter.",
+        "time": "10:30",
+        "ts": 1789036234
       }
     ],
     "language": "en",
-    "packId": "20260910-47",
-    "sequence": 47,
+    "packId": "20260910-48",
+    "sequence": 48,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:25"
+    "updatedAt": "10:31"
   },
   "verified": true
 }
