@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-132 seq=132 exp=1789251336",
+      "advancedStatus": "pack_id=20260910-133 seq=133 exp=1789252168",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:15",
+      "lastChecked": "22:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 22:15",
+    "expiresAt": "2026-09-12 22:29",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Palmer Luckey, founder of Anduril, stated that the Dive-DL drone is designed so that losing it in operations does not create a security problem. The drone is made for extremely dangerous environments and its loss is acceptable. He added that the device provided significant operational value for months before falling into enemy hands.",
-        "time": "22:17",
-        "ts": 1788992228
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1036,14 +1029,21 @@
         "text": "Anthropic company announced that Iranian government agents used the AI model 'Claude' to monitor social media content inside Iran and identify potential opponents. The company also reported identifying nine intrusion operations linked to Iran, Russia, and Turkey. Most AI-generated content in these operations received little interaction.",
         "time": "22:14",
         "ts": 1789078475
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli ambassador to the US said the war will end when the Islamic Republic no longer exists. He emphasized that regime change in Iran is not possible without the participation of the people. Israel and the US will also play a role in this process.",
+        "time": "22:29",
+        "ts": 1789079345
       }
     ],
     "language": "en",
-    "packId": "20260910-132",
-    "sequence": 132,
+    "packId": "20260910-133",
+    "sequence": 133,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:15"
+    "updatedAt": "22:29"
   },
   "verified": true
 }
