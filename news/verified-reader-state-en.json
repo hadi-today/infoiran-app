@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-72 seq=72 exp=1789218397",
+      "advancedStatus": "pack_id=20260910-73 seq=73 exp=1789218806",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:06",
+      "lastChecked": "13:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 13:06",
+    "expiresAt": "2026-09-12 13:13",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "On Tuesday night, with increased security measures, several government motorcycle forces were deployed in the streets of Mashhad. This was shown in a video received by Iran International. The action was taken in response to security conditions.",
-        "time": "13:06",
-        "ts": 1788959182
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "The spokesperson of the Islamic Revolutionary Guard Corps announced six conditions of the Islamic Republic for ending the war. Tehran has expanded the area for dealing with vessels from the Strait of Hormuz to parts of the Sea of Oman and the Arabian Sea. The exact coordinates of this area will be announced later, with Chabahar as the starting point.",
-        "time": "13:07",
-        "ts": 1788959237
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1057,14 +1043,21 @@
         "text": "The head of the National Center for Air and Climate Change announced that 63% of Tehran's internet taxis are over 10 years old, and 41% are over 15 years old. Vehicles older than 10 years account for about 64% of the total mileage of the fleet. Approximately 30,000 high-mileage vehicles over 10 years old are prioritized for renewal.",
         "time": "13:04",
         "ts": 1789045479
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Salimi, a member of the parliament's board, called the Cabinet's opposition to the National Security Commission's report on the foreign infiltration countermeasure plan illegal. He emphasized that the plan belongs to the parliament and the government cannot act independently of it. Salimi also urged the government to focus on economic issues instead of political behavior.",
+        "time": "13:12",
+        "ts": 1789045979
       }
     ],
     "language": "en",
-    "packId": "20260910-72",
-    "sequence": 72,
+    "packId": "20260910-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:06"
+    "updatedAt": "13:13"
   },
   "verified": true
 }
