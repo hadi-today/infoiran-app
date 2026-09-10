@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-101 seq=101 exp=1789232990",
+      "advancedStatus": "pack_id=20260910-102 seq=102 exp=1789233734",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:09",
+      "lastChecked": "17:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 17:09",
+    "expiresAt": "2026-09-12 17:22",
     "items": [
       {
         "channel": "iranintl",
@@ -1043,14 +1043,28 @@
         "text": "Reuters reported that the rapid advance of the Houthis along Yemen's Red Sea coast was directly led by the IRGC. The capture of the port city of Mocha has strengthened Houthi control over the Bab al-Mandab Strait. Military sources say Abdulreza Shahlaei, a commander of the IRGC Quds Force, is leading this operation.",
         "time": "17:09",
         "ts": 1789060161
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Some contract workers at Iranshahr Municipality reported three months of unpaid wages and insurance. The head of the Kurdistan Islamic Labor Council also criticized the non-payment of overtime for workers in some units of the province.",
+        "time": "17:21",
+        "ts": 1789060905
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Pouya Bakhtiari's father congratulated his son's birthday from prison in an audio message. He mentioned that he has been deprived of visiting his son's grave for years. Pouya Bakhtiari was one of the victims of the nationwide protests in 2022.",
+        "time": "17:21",
+        "ts": 1789060916
       }
     ],
     "language": "en",
-    "packId": "20260910-101",
-    "sequence": 101,
+    "packId": "20260910-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:09"
+    "updatedAt": "17:22"
   },
   "verified": true
 }
