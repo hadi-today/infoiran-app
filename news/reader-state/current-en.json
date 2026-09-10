@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-113 seq=113 exp=1789238338",
+      "advancedStatus": "pack_id=20260910-114 seq=114 exp=1789240244",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:38",
+      "lastChecked": "19:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 18:38",
+    "expiresAt": "2026-09-12 19:10",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen says they have to buy various medicines every month but the prices have become very expensive. They are worried they might not be able to afford their medicines anymore. They also attribute the rise in medicine prices to the increase in gasoline prices.",
-        "time": "19:02",
-        "ts": 1788980557
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1071,14 +1064,21 @@
         "text": "The Israeli army announced the completion of the operation to destroy underground routes and infrastructure in the Ali Taher mountain range. More than two kilometers of infrastructure were destroyed, and dozens of rockets, missiles, and explosives were discovered. These infrastructures were built over two decades and financed by Iran.",
         "time": "18:38",
         "ts": 1789065491
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Mokhtar Vaezie criticized structural discrimination in the payment of contract workers in electricity distribution and the role of contracting companies. He stated that official employees receive up to twice the salary of contract workers, and part of the contract workers' earnings is lost in the contracting cycle. Violations by contractors in registering workers' insurance records have also been reported.",
+        "time": "19:10",
+        "ts": 1789067419
       }
     ],
     "language": "en",
-    "packId": "20260910-113",
-    "sequence": 113,
+    "packId": "20260910-114",
+    "sequence": 114,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:38"
+    "updatedAt": "19:10"
   },
   "verified": true
 }
