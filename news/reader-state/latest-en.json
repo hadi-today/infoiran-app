@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-131 seq=131 exp=1789251256",
+      "advancedStatus": "pack_id=20260910-132 seq=132 exp=1789251336",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:14",
+      "lastChecked": "22:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 22:14",
+    "expiresAt": "2026-09-12 22:15",
     "items": [
       {
         "channel": "iranintl",
@@ -1029,14 +1029,21 @@
         "text": "Alireza Kiani stated on the program \"Fereydoun\" that Susan Abulhawa, a Palestinian-American writer, praises the Islamic Republic as the last stronghold of anti-imperialist resistance. He added that the PEN America association considers the Islamic Republic the largest prison for female writers in the world.",
         "time": "22:13",
         "ts": 1789078433
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Anthropic company announced that Iranian government agents used the AI model 'Claude' to monitor social media content inside Iran and identify potential opponents. The company also reported identifying nine intrusion operations linked to Iran, Russia, and Turkey. Most AI-generated content in these operations received little interaction.",
+        "time": "22:14",
+        "ts": 1789078475
       }
     ],
     "language": "en",
-    "packId": "20260910-131",
-    "sequence": 131,
+    "packId": "20260910-132",
+    "sequence": 132,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:14"
+    "updatedAt": "22:15"
   },
   "verified": true
 }
