@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-112 seq=112 exp=1789238080",
+      "advancedStatus": "pack_id=20260910-113 seq=113 exp=1789238338",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:34",
+      "lastChecked": "18:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 18:34",
+    "expiresAt": "2026-09-12 18:38",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Three defendants in Lavasanat, Shemiranat County, were sentenced to provide stationery for underprivileged students and supply equipment for eight classrooms instead of prison sentences.",
-        "time": "18:34",
-        "ts": 1788978861
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1071,14 +1064,21 @@
         "text": "Esmaeil Bakhshi has been on strike for the third consecutive day in front of the Haft Tappeh Sugarcane Company. Additionally, protests were held yesterday by users of the Cryptoland exchange and railway workers in Tehran. These protests demand attention to their employment and financial issues.",
         "time": "18:33",
         "ts": 1789065235
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli army announced the completion of the operation to destroy underground routes and infrastructure in the Ali Taher mountain range. More than two kilometers of infrastructure were destroyed, and dozens of rockets, missiles, and explosives were discovered. These infrastructures were built over two decades and financed by Iran.",
+        "time": "18:38",
+        "ts": 1789065491
       }
     ],
     "language": "en",
-    "packId": "20260910-112",
-    "sequence": 112,
+    "packId": "20260910-113",
+    "sequence": 113,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:34"
+    "updatedAt": "18:38"
   },
   "verified": true
 }
