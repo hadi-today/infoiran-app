@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-111 seq=111 exp=1789237990",
+      "advancedStatus": "pack_id=20260910-112 seq=112 exp=1789238080",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:33",
+      "lastChecked": "18:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 18:33",
+    "expiresAt": "2026-09-12 18:34",
     "items": [
       {
         "channel": "harana",
@@ -1064,14 +1064,21 @@
         "text": "The sister of the martyr Mehdi Shafiei, along with her son Mani Shafiei, participated in a memorial ceremony for the victims of the Iranian National Revolution. They lit a candle alongside other families. This video was shared on social media.",
         "time": "18:32",
         "ts": 1789065160
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Esmaeil Bakhshi has been on strike for the third consecutive day in front of the Haft Tappeh Sugarcane Company. Additionally, protests were held yesterday by users of the Cryptoland exchange and railway workers in Tehran. These protests demand attention to their employment and financial issues.",
+        "time": "18:33",
+        "ts": 1789065235
       }
     ],
     "language": "en",
-    "packId": "20260910-111",
-    "sequence": 111,
+    "packId": "20260910-112",
+    "sequence": 112,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:33"
+    "updatedAt": "18:34"
   },
   "verified": true
 }
