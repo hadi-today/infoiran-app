@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-52 seq=52 exp=1789210807",
+      "advancedStatus": "pack_id=20260910-53 seq=53 exp=1789211005",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:00",
+      "lastChecked": "11:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 11:00",
+    "expiresAt": "2026-09-12 11:03",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen sarcastically commented in a video sent to Iran International that they are happy there is no electricity and the house is dark. He added that if they are not happy, they will be executed. This statement refers to the power outage situation.",
-        "time": "10:59",
-        "ts": 1788951590
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1008,14 +1001,21 @@
         "text": "The mother of Soda Akramifard, a protester killed in December 2025, joined the campaign \"One Candle, One Name, One Memory.\" She urged others to light candles in memory of the eternal names. This video was shared on social media.",
         "time": "10:59",
         "ts": 1789037980
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US has stated that it targeted 10 tankers linked to the Islamic Republic in the Persian Gulf and the Sea of Oman in three waves. Among these tankers, the sinking of two vessels named Kaylo and Risko has been confirmed.",
+        "time": "11:02",
+        "ts": 1789038162
       }
     ],
     "language": "en",
-    "packId": "20260910-52",
-    "sequence": 52,
+    "packId": "20260910-53",
+    "sequence": 53,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:00"
+    "updatedAt": "11:03"
   },
   "verified": true
 }
