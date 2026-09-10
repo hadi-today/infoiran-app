@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-86 seq=86 exp=1789223617",
+      "advancedStatus": "pack_id=20260910-87 seq=87 exp=1789224054",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:33",
+      "lastChecked": "14:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 14:33",
+    "expiresAt": "2026-09-12 14:40",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen criticized the high price of injectable insulin pens in a video sent to Iran International. He highlighted the economic pressure on patients who cannot afford the medication. He blamed the Islamic Republic for this situation.",
-        "time": "14:33",
-        "ts": 1788964402
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "The Israeli Prime Minister stated at Mount Hermon that the main goal of military campaigns is to defeat and overthrow the Iranian regime. He mentioned the presence of Israeli forces on the Syrian and Lebanese borders and expressed confidence in nearing this goal. Netanyahu emphasized that no terrorist groups will be allowed to settle on the borders.",
-        "time": "14:38",
-        "ts": 1788964705
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1085,14 +1071,21 @@
         "text": "The mother of Mohammadreza Ahangar, a protester killed in December 2025, joined the campaign \"One Candle, One Name, One Memory.\" In a video, she said that heroes never die. This video was shared on social media.",
         "time": "14:33",
         "ts": 1789050785
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Rafael Grossi, the Director General of the IAEA, reported recent movements at the Kuh-e-Kalang Gezla site. The agency has not yet inspected inside the tunnels of this site. Donald Trump also mentioned activity at this site and issued a warning.",
+        "time": "14:39",
+        "ts": 1789051188
       }
     ],
     "language": "en",
-    "packId": "20260910-86",
-    "sequence": 86,
+    "packId": "20260910-87",
+    "sequence": 87,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:33"
+    "updatedAt": "14:40"
   },
   "verified": true
 }
