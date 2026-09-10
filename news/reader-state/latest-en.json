@@ -1,27 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260909-143 seq=143 exp=1789170997",
+      "advancedStatus": "pack_id=20260910-01 seq=1 exp=1789171351",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:56",
+      "lastChecked": "00:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-09-09",
-    "expiresAt": "2026-09-11 23:56",
+    "date": "2026-09-10",
+    "expiresAt": "2026-09-12 00:02",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The price of some medicines in Iran has increased up to five times in one year. Patients' out-of-pocket expenses have reached about 80 percent. This situation has forced patients to make difficult choices.",
-        "time": "23:56",
-        "ts": 1788911805
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1029,14 +1022,21 @@
         "text": "The Center for Strategic and International Studies reported that satellite images show increased construction activities in the underground complex of Kuh-e Kalang Gazla near the Natanz nuclear facility in 2026. Activities have shifted from excavation to internal construction and tunnel entrance reinforcement. The center neither confirmed nor denied claims of centrifuge transfers to this complex.",
         "time": "23:56",
         "ts": 1788998171
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Transitional Justice Committee, chaired by Shirin Ebadi, warned the commanders and executors of protesters' executions that each of them will be held accountable. The committee stated that no leniency will be shown and all legal tools will be used for prosecution and punishment. It also emphasized that each execution increases criminal responsibility and these crimes will not be forgotten.",
+        "time": "00:02",
+        "ts": 1788998528
       }
     ],
     "language": "en",
-    "packId": "20260909-143",
-    "sequence": 143,
+    "packId": "20260910-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:56"
+    "updatedAt": "00:02"
   },
   "verified": true
 }
