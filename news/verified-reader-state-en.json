@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-49 seq=49 exp=1789209167",
+      "advancedStatus": "pack_id=20260910-50 seq=50 exp=1789209946",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:32",
+      "lastChecked": "10:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 10:32",
+    "expiresAt": "2026-09-12 10:45",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Iranian Foreign Ministry stated that the armed forces will respond decisively to any US aggression. This statement was issued after the US attacked several Iranian oil tankers on September 7. The ministry called these attacks a violation of international law and urged the UN Security Council to take action.",
-        "time": "10:41",
-        "ts": 1788950466
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -994,14 +987,21 @@
         "text": "A sick citizen told Iran International in a video that the pharmacy official said the increase in gasoline prices caused the rise in drug prices. This issue was mentioned as the reason for the increased cost of medicine. This statement was made by the pharmacy official.",
         "time": "10:31",
         "ts": 1789036317
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Hossein Afrasiab, a prisoner in Dastgerd prison in Isfahan, was sentenced to three years, nine months, and twenty days of imprisonment. His initial sentence was five years and one month, which was reduced in the final ruling. This news was reported by the HRANA news agency.",
+        "time": "10:45",
+        "ts": 1789037106
       }
     ],
     "language": "en",
-    "packId": "20260910-49",
-    "sequence": 49,
+    "packId": "20260910-50",
+    "sequence": 50,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:32"
+    "updatedAt": "10:45"
   },
   "verified": true
 }
