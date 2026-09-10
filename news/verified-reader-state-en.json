@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-61 seq=61 exp=1789215376",
+      "advancedStatus": "pack_id=20260910-62 seq=62 exp=1789216169",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:16",
+      "lastChecked": "12:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 12:16",
+    "expiresAt": "2026-09-12 12:29",
     "items": [
       {
         "channel": "iranintl",
@@ -1029,14 +1029,21 @@
         "text": "A citizen stated in a video that they paid 490,000 tomans for a melon and two kilograms of potatoes. This indicates a price increase for these products. The video was published by Iran International.",
         "time": "12:15",
         "ts": 1789042550
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Israel Katz, Israel's defense minister, wished Iranian Jews a good and safe year and called for Tehran to be freed from oppression. He warned that if the Islamic Republic attacks Israel, a strong response will target sites in Iran. Katz stated such an attack would set Iran back decades and destabilize the regime.",
+        "time": "12:29",
+        "ts": 1789043341
       }
     ],
     "language": "en",
-    "packId": "20260910-61",
-    "sequence": 61,
+    "packId": "20260910-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:16"
+    "updatedAt": "12:29"
   },
   "verified": true
 }
