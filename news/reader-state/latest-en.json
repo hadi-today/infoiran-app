@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-110 seq=110 exp=1789237600",
+      "advancedStatus": "pack_id=20260910-111 seq=111 exp=1789237990",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:26",
+      "lastChecked": "18:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 18:26",
+    "expiresAt": "2026-09-12 18:33",
     "items": [
       {
         "channel": "harana",
@@ -1057,14 +1057,21 @@
         "text": "The head of Guilan University of Medical Sciences announced a shortage of 536 health workers in the province. This shortage is especially noticeable in rural areas. Some health workers have to serve multiple villages simultaneously.",
         "time": "18:26",
         "ts": 1789064772
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The sister of the martyr Mehdi Shafiei, along with her son Mani Shafiei, participated in a memorial ceremony for the victims of the Iranian National Revolution. They lit a candle alongside other families. This video was shared on social media.",
+        "time": "18:32",
+        "ts": 1789065160
       }
     ],
     "language": "en",
-    "packId": "20260910-110",
-    "sequence": 110,
+    "packId": "20260910-111",
+    "sequence": 111,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:26"
+    "updatedAt": "18:33"
   },
   "verified": true
 }
