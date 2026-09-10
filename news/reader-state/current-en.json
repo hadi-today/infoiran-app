@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-39 seq=39 exp=1789205296",
+      "advancedStatus": "pack_id=20260910-40 seq=40 exp=1789205912",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:28",
+      "lastChecked": "09:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 09:28",
+    "expiresAt": "2026-09-12 09:38",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Hamid Ghasemi Honari reported 120 deaths in urban and intercity accidents in North Khorasan during the first five months of the year. Nineteen of the victims were under 20 years old. The highest fatalities were recorded in the Manou and Samalqan and Bojnord areas.",
-        "time": "09:31",
-        "ts": 1788946284
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A member of Iran International's editorial team referred to Pakistan's defense minister's remarks about the possible activation of the Makkah defense pact. Turkey, Pakistan, and Saudi Arabia are ready to support Riyadh in the war against the Houthis if the current situation in the region continues. Additionally, the recapture of Sanaa and securing the Bab al-Mandab Strait have become priorities.",
-        "time": "09:31",
-        "ts": 1788946293
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The official funeral ceremony of Harald V, the former king of Norway, was held today in Oslo. Members of royal families and high-ranking officials from various countries attended the ceremony. Tens of thousands are expected to be present along the procession route and in central Oslo.",
-        "time": "09:33",
-        "ts": 1788946431
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -987,14 +966,21 @@
         "text": "The National Resistance media in Yemen announced that it obtained maps showing the IRGC's plan for advancing and controlling the Bab al-Mandab Strait. These maps were found on the laptop of a captured Houthi commander. The images show four stages of advancement towards the Bab al-Mandab Strait and the city of Hodeidah.",
         "time": "09:26",
         "ts": 1789032391
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "After missile launches by the IRGC at US bases in Jordan and interception of some in Israeli airspace, the Israeli army has raised its alert level. Benjamin Netanyahu and Yisrael Katz warned that Israel will not allow the reconstruction of Iran's missile and nuclear capabilities. An interview was conducted with Babak Es-haqi, a journalist from Iran International.",
+        "time": "09:38",
+        "ts": 1789033083
       }
     ],
     "language": "en",
-    "packId": "20260910-39",
-    "sequence": 39,
+    "packId": "20260910-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:28"
+    "updatedAt": "09:38"
   },
   "verified": true
 }
