@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-95 seq=95 exp=1789227841",
+      "advancedStatus": "pack_id=20260910-96 seq=96 exp=1789228903",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:44",
+      "lastChecked": "16:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 15:44",
+    "expiresAt": "2026-09-12 16:01",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The United States has sanctioned 27 companies and entities related to Iranian aviation and suspended three general licenses in this sector. The stated goal of these sanctions is to increase pressure on the Islamic Republic. This decision may affect travel for medical treatment, education, work, and family visits.",
-        "time": "15:48",
-        "ts": 1788968897
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reza Najafi stated that with the end of the war, verification activities by the agency in Iran will be possible. He said the comprehensive safeguards agreement does not have specific regulations for wartime conditions. He also emphasized that military attacks by the US and Israel have affected the implementation of safeguards in Iran.",
-        "time": "15:59",
-        "ts": 1788969544
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1085,14 +1071,21 @@
         "text": "Yahya Saree, the spokesperson for the Houthis, stated that their current operation is limited and defensive in nature. He said the operation will stop once attacks on Yemen end and the blockade is lifted. He also confirmed that shipping routes in the Red Sea and Bab al-Mandab Strait remain safe and uninterrupted.",
         "time": "15:43",
         "ts": 1789055016
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The UN Security Council is holding a public meeting to review the activities of the sanctions committee under Resolution 1737 concerning Iran. This meeting takes place one day after the IAEA Board of Governors adopted a resolution. The resolution requests the IAEA Director General to report Iran's nuclear file to the Security Council and the General Assembly.",
+        "time": "16:01",
+        "ts": 1789056067
       }
     ],
     "language": "en",
-    "packId": "20260910-95",
-    "sequence": 95,
+    "packId": "20260910-96",
+    "sequence": 96,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:44"
+    "updatedAt": "16:01"
   },
   "verified": true
 }
