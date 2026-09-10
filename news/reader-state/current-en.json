@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-50 seq=50 exp=1789209946",
+      "advancedStatus": "pack_id=20260910-51 seq=51 exp=1789210100",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:45",
+      "lastChecked": "10:48",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 10:45",
+    "expiresAt": "2026-09-12 10:48",
     "items": [
       {
         "channel": "iranintl",
@@ -994,14 +994,21 @@
         "text": "Hossein Afrasiab, a prisoner in Dastgerd prison in Isfahan, was sentenced to three years, nine months, and twenty days of imprisonment. His initial sentence was five years and one month, which was reduced in the final ruling. This news was reported by the HRANA news agency.",
         "time": "10:45",
         "ts": 1789037106
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "TankerTrackers reported that ship-to-ship transfers of crude oil in the Gulf of Oman reached 7.15 million barrels per day over the past 14 days, a 56 percent increase from the previous month. The increase comes amid ongoing concerns about shipping security in the Strait of Hormuz.",
+        "time": "10:47",
+        "ts": 1789037255
       }
     ],
     "language": "en",
-    "packId": "20260910-50",
-    "sequence": 50,
+    "packId": "20260910-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:45"
+    "updatedAt": "10:48"
   },
   "verified": true
 }
