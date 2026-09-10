@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-98 seq=98 exp=1789231862",
+      "advancedStatus": "pack_id=20260910-99 seq=99 exp=1789231959",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:51",
+      "lastChecked": "16:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 16:51",
+    "expiresAt": "2026-09-12 16:52",
     "items": [
       {
         "channel": "iranintl",
@@ -1036,14 +1036,21 @@
         "text": "An army aviation soldier reports insufficient salary and fear of execution if protesting. A judiciary employee is ill but cannot afford treatment. Economic difficulties include drug shortages and inability to pay student tuition.",
         "time": "16:50",
         "ts": 1789059039
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abdolnaser Hemmati, the Central Bank governor, called the US sanctions and economic pressure a miscalculation. He said these pressures increase the costs for the US. Hemmati added that US actions have mainly involved income and trade restrictions and temporary impacts on markets.",
+        "time": "16:52",
+        "ts": 1789059127
       }
     ],
     "language": "en",
-    "packId": "20260910-98",
-    "sequence": 98,
+    "packId": "20260910-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:51"
+    "updatedAt": "16:52"
   },
   "verified": true
 }
