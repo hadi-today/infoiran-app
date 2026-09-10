@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260910-74 seq=74 exp=1789218987",
+      "advancedStatus": "pack_id=20260910-75 seq=75 exp=1789219173",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:16",
+      "lastChecked": "13:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-10",
-    "expiresAt": "2026-09-12 13:16",
+    "expiresAt": "2026-09-12 13:19",
     "items": [
       {
         "channel": "iranintl",
@@ -1057,14 +1057,21 @@
         "text": "A father sent a voice message to Iran International discussing the high cost of school supplies for his daughter. He mentioned financial difficulties related to this issue. This has raised concerns about the expenses of education.",
         "time": "13:16",
         "ts": 1789046161
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Instagram page of Samaneh Assaran, mother of Kiawash Mirghasemi, was blocked and taken over by Iranian security agencies. All previous posts were deleted, leaving only one judicial post on the page. This action follows ongoing pressures and arrests of families seeking justice.",
+        "time": "13:19",
+        "ts": 1789046347
       }
     ],
     "language": "en",
-    "packId": "20260910-74",
-    "sequence": 74,
+    "packId": "20260910-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:16"
+    "updatedAt": "13:19"
   },
   "verified": true
 }
