@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-33 seq=33 exp=1789293818",
+      "advancedStatus": "pack_id=20260911-34 seq=34 exp=1789294630",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:03",
+      "lastChecked": "10:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,36 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 10:03",
+    "expiresAt": "2026-09-13 10:17",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The Russian Caravanserai, a historic building in Sabzevar, was demolished by the municipality. The building was recognized as a historic site in official maps and efforts were made to register it nationally. The demolition is being pursued through judicial authorities.",
-        "time": "10:04",
-        "ts": 1789034692
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Iranian Football League Organization announced that four matches of the seventh week of the Premier League have been postponed due to the presence of players in the national youth team camp. The matches Zob Ahan - Sepahan, Kheybar - Persepolis, Malavan - Foolad, and Fajr Sepasi - Aluminium will not be held. The new dates for these matches will be announced later.",
-        "time": "10:06",
-        "ts": 1789034783
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Hossein Ghazizadeh stated that the Islamic Republic has deployed military and security forces in schools. This move is to use schools as a protective layer for their forces. There are also reports of attempts to permanently seize some schools.",
-        "time": "10:07",
-        "ts": 1789034862
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "People report becoming angry more quickly and having less tolerance than before. The poor economic and social conditions have negatively affected people's mental health. Additionally, the price of Depakine, a medication for nerves, has significantly increased.",
-        "time": "10:13",
-        "ts": 1789035210
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +882,21 @@
         "text": "Ali Shirazi, quoting Masoud Pezeshkian, stated that the continuation of the war has led to a deadlock in providing basic needs for people and paying government employees and retirees. Pezeshkian believes that prolonging the war weakens the Islamic Republic's position in negotiations with the US.",
         "time": "10:03",
         "ts": 1789120988
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Nasir Hosseini, the Friday prayer leader of Yasuj, stated that Mojtaba Khamenei is in full health and works more than 10 hours daily. He also claimed that Mojtaba Khamenei attended the funeral ceremony of the martyred leader in Mashhad. These statements come despite no images or audio files of Mojtaba Khamenei being released since Ali Khamenei's death.",
+        "time": "10:16",
+        "ts": 1789121805
       }
     ],
     "language": "en",
-    "packId": "20260911-33",
-    "sequence": 33,
+    "packId": "20260911-34",
+    "sequence": 34,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:03"
+    "updatedAt": "10:17"
   },
   "verified": true
 }
