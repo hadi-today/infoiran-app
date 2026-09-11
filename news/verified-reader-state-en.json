@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-03 seq=3 exp=1789268533",
+      "advancedStatus": "pack_id=20260911-04 seq=4 exp=1789271865",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:02",
+      "lastChecked": "03:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 03:02",
+    "expiresAt": "2026-09-13 03:57",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump warned the Islamic Republic about activities at Kuh-e Kalanq Gezla and said Iran should not have nuclear weapons. He emphasized that Iran cannot have nuclear weapons and criticized past efforts to negotiate with Iran. Trump also mentioned the possibility of targeting these facilities.",
-        "time": "03:06",
-        "ts": 1789009596
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Trump reported observing 'movements' in Mount Klang-gazla and warned the Islamic Republic of Iran: 'I advise Iran not to play smart, because we will have to attack it very hard.'",
-        "time": "03:30",
-        "ts": 1789011032
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -945,14 +931,21 @@
         "text": "Vladimir Putin arrived in Delhi to attend the two-day BRICS summit. Leaders from Russia, China, Iran, and India are present, with meetings planned. The Iran war and the Ukraine crisis are key topics of discussion.",
         "time": "03:01",
         "ts": 1789095704
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump predicted that after the US victory in the war with the Iranian government, gasoline prices would drop below two dollars per gallon. He forecasted the war would end shortly after the midterm elections. Trump emphasized that the Islamic Republic will never have nuclear weapons and preventing this is more important than the economic consequences of the war.",
+        "time": "03:57",
+        "ts": 1789099040
       }
     ],
     "language": "en",
-    "packId": "20260911-03",
-    "sequence": 3,
+    "packId": "20260911-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:02"
+    "updatedAt": "03:57"
   },
   "verified": true
 }
