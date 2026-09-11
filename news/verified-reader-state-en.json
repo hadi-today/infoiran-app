@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-92 seq=92 exp=1789325347",
+      "advancedStatus": "pack_id=20260911-93 seq=93 exp=1789326119",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:49",
+      "lastChecked": "19:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 18:49",
+    "expiresAt": "2026-09-13 19:01",
     "items": [
       {
         "channel": "harana",
@@ -826,14 +826,21 @@
         "text": "Daily wage workers of Bampur municipality reported non-payment of about six months' wages and non-deposit of insurance for the past year. Municipality officials have threatened workers with dismissal if they protest the situation.",
         "time": "18:48",
         "ts": 1789152516
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen posted a video showing a queue of heavy vehicles at the Chabahar cargo terminal. He says the 250-liter gasoline quota is sold for eight million tomans. Also, they have to wait in line for hours to get the quota.",
+        "time": "19:01",
+        "ts": 1789153290
       }
     ],
     "language": "en",
-    "packId": "20260911-92",
-    "sequence": 92,
+    "packId": "20260911-93",
+    "sequence": 93,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:49"
+    "updatedAt": "19:01"
   },
   "verified": true
 }
