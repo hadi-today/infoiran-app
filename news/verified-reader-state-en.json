@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-04 seq=4 exp=1789271865",
+      "advancedStatus": "pack_id=20260911-05 seq=5 exp=1789272208",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:57",
+      "lastChecked": "04:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 03:57",
+    "expiresAt": "2026-09-13 04:03",
     "items": [
       {
         "channel": "iranintl",
@@ -938,14 +938,21 @@
         "text": "Donald Trump predicted that after the US victory in the war with the Iranian government, gasoline prices would drop below two dollars per gallon. He forecasted the war would end shortly after the midterm elections. Trump emphasized that the Islamic Republic will never have nuclear weapons and preventing this is more important than the economic consequences of the war.",
         "time": "03:57",
         "ts": 1789099040
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Agence France-Presse reported satellite images showing possible oil slicks near the Strait of Hormuz following US attacks on suspected IRGC-linked tankers. These slicks were observed about 20 kilometers off the Iranian coast and east of the Strait of Hormuz. The US military had previously announced the destruction of five tankers in the Sea of Oman.",
+        "time": "04:03",
+        "ts": 1789099386
       }
     ],
     "language": "en",
-    "packId": "20260911-04",
-    "sequence": 4,
+    "packId": "20260911-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:57"
+    "updatedAt": "04:03"
   },
   "verified": true
 }
