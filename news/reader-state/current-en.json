@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-68 seq=68 exp=1789308883",
+      "advancedStatus": "pack_id=20260911-69 seq=69 exp=1789309055",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:14",
+      "lastChecked": "14:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 14:14",
+    "expiresAt": "2026-09-13 14:17",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Houshang Sohrabi, the 45-year-old brother of missing Yasin Sohrabi, died of cardiac arrest due to psychological pressure on September 3. The mother is reported to be in poor mental condition after his death. More details were provided by Farnoush Faraji.",
-        "time": "14:15",
-        "ts": 1789049756
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Meysam Zolqi, head of the Construction Workers' Association, criticized the lack of sufficient supervision over old and non-standard scaffolding. He stated that a significant portion of fatal accidents is caused by the use of old and unsafe scaffolding. He called for banning the use of worn-out scaffolding and increasing field inspections.",
-        "time": "14:16",
-        "ts": 1789049806
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The mother of Parnian Dabiri, a protester killed in December 2025, joined the \"One Candle, One Name, One Memory\" campaign. She said her daughter lives on in her heart and mind and expressed pride in her. The mother described Parnian as a calm and brave girl whose life was taken.",
-        "time": "14:17",
-        "ts": 1789049825
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -875,14 +854,21 @@
         "text": "Nasimeh Eslamzahi, a Sunni political prisoner, was sentenced to 25 years in prison by Branch 15 of Tehran Revolutionary Court. The sentence was issued on charges of assisting in the crime of rebellion. Her husband and another defendant in the case had previously been sentenced to death and the sentences were carried out.",
         "time": "14:13",
         "ts": 1789136023
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A Houthi fighter announced the capture of the port of Al-Mokha on the Red Sea coast in western Yemen. He stated that Saleh's forces have fled and the Houthis are advancing towards the Bab al-Mandab area. These images were released on Thursday and Friday, coinciding with the Houthis' advance along Yemen's western coast.",
+        "time": "14:17",
+        "ts": 1789136234
       }
     ],
     "language": "en",
-    "packId": "20260911-68",
-    "sequence": 68,
+    "packId": "20260911-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:14"
+    "updatedAt": "14:17"
   },
   "verified": true
 }
