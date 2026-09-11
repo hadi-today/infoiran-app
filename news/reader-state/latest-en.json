@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-02 seq=2 exp=1789261980",
+      "advancedStatus": "pack_id=20260911-03 seq=3 exp=1789268533",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:13",
+      "lastChecked": "03:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 01:13",
+    "expiresAt": "2026-09-13 03:02",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reuters, citing a CBS reporter, reported that several US military aircraft were damaged in nighttime attacks on the Al-Salti airbase in Jordan. An A-10 Thunderbolt lost one of its wings, and about eight F-15s sustained minor damage but returned to service. The Islamic Republic announced that it had targeted the base with ballistic missiles.",
-        "time": "02:28",
-        "ts": 1789007280
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump said at a Republican gathering in Dallas that the war with the Islamic Republic will end shortly after the November 3 midterm elections. He added that Tehran wants a deal with the Democrats.",
-        "time": "02:51",
-        "ts": 1789008668
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump stated that the decision to attack Iran's nuclear facilities was made after receiving reports about Tehran's proximity to nuclear weapons. He said some officials wanted to delay the attack, but he opposed it. Trump also discussed the bomber operation and the possibility of attacking Kuh-e Kolang Gazla.",
-        "time": "03:00",
-        "ts": 1789009248
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -959,14 +938,21 @@
         "text": "The US Treasury Secretary announced that the Trump administration will sanction a major bank next Monday. The name of the bank and its country of operation were not disclosed. This action is part of the economic pressure campaign against the Islamic Republic.",
         "time": "01:12",
         "ts": 1789089157
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Vladimir Putin arrived in Delhi to attend the two-day BRICS summit. Leaders from Russia, China, Iran, and India are present, with meetings planned. The Iran war and the Ukraine crisis are key topics of discussion.",
+        "time": "03:01",
+        "ts": 1789095704
       }
     ],
     "language": "en",
-    "packId": "20260911-02",
-    "sequence": 2,
+    "packId": "20260911-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:13"
+    "updatedAt": "03:02"
   },
   "verified": true
 }
