@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-134 seq=134 exp=1789332350",
+      "advancedStatus": "pack_id=20260911-135 seq=135 exp=1789333104",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:45",
+      "lastChecked": "20:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 20:45",
+    "expiresAt": "2026-09-13 20:58",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Israeli Prime Minister announced the completion of the operation to destroy Hezbollah's tunnels and underground infrastructure in the Al-Taher mountain range. The Israeli army destroyed a network of underground paths over two kilometers long. These infrastructures were built over two decades with support from the Islamic Republic.",
-        "time": "20:52",
-        "ts": 1789073521
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1904,14 +1897,21 @@
         "text": "Mohsen Modir Shanechi said the US primarily uses economic and financial tools to besiege the Islamic Republic and employs military power if necessary. He identified inflation as a key indicator of the Islamic Republic's resilience. Rising dollar and essential goods prices indicate increasing pressure on Iran's economy.",
         "time": "20:45",
         "ts": 1789159521
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Omid Memarian stated that despite the growing Muslim population in the US, memories of the 9/11 attacks and wars with extremist groups have increased negative views of Islam. He added that generalizing extremist actions to all Muslims has played a significant role in this perception. This issue has intensified over the past 25 years.",
+        "time": "20:57",
+        "ts": 1789160275
       }
     ],
     "language": "en",
-    "packId": "20260911-134",
-    "sequence": 134,
+    "packId": "20260911-135",
+    "sequence": 135,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:45"
+    "updatedAt": "20:58"
   },
   "verified": true
 }
