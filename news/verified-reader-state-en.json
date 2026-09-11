@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-75 seq=75 exp=1789315985",
+      "advancedStatus": "pack_id=20260911-76 seq=76 exp=1789316277",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:13",
+      "lastChecked": "16:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 16:13",
+    "expiresAt": "2026-09-13 16:17",
     "items": [
       {
         "channel": "iranintl",
@@ -819,14 +819,21 @@
         "text": "The Houthis have gained control of the Bab al-Mandeb Strait, the Red Sea coasts, and three strategic Yemeni islands after a week of advances. Yemeni government sources stated that the group has full control over the Bab al-Mandeb area and the islands of Mayun, Greater Hanis, and Lesser Hanis. The Houthi military spokesperson announced that passage through Bab al-Mandeb is safe for all ships except Saudi vessels.",
         "time": "16:12",
         "ts": 1789143161
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A 50-year-old truck driver died in an accident while working at the Toghroljerd coal mine in Kouhbanan county.",
+        "time": "16:17",
+        "ts": 1789143447
       }
     ],
     "language": "en",
-    "packId": "20260911-75",
-    "sequence": 75,
+    "packId": "20260911-76",
+    "sequence": 76,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:13"
+    "updatedAt": "16:17"
   },
   "verified": true
 }
