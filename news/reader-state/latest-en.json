@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-101 seq=101 exp=1789327689",
+      "advancedStatus": "pack_id=20260911-102 seq=102 exp=1789327770",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:28",
+      "lastChecked": "19:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 19:28",
+    "expiresAt": "2026-09-13 19:29",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Drones recreated an image of the Twin Towers over New York Harbor on Wednesday, September 8. The display used 2,977 lights, representing the number of victims of the September 11 attacks. The lights first formed a spiral and then shaped the towers in their original dimensions against the city skyline.",
-        "time": "19:28",
-        "ts": 1789068529
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1022,14 +1015,35 @@
         "text": "Videos sent by citizens to Iran International show a missile passing over the skies of Abhar and Khomein in the early morning of September 8.",
         "time": "19:27",
         "ts": 1789154876
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Brent crude oil price reached 100 dollars per barrel for the first time since early August. This price increase occurred amid ongoing conflicts in the Persian Gulf. The US announced it destroyed five oil tankers linked to the Revolutionary Guard after unsuccessful missile attacks by Iran.",
+        "time": "19:28",
+        "ts": 1789154934
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Mohammad Bagher Ghalibaf, the Speaker of the Parliament, addressed the US Secretary of Defense on September 8 via a Telegram post. He stated that the next target is the US energy assets in the region. This message was shared on social media.",
+        "time": "19:28",
+        "ts": 1789154939
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "The Islamic Republic launched a missile attack on Jordan. This attack has increased concerns about the expansion of conflict in the region. Tehran's target was a base used by American forces in Jordan.",
+        "time": "19:29",
+        "ts": 1789154944
       }
     ],
     "language": "en",
-    "packId": "20260911-101",
-    "sequence": 101,
+    "packId": "20260911-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:28"
+    "updatedAt": "19:29"
   },
   "verified": true
 }
