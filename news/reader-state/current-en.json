@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-142 seq=142 exp=1789338342",
+      "advancedStatus": "pack_id=20260911-143 seq=143 exp=1789338483",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:25",
+      "lastChecked": "22:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 22:25",
+    "expiresAt": "2026-09-13 22:28",
     "items": [
       {
         "channel": "iranintl",
@@ -1890,14 +1890,21 @@
         "text": "Mohammad Qaedi said the Islamic Republic's goal in escalating tensions in the Strait of Hormuz and Bab al-Mandab is to pressure the global economy, especially the US economy. He added that the US prefers to focus on the Strait of Hormuz rather than directly engaging in battle with the Houthis. The US has delegated the main role in confronting the Houthis to Saudi Arabia.",
         "time": "22:25",
         "ts": 1789165514
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Moslehi stated that the reduction in Iran's oil loading does not mean definite exports, and the US naval blockade has created serious obstacles. He said the global oil market is not facing a physical shortage, and price increases are due to transportation and insurance risks. Saudi Arabia and other regional producers continue their exports.",
+        "time": "22:27",
+        "ts": 1789165651
       }
     ],
     "language": "en",
-    "packId": "20260911-142",
-    "sequence": 142,
+    "packId": "20260911-143",
+    "sequence": 143,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:25"
+    "updatedAt": "22:28"
   },
   "verified": true
 }
