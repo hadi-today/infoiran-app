@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-85 seq=85 exp=1789319881",
+      "advancedStatus": "pack_id=20260911-86 seq=86 exp=1789320753",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:18",
+      "lastChecked": "17:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,36 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 17:18",
+    "expiresAt": "2026-09-13 17:32",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Some contract workers at Iranshahr Municipality reported three months of unpaid wages and insurance. The head of the Kurdistan Islamic Labor Council also criticized the non-payment of overtime for workers in some units of the province.",
-        "time": "17:21",
-        "ts": 1789060905
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Pouya Bakhtiari's father congratulated his son's birthday from prison in an audio message. He mentioned that he has been deprived of visiting his son's grave for years. Pouya Bakhtiari was one of the victims of the nationwide protests in 2022.",
-        "time": "17:21",
-        "ts": 1789060916
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Wall Street Journal reported that the Islamic Republic has resumed ballistic missile production in underground facilities. These missiles are assembled using stored parts and in smaller quantities. Liquid-fueled missile assembly must be done shortly before launch.",
-        "time": "17:26",
-        "ts": 1789061208
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Esteghlal football team defeated Paykan in the seventh week of the Premier League with a goal by Yaser Asani. Asani's goal was scored in the 76th minute from a penalty. This victory ended Esteghlal's consecutive draws.",
-        "time": "17:30",
-        "ts": 1789061437
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -854,14 +826,21 @@
         "text": "The president of the 14th government, during his visit to India, acknowledged that US pressures on Iran have reached a 'difficult and dangerous' stage. He described the world as being at one of its 'most complex junctures' and called for 'operational cooperation' among BRICS member states.",
         "time": "17:17",
         "ts": 1789147048
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows that on Friday, 20 Shahrivar, at a gathering of Iranians living in Hanover, Germany, some supporters of Palestine were also present. Police formed a line between the two groups. This event took place at the gathering site.",
+        "time": "17:31",
+        "ts": 1789147914
       }
     ],
     "language": "en",
-    "packId": "20260911-85",
-    "sequence": 85,
+    "packId": "20260911-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:18"
+    "updatedAt": "17:32"
   },
   "verified": true
 }
