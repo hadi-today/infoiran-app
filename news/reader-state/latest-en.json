@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-137 seq=137 exp=1789336452",
+      "advancedStatus": "pack_id=20260911-138 seq=138 exp=1789336663",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:54",
+      "lastChecked": "21:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 21:54",
+    "expiresAt": "2026-09-13 21:57",
     "items": [
       {
         "channel": "iranintl",
@@ -1876,14 +1876,21 @@
         "text": "Erfan from Bandar Abbas stated that southern Iran is now like southern Lebanon. He mentioned that army units are also stationed in mosques. This report was broadcast in a program on Iran International TV.",
         "time": "21:53",
         "ts": 1789163624
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Taghavi commented on Esteghlal's victory over Paykan in the seventh week of the Premier League, saying Esteghlal did not perform well but had to win the match. He added that Esteghlal's defense line is disorganized and will face problems in Asian matches.",
+        "time": "21:57",
+        "ts": 1789163832
       }
     ],
     "language": "en",
-    "packId": "20260911-137",
-    "sequence": 137,
+    "packId": "20260911-138",
+    "sequence": 138,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:54"
+    "updatedAt": "21:57"
   },
   "verified": true
 }
