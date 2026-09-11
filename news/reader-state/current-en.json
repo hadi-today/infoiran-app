@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-147 seq=147 exp=1789340544",
+      "advancedStatus": "pack_id=20260911-148 seq=148 exp=1789342005",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:02",
+      "lastChecked": "23:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 23:02",
+    "expiresAt": "2026-09-13 23:26",
     "items": [
       {
         "channel": "iranintl",
@@ -1904,14 +1904,21 @@
         "text": "Kylian Mbappé criticized memes comparing him to dictators, calling such comparisons inaccurate. He understands the humorous aspect of these memes but believes they downplay serious issues. Mbappé expressed this in an interview with France Football.",
         "time": "23:01",
         "ts": 1789167718
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Sepahi, one of the December protesters, has been transferred from the general ward to solitary confinement in Dastgerd prison in Isfahan. There is a possibility that his death sentence will be carried out in the coming days. Mahmoudian stated that Sepahi and other defendants were tortured during detention and their confessions were extracted under pressure.",
+        "time": "23:26",
+        "ts": 1789169175
       }
     ],
     "language": "en",
-    "packId": "20260911-147",
-    "sequence": 147,
+    "packId": "20260911-148",
+    "sequence": 148,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:02"
+    "updatedAt": "23:26"
   },
   "verified": true
 }
