@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-36 seq=36 exp=1789295110",
+      "advancedStatus": "pack_id=20260911-37 seq=37 exp=1789295699",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:25",
+      "lastChecked": "10:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 10:25",
+    "expiresAt": "2026-09-13 10:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A protest rally was held in Rome in support of Taraneh and Romina Rahimi, two 19-year-old Iranian sisters sentenced to death and 25 years in prison. Representatives from the 'Moderates' party and other members of the Italian parliament called for an end to executions and torture of political prisoners in Iran. The main slogan of the rally was 'Freedom is not hanged.'",
-        "time": "10:25",
-        "ts": 1789035920
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Military sources from the Yemeni government say that the Houthis, supported by the Islamic Republic, are trying to strengthen their position near the strategic Bab al-Mandab Strait. Reuters, citing four military sources, reported that the Houthis have nearly full control over coastal areas including the ports of Mocha and Dhubab. More details were provided by an Iran International reporter.",
-        "time": "10:30",
-        "ts": 1789036234
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A sick citizen told Iran International in a video that the pharmacy official said the increase in gasoline prices caused the rise in drug prices. This issue was mentioned as the reason for the increased cost of medicine. This statement was made by the pharmacy official.",
-        "time": "10:31",
-        "ts": 1789036317
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -903,14 +882,21 @@
         "text": "The Swedish Ministry of Justice stated that the Islamic Republic has conducted activities over several years that threaten Sweden's security. The Swedish security service said Iran uses criminal networks in Sweden for violent actions. These actions target governments, groups, or individuals considered threats by the Islamic Republic.",
         "time": "10:24",
         "ts": 1789122280
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The mother of Mahdi Ranjbari joined the 'One Candle, One Name, One Memory' campaign. She said her son was wounded by three bullets in Tehranpars on January 8, 2026, and died after ten days in the hospital.",
+        "time": "10:34",
+        "ts": 1789122855
       }
     ],
     "language": "en",
-    "packId": "20260911-36",
-    "sequence": 36,
+    "packId": "20260911-37",
+    "sequence": 37,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:25"
+    "updatedAt": "10:34"
   },
   "verified": true
 }
