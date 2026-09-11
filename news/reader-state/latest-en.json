@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-144 seq=144 exp=1789338584",
+      "advancedStatus": "pack_id=20260911-145 seq=145 exp=1789338673",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:29",
+      "lastChecked": "22:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 22:29",
+    "expiresAt": "2026-09-13 22:31",
     "items": [
       {
         "channel": "iranintl",
@@ -1897,14 +1897,21 @@
         "text": "New Delhi will host the 18th BRICS summit starting September 12. Leaders of emerging economic powers will discuss Middle East crises, the Ukraine war, and reforms in the global financial system during the two-day meeting. Multilateral trade development is also on the agenda.",
         "time": "22:29",
         "ts": 1789165757
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "On the 25th anniversary of the 9/11 terrorist attacks, a ceremony was held at the 9/11 memorial in Los Angeles. The victims of the attacks and fallen first responders were commemorated.",
+        "time": "22:30",
+        "ts": 1789165847
       }
     ],
     "language": "en",
-    "packId": "20260911-144",
-    "sequence": 144,
+    "packId": "20260911-145",
+    "sequence": 145,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:29"
+    "updatedAt": "22:31"
   },
   "verified": true
 }
