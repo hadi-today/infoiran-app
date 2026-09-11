@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-58 seq=58 exp=1789305444",
+      "advancedStatus": "pack_id=20260911-59 seq=59 exp=1789305536",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:17",
+      "lastChecked": "13:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 13:17",
+    "expiresAt": "2026-09-13 13:18",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,21 @@
         "text": "Israeli army radio announced that after completing the operation to destroy Hezbollah tunnels, Israeli forces have left the Ali al-Taher heights. The forces have moved to rear positions. Israel still maintains fire control over the area.",
         "time": "13:16",
         "ts": 1789132562
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Soda Ebrahimi Shamsabadi, a 32-year-old political prisoner in Bandar Abbas prison, has been sentenced to death for corruption on earth. She was also sentenced to confiscation of all property and dismissal from public service. The charges include insulting the leadership, media activities against national security, and cooperating with hostile governments.",
+        "time": "13:18",
+        "ts": 1789132715
       }
     ],
     "language": "en",
-    "packId": "20260911-58",
-    "sequence": 58,
+    "packId": "20260911-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:17"
+    "updatedAt": "13:18"
   },
   "verified": true
 }
