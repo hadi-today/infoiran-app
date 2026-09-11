@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-37 seq=37 exp=1789295699",
+      "advancedStatus": "pack_id=20260911-38 seq=38 exp=1789296057",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:34",
+      "lastChecked": "10:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 10:34",
+    "expiresAt": "2026-09-13 10:40",
     "items": [
       {
         "channel": "harana",
@@ -889,14 +889,21 @@
         "text": "The mother of Mahdi Ranjbari joined the 'One Candle, One Name, One Memory' campaign. She said her son was wounded by three bullets in Tehranpars on January 8, 2026, and died after ten days in the hospital.",
         "time": "10:34",
         "ts": 1789122855
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Wrestling Federation of the Islamic Republic was exempted from providing technical and financial qualification certificates for registering exploratory areas and participating in mining auctions. The Supreme Mining Council cited war damage compensation and support for sports and cultural activities as reasons for this decision. This news was reported in an interview with Mehdi Rostampour.",
+        "time": "10:40",
+        "ts": 1789123229
       }
     ],
     "language": "en",
-    "packId": "20260911-37",
-    "sequence": 37,
+    "packId": "20260911-38",
+    "sequence": 38,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:34"
+    "updatedAt": "10:40"
   },
   "verified": true
 }
