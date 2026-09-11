@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-31 seq=31 exp=1789292685",
+      "advancedStatus": "pack_id=20260911-32 seq=32 exp=1789293230",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:44",
+      "lastChecked": "09:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 09:44",
+    "expiresAt": "2026-09-13 09:53",
     "items": [
       {
         "channel": "iranintl",
@@ -903,14 +903,21 @@
         "text": "Abbas Goudarzi, spokesperson for the parliament's presidium, denied a 50% increase in MPs' salaries. He stated that MPs have received the salary increase approved in the budget law like other employees, with no additional increase currently. Goudarzi also mentioned the enemy's efforts to create division between the people and officials.",
         "time": "09:44",
         "ts": 1789119863
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amir Mahdi Alavi, the spokesperson of the Football Federation, explained recent controversies including the clash between Khodadad Azizi and Omid Alishah, the postponement of the Persepolis match, and the status of holding matches. He stated that the federation president has declared that matches without spectators are prohibited and all games must be held with spectators. The postponement of matches was due to requests from some clubs and approved by the league organization.",
+        "time": "09:53",
+        "ts": 1789120400
       }
     ],
     "language": "en",
-    "packId": "20260911-31",
-    "sequence": 31,
+    "packId": "20260911-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:44"
+    "updatedAt": "09:53"
   },
   "verified": true
 }
