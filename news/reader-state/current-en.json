@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-106 seq=106 exp=1789328108",
+      "advancedStatus": "pack_id=20260911-107 seq=107 exp=1789328195",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:35",
+      "lastChecked": "19:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 19:35",
+    "expiresAt": "2026-09-13 19:36",
     "items": [
       {
         "channel": "iranintl",
@@ -1155,14 +1155,42 @@
         "text": "Marco Rubio, US Secretary of State, described the Houthis as Iran's proxy forces and stated that Washington is closely monitoring the group's activities and the Islamic Republic's role in regional affairs.",
         "time": "19:34",
         "ts": 1789155287
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Esmail Baghai, spokesperson for the Ministry of Foreign Affairs, stated that the Strait of Hormuz is under full control of the Islamic Republic's armed forces. He mentioned that after the Islamabad agreement, the security situation improved but the US violated the agreement. Additionally, negotiations between the Islamic Republic and Oman regarding the Strait of Hormuz are ongoing.",
+        "time": "19:35",
+        "ts": 1789155353
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Alireza Salimi, a member of the parliament's presidium, stated that the way to confront Israel is through resistance and a strong response. He criticized the Lebanese government's approach towards Israel, calling it a black mark on its political record. Salimi also emphasized that the Islamic Republic has always supported the resistance and will continue to do so.",
+        "time": "19:36",
+        "ts": 1789155361
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Sadegh Beigdeli stated that the sanctions on 27 Iranian airlines and the network related to Mahan Air make the transfer of sensitive equipment, financial resources, and personnel by the Islamic Republic more difficult and costly. He added that simultaneous pressure on air and sea routes forces Tehran to use land routes more extensively. These routes are slower, more expensive, and have limited capacity.",
+        "time": "19:36",
+        "ts": 1789155366
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Erfan Ghaneifard, a Middle East analyst, told Iran International that US intelligence and security cooperation with regional countries has entered a broad phase. He also believes that the expansion of the war by Tehran could lead to the formation of a regional coalition against the Islamic Republic.",
+        "time": "19:36",
+        "ts": 1789155388
       }
     ],
     "language": "en",
-    "packId": "20260911-106",
-    "sequence": 106,
+    "packId": "20260911-107",
+    "sequence": 107,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:35"
+    "updatedAt": "19:36"
   },
   "verified": true
 }
