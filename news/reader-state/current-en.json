@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-45 seq=45 exp=1789298995",
+      "advancedStatus": "pack_id=20260911-46 seq=46 exp=1789299315",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:29",
+      "lastChecked": "11:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 11:29",
+    "expiresAt": "2026-09-13 11:35",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "Dozens of students at Birjand University who participated in the December 2025 protests have faced confrontation, summons, and expulsion. The protests began on December 3rd in South Khorasan and spread to six counties. Seba Heydarkhani has explained these protests and their suppression.",
         "time": "11:29",
         "ts": 1789126162
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "On September 9, a citizen sent a video to Iran International criticizing the rising cost of medicine. Despite some items being covered by insurance, expenses continue to increase. Due to the heart disease of the family head, this person has taken on financial responsibilities and works from home.",
+        "time": "11:34",
+        "ts": 1789126478
       }
     ],
     "language": "en",
-    "packId": "20260911-45",
-    "sequence": 45,
+    "packId": "20260911-46",
+    "sequence": 46,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:29"
+    "updatedAt": "11:35"
   },
   "verified": true
 }
