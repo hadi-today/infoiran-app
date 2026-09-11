@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-93 seq=93 exp=1789326119",
+      "advancedStatus": "pack_id=20260911-94 seq=94 exp=1789326566",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:01",
+      "lastChecked": "19:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 19:01",
+    "expiresAt": "2026-09-13 19:09",
     "items": [
       {
         "channel": "harana",
@@ -833,14 +833,21 @@
         "text": "A citizen posted a video showing a queue of heavy vehicles at the Chabahar cargo terminal. He says the 250-liter gasoline quota is sold for eight million tomans. Also, they have to wait in line for hours to get the quota.",
         "time": "19:01",
         "ts": 1789153290
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hadi Choopan, former Mr. Olympia champion, said in a video interview that he tried for 10 years to help Hani Rambod grow. He added that he never thought the day would come when Hani Rambod would be the reason for his downfall.",
+        "time": "19:08",
+        "ts": 1789153737
       }
     ],
     "language": "en",
-    "packId": "20260911-93",
-    "sequence": 93,
+    "packId": "20260911-94",
+    "sequence": 94,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:01"
+    "updatedAt": "19:09"
   },
   "verified": true
 }
