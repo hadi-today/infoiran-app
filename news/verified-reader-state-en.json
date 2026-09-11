@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-129 seq=129 exp=1789330119",
+      "advancedStatus": "pack_id=20260911-130 seq=130 exp=1789330209",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:08",
+      "lastChecked": "20:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 20:08",
+    "expiresAt": "2026-09-13 20:10",
     "items": [
       {
         "channel": "iranintl",
@@ -1820,14 +1820,35 @@
         "text": "The UK government issued a new law on September 7 to intensify sanctions against the Islamic Republic. The law expands trade restrictions and the authority to target ships. It also bans Iranian planes from landing in the UK except in exempted cases.",
         "time": "20:08",
         "ts": 1789157309
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "A citizen protested the increase in gasoline prices in a video. He said that Pezeshkian had stated that permission would be obtained from the people for the price hike, but no such permission was taken. He also mentioned that the price of motor oil has increased by 50 percent.",
+        "time": "20:08",
+        "ts": 1789157336
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Israel hosted the first international physical artificial intelligence conference in Tel Aviv. The conference was held in cooperation with the National AI Headquarters at the Israeli Prime Minister's Office. It focused on the connection between artificial intelligence, robotics, and autonomous systems.",
+        "time": "20:09",
+        "ts": 1789157341
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Masoud Pezeshkian stated that the Islamic Republic has always opposed war and considers preserving people's interests and regional security by avoiding arson. He added that the Islamic Republic has resisted aggression and will continue this resistance until the aggressors fully regret it.",
+        "time": "20:09",
+        "ts": 1789157398
       }
     ],
     "language": "en",
-    "packId": "20260911-129",
-    "sequence": 129,
+    "packId": "20260911-130",
+    "sequence": 130,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:08"
+    "updatedAt": "20:10"
   },
   "verified": true
 }
