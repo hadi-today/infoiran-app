@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-79 seq=79 exp=1789317264",
+      "advancedStatus": "pack_id=20260911-80 seq=80 exp=1789317437",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:34",
+      "lastChecked": "16:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 16:34",
+    "expiresAt": "2026-09-13 16:37",
     "items": [
       {
         "channel": "iranintl",
@@ -840,14 +840,21 @@
         "text": "A video shows heavy vehicles in Karaj standing in a long queue to receive diesel fuel. The video was received by Iran International. The queue situation in Karaj is depicted.",
         "time": "16:33",
         "ts": 1789144435
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Narendra Modi, the Prime Minister of India, met and talked with Masoud Pezeshkian, the head of the Islamic Republic government, on Friday, 20 Shahrivar, in Delhi. The meeting took place on the sidelines of the annual BRICS member countries summit. The topics discussed in the meeting were not disclosed.",
+        "time": "16:36",
+        "ts": 1789144612
       }
     ],
     "language": "en",
-    "packId": "20260911-79",
-    "sequence": 79,
+    "packId": "20260911-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:34"
+    "updatedAt": "16:37"
   },
   "verified": true
 }
