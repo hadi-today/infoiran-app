@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-140 seq=140 exp=1789337773",
+      "advancedStatus": "pack_id=20260911-141 seq=141 exp=1789338233",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:16",
+      "lastChecked": "22:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 22:16",
+    "expiresAt": "2026-09-13 22:23",
     "items": [
       {
         "channel": "iranintl",
@@ -1876,14 +1876,21 @@
         "text": "The CENTCOM commander has traveled to Saudi Arabia for urgent talks. Concerns have increased about the opening of a new front in the battle with the Houthis. American forces are monitoring the Islamic Republic's activities supporting Houthi attacks.",
         "time": "22:15",
         "ts": 1789164944
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The crew of the American aircraft carrier USS George Washington is preparing for battle with the Islamic Republic. This ship has been dispatched to replace the USS Abraham Lincoln. Both carriers have been deployed to strengthen the US naval blockade in the Middle East.",
+        "time": "22:23",
+        "ts": 1789165407
       }
     ],
     "language": "en",
-    "packId": "20260911-140",
-    "sequence": 140,
+    "packId": "20260911-141",
+    "sequence": 141,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:16"
+    "updatedAt": "22:23"
   },
   "verified": true
 }
