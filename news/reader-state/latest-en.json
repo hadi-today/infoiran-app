@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-05 seq=5 exp=1789272208",
+      "advancedStatus": "pack_id=20260911-06 seq=6 exp=1789273449",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:03",
+      "lastChecked": "04:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 04:03",
+    "expiresAt": "2026-09-13 04:24",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,21 @@
         "text": "Agence France-Presse reported satellite images showing possible oil slicks near the Strait of Hormuz following US attacks on suspected IRGC-linked tankers. These slicks were observed about 20 kilometers off the Iranian coast and east of the Strait of Hormuz. The US military had previously announced the destruction of five tankers in the Sea of Oman.",
         "time": "04:03",
         "ts": 1789099386
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Hang Cao, the acting head of the US Department of the Navy, told The Epoch Times that Islamic Republic forces have caused extensive damage to the US Navy support base in Bahrain, the home of the Fifth Fleet. Cao added that the damage has affected the ability to support the aircraft carrier USS Abraham Lincoln and the logistical requirements of long-term operations, and said that the carrier’s crew had nowhere to dock.",
+        "time": "04:23",
+        "ts": 1789100622
       }
     ],
     "language": "en",
-    "packId": "20260911-05",
-    "sequence": 5,
+    "packId": "20260911-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:03"
+    "updatedAt": "04:24"
   },
   "verified": true
 }
