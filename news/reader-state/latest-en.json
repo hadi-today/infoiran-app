@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-48 seq=48 exp=1789300193",
+      "advancedStatus": "pack_id=20260911-49 seq=49 exp=1789300348",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:49",
+      "lastChecked": "11:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 11:49",
+    "expiresAt": "2026-09-13 11:52",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "Nima Dadgostar from Iran International referred to a report showing that Iranian institutions use the 'Claude' model for propaganda, citizen surveillance, and identifying US military targets. Part of this usage is due to the regime's technical and economic incapacity. Some institutions use 'Claude' instead of an engineering team to develop malware and surveillance tools.",
         "time": "11:48",
         "ts": 1789127333
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fathollah Tavassoli, a member of parliament, demanded that Ahmad Donyamali, the Minister of Sports and Youth, explain his daughter's residence and activities in the UK. Tavassoli also announced that the number of signatures for the minister's impeachment has reached 43. He accused the minister of trying to prevent the impeachment process.",
+        "time": "11:52",
+        "ts": 1789127523
       }
     ],
     "language": "en",
-    "packId": "20260911-48",
-    "sequence": 48,
+    "packId": "20260911-49",
+    "sequence": 49,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:49"
+    "updatedAt": "11:52"
   },
   "verified": true
 }
