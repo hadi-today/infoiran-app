@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-17 seq=17 exp=1789284417",
+      "advancedStatus": "pack_id=20260911-18 seq=18 exp=1789284816",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:26",
+      "lastChecked": "07:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 07:26",
+    "expiresAt": "2026-09-13 07:33",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "Anthropic AI company has blocked three accounts linked to Iranian regime's advertising entities. These accounts used the 'Claude' model for influence campaigns and cognitive warfare. An interview with Kambiz Tavana was conducted by Iran International.",
         "time": "07:26",
         "ts": 1789111590
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amir Hayat-Moghadam announced that the American naval blockade will be broken soon. The Islamic Republic's armed forces are pursuing a new approach to counter the presence of Americans in the region. The armed forces' strategy has shifted towards a deterrent and offensive response.",
+        "time": "07:33",
+        "ts": 1789111982
       }
     ],
     "language": "en",
-    "packId": "20260911-17",
-    "sequence": 17,
+    "packId": "20260911-18",
+    "sequence": 18,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:26"
+    "updatedAt": "07:33"
   },
   "verified": true
 }
