@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-01 seq=1 exp=1789258057",
+      "advancedStatus": "pack_id=20260911-02 seq=2 exp=1789261980",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:07",
+      "lastChecked": "01:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 00:07",
+    "expiresAt": "2026-09-13 01:13",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Islamic Republic used missiles equipped with electro-optical guidance systems for the first time in attacks on US warships on Wednesday, September 8. CENTCOM confirmed the missile attacks but stated that no ships were hit. The Revolutionary Guards claimed to have targeted two American vessels and several tankers and ships.",
-        "time": "00:36",
-        "ts": 1789000560
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Wall Street Journal, quoting American officials, reported that senior White House advisors have discussed with President Donald Trump the possibility of the war with the Islamic Republic continuing until the end of his presidency and even beyond January 2029. According to the report, JD Vance, the US Vice President, Marco Rubio, the US Secretary of State, and other officials discussed the possibility of Tehran continuing its resistance against military siege and pressures. This assessment differs from Trump's public statements, where he said the war would end \"immediately\" after the November midterm elections.",
-        "time": "01:04",
-        "ts": 1789002284
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Saudi-led coalition announced that the Houthis targeted the cities of Khamis Mushait, Abha, and Jazan with ballistic missiles and drones on Wednesday, September 8. The coalition spokesperson stated that their response to these attacks will be within the framework of the right to self-defense. Additionally, Saudi Arabia has asked Iran through Pakistan to influence the Houthis to stop the attacks, but Tehran said it does not control the Houthis.",
-        "time": "01:08",
-        "ts": 1789002506
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -973,14 +952,21 @@
         "text": "CNN reported, citing five sources, that over 100 US military advisers in Saudi Arabia are providing intelligence and targeting support to the country. These forces operate within a newly established joint command, formed following signs of increased Iranian assistance to Houthi attacks against Saudi Arabia. A US official stated the number of these forces is around 200.",
         "time": "00:07",
         "ts": 1789085230
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US Treasury Secretary announced that the Trump administration will sanction a major bank next Monday. The name of the bank and its country of operation were not disclosed. This action is part of the economic pressure campaign against the Islamic Republic.",
+        "time": "01:12",
+        "ts": 1789089157
       }
     ],
     "language": "en",
-    "packId": "20260911-01",
-    "sequence": 1,
+    "packId": "20260911-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:07"
+    "updatedAt": "01:13"
   },
   "verified": true
 }
