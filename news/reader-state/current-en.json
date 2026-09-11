@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-145 seq=145 exp=1789338673",
+      "advancedStatus": "pack_id=20260911-146 seq=146 exp=1789340258",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:31",
+      "lastChecked": "22:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 22:31",
+    "expiresAt": "2026-09-13 22:57",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Negin from Hamedan reported that during the Mahsa movement, a Sepahi kicked a 13-year-old girl in the stomach in front of her eyes. After this incident, she removed her hijab. This report was aired in a program from Iran International.",
-        "time": "22:40",
-        "ts": 1789080003
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reuters reported that attacks by the Islamic Republic damaged several US military aircraft at the Muwaffaq Salti Air Base in Jordan. Donald Trump denied these reports, stating no damage occurred. The Jordanian army said 20 ballistic missiles were fired, most of which were intercepted, with no casualties.",
-        "time": "22:49",
-        "ts": 1789080589
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1904,14 +1890,21 @@
         "text": "On the 25th anniversary of the 9/11 terrorist attacks, a ceremony was held at the 9/11 memorial in Los Angeles. The victims of the attacks and fallen first responders were commemorated.",
         "time": "22:30",
         "ts": 1789165847
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iraqi Prime Minister's office announced the dismissal of a military commander after investigations into drone attacks on Saudi Arabia. The investigation confirmed that the drones took off from Iraqi territory. The Prime Minister also ordered the formation of a committee to review the operations command in Maysan province.",
+        "time": "22:57",
+        "ts": 1789167430
       }
     ],
     "language": "en",
-    "packId": "20260911-145",
-    "sequence": 145,
+    "packId": "20260911-146",
+    "sequence": 146,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:31"
+    "updatedAt": "22:57"
   },
   "verified": true
 }
