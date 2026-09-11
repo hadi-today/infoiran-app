@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-56 seq=56 exp=1789305171",
+      "advancedStatus": "pack_id=20260911-57 seq=57 exp=1789305351",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:12",
+      "lastChecked": "13:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 13:12",
+    "expiresAt": "2026-09-13 13:15",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Alireza Salimi, a member of the parliament's board, called the Cabinet's opposition to the National Security Commission's report on the foreign infiltration countermeasure plan illegal. He emphasized that the plan belongs to the parliament and the government cannot act independently of it. Salimi also urged the government to focus on economic issues instead of political behavior.",
-        "time": "13:12",
-        "ts": 1789045979
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "Images show a large presence of military and plainclothes forces in various areas of Isfahan. Several citizens have been arrested. Streets are blocked and vehicles stopped.",
         "time": "13:12",
         "ts": 1789132336
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Bloomberg reported that Iran's crude oil and condensate loading decreased by about 74% in August, reaching 247,000 barrels per day. Iran's oil exports remain severely limited due to the US naval blockade. Iran's crude oil reserves have reached the highest level in several months.",
+        "time": "13:15",
+        "ts": 1789132519
       }
     ],
     "language": "en",
-    "packId": "20260911-56",
-    "sequence": 56,
+    "packId": "20260911-57",
+    "sequence": 57,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:12"
+    "updatedAt": "13:15"
   },
   "verified": true
 }
