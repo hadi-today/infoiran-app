@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-76 seq=76 exp=1789316277",
+      "advancedStatus": "pack_id=20260911-77 seq=77 exp=1789316641",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:17",
+      "lastChecked": "16:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 16:17",
+    "expiresAt": "2026-09-13 16:24",
     "items": [
       {
         "channel": "iranintl",
@@ -826,14 +826,21 @@
         "text": "A 50-year-old truck driver died in an accident while working at the Toghroljerd coal mine in Kouhbanan county.",
         "time": "16:17",
         "ts": 1789143447
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Saleheh Akbari, a nurse and rescue instructor, was shot and killed on the evening of January 12 in Ardabil. This happened during a security forces raid to arrest her husband. Farbod Sarvandi's report covers the life of this couple and their fate during the protests.",
+        "time": "16:23",
+        "ts": 1789143817
       }
     ],
     "language": "en",
-    "packId": "20260911-76",
-    "sequence": 76,
+    "packId": "20260911-77",
+    "sequence": 77,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:17"
+    "updatedAt": "16:24"
   },
   "verified": true
 }
