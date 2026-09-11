@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-98 seq=98 exp=1789327435",
+      "advancedStatus": "pack_id=20260911-99 seq=99 exp=1789327523",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:23",
+      "lastChecked": "19:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-11",
-    "expiresAt": "2026-09-13 19:23",
+    "expiresAt": "2026-09-13 19:25",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,28 @@
         "text": "The Iranian Foreign Ministry stated that the armed forces will respond decisively to any US aggression. This statement was issued after the US attacked several Iranian oil tankers on September 7. The ministry called these attacks a violation of international law and urged the UN Security Council to take action.",
         "time": "19:23",
         "ts": 1789154629
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "The Turkish Ministry of Foreign Affairs strongly condemned the recent Houthi attacks against Saudi Arabia. Ankara warned about the threat to civilians and called for an immediate halt to the Houthis' aggressive actions. These attacks have escalated regional tensions and undermined diplomatic efforts to end the conflict in Yemen.",
+        "time": "19:24",
+        "ts": 1789154655
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Two citizens commemorated the memory of the deceased in the December 2025 protests by lighting candles for Masoud Zatparvar and Esmail Beigi Harchgani. This was done by sending videos to Iran International. These individuals are recognized as martyrs.",
+        "time": "19:24",
+        "ts": 1789154661
       }
     ],
     "language": "en",
-    "packId": "20260911-98",
-    "sequence": 98,
+    "packId": "20260911-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:23"
+    "updatedAt": "19:25"
   },
   "verified": true
 }
