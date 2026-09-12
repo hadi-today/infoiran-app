@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-146 seq=146 exp=1789412399",
+      "advancedStatus": "pack_id=20260912-147 seq=147 exp=1789412686",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:59",
+      "lastChecked": "19:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 18:59",
+    "expiresAt": "2026-09-14 19:04",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen posted a video showing a queue of heavy vehicles at the Chabahar cargo terminal. He says the 250-liter gasoline quota is sold for eight million tomans. Also, they have to wait in line for hours to get the quota.",
-        "time": "19:01",
-        "ts": 1789153290
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -2695,14 +2688,21 @@
         "text": "Due to lack of workplace safety, two workers in Khondab and Bandar Mahshahr were involved in accidents. One worker died and another was injured. These incidents were reported to be caused by unsafe working conditions.",
         "time": "18:59",
         "ts": 1789239565
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The appeals court reduced the prison sentence of Ali Mokhtari, a researcher and PhD student in public law at Beheshti University, to six months. Four months of this sentence have been suspended. He was previously sentenced to 18 months in prison.",
+        "time": "19:04",
+        "ts": 1789239854
       }
     ],
     "language": "en",
-    "packId": "20260912-146",
-    "sequence": 146,
+    "packId": "20260912-147",
+    "sequence": 147,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:59"
+    "updatedAt": "19:04"
   },
   "verified": true
 }
