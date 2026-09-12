@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-160 seq=160 exp=1789426127",
+      "advancedStatus": "pack_id=20260912-161 seq=161 exp=1789426775",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:48",
+      "lastChecked": "22:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 22:48",
+    "expiresAt": "2026-09-14 22:59",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Iraqi Prime Minister's office announced the dismissal of a military commander after investigations into drone attacks on Saudi Arabia. The investigation confirmed that the drones took off from Iraqi territory. The Prime Minister also ordered the formation of a committee to review the operations command in Maysan province.",
-        "time": "22:57",
-        "ts": 1789167430
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -2226,14 +2219,21 @@
         "text": "Laleh Marzban won the Best Actress award in the Horizons section at the Venice International Film Festival. The film, directed by Mohsen Gharaei, tells the story of a girl who wants to travel to Turkey but is confined at home by her father. Marzban dedicated her award to Iranian women and urged people not to lose hope.",
         "time": "22:48",
         "ts": 1789253301
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Elena Rybakina defeated Aryna Sabalenka in the US Open final to win her third Grand Slam title. With this victory, she rose to the world number one ranking and ended Sabalenka's 20-match winning streak. Despite an ankle injury, Rybakina added the US Open trophy to her previous Australian Open and Wimbledon titles.",
+        "time": "22:59",
+        "ts": 1789253943
       }
     ],
     "language": "en",
-    "packId": "20260912-160",
-    "sequence": 160,
+    "packId": "20260912-161",
+    "sequence": 161,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:48"
+    "updatedAt": "22:59"
   },
   "verified": true
 }
