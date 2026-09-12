@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-02 seq=2 exp=1789350763",
+      "advancedStatus": "pack_id=20260912-03 seq=3 exp=1789351530",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:52",
+      "lastChecked": "02:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 01:52",
+    "expiresAt": "2026-09-14 02:05",
     "items": [
       {
         "channel": "iranintl",
@@ -1918,14 +1918,21 @@
         "text": "The office of Prince Reza Pahlavi warned about the possible execution of Alireza Sepahi, a December protester, after his transfer to solitary confinement. The office stated that the Islamic Republic repeatedly uses this process to reduce public sensitivity to the risk of execution. They called for increased attention to the fate of political prisoners.",
         "time": "01:52",
         "ts": 1789177936
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Wall Street Journal reported that Iran obtained high-resolution satellite images from Chinese entities before the deadly missile attack on a base in Jordan. China has denied this. The attack killed three American soldiers and wounded four others, and Iran also targeted manned and unmanned aircraft at the base.",
+        "time": "02:04",
+        "ts": 1789178699
       }
     ],
     "language": "en",
-    "packId": "20260912-02",
-    "sequence": 2,
+    "packId": "20260912-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:52"
+    "updatedAt": "02:05"
   },
   "verified": true
 }
