@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-35 seq=35 exp=1789381804",
+      "advancedStatus": "pack_id=20260912-36 seq=36 exp=1789382054",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:30",
+      "lastChecked": "10:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 10:30",
+    "expiresAt": "2026-09-14 10:34",
     "items": [
       {
         "channel": "iranintl",
@@ -1918,14 +1918,35 @@
         "text": "There is heavy congestion at the Bazargan border, causing long waits for Iranian travelers entering Turkey. Iranian officials have stated that the border is open. The main issue is increased traffic and limited capacity on the Turkish side.",
         "time": "10:28",
         "ts": 1789208934
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Quds Headquarters of the IRGC Ground Forces announced that three of their members were killed in a military clash with armed individuals in Saravan. Additionally, four unknown armed individuals were killed in the clash. This incident occurred before noon on Saturday.",
+        "time": "10:30",
+        "ts": 1789209046
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The director of the Compensation Fund for Bodily Injuries stated that over 20,000 people die annually in traffic accidents. Around 400,000 people are injured, with 70,000 to 80,000 suffering amputations or disabilities. Additionally, about 90% of gasoline motorcycles are worn out, and over 50% of motorcycle accidents result in death.",
+        "time": "10:32",
+        "ts": 1789209170
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen reported in a video to Iran International that a well-known dairy producer is underdelivering cheese despite price increases. This issue has raised concerns about the quality and quantity of dairy products.",
+        "time": "10:33",
+        "ts": 1789209209
       }
     ],
     "language": "en",
-    "packId": "20260912-35",
-    "sequence": 35,
+    "packId": "20260912-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:30"
+    "updatedAt": "10:34"
   },
   "verified": true
 }
