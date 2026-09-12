@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-137 seq=137 exp=1789408315",
+      "advancedStatus": "pack_id=20260912-138 seq=138 exp=1789408407",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:51",
+      "lastChecked": "17:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 17:51",
+    "expiresAt": "2026-09-14 17:53",
     "items": [
       {
         "channel": "harana",
@@ -2667,14 +2667,21 @@
         "text": "The American company Anthropic reported identifying abusive activities using its AI models. The report mentions the Islamic Republic of Iran and the Mojahedin-e Khalq Organization. This has sparked widespread reactions among Iranian users.",
         "time": "17:51",
         "ts": 1789235483
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Farzin Nadimi said the Houthi advance in Bab al-Mandab does not fundamentally change their ability to disrupt shipping. He considered the attack on the Saudi oil pipeline pump station a more significant development. This attack indicates the vulnerability of Saudi Arabia's energy infrastructure.",
+        "time": "17:52",
+        "ts": 1789235556
       }
     ],
     "language": "en",
-    "packId": "20260912-137",
-    "sequence": 137,
+    "packId": "20260912-138",
+    "sequence": 138,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:51"
+    "updatedAt": "17:53"
   },
   "verified": true
 }
