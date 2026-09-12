@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-87 seq=87 exp=1789398461",
+      "advancedStatus": "pack_id=20260912-88 seq=88 exp=1789398800",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:07",
+      "lastChecked": "15:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 15:07",
+    "expiresAt": "2026-09-14 15:13",
     "items": [
       {
         "channel": "iranintl",
@@ -2387,14 +2387,21 @@
         "text": "Donald Trump stated that the war with the Islamic Republic will end after the US midterm elections in November. He added that oil prices will decrease after the conflict ends. He also mentioned that Houthi forces in Yemen have said they do not want the US to directly enter the conflict.",
         "time": "15:07",
         "ts": 1789225628
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Gianni Infantino, FIFA president, announced his election slogan as \"Football belongs to everyone, everywhere in the world.\" He confirmed he will run in the March 2027 election. This announcement comes amid at least 25 countries withdrawing their support from him.",
+        "time": "15:12",
+        "ts": 1789225964
       }
     ],
     "language": "en",
-    "packId": "20260912-87",
-    "sequence": 87,
+    "packId": "20260912-88",
+    "sequence": 88,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:07"
+    "updatedAt": "15:13"
   },
   "verified": true
 }
