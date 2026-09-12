@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-86 seq=86 exp=1789398146",
+      "advancedStatus": "pack_id=20260912-87 seq=87 exp=1789398461",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:02",
+      "lastChecked": "15:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 15:02",
+    "expiresAt": "2026-09-14 15:07",
     "items": [
       {
         "channel": "iranintl",
@@ -2380,14 +2380,21 @@
         "text": "Masoud Pezeshkian, head of the Islamic Republic government, met with Sheikh Khalid bin Mohammed Al Nahyan, Crown Prince of Abu Dhabi, on the sidelines of the BRICS summit.",
         "time": "15:01",
         "ts": 1789225317
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump stated that the war with the Islamic Republic will end after the US midterm elections in November. He added that oil prices will decrease after the conflict ends. He also mentioned that Houthi forces in Yemen have said they do not want the US to directly enter the conflict.",
+        "time": "15:07",
+        "ts": 1789225628
       }
     ],
     "language": "en",
-    "packId": "20260912-86",
-    "sequence": 86,
+    "packId": "20260912-87",
+    "sequence": 87,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:02"
+    "updatedAt": "15:07"
   },
   "verified": true
 }
