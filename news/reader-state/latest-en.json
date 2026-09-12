@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-85 seq=85 exp=1789398010",
+      "advancedStatus": "pack_id=20260912-86 seq=86 exp=1789398146",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:00",
+      "lastChecked": "15:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 15:00",
+    "expiresAt": "2026-09-14 15:02",
     "items": [
       {
         "channel": "iranintl",
@@ -2373,14 +2373,21 @@
         "text": "Amir Ghalenoei has requested a monthly salary of 15 billion tomans to coach the national football team until the Asian Cup. This amount totals 90 billion tomans for six months. Fars News Agency has denied these reports, stating that no meeting about the salary has been held yet.",
         "time": "14:58",
         "ts": 1789225108
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Masoud Pezeshkian, head of the Islamic Republic government, met with Sheikh Khalid bin Mohammed Al Nahyan, Crown Prince of Abu Dhabi, on the sidelines of the BRICS summit.",
+        "time": "15:01",
+        "ts": 1789225317
       }
     ],
     "language": "en",
-    "packId": "20260912-85",
-    "sequence": 85,
+    "packId": "20260912-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:00"
+    "updatedAt": "15:02"
   },
   "verified": true
 }
