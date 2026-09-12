@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-07 seq=7 exp=1789361411",
+      "advancedStatus": "pack_id=20260912-08 seq=8 exp=1789363502",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:50",
+      "lastChecked": "05:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 04:50",
+    "expiresAt": "2026-09-14 05:25",
     "items": [
       {
         "channel": "iranintl",
@@ -1911,14 +1911,21 @@
         "text": "The deputy security official of Khuzestan province announced that the Shalamcheh and Chazabeh borders have been closed from early Saturday until further notice, with no movement of goods or passengers. This action was taken by Iraq following a drone attack on the Saudi oil pipeline. Iraqi forces have launched a wide operation to identify the perpetrators of the attack.",
         "time": "04:49",
         "ts": 1789188583
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Aghaei stated that the Islamic Republic has opened two fronts in the region by the Houthis' advance in the Bab al-Mandab Strait. The Houthis aim to bring Saudi Arabia to the negotiating table and gain concessions. Additionally, the Islamic Republic is escalating tensions to pressure Saudi Arabia to encourage Washington to negotiate.",
+        "time": "05:24",
+        "ts": 1789190673
       }
     ],
     "language": "en",
-    "packId": "20260912-07",
-    "sequence": 7,
+    "packId": "20260912-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:50"
+    "updatedAt": "05:25"
   },
   "verified": true
 }
