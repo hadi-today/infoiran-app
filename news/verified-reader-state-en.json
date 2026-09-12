@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-30 seq=30 exp=1789378624",
+      "advancedStatus": "pack_id=20260912-31 seq=31 exp=1789378750",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:37",
+      "lastChecked": "09:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 09:37",
+    "expiresAt": "2026-09-14 09:39",
     "items": [
       {
         "channel": "iranintl",
@@ -1925,14 +1925,28 @@
         "text": "Donald Trump, during his trip to Ireland, said that everything will go well regarding the Iran war. He made this statement in response to a question about helping ships pass through the Strait of Hormuz. These remarks came amid new concerns from Saudi Arabia.",
         "time": "09:36",
         "ts": 1789205774
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The head of Iran's Food and Drug Organization stated that the supply of medicine, medical equipment, and infant formula in the country is severely affected by increasing health challenges. Mohsen Mahimini reports on citizens' messages regarding the crisis of medicine and health items.",
+        "time": "09:37",
+        "ts": 1789205832
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A ceremony for the birthday of Mohammad Farhadi, a protester killed in December 2025, was held at his grave in Qarchak. Women from his family cried out in mourning during the event. A video of the ceremony has been shared on social media.",
+        "time": "09:37",
+        "ts": 1789205839
       }
     ],
     "language": "en",
-    "packId": "20260912-30",
-    "sequence": 30,
+    "packId": "20260912-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:37"
+    "updatedAt": "09:39"
   },
   "verified": true
 }
