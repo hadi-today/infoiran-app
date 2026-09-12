@@ -1,34 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260911-149 seq=149 exp=1789343006",
+      "advancedStatus": "pack_id=20260912-01 seq=1 exp=1789350250",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:43",
+      "lastChecked": "01:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-09-11",
-    "expiresAt": "2026-09-13 23:43",
+    "date": "2026-09-12",
+    "expiresAt": "2026-09-14 01:44",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "CNN reported, citing five sources, that over 100 US military advisers in Saudi Arabia are providing intelligence and targeting support to the country. These forces operate within a newly established joint command, formed following signs of increased Iranian assistance to Houthi attacks against Saudi Arabia. A US official stated the number of these forces is around 200.",
-        "time": "00:07",
-        "ts": 1789085230
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US Treasury Secretary announced that the Trump administration will sanction a major bank next Monday. The name of the bank and its country of operation were not disclosed. This action is part of the economic pressure campaign against the Islamic Republic.",
-        "time": "01:12",
-        "ts": 1789089157
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1918,14 +1904,21 @@
         "text": "Yechiel Leiter, Israel's ambassador to the US, stated that Israel will not accept anything less than the collapse of the Islamic Republic. He added that victory over the Islamic Republic requires the collapse of the regime, and the timing of this collapse is uncertain. Leiter also emphasized that Iran's political future must be determined by the Iranian people.",
         "time": "23:42",
         "ts": 1789170178
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Trump administration provides significant intelligence to Saudi Arabia but currently has no plans for direct military attacks against the Houthis. This stance may change if threats to shipping in the Red Sea increase significantly. Mohammed bin Salman has requested direct US military intervention.",
+        "time": "01:43",
+        "ts": 1789177417
       }
     ],
     "language": "en",
-    "packId": "20260911-149",
-    "sequence": 149,
+    "packId": "20260912-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:43"
+    "updatedAt": "01:44"
   },
   "verified": true
 }
