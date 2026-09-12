@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-95 seq=95 exp=1789402204",
+      "advancedStatus": "pack_id=20260912-96 seq=96 exp=1789402450",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:10",
+      "lastChecked": "16:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 16:10",
+    "expiresAt": "2026-09-14 16:14",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Houthis have gained control of the Bab al-Mandeb Strait, the Red Sea coasts, and three strategic Yemeni islands after a week of advances. Yemeni government sources stated that the group has full control over the Bab al-Mandeb area and the islands of Mayun, Greater Hanis, and Lesser Hanis. The Houthi military spokesperson announced that passage through Bab al-Mandeb is safe for all ships except Saudi vessels.",
-        "time": "16:12",
-        "ts": 1789143161
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -2436,14 +2429,21 @@
         "text": "Rouhollah Rahimpour said closing border crossings is part of Baghdad's effort to control weapons and prevent the use of Iraqi territory against regional countries. He warned that if attacks from Iraq continue, controls and restrictions will increase. He also noted that Iraq could limit the transfer routes of equipment and forces to Iran and its allies.",
         "time": "16:09",
         "ts": 1789229366
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran and Oman have reached a final agreement on new shipping routes. This agreement does not mean the Strait of Hormuz will be reopened; its reopening depends on the US meeting seven conditions set by Tehran. The new routes for entering and exiting the Persian Gulf will be under Iran's control.",
+        "time": "16:13",
+        "ts": 1789229593
       }
     ],
     "language": "en",
-    "packId": "20260912-95",
-    "sequence": 95,
+    "packId": "20260912-96",
+    "sequence": 96,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:10"
+    "updatedAt": "16:14"
   },
   "verified": true
 }
