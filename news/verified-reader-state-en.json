@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-16 seq=16 exp=1789369305",
+      "advancedStatus": "pack_id=20260912-17 seq=17 exp=1789370529",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:01",
+      "lastChecked": "07:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 07:01",
+    "expiresAt": "2026-09-14 07:22",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Katayoun Amiri Younesi, a civil lawyer, spoke about the rising public anger due to economic pressure and repression. She said this anger could turn into widespread protests with a spark. She believes this may happen sooner than expected.",
-        "time": "07:08",
-        "ts": 1789110485
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1932,14 +1925,21 @@
         "text": "The Iraqi Dijlah network reported that flights from Iran and to Iran have been canceled until further notice. The Shalamcheh and Chazabeh border crossings have also been closed, stopping the movement of goods and passengers. The Esteghlal football team may travel via a flight to Baghdad and then to Basra.",
         "time": "07:01",
         "ts": 1789196478
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Anthropic company announced that Iranian government-related entities have used Claude AI for monitoring citizens and opponents. The company blocked 16 accounts linked to two security and paramilitary units. Additionally, three propaganda operations using AI-generated fake personas and independent-appearing content were identified and related accounts were blocked.",
+        "time": "07:21",
+        "ts": 1789197700
       }
     ],
     "language": "en",
-    "packId": "20260912-16",
-    "sequence": 16,
+    "packId": "20260912-17",
+    "sequence": 17,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:01"
+    "updatedAt": "07:22"
   },
   "verified": true
 }
