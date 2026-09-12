@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-09 seq=9 exp=1789364309",
+      "advancedStatus": "pack_id=20260912-10 seq=10 exp=1789364676",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:38",
+      "lastChecked": "05:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 05:38",
+    "expiresAt": "2026-09-14 05:44",
     "items": [
       {
         "channel": "iranintl",
@@ -1918,14 +1918,21 @@
         "text": "Ahmad Alavi, an economist, stated that sanctions play an important role in spreading corruption, but corruption is structural. He added that in conditions of reduced foreign exchange income, the government prioritizes repression. The budget for public welfare, education, social security, and healthcare decreases.",
         "time": "05:38",
         "ts": 1789191481
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The body of Javad Mojabi, poet and writer, was buried in Emamzadeh Taher in Karaj. He passed away at the age of 87 in Tehran. Mojabi was an influential figure in contemporary Iranian literature and culture.",
+        "time": "05:44",
+        "ts": 1789191850
       }
     ],
     "language": "en",
-    "packId": "20260912-09",
-    "sequence": 9,
+    "packId": "20260912-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:38"
+    "updatedAt": "05:44"
   },
   "verified": true
 }
