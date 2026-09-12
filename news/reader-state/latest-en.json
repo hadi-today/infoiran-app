@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-13 seq=13 exp=1789367283",
+      "advancedStatus": "pack_id=20260912-14 seq=14 exp=1789367403",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:28",
+      "lastChecked": "06:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 06:28",
+    "expiresAt": "2026-09-14 06:30",
     "items": [
       {
         "channel": "iranintl",
@@ -1939,14 +1939,21 @@
         "text": "Kayhan newspaper criticized Majid Ansari, deputy of Masoud Pezeshkian, for stating that the hijab law is unenforceable. Kayhan described these remarks as passive and shirking responsibility. The newspaper urged the government's legal deputy to provide legal solutions.",
         "time": "06:27",
         "ts": 1789194448
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Law School Admission Council (LSAC) in the US has stopped providing some services to Iranian users due to changes in US sanctions regulations. This restriction was imposed after the US Treasury suspended a license that allowed educational services to Iranians indefinitely. Services will resume for those who present exemption documents.",
+        "time": "06:28",
+        "ts": 1789194537
       }
     ],
     "language": "en",
-    "packId": "20260912-13",
-    "sequence": 13,
+    "packId": "20260912-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:28"
+    "updatedAt": "06:30"
   },
   "verified": true
 }
