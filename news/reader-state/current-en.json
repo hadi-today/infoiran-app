@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-90 seq=90 exp=1789399166",
+      "advancedStatus": "pack_id=20260912-92 seq=92 exp=1789400012",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:19",
+      "lastChecked": "15:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 15:19",
+    "expiresAt": "2026-09-14 15:33",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The CENTCOM commander traveled to Saudi Arabia to hold meetings regarding the recent Houthi advances in Yemen. The Houthis have taken control of the port city of Al-Mokha and the southwestern coastal strip of Yemen. Al Jazeera has not released further details about these meetings.",
-        "time": "15:32",
-        "ts": 1789140760
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -2408,14 +2401,28 @@
         "text": "CENTCOM announced that in the past 60 days, it has forced 100 commercial ships to change course. This action has taken place since the blockade of Iranian ports resumed. Additionally, no ship has passed through the blockade without US military authorization.",
         "time": "15:18",
         "ts": 1789226334
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Two days after the attack on Saudi Arabia's most important oil pipeline, Trump said the attack was the work of the Islamic Republic. Simultaneously, the Houthis, Tehran-backed militias in Yemen, gained control of the Bab el-Mandeb strait by advancing.",
+        "time": "15:25",
+        "ts": 1789226716
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Motorcycle couriers in Lahijan went on strike on Saturday, September 12, protesting their wages. They stopped working. This video was published by Iran International.",
+        "time": "15:32",
+        "ts": 1789227178
       }
     ],
     "language": "en",
-    "packId": "20260912-90",
-    "sequence": 90,
+    "packId": "20260912-92",
+    "sequence": 92,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:19"
+    "updatedAt": "15:33"
   },
   "verified": true
 }
