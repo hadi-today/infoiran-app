@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-76 seq=76 exp=1789393536",
+      "advancedStatus": "pack_id=20260912-77 seq=77 exp=1789393651",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:45",
+      "lastChecked": "13:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 13:45",
+    "expiresAt": "2026-09-14 13:47",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Ali Zarei, a political prisoner and eye injury victim from the 1401 protests, announced that his death sentence has been confirmed. He emphasized his innocence and called for support from the public and human rights organizations. Zarei was previously sentenced to death on charges of corruption on earth.",
-        "time": "13:45",
-        "ts": 1789134314
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -2401,14 +2394,21 @@
         "text": "The spokesperson of Khatam al-Anbia Headquarters condemned the US military threat to target three Iranian oil tankers. He stated that if Iranian ships are attacked, Iran's armed forces will target US bases and interests in the region. Iranian media also reported hearing explosions near Khark Island.",
         "time": "13:43",
         "ts": 1789220634
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The German financial supervisory authority BaFin has declared the Bank Sepah branch in Frankfurt bankrupt. This branch can no longer repay deposits due to international sanctions. BaFin has activated the compensation process for depositors.",
+        "time": "13:45",
+        "ts": 1789220755
       }
     ],
     "language": "en",
-    "packId": "20260912-76",
-    "sequence": 76,
+    "packId": "20260912-77",
+    "sequence": 77,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:45"
+    "updatedAt": "13:47"
   },
   "verified": true
 }
