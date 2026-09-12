@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-144 seq=144 exp=1789411762",
+      "advancedStatus": "pack_id=20260912-145 seq=145 exp=1789412218",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:49",
+      "lastChecked": "18:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 18:49",
+    "expiresAt": "2026-09-14 18:56",
     "items": [
       {
         "channel": "iranintl",
@@ -2681,14 +2681,21 @@
         "text": "During the seventh week of the Premier League, fans of Sanat Naft Abadan chanted against their coach Mohammad Nouri. The match against Chadormalu Ardakan was held at Takhti Abadan Stadium. Sanat Naft lost the game 2-1 and is at the bottom of the league table.",
         "time": "18:48",
         "ts": 1789238930
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Turkish Treasury Minister stated that payments for gas imported from Iran are not made directly to the Islamic Republic but are held in an account with strict regulations. Iran can only use this account to pay for authorized goods. Turkey cooperates with the US to combat money laundering and sanctions evasion.",
+        "time": "18:56",
+        "ts": 1789239380
       }
     ],
     "language": "en",
-    "packId": "20260912-144",
-    "sequence": 144,
+    "packId": "20260912-145",
+    "sequence": 145,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:49"
+    "updatedAt": "18:56"
   },
   "verified": true
 }
