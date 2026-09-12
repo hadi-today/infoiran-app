@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-140 seq=140 exp=1789409312",
+      "advancedStatus": "pack_id=20260912-141 seq=141 exp=1789409415",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:08",
+      "lastChecked": "18:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 18:08",
+    "expiresAt": "2026-09-14 18:10",
     "items": [
       {
         "channel": "iranintl",
@@ -2674,14 +2674,28 @@
         "text": "Workers at Pulur Sabz Zarand Wagon Factory and Omran Taradeh Company reported wage arrears. Workers at Saman Tile Factory in Borujerd also face job uncertainty and delayed wage and insurance claims. These issues have been reported in three different units.",
         "time": "18:05",
         "ts": 1789236312
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Xi Jinping has officially announced his readiness to mediate between Tehran and Washington. This news was shared in the audio version of Titrawol with Niusha Saremi. The mediation topic has recently been raised.",
+        "time": "18:08",
+        "ts": 1789236511
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Mahdavi Azad stated that the Israeli army destroyed one of the largest military fortresses of the IRGC in the Ali al-Taher hills in southern Lebanon using about 1,100 tons of explosives. This operation is not limited to the destruction of a Hezbollah base but also weakens the reputation of the Islamic Republic and resistance groups among their supporters.",
+        "time": "18:08",
+        "ts": 1789236516
       }
     ],
     "language": "en",
-    "packId": "20260912-140",
-    "sequence": 140,
+    "packId": "20260912-141",
+    "sequence": 141,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:08"
+    "updatedAt": "18:10"
   },
   "verified": true
 }
