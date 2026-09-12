@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-157 seq=157 exp=1789424532",
+      "advancedStatus": "pack_id=20260912-158 seq=158 exp=1789424810",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:22",
+      "lastChecked": "22:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 22:22",
+    "expiresAt": "2026-09-14 22:26",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The crew of the American aircraft carrier USS George Washington is preparing for battle with the Islamic Republic. This ship has been dispatched to replace the USS Abraham Lincoln. Both carriers have been deployed to strengthen the US naval blockade in the Middle East.",
-        "time": "22:23",
-        "ts": 1789165407
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Qaedi said the Islamic Republic's goal in escalating tensions in the Strait of Hormuz and Bab al-Mandab is to pressure the global economy, especially the US economy. He added that the US prefers to focus on the Strait of Hormuz rather than directly engaging in battle with the Houthis. The US has delegated the main role in confronting the Houthis to Saudi Arabia.",
-        "time": "22:25",
-        "ts": 1789165514
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -2240,14 +2226,21 @@
         "text": "Kambiz Tavana stated that increased Houthi influence over Bab al-Mandab could strengthen the Islamic Republic's regional leverage. He added that over 10 million barrels of oil passed through the Strait of Hormuz in the past seven days. No Iranian oil tankers were seen in this data.",
         "time": "22:21",
         "ts": 1789251704
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Bijan Kian described the Houthi advance on the Red Sea coast as a tactical victory that could lead to a new coalition against the Islamic Republic. He also said the US is no longer willing to pay for regional security without strategic alignment with regional countries. Saudi Arabia and Gulf states must decide on their future relations with Tehran and Washington.",
+        "time": "22:26",
+        "ts": 1789251979
       }
     ],
     "language": "en",
-    "packId": "20260912-157",
-    "sequence": 157,
+    "packId": "20260912-158",
+    "sequence": 158,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:22"
+    "updatedAt": "22:26"
   },
   "verified": true
 }
