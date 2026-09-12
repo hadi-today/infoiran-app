@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-11 seq=11 exp=1789364896",
+      "advancedStatus": "pack_id=20260912-12 seq=12 exp=1789366775",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:48",
+      "lastChecked": "06:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 05:48",
+    "expiresAt": "2026-09-14 06:19",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Sadegh Beigdel announced that the discussion about the sanctions committee against the Islamic Republic has been reactivated. He said that US actions now have more international support. Also, the lack of agency access and Iran's nuclear capacity has increased concerns about the intent to build nuclear weapons.",
-        "time": "05:52",
-        "ts": 1789105951
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1932,14 +1925,21 @@
         "text": "Ily Mahfouz, head of the Lebanese Change Movement, said Lebanon should have cut ties with the Islamic Republic from the start and banned Hezbollah's activities. He called for the expulsion of the Iranian ambassador and prosecution of Hezbollah leaders. He also emphasized that weapons and sovereignty should be solely under the Lebanese government's control.",
         "time": "05:47",
         "ts": 1789192069
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Nazli Sedghi stated that Alireza Sepahi has been transferred to solitary confinement and there is a possibility of his execution. She pointed out serious legal issues in the case, including Sepahi's absence at the scene of the incident and confessions made under torture. It was also mentioned that the parallel branch likely issued a rejection of the retrial without holding a session.",
+        "time": "06:18",
+        "ts": 1789193908
       }
     ],
     "language": "en",
-    "packId": "20260912-11",
-    "sequence": 11,
+    "packId": "20260912-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:48"
+    "updatedAt": "06:19"
   },
   "verified": true
 }
