@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-89 seq=89 exp=1789399049",
+      "advancedStatus": "pack_id=20260912-90 seq=90 exp=1789399166",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:17",
+      "lastChecked": "15:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 15:17",
+    "expiresAt": "2026-09-14 15:19",
     "items": [
       {
         "channel": "iranintl",
@@ -2401,14 +2401,21 @@
         "text": "Shayan Samiei said Trump currently prefers to observe the Yemen war from afar and avoid extensive involvement. If the Houthis cause serious disruption in energy transit, the US military may intervene. Trump is watching the Mecca Agreement to see what actions member countries will take.",
         "time": "15:16",
         "ts": 1789226211
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "CENTCOM announced that in the past 60 days, it has forced 100 commercial ships to change course. This action has taken place since the blockade of Iranian ports resumed. Additionally, no ship has passed through the blockade without US military authorization.",
+        "time": "15:18",
+        "ts": 1789226334
       }
     ],
     "language": "en",
-    "packId": "20260912-89",
-    "sequence": 89,
+    "packId": "20260912-90",
+    "sequence": 90,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:17"
+    "updatedAt": "15:19"
   },
   "verified": true
 }
