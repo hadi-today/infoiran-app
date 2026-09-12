@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-15 seq=15 exp=1789368631",
+      "advancedStatus": "pack_id=20260912-16 seq=16 exp=1789369305",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:50",
+      "lastChecked": "07:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 06:50",
+    "expiresAt": "2026-09-14 07:01",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Yehiel Leiter, Israel's ambassador to the US, said the Islamic Republic must fall because otherwise it will find a way to rebuild. He added the regime is on the path to collapse. Continued economic pressure and sanctions by the Trump administration could lead to the Islamic Republic's defeat.",
-        "time": "06:51",
-        "ts": 1789109484
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1932,14 +1925,21 @@
         "text": "Majid Mousavi, commander of the IRGC Aerospace Force, stated that the US has built a drone similar to the Shahed 136 called \"Lucas\" and integrated it into its combat organization. He also mentioned that various Shahed-class drones are used by the IRGC for combat and reconnaissance missions. The drone forces have played an important role in monitoring areas and conducting cross-border missions.",
         "time": "06:50",
         "ts": 1789195800
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iraqi Dijlah network reported that flights from Iran and to Iran have been canceled until further notice. The Shalamcheh and Chazabeh border crossings have also been closed, stopping the movement of goods and passengers. The Esteghlal football team may travel via a flight to Baghdad and then to Basra.",
+        "time": "07:01",
+        "ts": 1789196478
       }
     ],
     "language": "en",
-    "packId": "20260912-15",
-    "sequence": 15,
+    "packId": "20260912-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:50"
+    "updatedAt": "07:01"
   },
   "verified": true
 }
