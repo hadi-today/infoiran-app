@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260912-34 seq=34 exp=1789381170",
+      "advancedStatus": "pack_id=20260912-35 seq=35 exp=1789381804",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:19",
+      "lastChecked": "10:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-12",
-    "expiresAt": "2026-09-14 10:19",
+    "expiresAt": "2026-09-14 10:30",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Swedish Ministry of Justice stated that the Islamic Republic has conducted activities over several years that threaten Sweden's security. The Swedish security service said Iran uses criminal networks in Sweden for violent actions. These actions target governments, groups, or individuals considered threats by the Islamic Republic.",
-        "time": "10:24",
-        "ts": 1789122280
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1918,14 +1911,21 @@
         "text": "US President Donald Trump, in response to reporters' questions about whether the Islamic Republic was responsible for the attack on the Saudi East-West pipeline, said: 'I think so. It was probably them.'",
         "time": "10:18",
         "ts": 1789208330
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "There is heavy congestion at the Bazargan border, causing long waits for Iranian travelers entering Turkey. Iranian officials have stated that the border is open. The main issue is increased traffic and limited capacity on the Turkish side.",
+        "time": "10:28",
+        "ts": 1789208934
       }
     ],
     "language": "en",
-    "packId": "20260912-34",
-    "sequence": 34,
+    "packId": "20260912-35",
+    "sequence": 35,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:19"
+    "updatedAt": "10:30"
   },
   "verified": true
 }
