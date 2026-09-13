@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-65 seq=65 exp=1789477393",
+      "advancedStatus": "pack_id=20260913-66 seq=66 exp=1789477495",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:03",
+      "lastChecked": "13:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 13:03",
+    "expiresAt": "2026-09-15 13:04",
     "items": [
       {
         "channel": "iranintl",
@@ -2310,14 +2310,28 @@
         "text": "Majid Ibn al-Reza, acting defense minister, stated that the Islamic Republic would perform much more powerfully technologically in case of another war. He said the displayed defense capability is only a small part of the actual capacity. He also emphasized that the Islamic Republic relies on internal capabilities to ensure its security.",
         "time": "13:02",
         "ts": 1789304567
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Six years ago on this day, Navid Afkari, an Iranian wrestler and protester of the August 2018 protests, was executed. The execution took place despite requests and reactions from international and human rights organizations. Navid Afkari was executed by the Iranian government on September 12, 2020.",
+        "time": "13:03",
+        "ts": 1789304619
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shahbaz Sharif, the Prime Minister of Pakistan, condemned the proxy attacks by the Islamic Republic on southern Saudi Arabia. Yahya Saree, the military spokesperson for the Houthis, confirmed the attacks using ballistic missiles and drones. The attacks targeted ammunition depots and command centers of a military base in southern Saudi Arabia.",
+        "time": "13:03",
+        "ts": 1789304630
       }
     ],
     "language": "en",
-    "packId": "20260913-65",
-    "sequence": 65,
+    "packId": "20260913-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:03"
+    "updatedAt": "13:04"
   },
   "verified": true
 }
