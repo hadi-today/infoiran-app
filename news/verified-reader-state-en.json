@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-28 seq=28 exp=1789461342",
+      "advancedStatus": "pack_id=20260913-29 seq=29 exp=1789461432",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:35",
+      "lastChecked": "08:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 08:35",
+    "expiresAt": "2026-09-15 08:37",
     "items": [
       {
         "channel": "harana",
@@ -2247,14 +2247,21 @@
         "text": "Kylian Mbappe scored a penalty in Real Madrid's match against Rayo Vallecano, bringing his goal tally in the new La Liga season to 6. He is now only 8 goals away from Cristiano Ronaldo's record of 100 goals for Real Madrid. Mbappe has the opportunity to approach this historic record with upcoming matches.",
         "time": "08:35",
         "ts": 1789288514
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "According to videos received by Iran International, a group of Iranians residing in the UK gathered on Saturday, September 12, in London and Newcastle. The gathering was against the Islamic Republic. The locations of the gatherings were London and Newcastle.",
+        "time": "08:35",
+        "ts": 1789288555
       }
     ],
     "language": "en",
-    "packId": "20260913-28",
-    "sequence": 28,
+    "packId": "20260913-29",
+    "sequence": 29,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:35"
+    "updatedAt": "08:37"
   },
   "verified": true
 }
