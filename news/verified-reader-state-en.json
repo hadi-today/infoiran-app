@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-07 seq=7 exp=1789510457",
+      "advancedStatus": "pack_id=20260913-08 seq=8 exp=1789511211",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:14",
+      "lastChecked": "22:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 22:14",
+    "expiresAt": "2026-09-15 22:26",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -105,14 +105,21 @@
         "text": "The University of Toronto is hosting a meeting on the fourth anniversary of Mahsa Amini's death with academics and civil activists. The session will review the history of freedom struggles from the establishment of the Islamic Republic to recent protests. This report was prepared by Mahsa Mortazavi.",
         "time": "22:13",
         "ts": 1789337591
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Barak Ravid reported that Saudi Arabia has made amendments to the proposal by Oman and the Islamic Republic regarding the Strait of Hormuz. Riyadh was concerned that the proposed text would establish a new situation unacceptable to Saudi Arabia and other Gulf Cooperation Council members. This information was cited from a Gulf countries official.",
+        "time": "22:26",
+        "ts": 1789338391
       }
     ],
     "language": "en",
-    "packId": "20260913-07",
-    "sequence": 7,
+    "packId": "20260913-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:14"
+    "updatedAt": "22:26"
   },
   "verified": true
 }
