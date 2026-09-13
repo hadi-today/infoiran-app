@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-44 seq=44 exp=1789467740",
+      "advancedStatus": "pack_id=20260913-45 seq=45 exp=1789467824",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:22",
+      "lastChecked": "10:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 10:22",
+    "expiresAt": "2026-09-15 10:23",
     "items": [
       {
         "channel": "iranintl",
@@ -2275,14 +2275,21 @@
         "text": "Masoud Pezeshkian stated that he cannot currently decide on direct talks with Donald Trump. Reza Talebi attributes this duality to Ali Khamenei's long-standing approach. The power of the armed forces and the IRGC in diplomacy has also increased.",
         "time": "10:21",
         "ts": 1789294917
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Secretary-General of the Arab League described the role of the Islamic Republic towards some Arab countries as very negative and called for a change in Tehran's policies. He stated that the conflict in the Gulf region cannot be resolved through military intervention and warned that the crisis is likely to continue. He also emphasized that Arab countries should establish clear frameworks for their relations with Iran.",
+        "time": "10:22",
+        "ts": 1789294962
       }
     ],
     "language": "en",
-    "packId": "20260913-44",
-    "sequence": 44,
+    "packId": "20260913-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:22"
+    "updatedAt": "10:23"
   },
   "verified": true
 }
