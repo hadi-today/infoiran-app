@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-09 seq=9 exp=1789512367",
+      "advancedStatus": "pack_id=20260913-10 seq=10 exp=1789513324",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:46",
+      "lastChecked": "23:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 22:46",
+    "expiresAt": "2026-09-15 23:02",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -119,14 +119,21 @@
         "text": "The English Premier League arbitration body confirmed that VAR made a misjudgment in approving Erling Haaland's goal. VAR should have advised the referee to review Enzo Fernandez's role in the offside position. This concerns the 60th-minute goal of Manchester City against Manchester United.",
         "time": "22:45",
         "ts": 1789339548
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Kharatian, a political expert affiliated with the government, mentioned the role of the Islamic Republic in activating Yemen's Houthis to attack Saudi Arabia's oil infrastructure. He said this action has caused a sharp increase in oil prices. He also commented on the destruction of an oil pipeline, saying, \"Whoever did it, God bless them.\"",
+        "time": "23:01",
+        "ts": 1789340505
       }
     ],
     "language": "en",
-    "packId": "20260913-09",
-    "sequence": 9,
+    "packId": "20260913-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:46"
+    "updatedAt": "23:02"
   },
   "verified": true
 }
