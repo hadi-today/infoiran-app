@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-115 seq=115 exp=1789499113",
+      "advancedStatus": "pack_id=20260913-116 seq=116 exp=1789499479",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:05",
+      "lastChecked": "19:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 19:05",
+    "expiresAt": "2026-09-15 19:11",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "Israel's Defense Minister Yisrael Katz stated that the Israeli army will maintain control over the Al-Taher mountain range in southern Lebanon and will destroy anyone approaching it. After destroying Hezbollah's tunnels, the Israeli army withdrew from the mountain range and positioned its forces along the 'yellow line'. Attacks continue to prevent Hezbollah's return, and coordination with the Lebanese government is underway to deploy Lebanese army forces in evacuated areas.",
         "time": "19:04",
         "ts": 1789326286
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "On September 12, several protests were held by Social Security retirees in various cities. Steel industry retirees in Isfahan and housing movement applicants in Shiraz also held protests. Motorcycle couriers in Lahijan went on strike in protest of current conditions.",
+        "time": "19:10",
+        "ts": 1789326651
       }
     ],
     "language": "en",
-    "packId": "20260913-115",
-    "sequence": 115,
+    "packId": "20260913-116",
+    "sequence": 116,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:05"
+    "updatedAt": "19:11"
   },
   "verified": true
 }
