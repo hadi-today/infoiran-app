@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-113 seq=113 exp=1789498507",
+      "advancedStatus": "pack_id=20260913-114 seq=114 exp=1789498824",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:55",
+      "lastChecked": "19:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 18:55",
+    "expiresAt": "2026-09-15 19:00",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Turkish Treasury Minister stated that payments for gas imported from Iran are not made directly to the Islamic Republic but are held in an account with strict regulations. Iran can only use this account to pay for authorized goods. Turkey cooperates with the US to combat money laundering and sanctions evasion.",
-        "time": "18:56",
-        "ts": 1789239380
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Due to lack of workplace safety, two workers in Khondab and Bandar Mahshahr were involved in accidents. One worker died and another was injured. These incidents were reported to be caused by unsafe working conditions.",
-        "time": "18:59",
-        "ts": 1789239565
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -931,14 +917,21 @@
         "text": "Disciplinary cases have been filed against 40 students of the University of Tehran for burning the flag. This is related to the student protests in March of last year. The charge is described as \"insult and burning of the flag.\"",
         "time": "18:54",
         "ts": 1789325680
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Yesterday, several job seekers from the Nissan area of Howeyzeh county held a protest near the North Azadegan oil field. The protesters demanded justice in hiring and priority for local forces. This protest took place in Howeyzeh county.",
+        "time": "18:59",
+        "ts": 1789325993
       }
     ],
     "language": "en",
-    "packId": "20260913-113",
-    "sequence": 113,
+    "packId": "20260913-114",
+    "sequence": 114,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:55"
+    "updatedAt": "19:00"
   },
   "verified": true
 }
