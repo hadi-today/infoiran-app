@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-05 seq=5 exp=1789443689",
+      "advancedStatus": "pack_id=20260913-06 seq=6 exp=1789444195",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:41",
+      "lastChecked": "03:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 03:41",
+    "expiresAt": "2026-09-15 03:49",
     "items": [
       {
         "channel": "iranintl",
@@ -2212,14 +2212,21 @@
         "text": "The International Organization for Migration reported that at least 76,000 people have been displaced since July due to intensified clashes along Yemen's Red Sea coast. The number of displaced people has quadrupled in the past week, with 30,000 added in just a few days. Additionally, about 1,400 people entered Djibouti from Yemen within 24 hours.",
         "time": "03:41",
         "ts": 1789270863
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reduction of subsidies and fuel quotas in Iran has caused dissatisfaction and strikes among truck and taxi drivers. Long queues have formed at fuel stations. The government faces economic difficulties and pressures from sanctions.",
+        "time": "03:49",
+        "ts": 1789271373
       }
     ],
     "language": "en",
-    "packId": "20260913-05",
-    "sequence": 5,
+    "packId": "20260913-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:41"
+    "updatedAt": "03:49"
   },
   "verified": true
 }
