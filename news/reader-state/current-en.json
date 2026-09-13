@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-109 seq=109 exp=1789497255",
+      "advancedStatus": "pack_id=20260913-111 seq=111 exp=1789497969",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:34",
+      "lastChecked": "18:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 18:34",
+    "expiresAt": "2026-09-15 18:46",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Abed Alizadeh, a citizen from Takab, was released today from Miandoab prison after posting bail.",
-        "time": "18:34",
-        "ts": 1789238097
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +910,28 @@
         "text": "Masoud Pezeshkian described the IRGC's attack on three commercial ships in the Strait of Hormuz as reckless and irresponsible. He contacted the IRGC commander demanding accountability. The commander denied responsibility and stated the operation was unauthorized and unknown to the Supreme National Security Council.",
         "time": "18:33",
         "ts": 1789324425
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Brad Cooper, the commander of CENTCOM, said there is no concern about the shortage of US interceptor missiles. He stated that US forces are prepared to face any situation. These remarks were made amid ongoing clashes with the Islamic Republic.",
+        "time": "18:40",
+        "ts": 1789324815
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Several workers on the border wall construction project in Golshan county reported wage arrears. These workers have requested attention to their payment situation. This issue was reported by Harana News Agency.",
+        "time": "18:45",
+        "ts": 1789325141
       }
     ],
     "language": "en",
-    "packId": "20260913-109",
-    "sequence": 109,
+    "packId": "20260913-111",
+    "sequence": 111,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:34"
+    "updatedAt": "18:46"
   },
   "verified": true
 }
