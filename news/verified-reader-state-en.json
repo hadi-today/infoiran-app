@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-12 seq=12 exp=1789452237",
+      "advancedStatus": "pack_id=20260913-13 seq=13 exp=1789452999",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:03",
+      "lastChecked": "06:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 06:03",
+    "expiresAt": "2026-09-15 06:16",
     "items": [
       {
         "channel": "iranintl",
@@ -2212,14 +2212,21 @@
         "text": "Ahmad Nadari, a member of the parliament's presidium, stated that Iran's strategy in the Persian Gulf is based on ambiguity, deterrence, and strategic surprise. He added that there are surprises for the US that have not yet been unveiled. Nadari also emphasized that confrontation with the US is not only based on military power but also involves changing the opponent's calculations.",
         "time": "06:03",
         "ts": 1789279414
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Qaedi commented on the meeting of Arab foreign ministers in Muscat and the agreement between Iran and Oman on a joint route in the Strait of Hormuz. He said the meeting currently holds more symbolic importance. It may also pave the way for future security agreements.",
+        "time": "06:15",
+        "ts": 1789280159
       }
     ],
     "language": "en",
-    "packId": "20260913-12",
-    "sequence": 12,
+    "packId": "20260913-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:03"
+    "updatedAt": "06:16"
   },
   "verified": true
 }
