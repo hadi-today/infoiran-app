@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-41 seq=41 exp=1789466695",
+      "advancedStatus": "pack_id=20260913-42 seq=42 exp=1789466831",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:04",
+      "lastChecked": "10:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 10:04",
+    "expiresAt": "2026-09-15 10:07",
     "items": [
       {
         "channel": "iranintl",
@@ -2268,14 +2268,21 @@
         "text": "The mother of Mehran Niayesh lit a candle for her son by joining the campaign \"One Candle, One Name, One Memory.\" Mehran Niayesh, 37, was arrested on January 9, 2026, in Baharestan, Isfahan province, in front of his pregnant wife. His body was delivered to the family two days later after receiving 600 million tomans.",
         "time": "10:04",
         "ts": 1789293862
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abbas Araghchi stated that the Strait of Hormuz will not open after the agreement with Oman. The condition for reopening the strait is the US returning to its commitments under the Islamabad agreement. The agenda of the Oman meeting is a new maritime route in the Strait of Hormuz.",
+        "time": "10:06",
+        "ts": 1789294000
       }
     ],
     "language": "en",
-    "packId": "20260913-41",
-    "sequence": 41,
+    "packId": "20260913-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:04"
+    "updatedAt": "10:07"
   },
   "verified": true
 }
