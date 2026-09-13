@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-40 seq=40 exp=1789466605",
+      "advancedStatus": "pack_id=20260913-41 seq=41 exp=1789466695",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:03",
+      "lastChecked": "10:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 10:03",
+    "expiresAt": "2026-09-15 10:04",
     "items": [
       {
         "channel": "iranintl",
@@ -2254,14 +2254,28 @@
         "text": "589 villages in 28 counties of Khorasan Razavi are facing drinking water stress. Since the beginning of the year, over 108,000 cubic meters of water have been distributed by tanker to more than 261,000 residents. 426 villages suffer from water shortages and 71 villages have water quality issues, receiving continuous mobile water supply.",
         "time": "10:02",
         "ts": 1789293777
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "An IRIB expert, referring to the US military campaign against the Iranian government, said that Americans have repeatedly stated that by striking Islamic Republic facilities they were able to delay the emergence of Imam Mahdi.",
+        "time": "10:03",
+        "ts": 1789293825
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The mother of Mehran Niayesh lit a candle for her son by joining the campaign \"One Candle, One Name, One Memory.\" Mehran Niayesh, 37, was arrested on January 9, 2026, in Baharestan, Isfahan province, in front of his pregnant wife. His body was delivered to the family two days later after receiving 600 million tomans.",
+        "time": "10:04",
+        "ts": 1789293862
       }
     ],
     "language": "en",
-    "packId": "20260913-40",
-    "sequence": 40,
+    "packId": "20260913-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:03"
+    "updatedAt": "10:04"
   },
   "verified": true
 }
