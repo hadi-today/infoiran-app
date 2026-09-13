@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-84 seq=84 exp=1789484789",
+      "advancedStatus": "pack_id=20260913-85 seq=85 exp=1789485360",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:06",
+      "lastChecked": "15:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 15:06",
+    "expiresAt": "2026-09-15 15:16",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump stated that the war with the Islamic Republic will end after the US midterm elections in November. He added that oil prices will decrease after the conflict ends. He also mentioned that Houthi forces in Yemen have said they do not want the US to directly enter the conflict.",
-        "time": "15:07",
-        "ts": 1789225628
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Gianni Infantino, FIFA president, announced his election slogan as \"Football belongs to everyone, everywhere in the world.\" He confirmed he will run in the March 2027 election. This announcement comes amid at least 25 countries withdrawing their support from him.",
-        "time": "15:12",
-        "ts": 1789225964
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -2170,14 +2156,21 @@
         "text": "A citizen lit a candle in Behesht Sakineh, Karaj, in memory of protesters killed in December 2025. This was done as part of the campaign \"One Candle, One Name, One Memory.\" He conveyed that they are remembered.",
         "time": "15:05",
         "ts": 1789311942
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "More than three thousand teenagers from Markazi province were sent to Rahian-e Noor camps in the operational areas of western Iran. This action is against Iran's commitments under the Convention on the Rights of the Child. Iran had pledged not to involve children in military activities.",
+        "time": "15:15",
+        "ts": 1789312502
       }
     ],
     "language": "en",
-    "packId": "20260913-84",
-    "sequence": 84,
+    "packId": "20260913-85",
+    "sequence": 85,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:06"
+    "updatedAt": "15:16"
   },
   "verified": true
 }
