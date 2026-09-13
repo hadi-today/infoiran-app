@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-01 seq=1 exp=1789431786",
+      "advancedStatus": "pack_id=20260913-02 seq=2 exp=1789434523",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:23",
+      "lastChecked": "01:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 00:23",
+    "expiresAt": "2026-09-15 01:08",
     "items": [
       {
         "channel": "iranintl",
@@ -2212,14 +2212,21 @@
         "text": "The Yemeni army targeted Houthi positions in Taiz with airstrikes. The Houthis attacked a military base in the Sharurah area of Saudi Arabia with drones and ballistic missiles. A projectile landing in Jazan, Saudi Arabia, injured two people and caused damage to civilian infrastructure.",
         "time": "00:22",
         "ts": 1789258959
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The UK Maritime Trade Operations reported an incident in the Strait of Hormuz. A ship was targeted by an unknown projectile while passing through the strait. The crew's condition and damages are currently unknown, and investigations are ongoing.",
+        "time": "01:08",
+        "ts": 1789261698
       }
     ],
     "language": "en",
-    "packId": "20260913-01",
-    "sequence": 1,
+    "packId": "20260913-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:23"
+    "updatedAt": "01:08"
   },
   "verified": true
 }
