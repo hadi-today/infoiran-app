@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-74 seq=74 exp=1789481397",
+      "advancedStatus": "pack_id=20260913-75 seq=75 exp=1789481481",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:09",
+      "lastChecked": "14:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 14:09",
+    "expiresAt": "2026-09-15 14:11",
     "items": [
       {
         "channel": "iranintl",
@@ -2156,14 +2156,21 @@
         "text": "A group of Iranians gathered in central Brussels on Sunday, September 13. The gathering was held to commemorate Mahsa Zhina Amini and those who died in the protests in Iran. It also aimed to support political prisoners and protest executions in Iran.",
         "time": "14:09",
         "ts": 1789308572
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The German government announced a significant decrease in asylum applications. The rate of support granted to Iranian applicants after case reviews has risen to over 42 percent. This report was published by Ali Hassanpour from Iran International.",
+        "time": "14:10",
+        "ts": 1789308613
       }
     ],
     "language": "en",
-    "packId": "20260913-74",
-    "sequence": 74,
+    "packId": "20260913-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:09"
+    "updatedAt": "14:11"
   },
   "verified": true
 }
