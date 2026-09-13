@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-54 seq=54 exp=1789472411",
+      "advancedStatus": "pack_id=20260913-55 seq=55 exp=1789472572",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:40",
+      "lastChecked": "11:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 11:40",
+    "expiresAt": "2026-09-15 11:42",
     "items": [
       {
         "channel": "iranintl",
@@ -2282,14 +2282,21 @@
         "text": "The Janfada Iran headquarters announced the preparation for training and organizing one thousand Janfada National Resistance battalions. This move follows widespread public support for cooperation with the armed forces. Janfada activities in other defense areas will be announced soon.",
         "time": "11:39",
         "ts": 1789299585
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ebrahim Azizi, head of the National Security Commission of the Parliament, stated that individuals who held positions in the past should not be immune from judicial action. He referred to Hassan Rouhani's positions, saying that at that time they were not seeking a referendum. The parliament has requested judicial follow-up and action against certain individuals by majority vote.",
+        "time": "11:42",
+        "ts": 1789299726
       }
     ],
     "language": "en",
-    "packId": "20260913-54",
-    "sequence": 54,
+    "packId": "20260913-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:40"
+    "updatedAt": "11:42"
   },
   "verified": true
 }
