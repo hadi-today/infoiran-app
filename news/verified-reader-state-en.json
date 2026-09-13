@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-29 seq=29 exp=1789461432",
+      "advancedStatus": "pack_id=20260913-30 seq=30 exp=1789461513",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:37",
+      "lastChecked": "08:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 08:37",
+    "expiresAt": "2026-09-15 08:38",
     "items": [
       {
         "channel": "harana",
@@ -2254,14 +2254,21 @@
         "text": "According to videos received by Iran International, a group of Iranians residing in the UK gathered on Saturday, September 12, in London and Newcastle. The gathering was against the Islamic Republic. The locations of the gatherings were London and Newcastle.",
         "time": "08:35",
         "ts": 1789288555
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The CEO of the Thalassemia Association in Kermanshah reported the increase in price and shortage of essential medicines for patients. The price of a 10-pack of Desferal has risen from 50,000 to 500,000 tomans. Additionally, imported drugs like Prolia injections are unavailable for many patients due to high prices and shortages.",
+        "time": "08:37",
+        "ts": 1789288641
       }
     ],
     "language": "en",
-    "packId": "20260913-29",
-    "sequence": 29,
+    "packId": "20260913-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:37"
+    "updatedAt": "08:38"
   },
   "verified": true
 }
