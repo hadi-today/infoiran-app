@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-15 seq=15 exp=1789454528",
+      "advancedStatus": "pack_id=20260913-16 seq=16 exp=1789455764",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:42",
+      "lastChecked": "07:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 06:42",
+    "expiresAt": "2026-09-15 07:02",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Majid Mousavi, commander of the IRGC Aerospace Force, stated that the US has built a drone similar to the Shahed 136 called \"Lucas\" and integrated it into its combat organization. He also mentioned that various Shahed-class drones are used by the IRGC for combat and reconnaissance missions. The drone forces have played an important role in monitoring areas and conducting cross-border missions.",
-        "time": "06:50",
-        "ts": 1789195800
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Iraqi Dijlah network reported that flights from Iran and to Iran have been canceled until further notice. The Shalamcheh and Chazabeh border crossings have also been closed, stopping the movement of goods and passengers. The Esteghlal football team may travel via a flight to Baghdad and then to Basra.",
-        "time": "07:01",
-        "ts": 1789196478
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -2212,14 +2198,21 @@
         "text": "Ali Dadpay stated that the reduction in exports and limited access of the Islamic Republic to foreign currency resources decreases the ability to pay and transport goods. Using land routes cannot replace sea routes due to limited capacity and high transportation costs. Increased import costs and currency prices may intensify domestic inflation.",
         "time": "06:41",
         "ts": 1789281700
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of Iranians gathered in Stockholm for the 255th consecutive day. The rally was held with slogans supporting Prince Reza Pahlavi. The aim was to attract the attention of the Swedish public and politicians to developments in Iran.",
+        "time": "07:02",
+        "ts": 1789282939
       }
     ],
     "language": "en",
-    "packId": "20260913-15",
-    "sequence": 15,
+    "packId": "20260913-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:42"
+    "updatedAt": "07:02"
   },
   "verified": true
 }
