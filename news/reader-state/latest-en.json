@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-48 seq=48 exp=1789469928",
+      "advancedStatus": "pack_id=20260913-49 seq=49 exp=1789470169",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:58",
+      "lastChecked": "11:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 10:58",
+    "expiresAt": "2026-09-15 11:02",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Taraneh and Romina Rahimi, two sisters arrested during the protests of January 2026, are held in Dolatabad prison in Isfahan. Taraneh Rahimi has been sentenced to death and 11 years in prison, and Romina Rahimi to 36 years in prison. Their charges include moharebeh and assisting moharebeh, and their confessions were obtained under pressure and torture.",
-        "time": "11:01",
-        "ts": 1789210919
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -2261,14 +2254,21 @@
         "text": "The head of Tehran Chamber of Commerce stated that sanctions have become tougher and government revenues have sharply decreased. Labor activists said the poverty line has exceeded 70 million tomans. The monthly living cost for a working-class family is estimated between 80 to 90 million tomans.",
         "time": "10:58",
         "ts": 1789297104
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Sara Musighi, a political prisoner, was sentenced to six years in prison by Branch 26 of the Tehran Revolutionary Court. She is held in Qarchak Varamin prison and was tortured during detention. Her family reported that she was denied proper medical care.",
+        "time": "11:02",
+        "ts": 1789297325
       }
     ],
     "language": "en",
-    "packId": "20260913-48",
-    "sequence": 48,
+    "packId": "20260913-49",
+    "sequence": 49,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:58"
+    "updatedAt": "11:02"
   },
   "verified": true
 }
