@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-08 seq=8 exp=1789446644",
+      "advancedStatus": "pack_id=20260913-09 seq=9 exp=1789446800",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:30",
+      "lastChecked": "04:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 04:30",
+    "expiresAt": "2026-09-15 04:33",
     "items": [
       {
         "channel": "iranintl",
@@ -2219,14 +2219,21 @@
         "text": "Kayhan newspaper wrote that the Islamic Republic should officially declare that in case of an attack on any Iranian tanker, all tankers within range will be targeted. This could lead to a reduction in operational tankers and a historic increase in oil prices. Kayhan emphasized the need for precise planning and use of military and economic capacities for aggressive deterrence.",
         "time": "04:30",
         "ts": 1789273819
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abbas Goudarzi, spokesperson of the Parliament's presidium, said that Iran's exit from the NPT and reconsideration of its nuclear doctrine would put the US in its place. He called negotiations with the US a strategic mistake that would weaken the resistance front. Goudarzi described the conflict between Iran and the US as intrinsic and fundamental.",
+        "time": "04:32",
+        "ts": 1789273975
       }
     ],
     "language": "en",
-    "packId": "20260913-08",
-    "sequence": 8,
+    "packId": "20260913-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:30"
+    "updatedAt": "04:33"
   },
   "verified": true
 }
