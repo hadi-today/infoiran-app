@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-01 seq=1 exp=1789431786",
+      "advancedStatus": "pack_id=20260913-02 seq=2 exp=1789434523",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:23",
+      "lastChecked": "01:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 00:23",
+    "expiresAt": "2026-09-15 01:08",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -1898,13 +1898,19 @@
         "text": "ارتش یمن مواضع حوثی‌ها در تعز را هدف حملات هوایی قرار داد. حوثی‌ها نیز پایگاه نظامی در منطقه شروره عربستان را با پهپاد و موشک بالستیک هدف گرفتند. در نتیجه سقوط یک پرتابه در جازان عربستان، دو نفر مجروح و خساراتی به زیرساخت‌های غیرنظامی وارد شد.",
         "time": "00:22",
         "ts": 1789258959
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "سازمان عملیات تجارت دریایی بریتانیا از وقوع حادثه‌ای در تنگه هرمز خبر داده است. یک کشتی هنگام عبور با پرتابه‌ای ناشناس هدف قرار گرفته است. وضعیت خدمه و خسارت‌ها هنوز مشخص نیست و تحقیقات ادامه دارد.",
+        "time": "01:08",
+        "ts": 1789261698
       }
     ],
-    "packId": "20260913-01",
-    "sequence": 1,
+    "packId": "20260913-02",
+    "sequence": 2,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "00:23"
+    "updatedAt": "01:08"
   },
   "verified": true
 }
