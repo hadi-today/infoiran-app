@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-52 seq=52 exp=1789471816",
+      "advancedStatus": "pack_id=20260913-53 seq=53 exp=1789472137",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:30",
+      "lastChecked": "11:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 11:30",
+    "expiresAt": "2026-09-15 11:35",
     "items": [
       {
         "channel": "iranintl",
@@ -2282,14 +2282,21 @@
         "text": "About 130,000 people, equivalent to 15% of the urban population of North Khorasan, live in 70 inefficient and informal settlements. These neighborhoods are concentrated in seven cities of the province. Additionally, about 1,600 hectares of worn-out and inefficient urban fabric have been identified in these cities.",
         "time": "11:29",
         "ts": 1789298971
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A merchant spoke in a video about the sharp increase in car engine oil prices. He said prices have risen significantly and he does not know how to inform people about this. He expressed concern about the situation of consumers.",
+        "time": "11:35",
+        "ts": 1789299307
       }
     ],
     "language": "en",
-    "packId": "20260913-52",
-    "sequence": 52,
+    "packId": "20260913-53",
+    "sequence": 53,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:30"
+    "updatedAt": "11:35"
   },
   "verified": true
 }
