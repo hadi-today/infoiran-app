@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-80 seq=80 exp=1789483141",
+      "advancedStatus": "pack_id=20260913-81 seq=81 exp=1789483730",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:39",
+      "lastChecked": "14:48",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 14:39",
+    "expiresAt": "2026-09-15 14:48",
     "items": [
       {
         "channel": "harana",
@@ -2170,14 +2170,21 @@
         "text": "Ahmad Reza Radan, the chief of police, stated that Alireza Beiranvand must choose between Malavan or Fajr Sepasi teams for his military service. He emphasized that military service is mandatory for everyone with no exceptions. The champion soldier law does not apply to Beiranvand, and he must complete his service.",
         "time": "14:38",
         "ts": 1789310315
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Hossein Rasouli Nasab, a detainee from the December 2025 protests in Shandiz, was sentenced to death by the Mashhad Revolutionary Court. His charges include waging war against God, destruction of public property, burning religious centers, and conspiracy against national security. He is currently imprisoned in Vakilabad Prison in Mashhad.",
+        "time": "14:48",
+        "ts": 1789310900
       }
     ],
     "language": "en",
-    "packId": "20260913-80",
-    "sequence": 80,
+    "packId": "20260913-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:39"
+    "updatedAt": "14:48"
   },
   "verified": true
 }
