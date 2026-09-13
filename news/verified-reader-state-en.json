@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-13 seq=13 exp=1789452999",
+      "advancedStatus": "pack_id=20260913-14 seq=14 exp=1789453688",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:16",
+      "lastChecked": "06:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 06:16",
+    "expiresAt": "2026-09-15 06:28",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Nazli Sedghi stated that Alireza Sepahi has been transferred to solitary confinement and there is a possibility of his execution. She pointed out serious legal issues in the case, including Sepahi's absence at the scene of the incident and confessions made under torture. It was also mentioned that the parallel branch likely issued a rejection of the retrial without holding a session.",
-        "time": "06:18",
-        "ts": 1789193908
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Kayhan newspaper criticized Majid Ansari, deputy of Masoud Pezeshkian, for stating that the hijab law is unenforceable. Kayhan described these remarks as passive and shirking responsibility. The newspaper urged the government's legal deputy to provide legal solutions.",
-        "time": "06:27",
-        "ts": 1789194448
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -2219,14 +2205,21 @@
         "text": "Mohammad Qaedi commented on the meeting of Arab foreign ministers in Muscat and the agreement between Iran and Oman on a joint route in the Strait of Hormuz. He said the meeting currently holds more symbolic importance. It may also pave the way for future security agreements.",
         "time": "06:15",
         "ts": 1789280159
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Masoud Pezeshkian stated in an interview with India Today that Iran is currently not ready for direct talks with Donald Trump because their leader was killed. He added that building trust is necessary for negotiations. Pezeshkian also said Iran is not at war with Saudi Arabia and there is no reason for conflict among regional countries.",
+        "time": "06:27",
+        "ts": 1789280859
       }
     ],
     "language": "en",
-    "packId": "20260913-13",
-    "sequence": 13,
+    "packId": "20260913-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:16"
+    "updatedAt": "06:28"
   },
   "verified": true
 }
