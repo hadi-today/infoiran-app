@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-111 seq=111 exp=1789497969",
+      "advancedStatus": "pack_id=20260913-112 seq=112 exp=1789498355",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:46",
+      "lastChecked": "18:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 18:46",
+    "expiresAt": "2026-09-15 18:52",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "During the seventh week of the Premier League, fans of Sanat Naft Abadan chanted against their coach Mohammad Nouri. The match against Chadormalu Ardakan was held at Takhti Abadan Stadium. Sanat Naft lost the game 2-1 and is at the bottom of the league table.",
-        "time": "18:48",
-        "ts": 1789238930
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "Several workers on the border wall construction project in Golshan county reported wage arrears. These workers have requested attention to their payment situation. This issue was reported by Harana News Agency.",
         "time": "18:45",
         "ts": 1789325141
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Daei spoke about the existence of mafia in Iran's automobile industry. He stated that mafia exists in all parts of society, including football and automobiles. This interview took place on the sidelines of the Tehran Auto Show.",
+        "time": "18:52",
+        "ts": 1789325525
       }
     ],
     "language": "en",
-    "packId": "20260913-111",
-    "sequence": 111,
+    "packId": "20260913-112",
+    "sequence": 112,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:46"
+    "updatedAt": "18:52"
   },
   "verified": true
 }
