@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-06 seq=6 exp=1789444195",
+      "advancedStatus": "pack_id=20260913-07 seq=7 exp=1789445236",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:49",
+      "lastChecked": "04:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 03:49",
+    "expiresAt": "2026-09-15 04:07",
     "items": [
       {
         "channel": "iranintl",
@@ -2219,14 +2219,21 @@
         "text": "Reduction of subsidies and fuel quotas in Iran has caused dissatisfaction and strikes among truck and taxi drivers. Long queues have formed at fuel stations. The government faces economic difficulties and pressures from sanctions.",
         "time": "03:49",
         "ts": 1789271373
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alexey Likhachov stated that 47 Rosatom specialists have returned to the Bushehr nuclear power plant, with plans to increase to 150. Scheduled maintenance for fuel assembly replacement will begin in mid-September. Construction of the second and third units and repairs of the first unit at Bushehr are also underway.",
+        "time": "04:06",
+        "ts": 1789272411
       }
     ],
     "language": "en",
-    "packId": "20260913-06",
-    "sequence": 6,
+    "packId": "20260913-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:49"
+    "updatedAt": "04:07"
   },
   "verified": true
 }
