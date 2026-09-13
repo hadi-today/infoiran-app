@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-86 seq=86 exp=1789485631",
+      "advancedStatus": "pack_id=20260913-87 seq=87 exp=1789485819",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:20",
+      "lastChecked": "15:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 15:20",
+    "expiresAt": "2026-09-15 15:23",
     "items": [
       {
         "channel": "iranintl",
@@ -2156,14 +2156,21 @@
         "text": "There is widespread disruption at Iran's borders with Iraq and Turkey, affecting land trade and export routes. Truck waiting times at the borders have increased. Concerns have also been raised about reduced trade between the two countries due to US sanctions.",
         "time": "15:19",
         "ts": 1789312773
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohsen Hashemi stated that officials of the Islamic Republic used metro stations as offices during the 12-day and 40-day wars. No safe places or public shelters were introduced for citizens during these wars. Additionally, a citizen's house in Vahdat Town, Karaj, was targeted in an attack in Esfand and remains destroyed.",
+        "time": "15:21",
+        "ts": 1789312917
       }
     ],
     "language": "en",
-    "packId": "20260913-86",
-    "sequence": 86,
+    "packId": "20260913-87",
+    "sequence": 87,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:20"
+    "updatedAt": "15:23"
   },
   "verified": true
 }
