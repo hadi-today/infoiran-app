@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-46 seq=46 exp=1789468096",
+      "advancedStatus": "pack_id=20260913-47 seq=47 exp=1789468310",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:28",
+      "lastChecked": "10:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 10:28",
+    "expiresAt": "2026-09-15 10:31",
     "items": [
       {
         "channel": "iranintl",
@@ -2289,14 +2289,21 @@
         "text": "The 83rd Venice Film Festival concluded after ten days with a closing ceremony and award presentations. Laleh Marzban won the best actress award in the Horizons section and dedicated it to the struggles of Iranian women. Sadaf Baghbani reported on this event.",
         "time": "10:26",
         "ts": 1789295218
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Mojtaba Ahmadi Darani, a bachelor's student of Russian language and literature at Shahid Beheshti University, was sentenced to two semesters of suspension from studies. This sentence was issued by the university's disciplinary committee. More details were published by Harana News Agency.",
+        "time": "10:28",
+        "ts": 1789295289
       }
     ],
     "language": "en",
-    "packId": "20260913-46",
-    "sequence": 46,
+    "packId": "20260913-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:28"
+    "updatedAt": "10:31"
   },
   "verified": true
 }
