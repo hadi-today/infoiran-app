@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-42 seq=42 exp=1789466831",
+      "advancedStatus": "pack_id=20260913-43 seq=43 exp=1789467407",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:07",
+      "lastChecked": "10:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 10:07",
+    "expiresAt": "2026-09-15 10:16",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Bank Sepah issued a directive warning contract employees to pursue their labor protests only through authorized channels. The directive, dated September 8, 2026, states that unprofessional behavior will lead to disciplinary action. This comes amid worsening economic crisis and protests by contract employees in state banks.",
-        "time": "10:09",
-        "ts": 1789207775
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -2275,14 +2268,21 @@
         "text": "Abbas Araghchi stated that the Strait of Hormuz will not open after the agreement with Oman. The condition for reopening the strait is the US returning to its commitments under the Islamabad agreement. The agenda of the Oman meeting is a new maritime route in the Strait of Hormuz.",
         "time": "10:06",
         "ts": 1789294000
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Employees at the Tose power plant in Mashhad report a water shortage crisis and unit closures. A Zahedan municipality engineer faces severe living conditions and cannot afford his wife's medical treatment. Additionally, there are reports of sharp price increases and healthcare difficulties.",
+        "time": "10:16",
+        "ts": 1789294574
       }
     ],
     "language": "en",
-    "packId": "20260913-42",
-    "sequence": 42,
+    "packId": "20260913-43",
+    "sequence": 43,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:07"
+    "updatedAt": "10:16"
   },
   "verified": true
 }
