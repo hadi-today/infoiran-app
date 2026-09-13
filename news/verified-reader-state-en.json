@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-04 seq=4 exp=1789509701",
+      "advancedStatus": "pack_id=20260913-05 seq=5 exp=1789510200",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:01",
+      "lastChecked": "22:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 22:01",
+    "expiresAt": "2026-09-15 22:10",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -77,14 +77,21 @@
         "text": "John Bolton criticized Washington's approach towards the Islamic Republic as confused and contradictory. He stated that there is still a possibility of achieving the desired outcome, including regime change in Iran. These remarks were made on the social network X.",
         "time": "22:01",
         "ts": 1789336882
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Qaedi said the US has adopted a strategy of resource prioritization to manage tensions in the Strait of Hormuz and the Red Sea. Riyadh has requested three guarantees from Washington, but the Trump administration has not provided such guarantees. These guarantees include intelligence warnings, participation in attacks on Houthi positions, and a commitment to defend Saudi Arabia's critical infrastructure.",
+        "time": "22:09",
+        "ts": 1789337378
       }
     ],
     "language": "en",
-    "packId": "20260913-04",
-    "sequence": 4,
+    "packId": "20260913-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:01"
+    "updatedAt": "22:10"
   },
   "verified": true
 }
