@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-22 seq=22 exp=1789458662",
+      "advancedStatus": "pack_id=20260913-23 seq=23 exp=1789459043",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:51",
+      "lastChecked": "07:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 07:51",
+    "expiresAt": "2026-09-15 07:57",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The identities of four more Sunni citizens arrested in Ahvaz, including Mostafa Cheldavi, Ali Cheldavi, Ebrahim Hamdani, and Hadi Beit Sheikh Ahmad, have been confirmed. These individuals were arrested by security forces on Thursday, September 9, 2026, in the village of Oboudeh, Ahvaz. Previously, the identities of five other citizens had also been confirmed.",
-        "time": "07:54",
-        "ts": 1789199651
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -2233,14 +2226,21 @@
         "text": "Mohammad Javad Akbarin, a member of Iran International's editorial team, referred to Kayhan newspaper's note about targeting oil tankers in the Persian Gulf and the Sea of Oman. He said this view believes that land, people, and the country must be sacrificed for their ideals. Akbarin described these policies as continuing the path of destruction, poverty, and ruin for the country.",
         "time": "07:50",
         "ts": 1789285835
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "On the early morning of Sunday, 22 Shahrivar, the death sentences of six prisoners were carried out in the prisons of Iranshahr, Zabol, Zahedan, and Jiroft. These prisoners were sentenced for drug-related crimes. The executions were carried out in separate cases.",
+        "time": "07:56",
+        "ts": 1789286212
       }
     ],
     "language": "en",
-    "packId": "20260913-22",
-    "sequence": 22,
+    "packId": "20260913-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:51"
+    "updatedAt": "07:57"
   },
   "verified": true
 }
