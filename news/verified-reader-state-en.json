@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-06 seq=6 exp=1789510332",
+      "advancedStatus": "pack_id=20260913-07 seq=7 exp=1789510457",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:12",
+      "lastChecked": "22:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 22:12",
+    "expiresAt": "2026-09-15 22:14",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -98,14 +98,21 @@
         "text": "The Oman meeting has been postponed at Saudi Arabia's request following attacks on its energy infrastructure. Saudi Arabia is concerned about stabilizing the current situation in the Strait of Hormuz. The US Energy Secretary stated that any agreement on the Strait of Hormuz without US approval is invalid.",
         "time": "22:11",
         "ts": 1789337518
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The University of Toronto is hosting a meeting on the fourth anniversary of Mahsa Amini's death with academics and civil activists. The session will review the history of freedom struggles from the establishment of the Islamic Republic to recent protests. This report was prepared by Mahsa Mortazavi.",
+        "time": "22:13",
+        "ts": 1789337591
       }
     ],
     "language": "en",
-    "packId": "20260913-06",
-    "sequence": 6,
+    "packId": "20260913-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:12"
+    "updatedAt": "22:14"
   },
   "verified": true
 }
