@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260913-112 seq=112 exp=1789498355",
+      "advancedStatus": "pack_id=20260913-113 seq=113 exp=1789498507",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:52",
+      "lastChecked": "18:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-13",
-    "expiresAt": "2026-09-15 18:52",
+    "expiresAt": "2026-09-15 18:55",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "Ali Daei spoke about the existence of mafia in Iran's automobile industry. He stated that mafia exists in all parts of society, including football and automobiles. This interview took place on the sidelines of the Tehran Auto Show.",
         "time": "18:52",
         "ts": 1789325525
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Disciplinary cases have been filed against 40 students of the University of Tehran for burning the flag. This is related to the student protests in March of last year. The charge is described as \"insult and burning of the flag.\"",
+        "time": "18:54",
+        "ts": 1789325680
       }
     ],
     "language": "en",
-    "packId": "20260913-112",
-    "sequence": 112,
+    "packId": "20260913-113",
+    "sequence": 113,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:52"
+    "updatedAt": "18:55"
   },
   "verified": true
 }
