@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-28 seq=28 exp=1789565112",
+      "advancedStatus": "pack_id=20260914-29 seq=29 exp=1789565476",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:25",
+      "lastChecked": "13:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 13:25",
+    "expiresAt": "2026-09-16 13:31",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -378,14 +378,21 @@
         "text": "The Indonesian Search and Rescue Agency released aerial images of a passenger ship that capsized in the Java Sea. At least six people died and 108 were rescued in the incident. 129 people remain missing, and the ship had 243 passengers, including 30 crew members, departing from Surabaya.",
         "time": "13:24",
         "ts": 1789392253
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Yahya Sari, the military spokesperson for the Houthis, announced a large-scale operation using dozens of drones and ballistic missiles against King Khalid Air Base in Khamis Mushait, Saudi Arabia. This attack was described as a response to Saudi airstrikes on Yemen. Mohammed bin Salman met with the CENTCOM commander to discuss recent regional developments.",
+        "time": "13:30",
+        "ts": 1789392651
       }
     ],
     "language": "en",
-    "packId": "20260914-28",
-    "sequence": 28,
+    "packId": "20260914-29",
+    "sequence": 29,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:25"
+    "updatedAt": "13:31"
   },
   "verified": true
 }
