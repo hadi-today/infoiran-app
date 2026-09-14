@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-45 seq=45 exp=1789572438",
+      "advancedStatus": "pack_id=20260914-47 seq=47 exp=1789572986",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:27",
+      "lastChecked": "15:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 15:27",
+    "expiresAt": "2026-09-16 15:36",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -539,14 +539,28 @@
         "text": "Donald Trump stated that Ukraine and Russia have agreed not to target each other's energy facilities. He also said that the global increase in diesel prices is mainly due to the Russia-Ukraine war, not Iran.",
         "time": "15:27",
         "ts": 1789399628
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The daughter of missing person Hossein Naseri joined the campaign \"One Candle, One Name, One Memory.\" She lit a candle for her father and other victims of January 2026 whose bodies were found at Al-Ghadir Hospital in Tehran. This act was done in memory of the victims.",
+        "time": "15:35",
+        "ts": 1789400157
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Molavi Yousef Gorgij, a Sunni cleric and imam of the Mohammad Rasool Allah Mosque in Zahedan, was killed in a shooting outside his home. He was a supporter of the Islamic Republic and played a significant role in government meetings. The cleric died from severe injuries after being targeted by unknown armed individuals.",
+        "time": "15:36",
+        "ts": 1789400172
       }
     ],
     "language": "en",
-    "packId": "20260914-45",
-    "sequence": 45,
+    "packId": "20260914-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:27"
+    "updatedAt": "15:36"
   },
   "verified": true
 }
