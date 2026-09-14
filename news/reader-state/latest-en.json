@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-62 seq=62 exp=1789578598",
+      "advancedStatus": "pack_id=20260914-63 seq=63 exp=1789578954",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:09",
+      "lastChecked": "17:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 17:09",
+    "expiresAt": "2026-09-16 17:15",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -679,14 +679,21 @@
         "text": "Bloomberg reported that Saudi Arabia is trying to increase its oil exports through the Strait of Hormuz. This move follows an attack on the country's main oil pipeline.",
         "time": "17:06",
         "ts": 1789405606
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abdolhossein Khosropanah stated that most women who do not comply with mandatory hijab do not oppose the regime and this is due to lifestyle changes. He emphasized the need for a national scientific task force on hijab issues and suggested shifting from criminalization to violation penalties and SMS warnings. Khosropanah also warned that hasty decisions in this matter will not yield desirable results.",
+        "time": "17:15",
+        "ts": 1789406128
       }
     ],
     "language": "en",
-    "packId": "20260914-62",
-    "sequence": 62,
+    "packId": "20260914-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:09"
+    "updatedAt": "17:15"
   },
   "verified": true
 }
