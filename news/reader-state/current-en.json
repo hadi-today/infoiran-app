@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-08 seq=8 exp=1789534885",
+      "advancedStatus": "pack_id=20260914-09 seq=9 exp=1789536017",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:01",
+      "lastChecked": "05:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 05:01",
+    "expiresAt": "2026-09-16 05:20",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -203,14 +203,21 @@
         "text": "Mizan news agency reported that 240 properties of individuals accused of crimes such as treason and collaboration with hostile governments have been seized. 143 of these properties are located in Tehran, some belonging to journalists and media activists. Additionally, 182 bank accounts of these individuals have been blocked.",
         "time": "05:01",
         "ts": 1789362069
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reza Shahbazi, deputy of geology at the Geological Organization, stated that land subsidence in Iran has increased from about 10,000 square kilometers in the mid-2010s to around 100,000 square kilometers in 2024. This phenomenon has expanded in provinces such as Isfahan, Kerman, Tehran, Alborz, Qazvin, Khorasan Razavi, Golestan, and northern Khuzestan. Additionally, subsidence around Lake Urmia has reached about 8,500 to 9,000 square kilometers.",
+        "time": "05:19",
+        "ts": 1789363198
       }
     ],
     "language": "en",
-    "packId": "20260914-08",
-    "sequence": 8,
+    "packId": "20260914-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:01"
+    "updatedAt": "05:20"
   },
   "verified": true
 }
