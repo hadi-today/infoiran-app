@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-76 seq=76 exp=1789585691",
+      "advancedStatus": "pack_id=20260914-77 seq=77 exp=1789585924",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:08",
+      "lastChecked": "19:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 19:08",
+    "expiresAt": "2026-09-16 19:12",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -777,14 +777,21 @@
         "text": "Amir Khaledian, a citizen from Qorveh and one of the detainees of the December 2025 protests, was sentenced to four years and six months in prison by the Revolutionary Court. He had previously been sentenced in another case to one year in prison, 74 lashes, and two years of exile.",
         "time": "19:07",
         "ts": 1789412868
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The commander of the IRGC Navy announced that the supertanker Algaya exploded in the southern Strait of Hormuz due to hitting naval mines. Efforts to control the fire have failed, and the tanker is completely engulfed in flames. The Strait of Hormuz is closed and remains under the IRGC Navy's control.",
+        "time": "19:11",
+        "ts": 1789413088
       }
     ],
     "language": "en",
-    "packId": "20260914-76",
-    "sequence": 76,
+    "packId": "20260914-77",
+    "sequence": 77,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:08"
+    "updatedAt": "19:12"
   },
   "verified": true
 }
