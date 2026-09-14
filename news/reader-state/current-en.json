@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-19 seq=19 exp=1789542125",
+      "advancedStatus": "pack_id=20260914-20 seq=20 exp=1789545186",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:02",
+      "lastChecked": "07:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 07:02",
+    "expiresAt": "2026-09-16 07:53",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -287,14 +287,21 @@
         "text": "A citizen sent a video to Iran International showing aerial images of the dryness of Lake Urmia and the fullness of Lake Van. These two lakes are only about 170 kilometers apart. The citizen compared Lake Urmia to a desert and attributed it to the consequences of the 1979 revolution.",
         "time": "07:01",
         "ts": 1789369302
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Satellite images show damage to Saudi Arabia's east-west oil pipeline after a drone attack on September 10. Saudi officials stated that oil transport through this pipeline has been temporarily halted. The drone attack is attributed to Iraq.",
+        "time": "07:52",
+        "ts": 1789372365
       }
     ],
     "language": "en",
-    "packId": "20260914-19",
-    "sequence": 19,
+    "packId": "20260914-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:02"
+    "updatedAt": "07:53"
   },
   "verified": true
 }
