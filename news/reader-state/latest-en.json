@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-03 seq=3 exp=1789522989",
+      "advancedStatus": "pack_id=20260914-04 seq=4 exp=1789524443",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:43",
+      "lastChecked": "02:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 01:43",
+    "expiresAt": "2026-09-16 02:07",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -168,14 +168,21 @@
         "text": "The Hana human rights organization reported that one of the Kurdistan Komala Party camps in the Zargoyzleh area was targeted by four missiles. There is no precise information about the damage or casualties from the attack. Earlier, a loud explosion was heard in Sulaymaniyah province, Iraq.",
         "time": "01:42",
         "ts": 1789350168
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "CBS News, in its \"60 Minutes\" program, published details about the downing of a US F-15 fighter jet in southern Isfahan and the operation by the US Army and CIA to rescue its two crew members. CENTCOM Commander Brad Cooper stated that the fighter jet was targeted on the evening of April 2nd during a mission to attack industrial facilities related to the Islamic Republic's drone and missile program, with CBS identifying a shoulder-fired missile as the cause. Over 90 US military personnel entered Iran to rescue the second crew member, who suffered fractures after his parachute was damaged; after his rescue, two US planes and helicopters were destroyed.",
+        "time": "02:07",
+        "ts": 1789351624
       }
     ],
     "language": "en",
-    "packId": "20260914-03",
-    "sequence": 3,
+    "packId": "20260914-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:43"
+    "updatedAt": "02:07"
   },
   "verified": true
 }
