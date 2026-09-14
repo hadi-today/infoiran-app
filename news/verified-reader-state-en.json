@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-64 seq=64 exp=1789579185",
+      "advancedStatus": "pack_id=20260914-65 seq=65 exp=1789579592",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:19",
+      "lastChecked": "17:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 17:19",
+    "expiresAt": "2026-09-16 17:26",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -693,14 +693,21 @@
         "text": "A video has been released showing that some Esteghlal fans are stranded at the Iraq border. They are waiting for the club bus to reach Basra. Their goal is to attend the stadium to watch the match against Al Sadd Qatar.",
         "time": "17:18",
         "ts": 1789406303
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran International will provide special coverage of the 2026 Nagoya Asian Games from Friday, 27 Shahrivar to 12 Mehr. The program will be broadcast daily at 17:00 Tehran time.",
+        "time": "17:26",
+        "ts": 1789406767
       }
     ],
     "language": "en",
-    "packId": "20260914-64",
-    "sequence": 64,
+    "packId": "20260914-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:19"
+    "updatedAt": "17:26"
   },
   "verified": true
 }
