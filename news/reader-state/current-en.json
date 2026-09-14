@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-13 seq=13 exp=1789546670",
+      "advancedStatus": "pack_id=20260914-14 seq=14 exp=1789546750",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:17",
+      "lastChecked": "08:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 08:17",
+    "expiresAt": "2026-09-16 08:19",
     "items": [
       {
         "channel": "iranintl",
@@ -994,14 +994,28 @@
         "text": "Ahmad Motahari-Asl, the Friday prayer leader of Tabriz, emphasized the enforcement of chastity and hijab laws. He called for decisive action against those promoting immorality. He also urged the government to support families and the values of chastity and hijab.",
         "time": "08:17",
         "ts": 1789373860
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Fathollah Tavassoli, a member of parliament, demanded that Ahmad Donyamali, the Minister of Sports and Youth, explain his daughter's residence and activities in the UK. Tavassoli also announced that the number of signatures for the minister's impeachment has reached 43. He accused the minister of trying to prevent the impeachment process.",
+        "time": "08:18",
+        "ts": 1789373939
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Nima Dadgostar from Iran International referred to a report showing that Iranian institutions use the 'Claude' model for propaganda, citizen surveillance, and identifying US military targets. Part of this usage is due to the regime's technical and economic incapacity. Some institutions use 'Claude' instead of an engineering team to develop malware and surveillance tools.",
+        "time": "08:19",
+        "ts": 1789373944
       }
     ],
     "language": "en",
-    "packId": "20260914-13",
-    "sequence": 13,
+    "packId": "20260914-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:17"
+    "updatedAt": "08:19"
   },
   "verified": true
 }
