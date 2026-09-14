@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-37 seq=37 exp=1789568414",
+      "advancedStatus": "pack_id=20260914-38 seq=38 exp=1789568683",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:20",
+      "lastChecked": "14:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 14:20",
+    "expiresAt": "2026-09-16 14:24",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -462,14 +462,28 @@
         "text": "Mohammad Parsa Golchin, a University of Tehran student and gold medalist in the literary Olympiad, has been accused of membership in a rebellious group and other security-related charges. He has been summoned to Branch 268 of the Mashhad Prosecutor's Office. He was arrested along with 18 others during a friendly visit.",
         "time": "14:19",
         "ts": 1789395563
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Benjamin Netanyahu and Yair Lapid held a security meeting in Jerusalem. Netanyahu requested Lapid's support to reinstate the Israeli budget to increase defense funding. Lapid agrees with increasing the army's budget but opposes funding it through higher taxes on the middle class or reservists.",
+        "time": "14:24",
+        "ts": 1789395857
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The new season of the Asian Elite Football League is starting, and Esteghlal and Tractor, Iran's representatives, are banned from hosting matches in their home country. Esteghlal is hosting Al Sadd of Qatar but will play at the Basra International Stadium in Iraq. This information comes from an interview with Mohammad Taghavi on Iran International.",
+        "time": "14:24",
+        "ts": 1789395864
       }
     ],
     "language": "en",
-    "packId": "20260914-37",
-    "sequence": 37,
+    "packId": "20260914-38",
+    "sequence": 38,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:20"
+    "updatedAt": "14:24"
   },
   "verified": true
 }
