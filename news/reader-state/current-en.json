@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-44 seq=44 exp=1789596942",
+      "advancedStatus": "pack_id=20260914-45 seq=45 exp=1789597238",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:15",
+      "lastChecked": "22:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 22:15",
+    "expiresAt": "2026-09-16 22:20",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -609,14 +609,21 @@
         "text": "Hassan Mansour stated that the Central Bank lacks effective tools to counter economic shocks due to limited access to foreign currency resources. A significant part of Iran's foreign currency income is transferred through unofficial networks. He also said that the officials' emphasis on the persistence of sanctions indicates no outlook for exiting the economic crisis.",
         "time": "22:14",
         "ts": 1789424043
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The International Organization for Migration announced that nearly 94,000 more people have been displaced in Yemen due to ongoing conflicts. The organization is providing aid to affected areas and has called for urgent support for displaced families. It was also reported that since early September, about 125,000 people have been forced to leave their homes.",
+        "time": "22:19",
+        "ts": 1789424393
       }
     ],
     "language": "en",
-    "packId": "20260914-44",
-    "sequence": 44,
+    "packId": "20260914-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:15"
+    "updatedAt": "22:20"
   },
   "verified": true
 }
