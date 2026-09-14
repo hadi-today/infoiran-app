@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-02 seq=2 exp=1789521755",
+      "advancedStatus": "pack_id=20260914-03 seq=3 exp=1789522989",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:22",
+      "lastChecked": "01:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 01:22",
+    "expiresAt": "2026-09-16 01:43",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -161,14 +161,21 @@
         "text": "Donald Trump reacted to a report about the Islamic Republic receiving satellite images of a base in Jordan from Chinese entities by saying they are doing the same thing as the US. Trump did not directly answer whether he would raise the issue in his meeting with Xi Jinping. The Wall Street Journal reported that the Islamic Republic had received satellite images from Chinese entities before the attack on the Jordan base.",
         "time": "01:22",
         "ts": 1789348930
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Hana human rights organization reported that one of the Kurdistan Komala Party camps in the Zargoyzleh area was targeted by four missiles. There is no precise information about the damage or casualties from the attack. Earlier, a loud explosion was heard in Sulaymaniyah province, Iraq.",
+        "time": "01:42",
+        "ts": 1789350168
       }
     ],
     "language": "en",
-    "packId": "20260914-02",
-    "sequence": 2,
+    "packId": "20260914-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:22"
+    "updatedAt": "01:43"
   },
   "verified": true
 }
