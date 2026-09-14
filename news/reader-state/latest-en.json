@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-38 seq=38 exp=1789568683",
+      "advancedStatus": "pack_id=20260914-40 seq=40 exp=1789570338",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:24",
+      "lastChecked": "14:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 14:24",
+    "expiresAt": "2026-09-16 14:52",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -476,14 +476,28 @@
         "text": "The new season of the Asian Elite Football League is starting, and Esteghlal and Tractor, Iran's representatives, are banned from hosting matches in their home country. Esteghlal is hosting Al Sadd of Qatar but will play at the Basra International Stadium in Iraq. This information comes from an interview with Mohammad Taghavi on Iran International.",
         "time": "14:24",
         "ts": 1789395864
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Saharkhizan restaurant in Rasht has been closed. The manager was arrested for \"insulting the hijab.\" Supporters of the government also attacked the restaurant and damaged parts of it.",
+        "time": "14:25",
+        "ts": 1789395900
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abdolnaser Hemmati, the Governor of the Central Bank, stated that external pressures, sanctions, and geopolitical risks are the main factors causing fluctuations in Iran's economy. He emphasized that the Central Bank cannot remain passive against the transmission of external shocks to the domestic economy. Hemmati also highlighted the importance of monetary discipline and preventing budget deficits through increased liquidity.",
+        "time": "14:51",
+        "ts": 1789397510
       }
     ],
     "language": "en",
-    "packId": "20260914-38",
-    "sequence": 38,
+    "packId": "20260914-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:24"
+    "updatedAt": "14:52"
   },
   "verified": true
 }
