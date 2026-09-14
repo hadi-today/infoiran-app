@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-15 seq=15 exp=1789540786",
+      "advancedStatus": "pack_id=20260914-16 seq=16 exp=1789541155",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:39",
+      "lastChecked": "06:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 06:39",
+    "expiresAt": "2026-09-16 06:45",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -252,14 +252,21 @@
         "text": "The dollar rate in Iran has exceeded 235,000 tomans and gasoline prices have risen to 10,000 tomans. Point-to-point inflation in August was 89%, and food inflation exceeded 127%. Prices of oil and rice have increased by more than 300% and 200% respectively, while wages have not yet been adjusted.",
         "time": "06:39",
         "ts": 1789367968
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Tractor football team will face Shabab Al Ahli UAE in the first week of the Asian Elite League. Tractor lost and was eliminated by this team last season. This news was reported by Farhad Mitra in the Hat-trick program.",
+        "time": "06:45",
+        "ts": 1789368333
       }
     ],
     "language": "en",
-    "packId": "20260914-15",
-    "sequence": 15,
+    "packId": "20260914-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:39"
+    "updatedAt": "06:45"
   },
   "verified": true
 }
