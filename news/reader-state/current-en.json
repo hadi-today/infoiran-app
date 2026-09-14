@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-42 seq=42 exp=1789595951",
+      "advancedStatus": "pack_id=20260914-43 seq=43 exp=1789596849",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:59",
+      "lastChecked": "22:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 21:59",
+    "expiresAt": "2026-09-16 22:14",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -595,14 +595,28 @@
         "text": "Mohsen Rezaei stated that Iran will not negotiate with the US until its conditions are met. He referred to the contradictory signals from the US president regarding negotiations. He also mentioned that the equations related to oil and straits have changed, and efforts to control the consequences are futile.",
         "time": "21:58",
         "ts": 1789423115
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Austrian media reported that the visa of Mohammad Eslami, head of the Atomic Energy Organization, was rejected due to opposition from the UN Security Council president. Austria's request for an exemption from the travel ban also failed due to lack of consensus in the Security Council. This report was published by Niloufar Mansouri from Iran International.",
+        "time": "22:13",
+        "ts": 1789424007
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hassan Mansour stated that the Central Bank lacks effective tools to counter economic shocks due to limited access to foreign currency resources. A significant part of Iran's foreign currency income is transferred through unofficial networks. He also said that the officials' emphasis on the persistence of sanctions indicates no outlook for exiting the economic crisis.",
+        "time": "22:14",
+        "ts": 1789424043
       }
     ],
     "language": "en",
-    "packId": "20260914-42",
-    "sequence": 42,
+    "packId": "20260914-43",
+    "sequence": 43,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:59"
+    "updatedAt": "22:14"
   },
   "verified": true
 }
