@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-61 seq=61 exp=1789578384",
+      "advancedStatus": "pack_id=20260914-62 seq=62 exp=1789578598",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:06",
+      "lastChecked": "17:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 17:06",
+    "expiresAt": "2026-09-16 17:09",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -672,14 +672,21 @@
         "text": "The disciplinary committee of Amirkabir University issued disciplinary rulings for 18 students related to last year's protests in Esfand. Two students were expelled for insulting the flag, and the others were suspended or banned from studying for one to three semesters.",
         "time": "17:06",
         "ts": 1789405560
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Bloomberg reported that Saudi Arabia is trying to increase its oil exports through the Strait of Hormuz. This move follows an attack on the country's main oil pipeline.",
+        "time": "17:06",
+        "ts": 1789405606
       }
     ],
     "language": "en",
-    "packId": "20260914-61",
-    "sequence": 61,
+    "packId": "20260914-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:06"
+    "updatedAt": "17:09"
   },
   "verified": true
 }
