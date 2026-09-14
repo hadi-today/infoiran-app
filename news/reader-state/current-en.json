@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-65 seq=65 exp=1789579592",
+      "advancedStatus": "pack_id=20260914-66 seq=66 exp=1789580034",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:26",
+      "lastChecked": "17:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 17:26",
+    "expiresAt": "2026-09-16 17:33",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -700,14 +700,21 @@
         "text": "Iran International will provide special coverage of the 2026 Nagoya Asian Games from Friday, 27 Shahrivar to 12 Mehr. The program will be broadcast daily at 17:00 Tehran time.",
         "time": "17:26",
         "ts": 1789406767
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Yousef Kolonkzadeh, a citizen of Urmia, has been detained in the city's prison for over four months. His situation remains unresolved. This issue continues in Urmia prison.",
+        "time": "17:33",
+        "ts": 1789407209
       }
     ],
     "language": "en",
-    "packId": "20260914-65",
-    "sequence": 65,
+    "packId": "20260914-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:26"
+    "updatedAt": "17:33"
   },
   "verified": true
 }
