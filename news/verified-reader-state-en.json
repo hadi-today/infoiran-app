@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-71 seq=71 exp=1789582650",
+      "advancedStatus": "pack_id=20260914-72 seq=72 exp=1789583394",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:17",
+      "lastChecked": "18:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 18:17",
+    "expiresAt": "2026-09-16 18:29",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -742,14 +742,21 @@
         "text": "A construction worker in Mashhad died due to unsafe working conditions and lack of safety measures. The incident occurred while the worker was performing his job. No further details about the accident have been released.",
         "time": "18:17",
         "ts": 1789409824
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A new tension between Tehran and Riyadh has been reported. Trump stated that Iran is eager and willing to make a deal at any cost. This was discussed in the audio version of Titrawol with Niusha Saremi.",
+        "time": "18:29",
+        "ts": 1789410572
       }
     ],
     "language": "en",
-    "packId": "20260914-71",
-    "sequence": 71,
+    "packId": "20260914-72",
+    "sequence": 72,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:17"
+    "updatedAt": "18:29"
   },
   "verified": true
 }
