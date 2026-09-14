@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-44 seq=44 exp=1789571799",
+      "advancedStatus": "pack_id=20260914-45 seq=45 exp=1789572438",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:16",
+      "lastChecked": "15:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 15:16",
+    "expiresAt": "2026-09-16 15:27",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -525,14 +525,28 @@
         "text": "JD Vance, the US Vice President, stated that the United States has had direct talks with the Houthis. He said the US is in control of the situation and is protecting its interests. The US is also in contact with regional countries and closely monitoring the situation.",
         "time": "15:16",
         "ts": 1789398970
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "One of the rescued pilots of the American F-15 fighter jet revealed that the US deployed 92 elite soldiers in Iran for the first time in 46 years. This operation occurred after the IRGC was thwarted by a CIA deception. The information was disclosed in an interview with CBS.",
+        "time": "15:26",
+        "ts": 1789399614
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump stated that Ukraine and Russia have agreed not to target each other's energy facilities. He also said that the global increase in diesel prices is mainly due to the Russia-Ukraine war, not Iran.",
+        "time": "15:27",
+        "ts": 1789399628
       }
     ],
     "language": "en",
-    "packId": "20260914-44",
-    "sequence": 44,
+    "packId": "20260914-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:16"
+    "updatedAt": "15:27"
   },
   "verified": true
 }
