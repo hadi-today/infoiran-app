@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-20 seq=20 exp=1789545186",
+      "advancedStatus": "pack_id=20260914-21 seq=21 exp=1789545397",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:53",
+      "lastChecked": "07:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 07:53",
+    "expiresAt": "2026-09-16 07:56",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -294,14 +294,21 @@
         "text": "Satellite images show damage to Saudi Arabia's east-west oil pipeline after a drone attack on September 10. Saudi officials stated that oil transport through this pipeline has been temporarily halted. The drone attack is attributed to Iraq.",
         "time": "07:52",
         "ts": 1789372365
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Mohammad Rafi' Sadeghi, a retired teacher, was arrested by security forces. He was transferred to an unknown location. No further details have been announced.",
+        "time": "07:53",
+        "ts": 1789372413
       }
     ],
     "language": "en",
-    "packId": "20260914-20",
-    "sequence": 20,
+    "packId": "20260914-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:53"
+    "updatedAt": "07:56"
   },
   "verified": true
 }
