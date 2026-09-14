@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-01 seq=1 exp=1789545721",
+      "advancedStatus": "pack_id=20260914-02 seq=2 exp=1789545794",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:02",
+      "lastChecked": "08:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 08:02",
+    "expiresAt": "2026-09-16 08:03",
     "items": [
       {
         "channel": "iranintl",
@@ -700,14 +700,28 @@
         "text": "The Saudi Foreign Ministry announced that the east-west oil pipeline was attacked by drones launched from Iraq. Saudi Arabia has decided not to take retaliatory action at this stage. The country reserves the right to take all necessary measures to protect its security.",
         "time": "08:01",
         "ts": 1789372911
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Trump stated that the US is at war with the biggest supporter of terrorism. These remarks were made in the audio version of the program 24 with Fardad Farahzad. The topic is related to war and terrorism.",
+        "time": "08:02",
+        "ts": 1789372938
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Georgi Gvelesiani, former player of Persepolis and the Georgian national team, announced the end of his professional career. He spoke about playing with chronic knee injuries and fighting until the last moment. Gvelesiani thanked his fans and companions and left the football field with pride.",
+        "time": "08:03",
+        "ts": 1789372988
       }
     ],
     "language": "en",
-    "packId": "20260914-01",
-    "sequence": 1,
+    "packId": "20260914-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:02"
+    "updatedAt": "08:03"
   },
   "verified": true
 }
