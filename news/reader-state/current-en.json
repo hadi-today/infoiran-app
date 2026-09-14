@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-43 seq=43 exp=1789571210",
+      "advancedStatus": "pack_id=20260914-44 seq=44 exp=1789571799",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:06",
+      "lastChecked": "15:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 15:06",
+    "expiresAt": "2026-09-16 15:16",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -518,14 +518,21 @@
         "text": "The US dollar price in the free market returned to the range of 235,000 tomans. The official dollar transfer rate also set a new record. Arash Azarmi explained the situation of Iran's currency market.",
         "time": "15:03",
         "ts": 1789398223
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "JD Vance, the US Vice President, stated that the United States has had direct talks with the Houthis. He said the US is in control of the situation and is protecting its interests. The US is also in contact with regional countries and closely monitoring the situation.",
+        "time": "15:16",
+        "ts": 1789398970
       }
     ],
     "language": "en",
-    "packId": "20260914-43",
-    "sequence": 43,
+    "packId": "20260914-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:06"
+    "updatedAt": "15:16"
   },
   "verified": true
 }
