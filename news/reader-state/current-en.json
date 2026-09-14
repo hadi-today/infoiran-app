@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-49 seq=49 exp=1789574570",
+      "advancedStatus": "pack_id=20260914-50 seq=50 exp=1789574822",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:02",
+      "lastChecked": "16:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 16:02",
+    "expiresAt": "2026-09-16 16:07",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -560,14 +560,35 @@
         "text": "Mohammed bin Salman, the Crown Prince of Saudi Arabia, met with Brad Cooper, the commander of CENTCOM, today in Jeddah. This meeting took place amid escalating clashes between the Houthis and Saudi Arabia. More details are provided in an interview with an Iran International reporter.",
         "time": "16:02",
         "ts": 1789401739
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Leila Moallemi, a political prisoner sentenced to 10 years, was transferred to the dangerous crimes ward in Vakilabad Prison, Mashhad. One of the inmates in this ward self-harmed on Sunday night and threatened Leila Moallemi. Her condition worsened but she was not taken to a medical center.",
+        "time": "16:04",
+        "ts": 1789401888
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Ahmad Keyshams, a citizen from Izeh, has been held in Sheiban prison in Ahvaz for over 10 months without a court hearing. He suffers from kidney disease and vision problems but has not received adequate medical care. Recently, he was held in solitary confinement for about two weeks and returned to the ward after interrogation.",
+        "time": "16:06",
+        "ts": 1789401982
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Director General of the International Atomic Energy Agency expressed concern about the lack of information on Iran's nuclear stockpiles and the restricted access of inspectors to damaged facilities. Austrian media reported that the visa of Mohammad Eslami, head of Iran's Atomic Energy Organization, was denied due to opposition from the UN Security Council president. This issue was discussed in an interview with Iran International journalists.",
+        "time": "16:06",
+        "ts": 1789401988
       }
     ],
     "language": "en",
-    "packId": "20260914-49",
-    "sequence": 49,
+    "packId": "20260914-50",
+    "sequence": 50,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:02"
+    "updatedAt": "16:07"
   },
   "verified": true
 }
