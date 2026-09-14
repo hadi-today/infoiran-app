@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260914-39 seq=39 exp=1789593541",
+      "advancedStatus": "pack_id=20260914-40 seq=40 exp=1789593792",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:19",
+      "lastChecked": "21:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-14",
-    "expiresAt": "2026-09-16 21:19",
+    "expiresAt": "2026-09-16 21:23",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -574,14 +574,21 @@
         "text": "The Association of Families of the Victims of the Ukrainian Plane Crash issued a statement on the fourth anniversary of Mahsa Zhina Amini's death. The statement describes the Women, Life, Freedom movement as an integral part of public discourse in Iranian society. The families consider themselves part of a network seeking truth and justice.",
         "time": "21:18",
         "ts": 1789420698
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Yaser Asani, the Albanian player of Esteghlal, scored the first goal and provided an assist in his team's first match in the Asian Elite League. He has scored 10 goals and provided two assists in 11 matches in the Asian Elite League. Additionally, he has scored 4 goals and provided one assist for Esteghlal in the AFC Champions League.",
+        "time": "21:22",
+        "ts": 1789420950
       }
     ],
     "language": "en",
-    "packId": "20260914-39",
-    "sequence": 39,
+    "packId": "20260914-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:19"
+    "updatedAt": "21:23"
   },
   "verified": true
 }
