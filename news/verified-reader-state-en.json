@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-50 seq=50 exp=1789641060",
+      "advancedStatus": "pack_id=20260915-51 seq=51 exp=1789641804",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:31",
+      "lastChecked": "10:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 10:31",
+    "expiresAt": "2026-09-17 10:43",
     "items": [
       {
         "channel": "iranintl",
@@ -630,14 +630,21 @@
         "text": "Ali Hossein Ghazizadeh suggested forming a global coalition with unified command to counter the Houthis. This coalition would coordinate land, air, and naval forces. The Houthis' advance in Bab al-Mandab and the threat to Red Sea security has made Western countries aware of the global costs of the crisis.",
         "time": "10:30",
         "ts": 1789468217
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "According to statistics from the Subsidy Targeting Organization, in August, 28,213,143 people were in the first to third income deciles. This number increased by more than 47,000 compared to July. Additionally, 73,437,712 people are in the first to ninth deciles and are eligible for cash subsidies.",
+        "time": "10:42",
+        "ts": 1789468960
       }
     ],
     "language": "en",
-    "packId": "20260915-50",
-    "sequence": 50,
+    "packId": "20260915-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:31"
+    "updatedAt": "10:43"
   },
   "verified": true
 }
