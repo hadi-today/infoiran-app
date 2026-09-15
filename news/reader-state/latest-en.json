@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-94 seq=94 exp=1789659873",
+      "advancedStatus": "pack_id=20260915-95 seq=95 exp=1789660303",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:44",
+      "lastChecked": "15:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 15:44",
+    "expiresAt": "2026-09-17 15:51",
     "items": [
       {
         "channel": "iranintl",
@@ -875,14 +875,21 @@
         "text": "Iraq's Prime Minister Ali Al-Zaidi stated that Iraq's oil sales have been severely affected by the situation in the Strait of Hormuz. He also mentioned that the crisis between the Islamic Republic and the United States has impacted the entire world. The German Chancellor said the coalition government will explore ways to help consumers cope with rising fuel prices.",
         "time": "15:43",
         "ts": 1789487022
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Bagher Ghalibaf, the Speaker of the Parliament, said that the United States never expected to be defeated by the Islamic Republic. He added that during the 40-day war, the US intended to take security action against Tehran from the Kurdistan region of Iraq, but this plot failed. Ghalibaf also emphasized that the US and Israel seek to create discord between Iran and Iraq.",
+        "time": "15:50",
+        "ts": 1789487452
       }
     ],
     "language": "en",
-    "packId": "20260915-94",
-    "sequence": 94,
+    "packId": "20260915-95",
+    "sequence": 95,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:44"
+    "updatedAt": "15:51"
   },
   "verified": true
 }
