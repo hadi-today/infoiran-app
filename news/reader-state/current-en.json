@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-102 seq=102 exp=1789662747",
+      "advancedStatus": "pack_id=20260915-103 seq=103 exp=1789662873",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:32",
+      "lastChecked": "16:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 16:32",
+    "expiresAt": "2026-09-17 16:34",
     "items": [
       {
         "channel": "iranintl",
@@ -931,14 +931,21 @@
         "text": "Asieh Ramazani, a mother of two, was killed by direct gunfire from the Islamic Republic forces during the protests on January 9, 2026, in Tehran. Her daughter lit a candle in memory of her mother and all victims of the Zhina Mahsa Amini uprising. This event was shared on social media.",
         "time": "16:31",
         "ts": 1789489884
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The interrogation session of Mohammad Parsa Golchin, a University of Tehran student, was held at Mashhad Prosecutor's Office. He faces charges including conspiracy against internal security and propaganda against the regime. His bail was increased from two billion to fifteen billion tomans, and he was released after posting bail.",
+        "time": "16:32",
+        "ts": 1789489971
       }
     ],
     "language": "en",
-    "packId": "20260915-102",
-    "sequence": 102,
+    "packId": "20260915-103",
+    "sequence": 103,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:32"
+    "updatedAt": "16:34"
   },
   "verified": true
 }
