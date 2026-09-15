@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-49 seq=49 exp=1789640514",
+      "advancedStatus": "pack_id=20260915-50 seq=50 exp=1789641060",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:21",
+      "lastChecked": "10:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 10:21",
+    "expiresAt": "2026-09-17 10:31",
     "items": [
       {
         "channel": "iranintl",
@@ -623,14 +623,21 @@
         "text": "Ali Shirazi stated that according to Article 30 of the Constitution, free education up to high school should be provided. He said the government has not fulfilled this duty. Additionally, public schools are charging fees from students' parents.",
         "time": "10:20",
         "ts": 1789467652
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Hossein Ghazizadeh suggested forming a global coalition with unified command to counter the Houthis. This coalition would coordinate land, air, and naval forces. The Houthis' advance in Bab al-Mandab and the threat to Red Sea security has made Western countries aware of the global costs of the crisis.",
+        "time": "10:30",
+        "ts": 1789468217
       }
     ],
     "language": "en",
-    "packId": "20260915-49",
-    "sequence": 49,
+    "packId": "20260915-50",
+    "sequence": 50,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:21"
+    "updatedAt": "10:31"
   },
   "verified": true
 }
