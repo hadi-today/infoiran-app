@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-35 seq=35 exp=1789633697",
+      "advancedStatus": "pack_id=20260915-36 seq=36 exp=1789635327",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:28",
+      "lastChecked": "08:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 08:28",
+    "expiresAt": "2026-09-17 08:55",
     "items": [
       {
         "channel": "iranintl",
@@ -518,14 +518,28 @@
         "text": "The US and Saudi Arabia plan to expand the southern shipping route through the Strait of Hormuz to counter the closure of the Bab al-Mandab Strait. This agreement was reached during a meeting between the CENTCOM commander and the Saudi crown prince. The US is also prepared to use military force against threats in the Strait of Hormuz.",
         "time": "08:26",
         "ts": 1789460791
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Islamic Republic has launched the 'Elaj' intelligence system to identify and collect information about Iranians abroad. This system allows reporting through a website, Telegram bot, and Bale messenger. This action may be reviewed in various countries including the UK, the US, and Canada.",
+        "time": "08:54",
+        "ts": 1789462473
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Austrian Foreign Ministry announced that Mohammad Eslami cannot attend the IAEA General Conference in Vienna due to UN sanctions and the rejection of an exemption request. This is because of his travel ban. More details were provided by Ahmad Samadi.",
+        "time": "08:54",
+        "ts": 1789462478
       }
     ],
     "language": "en",
-    "packId": "20260915-35",
-    "sequence": 35,
+    "packId": "20260915-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:28"
+    "updatedAt": "08:55"
   },
   "verified": true
 }
