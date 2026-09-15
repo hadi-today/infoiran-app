@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-40 seq=40 exp=1789636592",
+      "advancedStatus": "pack_id=20260915-41 seq=41 exp=1789636697",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:16",
+      "lastChecked": "09:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 09:16",
+    "expiresAt": "2026-09-17 09:18",
     "items": [
       {
         "channel": "iranintl",
@@ -560,14 +560,21 @@
         "text": "The UK Maritime Trade Operations received a delayed report of an incident in the Strait of Hormuz. A vessel was reportedly hit by an unidentified projectile. No damage or environmental impact has been reported so far.",
         "time": "09:15",
         "ts": 1789463743
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fadahossein Maleki proposed the formation of an Islamic NATO in opposition to Western NATO. He stated that this proposal has been accepted by many Islamic countries. Maleki emphasized that such an alliance is necessary to counter the crimes of Israel and the United States.",
+        "time": "09:16",
+        "ts": 1789463792
       }
     ],
     "language": "en",
-    "packId": "20260915-40",
-    "sequence": 40,
+    "packId": "20260915-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:16"
+    "updatedAt": "09:18"
   },
   "verified": true
 }
