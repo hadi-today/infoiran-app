@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-62 seq=62 exp=1789646887",
+      "advancedStatus": "pack_id=20260915-63 seq=63 exp=1789646982",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:08",
+      "lastChecked": "12:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 12:08",
+    "expiresAt": "2026-09-17 12:09",
     "items": [
       {
         "channel": "iranintl",
@@ -672,14 +672,21 @@
         "text": "Abdolrazagh Miraki and Mohammadans Allahdadzadeh were arrested by security forces in Saravan on August 17. Since their arrest, their whereabouts have been unknown. Their situation remains unclear.",
         "time": "12:07",
         "ts": 1789474045
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The French club Lens has dismissed Dino Toppmöller after four weeks as head coach. He earned only 4 points in four Ligue 1 matches. The club management has temporarily assigned team leadership to Yannick Kawazek and Bilal Hamdi.",
+        "time": "12:08",
+        "ts": 1789474135
       }
     ],
     "language": "en",
-    "packId": "20260915-62",
-    "sequence": 62,
+    "packId": "20260915-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:08"
+    "updatedAt": "12:09"
   },
   "verified": true
 }
