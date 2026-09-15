@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-143 seq=143 exp=1789686890",
+      "advancedStatus": "pack_id=20260915-144 seq=144 exp=1789687336",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:14",
+      "lastChecked": "23:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 23:14",
+    "expiresAt": "2026-09-17 23:22",
     "items": [
       {
         "channel": "iranintl",
@@ -1071,14 +1071,21 @@
         "text": "The Georgian government will stop all flights of Iranian companies to this country starting next Monday, following new US sanctions. The Civil Aviation Organization has not yet announced this. Tour sales to Georgia will only be available until next Sunday.",
         "time": "23:14",
         "ts": 1789514046
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "JD Vance, the US Vice President, stated that the conflict with the Islamic Republic will enter a completely different phase within one or two months. He said the Islamic Republic will lose more control over the Strait of Hormuz, and ship traffic has returned to over 50% of normal levels. Vance added that the US is not currently conducting offensive operations and that the war will end after the November midterm elections.",
+        "time": "23:21",
+        "ts": 1789514495
       }
     ],
     "language": "en",
-    "packId": "20260915-143",
-    "sequence": 143,
+    "packId": "20260915-144",
+    "sequence": 144,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:14"
+    "updatedAt": "23:22"
   },
   "verified": true
 }
