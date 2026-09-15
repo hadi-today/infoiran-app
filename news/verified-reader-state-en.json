@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-77 seq=77 exp=1789653267",
+      "advancedStatus": "pack_id=20260915-78 seq=78 exp=1789653589",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:54",
+      "lastChecked": "13:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 13:54",
+    "expiresAt": "2026-09-17 13:59",
     "items": [
       {
         "channel": "iranintl",
@@ -749,14 +749,21 @@
         "text": "Golareh Abbasi, a political activist and former political prisoner, announced that her account on Snapp was blocked. Snapp stated the reason for blocking was lack of necessary qualifications for cooperation. Abbasi attributed this action to Snapp's fear.",
         "time": "13:53",
         "ts": 1789480419
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Falih Al-Zaydi, the Prime Minister of Iraq, met with Friedrich Merz, the Chancellor of Germany, in Berlin on Tuesday, 24 Shahrivar, during his European trip. Al-Zaydi was welcomed at the Chancellor's office. This report was provided by Ahmad Samadi from Iran International.",
+        "time": "13:58",
+        "ts": 1789480731
       }
     ],
     "language": "en",
-    "packId": "20260915-77",
-    "sequence": 77,
+    "packId": "20260915-78",
+    "sequence": 78,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:54"
+    "updatedAt": "13:59"
   },
   "verified": true
 }
