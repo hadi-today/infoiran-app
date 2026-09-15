@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-106 seq=106 exp=1789666058",
+      "advancedStatus": "pack_id=20260915-107 seq=107 exp=1789666485",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:27",
+      "lastChecked": "17:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 17:27",
+    "expiresAt": "2026-09-17 17:34",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "Senior military commanders from the US, Israel, and several Arab countries held a secret meeting in Germany last week to discuss war with the Islamic Republic and regional tensions. The meeting was initiated by Brad Cooper, commander of CENTCOM. The agenda included plans to increase ship traffic in the Strait of Hormuz and Israeli military operations.",
         "time": "17:26",
         "ts": 1789493206
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen sent a video to Iran International on the anniversary of Zhina Mahsa Amini, holding the blood-stained flag of the Islamic Republic in protest against the killing of the unnamed martyrs. He said the regime's flag is stained with the blood of brave and innocent people. The citizen emphasized that they will not allow escape from this bloodshed.",
+        "time": "17:33",
+        "ts": 1789493634
       }
     ],
     "language": "en",
-    "packId": "20260915-106",
-    "sequence": 106,
+    "packId": "20260915-107",
+    "sequence": 107,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:27"
+    "updatedAt": "17:34"
   },
   "verified": true
 }
