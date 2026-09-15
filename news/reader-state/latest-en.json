@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-84 seq=84 exp=1789655854",
+      "advancedStatus": "pack_id=20260915-86 seq=86 exp=1789656075",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:37",
+      "lastChecked": "14:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 14:37",
+    "expiresAt": "2026-09-17 14:41",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,21 @@
         "text": "A building under construction on Haft Tir Boulevard in Mashhad caught fire. The spokesperson for Mashhad Fire Department said 14 fire trucks from several stations are at the scene. Firefighting operations are ongoing.",
         "time": "14:36",
         "ts": 1789483002
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Four Iranian football players, including Alireza Jahanbakhsh, Mehdi Qaedi, Ali Gholizadeh, and Majid Hosseini, have become subject to military service after their previous exemptions expired. They must take necessary actions to resolve their military service status. If they return to Iranian football, they may join military teams.",
+        "time": "14:40",
+        "ts": 1789483200
       }
     ],
     "language": "en",
-    "packId": "20260915-84",
-    "sequence": 84,
+    "packId": "20260915-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:37"
+    "updatedAt": "14:41"
   },
   "verified": true
 }
