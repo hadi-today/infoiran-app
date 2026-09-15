@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-39 seq=39 exp=1789636031",
+      "advancedStatus": "pack_id=20260915-40 seq=40 exp=1789636592",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:07",
+      "lastChecked": "09:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 09:07",
+    "expiresAt": "2026-09-17 09:16",
     "items": [
       {
         "channel": "iranintl",
@@ -553,14 +553,21 @@
         "text": "The head of the Emergency Organization announced that there are three thousand worn-out ambulances in the country, some of which have been in use for over 15 years. The optimal lifespan of ambulances is about 10 years, but due to current conditions, the worn-out fleet is still in use. Additionally, a shortage of personnel in cities like Isfahan, Tabriz, and Karaj is identified as a major challenge.",
         "time": "09:05",
         "ts": 1789463122
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The UK Maritime Trade Operations received a delayed report of an incident in the Strait of Hormuz. A vessel was reportedly hit by an unidentified projectile. No damage or environmental impact has been reported so far.",
+        "time": "09:15",
+        "ts": 1789463743
       }
     ],
     "language": "en",
-    "packId": "20260915-39",
-    "sequence": 39,
+    "packId": "20260915-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:07"
+    "updatedAt": "09:16"
   },
   "verified": true
 }
