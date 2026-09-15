@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-63 seq=63 exp=1789646982",
+      "advancedStatus": "pack_id=20260915-64 seq=64 exp=1789647099",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:09",
+      "lastChecked": "12:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 12:09",
+    "expiresAt": "2026-09-17 12:11",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The public relations manager of the Iranian Pharmacists Association stated that with the removal of preferential currency and the increase in exchange rates, the cost of supplying pharmaceutical raw materials has increased about fivefold. The price of Iranian medicines has risen about 150% since the beginning of the year. Additionally, foreign medicines have increased by 400 to 500%, and supplements by 300 to 400%.",
-        "time": "12:09",
-        "ts": 1789387765
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -679,14 +672,21 @@
         "text": "The French club Lens has dismissed Dino Toppmöller after four weeks as head coach. He earned only 4 points in four Ligue 1 matches. The club management has temporarily assigned team leadership to Yannick Kawazek and Bilal Hamdi.",
         "time": "12:08",
         "ts": 1789474135
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The security project 'Elaj' has published personal information of some Iranians abroad and asked citizens to identify and report more individuals. The Islamic Republic of Iran Broadcasting has also promoted this project. The responsible organization and the source of the published information are unknown.",
+        "time": "12:10",
+        "ts": 1789474257
       }
     ],
     "language": "en",
-    "packId": "20260915-63",
-    "sequence": 63,
+    "packId": "20260915-64",
+    "sequence": 64,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:09"
+    "updatedAt": "12:11"
   },
   "verified": true
 }
