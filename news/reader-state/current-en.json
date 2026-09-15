@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-55 seq=55 exp=1789644911",
+      "advancedStatus": "pack_id=20260915-56 seq=56 exp=1789645507",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:35",
+      "lastChecked": "11:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 11:35",
+    "expiresAt": "2026-09-17 11:45",
     "items": [
       {
         "channel": "iranintl",
@@ -644,14 +644,21 @@
         "text": "Arash Azarmi, secretary of the economic section of Iran International, said that the US sanctions on Russian bank VTB limit one of the channels for the Islamic Republic to bypass sanctions and serve as a warning to other banks and financial institutions cooperating with it. He added that VTB's office in Tehran and the ruble-rial settlement mechanism have turned this bank into an important financial channel for Iran.",
         "time": "11:34",
         "ts": 1789472064
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The oil tanker Algaya caught fire in the engine room following a drone attack by the IRGC and is being towed to a port in Oman. Twenty-three crew members have been evacuated, and two remain missing. The report was published by Reuters.",
+        "time": "11:44",
+        "ts": 1789472658
       }
     ],
     "language": "en",
-    "packId": "20260915-55",
-    "sequence": 55,
+    "packId": "20260915-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:35"
+    "updatedAt": "11:45"
   },
   "verified": true
 }
