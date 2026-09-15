@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-75 seq=75 exp=1789652141",
+      "advancedStatus": "pack_id=20260915-76 seq=76 exp=1789653072",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:35",
+      "lastChecked": "13:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 13:35",
+    "expiresAt": "2026-09-17 13:51",
     "items": [
       {
         "channel": "iranintl",
@@ -735,14 +735,21 @@
         "text": "A person stated that due to the country's conditions, important life decisions such as having children and buying a house have been postponed. Long-term plans have been canceled, and only daily routines are followed. He believes that the country's situation has made controlling life difficult.",
         "time": "13:34",
         "ts": 1789479290
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US military destroyed two small Iranian boats after the IRGC attempted to seize a US Navy drone in the Strait of Hormuz. Most of the boat occupants were killed, and search and rescue operations are ongoing. The drone remains under US control.",
+        "time": "13:50",
+        "ts": 1789480229
       }
     ],
     "language": "en",
-    "packId": "20260915-75",
-    "sequence": 75,
+    "packId": "20260915-76",
+    "sequence": 76,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:35"
+    "updatedAt": "13:51"
   },
   "verified": true
 }
