@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-121 seq=121 exp=1789672698",
+      "advancedStatus": "pack_id=20260915-123 seq=123 exp=1789673687",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:18",
+      "lastChecked": "19:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 19:18",
+    "expiresAt": "2026-09-17 19:34",
     "items": [
       {
         "channel": "iranintl",
@@ -1071,14 +1071,28 @@
         "text": "Mohammad Akraminia, the army spokesperson, said that the US has become a nervous actor in its decline and cannot maintain its hegemony. He added that the recent war showed that the US priority is to protect its own and Israel's interests, not the security of regional countries. Therefore, imported security will never guarantee lasting peace.",
         "time": "19:17",
         "ts": 1789499834
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Taeb, head of the Basij Organization, spoke about some countries' attempts to escort ships through the Strait of Hormuz with warships and air support. He said Iran's resistance did not allow these actions to succeed easily. These statements reflect Iran's stance in the region.",
+        "time": "19:31",
+        "ts": 1789500688
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A viewer criticized the high food prices in a video sent to Iran International. He said people do not go to the streets out of fear of death. He described the living conditions as worse than death.",
+        "time": "19:33",
+        "ts": 1789500832
       }
     ],
     "language": "en",
-    "packId": "20260915-121",
-    "sequence": 121,
+    "packId": "20260915-123",
+    "sequence": 123,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:18"
+    "updatedAt": "19:34"
   },
   "verified": true
 }
