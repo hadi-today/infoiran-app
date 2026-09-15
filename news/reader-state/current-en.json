@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-65 seq=65 exp=1789647428",
+      "advancedStatus": "pack_id=20260915-66 seq=66 exp=1789648488",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:17",
+      "lastChecked": "12:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 12:17",
+    "expiresAt": "2026-09-17 12:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen sent a video showing Mahsa Amini's grave in Dushanbe. Mahsa Amini, 21 years old from Saqez, was arrested on September 13, 2022, due to hijab issues and suffered brain death after being beaten. She passed away on September 16.",
-        "time": "12:20",
-        "ts": 1789388427
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -679,14 +672,28 @@
         "text": "Tehran police arrested a person who threw three Molotov cocktails at a crowd in Punak Square on the evening of Tuesday, September 14. The individual attempted to illegally cross the western borders and was injured in the right leg during the arrest. A similar incident occurred earlier on September 1 in Mashhad.",
         "time": "12:16",
         "ts": 1789474582
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Sahand Nejatbakhsh, a chemical engineering undergraduate student at Iran University of Science and Technology, was sentenced to a one-semester suspension from studies. The disciplinary committee of the university issued this verdict. The ruling was made on September 14.",
+        "time": "12:33",
+        "ts": 1789475629
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Farahnaz Salari, director of the Shamim Mehr Charity, stated that some beneficiaries sold their commodity baskets to buy school uniforms. She added that families cannot afford the items required for preschool children. These issues highlight the economic pressure on families to meet their children's educational needs.",
+        "time": "12:33",
+        "ts": 1789475639
       }
     ],
     "language": "en",
-    "packId": "20260915-65",
-    "sequence": 65,
+    "packId": "20260915-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:17"
+    "updatedAt": "12:34"
   },
   "verified": true
 }
