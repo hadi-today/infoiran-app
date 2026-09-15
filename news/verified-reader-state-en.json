@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-95 seq=95 exp=1789660303",
+      "advancedStatus": "pack_id=20260915-96 seq=96 exp=1789660646",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:51",
+      "lastChecked": "15:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 15:51",
+    "expiresAt": "2026-09-17 15:57",
     "items": [
       {
         "channel": "iranintl",
@@ -882,14 +882,21 @@
         "text": "Mohammad Bagher Ghalibaf, the Speaker of the Parliament, said that the United States never expected to be defeated by the Islamic Republic. He added that during the 40-day war, the US intended to take security action against Tehran from the Kurdistan region of Iraq, but this plot failed. Ghalibaf also emphasized that the US and Israel seek to create discord between Iran and Iraq.",
         "time": "15:50",
         "ts": 1789487452
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Houthis once again attacked the strategic pipeline of Saudi Arabia, and the Israeli newspaper Israel Hayom reported the formation of a US-led military coalition in support of Riyadh. Meanwhile, Mohammed bin Salman, in a message to the Egyptian president, said he will not surrender to the blackmail of the IRGC and Houthis in the straits.",
+        "time": "15:56",
+        "ts": 1789487798
       }
     ],
     "language": "en",
-    "packId": "20260915-95",
-    "sequence": 95,
+    "packId": "20260915-96",
+    "sequence": 96,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:51"
+    "updatedAt": "15:57"
   },
   "verified": true
 }
