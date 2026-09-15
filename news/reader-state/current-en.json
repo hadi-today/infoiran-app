@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-53 seq=53 exp=1789643796",
+      "advancedStatus": "pack_id=20260915-54 seq=54 exp=1789644076",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:16",
+      "lastChecked": "11:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 11:16",
+    "expiresAt": "2026-09-17 11:21",
     "items": [
       {
         "channel": "iranintl",
@@ -644,14 +644,21 @@
         "text": "Four Kurdish political prisoners in Yazd and Evin prisons announced they will go on a hunger strike on Wednesday, September 25. They described the strike as the most civil form of protest and are joining the general strike on the anniversary of Mahsa Zhina Amini's death. The Coalition of Kurdish Political Forces in Iran also called for a general strike on the same day.",
         "time": "11:15",
         "ts": 1789470946
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morteza Kazemian said that the message from military and governmental institutions to continue pro-government gatherings indicates their concern about the re-emergence of street protests. He emphasized that government-organized gatherings are tools to intimidate and prevent protests. The legitimacy crisis and dissatisfaction with the Islamic Republic are deeper than what these measures can control.",
+        "time": "11:20",
+        "ts": 1789471227
       }
     ],
     "language": "en",
-    "packId": "20260915-53",
-    "sequence": 53,
+    "packId": "20260915-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:16"
+    "updatedAt": "11:21"
   },
   "verified": true
 }
