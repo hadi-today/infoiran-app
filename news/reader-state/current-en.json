@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-79 seq=79 exp=1789654367",
+      "advancedStatus": "pack_id=20260915-80 seq=80 exp=1789654565",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:12",
+      "lastChecked": "14:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 14:12",
+    "expiresAt": "2026-09-17 14:16",
     "items": [
       {
         "channel": "iranintl",
@@ -763,14 +763,28 @@
         "text": "A person in Iran stated that due to unfavorable economic and political conditions, many important life decisions such as continuing education, changing cars, marriage, and having children have been postponed. He complained about the lack of medical equipment and severe inflation, saying his life is almost halted. Additionally, the news of his wife's pregnancy caused him concern.",
         "time": "14:11",
         "ts": 1789481511
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Saudi Arabia and Israel are in contact through CENTCOM, and Riyadh has requested intelligence assistance from Israel to counter Houthi attacks. Mohammed bin Salman has asked regional countries for help against the Houthis. The request for help from Israel was made indirectly through the United States.",
+        "time": "14:15",
+        "ts": 1789481701
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Tensions between Saudi Arabia and the Houthis supported by the Islamic Republic continue. The Saudi Crown Prince arrived in Cairo to meet with the President of Egypt. Iran International reporters discussed reactions to the Houthis' threats and missile attacks.",
+        "time": "14:15",
+        "ts": 1789481746
       }
     ],
     "language": "en",
-    "packId": "20260915-79",
-    "sequence": 79,
+    "packId": "20260915-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:12"
+    "updatedAt": "14:16"
   },
   "verified": true
 }
