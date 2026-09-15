@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-141 seq=141 exp=1789686118",
+      "advancedStatus": "pack_id=20260915-142 seq=142 exp=1789686378",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:01",
+      "lastChecked": "23:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 23:01",
+    "expiresAt": "2026-09-17 23:06",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Peyman Hadadi spoke about Persepolis's complaint against Esteghlal for using Yaser Asani in the Tehran derby, stating they await the disciplinary committee's decision and will take the case to CAS if unsatisfied. He also inquired about penalties for Esteghlal and Tractor refusing to release players called up to the U23 team. Hadadi emphasized that imposing penalties would demonstrate fair treatment.",
-        "time": "23:05",
-        "ts": 1789427136
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1071,14 +1064,21 @@
         "text": "Thomas Massey, a Republican member of the US Congress, has introduced an eight-point resolution to impeach Pete Hegseth, the US Secretary of War. Massey accuses Hegseth of illegally continuing the war with the Islamic Republic and defying Congress. This report was published by Marzieh Hosseini from Iran International.",
         "time": "23:01",
         "ts": 1789513277
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Washington Post reported that the Trump administration is preparing a $2.8 billion weapons package for Israel. This package includes 20,000 MK-84 bombs, 20,000 BLU-117 bombs, and 20,000 I-2000 penetrator warheads.",
+        "time": "23:05",
+        "ts": 1789513538
       }
     ],
     "language": "en",
-    "packId": "20260915-141",
-    "sequence": 141,
+    "packId": "20260915-142",
+    "sequence": 142,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:01"
+    "updatedAt": "23:06"
   },
   "verified": true
 }
