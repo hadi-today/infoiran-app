@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-123 seq=123 exp=1789673687",
+      "advancedStatus": "pack_id=20260915-124 seq=124 exp=1789673850",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:34",
+      "lastChecked": "19:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 19:34",
+    "expiresAt": "2026-09-17 19:37",
     "items": [
       {
         "channel": "iranintl",
@@ -1085,14 +1085,21 @@
         "text": "A viewer criticized the high food prices in a video sent to Iran International. He said people do not go to the streets out of fear of death. He described the living conditions as worse than death.",
         "time": "19:33",
         "ts": 1789500832
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Britain, the US, and the Netherlands have warned about the spyware \"Chosen Break\" linked to the Islamic Republic, used to target opponents, activists, and journalists. This malware can steal emails and messages and access social networks, microphones, and device screens. Research, military, and technology institutions have also been targeted.",
+        "time": "19:36",
+        "ts": 1789501004
       }
     ],
     "language": "en",
-    "packId": "20260915-123",
-    "sequence": 123,
+    "packId": "20260915-124",
+    "sequence": 124,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:34"
+    "updatedAt": "19:37"
   },
   "verified": true
 }
