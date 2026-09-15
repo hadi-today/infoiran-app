@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-113 seq=113 exp=1789670141",
+      "advancedStatus": "pack_id=20260915-114 seq=114 exp=1789670311",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:35",
+      "lastChecked": "18:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 18:35",
+    "expiresAt": "2026-09-17 18:38",
     "items": [
       {
         "channel": "iranintl",
@@ -1008,14 +1008,28 @@
         "text": "Al Ain football team defeated Al Nassr Saudi Arabia 4-0 in the first week of the Asian Elite League. Al Ain's goals were scored by Hossein Rahimi (twice), Sofian Rahimi, and Giakoumakis. Al Nassr lost despite having Cristiano Ronaldo in their lineup.",
         "time": "18:34",
         "ts": 1789497282
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Eyal Zamir, Chief of Staff of the Israeli army, described Hamas as defeated and said the group is currently not firing or responding. The Israeli army controls over 64% of the Gaza Strip. However, it has been warned that Hamas is trying to rebuild its military strength and recruit new forces.",
+        "time": "18:36",
+        "ts": 1789497405
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The execution of two prisoners was carried out in the prisons of Dastgerd Isfahan and Ilam. These prisoners were sentenced to death for drug-related crimes and murder. Additionally, a prisoner sentenced to death in Anbarabad was spared from execution due to the victim's family's forgiveness.",
+        "time": "18:37",
+        "ts": 1789497465
       }
     ],
     "language": "en",
-    "packId": "20260915-113",
-    "sequence": 113,
+    "packId": "20260915-114",
+    "sequence": 114,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:35"
+    "updatedAt": "18:38"
   },
   "verified": true
 }
