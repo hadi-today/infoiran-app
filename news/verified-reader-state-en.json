@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-86 seq=86 exp=1789656075",
+      "advancedStatus": "pack_id=20260915-87 seq=87 exp=1789657832",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:41",
+      "lastChecked": "15:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-15",
-    "expiresAt": "2026-09-17 14:41",
+    "expiresAt": "2026-09-17 15:10",
     "items": [
       {
         "channel": "iranintl",
@@ -812,14 +812,21 @@
         "text": "Four Iranian football players, including Alireza Jahanbakhsh, Mehdi Qaedi, Ali Gholizadeh, and Majid Hosseini, have become subject to military service after their previous exemptions expired. They must take necessary actions to resolve their military service status. If they return to Iranian football, they may join military teams.",
         "time": "14:40",
         "ts": 1789483200
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Scott Bessent, the US Treasury Secretary, said in Congress that they have seen positive remarks from the UAE about cutting off Iran's financial resources. He also reported good private talks with China about Iran's financial connections and added that these talks will continue with China's vice premier. Trump and Xi Jinping will also discuss Tehran later this month.",
+        "time": "15:09",
+        "ts": 1789484984
       }
     ],
     "language": "en",
-    "packId": "20260915-86",
-    "sequence": 86,
+    "packId": "20260915-87",
+    "sequence": 87,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:41"
+    "updatedAt": "15:10"
   },
   "verified": true
 }
