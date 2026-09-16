@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-22 seq=22 exp=1789712400",
+      "advancedStatus": "pack_id=20260916-23 seq=23 exp=1789712804",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:20",
+      "lastChecked": "06:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 06:20",
+    "expiresAt": "2026-09-18 06:26",
     "items": [
       {
         "channel": "iranintl",
@@ -1106,14 +1106,21 @@
         "text": "The Iranian men's national basketball team defeated Bahrain 79-74 and advanced to the semifinals of the Nagoya Asian Games. Mohammad Jamshidi and Mehdi Heydari played key roles in this victory. Iran will face South Korea in the semifinals on Friday, September 17.",
         "time": "06:19",
         "ts": 1789539553
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shopkeepers in Saqez closed their shops on September 16. This action coincided with the fourth anniversary of the death of Zhina Mahsa Amini. The presence of military forces in the city has also been reported.",
+        "time": "06:26",
+        "ts": 1789539960
       }
     ],
     "language": "en",
-    "packId": "20260916-22",
-    "sequence": 22,
+    "packId": "20260916-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:20"
+    "updatedAt": "06:26"
   },
   "verified": true
 }
