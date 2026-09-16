@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-117 seq=117 exp=1789752818",
+      "advancedStatus": "pack_id=20260916-118 seq=118 exp=1789752923",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:33",
+      "lastChecked": "17:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 17:33",
+    "expiresAt": "2026-09-18 17:35",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen sent a video to Iran International on the anniversary of Zhina Mahsa Amini, holding the blood-stained flag of the Islamic Republic in protest against the killing of the unnamed martyrs. He said the regime's flag is stained with the blood of brave and innocent people. The citizen emphasized that they will not allow escape from this bloodshed.",
-        "time": "17:33",
-        "ts": 1789493634
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1176,14 +1169,21 @@
         "text": "Hatam Ahmadi, CEO of Fajr Sepasi club, announced that Alireza Beiranvand's transfer to the team is confirmed. The only remaining issue is determining the exact time of his military service enlistment. Beiranvand must join Fajr Sepasi, but he cannot be used until mid-season.",
         "time": "17:32",
         "ts": 1789579967
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video dated Wednesday, 25 Shahrivar, shows a long line of cars in the city of Sarakhs, Khorasan Razavi province, waiting to receive gasoline. The video was sent to Iran International. The issue relates to gasoline shortage or demand in this area.",
+        "time": "17:34",
+        "ts": 1789580043
       }
     ],
     "language": "en",
-    "packId": "20260916-117",
-    "sequence": 117,
+    "packId": "20260916-118",
+    "sequence": 118,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:33"
+    "updatedAt": "17:35"
   },
   "verified": true
 }
