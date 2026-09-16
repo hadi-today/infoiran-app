@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-50 seq=50 exp=1789722325",
+      "advancedStatus": "pack_id=20260916-51 seq=51 exp=1789722645",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:05",
+      "lastChecked": "09:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 09:05",
+    "expiresAt": "2026-09-18 09:10",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Sajjad Babaafshari's sister joined the \"One Candle, One Name, One Memory\" campaign by lighting a candle at his grave. Sajjad Babaafshari was killed on January 8, 2026, in Hashtgerd. This act was done in his memory.",
-        "time": "09:04",
-        "ts": 1789463076
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The head of the Emergency Organization announced that there are three thousand worn-out ambulances in the country, some of which have been in use for over 15 years. The optimal lifespan of ambulances is about 10 years, but due to current conditions, the worn-out fleet is still in use. Additionally, a shortage of personnel in cities like Isfahan, Tabriz, and Karaj is identified as a major challenge.",
-        "time": "09:05",
-        "ts": 1789463122
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1169,14 +1155,21 @@
         "text": "Masoud Farhikhteh, a teachers' union activist, was sentenced to one year of imprisonment and additional punishments while serving his sentence in Karaj Central Prison. The sentence was issued by the Revolutionary Court of Karaj County. A new case was opened against him during his imprisonment.",
         "time": "09:04",
         "ts": 1789549444
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Joseph Aoun, the President of Lebanon, announced that the country seeks an agreement with Israel. He said the agreement could pave the way for peace and the government wants to keep weapons under its control without causing internal conflict. He also requested help from Europe, the US, and Arab countries to support the Lebanese army to prevent a security vacuum after UNIFIL's withdrawal.",
+        "time": "09:09",
+        "ts": 1789549792
       }
     ],
     "language": "en",
-    "packId": "20260916-50",
-    "sequence": 50,
+    "packId": "20260916-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:05"
+    "updatedAt": "09:10"
   },
   "verified": true
 }
