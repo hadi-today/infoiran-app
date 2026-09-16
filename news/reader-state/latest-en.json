@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-128 seq=128 exp=1789757020",
+      "advancedStatus": "pack_id=20260916-129 seq=129 exp=1789757547",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:43",
+      "lastChecked": "18:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 18:43",
+    "expiresAt": "2026-09-18 18:52",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The United States has confirmed the attack on two Iranian boats and their destruction. This news was published in the audio version of Titrawol with Niusha Saremi. More details are provided in this report.",
-        "time": "18:48",
-        "ts": 1789498081
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mehdi Mahdavi Azad stated in the program \"Cheshmandaz\" that poverty alone is not the cause of protests; injustice, economic gaps, lack of future, and lack of motivation also lead to protests. He added that the Iranian government faces financial incapacity, internal conflicts, and loss of legitimacy.",
-        "time": "18:50",
-        "ts": 1789498200
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1183,14 +1169,21 @@
         "text": "Mehdi Mahdavi Azad said the Women, Life, Freedom movement was an exceptional revolution that became a turning point in the history of the Islamic Republic. He added that the consequences of this movement, from increased repression to subsequent developments, stem from the government's response to the 1401 protests. He also noted that the repression of protests and the return of security figures indicate a change in the Islamic Republic's approach after this movement.",
         "time": "18:42",
         "ts": 1789584147
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "At least 300 faculty members of Farhangian University have not received their salaries for over a year and are in an uncertain employment status. Some of these professors are protesting forced retirement. This state of uncertainty continues.",
+        "time": "18:51",
+        "ts": 1789584681
       }
     ],
     "language": "en",
-    "packId": "20260916-128",
-    "sequence": 128,
+    "packId": "20260916-129",
+    "sequence": 129,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:43"
+    "updatedAt": "18:52"
   },
   "verified": true
 }
