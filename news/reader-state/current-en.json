@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-66 seq=66 exp=1789729778",
+      "advancedStatus": "pack_id=20260916-67 seq=67 exp=1789730171",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:09",
+      "lastChecked": "11:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 11:09",
+    "expiresAt": "2026-09-18 11:16",
     "items": [
       {
         "channel": "iranintl",
@@ -1176,14 +1176,21 @@
         "text": "The Secretary General of Amnesty International in Germany called for judicial investigations into the suppression of protesters in Iran. He emphasized that the perpetrators have not been held accountable and Germany can initiate investigations using the principle of universal jurisdiction. Some victims residing in Germany can provide important evidence.",
         "time": "11:07",
         "ts": 1789556873
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "After the youth match between Sabouri Langarud and Abipoushan Rudsar, protests against the referee's decision led to physical assault. This incident caused the referee's eardrum to rupture. The head of Gilan Football Board announced the case is being pursued and requested action against the guilty coach.",
+        "time": "11:15",
+        "ts": 1789557322
       }
     ],
     "language": "en",
-    "packId": "20260916-66",
-    "sequence": 66,
+    "packId": "20260916-67",
+    "sequence": 67,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:09"
+    "updatedAt": "11:16"
   },
   "verified": true
 }
