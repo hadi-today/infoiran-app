@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-119 seq=119 exp=1789753034",
+      "advancedStatus": "pack_id=20260916-120 seq=120 exp=1789753583",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:37",
+      "lastChecked": "17:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 17:37",
+    "expiresAt": "2026-09-18 17:46",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Nima Akbarpour stated that internet instability and outages have led more users to adopt Starlink. He also mentioned that filtering has imposed significant financial costs on people. Using anonymous VPNs has put users' personal information at risk.",
-        "time": "17:37",
-        "ts": 1789493837
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1176,14 +1169,21 @@
         "text": "The Instagram page of the German Embassy in Tehran commemorated the fourth anniversary of the killing of Mahsa Zhina Amini. The American Jewish Committee also wrote that she died in hospital after being detained by the morality police for not observing the hijab. The organization emphasized that her death has become a global symbol of women's repression and human rights violations.",
         "time": "17:35",
         "ts": 1789580131
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Navid Khoshnezhad, a citizen from Izeh, was released from Ahvaz prison after posting a 10 billion toman bail. His lawyer stated that she is still unaware of the charges against him. This news was reported by the HRANA news agency.",
+        "time": "17:45",
+        "ts": 1789580733
       }
     ],
     "language": "en",
-    "packId": "20260916-119",
-    "sequence": 119,
+    "packId": "20260916-120",
+    "sequence": 120,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:37"
+    "updatedAt": "17:46"
   },
   "verified": true
 }
