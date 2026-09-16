@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-09 seq=9 exp=1789699898",
+      "advancedStatus": "pack_id=20260916-10 seq=10 exp=1789700478",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:51",
+      "lastChecked": "03:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 02:51",
+    "expiresAt": "2026-09-18 03:01",
     "items": [
       {
         "channel": "iranintl",
@@ -1106,14 +1106,21 @@
         "text": "Marco Rubio and Asaad Al-Sheibani held a phone call discussing regional security and increased cooperation between the two countries. The US Secretary of State emphasized the importance of integrating all Syrian minority groups. Rubio also praised Syria's progress in cooperation with the International Atomic Energy Agency.",
         "time": "02:50",
         "ts": 1789527052
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US State Department raised the travel advisory for Saudi Arabia to level 3, advising reconsideration of travel. The warning cites risks of missile and drone attacks by the Islamic Republic, armed conflict, and terrorism. The border area between Saudi Arabia and Yemen is at level 4, meaning do not travel.",
+        "time": "03:00",
+        "ts": 1789527631
       }
     ],
     "language": "en",
-    "packId": "20260916-09",
-    "sequence": 9,
+    "packId": "20260916-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:51"
+    "updatedAt": "03:01"
   },
   "verified": true
 }
