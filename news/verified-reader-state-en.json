@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-95 seq=95 exp=1789744762",
+      "advancedStatus": "pack_id=20260916-96 seq=96 exp=1789744974",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:19",
+      "lastChecked": "15:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 15:19",
+    "expiresAt": "2026-09-18 15:22",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "On Monday, 23 Shahrivar, the Intelligence Corps agents searched Raha Jalilian's home and confiscated some digital devices belonging to her family. Raha Jalilian was simultaneously summoned to the Intelligence Corps. The agents were unable to arrest her due to her absence.",
-        "time": "15:18",
-        "ts": 1789485526
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1148,14 +1141,21 @@
         "text": "Donya Veysi, a resident of Divandarreh, was arrested by security forces. She was transferred to an unknown location. This event occurred today.",
         "time": "15:18",
         "ts": 1789571909
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Chris Wright, US Energy Secretary, said in a Fox News interview on Wednesday that about 18 million barrels of oil left the Persian Gulf on Tuesday, nearly equivalent to pre-war levels.",
+        "time": "15:22",
+        "ts": 1789572120
       }
     ],
     "language": "en",
-    "packId": "20260916-95",
-    "sequence": 95,
+    "packId": "20260916-96",
+    "sequence": 96,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:19"
+    "updatedAt": "15:22"
   },
   "verified": true
 }
