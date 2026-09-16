@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-44 seq=44 exp=1789720492",
+      "advancedStatus": "pack_id=20260916-45 seq=45 exp=1789720598",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:34",
+      "lastChecked": "08:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 08:34",
+    "expiresAt": "2026-09-18 08:36",
     "items": [
       {
         "channel": "iranintl",
@@ -1141,14 +1141,21 @@
         "text": "The parents of Hadis Najafi, a protester killed in the 'Woman, Life, Freedom' protests, joined the 'One Candle, One Name, One Memory' campaign. This campaign honors her memory and other victims of the popular uprisings in Iran. A video of this action was shared on social media.",
         "time": "08:34",
         "ts": 1789547645
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "On the fourth anniversary of Mahsa (Zhina) Amini's death, several shopkeepers and merchants in the cities of Baneh, Sanandaj, and Bukan went on strike and refused to carry out their daily activities. The strike took place on the 25th of Shahrivar. This action was taken as a form of protest against the current situation.",
+        "time": "08:35",
+        "ts": 1789547750
       }
     ],
     "language": "en",
-    "packId": "20260916-44",
-    "sequence": 44,
+    "packId": "20260916-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:34"
+    "updatedAt": "08:36"
   },
   "verified": true
 }
