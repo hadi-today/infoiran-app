@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-45 seq=45 exp=1789720598",
+      "advancedStatus": "pack_id=20260916-46 seq=46 exp=1789720718",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:36",
+      "lastChecked": "08:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 08:36",
+    "expiresAt": "2026-09-18 08:38",
     "items": [
       {
         "channel": "iranintl",
@@ -1148,14 +1148,21 @@
         "text": "On the fourth anniversary of Mahsa (Zhina) Amini's death, several shopkeepers and merchants in the cities of Baneh, Sanandaj, and Bukan went on strike and refused to carry out their daily activities. The strike took place on the 25th of Shahrivar. This action was taken as a form of protest against the current situation.",
         "time": "08:35",
         "ts": 1789547750
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Lionel Messi has been called back to the Argentina national team for three friendly matches after his retirement. The matches are against Bolivia, Burkina Faso, and Benin. Messi's invitation may provide a final farewell opportunity with the fans.",
+        "time": "08:37",
+        "ts": 1789547869
       }
     ],
     "language": "en",
-    "packId": "20260916-45",
-    "sequence": 45,
+    "packId": "20260916-46",
+    "sequence": 46,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:36"
+    "updatedAt": "08:38"
   },
   "verified": true
 }
