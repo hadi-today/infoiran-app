@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-42 seq=42 exp=1789719973",
+      "advancedStatus": "pack_id=20260916-43 seq=43 exp=1789720162",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:26",
+      "lastChecked": "08:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 08:26",
+    "expiresAt": "2026-09-18 08:29",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A video dated Tuesday, 24 Shahrivar, shows passengers at Tehran's Khomeini Airport angry due to a several-hour delay of the Tehran-Istanbul flight by Qeshm Air. This delay caused passenger dissatisfaction. The report was published by Iran International.",
-        "time": "08:25",
-        "ts": 1789460748
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US and Saudi Arabia plan to expand the southern shipping route through the Strait of Hormuz to counter the closure of the Bab al-Mandab Strait. This agreement was reached during a meeting between the CENTCOM commander and the Saudi crown prince. The US is also prepared to use military force against threats in the Strait of Hormuz.",
-        "time": "08:26",
-        "ts": 1789460791
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1141,14 +1127,21 @@
         "text": "Shopkeepers and merchants in several Kurdish cities went on strike and closed their shops on the fourth anniversary of the government killing of Mahsa Zhina Amini. Videos showing closed shops in cities such as Sanandaj, Saqqez, Oshnavieh, and others have been released. The presence of military and police forces in some areas has also been reported.",
         "time": "08:25",
         "ts": 1789547101
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Citizens report a sharp increase in prices of goods and services, difficulties in obtaining medicine, and insufficient wages. Teachers and workers also complain about harsh economic conditions and unpaid dues. The cost of living has risen significantly, causing serious problems for many families.",
+        "time": "08:28",
+        "ts": 1789547307
       }
     ],
     "language": "en",
-    "packId": "20260916-42",
-    "sequence": 42,
+    "packId": "20260916-43",
+    "sequence": 43,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:26"
+    "updatedAt": "08:29"
   },
   "verified": true
 }
