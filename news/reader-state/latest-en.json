@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-150 seq=150 exp=1789772533",
+      "advancedStatus": "pack_id=20260916-151 seq=151 exp=1789772622",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:02",
+      "lastChecked": "23:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 23:02",
+    "expiresAt": "2026-09-18 23:03",
     "items": [
       {
         "channel": "iranintl",
@@ -1162,14 +1162,21 @@
         "text": "The American company Poweras has signed a memorandum of understanding with the Pakistan Army and received an initial order related to unmanned aerial systems. This news was released simultaneously with a delegation from Poweras meeting the Pakistan Army commander. Details of the order or the type of unmanned systems were not disclosed.",
         "time": "23:01",
         "ts": 1789599693
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Barcelona defeated Racing Santander 7-2 in the sixth week of La Liga. The team recorded its seventh consecutive win in seven official games this season and set a new record with 28 goals in the first six weeks. Rafinha scored a hat-trick and leads the La Liga top scorers.",
+        "time": "23:02",
+        "ts": 1789599739
       }
     ],
     "language": "en",
-    "packId": "20260916-150",
-    "sequence": 150,
+    "packId": "20260916-151",
+    "sequence": 151,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:02"
+    "updatedAt": "23:03"
   },
   "verified": true
 }
