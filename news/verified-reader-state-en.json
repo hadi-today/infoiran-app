@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-40 seq=40 exp=1789718946",
+      "advancedStatus": "pack_id=20260916-42 seq=42 exp=1789719973",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:09",
+      "lastChecked": "08:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 08:09",
+    "expiresAt": "2026-09-18 08:26",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Alireza Beiranvand has requested a one-month delay in his military service enlistment. The medical commission session to review this request is scheduled for October 8. He intends to reduce his military service duration using childbearing service exemptions.",
-        "time": "08:09",
-        "ts": 1789459788
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The Director General of the Mental Health Office of the Ministry of Health reported a shortage of certain specific psychiatric drugs. The supply of raw materials for these drugs depends on imports, and any disruption can worsen patients' symptoms. He emphasized the need for currency allocation and facilitation of imports to ensure a stable supply of psychiatric medications.",
-        "time": "08:16",
-        "ts": 1789460176
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1141,14 +1127,28 @@
         "text": "Videos received show that on September 16, the strike in Sanandaj continues. Police and riot units are deployed in parts of the city. This event coincides with the anniversary of Zhina Mahsa Amini.",
         "time": "08:08",
         "ts": 1789546103
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Today marks four years since the death of Mahsa Amini, a 22-year-old woman from Saqez, after being detained by the morality police. Her death sparked widespread protests across Iran, and there has been no effective judicial accountability so far. The UN fact-finding mission stated that her death was caused by physical violence in detention and held the Iranian government responsible.",
+        "time": "08:23",
+        "ts": 1789547015
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shopkeepers and merchants in several Kurdish cities went on strike and closed their shops on the fourth anniversary of the government killing of Mahsa Zhina Amini. Videos showing closed shops in cities such as Sanandaj, Saqqez, Oshnavieh, and others have been released. The presence of military and police forces in some areas has also been reported.",
+        "time": "08:25",
+        "ts": 1789547101
       }
     ],
     "language": "en",
-    "packId": "20260916-40",
-    "sequence": 40,
+    "packId": "20260916-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:09"
+    "updatedAt": "08:26"
   },
   "verified": true
 }
