@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-102 seq=102 exp=1789746840",
+      "advancedStatus": "pack_id=20260916-103 seq=103 exp=1789747205",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:54",
+      "lastChecked": "16:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 15:54",
+    "expiresAt": "2026-09-18 16:00",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Houthis once again attacked the strategic pipeline of Saudi Arabia, and the Israeli newspaper Israel Hayom reported the formation of a US-led military coalition in support of Riyadh. Meanwhile, Mohammed bin Salman, in a message to the Egyptian president, said he will not surrender to the blackmail of the IRGC and Houthis in the straits.",
-        "time": "15:56",
-        "ts": 1789487798
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1141,14 +1134,21 @@
         "text": "Egypt condemned the Houthi drone attack attempt on Mecca and stated that Saudi Arabia's security is an integral part of Arab countries' national security. The Palestinian Authority also condemned the attack and called the security of Saudi Arabia and the holy sites a red line. Lebanon's Prime Minister Nawaf Salam condemned the attack and expressed support for Saudi Arabia.",
         "time": "15:53",
         "ts": 1789573989
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "As the official opening of the Aichi-Nagoya Asian Games approaches, issues with athlete accommodation and transportation have been reported. The South Korean men's basketball team criticized the small rooms and short beds. Additionally, buses carrying the South Korean and Qatari football teams lost their way and arrived late at the stadium.",
+        "time": "15:59",
+        "ts": 1789574346
       }
     ],
     "language": "en",
-    "packId": "20260916-102",
-    "sequence": 102,
+    "packId": "20260916-103",
+    "sequence": 103,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:54"
+    "updatedAt": "16:00"
   },
   "verified": true
 }
