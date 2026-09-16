@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-86 seq=86 exp=1789740308",
+      "advancedStatus": "pack_id=20260916-88 seq=88 exp=1789740856",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:05",
+      "lastChecked": "14:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 14:05",
+    "expiresAt": "2026-09-18 14:14",
     "items": [
       {
         "channel": "iranintl",
@@ -1155,14 +1155,28 @@
         "text": "Videos and reports indicate a widespread strike in Sanandaj. Various parts of the city's market were closed on Wednesday. This information was published by Iran International.",
         "time": "14:02",
         "ts": 1789567372
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Fars News Agency announced that Mahan Airlines flights from Iran to Turkey will be canceled from September 21, 2026, and to Oman from September 17, 2026, until further notice. The Georgian government will also stop all Iranian airline flights to Georgia starting next Monday. Sales of Georgia tours will continue until September 20.",
+        "time": "14:08",
+        "ts": 1789567736
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abbas Araghchi met with Wang Yi in Beijing and emphasized expanding Tehran-Beijing relations. He attributed regional conditions to attacks by the US and Israel and appreciated China's stance. Araghchi also expressed Iran's readiness to defend national sovereignty and welcomed diplomatic solutions.",
+        "time": "14:09",
+        "ts": 1789567756
       }
     ],
     "language": "en",
-    "packId": "20260916-86",
-    "sequence": 86,
+    "packId": "20260916-88",
+    "sequence": 88,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:05"
+    "updatedAt": "14:14"
   },
   "verified": true
 }
