@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-38 seq=38 exp=1789718554",
+      "advancedStatus": "pack_id=20260916-39 seq=39 exp=1789718648",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:02",
+      "lastChecked": "08:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 08:02",
+    "expiresAt": "2026-09-18 08:04",
     "items": [
       {
         "channel": "iranintl",
@@ -1127,14 +1127,21 @@
         "text": "Jose Mourinho admitted that he took a big tactical risk to secure a 3-2 victory against Elche in La Liga. He made offensive substitutions in the final minutes that led his team to win. Mourinho said the risk was necessary because a draw was not enough.",
         "time": "08:01",
         "ts": 1789545709
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ebrahim Azizi, head of the National Security Commission of the Parliament, called the referral of Iran's nuclear file to the Security Council a major mistake by European countries. He warned that if this path continues, Iran might take retaliatory actions. Azizi described the Board of Governors' resolution as political and influenced by the United States.",
+        "time": "08:03",
+        "ts": 1789545797
       }
     ],
     "language": "en",
-    "packId": "20260916-38",
-    "sequence": 38,
+    "packId": "20260916-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:02"
+    "updatedAt": "08:04"
   },
   "verified": true
 }
