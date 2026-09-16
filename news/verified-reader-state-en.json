@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-07 seq=7 exp=1789698746",
+      "advancedStatus": "pack_id=20260916-08 seq=8 exp=1789698901",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:32",
+      "lastChecked": "02:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 02:32",
+    "expiresAt": "2026-09-18 02:35",
     "items": [
       {
         "channel": "iranintl",
@@ -1092,14 +1092,21 @@
         "text": "The US State Department, in response to Iran International's question about visas for Islamic Republic officials, said the Trump administration protects the country and American citizens by applying the highest national security and public safety standards in the visa issuance process. It added that it takes seriously its obligations under the United Nations headquarters agreement and has provided guidance to all member states on recommended timelines for visa requests before the 81st General Assembly session. The response did not specify which officials were issued visas or what restrictions might be imposed.",
         "time": "02:31",
         "ts": 1789525906
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abdullah Ali Fadhel Al-Saadi, Yemen's representative to the Security Council, said Yemen's armed forces are the first line of defense for global interests in Bab al-Mandab and warned that Houthi attacks should not be seen as a temporary threat. Representatives from Bahrain and the UK condemned the Houthi attacks and called for strict enforcement of arms embargoes. The UK linked the escalation in Yemen to support from the Islamic Republic.",
+        "time": "02:34",
+        "ts": 1789526059
       }
     ],
     "language": "en",
-    "packId": "20260916-07",
-    "sequence": 7,
+    "packId": "20260916-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:32"
+    "updatedAt": "02:35"
   },
   "verified": true
 }
