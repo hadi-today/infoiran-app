@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-130 seq=130 exp=1789757816",
+      "advancedStatus": "pack_id=20260916-132 seq=132 exp=1789758320",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:56",
+      "lastChecked": "19:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 18:56",
+    "expiresAt": "2026-09-18 19:05",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Today, several protests were held including housing applicants in Kashan and retirees in Isfahan. Yesterday, protests occurred among workers in Sirjan, Ahvaz, and job seekers in Shush. These protests were organized to demand attention to their issues.",
-        "time": "19:02",
-        "ts": 1789498937
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1176,14 +1169,42 @@
         "text": "American diplomats met with Houthi representatives in the US embassy in Muscat to discuss tensions in the Red Sea. The talks focused on continuing the ceasefire and ensuring the Bab al-Mandeb Strait remains open. Houthi representatives stated their attacks target only Saudi ships.",
         "time": "18:55",
         "ts": 1789584934
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "This news refers to Russia's role in the Islamic Republic's attack on the US base. No further details about this role are provided. The topic discusses Russia's influence in this attack.",
+        "time": "19:00",
+        "ts": 1789585212
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Amin Shirafkan and Alireza Hajtemand were arrested by security forces in Gorgan. The arrest took place on the morning of Wednesday, 25 Shahrivar, at Shirafkan's workplace. Both were transferred to the Gorgan police detention center.",
+        "time": "19:04",
+        "ts": 1789585442
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen sent a video on Wednesday, 25 Shahrivar, showing ready-to-distribute food containers. He stated that he is distributing these foods among the needy in memory of the martyrs of the Mahsa uprising.",
+        "time": "19:04",
+        "ts": 1789585491
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Workers' wages are equivalent to the cost of living for only eight days. This indicates a significant gap between income and living expenses. The livelihood of workers is severely affected by this issue.",
+        "time": "19:05",
+        "ts": 1789585502
       }
     ],
     "language": "en",
-    "packId": "20260916-130",
-    "sequence": 130,
+    "packId": "20260916-132",
+    "sequence": 132,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:56"
+    "updatedAt": "19:05"
   },
   "verified": true
 }
