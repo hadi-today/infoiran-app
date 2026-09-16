@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-13 seq=13 exp=1789709295",
+      "advancedStatus": "pack_id=20260916-14 seq=14 exp=1789709737",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:28",
+      "lastChecked": "05:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 05:28",
+    "expiresAt": "2026-09-18 05:35",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Hassan Qashqavi, spokesperson of the National Security Commission, stated that if freedom of navigation disrupts the coastal country's security, blockade is considered a form of war. He added that Iran's defense doctrine has changed in this war. The US insists only on freedom of navigation but does not respect Iran's national security and sovereignty.",
-        "time": "05:28",
-        "ts": 1789450087
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Nicolas Gilani stated that increased US sanctions have pushed financial networks linked to the Islamic Republic towards smaller, riskier entities. He mentioned that with the sanction on Golden Global, Tehran is likely seeking alternatives in countries like Georgia and Malaysia. Additionally, the number of people willing to take the risk of cooperating with the Islamic Republic is decreasing.",
-        "time": "05:30",
-        "ts": 1789450230
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1106,14 +1092,21 @@
         "text": "The head of the Food and Drug Administration announced a 103% increase in drug prices and a $900 million reduction in the preferential currency budget. Drug shortages and increased patient payments have made treatment costs heavier for many families. This report was provided by Hadi Zenouzi.",
         "time": "05:27",
         "ts": 1789536457
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shayan Samiei said Washington is pursuing four outcomes: stable passage of commercial ships through the Strait of Hormuz, an end to attacks on US forces and ships, verification of Iran's nuclear program, and reduction of Tehran's missile and drone capabilities.",
+        "time": "05:34",
+        "ts": 1789536896
       }
     ],
     "language": "en",
-    "packId": "20260916-13",
-    "sequence": 13,
+    "packId": "20260916-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:28"
+    "updatedAt": "05:35"
   },
   "verified": true
 }
