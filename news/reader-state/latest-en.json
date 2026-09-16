@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-151 seq=151 exp=1789772622",
+      "advancedStatus": "pack_id=20260916-152 seq=152 exp=1789773597",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:03",
+      "lastChecked": "23:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 23:03",
+    "expiresAt": "2026-09-18 23:19",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Washington Post reported that the Trump administration is preparing a $2.8 billion weapons package for Israel. This package includes 20,000 MK-84 bombs, 20,000 BLU-117 bombs, and 20,000 I-2000 penetrator warheads.",
-        "time": "23:05",
-        "ts": 1789513538
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Georgian government will stop all flights of Iranian companies to this country starting next Monday, following new US sanctions. The Civil Aviation Organization has not yet announced this. Tour sales to Georgia will only be available until next Sunday.",
-        "time": "23:14",
-        "ts": 1789514046
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1169,14 +1155,21 @@
         "text": "Barcelona defeated Racing Santander 7-2 in the sixth week of La Liga. The team recorded its seventh consecutive win in seven official games this season and set a new record with 28 goals in the first six weeks. Rafinha scored a hat-trick and leads the La Liga top scorers.",
         "time": "23:02",
         "ts": 1789599739
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "During the first week of Iran's League One football match between Basat Kermanshah and Naft o Gaz Gachsaran, referees' belongings including mobile phones, gold, and cash were stolen from the locker room. The stolen items were valued at over 500 million tomans. This incident caused a 40-minute delay in the game, and after the match, the referees left the stadium without compensation.",
+        "time": "23:19",
+        "ts": 1789600757
       }
     ],
     "language": "en",
-    "packId": "20260916-151",
-    "sequence": 151,
+    "packId": "20260916-152",
+    "sequence": 152,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:03"
+    "updatedAt": "23:19"
   },
   "verified": true
 }
