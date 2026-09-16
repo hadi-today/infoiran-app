@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-59 seq=59 exp=1789726315",
+      "advancedStatus": "pack_id=20260916-60 seq=60 exp=1789727129",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:11",
+      "lastChecked": "10:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 10:11",
+    "expiresAt": "2026-09-18 10:25",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A group of retirees from Zob Ahan and Foolad Isfahan held a protest in front of the Isfahan governor's office today. They demanded attention to their livelihood, health insurance issues, and the implementation of the adjustment plan. The protest took place on September 14.",
-        "time": "10:11",
-        "ts": 1789467086
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Shirazi stated that according to Article 30 of the Constitution, free education up to high school should be provided. He said the government has not fulfilled this duty. Additionally, public schools are charging fees from students' parents.",
-        "time": "10:20",
-        "ts": 1789467652
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1162,14 +1148,28 @@
         "text": "Abolfazl Qadyani, a political prisoner, rejected the government's narrative about the role of terrorists in the killing of protesters in December 2025 and held government forces responsible. He questioned why terrorists were absent from government rallies if they were responsible for the killings. Qadyani also named Ali and Mojtaba Khamenei as responsible for the killings.",
         "time": "10:11",
         "ts": 1789553470
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Anis Kulamar, Secretary-General of Amnesty International, explained in the report on the fourth anniversary of Mahsa Amini's death that the Iranian people face both repression by the Islamic Republic and the consequences of US and Israeli attacks. He added that the Iranian government has used these conditions to intensify repression and militarize public spaces.",
+        "time": "10:24",
+        "ts": 1789554282
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The media office of Prince Reza Pahlavi released a video about the 'Woman, Life, Freedom' protests and the national Iranian revolution in January 2026, emphasizing that the struggle for Iran's freedom continues. The statement noted that the voices of the fighters are heard from the heart of Iran, and four years after the killing of Mahsa Amini, the commitment to the struggle has been renewed. This fight extends from past uprisings to the Lion and Sun revolution.",
+        "time": "10:24",
+        "ts": 1789554295
       }
     ],
     "language": "en",
-    "packId": "20260916-59",
-    "sequence": 59,
+    "packId": "20260916-60",
+    "sequence": 60,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:11"
+    "updatedAt": "10:25"
   },
   "verified": true
 }
