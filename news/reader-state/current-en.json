@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-79 seq=79 exp=1789738498",
+      "advancedStatus": "pack_id=20260916-80 seq=80 exp=1789738719",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:34",
+      "lastChecked": "13:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 13:34",
+    "expiresAt": "2026-09-18 13:38",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A person stated that due to the country's conditions, important life decisions such as having children and buying a house have been postponed. Long-term plans have been canceled, and only daily routines are followed. He believes that the country's situation has made controlling life difficult.",
-        "time": "13:34",
-        "ts": 1789479290
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1120,14 +1113,21 @@
         "text": "A video shows that the strike wave has reached the city of Kamyaran. Several shops and business units in this city in Kurdistan province have been closed. This information was reported by Iran International.",
         "time": "13:34",
         "ts": 1789565646
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "At dawn on Wednesday, 25 Shahrivar, at least one prisoner named Mehrdad was executed in Qezel Hesar prison in Karaj. The prisoner had previously been sentenced to death for murder. The news was reported by HRANA news agency.",
+        "time": "13:37",
+        "ts": 1789565864
       }
     ],
     "language": "en",
-    "packId": "20260916-79",
-    "sequence": 79,
+    "packId": "20260916-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:34"
+    "updatedAt": "13:38"
   },
   "verified": true
 }
