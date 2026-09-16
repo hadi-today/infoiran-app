@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-17 seq=17 exp=1789710221",
+      "advancedStatus": "pack_id=20260916-18 seq=18 exp=1789710328",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:43",
+      "lastChecked": "05:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 05:43",
+    "expiresAt": "2026-09-18 05:45",
     "items": [
       {
         "channel": "iranintl",
@@ -1099,14 +1099,21 @@
         "text": "CENTCOM confirmed a security meeting of senior commanders from the US, Israel, and eight Arab countries in Germany. The meeting discussed strengthening security cooperation in the Middle East. Commanders from Saudi Arabia, UAE, Bahrain, Kuwait, Qatar, Jordan, Egypt, and the Chief of Staff of the Israeli army attended.",
         "time": "05:43",
         "ts": 1789537381
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The UN Security Council held a meeting to discuss the developments in Yemen and the security crisis in the Bab al-Mandab Strait. Several countries' representatives called for an end to the Houthi attacks. The UK representative accused the Islamic Republic of supporting the escalation of tensions in Yemen.",
+        "time": "05:44",
+        "ts": 1789537487
       }
     ],
     "language": "en",
-    "packId": "20260916-17",
-    "sequence": 17,
+    "packId": "20260916-18",
+    "sequence": 18,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:43"
+    "updatedAt": "05:45"
   },
   "verified": true
 }
