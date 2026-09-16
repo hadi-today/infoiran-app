@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-135 seq=135 exp=1789760537",
+      "advancedStatus": "pack_id=20260916-136 seq=136 exp=1789760727",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:42",
+      "lastChecked": "19:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 19:42",
+    "expiresAt": "2026-09-18 19:45",
     "items": [
       {
         "channel": "iranintl",
@@ -1176,14 +1176,21 @@
         "text": "Esteghlal club will form a women's volleyball team with Niloufar Hojati as head coach. Hojati was a coach for the Iranian women's national volleyball team in the 2026 Asian Championship. Additionally, Esteghlal has reached an agreement with Fatemeh Khalili, a player of the Iranian women's national volleyball team.",
         "time": "19:41",
         "ts": 1789587682
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Air traffic control tower staff across the country went on strike from the evening of Tuesday, September 14 to the night of Wednesday, September 15. This strike caused widespread disruption and several hours of delay in flights. Pilots in some cases waited between half an hour to two hours to receive clearance from the control tower.",
+        "time": "19:44",
+        "ts": 1789587874
       }
     ],
     "language": "en",
-    "packId": "20260916-135",
-    "sequence": 135,
+    "packId": "20260916-136",
+    "sequence": 136,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:42"
+    "updatedAt": "19:45"
   },
   "verified": true
 }
