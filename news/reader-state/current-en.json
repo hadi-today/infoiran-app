@@ -1,34 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260915-145 seq=145 exp=1789688341",
+      "advancedStatus": "pack_id=20260916-01 seq=1 exp=1789690445",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:39",
+      "lastChecked": "00:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-09-15",
-    "expiresAt": "2026-09-17 23:39",
+    "date": "2026-09-16",
+    "expiresAt": "2026-09-18 00:14",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Iran Human Rights Organization announced that at least 100 detainees from the January 2026 protests face the risk of execution. Among them are five women and five individuals under 18 years old. Additionally, 31 protesters have been executed since March 18.",
-        "time": "23:47",
-        "ts": 1789429657
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Fars News Agency reported a drone attack by the US on two fishing boats near Bandar Kangan. Several fishermen went missing in the attack. Rescue and search operations are underway to locate the missing individuals.",
-        "time": "23:58",
-        "ts": 1789430336
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1085,14 +1071,21 @@
         "text": "The Hengaw human rights organization reported an increased presence of military and security forces in Kurdistan cities ahead of the fourth anniversary of Mahsa Zhina Amini's death. Military convoys and anti-riot forces have been deployed to Saqez and Sanandaj, and at least 20 Kurdish youths have been arrested in Oshnavieh. Kurdish parties in Iran have called for a general strike, and four Kurdish political prisoners have announced a hunger strike in support.",
         "time": "23:38",
         "ts": 1789515497
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Saudi-led coalition announced that its air defense intercepted and destroyed a Houthi drone attempting to enter Mecca's airspace. The coalition spokesperson said this was the second attempt by the Houthis to target Mecca. About nine years ago, a ballistic missile was also fired towards Mecca.",
+        "time": "00:13",
+        "ts": 1789517603
       }
     ],
     "language": "en",
-    "packId": "20260915-145",
-    "sequence": 145,
+    "packId": "20260916-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:39"
+    "updatedAt": "00:14"
   },
   "verified": true
 }
