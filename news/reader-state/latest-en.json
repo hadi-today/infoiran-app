@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-21 seq=21 exp=1789711367",
+      "advancedStatus": "pack_id=20260916-22 seq=22 exp=1789712400",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:02",
+      "lastChecked": "06:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 06:02",
+    "expiresAt": "2026-09-18 06:20",
     "items": [
       {
         "channel": "iranintl",
@@ -1099,14 +1099,21 @@
         "text": "Hassan Qashqavi stated that the contradictory behavior of the US makes the change in the Islamic Republic's nuclear doctrine justifiable. He emphasized that the Strait of Hormuz will not be reopened until the naval blockade is lifted. Additionally, the US requests Iran's cooperation to inspect bombed nuclear sites but has not issued a visa for the head of Iran's Atomic Energy Organization.",
         "time": "06:02",
         "ts": 1789538521
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iranian men's national basketball team defeated Bahrain 79-74 and advanced to the semifinals of the Nagoya Asian Games. Mohammad Jamshidi and Mehdi Heydari played key roles in this victory. Iran will face South Korea in the semifinals on Friday, September 17.",
+        "time": "06:19",
+        "ts": 1789539553
       }
     ],
     "language": "en",
-    "packId": "20260916-21",
-    "sequence": 21,
+    "packId": "20260916-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:02"
+    "updatedAt": "06:20"
   },
   "verified": true
 }
