@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-23 seq=23 exp=1789712804",
+      "advancedStatus": "pack_id=20260916-24 seq=24 exp=1789713477",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:26",
+      "lastChecked": "06:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 06:26",
+    "expiresAt": "2026-09-18 06:37",
     "items": [
       {
         "channel": "iranintl",
@@ -1113,14 +1113,21 @@
         "text": "Shopkeepers in Saqez closed their shops on September 16. This action coincided with the fourth anniversary of the death of Zhina Mahsa Amini. The presence of military forces in the city has also been reported.",
         "time": "06:26",
         "ts": 1789539960
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of Iranians living in the UK commemorated Zhina Mahsa Amini and other victims of the Iranian protests on September 15 at Trafalgar Square in London. The event was covered through videos sent to Iran International. The gathering was held in support of the protests in Iran.",
+        "time": "06:37",
+        "ts": 1789540629
       }
     ],
     "language": "en",
-    "packId": "20260916-23",
-    "sequence": 23,
+    "packId": "20260916-24",
+    "sequence": 24,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:26"
+    "updatedAt": "06:37"
   },
   "verified": true
 }
