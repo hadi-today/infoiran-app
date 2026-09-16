@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-03 seq=3 exp=1789692017",
+      "advancedStatus": "pack_id=20260916-04 seq=4 exp=1789692338",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:40",
+      "lastChecked": "00:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 00:40",
+    "expiresAt": "2026-09-18 00:45",
     "items": [
       {
         "channel": "iranintl",
@@ -1092,14 +1092,21 @@
         "text": "CBS News released exclusive images showing extensive damage from Iranian missile and drone attacks on US military bases in the Middle East. The images show a missile strike on an AWACS aircraft at Prince Sultan Air Base in Saudi Arabia and destruction of buildings. A US soldier said these damages have not been made known to the American public.",
         "time": "00:39",
         "ts": 1789519178
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Joe Wilson, a member of the US House of Representatives, reported the interception of a drone belonging to Yemen's Houthis attempting to enter Mecca's airspace. He called the Houthis Iranian proxies and stated that the US stands with Saudi Arabia against this aggression. He also emphasized the coalition of Saudi Arabia, Turkey, and Pakistan to combat the Houthis.",
+        "time": "00:44",
+        "ts": 1789519495
       }
     ],
     "language": "en",
-    "packId": "20260916-03",
-    "sequence": 3,
+    "packId": "20260916-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:40"
+    "updatedAt": "00:45"
   },
   "verified": true
 }
