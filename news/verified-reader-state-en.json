@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-11 seq=11 exp=1789705426",
+      "advancedStatus": "pack_id=20260916-12 seq=12 exp=1789708170",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:23",
+      "lastChecked": "05:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 04:23",
+    "expiresAt": "2026-09-18 05:09",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Pentagon Inspector General reported to Congress that US forces conducted over 1,800 missions in Operation Epic Fury and targeted about 13,500 targets in Iran. The Pentagon also announced intercepting over 6,000 suicide drones and 1,500 ballistic missiles from the Islamic Republic. More details were provided by Amir Giti.",
-        "time": "05:05",
-        "ts": 1789448728
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1120,14 +1113,21 @@
         "text": "The director of the Nutrition Improvement Office at the Ministry of Health stated that due to the prevalence of short stature in some southern provinces, adding zinc to the supplementation program is under consideration. Children aged 2 to 12 currently receive no supplements. This group requires supplementation interventions due to their rapid growth rate.",
         "time": "04:23",
         "ts": 1789532582
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Kayhan newspaper criticized some government officials for not recognizing the forces behind the promotion of unveiled behavior and nudity. Kayhan warned that inaction against the cultural invasion of the enemy has negative consequences. The newspaper emphasized that neglect in fulfilling duties related to hijab is unacceptable.",
+        "time": "05:08",
+        "ts": 1789535331
       }
     ],
     "language": "en",
-    "packId": "20260916-11",
-    "sequence": 11,
+    "packId": "20260916-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:23"
+    "updatedAt": "05:09"
   },
   "verified": true
 }
