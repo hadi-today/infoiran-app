@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-10 seq=10 exp=1789700478",
+      "advancedStatus": "pack_id=20260916-11 seq=11 exp=1789705426",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:01",
+      "lastChecked": "04:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 03:01",
+    "expiresAt": "2026-09-18 04:23",
     "items": [
       {
         "channel": "iranintl",
@@ -1113,14 +1113,21 @@
         "text": "The US State Department raised the travel advisory for Saudi Arabia to level 3, advising reconsideration of travel. The warning cites risks of missile and drone attacks by the Islamic Republic, armed conflict, and terrorism. The border area between Saudi Arabia and Yemen is at level 4, meaning do not travel.",
         "time": "03:00",
         "ts": 1789527631
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The director of the Nutrition Improvement Office at the Ministry of Health stated that due to the prevalence of short stature in some southern provinces, adding zinc to the supplementation program is under consideration. Children aged 2 to 12 currently receive no supplements. This group requires supplementation interventions due to their rapid growth rate.",
+        "time": "04:23",
+        "ts": 1789532582
       }
     ],
     "language": "en",
-    "packId": "20260916-10",
-    "sequence": 10,
+    "packId": "20260916-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:01"
+    "updatedAt": "04:23"
   },
   "verified": true
 }
