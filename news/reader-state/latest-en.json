@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-01 seq=1 exp=1789690445",
+      "advancedStatus": "pack_id=20260916-02 seq=2 exp=1789691349",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:14",
+      "lastChecked": "00:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 00:14",
+    "expiresAt": "2026-09-18 00:29",
     "items": [
       {
         "channel": "iranintl",
@@ -1078,14 +1078,21 @@
         "text": "The Saudi-led coalition announced that its air defense intercepted and destroyed a Houthi drone attempting to enter Mecca's airspace. The coalition spokesperson said this was the second attempt by the Houthis to target Mecca. About nine years ago, a ballistic missile was also fired towards Mecca.",
         "time": "00:13",
         "ts": 1789517603
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "CBS News reported that new images it exclusively obtained show for the first time the extent of damage from the Islamic Republic's missile and drone attacks on several US military positions in the Middle East. These images were provided to CBS News by US military personnel, one of whom stated that the extensive damage to US bases has not been disclosed to the American public. The images show damage to Prince Sultan Air Base in Saudi Arabia and Camp Buehring in Kuwait.",
+        "time": "00:28",
+        "ts": 1789518505
       }
     ],
     "language": "en",
-    "packId": "20260916-01",
-    "sequence": 1,
+    "packId": "20260916-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:14"
+    "updatedAt": "00:29"
   },
   "verified": true
 }
