@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-74 seq=74 exp=1789732534",
+      "advancedStatus": "pack_id=20260916-75 seq=75 exp=1789732829",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:55",
+      "lastChecked": "12:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 11:55",
+    "expiresAt": "2026-09-18 12:00",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "The Iran Human Rights organization announced that at least 100 detainees from the December protests in 13 provinces of Iran face the death penalty. The highest number, 46 people, are from Isfahan province. This list includes those who have received death sentences at least at the preliminary stage.",
-        "time": "11:54",
-        "ts": 1789473297
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -1204,14 +1197,21 @@
         "text": "On Wednesday, 24 Shahrivar, shopkeepers in Mahabad joined a strike on the fourth anniversary of the state killing of Mahsa Amini and closed their shops. This news is based on a video received by Iran International. The strike was held as a symbol of protest.",
         "time": "11:54",
         "ts": 1789559653
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Houthi group in Yemen announced that they targeted Aramco facilities in Yanbu and an airbase in Khamis Mushait, Saudi Arabia, with dozens of ballistic missiles and drones. These attacks caused extensive fires and significant damage. They emphasized that they will continue their military operations deep inside Saudi territory.",
+        "time": "11:59",
+        "ts": 1789559976
       }
     ],
     "language": "en",
-    "packId": "20260916-74",
-    "sequence": 74,
+    "packId": "20260916-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:55"
+    "updatedAt": "12:00"
   },
   "verified": true
 }
