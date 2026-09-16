@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-84 seq=84 exp=1789740080",
+      "advancedStatus": "pack_id=20260916-85 seq=85 exp=1789740191",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:01",
+      "lastChecked": "14:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 14:01",
+    "expiresAt": "2026-09-18 14:03",
     "items": [
       {
         "channel": "iranintl",
@@ -1141,14 +1141,28 @@
         "text": "People shared their feelings about the first time they went out without mandatory hijab, including happiness, fear, courage, and stress. Some experienced a sense of liberation and freedom, while others initially felt fear that gradually diminished. For many, this experience was a mix of positive and negative emotions.",
         "time": "14:00",
         "ts": 1789567245
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "China's foreign minister met with Abbas Araghchi and urged Iran and the US to maintain rationality and restraint. He emphasized that China does not want regional tensions to spread to Yemen and the Red Sea. He also called on all parties to take effective measures to reopen the Strait of Hormuz quickly.",
+        "time": "14:01",
+        "ts": 1789567292
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Videos and reports indicate a widespread strike in Sanandaj. Various parts of the city's market were closed on Wednesday. This information was published by Iran International.",
+        "time": "14:02",
+        "ts": 1789567372
       }
     ],
     "language": "en",
-    "packId": "20260916-84",
-    "sequence": 84,
+    "packId": "20260916-85",
+    "sequence": 85,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:01"
+    "updatedAt": "14:03"
   },
   "verified": true
 }
