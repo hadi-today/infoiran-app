@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-33 seq=33 exp=1789716543",
+      "advancedStatus": "pack_id=20260916-34 seq=34 exp=1789716638",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:29",
+      "lastChecked": "07:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 07:29",
+    "expiresAt": "2026-09-18 07:30",
     "items": [
       {
         "channel": "iranintl",
@@ -1120,14 +1120,21 @@
         "text": "On the anniversary of Mahsa Amini, cities such as Sanandaj, Saqqez, Kamyaran, and others are experiencing widespread strikes and a heavy presence of military and security forces. Riot police and plainclothes officers have been deployed in the streets, with multiple checkpoints set up in Tehran and other cities. The security atmosphere has intensified in cities like Aligudarz and Khash, with numerous arrests reported.",
         "time": "07:28",
         "ts": 1789543700
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The fabric sellers' market in Sartpoleh and parts of the Sanandaj market in Kurdistan province went on strike on Wednesday, September 16, to commemorate the anniversary of Zhina Mahsa Amini. The strike took place on September 16. Security measures in Sanandaj have been intensified since September 15.",
+        "time": "07:29",
+        "ts": 1789543775
       }
     ],
     "language": "en",
-    "packId": "20260916-33",
-    "sequence": 33,
+    "packId": "20260916-34",
+    "sequence": 34,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:29"
+    "updatedAt": "07:30"
   },
   "verified": true
 }
