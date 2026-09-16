@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-105 seq=105 exp=1789748715",
+      "advancedStatus": "pack_id=20260916-106 seq=106 exp=1789749163",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:25",
+      "lastChecked": "16:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 16:25",
+    "expiresAt": "2026-09-18 16:32",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Britain, the US, and the Netherlands issued a warning about the CHOSEN BRICK spyware used by agents linked to the Islamic Republic to target opponents and journalists. The spyware can steal emails, messages, and access microphones and social media accounts. The FBI stated that the Ministry of Intelligence of the Islamic Republic uses this spyware to collect information and harm individuals.",
-        "time": "16:26",
-        "ts": 1789489608
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Asieh Ramazani, a mother of two, was killed by direct gunfire from the Islamic Republic forces during the protests on January 9, 2026, in Tehran. Her daughter lit a candle in memory of her mother and all victims of the Zhina Mahsa Amini uprising. This event was shared on social media.",
-        "time": "16:31",
-        "ts": 1789489884
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1127,14 +1113,21 @@
         "text": "Forough Kenani said that Prince Reza Pahlavi's message narrates the protests from 2016 to today as a continuous path of Iranian people's struggles. The message emphasizes national solidarity, Iranian identity, and political responsibility toward the victims. The role of families seeking justice in preserving the memory of the victims and preventing the forgetting of repression is also highlighted.",
         "time": "16:24",
         "ts": 1789575854
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Sadeghollah Shafiei, a citizen of Kamyaran, was arrested on September 9 after being summoned to the intelligence office of the city and transferred to an unknown location. There has been no news about his condition so far. His detention continues.",
+        "time": "16:31",
+        "ts": 1789576296
       }
     ],
     "language": "en",
-    "packId": "20260916-105",
-    "sequence": 105,
+    "packId": "20260916-106",
+    "sequence": 106,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:25"
+    "updatedAt": "16:32"
   },
   "verified": true
 }
