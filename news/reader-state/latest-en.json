@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-93 seq=93 exp=1789743975",
+      "advancedStatus": "pack_id=20260916-94 seq=94 exp=1789744106",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:06",
+      "lastChecked": "15:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 15:06",
+    "expiresAt": "2026-09-18 15:08",
     "items": [
       {
         "channel": "iranintl",
@@ -1148,14 +1148,21 @@
         "text": "A citizen sent a video to Iran International showing that sholeh zard was cooked in memory of the immortalized. The dates 18 and 19 Dey were written on this traditional dessert. This act was done to commemorate two days of the 1404 government massacre.",
         "time": "15:05",
         "ts": 1789571114
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Swedish government expelled an employee of the Islamic Republic's embassy in Stockholm. The Swedish Ministry of Justice also summoned the ambassador of the Islamic Republic. This news was reported by Iran International.",
+        "time": "15:07",
+        "ts": 1789571231
       }
     ],
     "language": "en",
-    "packId": "20260916-93",
-    "sequence": 93,
+    "packId": "20260916-94",
+    "sequence": 94,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:06"
+    "updatedAt": "15:08"
   },
   "verified": true
 }
