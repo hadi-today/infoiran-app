@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-104 seq=104 exp=1789748452",
+      "advancedStatus": "pack_id=20260916-105 seq=105 exp=1789748715",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:20",
+      "lastChecked": "16:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 16:20",
+    "expiresAt": "2026-09-18 16:25",
     "items": [
       {
         "channel": "iranintl",
@@ -1120,14 +1120,21 @@
         "text": "Antonio Guterres, the UN Secretary-General, emphasized the need to maintain freedom of navigation in the Strait of Hormuz and Bab al-Mandab according to international laws. He condemned the Houthi attacks on Saudi infrastructure and obstacles to navigation in Bab al-Mandab. Guterres also called for serious negotiations to end the conflicts in Yemen and the Middle East.",
         "time": "16:19",
         "ts": 1789575590
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Forough Kenani said that Prince Reza Pahlavi's message narrates the protests from 2016 to today as a continuous path of Iranian people's struggles. The message emphasizes national solidarity, Iranian identity, and political responsibility toward the victims. The role of families seeking justice in preserving the memory of the victims and preventing the forgetting of repression is also highlighted.",
+        "time": "16:24",
+        "ts": 1789575854
       }
     ],
     "language": "en",
-    "packId": "20260916-104",
-    "sequence": 104,
+    "packId": "20260916-105",
+    "sequence": 105,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:20"
+    "updatedAt": "16:25"
   },
   "verified": true
 }
