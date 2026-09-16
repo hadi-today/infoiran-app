@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-29 seq=29 exp=1789715230",
+      "advancedStatus": "pack_id=20260916-30 seq=30 exp=1789715385",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:07",
+      "lastChecked": "07:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 07:07",
+    "expiresAt": "2026-09-18 07:09",
     "items": [
       {
         "channel": "iranintl",
@@ -1120,14 +1120,21 @@
         "text": "Ruhollah Rahimpour stated that the priority of the Americans is to prevent the Islamic Republic from rebuilding its destroyed capacities. He added that economic pressure, financial isolation, and naval blockade could limit the Islamic Republic's ability to rebuild its nuclear and military capacities. Additionally, these pressures affect the continuation of the Islamic Republic's regional activities.",
         "time": "07:06",
         "ts": 1789542387
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran's U23 national football team defeated the UAE 3-1 in their first match at the 2026 Nagoya Asian Games. Goals were scored by Pouria Shahrabadi and Yousef Mazraeh. Iran will face China and North Korea in the next group stage matches.",
+        "time": "07:09",
+        "ts": 1789542542
       }
     ],
     "language": "en",
-    "packId": "20260916-29",
-    "sequence": 29,
+    "packId": "20260916-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:07"
+    "updatedAt": "07:09"
   },
   "verified": true
 }
