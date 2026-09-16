@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260916-116 seq=116 exp=1789752573",
+      "advancedStatus": "pack_id=20260916-117 seq=117 exp=1789752818",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:29",
+      "lastChecked": "17:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-16",
-    "expiresAt": "2026-09-18 17:29",
+    "expiresAt": "2026-09-18 17:33",
     "items": [
       {
         "channel": "iranintl",
@@ -1169,14 +1169,21 @@
         "text": "Fatemeh Jami, a citizen of Gorgan, remains in Gorgan prison without a judicial decision after 79 days of detention. Her case is still unresolved and no court session has been held for her. The possibility of temporary release on bail has not been provided.",
         "time": "17:28",
         "ts": 1789579681
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hatam Ahmadi, CEO of Fajr Sepasi club, announced that Alireza Beiranvand's transfer to the team is confirmed. The only remaining issue is determining the exact time of his military service enlistment. Beiranvand must join Fajr Sepasi, but he cannot be used until mid-season.",
+        "time": "17:32",
+        "ts": 1789579967
       }
     ],
     "language": "en",
-    "packId": "20260916-116",
-    "sequence": 116,
+    "packId": "20260916-117",
+    "sequence": 117,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:29"
+    "updatedAt": "17:33"
   },
   "verified": true
 }
