@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-92 seq=92 exp=1789834673",
+      "advancedStatus": "pack_id=20260917-94 seq=94 exp=1789835574",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:17",
+      "lastChecked": "16:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 16:17",
+    "expiresAt": "2026-09-19 16:32",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Antonio Guterres, the UN Secretary-General, emphasized the need to maintain freedom of navigation in the Strait of Hormuz and Bab al-Mandab according to international laws. He condemned the Houthi attacks on Saudi infrastructure and obstacles to navigation in Bab al-Mandab. Guterres also called for serious negotiations to end the conflicts in Yemen and the Middle East.",
-        "time": "16:19",
-        "ts": 1789575590
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Forough Kenani said that Prince Reza Pahlavi's message narrates the protests from 2016 to today as a continuous path of Iranian people's struggles. The message emphasizes national solidarity, Iranian identity, and political responsibility toward the victims. The role of families seeking justice in preserving the memory of the victims and preventing the forgetting of repression is also highlighted.",
-        "time": "16:24",
-        "ts": 1789575854
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Sadeghollah Shafiei, a citizen of Kamyaran, was arrested on September 9 after being summoned to the intelligence office of the city and transferred to an unknown location. There has been no news about his condition so far. His detention continues.",
-        "time": "16:31",
-        "ts": 1789576296
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1050,14 +1029,28 @@
         "text": "The European Union condemned the Houthi attacks on Saudi Arabia, including an attempted drone attack on Mecca. It stated that these attacks undermine the prospects for a peaceful resolution in Yemen and threaten regional security. The EU called on the Houthis to cease all military actions and remain committed to peace.",
         "time": "16:17",
         "ts": 1789661822
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abdulmalik al-Houthi, leader of Yemen's Houthis, denied the claim that his forces targeted Mecca and called it a great slander. He accused Saudi Arabia of trying to encourage other countries to join the conflict by raising this issue. Al-Houthi called on Muslims to take a stance against this action by Saudi Arabia.",
+        "time": "16:30",
+        "ts": 1789662607
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The CEO of the Charity Association for Cancer Patients in Kermanshah reported a sharp increase in treatment costs and insurance problems for patients. The cost of some medicines has reached 40 to 50 million tomans per month, and patients have resorted to selling essential household items to cover expenses. Social Security insured individuals must pay about 39 million tomans for PET scans.",
+        "time": "16:31",
+        "ts": 1789662700
       }
     ],
     "language": "en",
-    "packId": "20260917-92",
-    "sequence": 92,
+    "packId": "20260917-94",
+    "sequence": 94,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:17"
+    "updatedAt": "16:32"
   },
   "verified": true
 }
