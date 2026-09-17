@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-24 seq=24 exp=1789805960",
+      "advancedStatus": "pack_id=20260917-25 seq=25 exp=1789806219",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:19",
+      "lastChecked": "08:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 08:19",
+    "expiresAt": "2026-09-19 08:23",
     "items": [
       {
         "channel": "harana",
@@ -1036,14 +1036,21 @@
         "text": "Amir Ghalenoei announced the first list of Premier League players for the national football team after the World Cup. In this list, Mohammad Hossein Kanaani Zadegan and Roozbeh Cheshmi, the two captains of the rival teams, are absent. Three goalkeepers and several defenders and midfielders have been invited to the national team.",
         "time": "08:18",
         "ts": 1789633113
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Narges Mohammadi spoke to CNN about torture, medical deprivation, and efforts to smuggle her writings out of Evin prison. Her memoir titled \"A Woman Never Gives Up the Fight\" will be published this month in several European countries. Mohammadi emphasized that exposing torture methods is essential to document the truth.",
+        "time": "08:22",
+        "ts": 1789633376
       }
     ],
     "language": "en",
-    "packId": "20260917-24",
-    "sequence": 24,
+    "packId": "20260917-25",
+    "sequence": 25,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:19"
+    "updatedAt": "08:23"
   },
   "verified": true
 }
