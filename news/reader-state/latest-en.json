@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-50 seq=50 exp=1789815250",
+      "advancedStatus": "pack_id=20260917-51 seq=51 exp=1789815622",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:54",
+      "lastChecked": "11:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 10:54",
+    "expiresAt": "2026-09-19 11:00",
     "items": [
       {
         "channel": "iranintl",
@@ -1064,14 +1064,21 @@
         "text": "Todd Boehly and Mark Walter have transferred their shares in Chelsea Football Club to Clearlake Capital. Clearlake now has full control of the club and paid nearly one billion pounds for these shares. Todd Boehly has also resigned from his position as club chairman.",
         "time": "10:52",
         "ts": 1789642343
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Taghi Asanlou, Deputy Operations of the Armed Forces General Staff, called for an end to the US presence in West Asia. He described the US presence as an obstacle to peace and stability. He also emphasized that the country's security relies on indigenous defense capabilities and public support.",
+        "time": "10:59",
+        "ts": 1789642741
       }
     ],
     "language": "en",
-    "packId": "20260917-50",
-    "sequence": 50,
+    "packId": "20260917-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:54"
+    "updatedAt": "11:00"
   },
   "verified": true
 }
