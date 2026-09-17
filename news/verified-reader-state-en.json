@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-122 seq=122 exp=1789845790",
+      "advancedStatus": "pack_id=20260917-123 seq=123 exp=1789845972",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:23",
+      "lastChecked": "19:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 19:23",
+    "expiresAt": "2026-09-19 19:26",
     "items": [
       {
         "channel": "iranintl",
@@ -1029,14 +1029,21 @@
         "text": "Families of Hamidreza Hemmati and Habib Khoubipour lit candles in their memory. Habib Khoubipour, a 47-year-old math talent, was shot by government forces in Isfahan on January 8, 2026, and died after several days in hospital. Hamidreza Hemmati, a 21-year-old student, was kidnapped the same day and his body was returned to his family after a few days.",
         "time": "19:22",
         "ts": 1789672939
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US State Department announced that the Islamic Republic delegation will travel to New York next week to attend the UN General Assembly. The delegation members will face travel restrictions and a ban on purchasing luxury goods. It was also reported that Benjamin Netanyahu will not meet with Donald Trump but will meet with Marco Rubio.",
+        "time": "19:24",
+        "ts": 1789673094
       }
     ],
     "language": "en",
-    "packId": "20260917-122",
-    "sequence": 122,
+    "packId": "20260917-123",
+    "sequence": 123,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:23"
+    "updatedAt": "19:26"
   },
   "verified": true
 }
