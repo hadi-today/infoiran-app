@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-55 seq=55 exp=1789817889",
+      "advancedStatus": "pack_id=20260917-56 seq=56 exp=1789818107",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:38",
+      "lastChecked": "11:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 11:38",
+    "expiresAt": "2026-09-19 11:41",
     "items": [
       {
         "channel": "harana",
@@ -1043,14 +1043,21 @@
         "text": "Diana Al Tahawi, senior advisor at Amnesty International, described the organization's report of over a thousand pages on the suppression of the Women, Life, Freedom movement. The report includes extensive evidence of killings, torture, sexual violence, enforced disappearances, and widespread arrests. Al Tahawi called these crimes systematic and organized and called for international mechanisms to hold responsible officials accountable.",
         "time": "11:37",
         "ts": 1789645043
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Yisrael Katz stated that Israel will not allow the Iranian government or any other party to rearm Hamas. He said the Israeli operation is not over and that Israel has objectives against the Islamic Republic. Katz added that Israel will continue military and political actions to achieve these goals.",
+        "time": "11:41",
+        "ts": 1789645260
       }
     ],
     "language": "en",
-    "packId": "20260917-55",
-    "sequence": 55,
+    "packId": "20260917-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:38"
+    "updatedAt": "11:41"
   },
   "verified": true
 }
