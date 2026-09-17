@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-15 seq=15 exp=1789799019",
+      "advancedStatus": "pack_id=20260917-16 seq=16 exp=1789799877",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:23",
+      "lastChecked": "06:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 06:23",
+    "expiresAt": "2026-09-19 06:37",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Shopkeepers in Saqez closed their shops on September 16. This action coincided with the fourth anniversary of the death of Zhina Mahsa Amini. The presence of military forces in the city has also been reported.",
-        "time": "06:26",
-        "ts": 1789539960
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of Iranians living in the UK commemorated Zhina Mahsa Amini and other victims of the Iranian protests on September 15 at Trafalgar Square in London. The event was covered through videos sent to Iran International. The gathering was held in support of the protests in Iran.",
-        "time": "06:37",
-        "ts": 1789540629
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1113,14 +1099,21 @@
         "text": "Shayan Samiei referred to a CNN report about the possible transfer of Russian satellite information to Iran before the attack on Prince Sultan base. If this cooperation is confirmed, Russia's role will go beyond political support and military cooperation. Moscow would effectively enter Iran's intelligence and targeting chain.",
         "time": "06:23",
         "ts": 1789626181
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The documentary \"Naza,\" shown at the Venice Film Festival, presents the accounts of 24 Israeli officers and soldiers about military operations in Gaza. It claims an attack was approved with the anticipation of killing 500 civilians, which the Israeli army has denied. The film has sparked debate about the army's conduct and freedom of expression in Israel.",
+        "time": "06:37",
+        "ts": 1789627036
       }
     ],
     "language": "en",
-    "packId": "20260917-15",
-    "sequence": 15,
+    "packId": "20260917-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:23"
+    "updatedAt": "06:37"
   },
   "verified": true
 }
