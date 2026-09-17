@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-12 seq=12 exp=1789797388",
+      "advancedStatus": "pack_id=20260917-13 seq=13 exp=1789797509",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:56",
+      "lastChecked": "05:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 05:56",
+    "expiresAt": "2026-09-19 05:58",
     "items": [
       {
         "channel": "iranintl",
@@ -1106,14 +1106,21 @@
         "text": "The US House of Representatives approved a five-year extension of Iran sanctions law, including restrictions on investment in the energy sector and provision of goods and services to oil and petrochemical industries. This law is considered the oldest pillar of Iran's energy sanctions. According to Miad Maleki, this law deters major oil companies like Shell and Total from entering Iran's refining sector.",
         "time": "05:55",
         "ts": 1789624548
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mojtaba Yousefi stated that rising oil prices can act as a deterrent against the US, but some officials' stances have led to a decrease in oil prices. He described oil prices as a decisive factor in the resistance axis. Regarding the Islamabad agreement, he said staying in the deal after the US withdrawal is neither dignified diplomacy nor wise.",
+        "time": "05:57",
+        "ts": 1789624666
       }
     ],
     "language": "en",
-    "packId": "20260917-12",
-    "sequence": 12,
+    "packId": "20260917-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:56"
+    "updatedAt": "05:58"
   },
   "verified": true
 }
