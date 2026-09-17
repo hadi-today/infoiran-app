@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-14 seq=14 exp=1789798178",
+      "advancedStatus": "pack_id=20260917-15 seq=15 exp=1789799019",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:09",
+      "lastChecked": "06:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 06:09",
+    "expiresAt": "2026-09-19 06:23",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Iranian men's national basketball team defeated Bahrain 79-74 and advanced to the semifinals of the Nagoya Asian Games. Mohammad Jamshidi and Mehdi Heydari played key roles in this victory. Iran will face South Korea in the semifinals on Friday, September 17.",
-        "time": "06:19",
-        "ts": 1789539553
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1113,14 +1106,21 @@
         "text": "Amir Giti stated that the Iranian government will retreat from Trump's demands only if its financial resources and economic interests are at risk. He added that economic pressure has increased but the government has not yet yielded. These remarks were made regarding the Islamic Republic's willingness to negotiate and the impact of economic pressures.",
         "time": "06:08",
         "ts": 1789625330
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shayan Samiei referred to a CNN report about the possible transfer of Russian satellite information to Iran before the attack on Prince Sultan base. If this cooperation is confirmed, Russia's role will go beyond political support and military cooperation. Moscow would effectively enter Iran's intelligence and targeting chain.",
+        "time": "06:23",
+        "ts": 1789626181
       }
     ],
     "language": "en",
-    "packId": "20260917-14",
-    "sequence": 14,
+    "packId": "20260917-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:09"
+    "updatedAt": "06:23"
   },
   "verified": true
 }
