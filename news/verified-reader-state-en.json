@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-123 seq=123 exp=1789845972",
+      "advancedStatus": "pack_id=20260917-124 seq=124 exp=1789846309",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:26",
+      "lastChecked": "19:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 19:26",
+    "expiresAt": "2026-09-19 19:31",
     "items": [
       {
         "channel": "iranintl",
@@ -1036,14 +1036,21 @@
         "text": "The US State Department announced that the Islamic Republic delegation will travel to New York next week to attend the UN General Assembly. The delegation members will face travel restrictions and a ban on purchasing luxury goods. It was also reported that Benjamin Netanyahu will not meet with Donald Trump but will meet with Marco Rubio.",
         "time": "19:24",
         "ts": 1789673094
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "On Wednesday, 25 Shahrivar, the home of Rahmatollah and Parvaneh Sabet, a Bahá'í couple living in Shiraz, was searched by security forces. Several personal belongings of the elderly couple were confiscated during the search. The couple, both over 80 years old, were threatened with imprisonment.",
+        "time": "19:30",
+        "ts": 1789673458
       }
     ],
     "language": "en",
-    "packId": "20260917-123",
-    "sequence": 123,
+    "packId": "20260917-124",
+    "sequence": 124,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:26"
+    "updatedAt": "19:31"
   },
   "verified": true
 }
