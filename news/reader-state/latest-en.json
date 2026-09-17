@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-45 seq=45 exp=1789812820",
+      "advancedStatus": "pack_id=20260917-47 seq=47 exp=1789813253",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:13",
+      "lastChecked": "10:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 10:13",
+    "expiresAt": "2026-09-19 10:20",
     "items": [
       {
         "channel": "iranintl",
@@ -1050,14 +1050,21 @@
         "text": "Morteza Kazemian reacted to Mohammad Reza Bahonar's definition of all-out war. He said Bahonar considers a serious war to be the bombing of Tehran or Isfahan. This view indicates discrimination among Iranian citizens.",
         "time": "10:13",
         "ts": 1789639989
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Asghar Rahimi, head of Iran's sports delegation, announced that Iran aims to win at least 20 gold medals at the Nagoya Asian Games. The Iranian delegation includes 308 male and female athletes. The goal is to achieve better results compared to the previous games where 13 gold medals were won.",
+        "time": "10:17",
+        "ts": 1789640235
       }
     ],
     "language": "en",
-    "packId": "20260917-45",
-    "sequence": 45,
+    "packId": "20260917-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:13"
+    "updatedAt": "10:20"
   },
   "verified": true
 }
