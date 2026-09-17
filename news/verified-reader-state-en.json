@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-58 seq=58 exp=1789819503",
+      "advancedStatus": "pack_id=20260917-59 seq=59 exp=1789820068",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:05",
+      "lastChecked": "12:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 12:05",
+    "expiresAt": "2026-09-19 12:14",
     "items": [
       {
         "channel": "iranintl",
@@ -1015,14 +1015,28 @@
         "text": "A citizen told Iran International that his refrigerator has been empty for a week. He stated that he has had no income for some time and has no savings. This indicates his financial difficulties.",
         "time": "12:02",
         "ts": 1789646546
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Some insurance services and medications have been cut, and medical costs without insurance are very high. Prices of essential goods like baby formula and diapers have increased significantly. The Tapico company affiliated with the Revolutionary Guards has started widespread layoffs of local workers in Khark, and surveillance cameras are being enhanced in major cities.",
+        "time": "12:13",
+        "ts": 1789647219
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The trial of Mehran Mohaqqeqi, accused of a car attack on an Iranian gathering in Toronto, ended again without result and was postponed to next month. Repeated delays and the release of the accused on bail have sparked criticism. This issue has been criticized by Iranians and the Conservative Party of Canada.",
+        "time": "12:14",
+        "ts": 1789647264
       }
     ],
     "language": "en",
-    "packId": "20260917-58",
-    "sequence": 58,
+    "packId": "20260917-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:05"
+    "updatedAt": "12:14"
   },
   "verified": true
 }
