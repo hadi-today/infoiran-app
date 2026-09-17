@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-91 seq=91 exp=1789834202",
+      "advancedStatus": "pack_id=20260917-92 seq=92 exp=1789834673",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:10",
+      "lastChecked": "16:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 16:10",
+    "expiresAt": "2026-09-19 16:17",
     "items": [
       {
         "channel": "iranintl",
@@ -1043,14 +1043,21 @@
         "text": "Joseph Aoun welcomed the progress of preliminary Paris talks to support the Lebanese army and internal security forces. He appreciated the efforts of France, Jordan, and the participation of various countries. He also emphasized protecting sovereignty and the monopoly of weapons by the Lebanese government.",
         "time": "16:08",
         "ts": 1789661336
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The European Union condemned the Houthi attacks on Saudi Arabia, including an attempted drone attack on Mecca. It stated that these attacks undermine the prospects for a peaceful resolution in Yemen and threaten regional security. The EU called on the Houthis to cease all military actions and remain committed to peace.",
+        "time": "16:17",
+        "ts": 1789661822
       }
     ],
     "language": "en",
-    "packId": "20260917-91",
-    "sequence": 91,
+    "packId": "20260917-92",
+    "sequence": 92,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:10"
+    "updatedAt": "16:17"
   },
   "verified": true
 }
