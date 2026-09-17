@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-110 seq=110 exp=1789841620",
+      "advancedStatus": "pack_id=20260917-111 seq=111 exp=1789842129",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:13",
+      "lastChecked": "18:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 18:13",
+    "expiresAt": "2026-09-19 18:22",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US Treasury Department held a meeting with international financial institutions to advance the economic exclusion operation. The goal is to isolate Tehran and limit its ability to finance the war in the Middle East. Necessary information to cut off revenue streams related to the Iranian government was provided during the meeting.",
-        "time": "18:15",
-        "ts": 1789582538
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1036,14 +1029,21 @@
         "text": "Donald Trump stated that he is on the verge of making a decisive decision about destroying his Iranian enemies. He mentioned that Tehran is in direct contact with the US and desires a deal. He also noted that since the naval blockade in July, no ships have reached Iran.",
         "time": "18:12",
         "ts": 1789668767
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The prices of rehabilitation equipment such as wheelchairs and prosthetics have significantly increased in 1405. The cost of regular wheelchairs has reached up to 38 million tomans, and advanced prosthetics up to 6 billion tomans. This price increase has made access to essential equipment more difficult for people with disabilities.",
+        "time": "18:21",
+        "ts": 1789669279
       }
     ],
     "language": "en",
-    "packId": "20260917-110",
-    "sequence": 110,
+    "packId": "20260917-111",
+    "sequence": 111,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:13"
+    "updatedAt": "18:22"
   },
   "verified": true
 }
