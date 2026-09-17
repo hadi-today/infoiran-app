@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-08 seq=8 exp=1789790411",
+      "advancedStatus": "pack_id=20260917-09 seq=9 exp=1789790786",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:00",
+      "lastChecked": "04:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 04:00",
+    "expiresAt": "2026-09-19 04:06",
     "items": [
       {
         "channel": "iranintl",
@@ -1148,14 +1148,21 @@
         "text": "Times of Israel reported that the Lod District Court sentenced Alexander Granovsky, a resident of Petah Tikva, to 13 and a half years in prison for espionage, property destruction, and arson on behalf of the Islamic Republic. According to the report, in exchange for money from an Iranian agent, he set nine cars on fire, wrote anti-government slogans, and surveilled the neighborhood where former Israeli Defense Minister Benny Gantz resides. The Central District Attorney's Office declared this the heaviest punishment yet for acting on behalf of Iran.",
         "time": "03:59",
         "ts": 1789617566
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The economic crisis caused by the war in Iran has forced thousands of Afghan migrants to return to their country. Sharp price increases and the devaluation of the rial have wiped out much of their savings. More than two million Afghans have left Iran in the past two years.",
+        "time": "04:05",
+        "ts": 1789617944
       }
     ],
     "language": "en",
-    "packId": "20260917-08",
-    "sequence": 8,
+    "packId": "20260917-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:00"
+    "updatedAt": "04:06"
   },
   "verified": true
 }
