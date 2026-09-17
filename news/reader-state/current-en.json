@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-30 seq=30 exp=1789807946",
+      "advancedStatus": "pack_id=20260917-31 seq=31 exp=1789808422",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:52",
+      "lastChecked": "09:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 08:52",
+    "expiresAt": "2026-09-19 09:00",
     "items": [
       {
         "channel": "iranintl",
@@ -1022,14 +1022,21 @@
         "text": "Houthi forces affiliated with the Islamic Republic in Yemen announced that they have shot down a Saudi F-15 fighter jet. A video was released showing the wreckage of the fighter jet. The exact model of the aircraft is not identifiable due to extensive damage.",
         "time": "08:51",
         "ts": 1789635105
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Masoud Pezeshkian, head of the Islamic Republic government, stated that no government has the right to force others to surrender. He emphasized that they will not bow to oppression and tyranny. This position has been clearly declared.",
+        "time": "08:59",
+        "ts": 1789635568
       }
     ],
     "language": "en",
-    "packId": "20260917-30",
-    "sequence": 30,
+    "packId": "20260917-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:52"
+    "updatedAt": "09:00"
   },
   "verified": true
 }
