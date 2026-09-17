@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-34 seq=34 exp=1789809017",
+      "advancedStatus": "pack_id=20260917-35 seq=35 exp=1789809792",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:10",
+      "lastChecked": "09:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 09:10",
+    "expiresAt": "2026-09-19 09:23",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Joseph Aoun, the President of Lebanon, announced that the country seeks an agreement with Israel. He said the agreement could pave the way for peace and the government wants to keep weapons under its control without causing internal conflict. He also requested help from Europe, the US, and Arab countries to support the Lebanese army to prevent a security vacuum after UNIFIL's withdrawal.",
-        "time": "09:09",
-        "ts": 1789549792
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Bartina Koeman, wife of Ronald Koeman, former coach of the Netherlands national team, passed away at the age of 65 after a long battle with cancer. Ronald Koeman announced this sad news in a statement. The football community has also expressed condolences to his family.",
-        "time": "09:16",
-        "ts": 1789550174
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1029,14 +1015,21 @@
         "text": "Azadi Stadium in Tehran is still under renovation, with areas like tunnels and stands remaining unusable. It was previously planned to be ready for the 1406–1405 season, but replacing the turf has extended the preparation process. The exact time for the stadium's reopening is still unknown.",
         "time": "09:09",
         "ts": 1789636166
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The UN fact-finding mission reported that the US committed war crimes in two airstrikes on Iran. These attacks killed at least 178 civilians, including children. One attack targeted a primary school in Minab and the other a residential area in Lamerd.",
+        "time": "09:22",
+        "ts": 1789636941
       }
     ],
     "language": "en",
-    "packId": "20260917-34",
-    "sequence": 34,
+    "packId": "20260917-35",
+    "sequence": 35,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:10"
+    "updatedAt": "09:23"
   },
   "verified": true
 }
