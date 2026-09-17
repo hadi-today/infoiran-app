@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-06 seq=6 exp=1789788438",
+      "advancedStatus": "pack_id=20260917-07 seq=7 exp=1789788751",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:27",
+      "lastChecked": "03:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 03:27",
+    "expiresAt": "2026-09-19 03:32",
     "items": [
       {
         "channel": "iranintl",
@@ -1134,14 +1134,21 @@
         "text": "Yasmin Ansari commemorated Mahsa Jina Amini on the fourth anniversary of her death. She mentioned the killing of thousands of protesters, political prisoners, and executions. Ansari emphasized continuing the fight for freedom and human rights in Iran.",
         "time": "03:26",
         "ts": 1789615596
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Anwar Ibrahim, the Prime Minister of Malaysia, condemned the interception of a drone near Mecca, calling it a threat to the security of the holy city. He praised Saudi Arabia for its swift action to protect Mecca and called for restraint and dialogue. The Saudi-led coalition destroyed the drone and attributed the attack to the Houthis, who denied involvement.",
+        "time": "03:31",
+        "ts": 1789615911
       }
     ],
     "language": "en",
-    "packId": "20260917-06",
-    "sequence": 6,
+    "packId": "20260917-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:27"
+    "updatedAt": "03:32"
   },
   "verified": true
 }
