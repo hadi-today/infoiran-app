@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-60 seq=60 exp=1789820177",
+      "advancedStatus": "pack_id=20260917-61 seq=61 exp=1789820307",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:16",
+      "lastChecked": "12:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 12:16",
+    "expiresAt": "2026-09-19 12:18",
     "items": [
       {
         "channel": "iranintl",
@@ -1036,14 +1036,21 @@
         "text": "Heavy rain has caused the cancellation of the women's cricket match between Bangladesh and China at the Asian Games. There are concerns about the weather affecting the opening ceremony. It is still unclear whether the opening ceremony will be delayed or if there will be other changes to the schedule.",
         "time": "12:15",
         "ts": 1789647302
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Four years have passed since the start of the \"Woman, Life, Freedom\" uprising, in which Iranian athletes participated. Several athletes, including Ali Mozaffari, Mohammad Ghaemifar, Ehsan Ghasemifar, and Ghazaleh Chalabi, were killed during these protests. Amir Nasrazadani remains imprisoned.",
+        "time": "12:16",
+        "ts": 1789647377
       }
     ],
     "language": "en",
-    "packId": "20260917-60",
-    "sequence": 60,
+    "packId": "20260917-61",
+    "sequence": 61,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:16"
+    "updatedAt": "12:18"
   },
   "verified": true
 }
