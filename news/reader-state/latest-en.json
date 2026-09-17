@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-09 seq=9 exp=1789790786",
+      "advancedStatus": "pack_id=20260917-10 seq=10 exp=1789792125",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:06",
+      "lastChecked": "04:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 04:06",
+    "expiresAt": "2026-09-19 04:28",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The director of the Nutrition Improvement Office at the Ministry of Health stated that due to the prevalence of short stature in some southern provinces, adding zinc to the supplementation program is under consideration. Children aged 2 to 12 currently receive no supplements. This group requires supplementation interventions due to their rapid growth rate.",
-        "time": "04:23",
-        "ts": 1789532582
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1155,14 +1148,21 @@
         "text": "The economic crisis caused by the war in Iran has forced thousands of Afghan migrants to return to their country. Sharp price increases and the devaluation of the rial have wiped out much of their savings. More than two million Afghans have left Iran in the past two years.",
         "time": "04:05",
         "ts": 1789617944
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reuters reported that the number of cargo ships passing through the Strait of Hormuz on Wednesday dropped to 3 vessels. This is significantly lower than the daily average of about 17 vessels over the past 10 days. The data is based on shipping information.",
+        "time": "04:28",
+        "ts": 1789619280
       }
     ],
     "language": "en",
-    "packId": "20260917-09",
-    "sequence": 9,
+    "packId": "20260917-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:06"
+    "updatedAt": "04:28"
   },
   "verified": true
 }
