@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-05 seq=5 exp=1789786748",
+      "advancedStatus": "pack_id=20260917-06 seq=6 exp=1789788438",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:59",
+      "lastChecked": "03:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 02:59",
+    "expiresAt": "2026-09-19 03:27",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US State Department raised the travel advisory for Saudi Arabia to level 3, advising reconsideration of travel. The warning cites risks of missile and drone attacks by the Islamic Republic, armed conflict, and terrorism. The border area between Saudi Arabia and Yemen is at level 4, meaning do not travel.",
-        "time": "03:00",
-        "ts": 1789527631
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1134,14 +1127,21 @@
         "text": "Joe Wilson, a Republican member of the US House of Representatives, welcomed the passage of the 'Lindsey Graham 2026 Russia and Iran Sanctions Act'. The House passed the bill on Wednesday with 262 votes in favor and 159 against, sending it to President Donald Trump for signature. The legislation extends the authorization of Iran sanctions until 2031.",
         "time": "02:58",
         "ts": 1789613906
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Yasmin Ansari commemorated Mahsa Jina Amini on the fourth anniversary of her death. She mentioned the killing of thousands of protesters, political prisoners, and executions. Ansari emphasized continuing the fight for freedom and human rights in Iran.",
+        "time": "03:26",
+        "ts": 1789615596
       }
     ],
     "language": "en",
-    "packId": "20260917-05",
-    "sequence": 5,
+    "packId": "20260917-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:59"
+    "updatedAt": "03:27"
   },
   "verified": true
 }
