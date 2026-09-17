@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-100 seq=100 exp=1789838039",
+      "advancedStatus": "pack_id=20260917-101 seq=101 exp=1789838300",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:13",
+      "lastChecked": "17:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 17:13",
+    "expiresAt": "2026-09-19 17:18",
     "items": [
       {
         "channel": "iranintl",
@@ -1036,14 +1036,21 @@
         "text": "A viewer of Iran International reported a drawing by their child referring to the death of the former leader of the Islamic Republic. Children at school and in their communications talk about the coming of the Shah and the death of Mousa Ali. Even children from religious families opposing the regime are eagerly awaiting freedom and the return of the Shah.",
         "time": "17:13",
         "ts": 1789665182
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Four years have passed since the killing of Mahsa Zeinab Amini in the custody of the morality police, which sparked a nationwide uprising and the \"Women, Life, Freedom\" movement. Athletes played a prominent role in this uprising, and four of them were sentenced to death. These individuals include Majidreza Rahnavard, Mohammadmahdi Karami, Kian Hosseini, and Saleh Mirhashmi.",
+        "time": "17:17",
+        "ts": 1789665448
       }
     ],
     "language": "en",
-    "packId": "20260917-100",
-    "sequence": 100,
+    "packId": "20260917-101",
+    "sequence": 101,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:13"
+    "updatedAt": "17:18"
   },
   "verified": true
 }
