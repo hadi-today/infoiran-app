@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260917-74 seq=74 exp=1789827434",
+      "advancedStatus": "pack_id=20260917-75 seq=75 exp=1789827924",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:17",
+      "lastChecked": "14:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-17",
-    "expiresAt": "2026-09-19 14:17",
+    "expiresAt": "2026-09-19 14:25",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Nikzad said those who negotiated with the US had permission, and a detailed agreement was reached with Oman regarding the Strait of Hormuz. He added that the US intended to destroy the country and government but did not recognize Iran's armed forces. Nikzad also stated that the Islamic Republic did not discuss enrichment in the negotiations and that talks will not continue if the US breaches the agreement.",
-        "time": "14:17",
-        "ts": 1789568228
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1029,14 +1022,21 @@
         "text": "Officials from the Kurdistan Region of Iraq met with the Islamic Republic in Tehran. This meeting coincided with ongoing attacks by the Islamic Republic on Kurdish areas along the Iran border. The Kurdistan Region aims to reassure Tehran that no ground operations will be launched from this area.",
         "time": "14:16",
         "ts": 1789654588
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Etemad newspaper reported an increase in students' educational expenses for the new year. The initial costs for a student in a public school for a family with average income are estimated at least 15 million tomans. This issue was discussed in an interview with Mansoureh Hosseini-Yeganeh.",
+        "time": "14:24",
+        "ts": 1789655067
       }
     ],
     "language": "en",
-    "packId": "20260917-74",
-    "sequence": 74,
+    "packId": "20260917-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:17"
+    "updatedAt": "14:25"
   },
   "verified": true
 }
