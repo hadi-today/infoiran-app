@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260918-129 seq=129 exp=1789942172",
+      "advancedStatus": "pack_id=20260918-130 seq=130 exp=1789942806",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:09",
+      "lastChecked": "22:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-18",
-    "expiresAt": "2026-09-20 22:09",
+    "expiresAt": "2026-09-20 22:20",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,21 @@
         "text": "The US State Department announced that the purchase of 48 F-35 fighter jets will significantly enhance Saudi Arabia's air power and deterrence. Washington emphasized that this deal will strengthen Saudi Arabia's military cooperation with the US and other regional partners. More details are provided by Kambiz Tavana on Iran International.",
         "time": "22:07",
         "ts": 1789769277
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Trump signed the congressional bill sanctioning Iran and Russia. The bill includes sanctions on Iran's energy and arms sectors and expands the president's authority to impose tariffs on energy customers of Tehran and Moscow. The new law also imposes sanctions on Vladimir Putin and Russian officials.",
+        "time": "22:19",
+        "ts": 1789769954
       }
     ],
     "language": "en",
-    "packId": "20260918-129",
-    "sequence": 129,
+    "packId": "20260918-130",
+    "sequence": 130,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:09"
+    "updatedAt": "22:20"
   },
   "verified": true
 }
