@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260918-121 seq=121 exp=1789937835",
+      "advancedStatus": "pack_id=20260918-122 seq=122 exp=1789939054",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:57",
+      "lastChecked": "21:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-18",
-    "expiresAt": "2026-09-20 20:57",
+    "expiresAt": "2026-09-20 21:17",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US State Department sanctioned two entities and three individuals involved in Iran's digital asset networks. The targeted network includes BitBank, linked to Babak Zanjani, which transfers funds to the IRGC. The US stated it will continue efforts to prevent Iran from accessing financial resources.",
-        "time": "21:09",
-        "ts": 1789679345
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +910,21 @@
         "text": "Saudi Civil Defense issued a danger warning in several cities including Jeddah, Taif, Yanbu, Khamis Mushait, Jazan, and Al-Ula. Later, it announced that the danger was lifted in Jeddah, Taif, Yanbu, Abha, Khamis Mushait, and Jazan. This announcement was made on Friday.",
         "time": "20:56",
         "ts": 1789764988
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ghasan Ashour, Middle East analyst, said the increase in European and Arab naval presence aims to prevent Houthi domination of the Bab el-Mandeb and Iran's domination of the Strait of Hormuz. He added that Saudi Arabia seeks sustainable deterrence in the Red Sea, but without US support, achieving this goal will face serious challenges.",
+        "time": "21:16",
+        "ts": 1789766208
       }
     ],
     "language": "en",
-    "packId": "20260918-121",
-    "sequence": 121,
+    "packId": "20260918-122",
+    "sequence": 122,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:57"
+    "updatedAt": "21:17"
   },
   "verified": true
 }
