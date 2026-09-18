@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260918-118 seq=118 exp=1789935609",
+      "advancedStatus": "pack_id=20260918-119 seq=119 exp=1789935778",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:20",
+      "lastChecked": "20:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-18",
-    "expiresAt": "2026-09-20 20:20",
+    "expiresAt": "2026-09-20 20:22",
     "items": [
       {
         "channel": "iranintl",
@@ -903,14 +903,21 @@
         "text": "The Iran under-23 football team will play its second match against China in the Asian Games in Nagoya on Sunday morning Tehran time. This match is part of the Asian Games competition. The report is by Alireza Modiri, Iran International correspondent in Japan.",
         "time": "20:19",
         "ts": 1789762760
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Matin Tahmasbi, a firefighter, wore a commemorative T-shirt of Hamid Mahdavi during the 10-kilometer race in Tehran. Hamid Mahdavi was a firefighter and athlete from Mashhad who was killed on January 8, 2026, while helping protesters. The scene of his aid to a protester received widespread attention.",
+        "time": "20:22",
+        "ts": 1789762932
       }
     ],
     "language": "en",
-    "packId": "20260918-118",
-    "sequence": 118,
+    "packId": "20260918-119",
+    "sequence": 119,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:20"
+    "updatedAt": "20:22"
   },
   "verified": true
 }
