@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260918-124 seq=124 exp=1789939663",
+      "advancedStatus": "pack_id=20260918-125 seq=125 exp=1789941688",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:27",
+      "lastChecked": "22:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-18",
-    "expiresAt": "2026-09-20 21:27",
+    "expiresAt": "2026-09-20 22:01",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US State Department has launched the 'Reward for Justice' program offering up to $15 million for information disrupting the financial mechanisms of the IRGC. The program stated that the IRGC uses digital asset exchanges for money laundering and financing its activities abroad. People are asked to submit any relevant information.",
-        "time": "21:34",
-        "ts": 1789680895
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "Four years have passed since the killing of Mahsa Zhina Amini, a 22-year-old woman, in the custody of the Islamic Republic's morality police. This incident sparked an unprecedented uprising in Iran, with the sports community also participating in the protests. The program Hattrick has covered this topic.",
         "time": "21:26",
         "ts": 1789766817
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Molavi Abdolhamid referred to the anniversary of Mahsa Amini's death and the killing of protesters, stating that if officials had paid attention to people's demands, these events would not have happened. He mentioned the protests of 2019, 2022, and December 2025, describing them as bitter and tragic. He also criticized the entry of foreign and proxy forces into Sistan and Baluchestan province.",
+        "time": "22:00",
+        "ts": 1789768845
       }
     ],
     "language": "en",
-    "packId": "20260918-124",
-    "sequence": 124,
+    "packId": "20260918-125",
+    "sequence": 125,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:27"
+    "updatedAt": "22:01"
   },
   "verified": true
 }
