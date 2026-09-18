@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260918-110 seq=110 exp=1789930093",
+      "advancedStatus": "pack_id=20260918-111 seq=111 exp=1789930349",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:48",
+      "lastChecked": "18:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-18",
-    "expiresAt": "2026-09-20 18:48",
+    "expiresAt": "2026-09-20 18:52",
     "items": [
       {
         "channel": "iranintl",
@@ -931,14 +931,21 @@
         "text": "Seyed Ahmad Seyed Abdollahi, a political prisoner, returned to Borujen prison after his leave ended. He returned to prison on Monday, 9 Shahrivar, and his leave had started on 3 Shahrivar. This news was reported by Harana News Agency.",
         "time": "18:46",
         "ts": 1789757192
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "In a secret meeting in Germany, the United States is preparing to return to operations. This topic was discussed in the audio version of Harf Akhar with Pouria Zeraati. More details were reviewed in this meeting.",
+        "time": "18:50",
+        "ts": 1789757452
       }
     ],
     "language": "en",
-    "packId": "20260918-110",
-    "sequence": 110,
+    "packId": "20260918-111",
+    "sequence": 111,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:48"
+    "updatedAt": "18:52"
   },
   "verified": true
 }
