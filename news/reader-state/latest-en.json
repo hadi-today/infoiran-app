@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260918-89 seq=89 exp=1789920818",
+      "advancedStatus": "pack_id=20260918-91 seq=91 exp=1789921985",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:13",
+      "lastChecked": "16:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-18",
-    "expiresAt": "2026-09-20 16:13",
+    "expiresAt": "2026-09-20 16:33",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The European Union condemned the Houthi attacks on Saudi Arabia, including an attempted drone attack on Mecca. It stated that these attacks undermine the prospects for a peaceful resolution in Yemen and threaten regional security. The EU called on the Houthis to cease all military actions and remain committed to peace.",
-        "time": "16:17",
-        "ts": 1789661822
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Abdulmalik al-Houthi, leader of Yemen's Houthis, denied the claim that his forces targeted Mecca and called it a great slander. He accused Saudi Arabia of trying to encourage other countries to join the conflict by raising this issue. Al-Houthi called on Muslims to take a stance against this action by Saudi Arabia.",
-        "time": "16:30",
-        "ts": 1789662607
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The CEO of the Charity Association for Cancer Patients in Kermanshah reported a sharp increase in treatment costs and insurance problems for patients. The cost of some medicines has reached 40 to 50 million tomans per month, and patients have resorted to selling essential household items to cover expenses. Social Security insured individuals must pay about 39 million tomans for PET scans.",
-        "time": "16:31",
-        "ts": 1789662700
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -959,14 +938,21 @@
         "text": "Ahmad Alamolhoda stated in Friday prayers in Mashhad that women without hijab should not be allowed to enter universities as it may lead to gatherings of agitators. He described the university as a sanctuary and called for decisive action by security and judicial authorities. Alamolhoda emphasized that if administrative bodies fail to control the issue, security forces must intervene.",
         "time": "16:11",
         "ts": 1789747881
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Hossein Ghashghaei, Sara Shamsaei, and Abolfazl Ghashghaei were arrested by security forces nine days ago. Their place of detention and status remain unknown. Hossein and Sara were arrested in Lahijan, and Abolfazl in Zarandieh.",
+        "time": "16:21",
+        "ts": 1789748468
       }
     ],
     "language": "en",
-    "packId": "20260918-89",
-    "sequence": 89,
+    "packId": "20260918-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:13"
+    "updatedAt": "16:33"
   },
   "verified": true
 }
