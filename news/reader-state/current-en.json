@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260918-114 seq=114 exp=1789933109",
+      "advancedStatus": "pack_id=20260918-115 seq=115 exp=1789933326",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:38",
+      "lastChecked": "19:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-18",
-    "expiresAt": "2026-09-20 19:38",
+    "expiresAt": "2026-09-20 19:42",
     "items": [
       {
         "channel": "vahid online",
@@ -903,14 +903,21 @@
         "text": "People from across Iran have reported economic difficulties and high medical expenses. Cancer patients and those needing surgery complain about high costs and insurance issues. Additionally, blind students and unemployed individuals mention financial pressures due to inflation and lack of support.",
         "time": "19:37",
         "ts": 1789760257
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "For the first time, men officially watched a match of the Iranian women's Premier League football in person. The match between Esteghlal and Palayesh Gaz Ilam was held at Kargar Stadium in Tehran with male spectators present. Maryam Irandoost became emotional after the game when talking about her father's presence, and Nosrat Irandoost expressed satisfaction with his daughter's performance.",
+        "time": "19:41",
+        "ts": 1789760471
       }
     ],
     "language": "en",
-    "packId": "20260918-114",
-    "sequence": 114,
+    "packId": "20260918-115",
+    "sequence": 115,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:38"
+    "updatedAt": "19:42"
   },
   "verified": true
 }
