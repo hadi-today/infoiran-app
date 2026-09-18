@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260918-125 seq=125 exp=1789941688",
+      "advancedStatus": "pack_id=20260918-126 seq=126 exp=1789941786",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:01",
+      "lastChecked": "22:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-18",
-    "expiresAt": "2026-09-20 22:01",
+    "expiresAt": "2026-09-20 22:03",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "Molavi Abdolhamid referred to the anniversary of Mahsa Amini's death and the killing of protesters, stating that if officials had paid attention to people's demands, these events would not have happened. He mentioned the protests of 2019, 2022, and December 2025, describing them as bitter and tragic. He also criticized the entry of foreign and proxy forces into Sistan and Baluchestan province.",
         "time": "22:00",
         "ts": 1789768845
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Esteghlal and Tractor football teams faced Al Sadd Qatar and Shabab Al Ahli UAE in the first week of the Elite League. Mozdek Mirzayi discussed this in the Hat-trick program. The full version of the Hat-trick program is available to watch.",
+        "time": "22:01",
+        "ts": 1789768886
       }
     ],
     "language": "en",
-    "packId": "20260918-125",
-    "sequence": 125,
+    "packId": "20260918-126",
+    "sequence": 126,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:01"
+    "updatedAt": "22:03"
   },
   "verified": true
 }
