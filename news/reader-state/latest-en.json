@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260918-130 seq=130 exp=1789942806",
+      "advancedStatus": "pack_id=20260918-131 seq=131 exp=1789943982",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:20",
+      "lastChecked": "22:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-18",
-    "expiresAt": "2026-09-20 22:20",
+    "expiresAt": "2026-09-20 22:39",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump stated that the war with the Islamic Republic is approaching a critical stage. He must soon decide on resuming extensive attacks and efforts to destroy the regime. The Pentagon has been tasked with maintaining the current level of US forces in the Middle East until the end of the year.",
-        "time": "22:22",
-        "ts": 1789683766
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Alireza Namvar Haghighi said that rebuilding the Talqan 2 nuclear center does not necessarily mean a definite move by the Islamic Republic towards nuclear weapons and could be a leverage in negotiations. He warned that if the US and its allies interpret this as a step towards nuclear weapons, the likelihood of military action will increase.",
-        "time": "22:34",
-        "ts": 1789684461
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US State Department spokesperson announced that Iranian officials are not allowed to purchase luxury goods in New York. These restrictions are due to Iran's economic problems and the government's use of wealth to support proxy forces. Sellers in the New York area have also been asked not to participate in violating these bans.",
-        "time": "22:35",
-        "ts": 1789684546
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -952,14 +931,21 @@
         "text": "Trump signed the congressional bill sanctioning Iran and Russia. The bill includes sanctions on Iran's energy and arms sectors and expands the president's authority to impose tariffs on energy customers of Tehran and Moscow. The new law also imposes sanctions on Vladimir Putin and Russian officials.",
         "time": "22:19",
         "ts": 1789769954
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Trump administration has imposed new restrictions on the Iranian delegation attending the UN General Assembly in New York. The delegation is only allowed to move within a limited area between the airport, hotel, and UN headquarters and cannot shop at certain stores. The UN General Assembly begins in two days, and this delegation is the only one facing such restrictions.",
+        "time": "22:38",
+        "ts": 1789771134
       }
     ],
     "language": "en",
-    "packId": "20260918-130",
-    "sequence": 130,
+    "packId": "20260918-131",
+    "sequence": 131,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:20"
+    "updatedAt": "22:39"
   },
   "verified": true
 }
