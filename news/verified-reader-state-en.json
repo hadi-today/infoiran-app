@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260918-101 seq=101 exp=1789925803",
+      "advancedStatus": "pack_id=20260918-102 seq=102 exp=1789926579",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:36",
+      "lastChecked": "17:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-18",
-    "expiresAt": "2026-09-20 17:36",
+    "expiresAt": "2026-09-20 17:49",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Axios reported that Donald Trump, the US President, is on the verge of deciding whether to resume widespread attacks against the Islamic Republic. Trump stated that he has a big decision ahead and is scheduled to meet with leaders of Arab countries on Tuesday to hear their views on continuing the war. He also expressed satisfaction with the performance of the naval blockade and the prevention of Iranian oil exports.",
-        "time": "17:38",
-        "ts": 1789666725
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Institute for Science and International Security reported that the Islamic Republic began rebuilding the Taleqan 2 facilities in Parchin since June 1405. A cover has been installed to hide reconstruction activities, and heavy construction equipment is active. The institute described the purpose of the reconstruction as unclear and called the action concerning.",
-        "time": "17:47",
-        "ts": 1789667256
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Due to sanctions, the American Law School Admission Council has canceled the registration of applicants with Iranian nationality or background. This action follows the intensification of US sanctions and restrictions against the Islamic Republic. The report is by Mahsa Mortazavi, a journalist from Iran International.",
-        "time": "17:48",
-        "ts": 1789667296
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -959,14 +938,21 @@
         "text": "The mother of Mahna Doukoshkani lit a candle at her daughter's grave as part of the \"One Candle, One Name, One Memory\" campaign. Mahna Doukoshkani, 18 years old, was shot and killed by officers in Kermanshah on January 8, 2026.",
         "time": "17:34",
         "ts": 1789752888
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Workers in the service section of Bandar Imam Khomeini Municipality reported non-payment of two months' wages and delays in insurance payments. Workers in the security and executive sections also face wage arrears.",
+        "time": "17:48",
+        "ts": 1789753716
       }
     ],
     "language": "en",
-    "packId": "20260918-101",
-    "sequence": 101,
+    "packId": "20260918-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:36"
+    "updatedAt": "17:49"
   },
   "verified": true
 }
