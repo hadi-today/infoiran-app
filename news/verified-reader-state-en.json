@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260918-82 seq=82 exp=1789917974",
+      "advancedStatus": "pack_id=20260918-83 seq=83 exp=1789918462",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:26",
+      "lastChecked": "15:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-18",
-    "expiresAt": "2026-09-20 15:26",
+    "expiresAt": "2026-09-20 15:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Amir Ghalenoei announced the first national team roster after the World Cup. The list does not include Hossein Kanaani-Zadegan, Ali Alipour, and Roozbeh Cheshmi. The roster features players from the Persian Gulf Pro League.",
-        "time": "15:33",
-        "ts": 1789659201
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -952,14 +945,21 @@
         "text": "Iran's aviation industry faces multiple crises including expensive tickets, long delays, unpaid staff salaries, and radar issues. Reports of delayed pilot salaries have emerged, and international warnings about Iran's airspace security have raised concerns. Farshad Motaghi discussed these crises in the program \"Pivast.\"",
         "time": "15:26",
         "ts": 1789745161
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohsen Naqvi, Pakistan's Interior Minister, is set to travel to Iran to discuss the escalation of Houthi attacks on Saudi Arabia. The trip will take place in the coming hours. Earlier, Pakistan's army commander had urged Iran to work towards stopping these attacks.",
+        "time": "15:34",
+        "ts": 1789745659
       }
     ],
     "language": "en",
-    "packId": "20260918-82",
-    "sequence": 82,
+    "packId": "20260918-83",
+    "sequence": 83,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:26"
+    "updatedAt": "15:34"
   },
   "verified": true
 }
