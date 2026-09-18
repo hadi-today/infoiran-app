@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260918-122 seq=122 exp=1789939054",
+      "advancedStatus": "pack_id=20260918-123 seq=123 exp=1789939151",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:17",
+      "lastChecked": "21:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-18",
-    "expiresAt": "2026-09-20 21:17",
+    "expiresAt": "2026-09-20 21:19",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Juventus defeated NEC Nijmegen 5-0 in their first match of the new Europa League season. Goals were scored by Nico Gonzalez, Alabakovich, Woltmade, Celik, and Kolo Muani. This victory came after a loss to Sassuolo in Serie A.",
-        "time": "21:18",
-        "ts": 1789679880
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +910,21 @@
         "text": "Ghasan Ashour, Middle East analyst, said the increase in European and Arab naval presence aims to prevent Houthi domination of the Bab el-Mandeb and Iran's domination of the Strait of Hormuz. He added that Saudi Arabia seeks sustainable deterrence in the Red Sea, but without US support, achieving this goal will face serious challenges.",
         "time": "21:16",
         "ts": 1789766208
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Nourizadeh stated that the sale of F-35 fighters to Saudi Arabia is mainly to strengthen deterrence against the Islamic Republic rather than to confront the Houthis. He also emphasized that Europe cannot remain indifferent to the security of Bab al-Mandab. Disruptions in shipping through this route affect Europe's energy security.",
+        "time": "21:18",
+        "ts": 1789766284
       }
     ],
     "language": "en",
-    "packId": "20260918-122",
-    "sequence": 122,
+    "packId": "20260918-123",
+    "sequence": 123,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:17"
+    "updatedAt": "21:19"
   },
   "verified": true
 }
