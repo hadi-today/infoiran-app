@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260918-120 seq=120 exp=1789936463",
+      "advancedStatus": "pack_id=20260918-121 seq=121 exp=1789937835",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:34",
+      "lastChecked": "20:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-18",
-    "expiresAt": "2026-09-20 20:34",
+    "expiresAt": "2026-09-20 20:57",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "Trump stated that the Islamic Republic will never have nuclear weapons and the war will end soon. He said Americans are paying extra costs to prevent Iran from acquiring nuclear weapons. He also predicted that gasoline prices will return to pre-war levels once the current situation ends.",
         "time": "20:33",
         "ts": 1789763622
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Saudi Civil Defense issued a danger warning in several cities including Jeddah, Taif, Yanbu, Khamis Mushait, Jazan, and Al-Ula. Later, it announced that the danger was lifted in Jeddah, Taif, Yanbu, Abha, Khamis Mushait, and Jazan. This announcement was made on Friday.",
+        "time": "20:56",
+        "ts": 1789764988
       }
     ],
     "language": "en",
-    "packId": "20260918-120",
-    "sequence": 120,
+    "packId": "20260918-121",
+    "sequence": 121,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:34"
+    "updatedAt": "20:57"
   },
   "verified": true
 }
