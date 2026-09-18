@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260918-81 seq=81 exp=1789917403",
+      "advancedStatus": "pack_id=20260918-82 seq=82 exp=1789917974",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:16",
+      "lastChecked": "15:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-18",
-    "expiresAt": "2026-09-20 15:16",
+    "expiresAt": "2026-09-20 15:26",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Teachers' Union issued a statement commemorating the fourth anniversary of Mahsa Amini's death and honoring her and the Women, Life, Freedom movement. The statement described her death as the beginning of a wave of protests and social demands. These protests have led to a profound change in Iranian society.",
-        "time": "15:18",
-        "ts": 1789658335
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Axel Wilhelm Ditman, the German ambassador in Tehran, was summoned to the Iranian Ministry of Foreign Affairs. The summons followed statements by German officials and Tehran's protest against what it called the embassy's interventionist actions. The Director General for Western Europe at the Iranian Foreign Ministry rejected the German Chancellor's remarks and condemned Germany's support for Israel.",
-        "time": "15:19",
-        "ts": 1789658350
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The vote count for the Swedish parliamentary elections has ended, and opposition parties won a majority by a margin of three seats. The Swedish Prime Minister resigned after the results were announced. The process of forming a new government will begin.",
-        "time": "15:25",
-        "ts": 1789658725
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -966,14 +945,21 @@
         "text": "Images of the arrest and assault of a teenager in Tabriz have been released, showing violent and humiliating behavior by officers. The Islamic Republic has presented a different narrative by accusing the teenager. This raises questions about the legal treatment of children in custody.",
         "time": "15:16",
         "ts": 1789744589
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran's aviation industry faces multiple crises including expensive tickets, long delays, unpaid staff salaries, and radar issues. Reports of delayed pilot salaries have emerged, and international warnings about Iran's airspace security have raised concerns. Farshad Motaghi discussed these crises in the program \"Pivast.\"",
+        "time": "15:26",
+        "ts": 1789745161
       }
     ],
     "language": "en",
-    "packId": "20260918-81",
-    "sequence": 81,
+    "packId": "20260918-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:16"
+    "updatedAt": "15:26"
   },
   "verified": true
 }
