@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260918-123 seq=123 exp=1789939151",
+      "advancedStatus": "pack_id=20260918-124 seq=124 exp=1789939663",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:19",
+      "lastChecked": "21:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-18",
-    "expiresAt": "2026-09-20 21:19",
+    "expiresAt": "2026-09-20 21:27",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "Alireza Nourizadeh stated that the sale of F-35 fighters to Saudi Arabia is mainly to strengthen deterrence against the Islamic Republic rather than to confront the Houthis. He also emphasized that Europe cannot remain indifferent to the security of Bab al-Mandab. Disruptions in shipping through this route affect Europe's energy security.",
         "time": "21:18",
         "ts": 1789766284
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Four years have passed since the killing of Mahsa Zhina Amini, a 22-year-old woman, in the custody of the Islamic Republic's morality police. This incident sparked an unprecedented uprising in Iran, with the sports community also participating in the protests. The program Hattrick has covered this topic.",
+        "time": "21:26",
+        "ts": 1789766817
       }
     ],
     "language": "en",
-    "packId": "20260918-123",
-    "sequence": 123,
+    "packId": "20260918-124",
+    "sequence": 124,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:19"
+    "updatedAt": "21:27"
   },
   "verified": true
 }
