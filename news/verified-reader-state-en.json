@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260918-104 seq=104 exp=1789927074",
+      "advancedStatus": "pack_id=20260918-105 seq=105 exp=1789927221",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:57",
+      "lastChecked": "18:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-18",
-    "expiresAt": "2026-09-20 17:57",
+    "expiresAt": "2026-09-20 18:00",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,21 @@
         "text": "Yashar Soltani, an Iranian journalist, said in a video interview that Iran's oil sales have been entrusted to four people. He said these four people earned $1.5 billion from discounts on the sale of 80 million barrels of oil alone, apart from their other income from these sales.",
         "time": "17:55",
         "ts": 1789754104
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Housing Foundation offices have received funds for war damage compensation but have not paid them. The price of the cancer drug Tedrox has increased from 19 million to 95 million, making it unaffordable for people. Additionally, issues such as delays in car delivery, contaminated tap water in Khalkhal, and unpaid wages at the Marine Engineering and Construction Company have been reported.",
+        "time": "17:59",
+        "ts": 1789754352
       }
     ],
     "language": "en",
-    "packId": "20260918-104",
-    "sequence": 104,
+    "packId": "20260918-105",
+    "sequence": 105,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:57"
+    "updatedAt": "18:00"
   },
   "verified": true
 }
