@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260918-83 seq=83 exp=1789918462",
+      "advancedStatus": "pack_id=20260918-84 seq=84 exp=1789918535",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:34",
+      "lastChecked": "15:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-18",
-    "expiresAt": "2026-09-20 15:34",
+    "expiresAt": "2026-09-20 15:35",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,21 @@
         "text": "Mohsen Naqvi, Pakistan's Interior Minister, is set to travel to Iran to discuss the escalation of Houthi attacks on Saudi Arabia. The trip will take place in the coming hours. Earlier, Pakistan's army commander had urged Iran to work towards stopping these attacks.",
         "time": "15:34",
         "ts": 1789745659
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "On the fourth anniversary of Mahsa Amini's government killing, Iranians have gathered in Hanover, Germany. Representatives from the federal and state parliaments of Germany and families of the victims of the January 2023 protests are also present at the gathering. A report by Ahmad Samadi, an Iran International journalist, has been published.",
+        "time": "15:35",
+        "ts": 1789745702
       }
     ],
     "language": "en",
-    "packId": "20260918-83",
-    "sequence": 83,
+    "packId": "20260918-84",
+    "sequence": 84,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:34"
+    "updatedAt": "15:35"
   },
   "verified": true
 }
