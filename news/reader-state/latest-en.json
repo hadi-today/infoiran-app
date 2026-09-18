@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260918-131 seq=131 exp=1789943982",
+      "advancedStatus": "pack_id=20260918-132 seq=132 exp=1789948587",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:39",
+      "lastChecked": "23:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-18",
-    "expiresAt": "2026-09-20 22:39",
+    "expiresAt": "2026-09-20 23:56",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump is planning to meet with Delcy Rodriguez, the interim president of Venezuela. This meeting may take place next week. The news was reported by Axios.",
-        "time": "22:50",
-        "ts": 1789685449
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Center for Strategic and International Studies (CSIS) announced that China has equipped its military base in Djibouti with new communication equipment. This equipment could enhance China's ability to gather intelligence and monitor military activities across the Middle East. It could also help China monitor the military forces of nearby countries and maintain communication with Chinese ships and aircraft operating in the region.",
-        "time": "23:19",
-        "ts": 1789687195
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -938,14 +924,21 @@
         "text": "The Trump administration has imposed new restrictions on the Iranian delegation attending the UN General Assembly in New York. The delegation is only allowed to move within a limited area between the airport, hotel, and UN headquarters and cannot shop at certain stores. The UN General Assembly begins in two days, and this delegation is the only one facing such restrictions.",
         "time": "22:38",
         "ts": 1789771134
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Choo Hyun, South Korea's foreign minister, emphasized his country's readiness to participate practically in restoring free passage through the Strait of Hormuz during a meeting with his American counterpart. South Korea is considering possible participation in efforts to restore safe shipping but has not yet decided to deploy military forces. The South Korean president stated that the country will not send military forces to wars outside its borders.",
+        "time": "23:55",
+        "ts": 1789775744
       }
     ],
     "language": "en",
-    "packId": "20260918-131",
-    "sequence": 131,
+    "packId": "20260918-132",
+    "sequence": 132,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:39"
+    "updatedAt": "23:56"
   },
   "verified": true
 }
