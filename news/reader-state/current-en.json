@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-59 seq=59 exp=1789997192",
+      "advancedStatus": "pack_id=20260919-60 seq=60 exp=1789997740",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:26",
+      "lastChecked": "13:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 13:26",
+    "expiresAt": "2026-09-21 13:35",
     "items": [
       {
         "channel": "iranintl",
@@ -903,14 +903,21 @@
         "text": "Abbas Araghchi criticized military interventions in the Middle East as a cause of instability and ongoing tensions in a video message to the 2026 Global Dialogue Forum participants. He emphasized that war has become a common tool in international relations rather than a last resort. Araghchi stated that pressure and bullying never lead to peace.",
         "time": "13:24",
         "ts": 1789824289
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen stated in a video that due to rising prices, they must work 9 hours a day to buy a few groceries. This highlights the economic pressure on people. The video was sent to Iran International.",
+        "time": "13:34",
+        "ts": 1789824870
       }
     ],
     "language": "en",
-    "packId": "20260919-59",
-    "sequence": 59,
+    "packId": "20260919-60",
+    "sequence": 60,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:26"
+    "updatedAt": "13:35"
   },
   "verified": true
 }
