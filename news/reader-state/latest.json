@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-02 seq=2 exp=1789953228",
+      "advancedStatus": "pack_id=20260919-03 seq=3 exp=1789953343",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:13",
+      "lastChecked": "01:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 01:13",
+    "expiresAt": "2026-09-21 01:15",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -806,13 +806,19 @@
         "text": "سازمان دفاع مدنی عربستان پس از صدور هشدار درباره خطر احتمالی در ریاض و الخرج، وضعیت عادی اعلام کرد. خبرنگار رویترز از شنیده شدن صدای دو انفجار در منطقه العلیا در ریاض خبر داد. مقام‌های سعودی درباره منشا انفجارها توضیحی ندادند.",
         "time": "01:13",
         "ts": 1789780383
+      },
+      {
+        "channel": "وحید آنلاین",
+        "text": "دونالد ترامپ اعلام کرد که جلوگیری از دستیابی ایران به سلاح هسته‌ای موضوعی است که به آن افتخار می‌کند. او گفت ممکن است مردم برای مدتی هزینه بیشتری بابت سوخت بپردازند تا این هدف محقق شود. ترامپ همچنین پیش‌بینی کرد جنگ با ایران به‌زودی پایان یابد و قیمت بنزین کاهش یابد.",
+        "time": "01:15",
+        "ts": 1789780501
       }
     ],
-    "packId": "20260919-02",
-    "sequence": 2,
+    "packId": "20260919-03",
+    "sequence": 3,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "01:13"
+    "updatedAt": "01:15"
   },
   "verified": true
 }
