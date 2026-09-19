@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-23 seq=23 exp=1789977994",
+      "advancedStatus": "pack_id=20260919-24 seq=24 exp=1789978335",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:06",
+      "lastChecked": "08:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 08:06",
+    "expiresAt": "2026-09-21 08:12",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The military prosecutor of East Azerbaijan province announced the formation of a judicial case against police officers involved in a violent encounter with a teenager in Tabriz. These officers are currently in custody and investigations are ongoing. A video of the incident has been widely circulated on social media.",
-        "time": "08:06",
-        "ts": 1789718819
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -896,14 +889,21 @@
         "text": "Mehran Ebrahimzadeh, a resident of Mahabad, has been detained by the intelligence agency officers in the city for five days. His place of detention remains unknown.",
         "time": "08:05",
         "ts": 1789805140
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amir Hamidi stated that the US is simultaneously increasing the cost of confrontation and keeping negotiation channels open with the Islamic Republic. He said Trump's statements do not indicate a definite decision to end the war. The future confrontation depends on the Strait of Hormuz situation, regional attacks, and the possibility of returning to negotiations.",
+        "time": "08:11",
+        "ts": 1789805474
       }
     ],
     "language": "en",
-    "packId": "20260919-23",
-    "sequence": 23,
+    "packId": "20260919-24",
+    "sequence": 24,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:06"
+    "updatedAt": "08:12"
   },
   "verified": true
 }
