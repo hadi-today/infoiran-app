@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-102 seq=102 exp=1790025934",
+      "advancedStatus": "pack_id=20260919-103 seq=103 exp=1790026529",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:25",
+      "lastChecked": "21:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 21:25",
+    "expiresAt": "2026-09-21 21:35",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Four years have passed since the killing of Mahsa Zhina Amini, a 22-year-old woman, in the custody of the Islamic Republic's morality police. This incident sparked an unprecedented uprising in Iran, with the sports community also participating in the protests. The program Hattrick has covered this topic.",
-        "time": "21:26",
-        "ts": 1789766817
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -805,14 +798,21 @@
         "text": "Pierre Poilievre, leader of Canada's Conservative Party, called the Islamic Republic a \"tyrannical terrorist\" that has taken freedom from the Iranian people. He said the Islamic Republic will be overthrown and the Iranian people will achieve freedom. He also expressed hope that Prince Reza Pahlavi will return to Iran and raise the Lion and Sun flag.",
         "time": "21:24",
         "ts": 1789853090
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Forough Kenani stated that holding events like 'Cyrus the Great' shows Western politicians that there are political and economic capacities for the post-Islamic Republic era. These conferences reduce concerns about Iran's future after regime change and introduce Iranian capabilities. The continuation of these events also sends a message of hope and solidarity to Iranians inside the country.",
+        "time": "21:34",
+        "ts": 1789853685
       }
     ],
     "language": "en",
-    "packId": "20260919-102",
-    "sequence": 102,
+    "packId": "20260919-103",
+    "sequence": 103,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:25"
+    "updatedAt": "21:35"
   },
   "verified": true
 }
