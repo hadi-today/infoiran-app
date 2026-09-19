@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-40 seq=40 exp=1789988224",
+      "advancedStatus": "pack_id=20260919-41 seq=41 exp=1789988397",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:57",
+      "lastChecked": "10:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 10:57",
+    "expiresAt": "2026-09-21 10:59",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Istanbul will host the Spanish Super Cup in February 2027. Four teams, Barcelona, Real Madrid, Real Sociedad, and Atletico Madrid, will participate in the competition. The transfer of the matches from Saudi Arabia was due to a scheduling conflict with the Asian Cup.",
-        "time": "10:54",
-        "ts": 1789728893
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -903,14 +896,21 @@
         "text": "Abbas Araghchi, Iran's foreign minister, stated in an online speech that sustainable security in the Middle East must belong to the region itself and is achieved through dialogue and cooperation. He described the military aggression by the US and Israel as illegal and unjust. He also said the war against Iran is part of a broader pattern of unpunished aggressions.",
         "time": "10:54",
         "ts": 1789815264
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The police commander of Astaneh Ashrafiyeh announced the arrest of a citizen. The reason for the arrest was sending videos to foreign media. This news was reported by Harana News Agency.",
+        "time": "10:58",
+        "ts": 1789815536
       }
     ],
     "language": "en",
-    "packId": "20260919-40",
-    "sequence": 40,
+    "packId": "20260919-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:57"
+    "updatedAt": "10:59"
   },
   "verified": true
 }
