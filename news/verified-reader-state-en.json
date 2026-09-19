@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-97 seq=97 exp=1790019638",
+      "advancedStatus": "pack_id=20260919-98 seq=98 exp=1790019968",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:40",
+      "lastChecked": "19:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 19:40",
+    "expiresAt": "2026-09-21 19:46",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "For the first time, men officially watched a match of the Iranian women's Premier League football in person. The match between Esteghlal and Palayesh Gaz Ilam was held at Kargar Stadium in Tehran with male spectators present. Maryam Irandoost became emotional after the game when talking about her father's presence, and Nosrat Irandoost expressed satisfaction with his daughter's performance.",
-        "time": "19:41",
-        "ts": 1789760471
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -833,14 +826,21 @@
         "text": "Mohsen Rezaei stated that the Islamic Republic is in contact with a Qatari mediator who has conveyed Tehran's conditions for ending the war to Washington. The conditions include ending the war on all fronts, releasing blocked Iranian assets, and ending the naval blockade. The Islamic Republic is awaiting Trump's response to these conditions.",
         "time": "19:39",
         "ts": 1789846782
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The second edition of the 'Cyrus the Great' event focusing on Iran's historical heritage and the country's future is being held in Toronto. More than three thousand people are attending the event. Prince Reza Pahlavi will speak in the final part of the gathering.",
+        "time": "19:45",
+        "ts": 1789847119
       }
     ],
     "language": "en",
-    "packId": "20260919-97",
-    "sequence": 97,
+    "packId": "20260919-98",
+    "sequence": 98,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:40"
+    "updatedAt": "19:46"
   },
   "verified": true
 }
