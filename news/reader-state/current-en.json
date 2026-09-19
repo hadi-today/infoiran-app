@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-81 seq=81 exp=1790011579",
+      "advancedStatus": "pack_id=20260919-82 seq=82 exp=1790012430",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:26",
+      "lastChecked": "17:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 17:26",
+    "expiresAt": "2026-09-21 17:40",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US Central Command announced that by September 17, it had redirected 105 commercial ships as part of the US blockade against Iran. CENTCOM released a video showing the USS Boxer operations in the Arabian Sea. The ship and its deployed Marines continue to enforce the blockade.",
-        "time": "17:34",
-        "ts": 1789752874
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The mother of Mahna Doukoshkani lit a candle at her daughter's grave as part of the \"One Candle, One Name, One Memory\" campaign. Mahna Doukoshkani, 18 years old, was shot and killed by officers in Kermanshah on January 8, 2026.",
-        "time": "17:34",
-        "ts": 1789752888
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -826,14 +812,21 @@
         "text": "The Houthi group in Yemen claimed responsibility for two operations against sensitive targets in Riyadh and Aramco facilities in Yanbu, Saudi Arabia. They stated that attacks will continue until Saudi Arabia stops its attacks and ends the blockade of Yemen. The Houthis denied Saudi reports about targeting civilians.",
         "time": "17:25",
         "ts": 1789838726
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A group of workers from the municipality of Kut Abdullah, Ahvaz metro project, Iran Telecommunication Factories Company, and the maintenance section of the southern railway reported wage arrears.",
+        "time": "17:38",
+        "ts": 1789839523
       }
     ],
     "language": "en",
-    "packId": "20260919-81",
-    "sequence": 81,
+    "packId": "20260919-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:26"
+    "updatedAt": "17:40"
   },
   "verified": true
 }
