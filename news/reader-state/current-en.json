@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-99 seq=99 exp=1790021436",
+      "advancedStatus": "pack_id=20260919-100 seq=100 exp=1790021581",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:10",
+      "lastChecked": "20:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 20:10",
+    "expiresAt": "2026-09-21 20:13",
     "items": [
       {
         "channel": "iranintl",
@@ -826,14 +826,21 @@
         "text": "The US plans to initiate an air blockade of Iran following a naval blockade. This topic was discussed in the audio version of Cheshmandaz. More details are provided in this report.",
         "time": "20:09",
         "ts": 1789848593
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Mohsen Rezaei, Secretary of Iran's Supreme National Security Council, announced that Iran has communicated seven conditions to the US for starting any negotiation. The conditions include ending the war, releasing blocked Iranian assets, and ending the naval blockade. Communication between Tehran and Washington continues through Qatari and Pakistani mediators.",
+        "time": "20:12",
+        "ts": 1789848742
       }
     ],
     "language": "en",
-    "packId": "20260919-99",
-    "sequence": 99,
+    "packId": "20260919-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:10"
+    "updatedAt": "20:13"
   },
   "verified": true
 }
