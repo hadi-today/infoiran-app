@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-107 seq=107 exp=1790029106",
+      "advancedStatus": "pack_id=20260919-108 seq=108 exp=1790029866",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:18",
+      "lastChecked": "22:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 22:18",
+    "expiresAt": "2026-09-21 22:31",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Trump signed the congressional bill sanctioning Iran and Russia. The bill includes sanctions on Iran's energy and arms sectors and expands the president's authority to impose tariffs on energy customers of Tehran and Moscow. The new law also imposes sanctions on Vladimir Putin and Russian officials.",
-        "time": "22:19",
-        "ts": 1789769954
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -798,14 +791,21 @@
         "text": "Reza Pahlavi stated in his speech in Toronto that there is a split and distrust at the highest decision-making levels of the Islamic Republic. He said Mojtaba is missing and if alive, he does not dare to make any sound in a dark basement. He also mentioned that many regime forces have declared separation through secure communication channels.",
         "time": "22:17",
         "ts": 1789856258
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reza Pahlavi emphasized the dignity and authenticity of the Iranian nation in his speech in Toronto and said the dawn of Iran's freedom is near. He added that the people are more determined and organized than ever to overthrow the Islamic Republic. He also referred to the people's resistance against the regime's attempts to buy their will.",
+        "time": "22:30",
+        "ts": 1789857022
       }
     ],
     "language": "en",
-    "packId": "20260919-107",
-    "sequence": 107,
+    "packId": "20260919-108",
+    "sequence": 108,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:18"
+    "updatedAt": "22:31"
   },
   "verified": true
 }
