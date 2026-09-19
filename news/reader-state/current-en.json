@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-73 seq=73 exp=1790006412",
+      "advancedStatus": "pack_id=20260919-74 seq=74 exp=1790007495",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:00",
+      "lastChecked": "16:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 16:00",
+    "expiresAt": "2026-09-21 16:18",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Kylian Mbappé ended his nearly 20-year partnership with Nike and joined the Swiss brand On, becoming the main face of the company's entry into the football shoe market. He also received part of the company's shares. Thierry Henry, as On's football director, played a role in convincing Mbappé to join.",
-        "time": "16:08",
-        "ts": 1789747730
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ahmad Alamolhoda stated in Friday prayers in Mashhad that women without hijab should not be allowed to enter universities as it may lead to gatherings of agitators. He described the university as a sanctuary and called for decisive action by security and judicial authorities. Alamolhoda emphasized that if administrative bodies fail to control the issue, security forces must intervene.",
-        "time": "16:11",
-        "ts": 1789747881
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -847,14 +833,21 @@
         "text": "Brad Cooper, the commander of CENTCOM, stated that US forces have supported the passage of over two thousand commercial ships through the Strait of Hormuz in the past two months. More than one billion barrels of crude oil have also been transported through this strait. This information was provided in his latest update.",
         "time": "15:58",
         "ts": 1789833527
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ata Hosseinian stated that with the reduction of oil loading from Khark and Jask and unofficial routes, Iran's official oil exports are close to zero. In the worst case, exports are estimated at about 200 to 250 thousand barrels per day. This indicates a sharp decline in the Islamic Republic's oil exports.",
+        "time": "16:17",
+        "ts": 1789834642
       }
     ],
     "language": "en",
-    "packId": "20260919-73",
-    "sequence": 73,
+    "packId": "20260919-74",
+    "sequence": 74,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:00"
+    "updatedAt": "16:18"
   },
   "verified": true
 }
