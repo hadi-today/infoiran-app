@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-29 seq=29 exp=1789979979",
+      "advancedStatus": "pack_id=20260919-28 seq=28 exp=1789979577",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:39",
+      "lastChecked": "08:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,8 +13,15 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 08:39",
+    "expiresAt": "2026-09-21 08:32",
     "items": [
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen criticized the increase in the price of Asentra medicine in a video sent to Iran International. He said that under these conditions, he cannot afford the cost of his psychiatric medications. This issue has raised concerns about access to essential medicines.",
+        "time": "08:34",
+        "ts": 1789720498
+      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,21 +917,14 @@
         "text": "Iranians living in New Zealand held a march in Auckland on Saturday, 28 Shahrivar, to commemorate Mahsa Amini's anniversary. This event was reported through videos received by Iran International.",
         "time": "08:31",
         "ts": 1789806703
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "On 28 Shahrivar, sounds of air defense and a strong explosion were heard. Reports include economic difficulties, government forces' confrontations with citizens, and poor internet conditions. Additionally, the naval base at Hasanrud had active air defense, but the reason is unknown.",
-        "time": "08:38",
-        "ts": 1789807111
       }
     ],
     "language": "en",
-    "packId": "20260919-29",
-    "sequence": 29,
+    "packId": "20260919-28",
+    "sequence": 28,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:39"
+    "updatedAt": "08:32"
   },
   "verified": true
 }
