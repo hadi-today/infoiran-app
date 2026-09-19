@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-17 seq=17 exp=1789974134",
+      "advancedStatus": "pack_id=20260919-18 seq=18 exp=1789974616",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:02",
+      "lastChecked": "07:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 07:02",
+    "expiresAt": "2026-09-21 07:10",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Saudi Arabia, through Oman, has offered a two-week ceasefire and direct talks with the Houthis. The Houthis demand an end to the siege of Yemen and Saudi withdrawal from the country. Riyadh officials have reported the Houthis' intention to attack Marib and control the provinces of Marib and Jawf.",
-        "time": "07:04",
-        "ts": 1789715084
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The 10-kilometer running race in Tehran was held on the morning of Friday, 27 Shahrivar, with thousands of men and women participating. Notably, women participated without mandatory hijab. Previously, the Mahan-run half marathon in Kerman was canceled due to protests.",
-        "time": "07:06",
-        "ts": 1789715163
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The number of detainees in Urmia has increased to five. The detainees include Majid Ebtehaj, Vahed Shabani, Behdar Asadi, Saleh Darbubehchichak, and Farhang Dehghan. These arrests occurred on Wednesday, September 15.",
-        "time": "07:08",
-        "ts": 1789715315
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +896,21 @@
         "text": "Mohammad Mohammadi Zadeh from Divandareh was arrested on Sunday, September 12, by the Intelligence Force of the IRGC. He was transferred to an unknown location. No further details have been provided.",
         "time": "07:00",
         "ts": 1789801241
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Pete Hegseth, the US Secretary of War, denied the Washington Post report about higher American military casualties in the war with the Islamic Republic. He called the report fake and a complete lie. Hegseth said the newspaper's performance was even worse than the Islamic Republic's state media.",
+        "time": "07:09",
+        "ts": 1789801770
       }
     ],
     "language": "en",
-    "packId": "20260919-17",
-    "sequence": 17,
+    "packId": "20260919-18",
+    "sequence": 18,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:02"
+    "updatedAt": "07:10"
   },
   "verified": true
 }
