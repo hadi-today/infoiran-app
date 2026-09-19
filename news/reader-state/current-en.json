@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-07 seq=7 exp=1789965076",
+      "advancedStatus": "pack_id=20260919-08 seq=8 exp=1789968729",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:31",
+      "lastChecked": "05:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 04:31",
+    "expiresAt": "2026-09-21 05:32",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US Attorney's Office has moved to seize about $61 million in cryptocurrency from the sale of sanctioned Iranian oil. Part of the funds was transferred to networks linked to the IRGC. Miad Maleki, former head of the US Treasury's sanctions targeting office, said the case shows cryptocurrency has become a key route for evading sanctions.",
-        "time": "05:20",
-        "ts": 1789708833
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reza Arab referred to the meeting of Prince Reza Pahlavi with opposition leaders and Australian representatives. Pahlavi emphasized the Iranian people's right to determine their own destiny. He defined his role as a bridge during the transition to a national and modern government.",
-        "time": "05:22",
-        "ts": 1789708940
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -931,14 +917,21 @@
         "text": "Kayhan newspaper criticized some government officials' statements about hijab and described the state of nudity in Tehran's streets as concerning. The newspaper criticized the government's lack of cultural actions to improve the hijab situation in the past two years. Kayhan called for more government efforts to improve the hijab situation.",
         "time": "04:30",
         "ts": 1789792232
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Kambiz Tavana quoted Donald Trump saying that the Islamic Republic will never acquire nuclear weapons and the war will end soon. Trump considers this a victory and describes the increase in gasoline prices as a cost for this goal. He also noted that in the coming days, the path toward an agreement or increased pressure may become clear.",
+        "time": "05:30",
+        "ts": 1789795849
       }
     ],
     "language": "en",
-    "packId": "20260919-07",
-    "sequence": 7,
+    "packId": "20260919-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:31"
+    "updatedAt": "05:32"
   },
   "verified": true
 }
