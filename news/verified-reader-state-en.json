@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-22 seq=22 exp=1789977629",
+      "advancedStatus": "pack_id=20260919-23 seq=23 exp=1789977994",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:00",
+      "lastChecked": "08:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 08:00",
+    "expiresAt": "2026-09-21 08:06",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "In the 'Jan-Fadaian Exercise' rally held on Friday, September 27, symbolic coffins with pictures of Donald Trump and Benjamin Netanyahu were displayed. This video was published in the media of the Islamic Republic.",
-        "time": "08:05",
-        "ts": 1789718733
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -896,14 +889,21 @@
         "text": "Ali Zeinivand, the spokesperson of the Ministry of Interior, stated in a press conference that criticizing the loudspeakers at nighttime gatherings is not appropriate. He added that those who gather in the squares sacrifice their comfort and are defending the people. These individuals give up their rest at night to maintain security.",
         "time": "07:59",
         "ts": 1789804781
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Mehran Ebrahimzadeh, a resident of Mahabad, has been detained by the intelligence agency officers in the city for five days. His place of detention remains unknown.",
+        "time": "08:05",
+        "ts": 1789805140
       }
     ],
     "language": "en",
-    "packId": "20260919-22",
-    "sequence": 22,
+    "packId": "20260919-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:00"
+    "updatedAt": "08:06"
   },
   "verified": true
 }
