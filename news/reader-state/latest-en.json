@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-26 seq=26 exp=1789978911",
+      "advancedStatus": "pack_id=20260919-28 seq=28 exp=1789979577",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:21",
+      "lastChecked": "08:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 08:21",
+    "expiresAt": "2026-09-21 08:32",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mehdi Chamran, head of Tehran City Council, said that people of all ages and tastes have come to show their support for the country and the leader. He added that the enemy is on a downward slope and will face harsher setbacks if it continues.",
-        "time": "08:28",
-        "ts": 1789720125
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +903,28 @@
         "text": "Black smoke was seen over northern Tehran due to a large fire in a 400-square-meter warehouse on Dolat Street. The warehouse contained large amounts of oil, food, and gas cylinders. No injuries or deaths have been reported so far.",
         "time": "08:18",
         "ts": 1789805927
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen reported hearing an explosion sound in Tehran on Saturday and sent a video. The transmitter's sound was reconstructed using artificial intelligence. This report was published by Iran International.",
+        "time": "08:24",
+        "ts": 1789806260
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iranians living in New Zealand held a march in Auckland on Saturday, 28 Shahrivar, to commemorate Mahsa Amini's anniversary. This event was reported through videos received by Iran International.",
+        "time": "08:31",
+        "ts": 1789806703
       }
     ],
     "language": "en",
-    "packId": "20260919-26",
-    "sequence": 26,
+    "packId": "20260919-28",
+    "sequence": 28,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:21"
+    "updatedAt": "08:32"
   },
   "verified": true
 }
