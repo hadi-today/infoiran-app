@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-19 seq=19 exp=1789974979",
+      "advancedStatus": "pack_id=20260919-20 seq=20 exp=1789975122",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:16",
+      "lastChecked": "07:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 07:16",
+    "expiresAt": "2026-09-21 07:18",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "The prosecutor of Shahroud announced the arrest of 15 people related to modeling activities. Indictments have been issued for five of the detainees. This news was reported by Harana News Agency.",
         "time": "07:15",
         "ts": 1789802109
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Zeinivand, the spokesperson of the Ministry of Interior, stated that accusing official country leaders of compromise is a great betrayal. He also emphasized that labeling warriors and military forces as warmongers is a betrayal. He added that the majority of people desire dignified defense and resistance against the enemy.",
+        "time": "07:16",
+        "ts": 1789802215
       }
     ],
     "language": "en",
-    "packId": "20260919-19",
-    "sequence": 19,
+    "packId": "20260919-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:16"
+    "updatedAt": "07:18"
   },
   "verified": true
 }
