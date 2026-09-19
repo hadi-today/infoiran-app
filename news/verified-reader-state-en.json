@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-13 seq=13 exp=1789971750",
+      "advancedStatus": "pack_id=20260919-14 seq=14 exp=1789972120",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:22",
+      "lastChecked": "06:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 06:22",
+    "expiresAt": "2026-09-21 06:28",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Changes in US immigration policies have made the asylum path more difficult for Iranians. The acceptance rate for Iranian asylum cases has fallen to 38 percent this year. In 2026, no cases of Iranian Christian converts have been accepted.",
-        "time": "06:24",
-        "ts": 1789712651
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The International Federation of Fitness and Bodybuilding did not recognize the recent election results of the Iranian bodybuilding federation due to violations and suspended the federation. The suspension was due to significant irregularities in the election assembly and unequal opportunities for candidates. The suspension will continue until conditions are corrected, but Iranian athletes can still participate in events through the IFBB executive committee members.",
-        "time": "06:24",
-        "ts": 1789712697
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -931,14 +917,21 @@
         "text": "Ziba Aflatoun, captain of the Iranian women's national basketball team at the 1974 Asian Games, stated in an interview that one of her main reasons for emigrating was the mandatory hijab. Women's basketball in Iran first participated in the 1974 Asian Games in Tehran. The Iranian team competed with a mix of young players led by Aflatoun.",
         "time": "06:21",
         "ts": 1789798908
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Saremi-Far reported an AI error in a US military report that presented incorrect information. This error could have led to conflict and increased tensions, but human verification prevented it. He emphasized that there is still no comprehensive solution to prevent such errors and human review is essential.",
+        "time": "06:27",
+        "ts": 1789799276
       }
     ],
     "language": "en",
-    "packId": "20260919-13",
-    "sequence": 13,
+    "packId": "20260919-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:22"
+    "updatedAt": "06:28"
   },
   "verified": true
 }
