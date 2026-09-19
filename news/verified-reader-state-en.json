@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-86 seq=86 exp=1790013633",
+      "advancedStatus": "pack_id=20260919-87 seq=87 exp=1790014279",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:00",
+      "lastChecked": "18:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 18:00",
+    "expiresAt": "2026-09-21 18:11",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Radman-Nia, a 29-year-old bodybuilder, was shot on the evening of Friday, January 9, 2026, in the Nezamabad neighborhood of Tehran. He died a day later due to the severity of his injuries. His mother vowed in a video at his grave to continue his path.",
-        "time": "18:03",
-        "ts": 1789754607
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -819,14 +812,21 @@
         "text": "The cost of transporting goods from China to Iran has quadrupled. A queue of 3,700 trucks has formed at the Turkey border. These issues have arisen after the US naval blockade and Iran's efforts to shift trade to land routes.",
         "time": "17:59",
         "ts": 1789840779
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Two protests were held in Tehran today. One protest was by customers of Kerman Motor and the other by victims of the Unique Finance company case. These protests were held as demonstrations of dissent.",
+        "time": "18:10",
+        "ts": 1789841430
       }
     ],
     "language": "en",
-    "packId": "20260919-86",
-    "sequence": 86,
+    "packId": "20260919-87",
+    "sequence": 87,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:00"
+    "updatedAt": "18:11"
   },
   "verified": true
 }
