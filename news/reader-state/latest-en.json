@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-05 seq=5 exp=1789961942",
+      "advancedStatus": "pack_id=20260919-06 seq=6 exp=1789964168",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:39",
+      "lastChecked": "04:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 03:39",
+    "expiresAt": "2026-09-21 04:16",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "Teraneh Rahimi's cousin stated that she has difficulty walking and despite the urgent need for an MRI, she has been prevented from being transferred to the hospital. Her family bought medical equipment and medicine, but prison officials did not allow her to receive them. Additionally, the prison authorities have withheld food from Teraneh.",
         "time": "03:38",
         "ts": 1789789089
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Turkish banking regulator revoked the operating license of Bank Mellat's main branch in Istanbul. This decision coincided with increased US sanctions pressure on Tehran. The official Turkish notice did not cite US sanctions as the reason for the action.",
+        "time": "04:15",
+        "ts": 1789791324
       }
     ],
     "language": "en",
-    "packId": "20260919-05",
-    "sequence": 5,
+    "packId": "20260919-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:39"
+    "updatedAt": "04:16"
   },
   "verified": true
 }
