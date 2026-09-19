@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-66 seq=66 exp=1790001149",
+      "advancedStatus": "pack_id=20260919-67 seq=67 exp=1790002170",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:32",
+      "lastChecked": "14:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 14:32",
+    "expiresAt": "2026-09-21 14:49",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Women's basketball entered the Asian Games in 1974 in Tehran. The five-member Iranian team experienced its only participation in the history of these games. The Iranian team competed with a combination of young players and was captained by Ziba Aflatoun.",
-        "time": "14:35",
-        "ts": 1789742125
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen sent a video showing the unfinished national housing project in Bandar Abbas. He says that money has been taken from people for two years, but the completion of the project has been stopped.",
-        "time": "14:36",
-        "ts": 1789742164
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -903,14 +889,21 @@
         "text": "Amnesty International has published a detailed report of over 1100 pages on the crimes of the Islamic Republic in suppressing the Mahsa uprising protests. The report accuses Iranian officials of crimes against humanity. The short documentary \"Iran Rising\" reviews this report and the events of 2022 in Iran.",
         "time": "14:30",
         "ts": 1789828234
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Schools reopened on September 19, but there are concerns about students' safety and rising costs. Families are avoiding sending their children to school due to war conditions and military training. Economic difficulties have also made school supplies and meals very expensive.",
+        "time": "14:48",
+        "ts": 1789829316
       }
     ],
     "language": "en",
-    "packId": "20260919-66",
-    "sequence": 66,
+    "packId": "20260919-67",
+    "sequence": 67,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:32"
+    "updatedAt": "14:49"
   },
   "verified": true
 }
