@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-24 seq=24 exp=1789978335",
+      "advancedStatus": "pack_id=20260919-25 seq=25 exp=1789978706",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:12",
+      "lastChecked": "08:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 08:12",
+    "expiresAt": "2026-09-21 08:18",
     "items": [
       {
         "channel": "iranintl",
@@ -896,14 +896,21 @@
         "text": "Amir Hamidi stated that the US is simultaneously increasing the cost of confrontation and keeping negotiation channels open with the Islamic Republic. He said Trump's statements do not indicate a definite decision to end the war. The future confrontation depends on the Strait of Hormuz situation, regional attacks, and the possibility of returning to negotiations.",
         "time": "08:11",
         "ts": 1789805474
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows a large column of smoke rising in an area in northern Tehran on Saturday, 28 Shahrivar. The video was received by Iran International. No further details have been provided.",
+        "time": "08:17",
+        "ts": 1789805837
       }
     ],
     "language": "en",
-    "packId": "20260919-24",
-    "sequence": 24,
+    "packId": "20260919-25",
+    "sequence": 25,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:12"
+    "updatedAt": "08:18"
   },
   "verified": true
 }
