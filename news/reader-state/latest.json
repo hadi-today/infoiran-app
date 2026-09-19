@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-78 seq=78 exp=1790010088",
+      "advancedStatus": "pack_id=20260919-79 seq=79 exp=1790010301",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:01",
+      "lastChecked": "17:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 17:01",
+    "expiresAt": "2026-09-21 17:05",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -728,13 +728,19 @@
         "text": "فرزین ندیمی اعلام کرد افزایش هشدارهای امنیتی در اروپا به دلیل تشدید حملات هیبریدی روسیه است. روسیه با حملات محدود سایبری و پهپادی تلاش می‌کند مرز جنگ و صلح را مخدوش کند. کشورهای ناتو با افزایش رزمایش‌ها و هشدارها در پی جلوگیری از عادی شدن این حملات هستند.",
         "time": "17:00",
         "ts": 1789837225
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "text": "سه کارگر در مشهد و لنگرود به دلیل فقدان ایمنی محیط و شرایط نامناسب کار دچار مصدومیت شدند. این حوادث ناشی از نبود ایمنی کافی در محل کار بوده است. جزئیات بیشتر در خبرگزاری هرانا منتشر شده است.",
+        "time": "17:04",
+        "ts": 1789837450
       }
     ],
-    "packId": "20260919-78",
-    "sequence": 78,
+    "packId": "20260919-79",
+    "sequence": 79,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "17:01"
+    "updatedAt": "17:05"
   },
   "verified": true
 }
