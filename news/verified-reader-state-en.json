@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-112 seq=112 exp=1790032218",
+      "advancedStatus": "pack_id=20260919-113 seq=113 exp=1790032776",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:10",
+      "lastChecked": "23:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 23:10",
+    "expiresAt": "2026-09-21 23:19",
     "items": [
       {
         "channel": "iranintl",
@@ -819,14 +819,21 @@
         "text": "Reza Pahlavi stated at the 'Cyrus the Great' event in Toronto that the greatest enemy of Iran is the Islamic Republic. He emphasized cooperation with other countries to free Iran based on national interests, territorial integrity, and national sovereignty. He also described the overthrow of the Islamic Republic as a multi-stage process requiring patience, continuity, and planning.",
         "time": "23:09",
         "ts": 1789859377
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ivar Farhadi described the four principles proposed by Prince Reza Pahlavi as the basis for cooperation among opponents of the Islamic Republic. He emphasized that those who do not accept these principles cannot play a positive role in overthrowing the regime. He also stressed the need for organization, unity among opponents, and cooperation based on Iran's national interests.",
+        "time": "23:18",
+        "ts": 1789859939
       }
     ],
     "language": "en",
-    "packId": "20260919-112",
-    "sequence": 112,
+    "packId": "20260919-113",
+    "sequence": 113,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:10"
+    "updatedAt": "23:19"
   },
   "verified": true
 }
