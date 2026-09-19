@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-95 seq=95 exp=1790019357",
+      "advancedStatus": "pack_id=20260919-96 seq=96 exp=1790019536",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:35",
+      "lastChecked": "19:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 19:35",
+    "expiresAt": "2026-09-21 19:38",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen reported to Iran International that the newly supplied gasoline burns inside the car more than twice as fast as before. He expressed concern about what has been added to the gasoline. The reason for this change is unknown.",
-        "time": "19:35",
-        "ts": 1789760146
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "People from across Iran have reported economic difficulties and high medical expenses. Cancer patients and those needing surgery complain about high costs and insurance issues. Additionally, blind students and unemployed individuals mention financial pressures due to inflation and lack of support.",
-        "time": "19:37",
-        "ts": 1789760257
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -826,14 +812,21 @@
         "text": "Barcelona has reached an agreement with Raphinha to extend his contract until 2030. Contracts for Xavi Spart and Marc Bernal will also be renewed. Raphinha has performed excellently this season and wishes to finish his playing career at Barcelona.",
         "time": "19:35",
         "ts": 1789846508
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Salar Gholami, former captain of Iran's national boxing team, stated that Reza Pahlavi's position is clear to the Iranian people. He expects Canadian and other governments to recognize this position. The presence of representatives from Canada's Liberal and Conservative parties at the Cyrus the Great event highlights the importance of Reza Pahlavi's leadership issue.",
+        "time": "19:38",
+        "ts": 1789846689
       }
     ],
     "language": "en",
-    "packId": "20260919-95",
-    "sequence": 95,
+    "packId": "20260919-96",
+    "sequence": 96,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:35"
+    "updatedAt": "19:38"
   },
   "verified": true
 }
