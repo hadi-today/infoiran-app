@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-52 seq=52 exp=1789994233",
+      "advancedStatus": "pack_id=20260919-53 seq=53 exp=1789994350",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:37",
+      "lastChecked": "12:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 12:37",
+    "expiresAt": "2026-09-21 12:39",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Police in Pakistan announced that a bomb explosion in a mosque near a police building in the northwest of the country killed at least 16 people and injured more than 30. No individual or group has claimed responsibility for the attack so far. The report is by Javad Hamdani, a journalist from Iran International.",
-        "time": "12:37",
-        "ts": 1789735021
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "The director general of education in Gilan province announced that 1544 students in the province have dropped out of school. This figure highlights existing challenges in the education sector in Gilan. Efforts to address this issue are ongoing.",
         "time": "12:36",
         "ts": 1789821379
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Anshan Khosravi, an organizer of the Stockholm gathering on the fourth anniversary of Mahsa Amini's death, stated that they continue the path of Mahsa and other martyrs for freedom. They believe that together they will reach a free Iran. These remarks were made to an Iran International reporter.",
+        "time": "12:37",
+        "ts": 1789821455
       }
     ],
     "language": "en",
-    "packId": "20260919-52",
-    "sequence": 52,
+    "packId": "20260919-53",
+    "sequence": 53,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:37"
+    "updatedAt": "12:39"
   },
   "verified": true
 }
