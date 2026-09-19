@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260919-90 seq=90 exp=1790016140",
+      "advancedStatus": "pack_id=20260919-91 seq=91 exp=1790017694",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:42",
+      "lastChecked": "19:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-19",
-    "expiresAt": "2026-09-21 18:42",
+    "expiresAt": "2026-09-21 19:08",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Seyed Ahmad Seyed Abdollahi, a political prisoner, returned to Borujen prison after his leave ended. He returned to prison on Monday, 9 Shahrivar, and his leave had started on 3 Shahrivar. This news was reported by Harana News Agency.",
-        "time": "18:46",
-        "ts": 1789757192
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "In a secret meeting in Germany, the United States is preparing to return to operations. This topic was discussed in the audio version of Harf Akhar with Pouria Zeraati. More details were reviewed in this meeting.",
-        "time": "18:50",
-        "ts": 1789757452
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Washington Post, citing six US officials, reported that at least 22 US troops have been killed in the Iran war, four more than the public Pentagon tally. One official said not all unrecorded cases are directly war-related, but these troops were present in Middle East conflicts. The US Department of Defense did not respond to the Post's question about the discrepancy.",
-        "time": "18:58",
-        "ts": 1789757925
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -812,14 +791,28 @@
         "text": "Amir Gorosi, a 60-year-old political prisoner, was sentenced to 10 years in prison by Branch 29 of the Tehran Revolutionary Court. He was accused of sending images and videos to foreign media. He is currently held in Tehran Grand Prison.",
         "time": "18:41",
         "ts": 1789843285
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A citizen in Pardis County was arrested by the Intelligence Forces of the IRGC for producing and sending a video to a foreign-based television network.",
+        "time": "19:07",
+        "ts": 1789844844
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "CENTCOM announced that over the past five months, coinciding with the naval blockade of the Islamic Republic's ports, more than one billion barrels of crude oil from Persian Gulf countries have passed through the Strait of Hormuz with the support of American forces.",
+        "time": "19:08",
+        "ts": 1789844883
       }
     ],
     "language": "en",
-    "packId": "20260919-90",
-    "sequence": 90,
+    "packId": "20260919-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:42"
+    "updatedAt": "19:08"
   },
   "verified": true
 }
