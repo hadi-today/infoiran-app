@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-26 seq=26 exp=1790066784",
+      "advancedStatus": "pack_id=20260920-27 seq=27 exp=1790067823",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:46",
+      "lastChecked": "09:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 08:46",
+    "expiresAt": "2026-09-22 09:03",
     "items": [
       {
         "channel": "iranintl",
@@ -791,14 +791,21 @@
         "text": "Kamran Ghazanfari, a Tehran representative, stated that the impeachment plan of the president has been proposed due to economic, political, and cultural conditions. He said this issue is within the powers of the parliament members and carrying it out is part of their duties. He also emphasized that the Speaker blocking this plan would be illegal.",
         "time": "08:45",
         "ts": 1789893937
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The head of the Hemophilia Association in Kermanshah province reported that increased prices and shortages of drugs have disrupted the treatment of hemophilia patients. Last year, about 26 hemophilia patients died due to lack of access to their medications. He emphasized the need for sustainable support from the country's insurance and health system for these patients.",
+        "time": "09:02",
+        "ts": 1789894965
       }
     ],
     "language": "en",
-    "packId": "20260920-26",
-    "sequence": 26,
+    "packId": "20260920-27",
+    "sequence": 27,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:46"
+    "updatedAt": "09:03"
   },
   "verified": true
 }
