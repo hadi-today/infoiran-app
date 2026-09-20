@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-123 seq=123 exp=1790119443",
+      "advancedStatus": "pack_id=20260920-124 seq=124 exp=1790120537",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:24",
+      "lastChecked": "23:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 23:24",
+    "expiresAt": "2026-09-22 23:42",
     "items": [
       {
         "channel": "iranintl",
@@ -882,14 +882,21 @@
         "text": "Mahdi al-Mashat, head of the Houthi Supreme Political Council in Yemen, announced that the group is pursuing a new policy called \"siege for siege, escalation for escalation.\" He emphasized that their options will escalate and they will not retreat from their rights. They also demand an end to the Saudi blockade, reopening of airports and ports, and compensation from Riyadh.",
         "time": "23:23",
         "ts": 1789946597
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Republican representative Tim Burchett said Iran was close to acquiring nuclear weapons and was preparing for Armageddon. He claimed that Donald Trump's intervention prevented Iran from obtaining these weapons. Trump also stated that he is in the decision-making stage regarding Iran and is considering various options.",
+        "time": "23:41",
+        "ts": 1789947693
       }
     ],
     "language": "en",
-    "packId": "20260920-123",
-    "sequence": 123,
+    "packId": "20260920-124",
+    "sequence": 124,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:24"
+    "updatedAt": "23:42"
   },
   "verified": true
 }
