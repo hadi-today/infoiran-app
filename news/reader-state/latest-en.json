@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-17 seq=17 exp=1790061002",
+      "advancedStatus": "pack_id=20260920-18 seq=18 exp=1790061385",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:10",
+      "lastChecked": "07:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 07:10",
+    "expiresAt": "2026-09-22 07:16",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Pete Hegseth, the US Secretary of War, denied the Washington Post report about higher American military casualties in the war with the Islamic Republic. He called the report fake and a complete lie. Hegseth said the newspaper's performance was even worse than the Islamic Republic's state media.",
-        "time": "07:09",
-        "ts": 1789801770
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The prosecutor of Shahroud announced the arrest of 15 people related to modeling activities. Indictments have been issued for five of the detainees. This news was reported by Harana News Agency.",
-        "time": "07:15",
-        "ts": 1789802109
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -819,14 +805,21 @@
         "text": "A group of Iranians living in the UK gathered in the streets of London on Saturday, 28 Shahrivar, to commemorate the fourth anniversary of the Woman, Life, Freedom uprising. This event was reported through videos received by Iran International.",
         "time": "07:06",
         "ts": 1789887991
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Ali Haji Deligani, representative of Shahin Shahr, called for Iran to leave the NPT. He stated that remaining in the NPT harms the country. A group of representatives have submitted an urgent bill to exit the NPT.",
+        "time": "07:15",
+        "ts": 1789888539
       }
     ],
     "language": "en",
-    "packId": "20260920-17",
-    "sequence": 17,
+    "packId": "20260920-18",
+    "sequence": 18,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:10"
+    "updatedAt": "07:16"
   },
   "verified": true
 }
