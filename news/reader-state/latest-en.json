@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-04 seq=4 exp=1790052072",
+      "advancedStatus": "pack_id=20260920-05 seq=5 exp=1790052643",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:41",
+      "lastChecked": "04:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 04:41",
+    "expiresAt": "2026-09-22 04:50",
     "items": [
       {
         "channel": "iranintl",
@@ -798,14 +798,21 @@
         "text": "The Tehran Seminary management has called on the judiciary to take action against the organizers of the marathon in Velayat Park where some women participated without mandatory hijab. The institution considers this issue a religious and social duty and opposes normalizing violations. The seminary emphasized it will not allow the erosion of the sanctity of laws in society.",
         "time": "04:40",
         "ts": 1789879201
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Vaisi, senior analyst at Iran International, stated that two images of Iran exist: the criminal Islamic Republic and a generation striving to overthrow it and build a free Iran. This generation has returned to its identity roots and sees Cyrus as a symbol of identity. They also refer to Prince Reza Pahlavi as \"Cyrus.\"",
+        "time": "04:49",
+        "ts": 1789879787
       }
     ],
     "language": "en",
-    "packId": "20260920-04",
-    "sequence": 4,
+    "packId": "20260920-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:41"
+    "updatedAt": "04:50"
   },
   "verified": true
 }
