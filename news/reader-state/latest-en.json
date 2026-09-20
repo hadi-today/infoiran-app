@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-50 seq=50 exp=1790077275",
+      "advancedStatus": "pack_id=20260920-51 seq=51 exp=1790077465",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:41",
+      "lastChecked": "11:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 11:41",
+    "expiresAt": "2026-09-22 11:44",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,28 @@
         "text": "Saeed Daghighi has been appointed as the new head coach of Nassaji Mazandaran. This change occurred after the mutual departure of Mojtaba Hosseini. Nassaji is currently ninth in the league table with eight points after seven weeks.",
         "time": "11:40",
         "ts": 1789904411
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Mostafa Tajzadeh, a political prisoner, was granted a two-day leave from Evin prison. This was announced by his wife, Fakhralsadat Mohtashamipour. The news was reported by Harana News Agency.",
+        "time": "11:43",
+        "ts": 1789904588
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A method invented by leather craftsmen in western Turkish cities during the fight for independence has become a tradition over a century old. This ritual was created to scare the enemy. Farzia Sabti reported on this tradition.",
+        "time": "11:43",
+        "ts": 1789904635
       }
     ],
     "language": "en",
-    "packId": "20260920-50",
-    "sequence": 50,
+    "packId": "20260920-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:41"
+    "updatedAt": "11:44"
   },
   "verified": true
 }
