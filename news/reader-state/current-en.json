@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-36 seq=36 exp=1790071417",
+      "advancedStatus": "pack_id=20260920-37 seq=37 exp=1790071938",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:03",
+      "lastChecked": "10:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 10:03",
+    "expiresAt": "2026-09-22 10:12",
     "items": [
       {
         "channel": "iranintl",
@@ -826,14 +826,21 @@
         "text": "Mostafa Sharifi, born in 1985, was killed on the evening of January 8, 2026, in the Aryashahr area of Tehran. People placed flowers at his house for his birthday. A video of this house was sent to Iran International.",
         "time": "10:02",
         "ts": 1789898563
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The official Houthi mufti in southern Yemen defended attacks on the cities of Mecca and Medina. He stated that the group aims to turn the two holy sites into a free minaret for Muslims. Following these attacks, Italy is reconsidering its troop deployment in the region.",
+        "time": "10:11",
+        "ts": 1789899071
       }
     ],
     "language": "en",
-    "packId": "20260920-36",
-    "sequence": 36,
+    "packId": "20260920-37",
+    "sequence": 37,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:03"
+    "updatedAt": "10:12"
   },
   "verified": true
 }
