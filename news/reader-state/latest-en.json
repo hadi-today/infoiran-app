@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-23 seq=23 exp=1790064875",
+      "advancedStatus": "pack_id=20260920-24 seq=24 exp=1790065182",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:14",
+      "lastChecked": "08:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 08:14",
+    "expiresAt": "2026-09-22 08:19",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A video shows a large column of smoke rising in an area in northern Tehran on Saturday, 28 Shahrivar. The video was received by Iran International. No further details have been provided.",
-        "time": "08:17",
-        "ts": 1789805837
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Black smoke was seen over northern Tehran due to a large fire in a 400-square-meter warehouse on Dolat Street. The warehouse contained large amounts of oil, food, and gas cylinders. No injuries or deaths have been reported so far.",
-        "time": "08:18",
-        "ts": 1789805927
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -812,14 +798,21 @@
         "text": "The Alborz Court of Appeals confirmed the 18-year prison sentence for Manouchehr Bakhtiari. The sentence no longer includes 74 lashes. Bakhtiari was convicted of various charges including forming a group against national security.",
         "time": "08:13",
         "ts": 1789892034
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ukraine carried out a large-scale drone attack on Moscow on Sunday, 29 Shahrivar. The mayor of Moscow called it the largest drone attack on the Russian capital so far. Released images show fire and smoke at the Moscow oil refinery, which supplies about 40% of Moscow's fuel market.",
+        "time": "08:18",
+        "ts": 1789892339
       }
     ],
     "language": "en",
-    "packId": "20260920-23",
-    "sequence": 23,
+    "packId": "20260920-24",
+    "sequence": 24,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:14"
+    "updatedAt": "08:19"
   },
   "verified": true
 }
