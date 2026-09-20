@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-40 seq=40 exp=1790073053",
+      "advancedStatus": "pack_id=20260920-41 seq=41 exp=1790073198",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:30",
+      "lastChecked": "10:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 10:30",
+    "expiresAt": "2026-09-22 10:33",
     "items": [
       {
         "channel": "iranintl",
@@ -833,14 +833,28 @@
         "text": "The Kuwaiti government has revoked the licenses of Iranian schools operating in the country and prevented their continued educational activities. Iranian schools in the United Arab Emirates were also closed last year. Currently, 71 Iranian schools operate in 34 countries.",
         "time": "10:30",
         "ts": 1789900204
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A child in a video sent to Iran International says the price of an ice cream and a puff snack has reached about 205,000 tomans. The video highlights the inflation in Iran. The issue of rising prices in Iran has attracted attention.",
+        "time": "10:32",
+        "ts": 1789900351
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Javad Akbarin from Iran International said the IRGC aims to influence the US midterm elections by creating a climate of fear in the global economy. He believes this move is intended to defeat Trump and the Republicans. These remarks came 95 days after the signing of the agreement between the Islamic Republic and the US.",
+        "time": "10:33",
+        "ts": 1789900390
       }
     ],
     "language": "en",
-    "packId": "20260920-40",
-    "sequence": 40,
+    "packId": "20260920-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:30"
+    "updatedAt": "10:33"
   },
   "verified": true
 }
