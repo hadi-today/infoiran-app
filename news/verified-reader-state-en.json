@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-39 seq=39 exp=1790072861",
+      "advancedStatus": "pack_id=20260920-40 seq=40 exp=1790073053",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:27",
+      "lastChecked": "10:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 10:27",
+    "expiresAt": "2026-09-22 10:30",
     "items": [
       {
         "channel": "iranintl",
@@ -826,14 +826,21 @@
         "text": "The Iranian men's basketball team defeated China in the classification match at the 2026 Nagoya Asian Games and won the bronze medal. This is Iran's first medal in this edition of the games. An interview was also conducted with Somayeh Mehri and Alireza Modiri.",
         "time": "10:26",
         "ts": 1789900007
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Kuwaiti government has revoked the licenses of Iranian schools operating in the country and prevented their continued educational activities. Iranian schools in the United Arab Emirates were also closed last year. Currently, 71 Iranian schools operate in 34 countries.",
+        "time": "10:30",
+        "ts": 1789900204
       }
     ],
     "language": "en",
-    "packId": "20260920-39",
-    "sequence": 39,
+    "packId": "20260920-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:27"
+    "updatedAt": "10:30"
   },
   "verified": true
 }
