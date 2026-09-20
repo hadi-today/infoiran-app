@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-96 seq=96 exp=1790100682",
+      "advancedStatus": "pack_id=20260920-97 seq=97 exp=1790101635",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:11",
+      "lastChecked": "18:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 18:11",
+    "expiresAt": "2026-09-22 18:27",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Two protests were held in Tehran today. One protest was by customers of Kerman Motor and the other by victims of the Unique Finance company case. These protests were held as demonstrations of dissent.",
-        "time": "18:10",
-        "ts": 1789841430
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The price of stationery in Iran has increased by 100 to 300 percent ahead of school reopening. Initial costs for a student in public schools have reached 15 million tomans. This amount does not include ongoing expenses such as school transportation and extracurricular classes.",
-        "time": "18:15",
-        "ts": 1789841738
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +875,21 @@
         "text": "Abbas Araghchi, the Foreign Minister of the Islamic Republic, left Tehran to attend the UN General Assembly meeting. He will fly to New York after a short stop in Qatar. This trip took place on Sunday evening.",
         "time": "18:10",
         "ts": 1789927817
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Four workers in Isfahan and Piranshahr were injured due to unsafe working conditions. These incidents occurred in unsuitable work environments. More details have been published by Harana News Agency.",
+        "time": "18:26",
+        "ts": 1789928775
       }
     ],
     "language": "en",
-    "packId": "20260920-96",
-    "sequence": 96,
+    "packId": "20260920-97",
+    "sequence": 97,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:11"
+    "updatedAt": "18:27"
   },
   "verified": true
 }
