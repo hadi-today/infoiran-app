@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-18 seq=18 exp=1790061385",
+      "advancedStatus": "pack_id=20260920-19 seq=19 exp=1790062432",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:16",
+      "lastChecked": "07:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 07:16",
+    "expiresAt": "2026-09-22 07:33",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Zeinivand, the spokesperson of the Ministry of Interior, stated that accusing official country leaders of compromise is a great betrayal. He also emphasized that labeling warriors and military forces as warmongers is a betrayal. He added that the majority of people desire dignified defense and resistance against the enemy.",
-        "time": "07:16",
-        "ts": 1789802215
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -812,14 +805,21 @@
         "text": "Hossein Ali Haji Deligani, representative of Shahin Shahr, called for Iran to leave the NPT. He stated that remaining in the NPT harms the country. A group of representatives have submitted an urgent bill to exit the NPT.",
         "time": "07:15",
         "ts": 1789888539
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of Iranians residing in the USA and Australia gathered on Saturday, September 19, to commemorate the anniversary of Mahsa Amini's uprising in San Jose and Adelaide. This gathering was reported based on videos received by Iran International.",
+        "time": "07:33",
+        "ts": 1789889590
       }
     ],
     "language": "en",
-    "packId": "20260920-18",
-    "sequence": 18,
+    "packId": "20260920-19",
+    "sequence": 19,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:16"
+    "updatedAt": "07:33"
   },
   "verified": true
 }
