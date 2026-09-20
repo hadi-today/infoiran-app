@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-92 seq=92 exp=1790096701",
+      "advancedStatus": "pack_id=20260920-93 seq=93 exp=1790097515",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:05",
+      "lastChecked": "17:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 17:05",
+    "expiresAt": "2026-09-22 17:18",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Three workers in Mashhad and Langarud were injured due to lack of safety and poor working conditions. These incidents occurred because of insufficient safety measures at the workplace. More details are published by Harana News Agency.",
-        "time": "17:04",
-        "ts": 1789837450
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Esmaeil Baqaei stated that traveling to New York is not attractive for Iranian diplomats but should not be missed. He emphasized that participating in the UN meeting is Iran's right and they must assert their legitimacy. Additionally, the Pakistani Interior Minister's visit to Tehran is about bilateral relations, with no special message exchange regarding mediation.",
-        "time": "17:11",
-        "ts": 1789837904
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +903,21 @@
         "text": "With the start of the new school year, the prices of stationery, clothing, and other education-related expenses have increased significantly. This has put considerable economic pressure, especially on low-income and multi-child families. As a result, meeting students' needs has become a serious challenge for some families.",
         "time": "17:04",
         "ts": 1789923846
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump said he is deciding on the next step for the US regarding Iran. He mentioned the possibility of a \"very big event\" happening soon. The three options are continuing economic pressure, reaching an agreement with Tehran, or military action.",
+        "time": "17:17",
+        "ts": 1789924664
       }
     ],
     "language": "en",
-    "packId": "20260920-92",
-    "sequence": 92,
+    "packId": "20260920-93",
+    "sequence": 93,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:05"
+    "updatedAt": "17:18"
   },
   "verified": true
 }
