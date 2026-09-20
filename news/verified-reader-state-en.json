@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-67 seq=67 exp=1790084595",
+      "advancedStatus": "pack_id=20260920-68 seq=68 exp=1790086380",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:43",
+      "lastChecked": "14:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 13:43",
+    "expiresAt": "2026-09-22 14:13",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Iran International reported the transfer of Iran's oil sales to four new trusts linked to Mohammad Javad Bavand. This issue has also been reflected in domestic media. More details are provided in an interview with Mahtab Gholizadeh.",
-        "time": "14:07",
-        "ts": 1789826829
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Zeinivand, spokesperson of the Ministry of Interior, stated that the 10-kilometer marathon in Tehran should not have been held simultaneously with the Janfada exercise. The Tehran prosecutor's office has filed charges against the organizers for not adhering to legal and religious regulations. The event took place on September 17, 2026, and women participated without mandatory hijab.",
-        "time": "14:11",
-        "ts": 1789827112
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -861,14 +847,21 @@
         "text": "The French language training center in Tehran was accused of carrying out anti-Iranian-Islamic cultural projects and actions against national security. The center is accused of identifying and facilitating the exit of elites from the country. Plainclothes forces raided the center and classes were suspended.",
         "time": "13:42",
         "ts": 1789911725
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump stated that he is making a decision about Iran and a major event will happen soon. He mentioned his options as complete destruction of Iran, economic destruction, or reaching an agreement. Trump also expressed readiness to meet with Masoud Pezeshkian.",
+        "time": "14:12",
+        "ts": 1789913522
       }
     ],
     "language": "en",
-    "packId": "20260920-67",
-    "sequence": 67,
+    "packId": "20260920-68",
+    "sequence": 68,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:43"
+    "updatedAt": "14:13"
   },
   "verified": true
 }
