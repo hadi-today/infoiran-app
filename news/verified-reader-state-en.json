@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-65 seq=65 exp=1790082640",
+      "advancedStatus": "pack_id=20260920-66 seq=66 exp=1790083374",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:10",
+      "lastChecked": "13:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 13:10",
+    "expiresAt": "2026-09-22 13:22",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ziba Aflatoun, captain of Iran's women's national basketball team in the 1974 Asian Games, spoke about the support of Empress Farah Pahlavi for women's sports, saying they encouraged and supported basketball to progress. This interview was conducted in a special program for the 2026 Asian Games.",
-        "time": "13:18",
-        "ts": 1789823884
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Donald Trump, the US president, signed a bill authorizing new sanctions against Russia over the war in Ukraine. The law also extends sanctions related to Iran. This action followed congressional approval earlier this week.",
-        "time": "13:21",
-        "ts": 1789824082
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -889,14 +875,21 @@
         "text": "Ali Jahanshahi stated that the ground forces units of the army are deployed along the northwestern, western, southwestern, eastern, northeastern, and southeastern borders and the Makran coasts, maintaining high readiness. Various units including special forces, rapid reaction, mechanized, and artillery are present in border areas. The Khatam al-Anbiya headquarters also announced that the US, with the green light from some regional countries, intends to resume actions against the Islamic Republic.",
         "time": "13:08",
         "ts": 1789909688
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Alavi stated that the lack of real representation for retirees and allocation of resources to governmental and military institutions are reasons for the unmet demands of this group. He emphasized that unless the government's approach changes, increasing pensions will not solve retirees' livelihood problems.",
+        "time": "13:21",
+        "ts": 1789910499
       }
     ],
     "language": "en",
-    "packId": "20260920-65",
-    "sequence": 65,
+    "packId": "20260920-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:10"
+    "updatedAt": "13:22"
   },
   "verified": true
 }
