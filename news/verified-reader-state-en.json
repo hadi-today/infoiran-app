@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-120 seq=120 exp=1790117043",
+      "advancedStatus": "pack_id=20260920-121 seq=121 exp=1790117667",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:44",
+      "lastChecked": "22:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 22:44",
+    "expiresAt": "2026-09-22 22:54",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reza Pahlavi stated at the 'Cyrus the Great' event that the tactics of opponents of the Islamic Republic have changed, but the goal remains to overthrow the regime. He rejected two lies by the Islamic Republic about the opposition's despair and emphasized four common principles among the opponents. He also said that millions of Iranians inside and outside the country are coordinated and organized.",
-        "time": "22:44",
-        "ts": 1789857856
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reza Pahlavi announced in his speech in Toronto that his team has made tactical changes in their strategy due to new conditions and killings by the Islamic Republic. He emphasized that the goal remains unchanged: overthrowing the Islamic Republic and achieving a free and prosperous Iran. He also warned that the Islamic Republic is trying to spread despair.",
-        "time": "22:45",
-        "ts": 1789857939
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +875,21 @@
         "text": "Morad Vaisi, senior analyst at Iran International, stated that the potential goals of a joint attack by the US and regional countries could be the destruction of Iran's nuclear capabilities and economic infrastructure. He also mentioned attacks on government centers and military and security structures. These attacks aim to paralyze the economy and eliminate senior political and military commanders.",
         "time": "22:43",
         "ts": 1789944192
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Russia and Ukraine carried out one of the most extensive recent drone counterattacks. Four people, including three children, were killed in the Russian attacks. Ukraine targeted Moscow and Russian oil facilities with hundreds of drones.",
+        "time": "22:53",
+        "ts": 1789944822
       }
     ],
     "language": "en",
-    "packId": "20260920-120",
-    "sequence": 120,
+    "packId": "20260920-121",
+    "sequence": 121,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:44"
+    "updatedAt": "22:54"
   },
   "verified": true
 }
