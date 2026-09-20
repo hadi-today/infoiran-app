@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-21 seq=21 exp=1790063922",
+      "advancedStatus": "pack_id=20260920-22 seq=22 exp=1790064009",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:58",
+      "lastChecked": "08:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 07:58",
+    "expiresAt": "2026-09-22 08:00",
     "items": [
       {
         "channel": "iranintl",
@@ -819,14 +819,21 @@
         "text": "Ebrahim Azizi announced that the unveiling of the agreement on the Strait of Hormuz, which was to take place in Muscat, has been postponed. He emphasized that the Islamic Republic will not allow the return of Americans to the Persian Gulf and that negotiating again with the US is meaningless. He also stated that if membership in the NPT no longer serves Iran's interests, Tehran will take appropriate action.",
         "time": "07:57",
         "ts": 1789891077
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The match between Lyon and Rennes in the fifth week of Ligue 1 was stopped for 15 minutes due to an offensive banner by Lyon fans against Saint-Étienne. The referee stopped the game at the 36th minute, and players left the field at the 40th minute. After the issue was resolved, the match resumed.",
+        "time": "07:59",
+        "ts": 1789891160
       }
     ],
     "language": "en",
-    "packId": "20260920-21",
-    "sequence": 21,
+    "packId": "20260920-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:58"
+    "updatedAt": "08:00"
   },
   "verified": true
 }
