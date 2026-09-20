@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-111 seq=111 exp=1790113510",
+      "advancedStatus": "pack_id=20260920-112 seq=112 exp=1790114332",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:45",
+      "lastChecked": "21:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 21:45",
+    "expiresAt": "2026-09-22 21:58",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Pierre Poilievre stated that the Islamic Republic does not represent the Iranian people and Canada should have no diplomatic relations with it. He called for increased sanctions and the expulsion of IRGC members from Canada. He also emphasized pursuing justice for the victims of flight PS-752.",
-        "time": "21:46",
-        "ts": 1789854373
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Last week, a creditor's lawyer and an enforcement officer visited Persepolis club to seize assets, but the specified assets were not found and the seizure was not executed. Two days ago, a court ordered the seizure and auction of the club's assets, resulting in the sale of 288 items of equipment. The buyer was a company affiliated with one of the club's main shareholder banks.",
-        "time": "21:55",
-        "ts": 1789854946
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -868,14 +854,21 @@
         "text": "Amir Ghalenoei has announced only the names of domestic league players for the national team's new camp. No legionnaires' names have been released for the matches against Uzbekistan and Russia. Some players like Mehdi Taremi have joined the camp in Tehran.",
         "time": "21:41",
         "ts": 1789940494
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Seyyed Mousa Shabiri Zanjani, a Shia religious authority, passed away on Sunday, 30th of Shahrivar, in Qom. He had been hospitalized since Friday due to stomach bleeding and a pulmonary complication. In 1994, he was introduced as one of the seven government-approved religious authorities.",
+        "time": "21:57",
+        "ts": 1789941460
       }
     ],
     "language": "en",
-    "packId": "20260920-111",
-    "sequence": 111,
+    "packId": "20260920-112",
+    "sequence": 112,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:45"
+    "updatedAt": "21:58"
   },
   "verified": true
 }
