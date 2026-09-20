@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-91 seq=91 exp=1790095846",
+      "advancedStatus": "pack_id=20260920-92 seq=92 exp=1790096701",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:50",
+      "lastChecked": "17:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 16:50",
+    "expiresAt": "2026-09-22 17:05",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Pentagon is reviewing the deployment of US military forces in Europe. One of the options under consideration is the withdrawal of at least 25,000 American troops from the continent. These reviews have increased concerns among some of Washington's European allies.",
-        "time": "16:57",
-        "ts": 1789837053
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Farzin Nadimi stated that the increase in security alerts in Europe is due to intensified hybrid attacks by Russia. Russia is trying to blur the line between war and peace with limited cyber and drone attacks. NATO countries are increasing drills and warnings to prevent normalization of these attacks.",
-        "time": "17:00",
-        "ts": 1789837225
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -924,14 +910,21 @@
         "text": "Vahideh Haqparast, known as Nora Haqi, was sentenced to four years and four months in prison on charges of assembly and collusion and propaganda against the regime. The hearing was held without her or her lawyer's presence. She was unable to attend the court due to illness and had requested a change of the hearing date.",
         "time": "16:49",
         "ts": 1789922986
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "With the start of the new school year, the prices of stationery, clothing, and other education-related expenses have increased significantly. This has put considerable economic pressure, especially on low-income and multi-child families. As a result, meeting students' needs has become a serious challenge for some families.",
+        "time": "17:04",
+        "ts": 1789923846
       }
     ],
     "language": "en",
-    "packId": "20260920-91",
-    "sequence": 91,
+    "packId": "20260920-92",
+    "sequence": 92,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:50"
+    "updatedAt": "17:05"
   },
   "verified": true
 }
