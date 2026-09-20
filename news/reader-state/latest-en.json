@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-76 seq=76 exp=1790089471",
+      "advancedStatus": "pack_id=20260920-77 seq=77 exp=1790090403",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:04",
+      "lastChecked": "15:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 15:04",
+    "expiresAt": "2026-09-22 15:20",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Iranians worldwide held protests on the fourth anniversary of Mahsa Amini's death. Matin Khaledi, an organizer in Florence, stated the aim was to honor the deceased and support prisoners awaiting execution. They also emphasized the leadership of Prince Reza Pahlavi and the national revolution.",
-        "time": "15:04",
-        "ts": 1789830255
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -882,14 +875,21 @@
         "text": "The US Central Command announced that its forces have forced 109 commercial ships to change course since the start of the maritime blockade of Iran until September 20. CENTCOM also released an image of a US Navy sailor on the deck of the USS John Paul Jones. This image is related to the USS John Paul Jones.",
         "time": "15:03",
         "ts": 1789916598
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Fereydoun Farahani, a music and architecture professor at Pars University of Tehran, was released from Isfahan's Dastgerd prison on bail.",
+        "time": "15:19",
+        "ts": 1789917548
       }
     ],
     "language": "en",
-    "packId": "20260920-76",
-    "sequence": 76,
+    "packId": "20260920-77",
+    "sequence": 77,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:04"
+    "updatedAt": "15:20"
   },
   "verified": true
 }
