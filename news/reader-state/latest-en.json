@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-82 seq=82 exp=1790092103",
+      "advancedStatus": "pack_id=20260920-83 seq=83 exp=1790092552",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:48",
+      "lastChecked": "15:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 15:48",
+    "expiresAt": "2026-09-22 15:55",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohsen Rezaei stated that the Islamic Republic's nuclear doctrine has not changed and they remain committed to Ali Khamenei's fatwa. He outlined Tehran's conditions for ending the war as ending all fronts, releasing blocked assets, and lifting the naval blockade. Rezaei also said Tehran wants to end the conflict between Saudi Arabia and the Houthis.",
-        "time": "15:52",
-        "ts": 1789833179
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -896,14 +889,21 @@
         "text": "Nima Akbarkhani stated that the attack on the ships was carried out with anti-ship cruise missiles. These weapons are in the possession of the naval forces of the IRGC and the army, and the attack orders came from the Khatam al-Anbia headquarters. Earlier, Yashar Soltani said these attacks disrupted the agreement on Iran's oil sales.",
         "time": "15:47",
         "ts": 1789919248
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Intelligence forces searched the homes of five members of a Bahá'í family in Shiraz and confiscated their personal belongings. Additionally, five family members were summoned to appear at the Shiraz intelligence detention center. They are required to present themselves at the 'Plaque 100' detention center on the first of Mehr.",
+        "time": "15:55",
+        "ts": 1789919704
       }
     ],
     "language": "en",
-    "packId": "20260920-82",
-    "sequence": 82,
+    "packId": "20260920-83",
+    "sequence": 83,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:48"
+    "updatedAt": "15:55"
   },
   "verified": true
 }
