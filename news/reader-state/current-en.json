@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-64 seq=64 exp=1790082477",
+      "advancedStatus": "pack_id=20260920-65 seq=65 exp=1790082640",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:07",
+      "lastChecked": "13:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 13:07",
+    "expiresAt": "2026-09-22 13:10",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Central Committee of the Ministry of Science confirmed the expulsion of three students from Sharif University of Technology and Beheshti University related to the protests of Esfand 1404. One student was also banned from studying for five years in addition to expulsion. For the other two students, the expulsion can be changed to a three-semester suspension if they express remorse.",
-        "time": "13:08",
-        "ts": 1789823284
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "Hossein Zareh, a detainee from the December 2025 protests, was sentenced to 21 years in prison by the Tehran Revolutionary Court. His case was reviewed in Branch 26 of the Revolutionary Court headed by Judge Iman Afshari. He was charged with operational actions for Israel.",
         "time": "13:06",
         "ts": 1789909579
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Jahanshahi stated that the ground forces units of the army are deployed along the northwestern, western, southwestern, eastern, northeastern, and southeastern borders and the Makran coasts, maintaining high readiness. Various units including special forces, rapid reaction, mechanized, and artillery are present in border areas. The Khatam al-Anbiya headquarters also announced that the US, with the green light from some regional countries, intends to resume actions against the Islamic Republic.",
+        "time": "13:08",
+        "ts": 1789909688
       }
     ],
     "language": "en",
-    "packId": "20260920-64",
-    "sequence": 64,
+    "packId": "20260920-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:07"
+    "updatedAt": "13:10"
   },
   "verified": true
 }
