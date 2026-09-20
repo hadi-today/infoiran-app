@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-77 seq=77 exp=1790090403",
+      "advancedStatus": "pack_id=20260920-78 seq=78 exp=1790090507",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:20",
+      "lastChecked": "15:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 15:20",
+    "expiresAt": "2026-09-22 15:21",
     "items": [
       {
         "channel": "harana",
@@ -882,14 +882,21 @@
         "text": "Fereydoun Farahani, a music and architecture professor at Pars University of Tehran, was released from Isfahan's Dastgerd prison on bail.",
         "time": "15:19",
         "ts": 1789917548
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Khatam al-Anbiya Central Headquarters warned the Gulf countries about the start of a US attack. Axios, citing two Israeli officials, reported that senior commanders from the US, Israel, and seven Arab countries secretly negotiated in Germany about a war with the Islamic Republic. This report was provided by Mojtaba Pourmohsen.",
+        "time": "15:20",
+        "ts": 1789917658
       }
     ],
     "language": "en",
-    "packId": "20260920-77",
-    "sequence": 77,
+    "packId": "20260920-78",
+    "sequence": 78,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:20"
+    "updatedAt": "15:21"
   },
   "verified": true
 }
