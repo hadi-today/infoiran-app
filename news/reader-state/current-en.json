@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-93 seq=93 exp=1790097515",
+      "advancedStatus": "pack_id=20260920-94 seq=94 exp=1790097814",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:18",
+      "lastChecked": "17:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 17:18",
+    "expiresAt": "2026-09-22 17:23",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "Donald Trump said he is deciding on the next step for the US regarding Iran. He mentioned the possibility of a \"very big event\" happening soon. The three options are continuing economic pressure, reaching an agreement with Tehran, or military action.",
         "time": "17:17",
         "ts": 1789924664
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Najat Bahrami, a political analyst, said Washington may increase military pressure to force the Islamic Republic to accept a deal. He added that the Islamic Republic cannot sustain a prolonged war and there are concerns within the government about continuing the war. The final decision on war or negotiation depends on the more powerful faction within the Islamic Republic.",
+        "time": "17:22",
+        "ts": 1789924946
       }
     ],
     "language": "en",
-    "packId": "20260920-93",
-    "sequence": 93,
+    "packId": "20260920-94",
+    "sequence": 94,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:18"
+    "updatedAt": "17:23"
   },
   "verified": true
 }
