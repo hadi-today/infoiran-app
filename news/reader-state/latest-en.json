@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-08 seq=8 exp=1790056500",
+      "advancedStatus": "pack_id=20260920-09 seq=9 exp=1790057247",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:55",
+      "lastChecked": "06:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 05:55",
+    "expiresAt": "2026-09-22 06:07",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "CNN, quoting a US official, reported that Washington believes it has provided Saudi Arabia with all the necessary intelligence support and targeting data for its success against the Houthis. However, neither the US nor Saudi Arabia has a clear plan to push back the Iran-backed Houthis. A regional source also told CNN that Houthi attacks and conditions near Bab al-Mandab have affected the agreement to reopen the Strait of Hormuz.",
-        "time": "05:58",
-        "ts": 1789797495
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -805,14 +798,21 @@
         "text": "Takumi Hojo from Japan won the men's individual triathlon in Gamagori with a time of 52 minutes and 56 seconds, earning the first gold medal of the games. Zhang Zirui from China took silver, and Arlan Zhanbayev from Kazakhstan won bronze. This medal is the first of 469 gold medals to be awarded in this two-week tournament.",
         "time": "05:54",
         "ts": 1789883660
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of Iranians living in Norway gathered in Oslo on September 19. The gathering was held to commemorate the fourth anniversary of the Mahsa uprising. They also expressed support for Prince Reza Pahlavi.",
+        "time": "06:06",
+        "ts": 1789884383
       }
     ],
     "language": "en",
-    "packId": "20260920-08",
-    "sequence": 8,
+    "packId": "20260920-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:55"
+    "updatedAt": "06:07"
   },
   "verified": true
 }
