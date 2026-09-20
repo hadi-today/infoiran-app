@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-101 seq=101 exp=1790103254",
+      "advancedStatus": "pack_id=20260920-102 seq=102 exp=1790104870",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:54",
+      "lastChecked": "19:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 18:54",
+    "expiresAt": "2026-09-22 19:21",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A citizen in Pardis County was arrested by the Intelligence Forces of the IRGC for producing and sending a video to a foreign-based television network.",
-        "time": "19:07",
-        "ts": 1789844844
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "CENTCOM announced that over the past five months, coinciding with the naval blockade of the Islamic Republic's ports, more than one billion barrels of crude oil from Persian Gulf countries have passed through the Strait of Hormuz with the support of American forces.",
-        "time": "19:08",
-        "ts": 1789844883
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Hakan Fidan, Turkey's foreign minister, stated that Saudi Arabia does not wish to enter the war between the US and the Islamic Republic. He said Turkey is ready to respond to Saudi Arabia's military needs within the framework of the Makkah defense coalition. Fidan also described the Makkah coalition as an influential mechanism.",
-        "time": "19:09",
-        "ts": 1789844968
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -896,14 +875,21 @@
         "text": "The Gilan Province Court of Appeal confirmed the conviction of Mahmoud Sedighi-Pour, a teachers' union activist and board member of the Gilan Cultural Workers' Union, to pay a fine of 20 million tomans.",
         "time": "18:53",
         "ts": 1789930405
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Davood Abbasi Gheshlaghi, a filmmaker and detainee of the December 2025 protests, was summoned to serve his prison sentence. He was previously sentenced to 20 months in prison, of which two months are enforceable. The execution order was issued on September 19, 2026.",
+        "time": "19:19",
+        "ts": 1789931945
       }
     ],
     "language": "en",
-    "packId": "20260920-101",
-    "sequence": 101,
+    "packId": "20260920-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:54"
+    "updatedAt": "19:21"
   },
   "verified": true
 }
