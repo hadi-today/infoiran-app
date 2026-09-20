@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-09 seq=9 exp=1790057247",
+      "advancedStatus": "pack_id=20260920-10 seq=10 exp=1790057759",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:07",
+      "lastChecked": "06:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 06:07",
+    "expiresAt": "2026-09-22 06:15",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Pegah Bani Hashemi states that political executions in the past 47 years have not had a significant deterrent effect on protests. People have repeatedly stood against what they perceive as injustice. She also mentioned the impact of regional crises and political interests on Iran's human rights issues.",
-        "time": "06:12",
-        "ts": 1789798340
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -805,14 +798,21 @@
         "text": "A group of Iranians living in Norway gathered in Oslo on September 19. The gathering was held to commemorate the fourth anniversary of the Mahsa uprising. They also expressed support for Prince Reza Pahlavi.",
         "time": "06:06",
         "ts": 1789884383
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Bagher Ghalibaf said in a parliamentary webinar that the resistance of the Iranian people guarantees the country's security and can create opportunities for economic and strategic openings. He emphasized that the dichotomy of war or negotiation is not real and both must be pursued. Ghalibaf added that the steadfastness of the people will elevate Iran to a new level of power and prosperity.",
+        "time": "06:14",
+        "ts": 1789884896
       }
     ],
     "language": "en",
-    "packId": "20260920-09",
-    "sequence": 9,
+    "packId": "20260920-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:07"
+    "updatedAt": "06:15"
   },
   "verified": true
 }
