@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-20 seq=20 exp=1790063674",
+      "advancedStatus": "pack_id=20260920-21 seq=21 exp=1790063922",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:54",
+      "lastChecked": "07:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 07:54",
+    "expiresAt": "2026-09-22 07:58",
     "items": [
       {
         "channel": "iranintl",
@@ -812,14 +812,21 @@
         "text": "Kambiz Tavana mentioned Donald Trump's early return from Camp David. The US State Department has issued warnings to its citizens in nine Middle Eastern countries. These developments occurred after the Houthis fired a ballistic missile towards Riyadh.",
         "time": "07:53",
         "ts": 1789890827
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ebrahim Azizi announced that the unveiling of the agreement on the Strait of Hormuz, which was to take place in Muscat, has been postponed. He emphasized that the Islamic Republic will not allow the return of Americans to the Persian Gulf and that negotiating again with the US is meaningless. He also stated that if membership in the NPT no longer serves Iran's interests, Tehran will take appropriate action.",
+        "time": "07:57",
+        "ts": 1789891077
       }
     ],
     "language": "en",
-    "packId": "20260920-20",
-    "sequence": 20,
+    "packId": "20260920-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:54"
+    "updatedAt": "07:58"
   },
   "verified": true
 }
