@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-25 seq=25 exp=1790065968",
+      "advancedStatus": "pack_id=20260920-26 seq=26 exp=1790066784",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:32",
+      "lastChecked": "08:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 08:32",
+    "expiresAt": "2026-09-22 08:46",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "On 28 Shahrivar, sounds of air defense and a strong explosion were heard. Reports include economic difficulties, government forces' confrontations with citizens, and poor internet conditions. Additionally, the naval base at Hasanrud had active air defense, but the reason is unknown.",
-        "time": "08:38",
-        "ts": 1789807111
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Tehran prosecutor's office has filed charges against the organizers of the 10-kilometer marathon for not observing legal and religious regulations. The race took place on September 17, 2026, and the presence of women without mandatory hijab was notable. Officials stated that participants had signed a commitment to observe Islamic modesty.",
-        "time": "08:40",
-        "ts": 1789807259
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -798,14 +784,21 @@
         "text": "A group of Iranians living in Germany took to the streets on Saturday, September 19, to commemorate the anniversary of Mahsa's uprising. The gatherings took place in Nuremberg, Frankfurt, Stuttgart, Hamburg, and Düsseldorf. This information is based on videos received by Iran International.",
         "time": "08:32",
         "ts": 1789893122
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Kamran Ghazanfari, a Tehran representative, stated that the impeachment plan of the president has been proposed due to economic, political, and cultural conditions. He said this issue is within the powers of the parliament members and carrying it out is part of their duties. He also emphasized that the Speaker blocking this plan would be illegal.",
+        "time": "08:45",
+        "ts": 1789893937
       }
     ],
     "language": "en",
-    "packId": "20260920-25",
-    "sequence": 25,
+    "packId": "20260920-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:32"
+    "updatedAt": "08:46"
   },
   "verified": true
 }
