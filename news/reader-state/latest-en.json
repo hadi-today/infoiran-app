@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-13 seq=13 exp=1790059198",
+      "advancedStatus": "pack_id=20260920-14 seq=14 exp=1790059339",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:39",
+      "lastChecked": "06:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 06:39",
+    "expiresAt": "2026-09-22 06:42",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A marathon event was held in Velayat Park, Tehran, with permission from the provincial security council, and participants pledged to observe Islamic norms. The Director General of Sports and Youth of Tehran Province stated that legal action will be taken against athletes who violate the rules. About 95% of participants complied with the regulations, and necessary warnings were issued.",
-        "time": "06:39",
-        "ts": 1789799994
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -812,14 +805,21 @@
         "text": "The mayor of Moscow announced that Russian defense forces have destroyed over 1,600 Ukrainian drones since Saturday. 450 drones were targeted near Moscow. He described the attack as unprecedented and said its aim was to disrupt the elections.",
         "time": "06:37",
         "ts": 1789886227
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Sadegh Beigdeli stated that the Makkah Pact is facing its first serious test, and it remains to be seen how much Pakistan and Turkey will support Saudi Arabia. He added that the Islamic Republic is using Bab al-Mandab as one of its last geopolitical cards. Although using these cards has provided temporary advantages, strategically it has ultimately worked against the Islamic Republic.",
+        "time": "06:40",
+        "ts": 1789886453
       }
     ],
     "language": "en",
-    "packId": "20260920-13",
-    "sequence": 13,
+    "packId": "20260920-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:39"
+    "updatedAt": "06:42"
   },
   "verified": true
 }
