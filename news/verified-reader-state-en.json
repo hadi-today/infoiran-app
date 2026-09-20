@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-62 seq=62 exp=1790081692",
+      "advancedStatus": "pack_id=20260920-63 seq=63 exp=1790082306",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:54",
+      "lastChecked": "13:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 12:54",
+    "expiresAt": "2026-09-22 13:05",
     "items": [
       {
         "channel": "harana",
@@ -882,14 +882,21 @@
         "text": "Bayan Qaderi, a citizen from Pasveh, was arrested after being summoned to the Revolutionary Court of Piranshahr and transferred to a detention center in Urmia. This occurred yesterday. No further information is available.",
         "time": "12:53",
         "ts": 1789908820
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen spoke in a video to Iran International about the rising prices of goods in Iran. He said the Islamic Republic has brought people to misery. He also stated that with the meager income and worthless money, nothing can be bought.",
+        "time": "13:04",
+        "ts": 1789909444
       }
     ],
     "language": "en",
-    "packId": "20260920-62",
-    "sequence": 62,
+    "packId": "20260920-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:54"
+    "updatedAt": "13:05"
   },
   "verified": true
 }
