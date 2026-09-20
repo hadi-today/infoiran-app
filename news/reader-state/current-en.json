@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-45 seq=45 exp=1790075123",
+      "advancedStatus": "pack_id=20260920-46 seq=46 exp=1790075631",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:05",
+      "lastChecked": "11:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 11:05",
+    "expiresAt": "2026-09-22 11:13",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Tuition fees at some private schools in Tehran have reached several hundred million tomans. Parents say that additional costs such as transportation, food, and extracurricular activities have put heavy financial pressure on families. This issue was discussed in an interview with psychoanalyst Saba Alaleh.",
-        "time": "11:09",
-        "ts": 1789816169
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -840,14 +833,21 @@
         "text": "The director of education in Yazd announced that the province will face a shortage of 50,000 teaching hours in the 1405–1406 school year, equivalent to about 200 teachers. Bafq county faces a more severe shortage of educational staff. Additionally, nearly 34% of Yazd's schools are non-standard.",
         "time": "11:04",
         "ts": 1789902267
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ramazan Sharif, advisor to the commander of the IRGC, said that Trump and Netanyahu face a fate similar to Saddam's. He added that the enemy turned to sanctions after battlefield defeats, but the Iranian nation has managed them. The energy crisis in the West will force Western countries to accept defeat against the Islamic Republic.",
+        "time": "11:13",
+        "ts": 1789902783
       }
     ],
     "language": "en",
-    "packId": "20260920-45",
-    "sequence": 45,
+    "packId": "20260920-46",
+    "sequence": 46,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:05"
+    "updatedAt": "11:13"
   },
   "verified": true
 }
