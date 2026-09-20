@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-49 seq=49 exp=1790076467",
+      "advancedStatus": "pack_id=20260920-50 seq=50 exp=1790077275",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:27",
+      "lastChecked": "11:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 11:27",
+    "expiresAt": "2026-09-22 11:41",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen sent a voice message to Iran International mentioning the lack of security in schools. He said he would not send his child to school for a while. He also urged other citizens to take similar action.",
-        "time": "11:31",
-        "ts": 1789817517
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Somayeh Golpour stated that less than 5% of workers in the country are members of labor organizations, and 97% have no representatives in higher labor organizations. She criticized the limited meetings of the Supreme Labor Council and the one-year extension of organizations without elections. She considered these factors as weakening the workers' ability to demand rights.",
-        "time": "11:33",
-        "ts": 1789817612
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -861,14 +847,21 @@
         "text": "Fatemiyoun militants harassed a Baluch woman and her husband in the Samsur area of Zahedan. They inquired about temporary marriage and made sexual requests to children in the area. This report was published by the Hal-Wash human rights channel.",
         "time": "11:26",
         "ts": 1789903615
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Saeed Daghighi has been appointed as the new head coach of Nassaji Mazandaran. This change occurred after the mutual departure of Mojtaba Hosseini. Nassaji is currently ninth in the league table with eight points after seven weeks.",
+        "time": "11:40",
+        "ts": 1789904411
       }
     ],
     "language": "en",
-    "packId": "20260920-49",
-    "sequence": 49,
+    "packId": "20260920-50",
+    "sequence": 50,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:27"
+    "updatedAt": "11:41"
   },
   "verified": true
 }
