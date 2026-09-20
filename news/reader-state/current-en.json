@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-58 seq=58 exp=1790080402",
+      "advancedStatus": "pack_id=20260920-59 seq=59 exp=1790080575",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:33",
+      "lastChecked": "12:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 12:33",
+    "expiresAt": "2026-09-22 12:36",
     "items": [
       {
         "channel": "harana",
@@ -861,14 +861,21 @@
         "text": "A confidential Russian government document reveals plans to deepen cooperation with Iran in financial, nuclear, energy, aviation, and transportation sectors from 2024 to 2026. The plan includes alternative financial channels, oil and gas projects, and construction of a railway from Iran's border to the Persian Gulf. The document was prepared in September 2024, and the current status of the projects is unclear.",
         "time": "12:32",
         "ts": 1789907538
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mahdi Mohammadzadeh, a 23-year-old firefighter, was killed by gunfire from officers in Mashhad on January 9, 2026. His family was seen cleaning and placing flowers on his grave. This video was released by Iran International.",
+        "time": "12:34",
+        "ts": 1789907663
       }
     ],
     "language": "en",
-    "packId": "20260920-58",
-    "sequence": 58,
+    "packId": "20260920-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:33"
+    "updatedAt": "12:36"
   },
   "verified": true
 }
