@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-99 seq=99 exp=1790102277",
+      "advancedStatus": "pack_id=20260920-100 seq=100 exp=1790102434",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:37",
+      "lastChecked": "18:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 18:37",
+    "expiresAt": "2026-09-22 18:40",
     "items": [
       {
         "channel": "harana",
@@ -889,14 +889,21 @@
         "text": "A citizen in a video to Iran International talks about inflation in Iran. He says people's meals consist only of bread and tea, and even the cats' food has decreased. This report highlights the living conditions.",
         "time": "18:35",
         "ts": 1789929354
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Niusha Sarami stated in the Titrawol audio version that Trump is on the verge of a major event in Iran. Khatam al-Anbiya has also threatened a painful response.",
+        "time": "18:39",
+        "ts": 1789929573
       }
     ],
     "language": "en",
-    "packId": "20260920-99",
-    "sequence": 99,
+    "packId": "20260920-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:37"
+    "updatedAt": "18:40"
   },
   "verified": true
 }
