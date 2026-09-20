@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-30 seq=30 exp=1790068980",
+      "advancedStatus": "pack_id=20260920-31 seq=31 exp=1790069496",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:23",
+      "lastChecked": "09:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 09:23",
+    "expiresAt": "2026-09-22 09:31",
     "items": [
       {
         "channel": "iranintl",
@@ -798,14 +798,21 @@
         "text": "A recreational and sports event was held at Araz Hotel in Nowshahr with women present without mandatory hijab. This led to intervention by security and judicial authorities. The Nowshahr prosecutor's office announced it will deal with illegal cases.",
         "time": "09:21",
         "ts": 1789896103
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Najmeh Amini, one of the detainees of the December 2025 protests, announced that her death sentence has been issued by the judiciary. This news was shared in an audio message from Vakilabad Prison in Mashhad. Her death sentence was issued on September 15.",
+        "time": "09:30",
+        "ts": 1789896646
       }
     ],
     "language": "en",
-    "packId": "20260920-30",
-    "sequence": 30,
+    "packId": "20260920-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:23"
+    "updatedAt": "09:31"
   },
   "verified": true
 }
