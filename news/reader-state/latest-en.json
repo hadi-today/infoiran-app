@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-24 seq=24 exp=1790065182",
+      "advancedStatus": "pack_id=20260920-25 seq=25 exp=1790065968",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:19",
+      "lastChecked": "08:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 08:19",
+    "expiresAt": "2026-09-22 08:32",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen reported hearing an explosion sound in Tehran on Saturday and sent a video. The transmitter's sound was reconstructed using artificial intelligence. This report was published by Iran International.",
-        "time": "08:24",
-        "ts": 1789806260
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Iranians living in New Zealand held a march in Auckland on Saturday, 28 Shahrivar, to commemorate Mahsa Amini's anniversary. This event was reported through videos received by Iran International.",
-        "time": "08:31",
-        "ts": 1789806703
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -805,14 +791,21 @@
         "text": "Ukraine carried out a large-scale drone attack on Moscow on Sunday, 29 Shahrivar. The mayor of Moscow called it the largest drone attack on the Russian capital so far. Released images show fire and smoke at the Moscow oil refinery, which supplies about 40% of Moscow's fuel market.",
         "time": "08:18",
         "ts": 1789892339
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of Iranians living in Germany took to the streets on Saturday, September 19, to commemorate the anniversary of Mahsa's uprising. The gatherings took place in Nuremberg, Frankfurt, Stuttgart, Hamburg, and Düsseldorf. This information is based on videos received by Iran International.",
+        "time": "08:32",
+        "ts": 1789893122
       }
     ],
     "language": "en",
-    "packId": "20260920-24",
-    "sequence": 24,
+    "packId": "20260920-25",
+    "sequence": 25,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:19"
+    "updatedAt": "08:32"
   },
   "verified": true
 }
