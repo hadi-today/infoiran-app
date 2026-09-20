@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-59 seq=59 exp=1790080575",
+      "advancedStatus": "pack_id=20260920-61 seq=61 exp=1790080947",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:36",
+      "lastChecked": "12:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 12:36",
+    "expiresAt": "2026-09-22 12:42",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The director general of education in Gilan province announced that 1544 students in the province have dropped out of school. This figure highlights existing challenges in the education sector in Gilan. Efforts to address this issue are ongoing.",
-        "time": "12:36",
-        "ts": 1789821379
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Anshan Khosravi, an organizer of the Stockholm gathering on the fourth anniversary of Mahsa Amini's death, stated that they continue the path of Mahsa and other martyrs for freedom. They believe that together they will reach a free Iran. These remarks were made to an Iran International reporter.",
-        "time": "12:37",
-        "ts": 1789821455
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -868,14 +854,35 @@
         "text": "Mahdi Mohammadzadeh, a 23-year-old firefighter, was killed by gunfire from officers in Mashhad on January 9, 2026. His family was seen cleaning and placing flowers on his grave. This video was released by Iran International.",
         "time": "12:34",
         "ts": 1789907663
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Aysan Ahmadi said at the Mahsa Amini anniversary gathering in Florence that the \"Women, Life, Freedom\" movement showed that in the Islamic Republic, a young person might lose their life over a few strands of hair. She added that repression and executions have continued over the past four years. Ahmadi also said that Reza Pahlavi has a specific plan for the transition period.",
+        "time": "12:36",
+        "ts": 1789907783
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The Speaker of the Iranian Parliament criticized groups rejecting diplomacy and leading Iran towards endless war and attrition. He confirmed that Tehran has conveyed its conditions to the US through intermediaries. Until these conditions are met and US commitments fulfilled, negotiations and reopening of the Strait of Hormuz will not occur.",
+        "time": "12:39",
+        "ts": 1789907957
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The Khatam al-Anbiya Headquarters announced that the US, with support from some regional countries, is preparing to resume attacks on Iran. The military body warned that regional countries aligning with the US will be considered partners in these actions. It also warned the US that its centers and interests in the region will be targeted.",
+        "time": "12:40",
+        "ts": 1789908029
       }
     ],
     "language": "en",
-    "packId": "20260920-59",
-    "sequence": 59,
+    "packId": "20260920-61",
+    "sequence": 61,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:36"
+    "updatedAt": "12:42"
   },
   "verified": true
 }
