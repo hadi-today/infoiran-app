@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-03 seq=3 exp=1790049269",
+      "advancedStatus": "pack_id=20260920-04 seq=4 exp=1790052072",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:54",
+      "lastChecked": "04:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 03:54",
+    "expiresAt": "2026-09-22 04:41",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Turkish banking regulator revoked the operating license of Bank Mellat's main branch in Istanbul. This decision coincided with increased US sanctions pressure on Tehran. The official Turkish notice did not cite US sanctions as the reason for the action.",
-        "time": "04:15",
-        "ts": 1789791324
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Kayhan newspaper criticized some government officials' statements about hijab and described the state of nudity in Tehran's streets as concerning. The newspaper criticized the government's lack of cultural actions to improve the hijab situation in the past two years. Kayhan called for more government efforts to improve the hijab situation.",
-        "time": "04:30",
-        "ts": 1789792232
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -805,14 +791,21 @@
         "text": "Donald Trump returned early from Camp David to the White House on the evening of Saturday, 29 Shahrivar. The reason for his early return has not been announced. This occurred ahead of his trip to New York to attend the United Nations General Assembly.",
         "time": "03:53",
         "ts": 1789876402
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Tehran Seminary management has called on the judiciary to take action against the organizers of the marathon in Velayat Park where some women participated without mandatory hijab. The institution considers this issue a religious and social duty and opposes normalizing violations. The seminary emphasized it will not allow the erosion of the sanctity of laws in society.",
+        "time": "04:40",
+        "ts": 1789879201
       }
     ],
     "language": "en",
-    "packId": "20260920-03",
-    "sequence": 3,
+    "packId": "20260920-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:54"
+    "updatedAt": "04:41"
   },
   "verified": true
 }
