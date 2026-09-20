@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-70 seq=70 exp=1790087349",
+      "advancedStatus": "pack_id=20260920-71 seq=71 exp=1790087566",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:29",
+      "lastChecked": "14:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 14:29",
+    "expiresAt": "2026-09-22 14:32",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Amnesty International has published a detailed report of over 1100 pages on the crimes of the Islamic Republic in suppressing the Mahsa uprising protests. The report accuses Iranian officials of crimes against humanity. The short documentary \"Iran Rising\" reviews this report and the events of 2022 in Iran.",
-        "time": "14:30",
-        "ts": 1789828234
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "Kamran Ghazanfari, a member of the Internal Affairs and Councils Commission, said that if the existence of the Islamic Republic is threatened, the leadership might intervene regarding nuclear weapons. Parliament members are pursuing nuclear weapons acquisition and withdrawal from the NPT treaty. These statements were made on September 20.",
         "time": "14:28",
         "ts": 1789914493
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Iraq's air defense system shot down a drone near Erbil International Airport in the Kurdistan Region. The incident occurred on September 20 at 17:30. The news was reported by Reuters citing Iraqi security sources.",
+        "time": "14:31",
+        "ts": 1789914713
       }
     ],
     "language": "en",
-    "packId": "20260920-70",
-    "sequence": 70,
+    "packId": "20260920-71",
+    "sequence": 71,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:29"
+    "updatedAt": "14:32"
   },
   "verified": true
 }
