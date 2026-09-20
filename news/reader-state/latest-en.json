@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-31 seq=31 exp=1790069496",
+      "advancedStatus": "pack_id=20260920-32 seq=32 exp=1790069594",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:31",
+      "lastChecked": "09:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 09:31",
+    "expiresAt": "2026-09-22 09:33",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Farzaneh Barzehkar, mother of Erfan Rezaei, who was killed in the \"Women, Life, Freedom\" uprising in Amol, shared a video about the last morning she saw her son alive. She recalled Erfan's father's memories from the Iran-Iraq war and mentioned her son's injury. The mother questioned whether her son was really dead.",
-        "time": "09:31",
-        "ts": 1789810304
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -805,14 +798,21 @@
         "text": "Najmeh Amini, one of the detainees of the December 2025 protests, announced that her death sentence has been issued by the judiciary. This news was shared in an audio message from Vakilabad Prison in Mashhad. Her death sentence was issued on September 15.",
         "time": "09:30",
         "ts": 1789896646
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohsen Rezaei stated that Tehran's conditions for stopping the war have been conveyed to the US via Qatar. The Islamic Republic is trying to persuade Washington to return to negotiations amid naval blockade and sanctions pressure. Simultaneously, two paths of diplomacy and escalating tensions are being pursued.",
+        "time": "09:32",
+        "ts": 1789896725
       }
     ],
     "language": "en",
-    "packId": "20260920-31",
-    "sequence": 31,
+    "packId": "20260920-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:31"
+    "updatedAt": "09:33"
   },
   "verified": true
 }
