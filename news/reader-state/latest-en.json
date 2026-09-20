@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260920-32 seq=32 exp=1790069594",
+      "advancedStatus": "pack_id=20260920-33 seq=33 exp=1790069745",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:33",
+      "lastChecked": "09:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-20",
-    "expiresAt": "2026-09-22 09:33",
+    "expiresAt": "2026-09-22 09:35",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,21 @@
         "text": "Mohsen Rezaei stated that Tehran's conditions for stopping the war have been conveyed to the US via Qatar. The Islamic Republic is trying to persuade Washington to return to negotiations amid naval blockade and sanctions pressure. Simultaneously, two paths of diplomacy and escalating tensions are being pursued.",
         "time": "09:32",
         "ts": 1789896725
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of Iranians living in Sweden marched in Gothenburg on Saturday, 28 Shahrivar. The march was held to commemorate the anniversary of Mahsa's uprising. Videos of the event were sent to Iran International.",
+        "time": "09:35",
+        "ts": 1789896905
       }
     ],
     "language": "en",
-    "packId": "20260920-32",
-    "sequence": 32,
+    "packId": "20260920-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:33"
+    "updatedAt": "09:35"
   },
   "verified": true
 }
