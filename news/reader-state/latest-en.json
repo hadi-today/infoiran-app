@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-54 seq=54 exp=1790164298",
+      "advancedStatus": "pack_id=20260921-55 seq=55 exp=1790164580",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:51",
+      "lastChecked": "11:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 11:51",
+    "expiresAt": "2026-09-23 11:56",
     "items": [
       {
         "channel": "harana",
@@ -917,14 +917,21 @@
         "text": "Workers laid off from Shadgan Steel Company since autumn 1404 protested with their children, demanding attention to their livelihood. They stated that with the school reopening approaching, they cannot afford their children's educational expenses. The layoffs have cut their income and caused difficulties for their children's access to education.",
         "time": "11:50",
         "ts": 1789991439
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amnesty International has classified the violent crackdown on protesters in the Mahsa uprising as a crime against humanity. Philip Luther, the organization's research director, stated that the investigation involved reviewing thousands of videos and pages of information. Amnesty International is calling for a global framework to prosecute the leaders of the Islamic Republic.",
+        "time": "11:55",
+        "ts": 1789991724
       }
     ],
     "language": "en",
-    "packId": "20260921-54",
-    "sequence": 54,
+    "packId": "20260921-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:51"
+    "updatedAt": "11:56"
   },
   "verified": true
 }
