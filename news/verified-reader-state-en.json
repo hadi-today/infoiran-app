@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-15 seq=15 exp=1790144747",
+      "advancedStatus": "pack_id=20260921-16 seq=16 exp=1790144895",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:25",
+      "lastChecked": "06:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 06:25",
+    "expiresAt": "2026-09-23 06:28",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "Ali Khazarian announced that Iranian armed forces have started testing firing at American combat vessels. He stated that the Islamic Republic will soon have the capability to fire at American aircraft carriers. Additionally, Iran's oil sales have continued during the war, while American warships face docking difficulties in the region.",
         "time": "06:24",
         "ts": 1789971893
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Lionel Messi scored a free-kick goal in Inter Miami's 2-2 draw against San Diego FC, bringing his official career goals to 930. Messi equalized the game in the 24th minute and continues to play a key role in his team. Despite further efforts, the team could not secure a win, but Messi is pursuing the milestone of 1,000 goals.",
+        "time": "06:27",
+        "ts": 1789972053
       }
     ],
     "language": "en",
-    "packId": "20260921-15",
-    "sequence": 15,
+    "packId": "20260921-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:25"
+    "updatedAt": "06:28"
   },
   "verified": true
 }
