@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-82 seq=82 exp=1790177112",
+      "advancedStatus": "pack_id=20260921-83 seq=83 exp=1790177450",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:25",
+      "lastChecked": "15:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 15:25",
+    "expiresAt": "2026-09-23 15:30",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,28 @@
         "text": "Trump announced he will soon decide about an attack on Iran. The IRGC spokesperson warned that Tehran will expand the geography of the war. Maariv newspaper reported that two Israeli intelligence agencies assess the Islamic Republic is closer to collapse.",
         "time": "15:23",
         "ts": 1790004227
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "An aircraft shot down by the Iranian army near the Strait of Hormuz was an American ADM-160 decoy missile. It was mistakenly identified as an Orbiter drone. The US uses the MALD missile to locate Iranian air defense systems.",
+        "time": "15:30",
+        "ts": 1790004606
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "JD Vance, the US Vice President, said that Iranians have caused an increase in energy prices by creating fear and disruption in international shipping. He added that the US will try to counter these actions and protect the free flow of trade. He also mentioned that the US Navy is active in this effort.",
+        "time": "15:30",
+        "ts": 1790004621
       }
     ],
     "language": "en",
-    "packId": "20260921-82",
-    "sequence": 82,
+    "packId": "20260921-83",
+    "sequence": 83,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:25"
+    "updatedAt": "15:30"
   },
   "verified": true
 }
