@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-59 seq=59 exp=1790168152",
+      "advancedStatus": "pack_id=20260921-60 seq=60 exp=1790168506",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:55",
+      "lastChecked": "13:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 12:55",
+    "expiresAt": "2026-09-23 13:01",
     "items": [
       {
         "channel": "iranintl",
@@ -875,14 +875,21 @@
         "text": "Today, retired telecommunications workers in East Azerbaijan held a protest gathering. They demanded supplementary insurance without deductibles, implementation of adjustment regulations, and payment of overdue claims. They also protested against the performance of the Executive Headquarters of Imam's Order and the Cooperative Foundation of the IRGC.",
         "time": "12:54",
         "ts": 1789995287
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Reza Golzar, a cinema actor and TV host, visited the national teams' camp and the Wrestling Federation. He met and talked with Alireza Dabir, the head of the Wrestling Federation.",
+        "time": "13:00",
+        "ts": 1789995640
       }
     ],
     "language": "en",
-    "packId": "20260921-59",
-    "sequence": 59,
+    "packId": "20260921-60",
+    "sequence": 60,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:55"
+    "updatedAt": "13:01"
   },
   "verified": true
 }
