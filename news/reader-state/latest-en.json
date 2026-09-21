@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-12 seq=12 exp=1790143284",
+      "advancedStatus": "pack_id=20260921-13 seq=13 exp=1790143402",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:01",
+      "lastChecked": "06:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 06:01",
+    "expiresAt": "2026-09-23 06:03",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "Hamidreza Hajibabaei stated that the Strait of Hormuz symbolizes the Islamic Republic's power against the US, and the US seeks to weaken Iran's position there. He emphasized that reaching an agreement with the US is impossible. Hajibabaei also called for attacks on US economic positions in the region.",
         "time": "06:00",
         "ts": 1789970431
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Masoud Pezeshkian and Abbas Araghchi have traveled to New York to attend the UN General Assembly. This assembly could be the last diplomatic opportunity for the Islamic Republic to make concessions to the US. If no agreement is reached, the US may continue economic pressure or military action.",
+        "time": "06:01",
+        "ts": 1789970512
       }
     ],
     "language": "en",
-    "packId": "20260921-12",
-    "sequence": 12,
+    "packId": "20260921-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:01"
+    "updatedAt": "06:03"
   },
   "verified": true
 }
