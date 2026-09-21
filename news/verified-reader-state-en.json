@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-70 seq=70 exp=1790172347",
+      "advancedStatus": "pack_id=20260921-71 seq=71 exp=1790172564",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:05",
+      "lastChecked": "14:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 14:05",
+    "expiresAt": "2026-09-23 14:09",
     "items": [
       {
         "channel": "iranintl",
@@ -931,14 +931,28 @@
         "text": "The death sentences of Mehdi Nazer and Mahnaz Chardoli, detainees from the December 2025 protests, were overturned by the Supreme Court. They had previously been sentenced to death by the Tehran Revolutionary Court. Mehdi Nazer is held in Tehran Grand Prison and Mahnaz Chardoli in Qarchak Varamin Prison.",
         "time": "14:05",
         "ts": 1789999513
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A student spoke in a video to Iran International about the high costs of school. He said his father is a worker and due to financial difficulties, he had to use a yearly planner instead of a notebook. This highlights the difficult financial situation of some families in Iran.",
+        "time": "14:06",
+        "ts": 1789999569
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The UN Human Rights Council extended the mandate of the fact-finding mission on Iran for two years. The council also called for immediate investigations into allegations of serious human rights violations and crimes related to the protests in December 2025. This decision was made during the session on Monday, September 20.",
+        "time": "14:08",
+        "ts": 1789999710
       }
     ],
     "language": "en",
-    "packId": "20260921-70",
-    "sequence": 70,
+    "packId": "20260921-71",
+    "sequence": 71,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:05"
+    "updatedAt": "14:09"
   },
   "verified": true
 }
