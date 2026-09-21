@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-91 seq=91 exp=1790179749",
+      "advancedStatus": "pack_id=20260921-92 seq=92 exp=1790179924",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:09",
+      "lastChecked": "16:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 16:09",
+    "expiresAt": "2026-09-23 16:12",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Marco Lombardo, an Italian senator, emphasized the need to stop executions in Iran during a gathering of Iranians in Florence marking the fourth anniversary of Mahsa Amini's death. He also called for greater attention from the Italian government to the situation of Iranians living in Italy. These remarks were made in an interview with an Iran International reporter.",
-        "time": "16:06",
-        "ts": 1789920387
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Yaser Hosseini and Mohsen Asadi, two residents of Kamyaran, were released from the Intelligence Department detention center after giving a pledge. This happened yesterday. More information is available in the original text.",
-        "time": "16:08",
-        "ts": 1789920506
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -994,14 +980,21 @@
         "text": "Esmail Abdi, a teachers' union activist, reported a sharp increase in back-to-school costs and poverty preventing children from continuing their education. He also mentioned teacher shortages, increased dropout rates, and economic pressures causing a crisis in the education system. Abdi added that teachers face livelihood problems and security pressures, affecting the quality of education.",
         "time": "16:05",
         "ts": 1790006741
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Masoud Pezeshkian will travel to New York tomorrow to attend the United Nations General Assembly. At the same time, the US has imposed restrictions on the movement of Iranian delegation members in New York. This news comes amid ongoing tensions between Iran and the United States.",
+        "time": "16:09",
+        "ts": 1790006962
       }
     ],
     "language": "en",
-    "packId": "20260921-91",
-    "sequence": 91,
+    "packId": "20260921-92",
+    "sequence": 92,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:09"
+    "updatedAt": "16:12"
   },
   "verified": true
 }
