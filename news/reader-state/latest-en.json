@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-27 seq=27 exp=1790152251",
+      "advancedStatus": "pack_id=20260921-28 seq=28 exp=1790152465",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:30",
+      "lastChecked": "08:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 08:30",
+    "expiresAt": "2026-09-23 08:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of Iranians living in Germany took to the streets on Saturday, September 19, to commemorate the anniversary of Mahsa's uprising. The gatherings took place in Nuremberg, Frankfurt, Stuttgart, Hamburg, and Düsseldorf. This information is based on videos received by Iran International.",
-        "time": "08:32",
-        "ts": 1789893122
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +903,21 @@
         "text": "Yesterday, a female worker died due to the overturning of a vehicle carrying seasonal agricultural workers on the Saghez-Bukan road. The incident occurred on the evening of Friday, September 18. Five other workers were also injured in the accident.",
         "time": "08:29",
         "ts": 1789979399
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Football Federation's Appeals Committee rejected the protests by Khodadad Azizi and Tractor Club against the disciplinary committee's rulings. Khodadad Azizi was sentenced to four months of stadium ban and a two billion toman fine. The one billion rial fine for Tractor Club was also confirmed.",
+        "time": "08:32",
+        "ts": 1789979566
       }
     ],
     "language": "en",
-    "packId": "20260921-27",
-    "sequence": 27,
+    "packId": "20260921-28",
+    "sequence": 28,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:30"
+    "updatedAt": "08:34"
   },
   "verified": true
 }
