@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-72 seq=72 exp=1790172736",
+      "advancedStatus": "pack_id=20260921-73 seq=73 exp=1790172913",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:12",
+      "lastChecked": "14:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 14:12",
+    "expiresAt": "2026-09-23 14:15",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,28 @@
         "text": "Hamid Hajizadeh and his 9-year-old son Karun were killed on the night of September 21, 1998, in their home in Goldasht, Kerman. Both were stabbed multiple times. Their family continues to seek truth and justice after nearly three decades.",
         "time": "14:11",
         "ts": 1789999878
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Scott Bessent, US Treasury Secretary, announced that all airlines of the Iranian regime will be shut down from the first of Mehr. He warned that companies providing services to these airlines will face secondary sanctions and risk losing access to the dollar financial system. This is part of the \"economic exclusion\" operation and previous Treasury sanctions.",
+        "time": "14:13",
+        "ts": 1790000027
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "France announced it will summon the Iranian ambassador and take appropriate measures in response to the closure of a French language center in Tehran. The center was closed by order of the Tehran prosecutor's office. France called this action unjustifiable and unacceptable.",
+        "time": "14:14",
+        "ts": 1790000055
       }
     ],
     "language": "en",
-    "packId": "20260921-72",
-    "sequence": 72,
+    "packId": "20260921-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:12"
+    "updatedAt": "14:15"
   },
   "verified": true
 }
