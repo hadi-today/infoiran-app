@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-78 seq=78 exp=1790174301",
+      "advancedStatus": "pack_id=20260921-79 seq=79 exp=1790175055",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:38",
+      "lastChecked": "14:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 14:38",
+    "expiresAt": "2026-09-23 14:50",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Hassan Rouzitaleb stated that on January 8, 2026, 13 broadcasting centers in the provinces were attacked. One center in Kish was captured and fell, and clashes continued in other centers. Ali Khamenei considered these attacks a sign of a coup.",
-        "time": "14:45",
-        "ts": 1789915514
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "On Sunday, 29 Shahrivar, Intelligence Ministry agents searched the homes of the Zare family members in Shiraz and confiscated their personal belongings. The family members were insulted due to their Bahá'í faith, and some were summoned. The search warrant lacked the addresses of the homes.",
-        "time": "14:46",
-        "ts": 1789915615
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -973,14 +959,21 @@
         "text": "Abdollah Soori from Miandoab was sentenced to seven years, six months, and one day in prison by the Revolutionary Court of Miandoab. The sentence was issued by the Revolutionary Court of Miandoab. More details are published by Harana News Agency.",
         "time": "14:35",
         "ts": 1790001351
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Medical transfers for female prisoners in Evin are delayed, and some are returned to prison without treatment. Body searches during visitation days have intensified, and some prisoners were barred from the visitation hall due to their clothing. After the memorial ceremony for Mahsa Amini, new restrictions such as banning stationery deliveries and pressure to file complaints against fellow inmates were imposed.",
+        "time": "14:49",
+        "ts": 1790002174
       }
     ],
     "language": "en",
-    "packId": "20260921-78",
-    "sequence": 78,
+    "packId": "20260921-79",
+    "sequence": 79,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:38"
+    "updatedAt": "14:50"
   },
   "verified": true
 }
