@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-64 seq=64 exp=1790170354",
+      "advancedStatus": "pack_id=20260921-65 seq=65 exp=1790170469",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:32",
+      "lastChecked": "13:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 13:32",
+    "expiresAt": "2026-09-23 13:34",
     "items": [
       {
         "channel": "iranintl",
@@ -889,14 +889,21 @@
         "text": "A group of Iranians living in the UK gathered in Birmingham on Sunday, 29 Shahrivar. The gathering was held to commemorate the anniversary of Mahsa's uprising. A video of the event was received by Iran International.",
         "time": "13:32",
         "ts": 1789997539
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Telecommunications retirees held a protest in Kermanshah. Their demands include supplementary insurance without deductible and implementation of proportional adjustments according to the law. They also protested against the performance of the Imam Executive Headquarters and the Cooperation Foundation of the IRGC.",
+        "time": "13:33",
+        "ts": 1789997615
       }
     ],
     "language": "en",
-    "packId": "20260921-64",
-    "sequence": 64,
+    "packId": "20260921-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:32"
+    "updatedAt": "13:34"
   },
   "verified": true
 }
