@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-103 seq=103 exp=1790186166",
+      "advancedStatus": "pack_id=20260921-104 seq=104 exp=1790186355",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:56",
+      "lastChecked": "17:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 17:56",
+    "expiresAt": "2026-09-23 17:59",
     "items": [
       {
         "channel": "iranintl",
@@ -1001,14 +1001,28 @@
         "text": "Scott Bessent, the US Treasury Secretary, announced that from the first of Mehr, Iranian airlines' activities abroad will be stopped. Providing fuel, airport services, or ticket sales to these companies may lead to their removal from the US dollar financial system. Additionally, Masoud Pezeshkian is traveling to New York to attend the UN General Assembly amid US restrictions and warnings from conservatives.",
         "time": "17:54",
         "ts": 1790013299
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A Turkish Airlines representative told Iran International that the company has suspended all flights to Iran at least until March 2027. He added that there is no guarantee of resumption of flights after that date. This suspension will further reduce international travel options for Iranians, who already face increasing restrictions.",
+        "time": "17:58",
+        "ts": 1790013482
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fereshteh Pezeshk stated that given the current positions of Iran and the United States, it is unlikely that the UN General Assembly will be a turning point in their relations. She added that Iran's case is within the broader global competition among the US, China, and Russia, reducing the chances of an agreement. Pezeshk also noted that China's role is based on its own interests and relations with the US.",
+        "time": "17:58",
+        "ts": 1790013490
       }
     ],
     "language": "en",
-    "packId": "20260921-103",
-    "sequence": 103,
+    "packId": "20260921-104",
+    "sequence": 104,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:56"
+    "updatedAt": "17:59"
   },
   "verified": true
 }
