@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-06 seq=6 exp=1790132844",
+      "advancedStatus": "pack_id=20260921-07 seq=7 exp=1790135483",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:07",
+      "lastChecked": "03:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 03:07",
+    "expiresAt": "2026-09-23 03:51",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "Oil prices fell in Asian trading on Monday as investors focused on diplomatic efforts to end the war between America and the Islamic Republic. Brent and WTI crude prices dropped, and signs of diplomatic progress along with efforts to restore Saudi supply reduced supply shortage concerns. Trump expressed readiness to meet Pezeshkian, while Houthi attacks and pipeline disruption still cause worries, but reports of more Saudi shipments eased immediate fears.",
         "time": "03:06",
         "ts": 1789959999
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reuters reported that the number of cargo ships passing through the Strait of Hormuz on Saturday and Sunday dropped to 12. This is a 66% decrease compared to 35 ships the previous weekend. The reduction comes amid ongoing tensions in the Persian Gulf.",
+        "time": "03:50",
+        "ts": 1789962641
       }
     ],
     "language": "en",
-    "packId": "20260921-06",
-    "sequence": 6,
+    "packId": "20260921-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:07"
+    "updatedAt": "03:51"
   },
   "verified": true
 }
