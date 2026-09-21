@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-88 seq=88 exp=1790179025",
+      "advancedStatus": "pack_id=20260921-89 seq=89 exp=1790179187",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:57",
+      "lastChecked": "15:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 15:57",
+    "expiresAt": "2026-09-23 15:59",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Intelligence forces searched the homes of five members of a Bahá'í family in Shiraz and confiscated their personal belongings. Additionally, five family members were summoned to appear at the Shiraz intelligence detention center. They are required to present themselves at the 'Plaque 100' detention center on the first of Mehr.",
-        "time": "15:55",
-        "ts": 1789919704
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -987,14 +980,21 @@
         "text": "Videos on social media show an unidentified object with colored lights flying over Tehran on Sunday evening. Iranian authorities have not commented on the matter yet. The nature and how the object entered Tehran's airspace remain unknown.",
         "time": "15:54",
         "ts": 1790006083
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A group of job-seeking youth in Har city held a protest in front of the Haft Tappeh Sugarcane Agro-Industry Company. They demand job opportunities and the employment of local workers, stating they have been pursuing their demands for over a week without receiving a response. The protesters reject claims of insufficient capacity to hire workers and protest repeated unproductive promises.",
+        "time": "15:58",
+        "ts": 1790006319
       }
     ],
     "language": "en",
-    "packId": "20260921-88",
-    "sequence": 88,
+    "packId": "20260921-89",
+    "sequence": 89,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:57"
+    "updatedAt": "15:59"
   },
   "verified": true
 }
