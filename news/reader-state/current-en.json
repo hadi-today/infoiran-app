@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-20 seq=20 exp=1790146757",
+      "advancedStatus": "pack_id=20260921-21 seq=21 exp=1790147803",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:59",
+      "lastChecked": "07:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 06:59",
+    "expiresAt": "2026-09-23 07:16",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The police supervising public places in western Tehran province announced the closure of four cafes in Shahriar county. This action was part of a monitoring plan aimed at addressing social irregularities. The news was reported by Harana News Agency.",
-        "time": "07:06",
-        "ts": 1789887977
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of Iranians living in the UK gathered in the streets of London on Saturday, 28 Shahrivar, to commemorate the fourth anniversary of the Woman, Life, Freedom uprising. This event was reported through videos received by Iran International.",
-        "time": "07:06",
-        "ts": 1789887991
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Hossein Ali Haji Deligani, representative of Shahin Shahr, called for Iran to leave the NPT. He stated that remaining in the NPT harms the country. A group of representatives have submitted an urgent bill to exit the NPT.",
-        "time": "07:15",
-        "ts": 1789888539
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -924,14 +903,21 @@
         "text": "Roya Sabat, a Bahá'í prisoner in Adelabad Prison in Shiraz, has been deprived of specialized medical care due to severe injuries to her back and neck. Her request for medical leave has not been approved so far. She has not been transferred to medical centers outside the prison for treatment.",
         "time": "06:58",
         "ts": 1789973908
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iranian men's national handball team lost 34-20 to Bahrain in their second match at the 2026 Asian Games in Nagoya. They had also lost their first match against Kuwait by two goals. Iran's upcoming matches are against South Korea and Kazakhstan.",
+        "time": "07:15",
+        "ts": 1789974954
       }
     ],
     "language": "en",
-    "packId": "20260921-20",
-    "sequence": 20,
+    "packId": "20260921-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:59"
+    "updatedAt": "07:16"
   },
   "verified": true
 }
