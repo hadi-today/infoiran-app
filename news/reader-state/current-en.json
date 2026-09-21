@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-74 seq=74 exp=1790173116",
+      "advancedStatus": "pack_id=20260921-75 seq=75 exp=1790173317",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:18",
+      "lastChecked": "14:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 14:18",
+    "expiresAt": "2026-09-23 14:21",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "France announced it will summon the Iranian ambassador and take appropriate measures in response to the closure of a French language center in Tehran. The center was closed by order of the Tehran prosecutor's office. France called this action unjustifiable and unacceptable.",
         "time": "14:14",
         "ts": 1790000055
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Sara Hossain, head of the UN independent fact-finding mission on Iran, stated that the Islamic Republic used military clashes to intensify the harassment of protesters. She added that the December 2025 protests faced a violent response. Also, no accountability has occurred regarding human rights violations following Mahsa Amini's death.",
+        "time": "14:19",
+        "ts": 1790000370
       }
     ],
     "language": "en",
-    "packId": "20260921-74",
-    "sequence": 74,
+    "packId": "20260921-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:18"
+    "updatedAt": "14:21"
   },
   "verified": true
 }
