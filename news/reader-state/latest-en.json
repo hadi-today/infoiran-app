@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-49 seq=49 exp=1790161413",
+      "advancedStatus": "pack_id=20260921-50 seq=50 exp=1790161660",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:03",
+      "lastChecked": "11:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 11:03",
+    "expiresAt": "2026-09-23 11:07",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The director of education in Yazd announced that the province will face a shortage of 50,000 teaching hours in the 1405–1406 school year, equivalent to about 200 teachers. Bafq county faces a more severe shortage of educational staff. Additionally, nearly 34% of Yazd's schools are non-standard.",
-        "time": "11:04",
-        "ts": 1789902267
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -931,14 +924,28 @@
         "text": "A citizen sent a video to Iran International showing a widespread power outage in Bandar Deylam, Bushehr province, on the evening of Sunday, September 20. The power outage has been reported extensively. The video was published by Iran International.",
         "time": "11:01",
         "ts": 1789988494
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "According to the Legal Medicine Organization, 294 people died in traffic accidents in Mashhad in 1404. The police commander stated that the death rate of injured during transfer to medical centers is about 10% higher than the national average. The governor of Mashhad cited lack of coordination between emergency and fire services as a reason for this situation.",
+        "time": "11:04",
+        "ts": 1789988643
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Statistical Center of Iran reported that spring 1405 had the worst economic performance in the past 15 years. Iran's economy shrank by more than 10 percent in this season. This issue was discussed in an interview with Mahtab Gholizadeh.",
+        "time": "11:05",
+        "ts": 1789988732
       }
     ],
     "language": "en",
-    "packId": "20260921-49",
-    "sequence": 49,
+    "packId": "20260921-50",
+    "sequence": 50,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:03"
+    "updatedAt": "11:07"
   },
   "verified": true
 }
