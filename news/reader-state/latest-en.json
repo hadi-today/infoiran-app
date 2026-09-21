@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-113 seq=113 exp=1790196418",
+      "advancedStatus": "pack_id=20260921-114 seq=114 exp=1790196949",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:46",
+      "lastChecked": "20:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 20:46",
+    "expiresAt": "2026-09-23 20:55",
     "items": [
       {
         "channel": "iranintl",
@@ -987,14 +987,21 @@
         "text": "Ali Al-Zaidi, the Prime Minister of Iraq, has committed to disarming proxy militias of the Islamic Republic by the end of July 2027. A 90-day ceasefire period will be implemented first, followed by the start of weapons surrender. The Iraqi government plans to individually integrate members of these groups into the Popular Mobilization Forces.",
         "time": "20:46",
         "ts": 1790023567
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A police officer acting as a thief snatched a citizen's mobile phone on the street and fled. The phone was then returned to its owner, who was given advice to prevent theft. The citizen reported feeling fear and a racing heart at that moment.",
+        "time": "20:55",
+        "ts": 1790024101
       }
     ],
     "language": "en",
-    "packId": "20260921-113",
-    "sequence": 113,
+    "packId": "20260921-114",
+    "sequence": 114,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:46"
+    "updatedAt": "20:55"
   },
   "verified": true
 }
