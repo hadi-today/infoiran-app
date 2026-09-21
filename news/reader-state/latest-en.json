@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-89 seq=89 exp=1790179187",
+      "advancedStatus": "pack_id=20260921-90 seq=90 exp=1790179569",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:59",
+      "lastChecked": "16:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 15:59",
+    "expiresAt": "2026-09-23 16:06",
     "items": [
       {
         "channel": "iranintl",
@@ -987,14 +987,28 @@
         "text": "A group of job-seeking youth in Har city held a protest in front of the Haft Tappeh Sugarcane Agro-Industry Company. They demand job opportunities and the employment of local workers, stating they have been pursuing their demands for over a week without receiving a response. The protesters reject claims of insufficient capacity to hire workers and protest repeated unproductive promises.",
         "time": "15:58",
         "ts": 1790006319
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Alireza Mahmoudi, deputy secretary general of Iran's House of Workers and CEO of Emkan Union, announced that following military attacks on the country, about 250,000 workers lost their jobs in the first six months of this year, and at least 1.5 million people left formal employment.",
+        "time": "16:04",
+        "ts": 1790006693
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Esmail Abdi, a teachers' union activist, reported a sharp increase in back-to-school costs and poverty preventing children from continuing their education. He also mentioned teacher shortages, increased dropout rates, and economic pressures causing a crisis in the education system. Abdi added that teachers face livelihood problems and security pressures, affecting the quality of education.",
+        "time": "16:05",
+        "ts": 1790006741
       }
     ],
     "language": "en",
-    "packId": "20260921-89",
-    "sequence": 89,
+    "packId": "20260921-90",
+    "sequence": 90,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:59"
+    "updatedAt": "16:06"
   },
   "verified": true
 }
