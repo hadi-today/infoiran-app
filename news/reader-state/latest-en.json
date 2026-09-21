@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-23 seq=23 exp=1790149191",
+      "advancedStatus": "pack_id=20260921-24 seq=24 exp=1790150610",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:39",
+      "lastChecked": "08:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 07:39",
+    "expiresAt": "2026-09-23 08:03",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Kambiz Tavana mentioned Donald Trump's early return from Camp David. The US State Department has issued warnings to its citizens in nine Middle Eastern countries. These developments occurred after the Houthis fired a ballistic missile towards Riyadh.",
-        "time": "07:53",
-        "ts": 1789890827
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ebrahim Azizi announced that the unveiling of the agreement on the Strait of Hormuz, which was to take place in Muscat, has been postponed. He emphasized that the Islamic Republic will not allow the return of Americans to the Persian Gulf and that negotiating again with the US is meaningless. He also stated that if membership in the NPT no longer serves Iran's interests, Tehran will take appropriate action.",
-        "time": "07:57",
-        "ts": 1789891077
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The match between Lyon and Rennes in the fifth week of Ligue 1 was stopped for 15 minutes due to an offensive banner by Lyon fans against Saint-Étienne. The referee stopped the game at the 36th minute, and players left the field at the 40th minute. After the issue was resolved, the match resumed.",
-        "time": "07:59",
-        "ts": 1789891160
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -917,14 +896,21 @@
         "text": "A video on social media shows that the Jewish cemetery in Jamkhaneh, Kermanshah, has become a site for garbage and debris accumulation. This issue has raised concerns. The condition of the cemetery has been reported as clearly inappropriate.",
         "time": "07:38",
         "ts": 1789976324
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Tasnim news agency reported that the visit of Pakistan's Interior Minister Mohsin Naqvi to Iran on Monday is related to Iran-Pakistan cooperation and not to message transfer between Tehran and Washington. Tasnim stated that the minister is not carrying any message for the Islamic Republic and Tehran will not send any message through him. Tehran's seven conditions have been clearly communicated to the Americans previously and remain unchanged.",
+        "time": "08:02",
+        "ts": 1789977763
       }
     ],
     "language": "en",
-    "packId": "20260921-23",
-    "sequence": 23,
+    "packId": "20260921-24",
+    "sequence": 24,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:39"
+    "updatedAt": "08:03"
   },
   "verified": true
 }
