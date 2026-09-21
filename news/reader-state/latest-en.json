@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-107 seq=107 exp=1790187623",
+      "advancedStatus": "pack_id=20260921-108 seq=108 exp=1790188188",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:20",
+      "lastChecked": "18:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 18:20",
+    "expiresAt": "2026-09-23 18:29",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Four workers in Isfahan and Piranshahr were injured due to unsafe working conditions. These incidents occurred in unsuitable work environments. More details have been published by Harana News Agency.",
-        "time": "18:26",
-        "ts": 1789928775
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1029,14 +1022,21 @@
         "text": "Mehdi Mahdavi Azad said on the program \"Cheshmandaz\" that the Iranian government sees war as a way to overcome the crisis, and Masoud Pezeshkian's trip to New York is unlikely to change Tehran-Washington relations. He added that the Iranian president does not have the authority to negotiate with the US, and the US is also unwilling to enter negotiations. These statements refer to the current state of Iran-US relations.",
         "time": "18:17",
         "ts": 1790014650
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "According to Washington, from the day after tomorrow, the global airspace will be closed to all Iranian airlines. This decision was announced based on a report by Niousha Saremi. This issue will have significant impacts on Iranian flights.",
+        "time": "18:28",
+        "ts": 1790015312
       }
     ],
     "language": "en",
-    "packId": "20260921-107",
-    "sequence": 107,
+    "packId": "20260921-108",
+    "sequence": 108,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:20"
+    "updatedAt": "18:29"
   },
   "verified": true
 }
