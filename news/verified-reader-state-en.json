@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-30 seq=30 exp=1790152814",
+      "advancedStatus": "pack_id=20260921-31 seq=31 exp=1790153791",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:40",
+      "lastChecked": "08:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 08:40",
+    "expiresAt": "2026-09-23 08:56",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Kamran Ghazanfari, a Tehran representative, stated that the impeachment plan of the president has been proposed due to economic, political, and cultural conditions. He said this issue is within the powers of the parliament members and carrying it out is part of their duties. He also emphasized that the Speaker blocking this plan would be illegal.",
-        "time": "08:45",
-        "ts": 1789893937
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "Reuters reported a sharp decline in ship traffic through the Strait of Hormuz. Only 17 ships passed in the last week, compared to about 125 daily before the war. Saudi Arabia and Iraq supply the majority of oil exports through this route.",
         "time": "08:39",
         "ts": 1789979969
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video of Fatemeh Soltani, the martyr's daughter, going to school has been released. Fatemeh Soltani was killed on January 8, 2026, by Islamic Republic agents in Esfarayen by gunfire. This incident has been reflected in social media.",
+        "time": "08:55",
+        "ts": 1789980941
       }
     ],
     "language": "en",
-    "packId": "20260921-30",
-    "sequence": 30,
+    "packId": "20260921-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:40"
+    "updatedAt": "08:56"
   },
   "verified": true
 }
