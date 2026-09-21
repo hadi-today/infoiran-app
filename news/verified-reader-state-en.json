@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-111 seq=111 exp=1790191698",
+      "advancedStatus": "pack_id=20260921-112 seq=112 exp=1790191820",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:28",
+      "lastChecked": "19:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 19:28",
+    "expiresAt": "2026-09-23 19:30",
     "items": [
       {
         "channel": "iranintl",
@@ -1008,14 +1008,21 @@
         "text": "Omid Memarian stated that the Human Rights Council fact-finding report increases political pressure on the Islamic Republic and complicates Tehran's efforts at the UN General Assembly. He added that the accusations in the report could affect Iran's relations with other countries. Memarian also warned about the expansion of repression and the new law related to 'influence.'",
         "time": "19:27",
         "ts": 1790018842
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Miad Maleki stated that US secondary sanctions deter airlines and airport service providers from cooperating with Iran. He added that many foreign companies will stop cooperating with Iran. The US Treasury has targeted support networks in various countries to further restrict sanctions evasion.",
+        "time": "19:29",
+        "ts": 1790018950
       }
     ],
     "language": "en",
-    "packId": "20260921-111",
-    "sequence": 111,
+    "packId": "20260921-112",
+    "sequence": 112,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:28"
+    "updatedAt": "19:30"
   },
   "verified": true
 }
