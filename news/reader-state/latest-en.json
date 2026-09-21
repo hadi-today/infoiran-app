@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-129 seq=129 exp=1790203604",
+      "advancedStatus": "pack_id=20260921-130 seq=130 exp=1790204062",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:46",
+      "lastChecked": "22:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 22:46",
+    "expiresAt": "2026-09-23 22:54",
     "items": [
       {
         "channel": "iranintl",
@@ -1015,14 +1015,21 @@
         "text": "Reza Pahlavi expressed gratitude on X social network for the support of Pierre Poilievre, leader of Canada's Conservative Party, for the Iranian people's fight for freedom. He emphasized that Canada stands with the Iranian people, not their oppressors. This message refers to confronting the Islamic Republic and expelling terrorist agents of the IRGC.",
         "time": "22:46",
         "ts": 1790030760
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mike Pompeo wrote on X that the Islamic Republic's pursuit of opponents inside and outside Iran has been severely underreported. He emphasized that the world will be a better place when these individuals are finally removed from power.",
+        "time": "22:53",
+        "ts": 1790031213
       }
     ],
     "language": "en",
-    "packId": "20260921-129",
-    "sequence": 129,
+    "packId": "20260921-130",
+    "sequence": 130,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:46"
+    "updatedAt": "22:54"
   },
   "verified": true
 }
