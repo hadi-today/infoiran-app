@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-114 seq=114 exp=1790196949",
+      "advancedStatus": "pack_id=20260921-115 seq=115 exp=1790197138",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:55",
+      "lastChecked": "20:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 20:55",
+    "expiresAt": "2026-09-23 20:58",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Al Arabiya reported that Tehran is pressuring armed groups in Iraq not to hand over their weapons. The Iraqi Weapons Containment Committee received a document from these groups raising demands regarding weapon surrender. This report was published on Sunday, 29 Shahrivar.",
-        "time": "20:56",
-        "ts": 1789937797
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -994,14 +987,21 @@
         "text": "A police officer acting as a thief snatched a citizen's mobile phone on the street and fled. The phone was then returned to its owner, who was given advice to prevent theft. The citizen reported feeling fear and a racing heart at that moment.",
         "time": "20:55",
         "ts": 1790024101
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Trump administration proposed a $5 billion investment fund to rebuild damaged energy infrastructure in the Middle East. The goal is to reduce the region's dependence on the Strait of Hormuz for oil and gas transportation. This report was published by The Wall Street Journal.",
+        "time": "20:58",
+        "ts": 1790024286
       }
     ],
     "language": "en",
-    "packId": "20260921-114",
-    "sequence": 114,
+    "packId": "20260921-115",
+    "sequence": 115,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:55"
+    "updatedAt": "20:58"
   },
   "verified": true
 }
