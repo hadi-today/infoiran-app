@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-105 seq=105 exp=1790187127",
+      "advancedStatus": "pack_id=20260921-106 seq=106 exp=1790187489",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:12",
+      "lastChecked": "18:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 18:12",
+    "expiresAt": "2026-09-23 18:18",
     "items": [
       {
         "channel": "harana",
@@ -1015,14 +1015,28 @@
         "text": "The Secretary-General of the Gulf Cooperation Council called for the restoration of maritime traffic in the Strait of Hormuz and Bab al-Mandab to pre-war conditions. He rejected any unilateral fees or obstacles to the right of passage. He also condemned attacks by the Islamic Republic on vital facilities and diplomatic sites of the council member countries.",
         "time": "18:11",
         "ts": 1790014279
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Ali Zarei, a political prisoner sentenced to death, was transferred to solitary confinement. This transfer took place in Qezel Hesar prison in Karaj. The reason for this transfer is not yet known.",
+        "time": "18:16",
+        "ts": 1790014602
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Mahdavi Azad said on the program \"Cheshmandaz\" that the Iranian government sees war as a way to overcome the crisis, and Masoud Pezeshkian's trip to New York is unlikely to change Tehran-Washington relations. He added that the Iranian president does not have the authority to negotiate with the US, and the US is also unwilling to enter negotiations. These statements refer to the current state of Iran-US relations.",
+        "time": "18:17",
+        "ts": 1790014650
       }
     ],
     "language": "en",
-    "packId": "20260921-105",
-    "sequence": 105,
+    "packId": "20260921-106",
+    "sequence": 106,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:12"
+    "updatedAt": "18:18"
   },
   "verified": true
 }
