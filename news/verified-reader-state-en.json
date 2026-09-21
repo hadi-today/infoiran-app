@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-121 seq=121 exp=1790202146",
+      "advancedStatus": "pack_id=20260921-122 seq=122 exp=1790202431",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:22",
+      "lastChecked": "22:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 22:22",
+    "expiresAt": "2026-09-23 22:27",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The audio version of the Politics program with Murad Veisi has been released. The topic of this episode is signs of a large and imminent attack. This program was broadcast by Iran International.",
-        "time": "22:22",
-        "ts": 1789942966
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Morad Vaisi, a senior analyst at Iran International, reported signs of a possible large and imminent attack in the Middle East. Concerns include Washington's warnings and US bomber flights in Britain. Donald Trump's threatening statements have increased the likelihood of a serious confrontation.",
-        "time": "22:25",
-        "ts": 1789943104
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1001,14 +987,21 @@
         "text": "Mohsin Naqvi, Pakistan's Interior Minister, met with Iran's Interior Minister and Masoud Pezeshkian in Tehran. Al Jazeera reported the trip aimed to discuss mediation efforts between Iran and the US. Tasnim News Agency denied this claim.",
         "time": "22:20",
         "ts": 1790029203
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Attacks on energy infrastructure have become a main focus in the Russia-Ukraine war. Kyiv views these attacks as a way to weaken Russia's war capabilities. Washington has called for a halt to these attacks.",
+        "time": "22:26",
+        "ts": 1790029590
       }
     ],
     "language": "en",
-    "packId": "20260921-121",
-    "sequence": 121,
+    "packId": "20260921-122",
+    "sequence": 122,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:22"
+    "updatedAt": "22:27"
   },
   "verified": true
 }
