@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-41 seq=41 exp=1790157781",
+      "advancedStatus": "pack_id=20260921-42 seq=42 exp=1790158141",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:03",
+      "lastChecked": "10:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 10:03",
+    "expiresAt": "2026-09-23 10:09",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mostafa Sharifi, born in 1985, was killed on the evening of January 8, 2026, in the Aryashahr area of Tehran. People placed flowers at his house for his birthday. A video of this house was sent to Iran International.",
-        "time": "10:02",
-        "ts": 1789898563
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -938,14 +931,21 @@
         "text": "A group of young job seekers from Mianrud gathered on Saturday, September 18, in front of Beheshti Agro-Industry Company in Dezful. They demanded the hiring of local workers and said the protest has continued for two weeks. So far, no response has been given to their requests.",
         "time": "10:02",
         "ts": 1789984920
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The public relations director of Masoud Pezeshkian's office announced that the US government refused to issue visas for Pezeshkian's media team. Therefore, Pezeshkian will attend the United Nations assembly in New York without his media team.",
+        "time": "10:06",
+        "ts": 1789985184
       }
     ],
     "language": "en",
-    "packId": "20260921-41",
-    "sequence": 41,
+    "packId": "20260921-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:03"
+    "updatedAt": "10:09"
   },
   "verified": true
 }
