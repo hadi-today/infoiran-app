@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-123 seq=123 exp=1790202540",
+      "advancedStatus": "pack_id=20260921-124 seq=124 exp=1790202754",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:29",
+      "lastChecked": "22:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 22:29",
+    "expiresAt": "2026-09-23 22:32",
     "items": [
       {
         "channel": "iranintl",
@@ -1001,14 +1001,28 @@
         "text": "Morad Vaisi, a senior analyst at Iran International, described the Islamic Republic as an illegitimate and corrupt regime. He said that over the past nine years, the Iranian people have had four active uprisings to overthrow it. He also mentioned the people's hope for regime change due to external pressure and economic crises.",
         "time": "22:28",
         "ts": 1790029696
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Arash Aramesh, a lawyer and national security expert, said the federal court may grant the media's temporary request to suspend the White House entry restriction if it finds that the action causes them irreparable harm and there is a likelihood of success on the merits. He added that the case involves the First Amendment and due process rights. He also said the media's opposition is a defense of press freedom and the Constitution, and even media close to Trump believe the government cannot limit access solely due to dissatisfaction with coverage.",
+        "time": "22:31",
+        "ts": 1790029908
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Vaisi stated that the people of Iran demand the preservation of territorial integrity, separation of religion from government, individual freedoms, and equal citizenship rights. The majority consider Reza Pahlavi as the leader of the transitional period. They seek to replace the Islamic Republic with an elected and efficient government.",
+        "time": "22:32",
+        "ts": 1790029945
       }
     ],
     "language": "en",
-    "packId": "20260921-123",
-    "sequence": 123,
+    "packId": "20260921-124",
+    "sequence": 124,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:29"
+    "updatedAt": "22:32"
   },
   "verified": true
 }
