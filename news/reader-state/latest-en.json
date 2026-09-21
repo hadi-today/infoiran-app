@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-58 seq=58 exp=1790167915",
+      "advancedStatus": "pack_id=20260921-59 seq=59 exp=1790168152",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:51",
+      "lastChecked": "12:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 12:51",
+    "expiresAt": "2026-09-23 12:55",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Bayan Qaderi, a citizen from Pasveh, was arrested after being summoned to the Revolutionary Court of Piranshahr and transferred to a detention center in Urmia. This occurred yesterday. No further information is available.",
-        "time": "12:53",
-        "ts": 1789908820
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -875,14 +868,21 @@
         "text": "A group of retired telecommunications workers in Kurdistan province held a protest in Sanandaj and Bijar against neglect of their long-standing demands and livelihood issues. They demanded proper supplementary insurance, implementation of salary adjustments, and payment of overdue claims. They also expressed their protest against the Executive Headquarters of Imam's Order and the Cooperative Foundation of the IRGC.",
         "time": "12:50",
         "ts": 1789995039
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Today, retired telecommunications workers in East Azerbaijan held a protest gathering. They demanded supplementary insurance without deductibles, implementation of adjustment regulations, and payment of overdue claims. They also protested against the performance of the Executive Headquarters of Imam's Order and the Cooperative Foundation of the IRGC.",
+        "time": "12:54",
+        "ts": 1789995287
       }
     ],
     "language": "en",
-    "packId": "20260921-58",
-    "sequence": 58,
+    "packId": "20260921-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:51"
+    "updatedAt": "12:55"
   },
   "verified": true
 }
