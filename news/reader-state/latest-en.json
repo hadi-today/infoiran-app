@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-24 seq=24 exp=1790150610",
+      "advancedStatus": "pack_id=20260921-25 seq=25 exp=1790150731",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:03",
+      "lastChecked": "08:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 08:03",
+    "expiresAt": "2026-09-23 08:05",
     "items": [
       {
         "channel": "harana",
@@ -903,14 +903,21 @@
         "text": "Tasnim news agency reported that the visit of Pakistan's Interior Minister Mohsin Naqvi to Iran on Monday is related to Iran-Pakistan cooperation and not to message transfer between Tehran and Washington. Tasnim stated that the minister is not carrying any message for the Islamic Republic and Tehran will not send any message through him. Tehran's seven conditions have been clearly communicated to the Americans previously and remain unchanged.",
         "time": "08:02",
         "ts": 1789977763
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Aghaei spoke about rising tensions in the region and the possibility of war resuming. He said the type and scope of potential attacks depend on Donald Trump's ultimate goal. He also mentioned the possibility of regime change and the return of Prince Reza Pahlavi.",
+        "time": "08:04",
+        "ts": 1789977879
       }
     ],
     "language": "en",
-    "packId": "20260921-24",
-    "sequence": 24,
+    "packId": "20260921-25",
+    "sequence": 25,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:03"
+    "updatedAt": "08:05"
   },
   "verified": true
 }
