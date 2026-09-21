@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-42 seq=42 exp=1790158141",
+      "advancedStatus": "pack_id=20260921-43 seq=43 exp=1790158665",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:09",
+      "lastChecked": "10:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 10:09",
+    "expiresAt": "2026-09-23 10:17",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The official Houthi mufti in southern Yemen defended attacks on the cities of Mecca and Medina. He stated that the group aims to turn the two holy sites into a free minaret for Muslims. Following these attacks, Italy is reconsidering its troop deployment in the region.",
-        "time": "10:11",
-        "ts": 1789899071
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Bagher Ghalibaf, the Speaker of the Parliament, said the choice between war or negotiation is not real and both must be pursued. He added that after delivering decisive blows and achieving battlefield victories, diplomacy should be used to consolidate the gains.",
-        "time": "10:15",
-        "ts": 1789899309
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -938,14 +924,21 @@
         "text": "The public relations director of Masoud Pezeshkian's office announced that the US government refused to issue visas for Pezeshkian's media team. Therefore, Pezeshkian will attend the United Nations assembly in New York without his media team.",
         "time": "10:06",
         "ts": 1789985184
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Hossein Ghazizadeh stated that the gap between the demands of the US and the acceptance capacity of the Islamic Republic has increased. He said no Western official will sign an agreement that revives the Islamic Republic in its current form. According to him, Tehran must surrender to sign an agreement, which the Iranian government does not accept.",
+        "time": "10:16",
+        "ts": 1789985802
       }
     ],
     "language": "en",
-    "packId": "20260921-42",
-    "sequence": 42,
+    "packId": "20260921-43",
+    "sequence": 43,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:09"
+    "updatedAt": "10:17"
   },
   "verified": true
 }
