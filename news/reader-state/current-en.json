@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-86 seq=86 exp=1790177807",
+      "advancedStatus": "pack_id=20260921-87 seq=87 exp=1790178891",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:36",
+      "lastChecked": "15:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 15:36",
+    "expiresAt": "2026-09-23 15:54",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A memorial ceremony for Majid Adineh was held in Malmo, Sweden. His mother attended the event and was honored by the attendees. Majid Adineh was one of the detainees from the December 2025 protests in Karaj and was executed in September 2026.",
-        "time": "15:35",
-        "ts": 1789918514
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Nima Akbarkhani stated that the attack on the ships was carried out with anti-ship cruise missiles. These weapons are in the possession of the naval forces of the IRGC and the army, and the attack orders came from the Khatam al-Anbia headquarters. Earlier, Yashar Soltani said these attacks disrupted the agreement on Iran's oil sales.",
-        "time": "15:47",
-        "ts": 1789919248
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -987,14 +973,28 @@
         "text": "The brother of Mohammad Amin Salami, standing beside his grave, addressed the agent of the Islamic Republic who killed him, saying he will pay the price. Mohammad Amin Salami was killed on January 8, 2026, in Kermanshah. A video of this scene has been released.",
         "time": "15:34",
         "ts": 1790004856
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US Central Command announced that American forces have redirected the routes of 110 commercial ships until September 21 to prevent their entry into or exit from Iranian ports. The USS Rafael Peralta is operating in the area and continues to enforce the blockade of Iran.",
+        "time": "15:53",
+        "ts": 1790006037
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Videos on social media show an unidentified object with colored lights flying over Tehran on Sunday evening. Iranian authorities have not commented on the matter yet. The nature and how the object entered Tehran's airspace remain unknown.",
+        "time": "15:54",
+        "ts": 1790006083
       }
     ],
     "language": "en",
-    "packId": "20260921-86",
-    "sequence": 86,
+    "packId": "20260921-87",
+    "sequence": 87,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:36"
+    "updatedAt": "15:54"
   },
   "verified": true
 }
