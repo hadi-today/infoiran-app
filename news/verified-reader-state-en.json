@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-122 seq=122 exp=1790202431",
+      "advancedStatus": "pack_id=20260921-123 seq=123 exp=1790202540",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:27",
+      "lastChecked": "22:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 22:27",
+    "expiresAt": "2026-09-23 22:29",
     "items": [
       {
         "channel": "iranintl",
@@ -994,14 +994,21 @@
         "text": "Attacks on energy infrastructure have become a main focus in the Russia-Ukraine war. Kyiv views these attacks as a way to weaken Russia's war capabilities. Washington has called for a halt to these attacks.",
         "time": "22:26",
         "ts": 1790029590
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Vaisi, a senior analyst at Iran International, described the Islamic Republic as an illegitimate and corrupt regime. He said that over the past nine years, the Iranian people have had four active uprisings to overthrow it. He also mentioned the people's hope for regime change due to external pressure and economic crises.",
+        "time": "22:28",
+        "ts": 1790029696
       }
     ],
     "language": "en",
-    "packId": "20260921-122",
-    "sequence": 122,
+    "packId": "20260921-123",
+    "sequence": 123,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:27"
+    "updatedAt": "22:29"
   },
   "verified": true
 }
