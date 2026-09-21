@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260921-25 seq=25 exp=1790150731",
+      "advancedStatus": "pack_id=20260921-26 seq=26 exp=1790151313",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:05",
+      "lastChecked": "08:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-21",
-    "expiresAt": "2026-09-23 08:05",
+    "expiresAt": "2026-09-23 08:15",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The Alborz Court of Appeals confirmed the 18-year prison sentence for Manouchehr Bakhtiari. The sentence no longer includes 74 lashes. Bakhtiari was convicted of various charges including forming a group against national security.",
-        "time": "08:13",
-        "ts": 1789892034
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +903,21 @@
         "text": "Hossein Aghaei spoke about rising tensions in the region and the possibility of war resuming. He said the type and scope of potential attacks depend on Donald Trump's ultimate goal. He also mentioned the possibility of regime change and the return of Prince Reza Pahlavi.",
         "time": "08:04",
         "ts": 1789977879
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Rouhollah Rahimpour referred to the statements of the IRGC spokesperson about readiness for a long war and said the Islamic Republic has tools to expand the geography of war and crisis. He emphasized that this does not mean it has the ability to create a new regional order.",
+        "time": "08:14",
+        "ts": 1789978458
       }
     ],
     "language": "en",
-    "packId": "20260921-25",
-    "sequence": 25,
+    "packId": "20260921-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:05"
+    "updatedAt": "08:15"
   },
   "verified": true
 }
