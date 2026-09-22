@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-18 seq=18 exp=1790230413",
+      "advancedStatus": "pack_id=20260922-19 seq=19 exp=1790231098",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:13",
+      "lastChecked": "06:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 06:13",
+    "expiresAt": "2026-09-24 06:24",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Sadegh Beigdeli stated that the restriction of Iran's air routes and the increased importance of the Iraq land border raise transportation costs and reduce transfer speed. This affects Iran's logistical and arms supply networks. Additionally, pressure on Iraq's financial network will further limit and increase the cost of accessible routes for the government.",
-        "time": "06:18",
-        "ts": 1789971505
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1057,14 +1050,21 @@
         "text": "The killing of Mahsa Amini in September 2022 changed the role of the Iranian diaspora. After the start of the \"Women, Life, Freedom\" movement, Iranians abroad became more active in gatherings and media activities. This report examines the changes in activism of Iranians abroad on the fourth anniversary of the movement.",
         "time": "06:12",
         "ts": 1790057555
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The UK Prime Minister has agreed to provide defensive support and aerial refueling to Saudi Arabia against Houthi attacks. This move follows Saudi Arabia's request and recommendations from the UK defense and foreign ministers. The UK will deploy a refueling aircraft to the region.",
+        "time": "06:23",
+        "ts": 1790058227
       }
     ],
     "language": "en",
-    "packId": "20260922-18",
-    "sequence": 18,
+    "packId": "20260922-19",
+    "sequence": 19,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:13"
+    "updatedAt": "06:24"
   },
   "verified": true
 }
