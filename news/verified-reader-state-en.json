@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-19 seq=19 exp=1790231098",
+      "advancedStatus": "pack_id=20260922-20 seq=20 exp=1790231366",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:24",
+      "lastChecked": "06:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 06:24",
+    "expiresAt": "2026-09-24 06:29",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Khazarian announced that Iranian armed forces have started testing firing at American combat vessels. He stated that the Islamic Republic will soon have the capability to fire at American aircraft carriers. Additionally, Iran's oil sales have continued during the war, while American warships face docking difficulties in the region.",
-        "time": "06:24",
-        "ts": 1789971893
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Lionel Messi scored a free-kick goal in Inter Miami's 2-2 draw against San Diego FC, bringing his official career goals to 930. Messi equalized the game in the 24th minute and continues to play a key role in his team. Despite further efforts, the team could not secure a win, but Messi is pursuing the milestone of 1,000 goals.",
-        "time": "06:27",
-        "ts": 1789972053
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1057,14 +1043,21 @@
         "text": "The UK Prime Minister has agreed to provide defensive support and aerial refueling to Saudi Arabia against Houthi attacks. This move follows Saudi Arabia's request and recommendations from the UK defense and foreign ministers. The UK will deploy a refueling aircraft to the region.",
         "time": "06:23",
         "ts": 1790058227
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iranian Football Federation announced that Alireza Jahanbakhsh, Saman Ghoddos, Mehdi Torabi, and Ali Alipour will miss two upcoming national team friendlies due to injuries. Hossein Kanaani-Zadegan is not on the injury list, indicating his absence is not due to injury. Kanaani-Zadegan had previously stated he was injured but willing to play.",
+        "time": "06:28",
+        "ts": 1790058504
       }
     ],
     "language": "en",
-    "packId": "20260922-19",
-    "sequence": 19,
+    "packId": "20260922-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:24"
+    "updatedAt": "06:29"
   },
   "verified": true
 }
