@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-125 seq=125 exp=1790282129",
+      "advancedStatus": "pack_id=20260922-126 seq=126 exp=1790282620",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:35",
+      "lastChecked": "20:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 20:35",
+    "expiresAt": "2026-09-24 20:43",
     "items": [
       {
         "channel": "iranintl",
@@ -1106,14 +1106,21 @@
         "text": "Fardad Farahzad mentioned Trump's new warning about the destruction of Iran in the 24 audio version.",
         "time": "20:33",
         "ts": 1790109217
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "On the first day of the UN General Assembly, world leaders discussed the Middle East crisis and shipping security in the Strait of Hormuz. France is drafting a resolution to create an international mission for this purpose. Leaders also called for de-escalation and reopening of the Strait of Hormuz.",
+        "time": "20:42",
+        "ts": 1790109764
       }
     ],
     "language": "en",
-    "packId": "20260922-125",
-    "sequence": 125,
+    "packId": "20260922-126",
+    "sequence": 126,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:35"
+    "updatedAt": "20:43"
   },
   "verified": true
 }
