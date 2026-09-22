@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-128 seq=128 exp=1790283456",
+      "advancedStatus": "pack_id=20260922-129 seq=129 exp=1790284101",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:57",
+      "lastChecked": "21:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 20:57",
+    "expiresAt": "2026-09-24 21:08",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Trump administration proposed a $5 billion investment fund to rebuild damaged energy infrastructure in the Middle East. The goal is to reduce the region's dependence on the Strait of Hormuz for oil and gas transportation. This report was published by The Wall Street Journal.",
-        "time": "20:58",
-        "ts": 1790024286
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1113,14 +1106,21 @@
         "text": "Fereshteh Pezeshk referred to Donald Trump's remarks about the continuation of missile and drone stockpiling by the Islamic Republic. She mentioned the threat posed by these stockpiles to American forces and the region. She also stated that reaching an agreement is very difficult given the interests of powerful groups in the Islamic Republic.",
         "time": "20:56",
         "ts": 1790110587
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Kaja Kallas, the EU foreign policy chief, raised the issue of internal repression and increased executions in Iran during her meeting with Abbas Araghchi. They also discussed diplomatic prospects for ending the US-Iran war and fully reopening the Strait of Hormuz. Kallas emphasized that shipping should be free and unobstructed in both the Strait of Hormuz and Bab-el-Mandeb.",
+        "time": "21:07",
+        "ts": 1790111242
       }
     ],
     "language": "en",
-    "packId": "20260922-128",
-    "sequence": 128,
+    "packId": "20260922-129",
+    "sequence": 129,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:57"
+    "updatedAt": "21:08"
   },
   "verified": true
 }
