@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-13 seq=13 exp=1790226038",
+      "advancedStatus": "pack_id=20260922-14 seq=14 exp=1790226908",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:00",
+      "lastChecked": "05:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 05:00",
+    "expiresAt": "2026-09-24 05:15",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The spokesperson of the IRGC stated that the war is not over and the IRGC is prepared for a long-term war. He said that if a new aggression occurs, the geography of the war will change. He also mentioned that US military bases in the region are targeted by IRGC missiles and drones and cannot protect themselves.",
-        "time": "05:02",
-        "ts": 1789966925
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1050,14 +1043,21 @@
         "text": "Ghasem Ravanbakhsh, representative of Qom, said that the US is an enemy of Iran and detaining Pezeshkian would not be a problem for the US but a defeat for Iran. He also mentioned the possibility of the meeting with Trump being canceled, which would harm Iran's reputation. Ravanbakhsh considered the meeting with Trump pointless.",
         "time": "04:59",
         "ts": 1790053195
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Cristiano Ronaldo arrived two hours early for the first training session of Portugal's national team under coach Jorge Jesus. Jesus, who coached Ronaldo at Al Nassr last season, is now leading Portugal's national team and has invited Ronaldo to the camp. Portugal will play against Wales and Norway in the UEFA Nations League.",
+        "time": "05:14",
+        "ts": 1790054059
       }
     ],
     "language": "en",
-    "packId": "20260922-13",
-    "sequence": 13,
+    "packId": "20260922-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:00"
+    "updatedAt": "05:15"
   },
   "verified": true
 }
