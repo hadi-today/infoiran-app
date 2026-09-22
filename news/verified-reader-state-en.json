@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-120 seq=120 exp=1790280076",
+      "advancedStatus": "pack_id=20260922-121 seq=121 exp=1790280257",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:01",
+      "lastChecked": "20:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 20:01",
+    "expiresAt": "2026-09-24 20:04",
     "items": [
       {
         "channel": "iranintl",
@@ -1071,14 +1071,21 @@
         "text": "The Armed Forces Headquarters and Khatam al-Anbiya Base described Donald Trump's speech at the UN General Assembly as a tool for domestic propaganda and a sign of the US strategic deadlock. They stated that the Islamic Republic's armed forces are fully prepared to deliver stronger blows to the aggressors. They also expressed hope that the message of the Islamic Republic would reach the world at the UN.",
         "time": "20:00",
         "ts": 1790107214
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Pedaran, an IT activist, was executed in September 2026 after being detained in July 2025 and held in solitary confinement for months. He was subjected to severe physical and psychological pressure and forced to confess against himself. His personal and work belongings, as well as those of his family, were confiscated during his arrest.",
+        "time": "20:03",
+        "ts": 1790107392
       }
     ],
     "language": "en",
-    "packId": "20260922-120",
-    "sequence": 120,
+    "packId": "20260922-121",
+    "sequence": 121,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:01"
+    "updatedAt": "20:04"
   },
   "verified": true
 }
