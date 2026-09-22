@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-107 seq=107 exp=1790275742",
+      "advancedStatus": "pack_id=20260922-108 seq=108 exp=1790275900",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:49",
+      "lastChecked": "18:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 18:49",
+    "expiresAt": "2026-09-24 18:51",
     "items": [
       {
         "channel": "harana",
@@ -994,14 +994,28 @@
         "text": "Trump stated that a very good and constructive meeting with Iran took place, lasting three hours and ending about an hour ago. He mentioned that another meeting is planned for the near future. Trump also referred to two options for Iran: potential greatness or total destruction.",
         "time": "18:47",
         "ts": 1790102872
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Trump will meet with representatives of the Arab Gulf countries on the sidelines of the UN General Assembly. The discussion will focus on the war with Iran and the conflict with the Houthis. This meeting takes place amid calls from some regional officials to redefine relations with Tehran.",
+        "time": "18:50",
+        "ts": 1790103005
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Pepe Losada was introduced as the new fitness coach of the Iranian national football team and assistant to Amir Ghalenoei. Mehrdad Khanban also joined the national team's technical staff. The national team is preparing for matches against Uzbekistan and Russia.",
+        "time": "18:51",
+        "ts": 1790103082
       }
     ],
     "language": "en",
-    "packId": "20260922-107",
-    "sequence": 107,
+    "packId": "20260922-108",
+    "sequence": 108,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:49"
+    "updatedAt": "18:51"
   },
   "verified": true
 }
