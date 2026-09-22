@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-42 seq=42 exp=1790250081",
+      "advancedStatus": "pack_id=20260922-43 seq=43 exp=1790250184",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:41",
+      "lastChecked": "11:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 11:41",
+    "expiresAt": "2026-09-24 11:43",
     "items": [
       {
         "channel": "harana",
@@ -945,14 +945,21 @@
         "text": "Marco Rubio, the US Secretary of State, told NBC News that there are currently no plans for a meeting between Donald Trump and Masoud Pezeshkian, but Washington is ready for such a meeting. Rubio stated that Trump is open to meeting and discussing with others, as he believes engagement is important for resolving issues. He identified Washington's ultimate goal as preventing the Islamic Republic from acquiring nuclear weapons.",
         "time": "11:40",
         "ts": 1790077211
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US has increased pressure on Iran's aviation industry. International flights from Iran have become more limited. Some Iran International viewers have welcomed these pressures.",
+        "time": "11:41",
+        "ts": 1790077301
       }
     ],
     "language": "en",
-    "packId": "20260922-42",
-    "sequence": 42,
+    "packId": "20260922-43",
+    "sequence": 43,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:41"
+    "updatedAt": "11:43"
   },
   "verified": true
 }
