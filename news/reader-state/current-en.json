@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-63 seq=63 exp=1790258919",
+      "advancedStatus": "pack_id=20260922-64 seq=64 exp=1790259236",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:08",
+      "lastChecked": "14:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 14:08",
+    "expiresAt": "2026-09-24 14:13",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The UN Human Rights Council extended the mandate of the fact-finding mission on Iran for two years. The council also called for immediate investigations into allegations of serious human rights violations and crimes related to the protests in December 2025. This decision was made during the session on Monday, September 20.",
-        "time": "14:08",
-        "ts": 1789999710
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Hamid Hajizadeh and his 9-year-old son Karun were killed on the night of September 21, 1998, in their home in Goldasht, Kerman. Both were stabbed multiple times. Their family continues to seek truth and justice after nearly three decades.",
-        "time": "14:11",
-        "ts": 1789999878
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -973,14 +959,21 @@
         "text": "Trump, in his speech at the UN General Assembly, referred to the 25th anniversary of the 9/11 attacks and the third anniversary of the October 7 attack in Israel. He accused Iran of financially supporting terrorists and mentioned the internal massacres in the country. Trump warned about the potential dangers if the Iranian regime acquires nuclear weapons.",
         "time": "14:07",
         "ts": 1790086068
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Eghtesad News website reported that the average housing price in Tehran has more than doubled compared to June last year. The average price per square meter of residential units in the capital has reached over 210 million tomans. This report was released during wartime conditions.",
+        "time": "14:12",
+        "ts": 1790086379
       }
     ],
     "language": "en",
-    "packId": "20260922-63",
-    "sequence": 63,
+    "packId": "20260922-64",
+    "sequence": 64,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:08"
+    "updatedAt": "14:13"
   },
   "verified": true
 }
