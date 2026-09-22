@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-04 seq=4 exp=1790239726",
+      "advancedStatus": "pack_id=20260922-05 seq=5 exp=1790240475",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:48",
+      "lastChecked": "09:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 08:48",
+    "expiresAt": "2026-09-24 09:01",
     "items": [
       {
         "channel": "iranintl",
@@ -77,14 +77,21 @@
         "text": "Ticket sales for Lionel Messi's farewell match with the Argentina national team will start on September 22. Ticket prices range from 52 to 278 euros, and children can attend for 17 euros. The match will be held on October 6 against Benin.",
         "time": "08:48",
         "ts": 1790066897
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A mother of a student stated that she paid two and a half million tomans for her daughter's school uniform. She described the uniform as resembling a sack and a cleric's cloak. It was also mentioned that five million tomans must be deposited into the school principal's account for her daughter to be allowed into the school.",
+        "time": "09:00",
+        "ts": 1790067655
       }
     ],
     "language": "en",
-    "packId": "20260922-04",
-    "sequence": 4,
+    "packId": "20260922-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:48"
+    "updatedAt": "09:01"
   },
   "verified": true
 }
