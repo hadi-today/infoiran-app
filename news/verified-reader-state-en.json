@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-01 seq=1 exp=1790208310",
+      "advancedStatus": "pack_id=20260922-03 seq=3 exp=1790212709",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:05",
+      "lastChecked": "01:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 00:05",
+    "expiresAt": "2026-09-24 01:18",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Egyptian President el-Sisi, in a meeting with CIA Director John Ratcliffe, called for a comprehensive agreement to end the crisis related to the Islamic Republic, restore regional stability, and ensure freedom of international navigation. He emphasized Egypt's support for efforts toward a comprehensive deal and the preservation of Arab countries' security and sovereignty. Ratcliffe conveyed President Trump's message of continued close coordination with Cairo to strengthen Middle East security.",
-        "time": "00:43",
-        "ts": 1789951389
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump is considering three options regarding the Islamic Republic: extensive military attacks, continued economic pressure, or reaching an agreement to end the conflict. The war has entered its eighth month, increasing pressure on energy transit routes. The US House of Representatives has voted to limit military operations against the Islamic Republic.",
-        "time": "01:09",
-        "ts": 1789952974
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1022,14 +1008,28 @@
         "text": "A digital traffic sign on the 405 freeway in Los Angeles was hacked to display the address of the Persian-language website \"Gorokan.\" The California Department of Transportation confirmed the unauthorized message and investigations are ongoing. The identity of the perpetrators is unknown, and the connection to the Islamic Republic has not been independently confirmed.",
         "time": "00:04",
         "ts": 1790035465
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Financial Times reported that Gulf Arab countries are seeking to reset relations with Tehran. The UAE calls for a new approach and Qatar demands the creation of a regional security framework with Iran. Saudi Arabia is also considering a non-aggression pact with Iran.",
+        "time": "00:36",
+        "ts": 1790037400
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of US Democratic lawmakers asked Donald Trump to discuss China's support for Iran in the war during his meeting with Xi Jinping. They referred to reports indicating Chinese companies provided satellite images to Iran. The US State Department has sanctioned four Chinese entities over this issue.",
+        "time": "01:17",
+        "ts": 1790039865
       }
     ],
     "language": "en",
-    "packId": "20260922-01",
-    "sequence": 1,
+    "packId": "20260922-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:05"
+    "updatedAt": "01:18"
   },
   "verified": true
 }
