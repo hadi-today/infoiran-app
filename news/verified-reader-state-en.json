@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-07 seq=7 exp=1790217911",
+      "advancedStatus": "pack_id=20260922-08 seq=8 exp=1790219661",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:45",
+      "lastChecked": "03:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 02:45",
+    "expiresAt": "2026-09-24 03:14",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Oil prices fell in Asian trading on Monday as investors focused on diplomatic efforts to end the war between America and the Islamic Republic. Brent and WTI crude prices dropped, and signs of diplomatic progress along with efforts to restore Saudi supply reduced supply shortage concerns. Trump expressed readiness to meet Pezeshkian, while Houthi attacks and pipeline disruption still cause worries, but reports of more Saudi shipments eased immediate fears.",
-        "time": "03:06",
-        "ts": 1789959999
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1036,14 +1029,21 @@
         "text": "Shargh newspaper reported that the financing promises from China and Russia for Iran's infrastructure projects, dating back decades, have not been fulfilled. These countries have refrained from investing or providing facilities citing sanctions. Iran's Deputy Minister of Roads and Urban Development has also confirmed this issue.",
         "time": "02:44",
         "ts": 1790045067
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The G7 foreign ministers issued a statement calling Iran's actions a dangerous pattern and a threat to regional and global stability. They demanded Iran stop arming and supporting the Houthis. They also condemned Houthi attacks on Saudi Arabia and civilian shipping and called for an immediate halt to these attacks.",
+        "time": "03:13",
+        "ts": 1790046816
       }
     ],
     "language": "en",
-    "packId": "20260922-07",
-    "sequence": 7,
+    "packId": "20260922-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:45"
+    "updatedAt": "03:14"
   },
   "verified": true
 }
