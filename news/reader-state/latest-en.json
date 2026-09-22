@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-124 seq=124 exp=1790281996",
+      "advancedStatus": "pack_id=20260922-125 seq=125 exp=1790282129",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:33",
+      "lastChecked": "20:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 20:33",
+    "expiresAt": "2026-09-24 20:35",
     "items": [
       {
         "channel": "iranintl",
@@ -1099,14 +1099,21 @@
         "text": "Steve and Jared had a constructive meeting with Iranian mediators today. Mediation has been ongoing for some time, and there is strong motivation to reach an agreement. Trump spoke about Iran's economic situation and hopes for a deal.",
         "time": "20:32",
         "ts": 1790109134
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fardad Farahzad mentioned Trump's new warning about the destruction of Iran in the 24 audio version.",
+        "time": "20:33",
+        "ts": 1790109217
       }
     ],
     "language": "en",
-    "packId": "20260922-124",
-    "sequence": 124,
+    "packId": "20260922-125",
+    "sequence": 125,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:33"
+    "updatedAt": "20:35"
   },
   "verified": true
 }
