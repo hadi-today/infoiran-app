@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-135 seq=135 exp=1790288588",
+      "advancedStatus": "pack_id=20260922-136 seq=136 exp=1790288745",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:23",
+      "lastChecked": "22:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 22:23",
+    "expiresAt": "2026-09-24 22:25",
     "items": [
       {
         "channel": "iranintl",
@@ -1113,14 +1113,21 @@
         "text": "The annual tour of the Islamic Republic to New York has started with flights, hotel stays, speeches, and meetings. At the end of the trip, it is usually said that the talks were useful and constructive. People are questioning what their share of this trip is and whether tensions will decrease or any decisions will be made that affect their lives.",
         "time": "22:22",
         "ts": 1790115722
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Azerbaijan Airlines announced that flights of Iranian airlines to Azerbaijan have been suspended due to new US sanctions. This decision has been effective since Tuesday, September 21. The sanctions impose restrictions on Iran's aviation industry.",
+        "time": "22:24",
+        "ts": 1790115888
       }
     ],
     "language": "en",
-    "packId": "20260922-135",
-    "sequence": 135,
+    "packId": "20260922-136",
+    "sequence": 136,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:23"
+    "updatedAt": "22:25"
   },
   "verified": true
 }
