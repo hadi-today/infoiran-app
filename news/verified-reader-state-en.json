@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-22 seq=22 exp=1790233402",
+      "advancedStatus": "pack_id=20260922-23 seq=23 exp=1790233945",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:03",
+      "lastChecked": "07:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 07:03",
+    "expiresAt": "2026-09-24 07:12",
     "items": [
       {
         "channel": "iranintl",
@@ -1036,14 +1036,21 @@
         "text": "A citizen sent a video showing an unidentified luminous object in the sky of Isfahan. The video was recorded on the evening of Tuesday, 30 Shahrivar. Previously, a similar video of an unidentified object was published in the sky of Tehran.",
         "time": "07:02",
         "ts": 1790060526
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iranian women's kata team lost to Vietnam in the final of the Nagoya Asian Games and won the silver medal. Iran defeated Thailand 5-0 in the quarterfinals and then beat the Philippines in the semifinals. The team consisted of Fatemeh Sadeghi, Sepideh Amini, and Zeinab Hosseini.",
+        "time": "07:11",
+        "ts": 1790061073
       }
     ],
     "language": "en",
-    "packId": "20260922-22",
-    "sequence": 22,
+    "packId": "20260922-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:03"
+    "updatedAt": "07:12"
   },
   "verified": true
 }
