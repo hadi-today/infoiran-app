@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-28 seq=28 exp=1790235908",
+      "advancedStatus": "pack_id=20260922-29 seq=29 exp=1790236471",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:45",
+      "lastChecked": "07:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 07:45",
+    "expiresAt": "2026-09-24 07:54",
     "items": [
       {
         "channel": "iranintl",
@@ -1057,14 +1057,28 @@
         "text": "Turkish Airlines' representative announced that all flights to Iran are suspended until at least April next year. Emirates, Lufthansa, and Austrian Airlines have also temporarily stopped their flights to Iran. Qatar Airways is not flying to Iran due to airspace restrictions.",
         "time": "07:44",
         "ts": 1790063054
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fatemeh Zahra Saeedabadi lost 6-4 to Faya Robert from Malaysia in the 55-kg karate final at the 2026 Nagoya Asian Games and won a silver medal. Saeedabadi defeated representatives from Indonesia, Laos, and Singapore in earlier rounds. The Iranian karate team had a successful day with four finalists, including Morteza Nemati who won gold.",
+        "time": "07:53",
+        "ts": 1790063619
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The exhibition \"From Evin, with Love\" opened in Munich on the fourth anniversary of the \"Woman, Life, Freedom\" uprising. The exhibition features handicrafts made by female political prisoners in Evin Prison. Organizers consider these works symbols of resistance and the preservation of human dignity.",
+        "time": "07:54",
+        "ts": 1790063660
       }
     ],
     "language": "en",
-    "packId": "20260922-28",
-    "sequence": 28,
+    "packId": "20260922-29",
+    "sequence": 29,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:45"
+    "updatedAt": "07:54"
   },
   "verified": true
 }
