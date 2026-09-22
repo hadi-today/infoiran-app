@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-97 seq=97 exp=1790272159",
+      "advancedStatus": "pack_id=20260922-98 seq=98 exp=1790272890",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:49",
+      "lastChecked": "18:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 17:49",
+    "expiresAt": "2026-09-24 18:01",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Scott Bessent, the US Treasury Secretary, announced that from the first of Mehr, Iranian airlines' activities abroad will be stopped. Providing fuel, airport services, or ticket sales to these companies may lead to their removal from the US dollar financial system. Additionally, Masoud Pezeshkian is traveling to New York to attend the UN General Assembly amid US restrictions and warnings from conservatives.",
-        "time": "17:54",
-        "ts": 1790013299
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A Turkish Airlines representative told Iran International that the company has suspended all flights to Iran at least until March 2027. He added that there is no guarantee of resumption of flights after that date. This suspension will further reduce international travel options for Iranians, who already face increasing restrictions.",
-        "time": "17:58",
-        "ts": 1790013482
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Fereshteh Pezeshk stated that given the current positions of Iran and the United States, it is unlikely that the UN General Assembly will be a turning point in their relations. She added that Iran's case is within the broader global competition among the US, China, and Russia, reducing the chances of an agreement. Pezeshk also noted that China's role is based on its own interests and relations with the US.",
-        "time": "17:58",
-        "ts": 1790013490
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -966,14 +945,21 @@
         "text": "The statement claims that Trump supports the heir of the Pahlavi dynasty and has pressured the Islamic Republic at the United Nations. It also calls for arrest warrants against some Islamic Republic officials for crimes against humanity. Trump is accused of pursuing his own interests and making deals with the Islamic regime.",
         "time": "17:48",
         "ts": 1790099298
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Ali Nejadabbasi Bostanabad, a political prisoner, is serving his sentence in ward seven of Tabriz prison. He was sentenced to two years and one day for espionage, but his sentence was reduced to one year and eleven months. This information was reported by HRANA news agency.",
+        "time": "18:00",
+        "ts": 1790100023
       }
     ],
     "language": "en",
-    "packId": "20260922-97",
-    "sequence": 97,
+    "packId": "20260922-98",
+    "sequence": 98,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:49"
+    "updatedAt": "18:01"
   },
   "verified": true
 }
