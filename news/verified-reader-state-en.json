@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-36 seq=36 exp=1790245904",
+      "advancedStatus": "pack_id=20260922-37 seq=37 exp=1790246578",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:31",
+      "lastChecked": "10:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 10:31",
+    "expiresAt": "2026-09-24 10:42",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Iraqi media reported that the Iraqi government has decided to stop all flights between Iraq and Iran from September 22. However, Baghdad has not officially announced this decision yet. An interview was conducted with Iran International reporter Troske Sadeghi.",
-        "time": "10:36",
-        "ts": 1789987019
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -952,14 +945,21 @@
         "text": "Hananeh Kia, a 22-year-old woman and protester killed in the Mahsa uprising, was shot dead on September 21, 2022, in Nowshahr. Her mother released a video showing remaining images of her daughter and her funeral ceremony. In one image, Hananeh is seen bloodied on a hospital bed.",
         "time": "10:30",
         "ts": 1790073046
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Several faculty members subject to recruitment calls from 2020 to 2023 protested their uncertain employment status near the Plan and Budget Organization in Tehran. They held a gathering and sit-in to express their grievances.",
+        "time": "10:42",
+        "ts": 1790073730
       }
     ],
     "language": "en",
-    "packId": "20260922-36",
-    "sequence": 36,
+    "packId": "20260922-37",
+    "sequence": 37,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:31"
+    "updatedAt": "10:42"
   },
   "verified": true
 }
