@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-27 seq=27 exp=1790235699",
+      "advancedStatus": "pack_id=20260922-28 seq=28 exp=1790235908",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:41",
+      "lastChecked": "07:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 07:41",
+    "expiresAt": "2026-09-24 07:45",
     "items": [
       {
         "channel": "iranintl",
@@ -1050,14 +1050,21 @@
         "text": "The Tehran prosecutor announced that 2,191 bank accounts have been blocked and 37 vehicles belonging to 394 people have been seized. These actions were taken due to allegations of cooperating with the enemy related to the war and protests in 1404. This news was announced by the Tehran prosecutor.",
         "time": "07:40",
         "ts": 1790062843
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Turkish Airlines' representative announced that all flights to Iran are suspended until at least April next year. Emirates, Lufthansa, and Austrian Airlines have also temporarily stopped their flights to Iran. Qatar Airways is not flying to Iran due to airspace restrictions.",
+        "time": "07:44",
+        "ts": 1790063054
       }
     ],
     "language": "en",
-    "packId": "20260922-27",
-    "sequence": 27,
+    "packId": "20260922-28",
+    "sequence": 28,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:41"
+    "updatedAt": "07:45"
   },
   "verified": true
 }
