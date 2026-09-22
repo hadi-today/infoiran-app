@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-139 seq=139 exp=1790291392",
+      "advancedStatus": "pack_id=20260922-140 seq=140 exp=1790291744",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:09",
+      "lastChecked": "23:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 23:09",
+    "expiresAt": "2026-09-24 23:15",
     "items": [
       {
         "channel": "iranintl",
@@ -1071,14 +1071,21 @@
         "text": "Morad Vaisi, a senior analyst at Iran International, said that the Islamic Republic's mistakes have caused Iran to confront the world's greatest political, economic, and military power. These confrontations have imposed significant costs on the country and its people. He described these confrontations as futile and costly.",
         "time": "23:08",
         "ts": 1790118534
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Navid Mohibi referred to Prince Reza Pahlavi's interview with Fox News emphasizing the need to end the Islamic Republic. He noted the timing is important as Washington decides between continuing negotiations, increasing pressure, or military options. Prince Reza Pahlavi stresses the issue cannot be resolved with a temporary agreement and long-term interests must be considered.",
+        "time": "23:14",
+        "ts": 1790118885
       }
     ],
     "language": "en",
-    "packId": "20260922-139",
-    "sequence": 139,
+    "packId": "20260922-140",
+    "sequence": 140,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:09"
+    "updatedAt": "23:15"
   },
   "verified": true
 }
