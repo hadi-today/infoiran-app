@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-116 seq=116 exp=1790278453",
+      "advancedStatus": "pack_id=20260922-117 seq=117 exp=1790278604",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:34",
+      "lastChecked": "19:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 19:34",
+    "expiresAt": "2026-09-24 19:36",
     "items": [
       {
         "channel": "iranintl",
@@ -1050,14 +1050,21 @@
         "text": "Mani Safarpour was killed on January 8, 2026, in the Salsabil neighborhood of Tehran by security forces. His father cried at the start of the school year for his son, who was supposed to go to university. A video of this moment has been shared on social media.",
         "time": "19:33",
         "ts": 1790105636
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "At the United Nations assembly, Trump spoke about either reaching an agreement or destroying the Islamic Republic. Reactions from people and critics were expressed regarding the presence of the Islamic Republic's delegation and Trump's statements. Criticisms were also directed at Iran's representatives at the assembly.",
+        "time": "19:36",
+        "ts": 1790105764
       }
     ],
     "language": "en",
-    "packId": "20260922-116",
-    "sequence": 116,
+    "packId": "20260922-117",
+    "sequence": 117,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:34"
+    "updatedAt": "19:36"
   },
   "verified": true
 }
