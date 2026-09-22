@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-30 seq=30 exp=1790236572",
+      "advancedStatus": "pack_id=20260922-31 seq=31 exp=1790236677",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:56",
+      "lastChecked": "07:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 07:56",
+    "expiresAt": "2026-09-24 07:57",
     "items": [
       {
         "channel": "iranintl",
@@ -1071,14 +1071,21 @@
         "text": "The exhibition \"From Evin, with Love\" opened in Munich on the fourth anniversary of the \"Woman, Life, Freedom\" uprising. The exhibition features handicrafts made by female political prisoners in Evin Prison. Organizers consider these works symbols of resistance and the preservation of human dignity.",
         "time": "07:54",
         "ts": 1790063660
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A group of customs clearance agents and company owners held a protest at Khorramshahr customs demanding their demands be addressed. They called for lifting restrictions and preventing monopoly in the car import market. They also requested equal conditions for economic activists.",
+        "time": "07:56",
+        "ts": 1790063798
       }
     ],
     "language": "en",
-    "packId": "20260922-30",
-    "sequence": 30,
+    "packId": "20260922-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:56"
+    "updatedAt": "07:57"
   },
   "verified": true
 }
