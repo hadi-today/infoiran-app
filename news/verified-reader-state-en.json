@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-111 seq=111 exp=1790276787",
+      "advancedStatus": "pack_id=20260922-112 seq=112 exp=1790276999",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:06",
+      "lastChecked": "19:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 19:06",
+    "expiresAt": "2026-09-24 19:09",
     "items": [
       {
         "channel": "iranintl",
@@ -1015,14 +1015,21 @@
         "text": "A citizen reported in a video that the price of a can of tomato paste increased by 70,000 tomans in six days. The video was sent to Iran International. The issue of price increases has attracted attention.",
         "time": "19:04",
         "ts": 1790103879
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Three prisoners were executed in Isfahan and Tabriz prisons. Death sentences for two other suspects in Tehran have been issued and confirmed. The executions took place on the 22nd and 23rd of Shahrivar.",
+        "time": "19:08",
+        "ts": 1790104120
       }
     ],
     "language": "en",
-    "packId": "20260922-111",
-    "sequence": 111,
+    "packId": "20260922-112",
+    "sequence": 112,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:06"
+    "updatedAt": "19:09"
   },
   "verified": true
 }
