@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-72 seq=72 exp=1790262438",
+      "advancedStatus": "pack_id=20260922-73 seq=73 exp=1790263029",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:07",
+      "lastChecked": "15:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 15:07",
+    "expiresAt": "2026-09-24 15:17",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,21 @@
         "text": "Donald Trump stated at the UN General Assembly that the Iranian regime massacred 72,000 people. He also mentioned Iran's support for the October 7 attacks on Israel and the September 11 attacks on the US. Trump added that the only thing not eliminated in Iran is inflation.",
         "time": "15:06",
         "ts": 1790089593
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump called on countries at the UN General Assembly to join the full economic isolation of Iran until it stops attacks on commercial ships and ends support for terrorism. He described the Iranian government as weak and desperate and said that if countries remain united, the world will be freed from the threat of Iranian terrorism. Trump also predicted a sharp drop in oil prices.",
+        "time": "15:16",
+        "ts": 1790090176
       }
     ],
     "language": "en",
-    "packId": "20260922-72",
-    "sequence": 72,
+    "packId": "20260922-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:07"
+    "updatedAt": "15:17"
   },
   "verified": true
 }
