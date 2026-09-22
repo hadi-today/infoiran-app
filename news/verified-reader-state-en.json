@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-127 seq=127 exp=1790282775",
+      "advancedStatus": "pack_id=20260922-128 seq=128 exp=1790283456",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:46",
+      "lastChecked": "20:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 20:46",
+    "expiresAt": "2026-09-24 20:57",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Al-Zaidi, the Prime Minister of Iraq, has committed to disarming proxy militias of the Islamic Republic by the end of July 2027. A 90-day ceasefire period will be implemented first, followed by the start of weapons surrender. The Iraqi government plans to individually integrate members of these groups into the Popular Mobilization Forces.",
-        "time": "20:46",
-        "ts": 1790023567
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A police officer acting as a thief snatched a citizen's mobile phone on the street and fled. The phone was then returned to its owner, who was given advice to prevent theft. The citizen reported feeling fear and a racing heart at that moment.",
-        "time": "20:55",
-        "ts": 1790024101
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1120,14 +1106,21 @@
         "text": "Ruhollah Rahimpour stated that the Iranian diplomatic team faces external pressures and internal opposition regarding an agreement with the US. He said there is still a chance for diplomacy but it requires clear withdrawal in nuclear, missile, and regional policies. These remarks were made in response to the US readiness for talks and the Assembly of Experts' opposition to an honorable peace.",
         "time": "20:44",
         "ts": 1790109856
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fereshteh Pezeshk referred to Donald Trump's remarks about the continuation of missile and drone stockpiling by the Islamic Republic. She mentioned the threat posed by these stockpiles to American forces and the region. She also stated that reaching an agreement is very difficult given the interests of powerful groups in the Islamic Republic.",
+        "time": "20:56",
+        "ts": 1790110587
       }
     ],
     "language": "en",
-    "packId": "20260922-127",
-    "sequence": 127,
+    "packId": "20260922-128",
+    "sequence": 128,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:46"
+    "updatedAt": "20:57"
   },
   "verified": true
 }
