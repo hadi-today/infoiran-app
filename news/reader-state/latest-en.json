@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-131 seq=131 exp=1790284683",
+      "advancedStatus": "pack_id=20260922-132 seq=132 exp=1790285296",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:18",
+      "lastChecked": "21:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 21:18",
+    "expiresAt": "2026-09-24 21:28",
     "items": [
       {
         "channel": "iranintl",
@@ -1113,14 +1113,21 @@
         "text": "Mehdi Mahdavi Azad stated that alongside the ongoing maritime blockade of the Islamic Republic, flights from Iran to Turkey, Oman, and Iraq have been canceled or restricted. He described this simultaneous maritime and air restriction as an unprecedented turning point. This situation will increase the isolation of the Iranian people.",
         "time": "21:16",
         "ts": 1790111819
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump stated in the Gulf Cooperation Council meeting that after constructive talks, there is rapid progress toward an agreement with the Islamic Republic. He threatened Iran with financial isolation and emphasized that Washington will not allow Iran to obtain nuclear weapons. Trump also threatened to destroy Mount Kolang Gezla if any activity is detected there.",
+        "time": "21:27",
+        "ts": 1790112429
       }
     ],
     "language": "en",
-    "packId": "20260922-131",
-    "sequence": 131,
+    "packId": "20260922-132",
+    "sequence": 132,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:18"
+    "updatedAt": "21:28"
   },
   "verified": true
 }
