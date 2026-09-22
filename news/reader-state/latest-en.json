@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-67 seq=67 exp=1790260635",
+      "advancedStatus": "pack_id=20260922-68 seq=68 exp=1790260827",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:37",
+      "lastChecked": "14:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 14:37",
+    "expiresAt": "2026-09-24 14:40",
     "items": [
       {
         "channel": "harana",
@@ -931,14 +931,21 @@
         "text": "A woman was killed by her ex-husband with a firearm in Mohammadshahr, Karaj. The incident took place in Mohammadshahr city. Further details are not available.",
         "time": "14:36",
         "ts": 1790087783
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump spoke at the 81st UN General Assembly about the nuclear threat posed by Iran. He warned that if Iran obtained a nuclear shield, it would carry out widespread terrorist attacks. Trump also emphasized that he has acted against threats and made the US stronger.",
+        "time": "14:39",
+        "ts": 1790087970
       }
     ],
     "language": "en",
-    "packId": "20260922-67",
-    "sequence": 67,
+    "packId": "20260922-68",
+    "sequence": 68,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:37"
+    "updatedAt": "14:40"
   },
   "verified": true
 }
