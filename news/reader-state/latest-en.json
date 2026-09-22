@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-38 seq=38 exp=1790247505",
+      "advancedStatus": "pack_id=20260922-39 seq=39 exp=1790247714",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:58",
+      "lastChecked": "11:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 10:58",
+    "expiresAt": "2026-09-24 11:01",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,21 @@
         "text": "Iraq's aviation authority is awaiting the Prime Minister's decision on halting flights from Iran. Erbil and Sulaymaniyah airports are also waiting for Baghdad's decision. If implemented, flights from Iran to the Kurdistan Region airports will be stopped.",
         "time": "10:57",
         "ts": 1790074659
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A merchant warned about high inflation in Iran in a social media video. He said it is better to stay unemployed at home than to start a business that will destroy your capital. These remarks reflect concerns about the economic situation.",
+        "time": "11:00",
+        "ts": 1790074841
       }
     ],
     "language": "en",
-    "packId": "20260922-38",
-    "sequence": 38,
+    "packId": "20260922-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:58"
+    "updatedAt": "11:01"
   },
   "verified": true
 }
