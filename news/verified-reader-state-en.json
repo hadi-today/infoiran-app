@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-80 seq=80 exp=1790265097",
+      "advancedStatus": "pack_id=20260922-81 seq=81 exp=1790265766",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:51",
+      "lastChecked": "16:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 15:51",
+    "expiresAt": "2026-09-24 16:02",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US Central Command announced that American forces have redirected the routes of 110 commercial ships until September 21 to prevent their entry into or exit from Iranian ports. The USS Rafael Peralta is operating in the area and continues to enforce the blockade of Iran.",
-        "time": "15:53",
-        "ts": 1790006037
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Videos on social media show an unidentified object with colored lights flying over Tehran on Sunday evening. Iranian authorities have not commented on the matter yet. The nature and how the object entered Tehran's airspace remain unknown.",
-        "time": "15:54",
-        "ts": 1790006083
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A group of job-seeking youth in Har city held a protest in front of the Haft Tappeh Sugarcane Agro-Industry Company. They demand job opportunities and the employment of local workers, stating they have been pursuing their demands for over a week without receiving a response. The protesters reject claims of insufficient capacity to hire workers and protest repeated unproductive promises.",
-        "time": "15:58",
-        "ts": 1790006319
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -959,14 +938,21 @@
         "text": "Mojtaba Khamenei wrote in a message that students must fulfill their historic mission for Iran's advancement through scientific progress. He emphasized that the power of knowledge combined with piety is a shield against the ruling system. He also pointed to the unsatisfactory living conditions of teachers and called for improvements.",
         "time": "15:50",
         "ts": 1790092223
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A merchant told Iran International in a video that they are experiencing difficult conditions with the dollar at 230 to 240 thousand tomans. He said they are just struggling to get by. This highlights the economic difficulties faced by merchants.",
+        "time": "16:01",
+        "ts": 1790092871
       }
     ],
     "language": "en",
-    "packId": "20260922-80",
-    "sequence": 80,
+    "packId": "20260922-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:51"
+    "updatedAt": "16:02"
   },
   "verified": true
 }
