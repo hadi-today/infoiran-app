@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260922-119 seq=119 exp=1790278994",
+      "advancedStatus": "pack_id=20260922-120 seq=120 exp=1790280076",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:43",
+      "lastChecked": "20:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-22",
-    "expiresAt": "2026-09-24 19:43",
+    "expiresAt": "2026-09-24 20:01",
     "items": [
       {
         "channel": "iranintl",
@@ -1064,14 +1064,21 @@
         "text": "A video shows the only daughter of Amirhossein Emamjomeh visiting his tomb and blowing out his birthday candle. Amirhossein Emamjomeh was killed by gunfire during the January 8 protests in Tehran. This incident occurred in the green area of Tehran.",
         "time": "19:42",
         "ts": 1790106121
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Armed Forces Headquarters and Khatam al-Anbiya Base described Donald Trump's speech at the UN General Assembly as a tool for domestic propaganda and a sign of the US strategic deadlock. They stated that the Islamic Republic's armed forces are fully prepared to deliver stronger blows to the aggressors. They also expressed hope that the message of the Islamic Republic would reach the world at the UN.",
+        "time": "20:00",
+        "ts": 1790107214
       }
     ],
     "language": "en",
-    "packId": "20260922-119",
-    "sequence": 119,
+    "packId": "20260922-120",
+    "sequence": 120,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:43"
+    "updatedAt": "20:01"
   },
   "verified": true
 }
