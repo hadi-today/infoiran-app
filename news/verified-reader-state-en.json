@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-143 seq=143 exp=1790370355",
+      "advancedStatus": "pack_id=20260923-144 seq=144 exp=1790371505",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:05",
+      "lastChecked": "21:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 21:05",
+    "expiresAt": "2026-09-25 21:25",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Kaja Kallas, the EU foreign policy chief, raised the issue of internal repression and increased executions in Iran during her meeting with Abbas Araghchi. They also discussed diplomatic prospects for ending the US-Iran war and fully reopening the Strait of Hormuz. Kallas emphasized that shipping should be free and unobstructed in both the Strait of Hormuz and Bab-el-Mandeb.",
-        "time": "21:07",
-        "ts": 1790111242
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "France, in coordination with the United States, has begun drafting a UN Security Council resolution to establish an international mission to resume traffic in the Strait of Hormuz. This move followed a meeting between Macron and Trump in New York. The resolution aims to restore navigation in the Strait of Hormuz.",
-        "time": "21:12",
-        "ts": 1790111565
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mehdi Mahdavi Azad stated that alongside the ongoing maritime blockade of the Islamic Republic, flights from Iran to Turkey, Oman, and Iraq have been canceled or restricted. He described this simultaneous maritime and air restriction as an unprecedented turning point. This situation will increase the isolation of the Iranian people.",
-        "time": "21:16",
-        "ts": 1790111819
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1176,14 +1155,21 @@
         "text": "A strong explosion occurred in Bandar Abbas at 00:13, and its shockwave was felt. The sound of the explosion was also heard from afar at 00:24. Windows in Bandar Abbas shook strongly around midnight.",
         "time": "21:05",
         "ts": 1790197505
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reza Pahlavi called for a change in the Western approach, urging support for the Iranian people instead of negotiations with the regime. He outlined the negative consequences of the Islamic Republic and proposed using Iran's frozen assets to support the people. He also stated that the removal of the Islamic Republic could change Iran's regional relations.",
+        "time": "21:24",
+        "ts": 1790198660
       }
     ],
     "language": "en",
-    "packId": "20260923-143",
-    "sequence": 143,
+    "packId": "20260923-144",
+    "sequence": 144,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:05"
+    "updatedAt": "21:25"
   },
   "verified": true
 }
