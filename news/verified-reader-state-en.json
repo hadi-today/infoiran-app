@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-25 seq=25 exp=1790323246",
+      "advancedStatus": "pack_id=20260923-26 seq=26 exp=1790323578",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:00",
+      "lastChecked": "08:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 08:00",
+    "expiresAt": "2026-09-25 08:06",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A video shows a protester in Shiraz writing the slogan \"Long live the Shah\" next to the Lion and Sun flag on a wall. This video was sent to Iran International. The incident took place in the city of Shiraz.",
-        "time": "08:02",
-        "ts": 1790064135
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1029,14 +1022,21 @@
         "text": "Sajad Bayat's sister walked at night in the streets of Karaj holding his picture. She showed his photo to passersby. Sajad Bayat was killed on January 8, 2026, in Gohardasht, Karaj.",
         "time": "07:59",
         "ts": 1790150397
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Leila Morvati said governments decide on Iran sanctions based on their interests. She added that Iraq and Turkey will be pressured by the US. Russia and China may ignore some of the sanctions.",
+        "time": "08:05",
+        "ts": 1790150731
       }
     ],
     "language": "en",
-    "packId": "20260923-25",
-    "sequence": 25,
+    "packId": "20260923-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:00"
+    "updatedAt": "08:06"
   },
   "verified": true
 }
