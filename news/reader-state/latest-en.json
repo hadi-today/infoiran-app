@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-52 seq=52 exp=1790334274",
+      "advancedStatus": "pack_id=20260923-53 seq=53 exp=1790335110",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:04",
+      "lastChecked": "11:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 11:04",
+    "expiresAt": "2026-09-25 11:18",
     "items": [
       {
         "channel": "harana",
@@ -1169,14 +1169,21 @@
         "text": "Romina Goli, a Bahá'í citizen residing in Sari, was sentenced by the Revolutionary Court of the city to five years, seven months, and sixteen days in prison and ten years of social deprivation. Her charges include educational or promotional activities contrary to Islamic law and propaganda against the regime. This sentence was issued by the second branch of the Revolutionary Court of Sari.",
         "time": "11:02",
         "ts": 1790161351
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "At the start of the school year, issues such as the non-delivery of textbooks, lack of teachers in classes, and security pressures in schools have been reported. In some areas, students have faced threats like negative impacts on their grades. Additionally, the presence of military and security forces in schools and increased student density are other mentioned problems.",
+        "time": "11:17",
+        "ts": 1790162257
       }
     ],
     "language": "en",
-    "packId": "20260923-52",
-    "sequence": 52,
+    "packId": "20260923-53",
+    "sequence": 53,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:04"
+    "updatedAt": "11:18"
   },
   "verified": true
 }
