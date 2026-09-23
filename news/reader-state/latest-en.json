@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-01 seq=1 exp=1790294696",
+      "advancedStatus": "pack_id=20260923-02 seq=2 exp=1790297740",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:04",
+      "lastChecked": "00:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 00:04",
+    "expiresAt": "2026-09-25 00:55",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A digital traffic sign on the 405 freeway in Los Angeles was hacked to display the address of the Persian-language website \"Gorokan.\" The California Department of Transportation confirmed the unauthorized message and investigations are ongoing. The identity of the perpetrators is unknown, and the connection to the Islamic Republic has not been independently confirmed.",
-        "time": "00:04",
-        "ts": 1790035465
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Financial Times reported that Gulf Arab countries are seeking to reset relations with Tehran. The UAE calls for a new approach and Qatar demands the creation of a regional security framework with Iran. Saudi Arabia is also considering a non-aggression pact with Iran.",
-        "time": "00:36",
-        "ts": 1790037400
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1078,14 +1064,21 @@
         "text": "Steve Witkoff, the US President's special representative, reported extensive talks with the Islamic Republic delegation on the sidelines of the UN General Assembly. Mediators shuttled between the two sides throughout the day and successfully completed one round of talks. Witkoff stated that the mediators will continue their efforts.",
         "time": "00:04",
         "ts": 1790121844
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Danny Danon, Israel's ambassador to the UN, said Israel knows where the leaders of the Islamic Republic are hiding and what actions they are taking. He warned that if the Islamic Republic attacks Israel, it will take only a few days to reach its leaders. These remarks were made in an interview with Fox News.",
+        "time": "00:54",
+        "ts": 1790124882
       }
     ],
     "language": "en",
-    "packId": "20260923-01",
-    "sequence": 1,
+    "packId": "20260923-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:04"
+    "updatedAt": "00:55"
   },
   "verified": true
 }
