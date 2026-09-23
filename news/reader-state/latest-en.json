@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-57 seq=57 exp=1790337908",
+      "advancedStatus": "pack_id=20260923-58 seq=58 exp=1790338031",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:05",
+      "lastChecked": "12:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 12:05",
+    "expiresAt": "2026-09-25 12:07",
     "items": [
       {
         "channel": "harana",
@@ -1155,14 +1155,28 @@
         "text": "The Iranian electronic football team won the gold medal by defeating Malaysia in the final of the Nagoya Asian Games. The team, consisting of Hassan Pajani and Abolfazl Aghaei-Nasab, played in the final match. They had previously qualified for the final by defeating Japan.",
         "time": "12:05",
         "ts": 1790165100
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Nawaf Salam, the Prime Minister of Lebanon, met with international leaders and officials on the sidelines of the UN General Assembly in New York. He discussed regional developments and strengthening cooperation. More details were provided by the Iran International reporter.",
+        "time": "12:05",
+        "ts": 1790165111
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Shahriar Shams, a expelled student, remains detained in Damghan prison after 45 days. He faces charges including propaganda against the regime and conspiracy against national security. His situation in prison remains uncertain.",
+        "time": "12:05",
+        "ts": 1790165155
       }
     ],
     "language": "en",
-    "packId": "20260923-57",
-    "sequence": 57,
+    "packId": "20260923-58",
+    "sequence": 58,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:05"
+    "updatedAt": "12:07"
   },
   "verified": true
 }
