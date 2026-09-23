@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-46 seq=46 exp=1790331737",
+      "advancedStatus": "pack_id=20260923-47 seq=47 exp=1790331844",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:22",
+      "lastChecked": "10:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 10:22",
+    "expiresAt": "2026-09-25 10:24",
     "items": [
       {
         "channel": "iranintl",
@@ -1162,14 +1162,21 @@
         "text": "Emmanuel Macron, the President of France, stated at the UN General Assembly that reopening the Strait of Hormuz is a priority. He announced that France has formed an independent and multinational coalition to restore freedom of navigation. Macron also warned against turning the Strait of Hormuz into a tool for extortion.",
         "time": "10:20",
         "ts": 1790158849
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Before the match between Iran's U23 team and North Korea at the Nagoya Asian Games, Iranians living in Japan gathered outside the stadium. They held pictures of the martyrs of the National Iranian Revolution and protested against the Islamic Republic. This gathering was reported by Alireza Modiri.",
+        "time": "10:22",
+        "ts": 1790158957
       }
     ],
     "language": "en",
-    "packId": "20260923-46",
-    "sequence": 46,
+    "packId": "20260923-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:22"
+    "updatedAt": "10:24"
   },
   "verified": true
 }
