@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-02 seq=2 exp=1790297740",
+      "advancedStatus": "pack_id=20260923-03 seq=3 exp=1790300104",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:55",
+      "lastChecked": "01:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 00:55",
+    "expiresAt": "2026-09-25 01:35",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of US Democratic lawmakers asked Donald Trump to discuss China's support for Iran in the war during his meeting with Xi Jinping. They referred to reports indicating Chinese companies provided satellite images to Iran. The US State Department has sanctioned four Chinese entities over this issue.",
-        "time": "01:17",
-        "ts": 1790039865
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Emmanuel Macron announced his meeting with Donald Trump in New York. They decided to cooperate to reduce tensions in energy markets and protect critical infrastructure in the Middle East. Macron also emphasized the need to start serious negotiations for peace between Russia and Ukraine.",
-        "time": "01:26",
-        "ts": 1790040407
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -1071,14 +1057,21 @@
         "text": "Danny Danon, Israel's ambassador to the UN, said Israel knows where the leaders of the Islamic Republic are hiding and what actions they are taking. He warned that if the Islamic Republic attacks Israel, it will take only a few days to reach its leaders. These remarks were made in an interview with Fox News.",
         "time": "00:54",
         "ts": 1790124882
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Qalamro Refah website reported that the number of private schools in Iran has increased 64-fold over three decades, while the share of education in public government spending dropped from 19% to 10%. According to the report, the minimum tuition for private schools is 30 million tomans, and the maximum in Tehran for high school is 220 million tomans. Additionally, the annual minimum wage of workers is less than the maximum tuition.",
+        "time": "01:34",
+        "ts": 1790127255
       }
     ],
     "language": "en",
-    "packId": "20260923-02",
-    "sequence": 2,
+    "packId": "20260923-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:55"
+    "updatedAt": "01:35"
   },
   "verified": true
 }
