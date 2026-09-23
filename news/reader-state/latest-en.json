@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-151 seq=151 exp=1790374878",
+      "advancedStatus": "pack_id=20260923-152 seq=152 exp=1790375044",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:21",
+      "lastChecked": "22:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 22:21",
+    "expiresAt": "2026-09-25 22:24",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The annual tour of the Islamic Republic to New York has started with flights, hotel stays, speeches, and meetings. At the end of the trip, it is usually said that the talks were useful and constructive. People are questioning what their share of this trip is and whether tensions will decrease or any decisions will be made that affect their lives.",
-        "time": "22:22",
-        "ts": 1790115722
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1190,14 +1183,21 @@
         "text": "Morad Vaisi, a senior analyst at Iran International, stated that in the remaining 40 days until the US elections, Arab countries, the US, and Israel will move towards coordination for an attack on the Islamic Republic. He pointed to a recent joint meeting of General Brad Cooper with commanders of the Israeli and Arab armies. This meeting is a sign of planning for this attack.",
         "time": "22:19",
         "ts": 1790201952
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Tankers Tracker announced that nearly six million barrels of seized Iranian crude oil are being transferred from the Atlantic Ocean to the United States. The value of this shipment is estimated at around 600 million dollars. No further details about the tankers, seizure location, or arrival time have been provided.",
+        "time": "22:23",
+        "ts": 1790202199
       }
     ],
     "language": "en",
-    "packId": "20260923-151",
-    "sequence": 151,
+    "packId": "20260923-152",
+    "sequence": 152,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:21"
+    "updatedAt": "22:24"
   },
   "verified": true
 }
