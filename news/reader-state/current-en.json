@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-81 seq=81 exp=1790347410",
+      "advancedStatus": "pack_id=20260923-82 seq=82 exp=1790347529",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:43",
+      "lastChecked": "14:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 14:43",
+    "expiresAt": "2026-09-25 14:45",
     "items": [
       {
         "channel": "iranintl",
@@ -1162,14 +1162,21 @@
         "text": "Masoud Pezeshkian stated at the UN General Assembly that peace must be for everyone and that he is ready for dialogue but will not accept the language of force. He described Trump's remarks as a sign of bullying and contrary to the UN Charter. Pezeshkian emphasized that the Iranian nation will not bow to force and will make aggressors regret their actions.",
         "time": "14:40",
         "ts": 1790174458
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The prosecutor of Razan announced the arrest of a citizen for sending images of sensitive locations to foreign opposition media. This incident occurred in Razan county. Further details have not been disclosed.",
+        "time": "14:43",
+        "ts": 1790174613
       }
     ],
     "language": "en",
-    "packId": "20260923-81",
-    "sequence": 81,
+    "packId": "20260923-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:43"
+    "updatedAt": "14:45"
   },
   "verified": true
 }
