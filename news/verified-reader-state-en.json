@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-90 seq=90 exp=1790351511",
+      "advancedStatus": "pack_id=20260923-91 seq=91 exp=1790351790",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:51",
+      "lastChecked": "15:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 15:51",
+    "expiresAt": "2026-09-25 15:56",
     "items": [
       {
         "channel": "iranintl",
@@ -1134,14 +1134,28 @@
         "text": "Mohsen Rezaei stated that if neighboring countries ban Iranian flights and cooperate with the US, flights at their airports will be stopped. He warned that Iran will react if these countries cooperate with the US. Rezaei said Iran will not watch neighboring countries in this matter.",
         "time": "15:50",
         "ts": 1790178658
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Javier Milei, the president of Argentina, condemned Iran's attacks against Israel at the UN General Assembly. He declared the IRGC a terrorist organization and is pursuing justice for the terrorist attacks in Argentina in 1992 and 1994. He also stated that Argentina has decided to cooperate with the world.",
+        "time": "15:55",
+        "ts": 1790178926
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US Secretary of State said at the UN General Assembly that reaching an agreement with Iran requires prolonged effort and negotiation. He also stated that Donald Trump has a military option available. Meanwhile, Masoud Pezeshkian gave a speech at the UN General Assembly.",
+        "time": "15:55",
+        "ts": 1790178939
       }
     ],
     "language": "en",
-    "packId": "20260923-90",
-    "sequence": 90,
+    "packId": "20260923-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:51"
+    "updatedAt": "15:56"
   },
   "verified": true
 }
