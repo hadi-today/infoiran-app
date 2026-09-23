@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-103 seq=103 exp=1790354072",
+      "advancedStatus": "pack_id=20260923-104 seq=104 exp=1790354204",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:34",
+      "lastChecked": "16:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 16:34",
+    "expiresAt": "2026-09-25 16:36",
     "items": [
       {
         "channel": "iranintl",
@@ -1211,14 +1211,21 @@
         "text": "Marco Rubio, the US Secretary of State, announced ongoing consultations with mediators regarding Iran on the sidelines of the UN General Assembly meetings in New York. He stated that preventing Tehran from acquiring nuclear weapons is the most crucial issue in any potential agreement, adding that Donald Trump is still ready to reach a deal with Iran. Rubio also mentioned the Strait of Hormuz, stating that protecting shipping and keeping the strait open are among the US military's missions.",
         "time": "16:33",
         "ts": 1790181217
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Viewers criticized the high cost of medicine and difficulties in covering treatment expenses. One said they struggle to buy medicine, and another mentioned that some people spend half their salary on medicine.",
+        "time": "16:34",
+        "ts": 1790181264
       }
     ],
     "language": "en",
-    "packId": "20260923-103",
-    "sequence": 103,
+    "packId": "20260923-104",
+    "sequence": 104,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:34"
+    "updatedAt": "16:36"
   },
   "verified": true
 }
