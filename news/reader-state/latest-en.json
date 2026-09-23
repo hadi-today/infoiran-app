@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-124 seq=124 exp=1790361444",
+      "advancedStatus": "pack_id=20260923-125 seq=125 exp=1790361789",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:37",
+      "lastChecked": "18:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 18:37",
+    "expiresAt": "2026-09-25 18:43",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Donald Trump announced that Steve Witkoff and Jared Kushner met with members of the Islamic Republic delegation on the sidelines of the UN General Assembly. The meeting lasted three hours and Trump described it as positive. Another meeting between the two sides will be held in the near future.",
-        "time": "18:38",
-        "ts": 1790102304
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The spokesperson of the Civil Aviation Organization announced that flights from Iran to Baghdad and Muscat have been canceled. Baghdad airport will not accept Iranian flights from October 1st, and negotiations to transfer flights to Najaf airport are ongoing. Additionally, Muscat airport is not accepting Iranian passengers, and discussions on this matter continue.",
-        "time": "18:38",
-        "ts": 1790102325
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Khabat Dehdar, a citizen from Sanandaj, has been sentenced by the judiciary to one year of suspended imprisonment and a fine.",
-        "time": "18:40",
-        "ts": 1790102441
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1232,14 +1211,21 @@
         "text": "Three unidentified men were seen early Wednesday near a hotel in New York where Benjamin Netanyahu is expected to stay. The men fled the scene in two vehicles. New York police are investigating the incident.",
         "time": "18:35",
         "ts": 1790188553
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US Central Command announced that it has redirected 115 commercial ships to prevent their entry to or exit from Iranian ports and coastal areas. This action was taken until Wednesday, 23 September. CENTCOM stated that the purpose was to strictly enforce the \"Steel Wall blockade.\"",
+        "time": "18:41",
+        "ts": 1790188916
       }
     ],
     "language": "en",
-    "packId": "20260923-124",
-    "sequence": 124,
+    "packId": "20260923-125",
+    "sequence": 125,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:37"
+    "updatedAt": "18:43"
   },
   "verified": true
 }
