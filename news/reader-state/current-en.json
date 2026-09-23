@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-26 seq=26 exp=1790323578",
+      "advancedStatus": "pack_id=20260923-27 seq=27 exp=1790324019",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:06",
+      "lastChecked": "08:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 08:06",
+    "expiresAt": "2026-09-25 08:13",
     "items": [
       {
         "channel": "iranintl",
@@ -1029,14 +1029,21 @@
         "text": "Leila Morvati said governments decide on Iran sanctions based on their interests. She added that Iraq and Turkey will be pressured by the US. Russia and China may ignore some of the sanctions.",
         "time": "08:05",
         "ts": 1790150731
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran's U23 football team lost 4-1 to North Korea in their third match at the Nagoya Asian Games. With one win, one draw, and one loss, the team finished with 4 points and failed to advance to the knockout stage. This report was provided by Alireza Modiri from Iran International.",
+        "time": "08:12",
+        "ts": 1790151163
       }
     ],
     "language": "en",
-    "packId": "20260923-26",
-    "sequence": 26,
+    "packId": "20260923-27",
+    "sequence": 27,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:06"
+    "updatedAt": "08:13"
   },
   "verified": true
 }
