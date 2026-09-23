@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-138 seq=138 exp=1790365911",
+      "advancedStatus": "pack_id=20260923-139 seq=139 exp=1790366460",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:51",
+      "lastChecked": "20:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 19:51",
+    "expiresAt": "2026-09-25 20:01",
     "items": [
       {
         "channel": "iranintl",
@@ -1204,14 +1204,21 @@
         "text": "Danny Danon, Israel's ambassador to the UN, stated that Iran's nuclear and missile capabilities have largely diminished. He said Israel's mission regarding Iran is not yet complete and that Israel will continue fighting Hezbollah, Hamas, and the Houthis. Danon also mentioned Israel's belief in peaceful negotiations with Damascus but expressed concerns about certain activities.",
         "time": "19:50",
         "ts": 1790193059
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Jose Raul Molino, the President of Panama, spoke about the situation in the Strait of Hormuz at the UN General Assembly. He described the situation as a sign of inability to enforce international laws and resolve crises early. He also emphasized that this situation has caused issues such as attacks on innocent people and increased costs of food supplies.",
+        "time": "20:00",
+        "ts": 1790193606
       }
     ],
     "language": "en",
-    "packId": "20260923-138",
-    "sequence": 138,
+    "packId": "20260923-139",
+    "sequence": 139,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:51"
+    "updatedAt": "20:01"
   },
   "verified": true
 }
