@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-71 seq=71 exp=1790343266",
+      "advancedStatus": "pack_id=20260923-72 seq=72 exp=1790343400",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:34",
+      "lastChecked": "13:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 13:34",
+    "expiresAt": "2026-09-25 13:36",
     "items": [
       {
         "channel": "iranintl",
@@ -1197,14 +1197,21 @@
         "text": "A number of Iranians living in Portugal gathered on September 22 in front of the US embassy in Lisbon. They expressed their support for Ali Zarei and other political prisoners in Iran. This was reported through videos received by Iran International.",
         "time": "13:33",
         "ts": 1790170421
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad al-Sharrah stated that Syria has begun the reconstruction process and rebuilt military and civilian institutions. He reported 500 airstrikes, over 1,200 infiltrations, and 300 arrests in Syria. Al-Sharrah called for Israeli forces to withdraw to the lines of December 8, 1974, rejecting Israel's attempt to impose the status quo.",
+        "time": "13:35",
+        "ts": 1790170539
       }
     ],
     "language": "en",
-    "packId": "20260923-71",
-    "sequence": 71,
+    "packId": "20260923-72",
+    "sequence": 72,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:34"
+    "updatedAt": "13:36"
   },
   "verified": true
 }
