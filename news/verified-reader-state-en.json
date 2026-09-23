@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-159 seq=159 exp=1790378497",
+      "advancedStatus": "pack_id=20260923-160 seq=160 exp=1790379642",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:21",
+      "lastChecked": "23:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 23:21",
+    "expiresAt": "2026-09-25 23:40",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Forough Kanani, a sociology researcher, commented on a clash involving a compulsory hijab supporter and women in Mashhad. She stated that those who once represented power now face different social conditions. The aggressive reactions of these supporters should be understood within the context of changing social power dynamics.",
-        "time": "23:34",
-        "ts": 1790120064
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1211,14 +1204,21 @@
         "text": "Heavy clashes involving heavy weapons were reported early Thursday in the Dab area of Saravan. Hundreds of military forces have besieged Razi Hospital, allowing only ambulances to pass. Additionally, patients in the maternity ward were discharged without consent.",
         "time": "23:20",
         "ts": 1790205653
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Financial Action Task Force reported that 139 companies in Turkey are suspected of potentially circumventing sanctions on Iran. The organization also announced the halt of electronic shipments and turbojet engines to Iran. They called for stronger enforcement of financial sanctions against Iran in Turkey.",
+        "time": "23:39",
+        "ts": 1790206797
       }
     ],
     "language": "en",
-    "packId": "20260923-159",
-    "sequence": 159,
+    "packId": "20260923-160",
+    "sequence": 160,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:21"
+    "updatedAt": "23:40"
   },
   "verified": true
 }
