@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-39 seq=39 exp=1790330141",
+      "advancedStatus": "pack_id=20260923-40 seq=40 exp=1790330389",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:55",
+      "lastChecked": "09:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 09:55",
+    "expiresAt": "2026-09-25 09:59",
     "items": [
       {
         "channel": "iranintl",
@@ -1134,14 +1134,21 @@
         "text": "Ameneh Abdollahi, an athletics coach in Sistan and Baluchestan, posted a video showing that the only outdoor track in the province is in a dire condition. The tartan flooring has many cracks. This issue has raised concerns about the state of sports in the province.",
         "time": "09:54",
         "ts": 1790157278
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Rouhollah Mousavi Beidli stated that ships of countries that close their airspace to Iranian airlines will not be allowed to pass through the Strait of Hormuz. He added that countries following the US in this action will pay a heavy price. He also noted that the US has not achieved its goals against Iran since the revolution.",
+        "time": "09:58",
+        "ts": 1790157533
       }
     ],
     "language": "en",
-    "packId": "20260923-39",
-    "sequence": 39,
+    "packId": "20260923-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:55"
+    "updatedAt": "09:59"
   },
   "verified": true
 }
