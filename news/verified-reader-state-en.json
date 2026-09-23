@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-85 seq=85 exp=1790349909",
+      "advancedStatus": "pack_id=20260923-86 seq=86 exp=1790350244",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:25",
+      "lastChecked": "15:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 15:25",
+    "expiresAt": "2026-09-25 15:30",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump did not answer a question from an Iran International reporter about his plans regarding Iran upon arriving at the UN General Assembly. He expressed happiness about his presence at the UN and praised the state of the US. He also had a verbal exchange with a CNN reporter.",
-        "time": "15:25",
-        "ts": 1790090708
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump said at the UN General Assembly that a decision must be made between reaching an agreement with Iran or destroying the Islamic Republic. He stated he could quickly destroy the Islamic Republic. Trump made these remarks criticizing the lack of agreement with the Islamic Republic.",
-        "time": "15:26",
-        "ts": 1790090760
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Abbas Araghchi, Iran's Foreign Minister, along with his deputy Kazem Gharibabadi, arrived at the United Nations headquarters in New York on Tuesday, September 21.",
-        "time": "15:26",
-        "ts": 1790090808
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1148,14 +1127,21 @@
         "text": "A senior Iranian official told Reuters on Wednesday, 1 Mehr, that Tehran is reviewing Washington's response to the Islamic Republic's proposal to end the hostilities. He added that in indirect talks between Iran and the US on Tuesday, 31 Shahrivar, the reopening of the Strait of Hormuz and the lifting of the American naval blockade were discussed, and Iran proposed that if military pressure is reduced and the blockade of Iran's ports is lifted, the Strait of Hormuz would be reopened within seven days. According to the official, there are still many differences between the positions of Tehran and Washington, but the diplomatic process continues.",
         "time": "15:24",
         "ts": 1790177057
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohsen Rezaee stated that Iran has shot down about 180 modern American drones. He said that negotiations with the US will not take place until the US meets Iran's conditions and that the Strait of Hormuz will remain closed. He also warned that if neighboring countries cooperate with the US to stop Iran's flights, their airports will be unable to operate.",
+        "time": "15:29",
+        "ts": 1790177393
       }
     ],
     "language": "en",
-    "packId": "20260923-85",
-    "sequence": 85,
+    "packId": "20260923-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:25"
+    "updatedAt": "15:30"
   },
   "verified": true
 }
