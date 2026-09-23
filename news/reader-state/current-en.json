@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-54 seq=54 exp=1790335975",
+      "advancedStatus": "pack_id=20260923-55 seq=55 exp=1790336100",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:32",
+      "lastChecked": "11:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 11:32",
+    "expiresAt": "2026-09-25 11:35",
     "items": [
       {
         "channel": "iranintl",
@@ -1176,14 +1176,21 @@
         "text": "On the evening of September 22, security forces closed part of a street in the Sadeghieh neighborhood of Tehran for a government gathering. This caused a queue at the Kashani gas station and disrupted traffic in the area. A video of the situation was sent to Iran International by a citizen.",
         "time": "11:32",
         "ts": 1790163120
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Flights from Iran to Azerbaijan, Iraq, Oman, and Turkey have been suspended or halted due to new US sanctions. Several foreign airlines have also stopped their flights to Iran. This occurred simultaneously with new sanctions against the Islamic Republic's aviation sector.",
+        "time": "11:34",
+        "ts": 1790163265
       }
     ],
     "language": "en",
-    "packId": "20260923-54",
-    "sequence": 54,
+    "packId": "20260923-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:32"
+    "updatedAt": "11:35"
   },
   "verified": true
 }
