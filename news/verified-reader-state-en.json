@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-100 seq=100 exp=1790353573",
+      "advancedStatus": "pack_id=20260923-102 seq=102 exp=1790353900",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:26",
+      "lastChecked": "16:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 16:26",
+    "expiresAt": "2026-09-25 16:31",
     "items": [
       {
         "channel": "iranintl",
@@ -1183,14 +1183,35 @@
         "text": "Four Iranian sanda fighters reached the finals in the Wushu competition at the Nagoya Asian Games, securing at least silver medals. Iranian representatives in the taolu section had previously been eliminated. This report was provided by Alireza Modiri from Iran International.",
         "time": "16:23",
         "ts": 1790180580
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Minister of Sports and Youth has requested the Armed Forces Headquarters to exempt electronic football champions at the Nagoya Asian Games from military service. Electronic football is currently not included in the list of sports covered by the 'Champion Soldier' regulation. The Iranian electronic football team won the gold medal at the 2026 Nagoya Asian Games.",
+        "time": "16:28",
+        "ts": 1790180915
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Job-seeking citizens from the villages of Moran and Amisheh Bozorg gathered in front of the Dabbol Khazaei Agro-Industry Company in Ahvaz. They demand the hiring of local workers in this industrial unit. The gathering took place today.",
+        "time": "16:29",
+        "ts": 1790180971
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abbas Araghchi, Iran's foreign minister, met with Steve Witkoff, the special representative of Donald Trump, without coordination or approval from responsible bodies including the Supreme National Security Council. Mohsen Rezaee stated that Iran's seven conditions were to be communicated through intermediaries and no permission was given for direct interaction. Tasnim News Agency criticized this action as against national interests and demanded accountability from Araghchi.",
+        "time": "16:30",
+        "ts": 1790181020
       }
     ],
     "language": "en",
-    "packId": "20260923-100",
-    "sequence": 100,
+    "packId": "20260923-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:26"
+    "updatedAt": "16:31"
   },
   "verified": true
 }
