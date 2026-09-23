@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-86 seq=86 exp=1790350244",
+      "advancedStatus": "pack_id=20260923-87 seq=87 exp=1790350431",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:30",
+      "lastChecked": "15:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 15:30",
+    "expiresAt": "2026-09-25 15:33",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The family of Rahim Kalij, a protester killed during the Mahsa uprising, fed dogs on his fourth anniversary. Rahim Kalij was 27 years old and was shot dead by government agents in Qaemshahr on September 21, 2022.",
-        "time": "15:31",
-        "ts": 1790091064
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1134,14 +1127,21 @@
         "text": "Mohsen Rezaee stated that Iran has shot down about 180 modern American drones. He said that negotiations with the US will not take place until the US meets Iran's conditions and that the Strait of Hormuz will remain closed. He also warned that if neighboring countries cooperate with the US to stop Iran's flights, their airports will be unable to operate.",
         "time": "15:29",
         "ts": 1790177393
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The police commander of Rezvanshahr announced the arrest of four citizens for causing public disturbance on social media. These arrests took place in Rezvanshahr county. Further details have not been disclosed.",
+        "time": "15:33",
+        "ts": 1790177588
       }
     ],
     "language": "en",
-    "packId": "20260923-86",
-    "sequence": 86,
+    "packId": "20260923-87",
+    "sequence": 87,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:30"
+    "updatedAt": "15:33"
   },
   "verified": true
 }
