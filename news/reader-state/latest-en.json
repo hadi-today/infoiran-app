@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-76 seq=76 exp=1790345195",
+      "advancedStatus": "pack_id=20260923-77 seq=77 exp=1790345510",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:06",
+      "lastChecked": "14:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 14:06",
+    "expiresAt": "2026-09-25 14:11",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Trump, in his speech at the UN General Assembly, referred to the 25th anniversary of the 9/11 attacks and the third anniversary of the October 7 attack in Israel. He accused Iran of financially supporting terrorists and mentioned the internal massacres in the country. Trump warned about the potential dangers if the Iranian regime acquires nuclear weapons.",
-        "time": "14:07",
-        "ts": 1790086068
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1162,14 +1155,21 @@
         "text": "Amir Mohammad Shakerami's sister asked students to enter the classroom in memory of her brother who loved school. Amir Mohammad, 14 years old, disappeared during protests in Qods city. His body was returned to the family 60 days later.",
         "time": "14:04",
         "ts": 1790172281
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The second day of the 81st United Nations General Assembly is underway. Masoud Pezeshkian will speak at the assembly one day after Donald Trump's warnings to Tehran. An interview with Marzieh Hosseini provides more details about the event.",
+        "time": "14:10",
+        "ts": 1790172647
       }
     ],
     "language": "en",
-    "packId": "20260923-76",
-    "sequence": 76,
+    "packId": "20260923-77",
+    "sequence": 77,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:06"
+    "updatedAt": "14:11"
   },
   "verified": true
 }
