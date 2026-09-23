@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-92 seq=92 exp=1790351916",
+      "advancedStatus": "pack_id=20260923-93 seq=93 exp=1790352019",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:58",
+      "lastChecked": "16:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 15:58",
+    "expiresAt": "2026-09-25 16:00",
     "items": [
       {
         "channel": "iranintl",
@@ -1148,14 +1148,21 @@
         "text": "The US Secretary of State said at the UN General Assembly that reaching an agreement with Iran requires prolonged effort and negotiation. He also stated that Donald Trump has a military option available. Meanwhile, Masoud Pezeshkian gave a speech at the UN General Assembly.",
         "time": "15:55",
         "ts": 1790178939
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Nazanin Zahra Salehi, a 13-year-old teenager, died on January 8, 2026, in Kermanshah due to direct shooting by government forces. A video showing her mother's distress has been released. The mother calls her daughter's name beside her belongings and pictures.",
+        "time": "15:59",
+        "ts": 1790179148
       }
     ],
     "language": "en",
-    "packId": "20260923-92",
-    "sequence": 92,
+    "packId": "20260923-93",
+    "sequence": 93,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:58"
+    "updatedAt": "16:00"
   },
   "verified": true
 }
