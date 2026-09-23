@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-11 seq=11 exp=1790314890",
+      "advancedStatus": "pack_id=20260923-12 seq=12 exp=1790315356",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:41",
+      "lastChecked": "05:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 05:41",
+    "expiresAt": "2026-09-25 05:49",
     "items": [
       {
         "channel": "iranintl",
@@ -1036,14 +1036,21 @@
         "text": "Shayan Samiei stated that the Islamic Republic pursues three main goals at the United Nations: narrative warfare, behind-the-scenes diplomacy, and bargaining to reduce pressure. He added that Tehran is trying to prevent diplomatic isolation by involving Pezeshkian and Araqchi. The aim is also to turn the current crisis into leverage for negotiation.",
         "time": "05:40",
         "ts": 1790142038
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump threatened the Islamic Republic on the first day of the UN General Assembly. He said if any activity is observed in the underground complex of Kuh-e-Kalang, American forces will destroy it. This site is near the Natanz nuclear facilities.",
+        "time": "05:48",
+        "ts": 1790142503
       }
     ],
     "language": "en",
-    "packId": "20260923-11",
-    "sequence": 11,
+    "packId": "20260923-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:41"
+    "updatedAt": "05:49"
   },
   "verified": true
 }
