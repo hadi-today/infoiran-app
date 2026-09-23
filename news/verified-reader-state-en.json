@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-68 seq=68 exp=1790341758",
+      "advancedStatus": "pack_id=20260923-69 seq=69 exp=1790342322",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:09",
+      "lastChecked": "13:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 13:09",
+    "expiresAt": "2026-09-25 13:18",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mehdi Taj, head of Iran's Football Federation, confirmed indirect pressures to exclude the national team from the Asian Cup. FIFA has raised questions on this matter, and documented responses have been provided. Taj emphasized the need to comply with FIFA rules domestically to avoid giving others any excuse.",
-        "time": "13:14",
-        "ts": 1790082844
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Israeli Prime Minister accused the New York mayor of supporting Hamas and escalating tensions against Jews in a video before the UN General Assembly. He stated he will speak about Israeli soldiers and the mayor at the UN. Netanyahu expressed this accusation with the phrase \"shame on you.\"",
-        "time": "13:16",
-        "ts": 1790082963
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1211,14 +1197,21 @@
         "text": "The appellate court rulings in the Amarat Robro case have been issued. Ghazal Nahani, Hiva Sifizadeh, and Hooman Memarpanahi were each sentenced to pay 50 million tomans in fines and provide three months of free public services to children under the Welfare Organization. These rulings replaced their previous prison sentences.",
         "time": "13:08",
         "ts": 1790168891
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The third session of Amirhossein Mousavi's trial was held on Monday, 30 Shahrivar, at Branch 15 of Tehran Revolutionary Court. Mousavi defended himself during the session. Further details about the charges are still under review.",
+        "time": "13:17",
+        "ts": 1790169442
       }
     ],
     "language": "en",
-    "packId": "20260923-68",
-    "sequence": 68,
+    "packId": "20260923-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:09"
+    "updatedAt": "13:18"
   },
   "verified": true
 }
