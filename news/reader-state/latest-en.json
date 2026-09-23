@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-04 seq=4 exp=1790301628",
+      "advancedStatus": "pack_id=20260923-05 seq=5 exp=1790302848",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:00",
+      "lastChecked": "02:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 02:00",
+    "expiresAt": "2026-09-25 02:20",
     "items": [
       {
         "channel": "iranintl",
@@ -1064,14 +1064,21 @@
         "text": "Steve Witkoff, the special representative of the US President, announced that the talks on 31 Shahrivar between Washington and Tehran on the sidelines of the UN General Assembly were conducted through mediators, and the two delegations did not negotiate directly. Witkoff said mediators shuttled between the two sides throughout the day and completed one round of talks. He expressed hope that the talks would be constructive and added that mediation efforts will continue.",
         "time": "01:59",
         "ts": 1790128780
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ukraine is ready to sign a drone defense agreement with the United States. Volodymyr Zelensky intends to sign this agreement on the sidelines of the UN General Assembly. The US Department of War and Ukraine's Ministry of Defense have developed a framework to expand Ukraine's defense technologies.",
+        "time": "02:20",
+        "ts": 1790130001
       }
     ],
     "language": "en",
-    "packId": "20260923-04",
-    "sequence": 4,
+    "packId": "20260923-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:00"
+    "updatedAt": "02:20"
   },
   "verified": true
 }
