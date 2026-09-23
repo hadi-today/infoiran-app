@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-30 seq=30 exp=1790325195",
+      "advancedStatus": "pack_id=20260923-31 seq=31 exp=1790326692",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:33",
+      "lastChecked": "08:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 08:33",
+    "expiresAt": "2026-09-25 08:58",
     "items": [
       {
         "channel": "iranintl",
@@ -1057,14 +1057,21 @@
         "text": "A citizen criticized the rising prices in a video sent to Iran International. He mentioned that he is single and expressed concern for married people. The video highlights worries about increasing costs.",
         "time": "08:32",
         "ts": 1790152337
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "An Iranian citizen living in Germany held a protest performance on September 22 in front of the US embassy in Dusseldorf. The protest aimed to prevent the execution of Ali Zarei. Videos of the event were sent to Iran International.",
+        "time": "08:57",
+        "ts": 1790153834
       }
     ],
     "language": "en",
-    "packId": "20260923-30",
-    "sequence": 30,
+    "packId": "20260923-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:33"
+    "updatedAt": "08:58"
   },
   "verified": true
 }
