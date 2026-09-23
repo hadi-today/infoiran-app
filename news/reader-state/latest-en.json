@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-83 seq=83 exp=1790348400",
+      "advancedStatus": "pack_id=20260923-84 seq=84 exp=1790348742",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:00",
+      "lastChecked": "15:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 15:00",
+    "expiresAt": "2026-09-25 15:05",
     "items": [
       {
         "channel": "iranintl",
@@ -1155,14 +1155,21 @@
         "text": "Masoud Pezeshkian accused the December protesters of being incited by the US and Israel during the UN General Assembly. He claimed these protesters disrupted Iran's security by receiving weapons. He also defended the street supporters of the government.",
         "time": "14:58",
         "ts": 1790175538
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Marco Rubio stated after meeting Sergey Lavrov that reaching an agreement with the Islamic Republic requires prolonged effort and negotiation. He added that Donald Trump has multiple options and the military option remains on the table. He also emphasized that Washington will continue to defend its interests.",
+        "time": "15:04",
+        "ts": 1790175876
       }
     ],
     "language": "en",
-    "packId": "20260923-83",
-    "sequence": 83,
+    "packId": "20260923-84",
+    "sequence": 84,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:00"
+    "updatedAt": "15:05"
   },
   "verified": true
 }
