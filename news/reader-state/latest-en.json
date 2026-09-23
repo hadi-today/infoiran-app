@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-10 seq=10 exp=1790314588",
+      "advancedStatus": "pack_id=20260923-11 seq=11 exp=1790314890",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:36",
+      "lastChecked": "05:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 05:36",
+    "expiresAt": "2026-09-25 05:41",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Hossein Ghazian explained the consequences of extensive restrictions on air and international communications. He said this situation goes beyond reducing air travel and can intensify feelings of isolation and despair in society. He also noted that increased focus on survival, social fragmentation, and weakening of the sense of belonging to society and country are consequences of these conditions.",
-        "time": "05:36",
-        "ts": 1790055399
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1036,14 +1029,21 @@
         "text": "Donald Trump called the Islamic Republic the world's largest state sponsor of terrorism in his speech at the UN General Assembly. He also said that Iran's acquisition of nuclear weapons could enable more extensive attacks. These remarks were made at the UN General Assembly.",
         "time": "05:35",
         "ts": 1790141736
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shayan Samiei stated that the Islamic Republic pursues three main goals at the United Nations: narrative warfare, behind-the-scenes diplomacy, and bargaining to reduce pressure. He added that Tehran is trying to prevent diplomatic isolation by involving Pezeshkian and Araqchi. The aim is also to turn the current crisis into leverage for negotiation.",
+        "time": "05:40",
+        "ts": 1790142038
       }
     ],
     "language": "en",
-    "packId": "20260923-10",
-    "sequence": 10,
+    "packId": "20260923-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:36"
+    "updatedAt": "05:41"
   },
   "verified": true
 }
