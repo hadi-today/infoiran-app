@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-97 seq=97 exp=1790352608",
+      "advancedStatus": "pack_id=20260923-98 seq=98 exp=1790353212",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:10",
+      "lastChecked": "16:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-23",
-    "expiresAt": "2026-09-25 16:10",
+    "expiresAt": "2026-09-25 16:20",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Recep Tayyip Erdogan spoke at the UN General Assembly about the Gulf crisis, stating that efforts to expand conflicts are not beneficial to anyone. He said Turkey is in contact with all parties to end the conflict. Erdogan also called for reform of the Security Council and increased pressure on Israel.",
-        "time": "16:15",
-        "ts": 1790093714
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Customs clearance agents and car importers in the Arvand Free Zone protested against import restrictions and bans. They also objected to the allocation of import licenses to certain companies. This group considered the process discriminatory and monopolistic.",
-        "time": "16:16",
-        "ts": 1790093813
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1176,14 +1162,21 @@
         "text": "Marco Rubio commented on the September 21 talks between Iran and the US, saying they were not a major breakthrough but important. He also mentioned attacks by Iranians and their proxies on diplomatic sites. Rubio added that Iranians have a mistaken perception about the November election outcomes.",
         "time": "16:08",
         "ts": 1790179726
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Jose Ramos-Horta, the President of East Timor, criticized Iran's regional policies at the UN General Assembly. He accused Iran of fueling religious extremism and attacks against neighboring countries. He also warned about the expansion of wars and the importance of vital waterways.",
+        "time": "16:18",
+        "ts": 1790180326
       }
     ],
     "language": "en",
-    "packId": "20260923-97",
-    "sequence": 97,
+    "packId": "20260923-98",
+    "sequence": 98,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:10"
+    "updatedAt": "16:20"
   },
   "verified": true
 }
