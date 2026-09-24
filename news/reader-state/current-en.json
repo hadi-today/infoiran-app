@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-127 seq=127 exp=1790454392",
+      "advancedStatus": "pack_id=20260924-128 seq=128 exp=1790454694",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:26",
+      "lastChecked": "20:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 20:26",
+    "expiresAt": "2026-09-26 20:31",
     "items": [
       {
         "channel": "iranintl",
@@ -1078,14 +1078,21 @@
         "text": "The Canadian government announced a new round of sanctions against officials and institutions of the Islamic Republic. The Canadian Prime Minister described the Islamic Republic as a major threat to the world and Israel. This report was published by Mahsa Mortazavi from Iran International.",
         "time": "20:25",
         "ts": 1790281551
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iranian wushu athletes won one gold and three silver medals in the sanda category on the fifth day of the 2026 Nagoya Asian Games. This information was shared by Jalil Ataei, bronze medalist of the 2006 Asian Games.",
+        "time": "20:30",
+        "ts": 1790281851
       }
     ],
     "language": "en",
-    "packId": "20260924-127",
-    "sequence": 127,
+    "packId": "20260924-128",
+    "sequence": 128,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:26"
+    "updatedAt": "20:31"
   },
   "verified": true
 }
