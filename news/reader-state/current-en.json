@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-81 seq=81 exp=1790434160",
+      "advancedStatus": "pack_id=20260924-82 seq=82 exp=1790434853",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:49",
+      "lastChecked": "15:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 14:49",
+    "expiresAt": "2026-09-26 15:00",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Masoud Pezeshkian accused the December protesters of being incited by the US and Israel during the UN General Assembly. He claimed these protesters disrupted Iran's security by receiving weapons. He also defended the street supporters of the government.",
-        "time": "14:58",
-        "ts": 1790175538
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1190,14 +1183,28 @@
         "text": "The interrogation session of Ali Kalateh Dolati, a detainee related to the December 2025 protests, was held on Sunday, September 29, at the seventh investigative branch of Sabzevar Public and Revolutionary Prosecutor's Office. He was charged with propaganda against the regime and defended himself. Ali Kalateh Dolati is imprisoned in Sabzevar prison.",
         "time": "14:48",
         "ts": 1790261295
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Masoud Pezeshkian, the President of Iran, will be interviewed today at 6 PM Eastern Time by Bret Baier on Fox News. The interview will be at 1:30 AM Tehran time on Friday. The exact time and network for the interview have been announced.",
+        "time": "14:59",
+        "ts": 1790261966
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Xi Jinping met with Donald Trump at the White House and said China and the US have a responsibility to cooperate for human progress. He emphasized honest dialogue and increasing mutual trust, noting broad areas for cooperation. Xi also called for healthy competition and avoiding conflict.",
+        "time": "15:00",
+        "ts": 1790262013
       }
     ],
     "language": "en",
-    "packId": "20260924-81",
-    "sequence": 81,
+    "packId": "20260924-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:49"
+    "updatedAt": "15:00"
   },
   "verified": true
 }
