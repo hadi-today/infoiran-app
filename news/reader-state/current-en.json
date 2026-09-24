@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-125 seq=125 exp=1790452955",
+      "advancedStatus": "pack_id=20260924-126 seq=126 exp=1790453779",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:02",
+      "lastChecked": "20:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 20:02",
+    "expiresAt": "2026-09-26 20:16",
     "items": [
       {
         "channel": "iranintl",
@@ -1071,14 +1071,21 @@
         "text": "Videos received by Iran International show that Iranians and Ukrainians held protests in London in front of the Russian embassy. These protests coincided with Iranians worldwide supporting the national revolution. Iranians carried images of Prince Reza Pahlavi during the demonstrations.",
         "time": "20:01",
         "ts": 1790280097
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Benjamin Netanyahu criticized protesters and officials who left the hall during his speech at the UN General Assembly. He questioned why there is silence regarding the massacre of tens of thousands of unarmed Iranian civilians. Netanyahu referred to human rights violations by the Islamic Republic.",
+        "time": "20:15",
+        "ts": 1790280927
       }
     ],
     "language": "en",
-    "packId": "20260924-125",
-    "sequence": 125,
+    "packId": "20260924-126",
+    "sequence": 126,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:02"
+    "updatedAt": "20:16"
   },
   "verified": true
 }
