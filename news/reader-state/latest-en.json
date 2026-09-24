@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-130 seq=130 exp=1790456386",
+      "advancedStatus": "pack_id=20260924-131 seq=131 exp=1790458914",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:59",
+      "lastChecked": "21:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 20:59",
+    "expiresAt": "2026-09-26 21:41",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "A strong explosion occurred in Bandar Abbas at 00:13, and its shockwave was felt. The sound of the explosion was also heard from afar at 00:24. Windows in Bandar Abbas shook strongly around midnight.",
-        "time": "21:05",
-        "ts": 1790197505
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reza Pahlavi called for a change in the Western approach, urging support for the Iranian people instead of negotiations with the regime. He outlined the negative consequences of the Islamic Republic and proposed using Iran's frozen assets to support the people. He also stated that the removal of the Islamic Republic could change Iran's regional relations.",
-        "time": "21:24",
-        "ts": 1790198660
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Jonas Gahr Støre, the Prime Minister of Norway, expressed deep concern about human rights violations in Iran during a meeting with Masoud Pezeshkian. The meeting took place on the sidelines of the UN General Assembly in New York. Støre emphasized the importance of direct dialogue with Tehran and resolving disputes through diplomacy.",
-        "time": "21:40",
-        "ts": 1790199627
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1085,14 +1064,21 @@
         "text": "The national football teams of Germany and the Netherlands drew 1-1 in their first UEFA Nations League match. Felix Nmecha scored for the Netherlands, and Akpa Akpro equalized in the 92nd minute. Xavi Hernandez did not lose in his first experience as the Netherlands coach.",
         "time": "20:59",
         "ts": 1790283541
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Masoud Pezeshkian stated that Tehran seeks to revive the ceasefire agreement with the US before the November midterm elections. He said Iran does not want the issue to reach the elections and wants the Americans to return to the agreement beforehand. These remarks came as contacts between Iran and the US increased during the UN General Assembly.",
+        "time": "21:41",
+        "ts": 1790286068
       }
     ],
     "language": "en",
-    "packId": "20260924-130",
-    "sequence": 130,
+    "packId": "20260924-131",
+    "sequence": 131,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:59"
+    "updatedAt": "21:41"
   },
   "verified": true
 }
