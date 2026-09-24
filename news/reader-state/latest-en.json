@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-120 seq=120 exp=1790451525",
+      "advancedStatus": "pack_id=20260924-123 seq=123 exp=1790451876",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:38",
+      "lastChecked": "19:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 19:38",
+    "expiresAt": "2026-09-26 19:44",
     "items": [
       {
         "channel": "harana",
@@ -1064,14 +1064,35 @@
         "text": "The Israeli Prime Minister said at the UN General Assembly that the Islamic Republic fears the Iranian people and restricts freedom of expression through internet censorship. He described the Starlink device as a symbol of free access to information and called for it to be made available to the Iranian people. Netanyahu also criticized the global silence on human rights violations in Iran and predicted the regime's downfall was near.",
         "time": "19:36",
         "ts": 1790278573
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli Prime Minister met with the Prime Ministers of Greece and Slovenia on the sidelines of the UN General Assembly. The meeting with the Greek Prime Minister emphasized the importance of strategic partnership for regional stability. Greece's selection of Israeli defense systems was also welcomed.",
+        "time": "19:39",
+        "ts": 1790278780
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "In September 1405, 47 deaths due to lack of workplace safety and 172 worker injuries were recorded. Additionally, 146 gatherings and seven worker strikes were reported. These statistics indicate ongoing job insecurity and livelihood problems for workers.",
+        "time": "19:42",
+        "ts": 1790278960
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli Prime Minister rejected the genocide accusation against Israel at the UN General Assembly, calling it the biggest lie of this century. He emphasized that the Israeli army has made significant efforts to reduce civilian casualties. Netanyahu also accused the New York mayor of promoting anti-Semitism.",
+        "time": "19:43",
+        "ts": 1790279004
       }
     ],
     "language": "en",
-    "packId": "20260924-120",
-    "sequence": 120,
+    "packId": "20260924-123",
+    "sequence": 123,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:38"
+    "updatedAt": "19:44"
   },
   "verified": true
 }
