@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-102 seq=102 exp=1790441148",
+      "advancedStatus": "pack_id=20260924-103 seq=103 exp=1790441719",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:45",
+      "lastChecked": "16:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 16:45",
+    "expiresAt": "2026-09-26 16:55",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "At the end of the fourth day of the Nagoya Asian Games, Iran reached seventh place in the medal table with two golds and one bronze. Mahmoud Nemati won gold in karate, and the Iranian electronic football team also won gold. Ali Pakdaman earned a bronze medal in fencing.",
-        "time": "16:49",
-        "ts": 1790182157
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen of India was killed in an attack on the bulk carrier MV Cape Dao near the Musandam province of Oman. The Indian embassy in Oman is coordinating with Omani authorities to ensure the safety of the crew. The Oman Maritime Security Center conducted the evacuation of 27 crew members.",
-        "time": "16:54",
-        "ts": 1790182441
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1169,14 +1155,21 @@
         "text": "Mohammad Naderi, a prisoner in Tehran's Great Prison, was sentenced to death for espionage by Branch 23 of the Tehran Revolutionary Court. This sentence was reported by the HRANA news agency. Naderi was arrested during security developments related to the war.",
         "time": "16:44",
         "ts": 1790268291
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli government launched an advertising campaign against Iran's nuclear program in New York ahead of the speeches by Israeli and Palestinian leaders at the UN General Assembly. Messages such as \"Nuclear Iran is a threat to the entire world\" were displayed on 500 digital billboards and 12 trucks in Times Square and Manhattan. The cost of this advertising was paid by the Israeli government.",
+        "time": "16:54",
+        "ts": 1790268866
       }
     ],
     "language": "en",
-    "packId": "20260924-102",
-    "sequence": 102,
+    "packId": "20260924-103",
+    "sequence": 103,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:45"
+    "updatedAt": "16:55"
   },
   "verified": true
 }
