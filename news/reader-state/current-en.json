@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-117 seq=117 exp=1790450495",
+      "advancedStatus": "pack_id=20260924-118 seq=118 exp=1790450713",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:21",
+      "lastChecked": "19:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 19:21",
+    "expiresAt": "2026-09-26 19:25",
     "items": [
       {
         "channel": "iranintl",
@@ -1050,14 +1050,21 @@
         "text": "Workers at Saipa Large Industrial Molds Company in Tehran went on strike due to unmet demands. Additionally, 42 workers at Mahan Company in Moltan village, Mehrestan county, protested low wages and unpaid salaries by striking. These strikes are related to labor protests in these two areas.",
         "time": "19:20",
         "ts": 1790277618
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli Prime Minister said at the UN General Assembly that Israel is engaged in a media war in addition to a military one. He accused Qatar of financially supporting universities and media against Israel and accused Turkey of supporting Hamas and other actions. Netanyahu emphasized that Israel will stand against the global campaign of misinformation.",
+        "time": "19:24",
+        "ts": 1790277850
       }
     ],
     "language": "en",
-    "packId": "20260924-117",
-    "sequence": 117,
+    "packId": "20260924-118",
+    "sequence": 118,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:21"
+    "updatedAt": "19:25"
   },
   "verified": true
 }
