@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-39 seq=39 exp=1790416267",
+      "advancedStatus": "pack_id=20260924-40 seq=40 exp=1790416674",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:51",
+      "lastChecked": "09:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 09:51",
+    "expiresAt": "2026-09-26 09:57",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Esmaeil Kowsari stated that there will be no meeting between Pezeshkian and Trump in New York. He said Trump should be tried or avenged. Kowsari also described the country's situation as cohesive and progressing.",
-        "time": "09:51",
-        "ts": 1790157078
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ameneh Abdollahi, an athletics coach in Sistan and Baluchestan, posted a video showing that the only outdoor track in the province is in a dire condition. The tartan flooring has many cracks. This issue has raised concerns about the state of sports in the province.",
-        "time": "09:54",
-        "ts": 1790157278
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1211,14 +1197,21 @@
         "text": "Nine eye injury victims of the Mahsa uprising released a video message demanding the cancellation of Ali Zarei's death sentence. They called on people and human rights organizations not to remain silent against the crimes of the Islamic Republic and to work to prevent the execution.",
         "time": "09:50",
         "ts": 1790243406
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The disciplinary committee of the University of Art has sentenced at least 35 students to temporary suspension from studies. The duration of this suspension ranges from two to four semesters. These rulings were issued for the mentioned students.",
+        "time": "09:57",
+        "ts": 1790243824
       }
     ],
     "language": "en",
-    "packId": "20260924-39",
-    "sequence": 39,
+    "packId": "20260924-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:51"
+    "updatedAt": "09:57"
   },
   "verified": true
 }
