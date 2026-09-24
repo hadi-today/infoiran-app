@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-25 seq=25 exp=1790410166",
+      "advancedStatus": "pack_id=20260924-26 seq=26 exp=1790410772",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:09",
+      "lastChecked": "08:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 08:09",
+    "expiresAt": "2026-09-26 08:19",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Iran's U23 football team lost 4-1 to North Korea in their third match at the Nagoya Asian Games. With one win, one draw, and one loss, the team finished with 4 points and failed to advance to the knockout stage. This report was provided by Alireza Modiri from Iran International.",
-        "time": "08:12",
-        "ts": 1790151163
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The Deputy of Primary Education of the Ministry of Education announced the identification of 140,562 children out of school at the primary level last year. Of these, 48,000 children were reintegrated into the education system.",
-        "time": "08:16",
-        "ts": 1790151387
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1204,14 +1190,21 @@
         "text": "The head of the judiciary in Semnan province announced the arrest of a citizen in Shahroud related to the December 2025 protests. This individual was transferred to prison after being detained and issued a temporary detention order.",
         "time": "08:08",
         "ts": 1790237312
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Videos received by Iran International show a large presence of security forces in Shiraz on Thursday, October 3rd. Concurrently with the worsening economic crisis and rising discontent, the Revolutionary Guards and Basij held a military and security program in the city.",
+        "time": "08:18",
+        "ts": 1790237911
       }
     ],
     "language": "en",
-    "packId": "20260924-25",
-    "sequence": 25,
+    "packId": "20260924-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:09"
+    "updatedAt": "08:19"
   },
   "verified": true
 }
