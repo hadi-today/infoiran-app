@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-98 seq=98 exp=1790440352",
+      "advancedStatus": "pack_id=20260924-99 seq=99 exp=1790440484",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:32",
+      "lastChecked": "16:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 16:32",
+    "expiresAt": "2026-09-26 16:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Iran under-23 football team lost 4-1 to North Korea and failed to advance to the next stage of the Nagoya Asian Games. Iran initially took the lead with a goal by Amirhossein Hosseinzadeh but conceded four goals afterward. This defeat led to Iran's elimination from the competition.",
-        "time": "16:32",
-        "ts": 1790181170
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -1162,14 +1155,21 @@
         "text": "Mohammad Shehbaz Sharif, Prime Minister of Pakistan, met with Masoud Pezeshkian on the sidelines of the UN General Assembly. Abbas Araghchi, Mohammad Ishaq Dar, Khawaja Muhammad Asif, and Tariq Fatemi also attended the meeting. The discussions focused on bilateral relations and regional developments.",
         "time": "16:30",
         "ts": 1790267445
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen sent a video showing pollution from the Dorud cement factory. The Lorestan Environmental Protection Organization confirmed the factory is outdated and its pollution has increased. The factory produces about 900,000 tons annually.",
+        "time": "16:33",
+        "ts": 1790267586
       }
     ],
     "language": "en",
-    "packId": "20260924-98",
-    "sequence": 98,
+    "packId": "20260924-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:32"
+    "updatedAt": "16:34"
   },
   "verified": true
 }
