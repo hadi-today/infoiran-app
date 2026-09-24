@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-01 seq=1 exp=1790380985",
+      "advancedStatus": "pack_id=20260924-02 seq=2 exp=1790382669",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:03",
+      "lastChecked": "00:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 00:03",
+    "expiresAt": "2026-09-26 00:31",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Steve Witkoff, the US President's special representative, reported extensive talks with the Islamic Republic delegation on the sidelines of the UN General Assembly. Mediators shuttled between the two sides throughout the day and successfully completed one round of talks. Witkoff stated that the mediators will continue their efforts.",
-        "time": "00:04",
-        "ts": 1790121844
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1218,14 +1211,21 @@
         "text": "Delsy Rodriguez, the interim president of Venezuela, stated that the energy agreement with the United States will help balance the global energy market. She also said that elections will be held in Venezuela and talks with the opposition have begun.",
         "time": "00:02",
         "ts": 1790208137
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Jane Shaheen, a senior Democrat on the US Senate Foreign Relations Committee, called for using the new Russia and Iran sanctions law to counter China's support for the Islamic Republic. She stated that Chinese entities have supported the Islamic Republic during the war, contributing to attacks on US forces and facilities. Shaheen urged the Trump administration to increase pressure on Beijing to stop these supports.",
+        "time": "00:30",
+        "ts": 1790209821
       }
     ],
     "language": "en",
-    "packId": "20260924-01",
-    "sequence": 1,
+    "packId": "20260924-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:03"
+    "updatedAt": "00:31"
   },
   "verified": true
 }
