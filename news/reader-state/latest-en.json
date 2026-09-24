@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-13 seq=13 exp=1790395438",
+      "advancedStatus": "pack_id=20260924-14 seq=14 exp=1790399505",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:03",
+      "lastChecked": "05:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 04:03",
+    "expiresAt": "2026-09-26 05:11",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Kayhan newspaper wrote that damages to Iran's industries and shortages must be compensated by the US and Gulf Arab countries. The newspaper emphasized that Gulf countries are responsible for the damages to Iran and must pay reparations. Kayhan also referred to international laws and the role of these countries in military aggression.",
-        "time": "04:20",
-        "ts": 1790137209
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1253,14 +1246,21 @@
         "text": "Scott Bessent, US Treasury Secretary, said on Wednesday in an interview with Fox News that more than 80 to 90 percent of Iran's foreign flights have been halted and expressed doubt about how Iran's representatives at the UN would return home. He considered this situation part of the US economic ostracism campaign against the Islamic Republic and said that the Iranian government is under unprecedented pressure.",
         "time": "04:03",
         "ts": 1790222596
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iranian women's four-person rowing team won the silver medal at the Nagoya Asian Games. The team, consisting of Mahsa Javor, Soha Fakhri, Saqi Maleki, and Hengameh Kamyab, finished second with a time of 6:27:24. China took first place and Japan finished third.",
+        "time": "05:10",
+        "ts": 1790226652
       }
     ],
     "language": "en",
-    "packId": "20260924-13",
-    "sequence": 13,
+    "packId": "20260924-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:03"
+    "updatedAt": "05:11"
   },
   "verified": true
 }
