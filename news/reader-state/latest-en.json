@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-33 seq=33 exp=1790413530",
+      "advancedStatus": "pack_id=20260924-34 seq=34 exp=1790414001",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:05",
+      "lastChecked": "09:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 09:05",
+    "expiresAt": "2026-09-26 09:13",
     "items": [
       {
         "channel": "iranintl",
@@ -1225,14 +1225,21 @@
         "text": "Yousef Rahimi and Azad Rahmati, citizens of Baneh, were arrested by security forces. They were transferred to an unknown location. This incident occurred yesterday.",
         "time": "09:04",
         "ts": 1790240670
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Sarkan Ern, founder of the aid organization Stelp in Germany, was sentenced to 10 years in prison by a court in Iran. He traveled to Iran in 2025 for a humanitarian mission and was arrested upon arrival. The Stelp organization is in contact with Turkish authorities for his release.",
+        "time": "09:12",
+        "ts": 1790241162
       }
     ],
     "language": "en",
-    "packId": "20260924-33",
-    "sequence": 33,
+    "packId": "20260924-34",
+    "sequence": 34,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:05"
+    "updatedAt": "09:13"
   },
   "verified": true
 }
