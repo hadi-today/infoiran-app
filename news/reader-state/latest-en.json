@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-55 seq=55 exp=1790425441",
+      "advancedStatus": "pack_id=20260924-56 seq=56 exp=1790425559",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:24",
+      "lastChecked": "12:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 12:24",
+    "expiresAt": "2026-09-26 12:25",
     "items": [
       {
         "channel": "harana",
@@ -1155,14 +1155,21 @@
         "text": "UN experts have called on the Islamic Republic to stop using live ammunition against kolbars and fuel carriers. They demanded immediate, independent, and impartial investigations into deaths caused by security forces. Since December 2025, at least 25 kolbars and fuel carriers have died in related incidents.",
         "time": "12:21",
         "ts": 1790252500
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Giorgia Meloni announced the allocation of 100 million euros to encourage investment in Italy's fashion industry. She attended the fashion week to show government support for the industry. This is the first time an Italian prime minister has attended the event since 2016.",
+        "time": "12:24",
+        "ts": 1790252674
       }
     ],
     "language": "en",
-    "packId": "20260924-55",
-    "sequence": 55,
+    "packId": "20260924-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:24"
+    "updatedAt": "12:25"
   },
   "verified": true
 }
