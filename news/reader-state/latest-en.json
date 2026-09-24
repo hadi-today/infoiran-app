@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-66 seq=66 exp=1790429665",
+      "advancedStatus": "pack_id=20260924-67 seq=67 exp=1790429775",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:34",
+      "lastChecked": "13:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 13:34",
+    "expiresAt": "2026-09-26 13:36",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A number of Iranians living in Portugal gathered on September 22 in front of the US embassy in Lisbon. They expressed their support for Ali Zarei and other political prisoners in Iran. This was reported through videos received by Iran International.",
-        "time": "13:33",
-        "ts": 1790170421
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1169,14 +1162,28 @@
         "text": "Iran and Middle East developments were main topics in leaders' speeches at the UN General Assembly. Key points included reopening the Strait of Hormuz, freedom of navigation, and Iran's nuclear program. More details were provided by Ali Rashid.",
         "time": "13:33",
         "ts": 1790256799
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The Saudi Civil Defense Organization warned of a renewed attempt to attack Mecca. The warning was initially issued and then canceled. Additionally, six ballistic missiles fired by the Houthis were intercepted and destroyed.",
+        "time": "13:34",
+        "ts": 1790256880
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reports from Dastgerd prison in Isfahan indicate worsening health conditions and the spread of diseases such as meningitis. Several prisoners have been transferred to hospitals and visitations have been restricted. There is also widespread infestation of lice, fleas, and ticks, along with shortages of medicine and medical services.",
+        "time": "13:36",
+        "ts": 1790256961
       }
     ],
     "language": "en",
-    "packId": "20260924-66",
-    "sequence": 66,
+    "packId": "20260924-67",
+    "sequence": 67,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:34"
+    "updatedAt": "13:36"
   },
   "verified": true
 }
