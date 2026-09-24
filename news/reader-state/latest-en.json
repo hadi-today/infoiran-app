@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-101 seq=101 exp=1790440948",
+      "advancedStatus": "pack_id=20260924-102 seq=102 exp=1790441148",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:42",
+      "lastChecked": "16:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 16:42",
+    "expiresAt": "2026-09-26 16:45",
     "items": [
       {
         "channel": "iranintl",
@@ -1162,14 +1162,21 @@
         "text": "Joachim Wadtfol, Germany's foreign minister, stated that any negotiation with Tehran must end the nuclear threat posed by the Islamic Republic and expressed doubt about Iran's willingness to abandon its nuclear program. He emphasized the importance of freedom of navigation in the Strait of Hormuz and rejected Iran's collection of tolls there. Wadtfol also condemned the Houthis in Yemen and announced Germany's support for Saudi Arabia and the Yemeni government.",
         "time": "16:41",
         "ts": 1790268100
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Mohammad Naderi, a prisoner in Tehran's Great Prison, was sentenced to death for espionage by Branch 23 of the Tehran Revolutionary Court. This sentence was reported by the HRANA news agency. Naderi was arrested during security developments related to the war.",
+        "time": "16:44",
+        "ts": 1790268291
       }
     ],
     "language": "en",
-    "packId": "20260924-101",
-    "sequence": 101,
+    "packId": "20260924-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:42"
+    "updatedAt": "16:45"
   },
   "verified": true
 }
