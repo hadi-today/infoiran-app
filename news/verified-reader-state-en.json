@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-58 seq=58 exp=1790425996",
+      "advancedStatus": "pack_id=20260924-59 seq=59 exp=1790426221",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:33",
+      "lastChecked": "12:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 12:33",
+    "expiresAt": "2026-09-26 12:37",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Recep Tayyip Erdogan stated at the UN that Turkey is working with relevant parties to end the conflicts in the Persian Gulf. He expressed concern about the spread of conflicts to neighboring areas. Erdogan emphasized that such escalation benefits no one.",
-        "time": "12:33",
-        "ts": 1790166820
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A cafe in Zarand was closed by public place supervision officers due to non-compliance with Islamic codes and unveiling.",
-        "time": "12:34",
-        "ts": 1790166881
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1162,14 +1148,21 @@
         "text": "Rouhollah Rahimpour referred to Scott Bessent's statements, saying the US aims to disrupt the Islamic Republic's ability to circulate money and trade through sanctions. The US expects these pressures to cause splits in the government or protests in society. The ultimate goal is to pressure the Islamic Republic toward an agreement with Washington.",
         "time": "12:32",
         "ts": 1790253141
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "In Maryanj, Hamadan, threatening graffiti against girls without mandatory hijab has been observed. This writing is located near a bus stop close to a girls' school. The government's pressure and restrictions to enforce hijab in Iran continue.",
+        "time": "12:36",
+        "ts": 1790253372
       }
     ],
     "language": "en",
-    "packId": "20260924-58",
-    "sequence": 58,
+    "packId": "20260924-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:33"
+    "updatedAt": "12:37"
   },
   "verified": true
 }
