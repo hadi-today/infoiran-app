@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-80 seq=80 exp=1790433915",
+      "advancedStatus": "pack_id=20260924-81 seq=81 exp=1790434160",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:45",
+      "lastChecked": "14:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 14:45",
+    "expiresAt": "2026-09-26 14:49",
     "items": [
       {
         "channel": "iranintl",
@@ -1183,14 +1183,21 @@
         "text": "Donald Trump stated during his meeting with the Chinese president that they have developed an excellent friendship and made significant progress in bilateral relations. He mentioned plans to discuss security, technology, and artificial intelligence with Xi Jinping. The two countries are also working towards more balanced trade relations, including new market access for American farmers and ranchers.",
         "time": "14:44",
         "ts": 1790261062
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The interrogation session of Ali Kalateh Dolati, a detainee related to the December 2025 protests, was held on Sunday, September 29, at the seventh investigative branch of Sabzevar Public and Revolutionary Prosecutor's Office. He was charged with propaganda against the regime and defended himself. Ali Kalateh Dolati is imprisoned in Sabzevar prison.",
+        "time": "14:48",
+        "ts": 1790261295
       }
     ],
     "language": "en",
-    "packId": "20260924-80",
-    "sequence": 80,
+    "packId": "20260924-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:45"
+    "updatedAt": "14:49"
   },
   "verified": true
 }
