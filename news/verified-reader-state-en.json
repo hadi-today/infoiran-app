@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-83 seq=83 exp=1790434996",
+      "advancedStatus": "pack_id=20260924-84 seq=84 exp=1790435795",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:03",
+      "lastChecked": "15:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 15:03",
+    "expiresAt": "2026-09-26 15:16",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Marco Rubio stated after meeting Sergey Lavrov that reaching an agreement with the Islamic Republic requires prolonged effort and negotiation. He added that Donald Trump has multiple options and the military option remains on the table. He also emphasized that Washington will continue to defend its interests.",
-        "time": "15:04",
-        "ts": 1790175876
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1197,14 +1190,21 @@
         "text": "Xi Jinping met with Donald Trump at the White House and said China and the US have a responsibility to cooperate for human progress. He emphasized honest dialogue and increasing mutual trust, noting broad areas for cooperation. Xi also called for healthy competition and avoiding conflict.",
         "time": "15:00",
         "ts": 1790262013
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Najmeh Amini, a prisoner sentenced to death, is held in Vakilabad Prison in Mashhad. She has been sentenced to death and over 12 years in prison in two separate cases. The charges include blasphemy, acting against national security, and propaganda against the regime.",
+        "time": "15:15",
+        "ts": 1790262926
       }
     ],
     "language": "en",
-    "packId": "20260924-83",
-    "sequence": 83,
+    "packId": "20260924-84",
+    "sequence": 84,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:03"
+    "updatedAt": "15:16"
   },
   "verified": true
 }
