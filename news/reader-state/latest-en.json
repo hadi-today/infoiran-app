@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-78 seq=78 exp=1790433094",
+      "advancedStatus": "pack_id=20260924-79 seq=79 exp=1790433237",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:31",
+      "lastChecked": "14:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 14:31",
+    "expiresAt": "2026-09-26 14:33",
     "items": [
       {
         "channel": "iranintl",
@@ -1211,14 +1211,21 @@
         "text": "Reza Shafakhah, the lawyer of Amirhossein Mousavi, announced that his client was tried in Branch 15 of the Tehran Revolutionary Court on charges of moharebeh and corruption on earth. These charges can lead to severe sentences, including the death penalty. The third session of Mousavi's trial was held on Monday, 30 Shahrivar.",
         "time": "14:29",
         "ts": 1790260191
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A number of Iranians living in Germany gathered in Hamburg at the start of the new school year. They commemorated the students killed in Iran. They read out the names of these students.",
+        "time": "14:32",
+        "ts": 1790260367
       }
     ],
     "language": "en",
-    "packId": "20260924-78",
-    "sequence": 78,
+    "packId": "20260924-79",
+    "sequence": 79,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:31"
+    "updatedAt": "14:33"
   },
   "verified": true
 }
