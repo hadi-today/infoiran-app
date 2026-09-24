@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-52 seq=52 exp=1790424782",
+      "advancedStatus": "pack_id=20260924-53 seq=53 exp=1790425218",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:13",
+      "lastChecked": "12:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 12:13",
+    "expiresAt": "2026-09-26 12:20",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Jafar Ghaempanah described inflation and economic problems as a bitter reality and emphasized understanding the country's conditions. He stated that both the government and people must endure hardships to preserve Iran's territorial integrity and dignity. Ghaempanah expressed happiness about the resilience of the Iranian people despite all difficulties.",
-        "time": "12:19",
-        "ts": 1790165956
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1141,14 +1134,21 @@
         "text": "Delsi Rodriguez, interim president of Venezuela, stated that the country has entered a new phase after political and natural crises. She thanked the US for its readiness to resume diplomatic relations with Venezuela. Venezuela seeks relations based on cooperation and mutual respect with the international community.",
         "time": "12:12",
         "ts": 1790251923
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "European officials including the President of the European Council, the German Foreign Minister, and the Norwegian Prime Minister met with Masoud Pezeshkian and Abbas Araghchi. They called for reducing regional tensions, cooperation with the International Atomic Energy Agency, and security of shipping in the Strait of Hormuz. They also emphasized resolving disputes through diplomacy.",
+        "time": "12:19",
+        "ts": 1790252368
       }
     ],
     "language": "en",
-    "packId": "20260924-52",
-    "sequence": 52,
+    "packId": "20260924-53",
+    "sequence": 53,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:13"
+    "updatedAt": "12:20"
   },
   "verified": true
 }
