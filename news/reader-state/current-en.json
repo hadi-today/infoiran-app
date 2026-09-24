@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-88 seq=88 exp=1790436744",
+      "advancedStatus": "pack_id=20260924-89 seq=89 exp=1790437133",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:32",
+      "lastChecked": "15:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 15:32",
+    "expiresAt": "2026-09-26 15:38",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The police commander of Rezvanshahr announced the arrest of four citizens for causing public disturbance on social media. These arrests took place in Rezvanshahr county. Further details have not been disclosed.",
-        "time": "15:33",
-        "ts": 1790177588
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "On September 22, a number of Iranians gathered in Turin, Italy. They demanded the release of Ali Zarei and the cancellation of his death sentence. This gathering was recorded in videos sent to Iran International.",
-        "time": "15:34",
-        "ts": 1790177669
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1211,14 +1197,21 @@
         "text": "A citizen sent a video to Iran International complaining about paying 400,000 tomans for a package of biscuits and two packages of chips and puffed snacks, most of which were filled with air. This issue was raised as a complaint about the price and quality of the packages. The video was sent to Iran International.",
         "time": "15:31",
         "ts": 1790263882
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Hossein Ghazizadeh said reactions to the meeting of Western officials with Islamic Republic authorities should be broader and hold Western politicians accountable for what he called double standards on human rights. He emphasized that in the context of reports of crimes against humanity in Iran, dialogue with Islamic Republic officials without considering these issues is questionable.",
+        "time": "15:37",
+        "ts": 1790264262
       }
     ],
     "language": "en",
-    "packId": "20260924-88",
-    "sequence": 88,
+    "packId": "20260924-89",
+    "sequence": 89,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:32"
+    "updatedAt": "15:38"
   },
   "verified": true
 }
