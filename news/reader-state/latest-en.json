@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-53 seq=53 exp=1790425218",
+      "advancedStatus": "pack_id=20260924-54 seq=54 exp=1790425327",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:20",
+      "lastChecked": "12:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 12:20",
+    "expiresAt": "2026-09-26 12:22",
     "items": [
       {
         "channel": "harana",
@@ -1141,14 +1141,28 @@
         "text": "European officials including the President of the European Council, the German Foreign Minister, and the Norwegian Prime Minister met with Masoud Pezeshkian and Abbas Araghchi. They called for reducing regional tensions, cooperation with the International Atomic Energy Agency, and security of shipping in the Strait of Hormuz. They also emphasized resolving disputes through diplomacy.",
         "time": "12:19",
         "ts": 1790252368
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iranian and US officials have engaged in indirect talks. Jared Kushner and Steve Witkoff, representatives of the Trump administration, and Abbas Araghchi, Iran's foreign minister, were in separate rooms. The Strait of Hormuz was a main topic of the negotiations.",
+        "time": "12:20",
+        "ts": 1790252454
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "UN experts have called on the Islamic Republic to stop using live ammunition against kolbars and fuel carriers. They demanded immediate, independent, and impartial investigations into deaths caused by security forces. Since December 2025, at least 25 kolbars and fuel carriers have died in related incidents.",
+        "time": "12:21",
+        "ts": 1790252500
       }
     ],
     "language": "en",
-    "packId": "20260924-53",
-    "sequence": 53,
+    "packId": "20260924-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:20"
+    "updatedAt": "12:22"
   },
   "verified": true
 }
