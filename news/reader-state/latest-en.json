@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-32 seq=32 exp=1790412444",
+      "advancedStatus": "pack_id=20260924-33 seq=33 exp=1790413530",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:47",
+      "lastChecked": "09:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 08:47",
+    "expiresAt": "2026-09-26 09:05",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "An Iranian citizen living in Germany held a protest performance on September 22 in front of the US embassy in Dusseldorf. The protest aimed to prevent the execution of Ali Zarei. Videos of the event were sent to Iran International.",
-        "time": "08:57",
-        "ts": 1790153834
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1225,14 +1218,21 @@
         "text": "The judiciary media announced the indictment of six officers in the case of sexual assault and battery of a teenager in Tabriz. These officers face charges of violating citizens' rights, creating distrust towards the armed forces, and intentional assault. The judiciary media did not include sexual assault among the charges.",
         "time": "08:46",
         "ts": 1790239598
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Yousef Rahimi and Azad Rahmati, citizens of Baneh, were arrested by security forces. They were transferred to an unknown location. This incident occurred yesterday.",
+        "time": "09:04",
+        "ts": 1790240670
       }
     ],
     "language": "en",
-    "packId": "20260924-32",
-    "sequence": 32,
+    "packId": "20260924-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:47"
+    "updatedAt": "09:05"
   },
   "verified": true
 }
