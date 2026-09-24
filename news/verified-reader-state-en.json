@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-08 seq=8 exp=1790387126",
+      "advancedStatus": "pack_id=20260924-09 seq=9 exp=1790387737",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:45",
+      "lastChecked": "01:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 01:45",
+    "expiresAt": "2026-09-26 01:55",
     "items": [
       {
         "channel": "iranintl",
@@ -1246,14 +1246,21 @@
         "text": "Erfan Mohrami lost in the final of the 70-kg Wushu Sanda category against Mashov from China and won the silver medal. He earned Iran's third silver medal in Wushu and the sixth silver for the Iranian delegation. Mohrami defeated Alijan from Kazakhstan by a large margin in the semifinals.",
         "time": "01:44",
         "ts": 1790214285
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Soheil Mousavi won the gold medal in the 75-kg sanda category by defeating Abdullayev from Kazakhstan in the final. He had previously defeated Turkanbayev from Uzbekistan in the semifinals. The Iranian sanda national team won one gold and three silver medals in this competition.",
+        "time": "01:54",
+        "ts": 1790214890
       }
     ],
     "language": "en",
-    "packId": "20260924-08",
-    "sequence": 8,
+    "packId": "20260924-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:45"
+    "updatedAt": "01:55"
   },
   "verified": true
 }
