@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-124 seq=124 exp=1790452607",
+      "advancedStatus": "pack_id=20260924-125 seq=125 exp=1790452955",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:56",
+      "lastChecked": "20:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 19:56",
+    "expiresAt": "2026-09-26 20:02",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Jose Raul Molino, the President of Panama, spoke about the situation in the Strait of Hormuz at the UN General Assembly. He described the situation as a sign of inability to enforce international laws and resolve crises early. He also emphasized that this situation has caused issues such as attacks on innocent people and increased costs of food supplies.",
-        "time": "20:00",
-        "ts": 1790193606
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1071,14 +1064,21 @@
         "text": "Kazem Gharibabadi, Iran's Deputy Foreign Minister, responded to NATO Secretary General Mark Rutte's remarks about five thousand sorties from European bases supporting the US attack. He stated this shows Europe was part of the infrastructure for the attack. Gharibabadi warned that governments allowing US use of their territory bear responsibility and this cooperation will not go unanswered.",
         "time": "19:55",
         "ts": 1790279751
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Videos received by Iran International show that Iranians and Ukrainians held protests in London in front of the Russian embassy. These protests coincided with Iranians worldwide supporting the national revolution. Iranians carried images of Prince Reza Pahlavi during the demonstrations.",
+        "time": "20:01",
+        "ts": 1790280097
       }
     ],
     "language": "en",
-    "packId": "20260924-124",
-    "sequence": 124,
+    "packId": "20260924-125",
+    "sequence": 125,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:56"
+    "updatedAt": "20:02"
   },
   "verified": true
 }
