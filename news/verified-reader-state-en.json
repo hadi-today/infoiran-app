@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-67 seq=67 exp=1790429775",
+      "advancedStatus": "pack_id=20260924-69 seq=69 exp=1790429987",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:36",
+      "lastChecked": "13:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 13:36",
+    "expiresAt": "2026-09-26 13:39",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ahmad al-Sharrah stated that Syria has begun the reconstruction process and rebuilt military and civilian institutions. He reported 500 airstrikes, over 1,200 infiltrations, and 300 arrests in Syria. Al-Sharrah called for Israeli forces to withdraw to the lines of December 8, 1974, rejecting Israel's attempt to impose the status quo.",
-        "time": "13:35",
-        "ts": 1790170539
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1176,14 +1169,21 @@
         "text": "Reports from Dastgerd prison in Isfahan indicate worsening health conditions and the spread of diseases such as meningitis. Several prisoners have been transferred to hospitals and visitations have been restricted. There is also widespread infestation of lice, fleas, and ticks, along with shortages of medicine and medical services.",
         "time": "13:36",
         "ts": 1790256961
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "According to information received by Iran International, all flights of Iranian airlines to the United Arab Emirates have been cancelled. These flights were operating from cities including Tehran, Kish, Mashhad and Shiraz. The cancellation follows the implementation of US restrictions on the foreign activities of Iranian airlines, and US Treasury Secretary Scott Bessent had previously announced that these activities would be halted from the first of Mehr.",
+        "time": "13:38",
+        "ts": 1790257103
       }
     ],
     "language": "en",
-    "packId": "20260924-67",
-    "sequence": 67,
+    "packId": "20260924-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:36"
+    "updatedAt": "13:39"
   },
   "verified": true
 }
