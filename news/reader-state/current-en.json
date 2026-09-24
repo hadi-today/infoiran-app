@@ -1,27 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260923-161 seq=161 exp=1790379919",
+      "advancedStatus": "pack_id=20260924-01 seq=1 exp=1790380985",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:45",
+      "lastChecked": "00:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-09-23",
-    "expiresAt": "2026-09-25 23:45",
+    "date": "2026-09-24",
+    "expiresAt": "2026-09-26 00:03",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Iranian Press Photographers Association has called for clarification on the status of Majid Saeedi, a detained photojournalist. More than 14 days have passed since his arrest, and his family and colleagues remain unaware of his condition. The association continues legal efforts to secure his release.",
-        "time": "23:58",
-        "ts": 1790121510
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1218,14 +1211,21 @@
         "text": "HSBC bank moved its board meeting from Dubai to London due to security concerns. The ongoing war with the Islamic Republic has disrupted travel for senior executives to the region. This decision was made because the conflicts affect air travel and economic activities in the Middle East.",
         "time": "23:44",
         "ts": 1790207077
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Delsy Rodriguez, the interim president of Venezuela, stated that the energy agreement with the United States will help balance the global energy market. She also said that elections will be held in Venezuela and talks with the opposition have begun.",
+        "time": "00:02",
+        "ts": 1790208137
       }
     ],
     "language": "en",
-    "packId": "20260923-161",
-    "sequence": 161,
+    "packId": "20260924-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:45"
+    "updatedAt": "00:03"
   },
   "verified": true
 }
