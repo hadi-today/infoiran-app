@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-14 seq=14 exp=1790399505",
+      "advancedStatus": "pack_id=20260924-15 seq=15 exp=1790399691",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:11",
+      "lastChecked": "05:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 05:11",
+    "expiresAt": "2026-09-26 05:14",
     "items": [
       {
         "channel": "iranintl",
@@ -1253,14 +1253,21 @@
         "text": "The Iranian women's four-person rowing team won the silver medal at the Nagoya Asian Games. The team, consisting of Mahsa Javor, Soha Fakhri, Saqi Maleki, and Hengameh Kamyab, finished second with a time of 6:27:24. China took first place and Japan finished third.",
         "time": "05:10",
         "ts": 1790226652
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Kayhan newspaper supported Masoud Pezeshkian's speech at the UN General Assembly. The newspaper described his speech as a strong response to the US president. It also noted Pezeshkian's choice of black clothing as a sign of mourning for the martyrdom of the leader and military commanders.",
+        "time": "05:13",
+        "ts": 1790226839
       }
     ],
     "language": "en",
-    "packId": "20260924-14",
-    "sequence": 14,
+    "packId": "20260924-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:11"
+    "updatedAt": "05:14"
   },
   "verified": true
 }
