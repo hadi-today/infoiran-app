@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-22 seq=22 exp=1790407471",
+      "advancedStatus": "pack_id=20260924-23 seq=23 exp=1790407945",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:24",
+      "lastChecked": "07:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 07:24",
+    "expiresAt": "2026-09-26 07:32",
     "items": [
       {
         "channel": "iranintl",
@@ -1225,14 +1225,21 @@
         "text": "Sarina Naqsh, as the first female boxer from Iran in the Asian Games, won her 65 kg category match 3-2 against an Indonesian opponent and advanced to the round of 16. Boxing and women's boxing were banned in Iran after the 1979 revolution, but women's efforts have led to their return to international competitions. The path for Iranian female boxers has been paved starting from the 2025 Asian Youth Games in Bahrain.",
         "time": "07:23",
         "ts": 1790234623
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Erfan Ghaneifard stated that Masoud Pezeshkian is not the representative of the Iranian nation at the UN General Assembly, and the main representative is Reza Pahlavi. He added that the Islamic Republic portrays itself as a victim of terrorism but supports armed groups in the region. He also said the Islamic Republic's policies have imposed costs on the Iranian people.",
+        "time": "07:31",
+        "ts": 1790235097
       }
     ],
     "language": "en",
-    "packId": "20260924-22",
-    "sequence": 22,
+    "packId": "20260924-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:24"
+    "updatedAt": "07:32"
   },
   "verified": true
 }
