@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-56 seq=56 exp=1790425559",
+      "advancedStatus": "pack_id=20260924-57 seq=57 exp=1790425850",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:25",
+      "lastChecked": "12:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 12:25",
+    "expiresAt": "2026-09-26 12:30",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Hassan Younesi, a lawyer, was sentenced by Branch 26 of Tehran Revolutionary Court to three years in prison, a ban on online activities, confiscation of his mobile phone, and a fine. He was convicted of propaganda against the regime and spreading falsehoods. His fine was set at 50 million tomans.",
-        "time": "12:28",
-        "ts": 1790166531
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "On September 22, a citizen was denied services at the Iranian embassy in Georgia due to his political views while trying to renew documents. He considered this a violation of his civil rights. The citizen has called for investigation by human rights and international organizations.",
-        "time": "12:29",
-        "ts": 1790166583
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1162,14 +1148,21 @@
         "text": "Giorgia Meloni announced the allocation of 100 million euros to encourage investment in Italy's fashion industry. She attended the fashion week to show government support for the industry. This is the first time an Italian prime minister has attended the event since 2016.",
         "time": "12:24",
         "ts": 1790252674
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Supreme Court has overturned the death sentence of Arghavan Fallahi, a 24-year-old prisoner. She was previously sentenced to death on charges of rebellion in Tehran's Revolutionary Court. Her lawyer stated that no weapons were found on her.",
+        "time": "12:29",
+        "ts": 1790252994
       }
     ],
     "language": "en",
-    "packId": "20260924-56",
-    "sequence": 56,
+    "packId": "20260924-57",
+    "sequence": 57,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:25"
+    "updatedAt": "12:30"
   },
   "verified": true
 }
