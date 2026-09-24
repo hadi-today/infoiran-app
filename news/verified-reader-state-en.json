@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-35 seq=35 exp=1790415358",
+      "advancedStatus": "pack_id=20260924-36 seq=36 exp=1790415687",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:35",
+      "lastChecked": "09:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 09:35",
+    "expiresAt": "2026-09-26 09:41",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Serkan Eran, a Turkish-German relief worker, was sentenced to 10 years in prison in Iran. He has been in detention for over a year. The sentence was issued by the Iranian judiciary.",
-        "time": "09:36",
-        "ts": 1790156182
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Morteza Kazemian commented on the possibility of a meeting between Pezeshkian and Trump and the resumption of Tehran-Washington negotiations. He stated that even if a new agreement is reached, fundamental differences between the Islamic Republic and the US will remain. The gap between the government and the Iranian people will also persist.",
-        "time": "09:36",
-        "ts": 1790156191
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1204,14 +1190,21 @@
         "text": "A citizen reported that pharmacies do not provide the full prescribed amount of Ruflo inhalation capsules. This medication is used for lung diseases. The issue was reported to Iran International.",
         "time": "09:34",
         "ts": 1790242483
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iranian women rowers won two gold medals and one silver medal at the 2026 Asian Games in Nagoya. Fatemeh Mojallal won the first gold medal for Iranian women rowing in the history of the Asian Games. This report was provided by Somayeh Mehri.",
+        "time": "09:40",
+        "ts": 1790242836
       }
     ],
     "language": "en",
-    "packId": "20260924-35",
-    "sequence": 35,
+    "packId": "20260924-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:35"
+    "updatedAt": "09:41"
   },
   "verified": true
 }
