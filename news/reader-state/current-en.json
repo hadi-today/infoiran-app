@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-65 seq=65 exp=1790428790",
+      "advancedStatus": "pack_id=20260924-66 seq=66 exp=1790429665",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:19",
+      "lastChecked": "13:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 13:19",
+    "expiresAt": "2026-09-26 13:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Canada has sanctioned five individuals and five entities in Iran for their role in suppressing the Iranian people. These sanctions target security officials and institutions involved in digital repression. The Canadian government stated these measures respond to human rights violations by the Islamic Republic.",
-        "time": "13:29",
-        "ts": 1790170142
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1162,14 +1155,28 @@
         "text": "Persian-speaking users reacted to the absence of Iranian representatives at the General Assembly, Daniel Ayvazi's speech at the Human Rights Council, and Kaya Kalas's meeting with Abbas Araghchi. Adela Borang from Iran International discussed these reactions.",
         "time": "13:18",
         "ts": 1790255917
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Flight restrictions against Iranian airplanes have expanded in the region. After Iraq, Oman, and Azerbaijan, the UAE and Turkmenistan have also denied entry or passage to Iranian airplanes. All flights of Iranian airlines to the UAE have been canceled.",
+        "time": "13:33",
+        "ts": 1790256793
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran and Middle East developments were main topics in leaders' speeches at the UN General Assembly. Key points included reopening the Strait of Hormuz, freedom of navigation, and Iran's nuclear program. More details were provided by Ali Rashid.",
+        "time": "13:33",
+        "ts": 1790256799
       }
     ],
     "language": "en",
-    "packId": "20260924-65",
-    "sequence": 65,
+    "packId": "20260924-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:19"
+    "updatedAt": "13:34"
   },
   "verified": true
 }
