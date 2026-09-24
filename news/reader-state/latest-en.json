@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-94 seq=94 exp=1790439805",
+      "advancedStatus": "pack_id=20260924-95 seq=95 exp=1790439970",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:23",
+      "lastChecked": "16:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 16:23",
+    "expiresAt": "2026-09-26 16:26",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Esmaeil Baghai, spokesperson for Iran's Foreign Ministry, announced that during the UN General Assembly, a new round of message exchanges between Tehran and Washington took place with Qatari mediation. The Islamic Republic's conditions for reviving diplomacy were conveyed to the American side. These talks continue previous mediated negotiations.",
-        "time": "16:22",
-        "ts": 1790180538
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Four Iranian sanda fighters reached the finals in the Wushu competition at the Nagoya Asian Games, securing at least silver medals. Iranian representatives in the taolu section had previously been eliminated. This report was provided by Alireza Modiri from Iran International.",
-        "time": "16:23",
-        "ts": 1790180580
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1169,14 +1155,21 @@
         "text": "More than 300,000 dahlia flower heads were used to create a 29-meter artwork in Bradford's Centenary Square. The piece was designed by Shiraz Ali, a local artist. This is the first British version of the \"Flower Carpet,\" an event regularly held in Belgium since the 1970s.",
         "time": "16:20",
         "ts": 1790266824
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Benjamin Netanyahu and his wife arrived in the US to speak at the UN General Assembly. He will stay in New York for less than eight hours before returning to Israel. Netanyahu will meet with nine world leaders, five of whom are from Latin American countries.",
+        "time": "16:24",
+        "ts": 1790267099
       }
     ],
     "language": "en",
-    "packId": "20260924-94",
-    "sequence": 94,
+    "packId": "20260924-95",
+    "sequence": 95,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:23"
+    "updatedAt": "16:26"
   },
   "verified": true
 }
