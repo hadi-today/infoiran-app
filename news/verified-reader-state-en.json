@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-50 seq=50 exp=1790423620",
+      "advancedStatus": "pack_id=20260924-51 seq=51 exp=1790424375",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:53",
+      "lastChecked": "12:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 11:53",
+    "expiresAt": "2026-09-26 12:06",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Drivers of Pardis Sakhtar Aflak company in the Yadavaran oil region gathered in front of Khuzestan Governor's Office on the first of Mehr. They demanded payment of overdue claims, salary and benefits adjustments, and improved working conditions. They also raised issues regarding contracts, insurance, and vehicle safety.",
-        "time": "12:04",
-        "ts": 1790165045
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Iranian electronic football team won the gold medal by defeating Malaysia in the final of the Nagoya Asian Games. The team, consisting of Hassan Pajani and Abolfazl Aghaei-Nasab, played in the final match. They had previously qualified for the final by defeating Japan.",
-        "time": "12:05",
-        "ts": 1790165100
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1155,14 +1141,21 @@
         "text": "The Iranian national rowing team won six medals, including two golds, three silvers, and one bronze, finishing second after China at the Nagoya Asian Games. Iranian athletes won medals in various women's and men's events. China became the champion with nine gold medals, and Uzbekistan took third place.",
         "time": "11:52",
         "ts": 1790250764
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Low-income families in Qaleh Ganj report inability to afford clothing, bags, and shoes for students. The cost of clothing and shoes for one student can reach about ten million tomans. Economic poverty, long distances between villages, lack of local staff, and early marriage of girls are among the obstacles to education in the area.",
+        "time": "12:05",
+        "ts": 1790251509
       }
     ],
     "language": "en",
-    "packId": "20260924-50",
-    "sequence": 50,
+    "packId": "20260924-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:53"
+    "updatedAt": "12:06"
   },
   "verified": true
 }
