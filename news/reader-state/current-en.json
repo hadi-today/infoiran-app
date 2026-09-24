@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-12 seq=12 exp=1790393085",
+      "advancedStatus": "pack_id=20260924-13 seq=13 exp=1790395438",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:24",
+      "lastChecked": "04:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 03:24",
+    "expiresAt": "2026-09-26 04:03",
     "items": [
       {
         "channel": "iranintl",
@@ -1246,14 +1246,21 @@
         "text": "Andriy Sybiha, Ukraine's foreign minister, met with Abbas Araghchi to discuss reciprocal measures to prevent escalation of tensions between the two countries. The meeting took place on the sidelines of the UN General Assembly in New York. Both sides agreed to keep communication channels open.",
         "time": "03:23",
         "ts": 1790220235
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Scott Bessent, US Treasury Secretary, said on Wednesday in an interview with Fox News that more than 80 to 90 percent of Iran's foreign flights have been halted and expressed doubt about how Iran's representatives at the UN would return home. He considered this situation part of the US economic ostracism campaign against the Islamic Republic and said that the Iranian government is under unprecedented pressure.",
+        "time": "04:03",
+        "ts": 1790222596
       }
     ],
     "language": "en",
-    "packId": "20260924-12",
-    "sequence": 12,
+    "packId": "20260924-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:24"
+    "updatedAt": "04:03"
   },
   "verified": true
 }
