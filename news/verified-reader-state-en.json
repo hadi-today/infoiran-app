@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-46 seq=46 exp=1790419796",
+      "advancedStatus": "pack_id=20260924-47 seq=47 exp=1790419931",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:49",
+      "lastChecked": "10:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 10:49",
+    "expiresAt": "2026-09-26 10:52",
     "items": [
       {
         "channel": "iranintl",
@@ -1183,14 +1183,21 @@
         "text": "Arman Khodai won the silver medal in the pommel horse final with a score of 14.566. Representatives from Uzbekistan and Japan placed first and third respectively.",
         "time": "10:48",
         "ts": 1790246939
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amnesty International reported that 377 people were killed during the crackdown on the Mahsa Amini protests. The organization has over 150 additional names that will be announced after verification. Amnesty International emphasized that the actual number of deaths is much higher than this figure.",
+        "time": "10:51",
+        "ts": 1790247085
       }
     ],
     "language": "en",
-    "packId": "20260924-46",
-    "sequence": 46,
+    "packId": "20260924-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:49"
+    "updatedAt": "10:52"
   },
   "verified": true
 }
