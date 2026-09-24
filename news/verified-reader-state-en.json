@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260924-03 seq=3 exp=1790383566",
+      "advancedStatus": "pack_id=20260924-04 seq=4 exp=1790383712",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:46",
+      "lastChecked": "00:48",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-24",
-    "expiresAt": "2026-09-26 00:46",
+    "expiresAt": "2026-09-26 00:48",
     "items": [
       {
         "channel": "iranintl",
@@ -1225,14 +1225,21 @@
         "text": "Antonio Costa, President of the European Council, called for an end to the Islamic Republic's attacks on neighboring countries. He also emphasized the full restoration of freedom of navigation in the Strait of Hormuz. Costa had previously condemned these attacks and considered the restoration of navigation freedom a priority for the European Union.",
         "time": "00:45",
         "ts": 1790210720
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fatemeh Mojallal won the gold medal in the women's lightweight single sculls rowing final at the 2026 Aichi-Nagoya Asian Games with a time of 7:24:57. She finished ahead of competitors from Kazakhstan, Hong Kong, Thailand, South Korea, and Vietnam. This medal is the first gold in the history of Iranian women's rowing at the Asian Games.",
+        "time": "00:47",
+        "ts": 1790210872
       }
     ],
     "language": "en",
-    "packId": "20260924-03",
-    "sequence": 3,
+    "packId": "20260924-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:46"
+    "updatedAt": "00:48"
   },
   "verified": true
 }
