@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-27 seq=27 exp=1790499911",
+      "advancedStatus": "pack_id=20260925-28 seq=28 exp=1790500441",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:05",
+      "lastChecked": "09:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 09:05",
+    "expiresAt": "2026-09-27 09:14",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Yousef Rahimi and Azad Rahmati, citizens of Baneh, were arrested by security forces. They were transferred to an unknown location. This incident occurred yesterday.",
-        "time": "09:04",
-        "ts": 1790240670
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Sarkan Ern, founder of the aid organization Stelp in Germany, was sentenced to 10 years in prison by a court in Iran. He traveled to Iran in 2025 for a humanitarian mission and was arrested upon arrival. The Stelp organization is in contact with Turkish authorities for his release.",
-        "time": "09:12",
-        "ts": 1790241162
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -980,14 +966,21 @@
         "text": "A citizen reported in a video that water was continuously cut off for 33 hours. Due to the depletion of water reserves, he faced difficulties in bathing and cleaning his shop. The citizen addressed Masoud Pezeshkian and asked if the United States had cut the water.",
         "time": "09:04",
         "ts": 1790327042
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A viewer of Iran International said Masoud Pezeshkian's speech does not matter to them, and they consider the speeches of Donald Trump and Benjamin Netanyahu more important. The viewer identified Reza Pahlavi as the true representative of the Iranian people. They hope Reza Pahlavi will attend international assemblies as the official representative of the Iranian nation.",
+        "time": "09:12",
+        "ts": 1790327577
       }
     ],
     "language": "en",
-    "packId": "20260925-27",
-    "sequence": 27,
+    "packId": "20260925-28",
+    "sequence": 28,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:05"
+    "updatedAt": "09:14"
   },
   "verified": true
 }
