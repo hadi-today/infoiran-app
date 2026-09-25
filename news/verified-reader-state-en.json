@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-04 seq=4 exp=1790472779",
+      "advancedStatus": "pack_id=20260925-05 seq=5 exp=1790473134",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:32",
+      "lastChecked": "01:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 01:32",
+    "expiresAt": "2026-09-27 01:38",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Shoja Panahi lost to Wang Chengjin from China in the final match of the 65-kg wushu sanda category and won the silver medal. He had previously defeated Gavin Hakkin from Vietnam 2-0 in the semifinal.",
-        "time": "01:34",
-        "ts": 1790213695
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Sogand Sinkai lost to Wei Yu Di from China in the final of the 52-kg Wushu Sanda category and won the silver medal. She had defeated Chan Qing from Hong Kong in the semifinals. This is the fourth silver medal for the Iranian team at the Nagoya Asian Games.",
-        "time": "01:35",
-        "ts": 1790213745
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1008,14 +994,21 @@
         "text": "About 80 countries issued a joint statement calling for the immediate and full reopening of the Strait of Hormuz and condemned attacks by Iran and the Houthis. The statement was read by Bahrain's foreign minister at the United Nations. The signatories emphasized the safe passage of ships through this waterway.",
         "time": "01:32",
         "ts": 1790299933
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Saudi Arabia, Turkey, and Pakistan will hold an emergency meeting with their military commanders to discuss support for Riyadh following attacks by Yemen's Houthis. The meeting aims to review support for Riyadh's right to self-defense within the framework of a joint defense agreement. Analysts have expressed doubts about the implementation and commitment levels of the Makkah Pact.",
+        "time": "01:38",
+        "ts": 1790300284
       }
     ],
     "language": "en",
-    "packId": "20260925-04",
-    "sequence": 4,
+    "packId": "20260925-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:32"
+    "updatedAt": "01:38"
   },
   "verified": true
 }
