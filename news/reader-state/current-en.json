@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-118 seq=118 exp=1790548116",
+      "advancedStatus": "pack_id=20260925-119 seq=119 exp=1790548212",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:28",
+      "lastChecked": "22:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 22:28",
+    "expiresAt": "2026-09-27 22:30",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "Shahram Kholdi said Israel, as the only democracy in the Middle East, plays an important role in removing the Islamic Republic. He added that the disagreement between the US and Israel is about how to change the government in Iran, not the principle of change. The US prefers change from within the government, while Israel views all factions of the Islamic Republic as a single structure.",
         "time": "22:27",
         "ts": 1790375266
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Abdi, the coach of Iran's under-23 team, did not deny his relationship with Ali Akbar Raefipour and described it with pride. Raefipour is known as a government speaker with statements about Mahdism, the end times, and hostility towards Israel. This topic was covered in Raha Pourbakhsh's report on the Hattrick program.",
+        "time": "22:29",
+        "ts": 1790375372
       }
     ],
     "language": "en",
-    "packId": "20260925-118",
-    "sequence": 118,
+    "packId": "20260925-119",
+    "sequence": 119,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:28"
+    "updatedAt": "22:30"
   },
   "verified": true
 }
