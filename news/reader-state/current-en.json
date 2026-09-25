@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-41 seq=41 exp=1790506228",
+      "advancedStatus": "pack_id=20260925-42 seq=42 exp=1790506856",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:50",
+      "lastChecked": "11:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 10:50",
+    "expiresAt": "2026-09-27 11:00",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Arman Khodai won the silver medal in the pommel horse final with a score of 14.566. Representatives from Uzbekistan and Japan placed first and third respectively.",
-        "time": "10:48",
-        "ts": 1790246939
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Amnesty International reported that 377 people were killed during the crackdown on the Mahsa Amini protests. The organization has over 150 additional names that will be announced after verification. Amnesty International emphasized that the actual number of deaths is much higher than this figure.",
-        "time": "10:51",
-        "ts": 1790247085
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -987,14 +973,21 @@
         "text": "Families of political prisoners executed in 1988 were prevented from entering Khavaran Cemetery today and placed their flowers behind closed gates. They held a ceremony at the site to honor the victims. Security forces filmed the families at the end of the ceremony.",
         "time": "10:48",
         "ts": 1790333331
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Mokhber reacted to the suspension of Iranian airlines' flights in some countries and threatened those countries. He stated that flights in the region should be free for everyone or for no one. He also said that if Iran cannot fly or receive airport services, no country in the region will have this possibility either.",
+        "time": "11:00",
+        "ts": 1790334006
       }
     ],
     "language": "en",
-    "packId": "20260925-41",
-    "sequence": 41,
+    "packId": "20260925-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:50"
+    "updatedAt": "11:00"
   },
   "verified": true
 }
