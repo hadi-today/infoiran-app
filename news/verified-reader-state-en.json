@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-81 seq=81 exp=1790526455",
+      "advancedStatus": "pack_id=20260925-82 seq=82 exp=1790526574",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:27",
+      "lastChecked": "16:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 16:27",
+    "expiresAt": "2026-09-27 16:29",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A father married off his eight-year-old daughter due to financial problems. This event is an example of child marriage and a violation of children's rights. No further information about the man's age or the location has been released.",
-        "time": "16:27",
-        "ts": 1790267244
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -938,14 +931,21 @@
         "text": "Nazanin Sharifian, a representative of the Yashar party, said the exit of some delegations from the UN General Assembly during Netanyahu's speech indicates Israel's difficult diplomatic situation. She emphasized that as long as the Islamic Republic is in power, the security of Israel and the region will not be ensured. Sharifian also described Masoud Pezeshkian's remarks as a distorted image of the Islamic Republic and called for Israel to cooperate with the US and regional countries.",
         "time": "16:26",
         "ts": 1790353594
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abbas Araghchi, Iran's foreign minister, met with Faisal bin Farhan, Saudi Arabia's foreign minister, on the sidelines of the 81st UN General Assembly. He also met with India's foreign minister and attended the ECO foreign ministers' meeting.",
+        "time": "16:28",
+        "ts": 1790353682
       }
     ],
     "language": "en",
-    "packId": "20260925-81",
-    "sequence": 81,
+    "packId": "20260925-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:27"
+    "updatedAt": "16:29"
   },
   "verified": true
 }
