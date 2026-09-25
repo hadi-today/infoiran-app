@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-72 seq=72 exp=1790522173",
+      "advancedStatus": "pack_id=20260925-73 seq=73 exp=1790522434",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:16",
+      "lastChecked": "15:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 15:16",
+    "expiresAt": "2026-09-27 15:20",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Najmeh Amini, a prisoner sentenced to death, is held in Vakilabad Prison in Mashhad. She has been sentenced to death and over 12 years in prison in two separate cases. The charges include blasphemy, acting against national security, and propaganda against the regime.",
-        "time": "15:15",
-        "ts": 1790262926
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -959,14 +952,21 @@
         "text": "Amid the Chinese president's historic visit to the US and the Israeli prime minister's emphasis on overthrowing the Islamic Republic, there are speculations about Trump's decision regarding a deal or the destruction of Iran's government. Hossein Aghaei provided an analytical view on this topic in the program \"Peyvast.\" This issue was covered by Iran International.",
         "time": "15:15",
         "ts": 1790349322
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Recep Tayyip Erdogan stated that Turkey has kept communication channels open with the US and the Islamic Republic to prevent escalation of conflicts. He emphasized that Turkey does not want to choose sides between East and West and continues to expand relations with various powers. Erdogan also said Turkey plays a mediating role in the Ukraine war.",
+        "time": "15:19",
+        "ts": 1790349550
       }
     ],
     "language": "en",
-    "packId": "20260925-72",
-    "sequence": 72,
+    "packId": "20260925-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:16"
+    "updatedAt": "15:20"
   },
   "verified": true
 }
