@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-49 seq=49 exp=1790511804",
+      "advancedStatus": "pack_id=20260925-50 seq=50 exp=1790511986",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:23",
+      "lastChecked": "12:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 12:23",
+    "expiresAt": "2026-09-27 12:26",
     "items": [
       {
         "channel": "iranintl",
@@ -973,14 +973,21 @@
         "text": "Pezhman Amani from Saqez and Shahin Mostafazadeh from Mahabad were arrested separately by intelligence agents on Wednesday, 1 Mehr. They were transferred to an unknown location. Pezhman Amani's and his family members' phones were also confiscated.",
         "time": "12:22",
         "ts": 1790338933
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Amitt Institute for Terrorism and Intelligence Research reported an increase in the role of Chinese parts in the Houthi's military capabilities. The institute stated that China has become one of the main sources for supplying drone parts and weapons to the Houthis. This report is based on data from intercepted shipments.",
+        "time": "12:23",
+        "ts": 1790339021
       }
     ],
     "language": "en",
-    "packId": "20260925-49",
-    "sequence": 49,
+    "packId": "20260925-50",
+    "sequence": 50,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:23"
+    "updatedAt": "12:26"
   },
   "verified": true
 }
