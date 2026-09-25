@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-79 seq=79 exp=1790524951",
+      "advancedStatus": "pack_id=20260925-80 seq=80 exp=1790525497",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:02",
+      "lastChecked": "16:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 16:02",
+    "expiresAt": "2026-09-27 16:11",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,21 @@
         "text": "The fourth day of the 81st UN General Assembly continues with speeches by the prime ministers of Iraq, Lebanon, Pakistan, Egypt, and the Bahraini foreign minister. The speeches focus on freedom of navigation, regional security, Middle East developments, diplomacy, and economic challenges. This report is by Maryam Rahmati from Iran International.",
         "time": "16:01",
         "ts": 1790352079
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A US defense official told Al Jazeera that on Wednesday, 60 ships passed through the Strait of Hormuz, carrying the largest daily volume of oil since July. Yesterday, a US official also told Reuters that about 60 commercial ships passed through the Strait of Hormuz. According to the official, a total of about 22 million barrels of oil passed through this strategic maritime passage.",
+        "time": "16:10",
+        "ts": 1790352637
       }
     ],
     "language": "en",
-    "packId": "20260925-79",
-    "sequence": 79,
+    "packId": "20260925-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:02"
+    "updatedAt": "16:11"
   },
   "verified": true
 }
