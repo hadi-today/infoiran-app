@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-09 seq=9 exp=1790476671",
+      "advancedStatus": "pack_id=20260925-10 seq=10 exp=1790479534",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:37",
+      "lastChecked": "03:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 02:37",
+    "expiresAt": "2026-09-27 03:25",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Andriy Sybiha, Ukraine's foreign minister, met with Abbas Araghchi to discuss reciprocal measures to prevent escalation of tensions between the two countries. The meeting took place on the sidelines of the UN General Assembly in New York. Both sides agreed to keep communication channels open.",
-        "time": "03:23",
-        "ts": 1790220235
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1001,14 +994,21 @@
         "text": "Dani Danon, Israel's ambassador to the UN, offered Naser Asadi, the representative of the Islamic Republic, a Starlink device in a video and suggested he take it to Tehran. He said the device could be useful in Iran and help the Iranian people achieve freedom. Danon also expressed hope for regime change in Iran.",
         "time": "02:36",
         "ts": 1790303813
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Russian Foreign Ministry announced that Sergey Lavrov and Abbas Araghchi emphasized the necessity of a diplomatic resolution to the crisis caused by the US and Israel's war against Iran during their meeting in New York. The ministry called the actions of the US and Israel illegal and stated there is no alternative to a diplomatic solution. Russia and Iran signed a strategic partnership agreement in 2025 that foresees closer defense cooperation.",
+        "time": "03:24",
+        "ts": 1790306691
       }
     ],
     "language": "en",
-    "packId": "20260925-09",
-    "sequence": 9,
+    "packId": "20260925-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:37"
+    "updatedAt": "03:25"
   },
   "verified": true
 }
