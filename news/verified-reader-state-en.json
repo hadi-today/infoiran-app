@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-29 seq=29 exp=1790500682",
+      "advancedStatus": "pack_id=20260925-30 seq=30 exp=1790500798",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:18",
+      "lastChecked": "09:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 09:18",
+    "expiresAt": "2026-09-27 09:19",
     "items": [
       {
         "channel": "iranintl",
@@ -980,14 +980,21 @@
         "text": "Hamid Ghaeni-Nejad, a resident of Mashhad, remains in indefinite detention in Vakilabad prison after six months. He suffers from physical problems and requires continuous medical care but has been deprived of proper treatment. Forensic medicine has confirmed his inability to endure imprisonment, and a one billion toman bail has been set, which he cannot afford.",
         "time": "09:17",
         "ts": 1790327830
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen in Shiraz spray-painted an image of Mohammad Reza Shah Pahlavi on a wall. Next to the image, a famous verse from Shahnameh and slogans \"Long live Iran\" and \"Long live the Shah\" were written. This video was published by Iran International.",
+        "time": "09:18",
+        "ts": 1790327915
       }
     ],
     "language": "en",
-    "packId": "20260925-29",
-    "sequence": 29,
+    "packId": "20260925-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:18"
+    "updatedAt": "09:19"
   },
   "verified": true
 }
