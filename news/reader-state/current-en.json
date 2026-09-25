@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-56 seq=56 exp=1790514065",
+      "advancedStatus": "pack_id=20260925-57 seq=57 exp=1790514341",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:01",
+      "lastChecked": "13:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 13:01",
+    "expiresAt": "2026-09-27 13:05",
     "items": [
       {
         "channel": "iranintl",
@@ -987,14 +987,21 @@
         "text": "The mother of Amir Setarirad participated in the memorial campaign by lighting a candle at his grave. Amir Setarirad was an environmental researcher and teacher who was killed on January 9, 2026, in Karaj. His mother expressed the absence of her son in the classroom.",
         "time": "12:58",
         "ts": 1790341102
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Masoud Pezeshkian rejected the published statistics about the casualties of the December protests in an interview with Fox News. He stated that the number of casualties was slightly more than three thousand. These remarks were made in an interview with Samira Gharaei, a reporter for Iran International.",
+        "time": "13:02",
+        "ts": 1790341330
       }
     ],
     "language": "en",
-    "packId": "20260925-56",
-    "sequence": 56,
+    "packId": "20260925-57",
+    "sequence": 57,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:01"
+    "updatedAt": "13:05"
   },
   "verified": true
 }
