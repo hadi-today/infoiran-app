@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-18 seq=18 exp=1790491616",
+      "advancedStatus": "pack_id=20260925-19 seq=19 exp=1790493538",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:46",
+      "lastChecked": "07:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 06:46",
+    "expiresAt": "2026-09-27 07:18",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Farid Ramazani, a 31-year-old Tehran resident, was killed on the evening of January 8, 2026, during protests in Aryashahr, Tehran. Security forces shot him and also fired at his right hand finger, which had a tattoo of the imperial crown. Videos show his father crying at his grave on his birthday.",
-        "time": "07:08",
-        "ts": 1790233689
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1001,14 +994,21 @@
         "text": "Masoud Pezeshkian held a meeting on the evening of October 2 in New York with several prominent figures in American media and think tanks. Attendees included Robert Malley and Trita Parsi. The meeting took place on the sidelines of the United Nations General Assembly.",
         "time": "06:45",
         "ts": 1790318738
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The management of Najaf Airport announced the suspension of all incoming flights from Iran and outgoing flights to Iran from 2 AM Friday until further notice. This decision was made based on official orders from relevant authorities. The Iranian Civil Aviation Organization also announced the suspension of accepting flights of Iranian airlines at Baghdad Airport.",
+        "time": "07:18",
+        "ts": 1790320689
       }
     ],
     "language": "en",
-    "packId": "20260925-18",
-    "sequence": 18,
+    "packId": "20260925-19",
+    "sequence": 19,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:46"
+    "updatedAt": "07:18"
   },
   "verified": true
 }
