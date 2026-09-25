@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-22 seq=22 exp=1790496086",
+      "advancedStatus": "pack_id=20260925-23 seq=23 exp=1790496299",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:01",
+      "lastChecked": "08:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 08:01",
+    "expiresAt": "2026-09-27 08:04",
     "items": [
       {
         "channel": "harana",
@@ -1001,14 +1001,21 @@
         "text": "Hossein Abdi resigned as head coach of Iran's U23 football team after returning to Iran. The team was eliminated in the group stage of the 2026 Asian Games in Nagoya. Abdi accepted responsibility for the results and apologized to the Iranian people.",
         "time": "08:00",
         "ts": 1790323229
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A court session was held for nine women residing in Ahvaz at the Revolutionary Court of the city. They are accused of membership in opposition groups, propaganda against the regime, and conspiracy against internal or external security. The judge sentenced each to five years in prison, with a reduction to one year if they complete a mandatory ideological reform period.",
+        "time": "08:04",
+        "ts": 1790323452
       }
     ],
     "language": "en",
-    "packId": "20260925-22",
-    "sequence": 22,
+    "packId": "20260925-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:01"
+    "updatedAt": "08:04"
   },
   "verified": true
 }
