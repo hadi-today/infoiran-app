@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-54 seq=54 exp=1790513548",
+      "advancedStatus": "pack_id=20260925-55 seq=55 exp=1790513855",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:52",
+      "lastChecked": "12:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 12:52",
+    "expiresAt": "2026-09-27 12:57",
     "items": [
       {
         "channel": "iranintl",
@@ -973,14 +973,21 @@
         "text": "Benjamin Netanyahu's plane passed through Canadian airspace en route to New York for a UN General Assembly speech. Canada had previously stated it would enforce the ICC arrest warrant if Netanyahu entered its territory. A Canadian foreign ministry spokesperson said the overflight permission does not imply endorsement of Israeli policies and was granted due to the importance of diplomatic interactions.",
         "time": "12:50",
         "ts": 1790340659
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "With new US sanctions against Iran's aviation industry, flight restrictions for Iranian companies in the region have increased. Flights from Iran to Najaf, Erbil, and Sulaymaniyah have been stopped. Access to other routes has also faced limitations.",
+        "time": "12:54",
+        "ts": 1790340843
       }
     ],
     "language": "en",
-    "packId": "20260925-54",
-    "sequence": 54,
+    "packId": "20260925-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:52"
+    "updatedAt": "12:57"
   },
   "verified": true
 }
