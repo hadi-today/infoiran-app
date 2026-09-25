@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-06 seq=6 exp=1790474195",
+      "advancedStatus": "pack_id=20260925-07 seq=7 exp=1790475944",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:56",
+      "lastChecked": "02:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 01:56",
+    "expiresAt": "2026-09-27 02:25",
     "items": [
       {
         "channel": "iranintl",
@@ -994,14 +994,21 @@
         "text": "Israeli officials believe that resuming attacks on Iran is only a matter of time and Israel is prepared defensively and offensively. They threatened to attack nuclear facilities if Tehran crosses red lines. Additionally, Israeli elections will not affect the decision for a possible attack, and the ongoing US-Iran negotiations are considered insignificant.",
         "time": "01:55",
         "ts": 1790301346
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Masoud Pezeshkian told Fox News that Iran has never sought nuclear weapons and adheres to the framework of the Nuclear Non-Proliferation Treaty. Responding to a question about 60% uranium enrichment, he stated that Iran is ready to dilute these materials and attributes the problem to US behavior. Pezeshkian also emphasized that Iran will continue to resist despite economic problems caused by sanctions and will not surrender.",
+        "time": "02:24",
+        "ts": 1790303096
       }
     ],
     "language": "en",
-    "packId": "20260925-06",
-    "sequence": 6,
+    "packId": "20260925-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:56"
+    "updatedAt": "02:25"
   },
   "verified": true
 }
