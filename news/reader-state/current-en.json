@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-100 seq=100 exp=1790536338",
+      "advancedStatus": "pack_id=20260925-101 seq=101 exp=1790536586",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:12",
+      "lastChecked": "19:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 19:12",
+    "expiresAt": "2026-09-27 19:16",
     "items": [
       {
         "channel": "harana",
@@ -938,14 +938,21 @@
         "text": "The Court of Appeals of Qom Province confirmed the sentences of lashes and artistic activity bans for Parasto Ahmadi and eight other members involved in the Caravanserai concert. Previously, they were sentenced to 74 lashes, two years of travel ban, and two years of prohibition from artistic activities. The verdict was initially issued by the criminal court.",
         "time": "19:11",
         "ts": 1790363492
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Nawaf Salam, the Prime Minister of Lebanon, stated at the United Nations that attacks by the Islamic Republic threaten regional security and maritime navigation. He said the consequences extend beyond conflicts, affecting supply chains, commodity prices, and inflation rates. These remarks were made on Friday, September 24.",
+        "time": "19:15",
+        "ts": 1790363732
       }
     ],
     "language": "en",
-    "packId": "20260925-100",
-    "sequence": 100,
+    "packId": "20260925-101",
+    "sequence": 101,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:12"
+    "updatedAt": "19:16"
   },
   "verified": true
 }
