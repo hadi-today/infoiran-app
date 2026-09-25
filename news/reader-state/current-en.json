@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-02 seq=2 exp=1790468393",
+      "advancedStatus": "pack_id=20260925-03 seq=3 exp=1790471617",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:19",
+      "lastChecked": "01:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 00:19",
+    "expiresAt": "2026-09-27 01:13",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Jane Shaheen, a senior Democrat on the US Senate Foreign Relations Committee, called for using the new Russia and Iran sanctions law to counter China's support for the Islamic Republic. She stated that Chinese entities have supported the Islamic Republic during the war, contributing to attacks on US forces and facilities. Shaheen urged the Trump administration to increase pressure on Beijing to stop these supports.",
-        "time": "00:30",
-        "ts": 1790209821
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Antonio Costa, President of the European Council, called for an end to the Islamic Republic's attacks on neighboring countries. He also emphasized the full restoration of freedom of navigation in the Strait of Hormuz. Costa had previously condemned these attacks and considered the restoration of navigation freedom a priority for the European Union.",
-        "time": "00:45",
-        "ts": 1790210720
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Fatemeh Mojallal won the gold medal in the women's lightweight single sculls rowing final at the 2026 Aichi-Nagoya Asian Games with a time of 7:24:57. She finished ahead of competitors from Kazakhstan, Hong Kong, Thailand, South Korea, and Vietnam. This medal is the first gold in the history of Iranian women's rowing at the Asian Games.",
-        "time": "00:47",
-        "ts": 1790210872
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1022,14 +1001,21 @@
         "text": "Colombia announced it has cut diplomatic relations with the Islamic Republic of Iran as of September 19, 2026. The reasons include security concerns, alleged ties between Tehran and terrorist groups, human rights violations, and Iran's actions in the region. Consular relations between the two countries will continue.",
         "time": "00:19",
         "ts": 1790295541
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The \"NIAC\" group has sued US President Donald Trump for continuing the war with the Iranian government without congressional authorization. The group has asked the federal court to declare this action unconstitutional. NIAC states that the authority to declare war under the US Constitution rests with Congress, and Trump has continued the war with Iran without obtaining such authorization.",
+        "time": "01:12",
+        "ts": 1790298771
       }
     ],
     "language": "en",
-    "packId": "20260925-02",
-    "sequence": 2,
+    "packId": "20260925-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:19"
+    "updatedAt": "01:13"
   },
   "verified": true
 }
