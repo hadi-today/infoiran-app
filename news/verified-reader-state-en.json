@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-21 seq=21 exp=1790495934",
+      "advancedStatus": "pack_id=20260925-22 seq=22 exp=1790496086",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:58",
+      "lastChecked": "08:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 07:58",
+    "expiresAt": "2026-09-27 08:01",
     "items": [
       {
         "channel": "harana",
@@ -994,14 +994,21 @@
         "text": "Abbas Araghchi stated in a meeting with the Portuguese foreign minister that insecurity in the Strait of Hormuz is a result of actions by the US and Israel. He called for stopping unsafe actions by the US to restore maritime security. He also urged the European Union to adopt an independent and responsible approach to regional developments.",
         "time": "07:56",
         "ts": 1790323012
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Abdi resigned as head coach of Iran's U23 football team after returning to Iran. The team was eliminated in the group stage of the 2026 Asian Games in Nagoya. Abdi accepted responsibility for the results and apologized to the Iranian people.",
+        "time": "08:00",
+        "ts": 1790323229
       }
     ],
     "language": "en",
-    "packId": "20260925-21",
-    "sequence": 21,
+    "packId": "20260925-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:58"
+    "updatedAt": "08:01"
   },
   "verified": true
 }
