@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-42 seq=42 exp=1790506856",
+      "advancedStatus": "pack_id=20260925-43 seq=43 exp=1790507535",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:00",
+      "lastChecked": "11:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 11:00",
+    "expiresAt": "2026-09-27 11:12",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The Traffic Police Social and Cultural Deputy announced that out of 19,540 traffic accident fatalities last year, 24% were children and adolescents. 6% of the total fatalities were children aged 1 to 10 years, and 18% were in the 10 to 20 years age group. This statistic was reported by Colonel Ali Asghar Zare.",
-        "time": "11:03",
-        "ts": 1790247836
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -980,14 +973,21 @@
         "text": "Mohammad Mokhber reacted to the suspension of Iranian airlines' flights in some countries and threatened those countries. He stated that flights in the region should be free for everyone or for no one. He also said that if Iran cannot fly or receive airport services, no country in the region will have this possibility either.",
         "time": "11:00",
         "ts": 1790334006
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amnesty International launched a global campaign to end impunity for perpetrators of crimes against humanity in Iran, coinciding with the release of a report on the crackdown on the Woman, Life, Freedom uprising. The organization has called on people to sign a petition urging UN member states to establish an international mechanism to investigate and prosecute those responsible.",
+        "time": "11:11",
+        "ts": 1790334681
       }
     ],
     "language": "en",
-    "packId": "20260925-42",
-    "sequence": 42,
+    "packId": "20260925-43",
+    "sequence": 43,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:00"
+    "updatedAt": "11:12"
   },
   "verified": true
 }
