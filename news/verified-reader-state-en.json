@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-40 seq=40 exp=1790506115",
+      "advancedStatus": "pack_id=20260925-41 seq=41 exp=1790506228",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:48",
+      "lastChecked": "10:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 10:48",
+    "expiresAt": "2026-09-27 10:50",
     "items": [
       {
         "channel": "iranintl",
@@ -980,14 +980,21 @@
         "text": "Saeed Shirali, 22 years old, was killed on the evening of January 8 during protests on Azadi Street in Tehran by government forces. His mother said she searched for him for three days and found his body with three bullet wounds.",
         "time": "10:47",
         "ts": 1790333257
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Families of political prisoners executed in 1988 were prevented from entering Khavaran Cemetery today and placed their flowers behind closed gates. They held a ceremony at the site to honor the victims. Security forces filmed the families at the end of the ceremony.",
+        "time": "10:48",
+        "ts": 1790333331
       }
     ],
     "language": "en",
-    "packId": "20260925-40",
-    "sequence": 40,
+    "packId": "20260925-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:48"
+    "updatedAt": "10:50"
   },
   "verified": true
 }
