@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-85 seq=85 exp=1790527411",
+      "advancedStatus": "pack_id=20260925-86 seq=86 exp=1790527894",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:43",
+      "lastChecked": "16:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 16:43",
+    "expiresAt": "2026-09-27 16:51",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Mohammad Naderi, a prisoner in Tehran's Great Prison, was sentenced to death for espionage by Branch 23 of the Tehran Revolutionary Court. This sentence was reported by the HRANA news agency. Naderi was arrested during security developments related to the war.",
-        "time": "16:44",
-        "ts": 1790268291
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -931,14 +924,21 @@
         "text": "Ahmad Rahimi has been held in Vakilabad Prison in Mashhad for over six months without a judicial decision. He suffers from multiple illnesses but has been deprived of specialized medical care. His legal case remains unresolved and no court session has been held for him.",
         "time": "16:42",
         "ts": 1790354531
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A senior Iranian official stated that even if the US accepts Iran's proposal to reopen the Strait of Hormuz, Iran will not show any flexibility in its nuclear program. The official emphasized that the Strait of Hormuz will remain closed until all of Iran's conditions are met by the US. The proposal includes lifting the US naval blockade of Iranian ports.",
+        "time": "16:50",
+        "ts": 1790355029
       }
     ],
     "language": "en",
-    "packId": "20260925-85",
-    "sequence": 85,
+    "packId": "20260925-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:43"
+    "updatedAt": "16:51"
   },
   "verified": true
 }
