@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-103 seq=103 exp=1790537425",
+      "advancedStatus": "pack_id=20260925-104 seq=104 exp=1790537541",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:30",
+      "lastChecked": "19:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 19:30",
+    "expiresAt": "2026-09-27 19:32",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,28 @@
         "text": "The audio version of Harf Akhar with Pouria Zeraati has been released. The topic covers details of the US plan to resume attacks. This was reported by Iran International.",
         "time": "19:29",
         "ts": 1790364559
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The Tehran prosecutor's office has filed a legal case against the cast of the play \"Tehran/Paris/Tehran/Bridge.\" This action followed the release of images from the play's performance. The images showed Fatemeh Masoudifar and Mehrdad Sedighian performing a scene.",
+        "time": "19:30",
+        "ts": 1790364644
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen reported that children's play equipment was removed from the park in Payam Town, Karaj. In its place, an anonymous cemetery was established. Additionally, a Hosseiniyeh for Basijis was built nearby.",
+        "time": "19:31",
+        "ts": 1790364684
       }
     ],
     "language": "en",
-    "packId": "20260925-103",
-    "sequence": 103,
+    "packId": "20260925-104",
+    "sequence": 104,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:30"
+    "updatedAt": "19:32"
   },
   "verified": true
 }
