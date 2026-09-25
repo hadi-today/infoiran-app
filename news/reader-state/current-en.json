@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-30 seq=30 exp=1790500798",
+      "advancedStatus": "pack_id=20260925-31 seq=31 exp=1790501776",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:19",
+      "lastChecked": "09:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 09:19",
+    "expiresAt": "2026-09-27 09:36",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen reported that pharmacies do not provide the full prescribed amount of Ruflo inhalation capsules. This medication is used for lung diseases. The issue was reported to Iran International.",
-        "time": "09:34",
-        "ts": 1790242483
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -987,14 +980,21 @@
         "text": "A citizen in Shiraz spray-painted an image of Mohammad Reza Shah Pahlavi on a wall. Next to the image, a famous verse from Shahnameh and slogans \"Long live Iran\" and \"Long live the Shah\" were written. This video was published by Iran International.",
         "time": "09:18",
         "ts": 1790327915
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Rouhollah Rahimpour spoke about China's role in Tehran-Washington negotiations, stating that Beijing can play a significant mediating role. He added that this role cannot be considered decisive. China has relations and economic interests with both sides.",
+        "time": "09:35",
+        "ts": 1790328935
       }
     ],
     "language": "en",
-    "packId": "20260925-30",
-    "sequence": 30,
+    "packId": "20260925-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:19"
+    "updatedAt": "09:36"
   },
   "verified": true
 }
