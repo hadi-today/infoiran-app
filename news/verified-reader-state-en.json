@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-25 seq=25 exp=1790498136",
+      "advancedStatus": "pack_id=20260925-26 seq=26 exp=1790499810",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:35",
+      "lastChecked": "09:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 08:35",
+    "expiresAt": "2026-09-27 09:03",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Roland McKean, the Farsi-speaking spokesperson for the US State Department, stated in an exclusive interview with Iran International on the sidelines of the UN General Assembly's annual meeting: \"We want to cut off all the currents that keep the regime afloat.\" He added that the Islamic Republic must cease supporting proxy groups and abandon its nuclear activities. McKean also commented on the economic problems of Iranians, saying that the people of Iran deserve a prosperous and peaceful life.",
-        "time": "08:43",
-        "ts": 1790239412
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The judiciary media announced the indictment of six officers in the case of sexual assault and battery of a teenager in Tabriz. These officers face charges of violating citizens' rights, creating distrust towards the armed forces, and intentional assault. The judiciary media did not include sexual assault among the charges.",
-        "time": "08:46",
-        "ts": 1790239598
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -980,14 +966,21 @@
         "text": "The police commander of Yazd province announced the arrest of a woman in the province. She is accused of involvement in the arson of a mosque in Tehran and disturbing public order during last December's protests. This information was reported by Harana News Agency.",
         "time": "08:34",
         "ts": 1790325292
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morteza Nemati, the Nagoya Asian Games champion, admitted to pretending to have a mental disorder to get a military exemption. He said after returning to Iran that he obtained a psychiatric exemption in the past year. Nemati did this to participate in national team camps and acknowledges that his action was wrong.",
+        "time": "09:02",
+        "ts": 1790326961
       }
     ],
     "language": "en",
-    "packId": "20260925-25",
-    "sequence": 25,
+    "packId": "20260925-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:35"
+    "updatedAt": "09:03"
   },
   "verified": true
 }
