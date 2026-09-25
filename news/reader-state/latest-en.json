@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-86 seq=86 exp=1790527894",
+      "advancedStatus": "pack_id=20260925-87 seq=87 exp=1790528364",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:51",
+      "lastChecked": "16:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 16:51",
+    "expiresAt": "2026-09-27 16:59",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Israeli government launched an advertising campaign against Iran's nuclear program in New York ahead of the speeches by Israeli and Palestinian leaders at the UN General Assembly. Messages such as \"Nuclear Iran is a threat to the entire world\" were displayed on 500 digital billboards and 12 trucks in Times Square and Manhattan. The cost of this advertising was paid by the Israeli government.",
-        "time": "16:54",
-        "ts": 1790268866
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -931,14 +924,21 @@
         "text": "A senior Iranian official stated that even if the US accepts Iran's proposal to reopen the Strait of Hormuz, Iran will not show any flexibility in its nuclear program. The official emphasized that the Strait of Hormuz will remain closed until all of Iran's conditions are met by the US. The proposal includes lifting the US naval blockade of Iranian ports.",
         "time": "16:50",
         "ts": 1790355029
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Al-Zaidi, the Prime Minister of Iraq, announced that after the end of the international coalition's mission in Iraq, the country's relations with strategic partners will shift to economic and developmental cooperation. He also called for increased border control and vigilance against extremism. These remarks were made at the United Nations General Assembly.",
+        "time": "16:58",
+        "ts": 1790355494
       }
     ],
     "language": "en",
-    "packId": "20260925-86",
-    "sequence": 86,
+    "packId": "20260925-87",
+    "sequence": 87,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:51"
+    "updatedAt": "16:59"
   },
   "verified": true
 }
