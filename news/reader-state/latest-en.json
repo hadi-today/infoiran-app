@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-102 seq=102 exp=1790536828",
+      "advancedStatus": "pack_id=20260925-103 seq=103 exp=1790537425",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:20",
+      "lastChecked": "19:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 19:20",
+    "expiresAt": "2026-09-27 19:30",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Workers at Saipa Large Industrial Molds Company in Tehran went on strike due to unmet demands. Additionally, 42 workers at Mahan Company in Moltan village, Mehrestan county, protested low wages and unpaid salaries by striking. These strikes are related to labor protests in these two areas.",
-        "time": "19:20",
-        "ts": 1790277618
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Israeli Prime Minister said at the UN General Assembly that Israel is engaged in a media war in addition to a military one. He accused Qatar of financially supporting universities and media against Israel and accused Turkey of supporting Hamas and other actions. Netanyahu emphasized that Israel will stand against the global campaign of misinformation.",
-        "time": "19:24",
-        "ts": 1790277850
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -952,14 +938,21 @@
         "text": "Masoud Pezeshkian appreciated Xi Jinping's support for returning to the Islamabad agreement and resolving disputes through dialogue. He emphasized that the Islamic Republic seeks to implement agreed commitments and serious negotiations. He also noted the alignment of Tehran and Beijing's views on respecting national sovereignty and maintaining regional stability.",
         "time": "19:19",
         "ts": 1790363976
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The audio version of Harf Akhar with Pouria Zeraati has been released. The topic covers details of the US plan to resume attacks. This was reported by Iran International.",
+        "time": "19:29",
+        "ts": 1790364559
       }
     ],
     "language": "en",
-    "packId": "20260925-102",
-    "sequence": 102,
+    "packId": "20260925-103",
+    "sequence": 103,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:20"
+    "updatedAt": "19:30"
   },
   "verified": true
 }
