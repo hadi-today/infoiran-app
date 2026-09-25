@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-55 seq=55 exp=1790513855",
+      "advancedStatus": "pack_id=20260925-56 seq=56 exp=1790514065",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:57",
+      "lastChecked": "13:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 12:57",
+    "expiresAt": "2026-09-27 13:01",
     "items": [
       {
         "channel": "iranintl",
@@ -980,14 +980,21 @@
         "text": "With new US sanctions against Iran's aviation industry, flight restrictions for Iranian companies in the region have increased. Flights from Iran to Najaf, Erbil, and Sulaymaniyah have been stopped. Access to other routes has also faced limitations.",
         "time": "12:54",
         "ts": 1790340843
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The mother of Amir Setarirad participated in the memorial campaign by lighting a candle at his grave. Amir Setarirad was an environmental researcher and teacher who was killed on January 9, 2026, in Karaj. His mother expressed the absence of her son in the classroom.",
+        "time": "12:58",
+        "ts": 1790341102
       }
     ],
     "language": "en",
-    "packId": "20260925-55",
-    "sequence": 55,
+    "packId": "20260925-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:57"
+    "updatedAt": "13:01"
   },
   "verified": true
 }
