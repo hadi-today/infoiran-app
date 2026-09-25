@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-53 seq=53 exp=1790513299",
+      "advancedStatus": "pack_id=20260925-54 seq=54 exp=1790513548",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:48",
+      "lastChecked": "12:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 12:48",
+    "expiresAt": "2026-09-27 12:52",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The third day of the UN General Assembly meeting continues in New York. Antonio Costa will speak today, followed by Benjamin Netanyahu. Netanyahu's speech is expected to focus on Iran, the Gaza war, and Israel's security.",
-        "time": "12:50",
-        "ts": 1790254239
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -973,14 +966,21 @@
         "text": "Pakistan's Foreign Ministry announced that under the Makkah joint defense agreement, an attack on any member is considered an attack on all members. The foreign ministers of the three countries met on the sidelines of the UN General Assembly and condemned attacks on Saudi Arabia. They also discussed holding an urgent meeting of military chiefs and establishing the agreement's secretariat.",
         "time": "12:46",
         "ts": 1790340363
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Benjamin Netanyahu's plane passed through Canadian airspace en route to New York for a UN General Assembly speech. Canada had previously stated it would enforce the ICC arrest warrant if Netanyahu entered its territory. A Canadian foreign ministry spokesperson said the overflight permission does not imply endorsement of Israeli policies and was granted due to the importance of diplomatic interactions.",
+        "time": "12:50",
+        "ts": 1790340659
       }
     ],
     "language": "en",
-    "packId": "20260925-53",
-    "sequence": 53,
+    "packId": "20260925-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:48"
+    "updatedAt": "12:52"
   },
   "verified": true
 }
