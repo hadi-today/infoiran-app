@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-10 seq=10 exp=1790479534",
+      "advancedStatus": "pack_id=20260925-11 seq=11 exp=1790485241",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:25",
+      "lastChecked": "05:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 03:25",
+    "expiresAt": "2026-09-27 05:00",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Scott Bessent, US Treasury Secretary, said on Wednesday in an interview with Fox News that more than 80 to 90 percent of Iran's foreign flights have been halted and expressed doubt about how Iran's representatives at the UN would return home. He considered this situation part of the US economic ostracism campaign against the Islamic Republic and said that the Iranian government is under unprecedented pressure.",
-        "time": "04:03",
-        "ts": 1790222596
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1001,14 +994,21 @@
         "text": "The Russian Foreign Ministry announced that Sergey Lavrov and Abbas Araghchi emphasized the necessity of a diplomatic resolution to the crisis caused by the US and Israel's war against Iran during their meeting in New York. The ministry called the actions of the US and Israel illegal and stated there is no alternative to a diplomatic solution. Russia and Iran signed a strategic partnership agreement in 2025 that foresees closer defense cooperation.",
         "time": "03:24",
         "ts": 1790306691
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Masoud Pezeshkian has expressed readiness to inspect nuclear facilities and address the issue of 60% uranium reserves. He and Abbas Araghchi tried to show in New York that the Islamic Republic is ready for agreement and cooperation. Pezeshkian did not give a clear answer about guaranteeing military forces' adherence to the potential agreement.",
+        "time": "04:59",
+        "ts": 1790312397
       }
     ],
     "language": "en",
-    "packId": "20260925-10",
-    "sequence": 10,
+    "packId": "20260925-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:25"
+    "updatedAt": "05:00"
   },
   "verified": true
 }
