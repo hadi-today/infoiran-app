@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260925-38 seq=38 exp=1790504760",
+      "advancedStatus": "pack_id=20260925-39 seq=39 exp=1790505766",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:26",
+      "lastChecked": "10:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-25",
-    "expiresAt": "2026-09-27 10:26",
+    "expiresAt": "2026-09-27 10:42",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A woman named Fatemeh Sadat Tabatabaei was killed by her husband in Bam. The prosecutor announced the arrest of the husband as the main suspect. The suspect's father is also under judicial investigation.",
-        "time": "10:25",
-        "ts": 1790245535
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A number of applicants for family reunification visas gathered in front of the German embassy in Tehran. The protesters demanded faster visa issuance and an end to uncertainty. They complained about the prolonged processing time of their applications.",
-        "time": "10:35",
-        "ts": 1790246137
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -980,14 +966,21 @@
         "text": "Donald Trump and Xi Jinping emphasized maintaining stability and expanding cooperation. Despite disagreements on issues like trade and Taiwan, the two countries must interact. China prefers to play a mediating role regarding the Islamic Republic.",
         "time": "10:25",
         "ts": 1790331903
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iranian U23 football team returned to Tehran after a 4-1 loss to North Korea and elimination from the group stage of the Nagoya Asian Games. Esmaeil Gholizadeh apologized to the public and cited infrastructure issues and last-minute player additions as reasons for the defeat. He denied rumors of player negligence and expressed hope for the future.",
+        "time": "10:41",
+        "ts": 1790332912
       }
     ],
     "language": "en",
-    "packId": "20260925-38",
-    "sequence": 38,
+    "packId": "20260925-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:26"
+    "updatedAt": "10:42"
   },
   "verified": true
 }
