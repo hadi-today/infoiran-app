@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-05 seq=5 exp=1790568037",
+      "advancedStatus": "pack_id=20260926-06 seq=6 exp=1790569074",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:00",
+      "lastChecked": "04:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 04:00",
+    "expiresAt": "2026-09-28 04:17",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "The Washington Post reported, citing US officials, that classified documents containing US intelligence community assessments show that Saudi Arabia has not ruled out the option of developing a nuclear weapons program. This assessment has increased concerns among a number of US lawmakers about the Trump administration's deal to help launch Saudi Arabia's civilian nuclear program. A group of Democratic senators warned that the deal could give Riyadh the ability to enrich uranium.",
         "time": "03:59",
         "ts": 1790395195
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fatemeh Jami, a resident of Gorgan, has been detained in the city's prison for about three months. She is accused of insulting sacred values and communicating with opposition groups. No trial has been held for her yet.",
+        "time": "04:17",
+        "ts": 1790396226
       }
     ],
     "language": "en",
-    "packId": "20260926-05",
-    "sequence": 5,
+    "packId": "20260926-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:00"
+    "updatedAt": "04:17"
   },
   "verified": true
 }
