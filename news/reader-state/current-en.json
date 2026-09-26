@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-78 seq=78 exp=1790620180",
+      "advancedStatus": "pack_id=20260926-79 seq=79 exp=1790620849",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:29",
+      "lastChecked": "18:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 18:29",
+    "expiresAt": "2026-09-28 18:40",
     "items": [
       {
         "channel": "iranintl",
@@ -791,14 +791,21 @@
         "text": "The death sentence of a woman in Tehran accused of killing her husband has been confirmed by the Supreme Court. This sentence was previously issued by the Criminal Court One of Tehran Province. The Supreme Court has upheld this sentence.",
         "time": "18:28",
         "ts": 1790447319
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Saeed Ajralu, a member of the Islamic Republic's negotiation team, said he is not optimistic about the outcome of the talks and that Iran has entered a complex and turbulent period. He emphasized that Tehran needs to strengthen its position in military, field, economic, and social areas. He also explained that Iran's seven-day proposal to the US involved starting comprehensive negotiations after the other side fulfilled its commitments.",
+        "time": "18:39",
+        "ts": 1790447989
       }
     ],
     "language": "en",
-    "packId": "20260926-78",
-    "sequence": 78,
+    "packId": "20260926-79",
+    "sequence": 79,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:29"
+    "updatedAt": "18:40"
   },
   "verified": true
 }
