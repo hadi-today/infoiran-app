@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-101 seq=101 exp=1790634994",
+      "advancedStatus": "pack_id=20260926-102 seq=102 exp=1790635090",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:36",
+      "lastChecked": "22:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 22:36",
+    "expiresAt": "2026-09-28 22:38",
     "items": [
       {
         "channel": "iranintl",
@@ -749,14 +749,21 @@
         "text": "Han Zheng, Vice President of China, emphasized Beijing's support for the security of Middle Eastern and Gulf countries at the UN General Assembly and condemned attacks on regional countries. Saudi Foreign Minister Faisal bin Farhan called on the international community to act against threats to international peace and security. These statements come amid growing concerns about maritime security in the Persian Gulf.",
         "time": "22:35",
         "ts": 1790462153
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alongside the issuance of death sentences for some detainees of the December 1404 protests, Hossein Ghazian stated that the expansion of judicial actions against those accused of aiding protesters reflects the government's view of protests as a threat. The aim of these sentences is to deter and reduce protesters' presence in the streets. The government also knows this policy cannot completely stop the protests.",
+        "time": "22:37",
+        "ts": 1790462227
       }
     ],
     "language": "en",
-    "packId": "20260926-101",
-    "sequence": 101,
+    "packId": "20260926-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:36"
+    "updatedAt": "22:38"
   },
   "verified": true
 }
