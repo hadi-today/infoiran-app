@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-10 seq=10 exp=1790573416",
+      "advancedStatus": "pack_id=20260926-11 seq=11 exp=1790573799",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:30",
+      "lastChecked": "05:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 05:30",
+    "expiresAt": "2026-09-28 05:36",
     "items": [
       {
         "channel": "iranintl",
@@ -931,14 +931,21 @@
         "text": "Shayan Samiei stated that the Islamic Republic intends to use the Strait of Hormuz as a means for economic breathing and aims to convert the leverage of crisis creation into economic advantage by proposing its reopening in exchange for reduced blockade. He added that the main issue is the credibility of the Islamic Republic's commitments, and China evaluates its support based on cost and benefit. Beijing does not consider the Islamic Republic as an insurance for survival and may easily move on if its interests change.",
         "time": "05:28",
         "ts": 1790400524
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Pegah Bani Hashemi pointed to the situation of political prisoners and harsh sentences against protesters. She said the statements of Iranian officials at the United Nations differ from the real conditions in Iran and the demands of a large part of society. These remarks address the human rights situation in Iran.",
+        "time": "05:35",
+        "ts": 1790400950
       }
     ],
     "language": "en",
-    "packId": "20260926-10",
-    "sequence": 10,
+    "packId": "20260926-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:30"
+    "updatedAt": "05:36"
   },
   "verified": true
 }
