@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-31 seq=31 exp=1790597028",
+      "advancedStatus": "pack_id=20260926-32 seq=32 exp=1790597190",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:03",
+      "lastChecked": "12:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 12:03",
+    "expiresAt": "2026-09-28 12:06",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,21 @@
         "text": "Sepideh Gholian announced that a death sentence has been issued for Mahbubeh Shabani, a political prisoner in Vakilabad Prison in Mashhad. Shabani previously went on a hunger strike protesting prison conditions and has been deprived of visits and phone calls. She has also suffered from a skin disease and has been transferred multiple times between different prison wards.",
         "time": "12:02",
         "ts": 1790424172
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hojat Karimi, a member of the Football Federation board, announced his and others' opposition to a 4-year contract extension for Amir Ghalenoei. He also expressed concerns about bonus payments and contract renewal conditions. The Football Federation has not yet commented on the matter.",
+        "time": "12:05",
+        "ts": 1790424340
       }
     ],
     "language": "en",
-    "packId": "20260926-31",
-    "sequence": 31,
+    "packId": "20260926-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:03"
+    "updatedAt": "12:06"
   },
   "verified": true
 }
