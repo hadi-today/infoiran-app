@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-66 seq=66 exp=1790615714",
+      "advancedStatus": "pack_id=20260926-67 seq=67 exp=1790616135",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:15",
+      "lastChecked": "17:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 17:15",
+    "expiresAt": "2026-09-28 17:22",
     "items": [
       {
         "channel": "iranintl",
@@ -742,14 +742,28 @@
         "text": "Faisal bin Farhan, Saudi Arabia's foreign minister, called on the international community at the UN General Assembly to confront Iran's threats to regional security and to restore the status of the Strait of Hormuz without restrictions. He emphasized that Saudi Arabia and regional countries have been targeted by Iranian attacks and stressed their right to protect national security. The foreign minister described Gulf security as integral to global security.",
         "time": "17:14",
         "ts": 1790442847
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Siamak Javadi said the sharp decline in China's oil imports from Iran indicates that Beijing does not consider the Islamic Republic a strategic partner. Iran's economy is facing challenges due to reduced foreign currency revenues, inflation, and structural crises. The return of most oil exports from the Strait of Hormuz has weakened the Islamic Republic's leverage.",
+        "time": "17:21",
+        "ts": 1790443280
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abdullatif bin Rashid Al Zayani, Bahrain's Foreign Minister, stated that the country has rejected any plan for permits or fees for passage through the Strait of Hormuz. He emphasized that the Strait of Hormuz is an international waterway and the right of passage cannot be conditional. He also warned that using international waterways as economic pressure tools is dangerous.",
+        "time": "17:22",
+        "ts": 1790443320
       }
     ],
     "language": "en",
-    "packId": "20260926-66",
-    "sequence": 66,
+    "packId": "20260926-67",
+    "sequence": 67,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:15"
+    "updatedAt": "17:22"
   },
   "verified": true
 }
