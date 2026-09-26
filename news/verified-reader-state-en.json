@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-33 seq=33 exp=1790598501",
+      "advancedStatus": "pack_id=20260926-34 seq=34 exp=1790598763",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:28",
+      "lastChecked": "12:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 12:28",
+    "expiresAt": "2026-09-28 12:32",
     "items": [
       {
         "channel": "iranintl",
@@ -833,14 +833,21 @@
         "text": "Donald Trump wrote on Truth Social that Iran cannot have nuclear weapons. Earlier, it was reported that Trump rejected the Islamic Republic's proposal to reopen the Strait of Hormuz for seven days. These statements were published on Saturday.",
         "time": "12:27",
         "ts": 1790425641
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shahbaz Sharif, Prime Minister of Pakistan, warned at the UN General Assembly that conflicts are dangerously escalating. He emphasized that the Strait of Hormuz and Bab al-Mandab should not become choke points of confrontation. These waterways should bring promises of prosperity, not the dangers of war.",
+        "time": "12:31",
+        "ts": 1790425908
       }
     ],
     "language": "en",
-    "packId": "20260926-33",
-    "sequence": 33,
+    "packId": "20260926-34",
+    "sequence": 34,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:28"
+    "updatedAt": "12:32"
   },
   "verified": true
 }
