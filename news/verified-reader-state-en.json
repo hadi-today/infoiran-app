@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-40 seq=40 exp=1790601877",
+      "advancedStatus": "pack_id=20260926-41 seq=41 exp=1790602086",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:24",
+      "lastChecked": "13:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 13:24",
+    "expiresAt": "2026-09-28 13:28",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,21 @@
         "text": "Zahra Zarei finished second in the women's 400m final at the 2026 Asian Games in Nagoya with a time of 52.38 seconds, winning the silver medal. This is the first medal for Iranian women in track events at the Asian Games.",
         "time": "13:23",
         "ts": 1790429019
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Homayoun Falakshahi stated that no new oil shipments from Iran have been recorded this month. New oil exports from Iran have reached zero, and floating oil reserves are decreasing. It is predicted that most of these reserves will be depleted within two to three weeks.",
+        "time": "13:27",
+        "ts": 1790429234
       }
     ],
     "language": "en",
-    "packId": "20260926-40",
-    "sequence": 40,
+    "packId": "20260926-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:24"
+    "updatedAt": "13:28"
   },
   "verified": true
 }
