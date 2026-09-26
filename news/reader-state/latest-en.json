@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-29 seq=29 exp=1790595526",
+      "advancedStatus": "pack_id=20260926-30 seq=30 exp=1790596078",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:38",
+      "lastChecked": "11:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 11:38",
+    "expiresAt": "2026-09-28 11:47",
     "items": [
       {
         "channel": "iranintl",
@@ -847,14 +847,21 @@
         "text": "Siamak Mirzaei and Ali Vasaghi, two Turk activists, have been held in Ardabil prison for 91 days without judicial decision. They have been denied access to a lawyer since their arrest. Their families have not succeeded in obtaining permission for their temporary release.",
         "time": "11:37",
         "ts": 1790422679
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Asieh Amini stated that the flogging sentence and activity ban for the Caravanserai concert organizers have been confirmed. Additionally, charges have been filed against theater organizers in Tehran. She said the Islamic Republic uses religious and judicial laws to control artists.",
+        "time": "11:47",
+        "ts": 1790423223
       }
     ],
     "language": "en",
-    "packId": "20260926-29",
-    "sequence": 29,
+    "packId": "20260926-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:38"
+    "updatedAt": "11:47"
   },
   "verified": true
 }
