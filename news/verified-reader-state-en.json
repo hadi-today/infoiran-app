@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-89 seq=89 exp=1790626685",
+      "advancedStatus": "pack_id=20260926-90 seq=90 exp=1790627442",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:18",
+      "lastChecked": "20:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 20:18",
+    "expiresAt": "2026-09-28 20:30",
     "items": [
       {
         "channel": "iranintl",
@@ -777,14 +777,21 @@
         "text": "Abolfazl Shekarchi, the spokesperson of the armed forces, stated that the forces will not retreat against the enemy and have decided to suppress the enemy. He also said that the initiative in the Strait of Hormuz is under the control of the Islamic Republic and any ship outside the designated route will not be safe. Shekarchi held Donald Trump and Benjamin Netanyahu responsible for the killing of Ali Khamenei and others and said they will not be forgiven.",
         "time": "20:17",
         "ts": 1790453835
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Tajernia, chairman of Esteghlal club's board, stated that the Football Federation promised to award the last season's championship cup to Esteghlal. He emphasized that Esteghlal's championship does not harm any other team. He also mentioned there is a 10-12 day window before the league starts to present the cup to Esteghlal.",
+        "time": "20:29",
+        "ts": 1790454598
       }
     ],
     "language": "en",
-    "packId": "20260926-89",
-    "sequence": 89,
+    "packId": "20260926-90",
+    "sequence": 90,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:18"
+    "updatedAt": "20:30"
   },
   "verified": true
 }
