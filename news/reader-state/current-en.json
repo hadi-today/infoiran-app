@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-65 seq=65 exp=1790615168",
+      "advancedStatus": "pack_id=20260926-66 seq=66 exp=1790615714",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:06",
+      "lastChecked": "17:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 17:06",
+    "expiresAt": "2026-09-28 17:15",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen reported in a video to Iran International that the water supply in their area in Tehran has been completely cut off since Friday, October 3rd. This issue has lasted at least one day. No further details were provided.",
-        "time": "17:04",
-        "ts": 1790355865
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Pope Leo XIV arrived in Paris and met with Emmanuel Macron. The Vatican announced that the Pope will hold a prayer ceremony in the restored Notre-Dame Cathedral. He will also meet with victims of sexual abuse.",
-        "time": "17:06",
-        "ts": 1790355993
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -749,14 +735,21 @@
         "text": "Alireza Dabir, the head of the Football Federation, called for the system to make a clear decision about football and said the future of football must be clarified. He emphasized that the federation, Ministry of Sports, and other institutions should decide on football's future. Mehdi Mohammad Nabi, the deputy head of the federation, responded by saying Dabir should focus on his own work.",
         "time": "17:03",
         "ts": 1790442236
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Faisal bin Farhan, Saudi Arabia's foreign minister, called on the international community at the UN General Assembly to confront Iran's threats to regional security and to restore the status of the Strait of Hormuz without restrictions. He emphasized that Saudi Arabia and regional countries have been targeted by Iranian attacks and stressed their right to protect national security. The foreign minister described Gulf security as integral to global security.",
+        "time": "17:14",
+        "ts": 1790442847
       }
     ],
     "language": "en",
-    "packId": "20260926-65",
-    "sequence": 65,
+    "packId": "20260926-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:06"
+    "updatedAt": "17:15"
   },
   "verified": true
 }
