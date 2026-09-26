@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-62 seq=62 exp=1790613426",
+      "advancedStatus": "pack_id=20260926-63 seq=63 exp=1790613785",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:37",
+      "lastChecked": "16:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 16:37",
+    "expiresAt": "2026-09-28 16:43",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "An independent panel found Manchester City guilty of 114 out of 115 charges of breaching Premier League financial regulations. These allegations relate to the years 2009 to 2018, and the club's punishment has not yet been determined. Manchester City is expected to appeal the decision.",
-        "time": "16:40",
-        "ts": 1790354409
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reza Pahlavi supported Colombia's decision to cut diplomatic ties with the Islamic Republic, calling it a principled action. He thanked the people of Iran and Colombia for this stance. He also expressed hope for strong and lasting friendship between a free Iran and Colombia.",
-        "time": "16:41",
-        "ts": 1790354470
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -770,14 +756,21 @@
         "text": "The Afghanistan delegation ended the eighth day of the 2026 Asian Games without winning any medals. This report was provided by Mehdi Kazemi from Iran International.",
         "time": "16:36",
         "ts": 1790440575
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US federal prosecutor announced that Reza Dindar, a 44-year-old Iranian citizen, has been sentenced to 18 months in prison for participating in a scheme to illegally transfer sensitive US equipment and technology to Iran via China. According to a statement from the US Attorney’s Office for the Western District of Washington, he was also sentenced to pay a $10,000 fine and three years of supervised release. Dindar was first indicted in August 2014, arrested in Panama in July 2025 at the US request, extradited to the US in April 2026, and pleaded guilty just six weeks later.",
+        "time": "16:42",
+        "ts": 1790440925
       }
     ],
     "language": "en",
-    "packId": "20260926-62",
-    "sequence": 62,
+    "packId": "20260926-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:37"
+    "updatedAt": "16:43"
   },
   "verified": true
 }
