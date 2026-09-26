@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-68 seq=68 exp=1790616231",
+      "advancedStatus": "pack_id=20260926-69 seq=69 exp=1790616689",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:23",
+      "lastChecked": "17:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 17:23",
+    "expiresAt": "2026-09-28 17:31",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump said that US Treasury Secretary Scott Bessent is doing very well and will not leave his position. He also denied reports that Bessent would be appointed as the Chief Superintelligence Officer, calling them fake news, and emphasized that he does not intend to reassign him.",
-        "time": "17:24",
-        "ts": 1790357056
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -756,14 +749,21 @@
         "text": "Abdullatif bin Rashid Al Zayani, Bahrain's Foreign Minister, stated that the country has rejected any plan for permits or fees for passage through the Strait of Hormuz. He emphasized that the Strait of Hormuz is an international waterway and the right of passage cannot be conditional. He also warned that using international waterways as economic pressure tools is dangerous.",
         "time": "17:22",
         "ts": 1790443320
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Three workers died in an olive processing unit in Gilvan, Tarom, due to an accident caused by unsafe working conditions. The lack of workplace safety and poor conditions were cited as the reasons for the incident.",
+        "time": "17:30",
+        "ts": 1790443800
       }
     ],
     "language": "en",
-    "packId": "20260926-68",
-    "sequence": 68,
+    "packId": "20260926-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:23"
+    "updatedAt": "17:31"
   },
   "verified": true
 }
