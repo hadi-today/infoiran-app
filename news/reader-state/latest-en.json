@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-72 seq=72 exp=1790617665",
+      "advancedStatus": "pack_id=20260926-73 seq=73 exp=1790618365",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:47",
+      "lastChecked": "17:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 17:47",
+    "expiresAt": "2026-09-28 17:59",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A 25-year-old citizen was arrested in the Kalachay district of Rudsar for posting content on social media. The Rudsar police commander stated that the charges are insult and public disturbance.",
-        "time": "17:47",
-        "ts": 1790358455
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -777,14 +770,21 @@
         "text": "27 economists and economic activists warned about the deepening crisis if the war and naval blockade continue. Donya-e-Eqtesad quoted an economist saying the ongoing situation could lead to social protests. This issue was discussed in an interview with Ashkan Nezamabadi.",
         "time": "17:46",
         "ts": 1790444806
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Some retirees of Wagon Pars Arak company have not received a large part of their end-of-service claims. Several of these retirees were summoned to court after holding a protest gathering. The summons were due to a complaint by the employer.",
+        "time": "17:58",
+        "ts": 1790445511
       }
     ],
     "language": "en",
-    "packId": "20260926-72",
-    "sequence": 72,
+    "packId": "20260926-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:47"
+    "updatedAt": "17:59"
   },
   "verified": true
 }
