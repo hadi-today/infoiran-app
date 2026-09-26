@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-15 seq=15 exp=1790578998",
+      "advancedStatus": "pack_id=20260926-16 seq=16 exp=1790580005",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:03",
+      "lastChecked": "07:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 07:03",
+    "expiresAt": "2026-09-28 07:20",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The management of Najaf Airport announced the suspension of all incoming flights from Iran and outgoing flights to Iran from 2 AM Friday until further notice. This decision was made based on official orders from relevant authorities. The Iranian Civil Aviation Organization also announced the suspension of accepting flights of Iranian airlines at Baghdad Airport.",
-        "time": "07:18",
-        "ts": 1790320689
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -931,14 +924,21 @@
         "text": "Hossein Aghaei, a member of Iran International's editorial team, said that the Islamic Republic is not seeking a comprehensive agreement with the US and that its goal in creating pauses is to buy time. He added that prolonging the process could give the Islamic Republic the opportunity to maintain its missile and nuclear capabilities and adjust to future conditions. This situation also facilitates increased intervention by China and Russia.",
         "time": "07:02",
         "ts": 1790406153
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Zinedine Zidane announced that Kylian Mbappe must leave the French national team camp due to a knee injury. Mbappe was injured during the match against Turkey and will miss France's next three games. The French Football Federation confirmed that Mbappe will return to Madrid for treatment.",
+        "time": "07:19",
+        "ts": 1790407154
       }
     ],
     "language": "en",
-    "packId": "20260926-15",
-    "sequence": 15,
+    "packId": "20260926-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:03"
+    "updatedAt": "07:20"
   },
   "verified": true
 }
