@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-19 seq=19 exp=1790583777",
+      "advancedStatus": "pack_id=20260926-20 seq=20 exp=1790584868",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:22",
+      "lastChecked": "08:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 08:22",
+    "expiresAt": "2026-09-28 08:41",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Iranians in Germany held a rally on Friday, September 25, in support of Ali Zarei in front of the US Embassy in Dusseldorf. Ali Zarei is a protester of the Mahsa movement and a prisoner in Iran facing the risk of execution. The demonstrators demanded action to prevent his execution.",
-        "time": "08:29",
-        "ts": 1790324969
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The police commander of Yazd province announced the arrest of a woman in the province. She is accused of involvement in the arson of a mosque in Tehran and disturbing public order during last December's protests. This information was reported by Harana News Agency.",
-        "time": "08:34",
-        "ts": 1790325292
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -924,14 +910,21 @@
         "text": "The spokesperson of Iran's Ministry of Defense announced that part of the military and strategic capabilities have been deployed in underground infrastructures. This has prevented the enemy from accurately assessing Iran's defense capacity and weapons production. Recent wars have been hybrid, involving social, economic, and media domains as well.",
         "time": "08:22",
         "ts": 1790410929
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The major European leagues including the English Premier League, La Liga, Serie A, and Bundesliga have demanded fundamental reforms in FIFA's management structure. They accused Gianni Infantino of promoting exploitative ideas. They also called for increased oversight of disciplinary cases to prevent political interference.",
+        "time": "08:40",
+        "ts": 1790412006
       }
     ],
     "language": "en",
-    "packId": "20260926-19",
-    "sequence": 19,
+    "packId": "20260926-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:22"
+    "updatedAt": "08:41"
   },
   "verified": true
 }
