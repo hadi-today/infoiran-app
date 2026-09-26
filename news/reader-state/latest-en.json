@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-106 seq=106 exp=1790636903",
+      "advancedStatus": "pack_id=20260926-107 seq=107 exp=1790637118",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:08",
+      "lastChecked": "23:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 23:08",
+    "expiresAt": "2026-09-28 23:11",
     "items": [
       {
         "channel": "iranintl",
@@ -770,14 +770,21 @@
         "text": "Manchester City has been found guilty of most of 115 financial charges related to 2009-2018. The club intends to appeal the decision and the punishment has not yet been announced. Possible penalties include point deductions, heavy fines, or expulsion from the Premier League.",
         "time": "23:07",
         "ts": 1790464060
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Janz Janša, the Prime Minister of Slovenia, said at the UN General Assembly that regime change in Iran is necessary for lasting peace in the Middle East. He described the Islamic Republic as the source of regional problems and criticized some European countries for supporting Tehran. Janša called the October 7 attack the biggest strategic aid to Russia since the Ukraine war.",
+        "time": "23:11",
+        "ts": 1790464276
       }
     ],
     "language": "en",
-    "packId": "20260926-106",
-    "sequence": 106,
+    "packId": "20260926-107",
+    "sequence": 107,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:08"
+    "updatedAt": "23:11"
   },
   "verified": true
 }
