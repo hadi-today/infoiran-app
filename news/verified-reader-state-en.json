@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-92 seq=92 exp=1790628708",
+      "advancedStatus": "pack_id=20260926-93 seq=93 exp=1790629043",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:51",
+      "lastChecked": "20:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 20:51",
+    "expiresAt": "2026-09-28 20:57",
     "items": [
       {
         "channel": "iranintl",
@@ -784,14 +784,21 @@
         "text": "The Spanish football team defeated England 3-2 in their first UEFA Nations League match. Spain's goals were scored by Yamal, Baina, and Oyarzabal. With this victory, Spain extended their unbeaten streak to 39 games.",
         "time": "20:50",
         "ts": 1790455856
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Interior ministers of 17 European countries discussed tightening migration policies and accelerating the return of migrants without residence permits. Increasing border control powers and strengthening the role of Frontex were key points of the meeting. The establishment of migrant return centers in third countries was also addressed.",
+        "time": "20:56",
+        "ts": 1790456190
       }
     ],
     "language": "en",
-    "packId": "20260926-92",
-    "sequence": 92,
+    "packId": "20260926-93",
+    "sequence": 93,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:51"
+    "updatedAt": "20:57"
   },
   "verified": true
 }
