@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-73 seq=73 exp=1790618365",
+      "advancedStatus": "pack_id=20260926-74 seq=74 exp=1790618868",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:59",
+      "lastChecked": "18:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 17:59",
+    "expiresAt": "2026-09-28 18:07",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Masoud Pezeshkian, head of the Islamic Republic government, met with Antonio Guterres, UN Secretary-General, in New York on Friday, October 3. Before the negotiations, he signed the UN memorial book. Pezeshkian traveled to New York to attend the 81st UN General Assembly.",
-        "time": "18:06",
-        "ts": 1790359561
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -777,14 +770,21 @@
         "text": "Some retirees of Wagon Pars Arak company have not received a large part of their end-of-service claims. Several of these retirees were summoned to court after holding a protest gathering. The summons were due to a complaint by the employer.",
         "time": "17:58",
         "ts": 1790445511
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Supreme Court has confirmed the death sentence of Mojdeh Hashemi, a prisoner in Qazvin prison. Hashemi previously reported torture and pressure for forced confession on espionage charges. Recently, the issuance of death sentences, imprisonment, and flogging for women has increased.",
+        "time": "18:06",
+        "ts": 1790445996
       }
     ],
     "language": "en",
-    "packId": "20260926-73",
-    "sequence": 73,
+    "packId": "20260926-74",
+    "sequence": 74,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:59"
+    "updatedAt": "18:07"
   },
   "verified": true
 }
