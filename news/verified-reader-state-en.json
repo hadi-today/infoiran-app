@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-37 seq=37 exp=1790600805",
+      "advancedStatus": "pack_id=20260926-38 seq=38 exp=1790601438",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:06",
+      "lastChecked": "13:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 13:06",
+    "expiresAt": "2026-09-28 13:17",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Two emergency medical experts in Shiraz were attacked with a cold weapon by individuals under the influence of drugs and alcohol during a mission. One expert has been discharged from the hospital, while the other underwent surgery due to lung injury. The condition of the second expert is reported as stable.",
-        "time": "13:06",
-        "ts": 1790341603
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "David Perdue, the US ambassador to China, stated that Trump told Xi Jinping that any direct or indirect Chinese support to Iran is unacceptable. Washington is concerned about indirect Chinese support for Iran but lacks direct evidence. Trump and Xi are working on building a relationship based on trust.",
-        "time": "13:15",
-        "ts": 1790342106
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -812,14 +798,21 @@
         "text": "The Secretariat of the Supreme National Security Council announced that the Islamic Republic will not take military retaliatory action in response to recent restrictions on air transportation. Negotiations with the relevant countries to lift these restrictions are ongoing. Several non-military measures for retaliation exist and will be applied if necessary.",
         "time": "13:05",
         "ts": 1790427946
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Tasnim reported that no technical delegation from the Islamic Republic traveled to New York to negotiate with the United States. The agency called the reports about such a delegation's trip media fabrication. Abbas Araghchi and his accompanying delegation will return to Iran on Tuesday as scheduled.",
+        "time": "13:16",
+        "ts": 1790428598
       }
     ],
     "language": "en",
-    "packId": "20260926-37",
-    "sequence": 37,
+    "packId": "20260926-38",
+    "sequence": 38,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:06"
+    "updatedAt": "13:17"
   },
   "verified": true
 }
