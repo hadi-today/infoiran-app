@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-98 seq=98 exp=1790633135",
+      "advancedStatus": "pack_id=20260926-99 seq=99 exp=1790634364",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:05",
+      "lastChecked": "22:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 22:05",
+    "expiresAt": "2026-09-28 22:26",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The spokesperson of the IRGC stated that the Islamic Republic will continue to punish the US until its seven conditions are met. He said Iran's missiles can destroy the US multilayered defenses. Also, control of the Strait of Hormuz is in the hands of the IRGC Navy, and passage through the strait is now limited to oil from Iran's trading partners.",
-        "time": "22:07",
-        "ts": 1790374039
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Qaedi said China is unlikely to guarantee the implementation of any agreement between Iran and the US because Beijing-Washington relations go beyond the Iran issue. He added that until the final decision-maker in Tehran is clear, China's effective role will be difficult. Qaedi also said Iran's leverage in the Strait of Hormuz will erode over time, complicating nuclear negotiations if no agreement is reached.",
-        "time": "22:08",
-        "ts": 1790374114
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -770,14 +756,21 @@
         "text": "Donald Trump released a video showing images of the US military operation 'Epic Fury' and protests in Iran. The video features statements from Trump and the US Secretary of War alongside footage of the war and protests. Trump told the Iranian people that their time for freedom has come.",
         "time": "22:03",
         "ts": 1790460239
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Pezeshkian stated in an interview with Al Jazeera that Iran only wants the other party to adhere to the agreement and has no demands beyond international law. He emphasized that Iran does not take actions against international laws. He also mentioned that sanctions are aimed at putting pressure on the people.",
+        "time": "22:25",
+        "ts": 1790461522
       }
     ],
     "language": "en",
-    "packId": "20260926-98",
-    "sequence": 98,
+    "packId": "20260926-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:05"
+    "updatedAt": "22:26"
   },
   "verified": true
 }
