@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-06 seq=6 exp=1790569074",
+      "advancedStatus": "pack_id=20260926-07 seq=7 exp=1790569919",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:17",
+      "lastChecked": "04:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 04:17",
+    "expiresAt": "2026-09-28 04:31",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "Fatemeh Jami, a resident of Gorgan, has been detained in the city's prison for about three months. She is accused of insulting sacred values and communicating with opposition groups. No trial has been held for her yet.",
         "time": "04:17",
         "ts": 1790396226
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Kayhan newspaper criticized Masoud Pezeshkian's remarks in New York, stating that revenge is a divine mission and killers should not feel safe. The newspaper demanded justice for the martyred Imam and the execution of Trump. Kayhan rejected Pezeshkian's statements about the Iranian government's lack of intent to assassinate Trump.",
+        "time": "04:31",
+        "ts": 1790397069
       }
     ],
     "language": "en",
-    "packId": "20260926-06",
-    "sequence": 6,
+    "packId": "20260926-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:17"
+    "updatedAt": "04:31"
   },
   "verified": true
 }
