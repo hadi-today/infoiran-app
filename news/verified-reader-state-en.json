@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260926-07 seq=7 exp=1790569919",
+      "advancedStatus": "pack_id=20260926-08 seq=8 exp=1790571776",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:31",
+      "lastChecked": "05:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-26",
-    "expiresAt": "2026-09-28 04:31",
+    "expiresAt": "2026-09-28 05:02",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Masoud Pezeshkian has expressed readiness to inspect nuclear facilities and address the issue of 60% uranium reserves. He and Abbas Araghchi tried to show in New York that the Islamic Republic is ready for agreement and cooperation. Pezeshkian did not give a clear answer about guaranteeing military forces' adherence to the potential agreement.",
-        "time": "04:59",
-        "ts": 1790312397
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -931,14 +924,21 @@
         "text": "Kayhan newspaper criticized Masoud Pezeshkian's remarks in New York, stating that revenge is a divine mission and killers should not feel safe. The newspaper demanded justice for the martyred Imam and the execution of Trump. Kayhan rejected Pezeshkian's statements about the Iranian government's lack of intent to assassinate Trump.",
         "time": "04:31",
         "ts": 1790397069
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The head of the Central Province Road Police reported the overturning of a passenger bus. In this incident, 11 people died and 24 were injured. The cause of the accident was stated to be driver fatigue and drowsiness.",
+        "time": "05:02",
+        "ts": 1790398927
       }
     ],
     "language": "en",
-    "packId": "20260926-07",
-    "sequence": 7,
+    "packId": "20260926-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:31"
+    "updatedAt": "05:02"
   },
   "verified": true
 }
