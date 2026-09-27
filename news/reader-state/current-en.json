@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-42 seq=42 exp=1790681090",
+      "advancedStatus": "pack_id=20260927-43 seq=43 exp=1790681269",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:24",
+      "lastChecked": "11:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 11:24",
+    "expiresAt": "2026-09-29 11:27",
     "items": [
       {
         "channel": "harana",
@@ -882,14 +882,21 @@
         "text": "Sergey Lavrov, Russia's foreign minister, called the use of force to kill Ali Khamenei and his family unacceptable. He also accused the US and Israel of targeting Iran's civilian infrastructure and nuclear facilities. These remarks were made at the UN General Assembly.",
         "time": "11:23",
         "ts": 1790508235
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The government has announced difficulties in supplying textbooks, and delivery may take up to two months. Schools in District 8 of Tehran have a security atmosphere with surveillance cameras installed in classrooms. Azad University of Kordkuy is also facing issues with reopening classes and student entry control.",
+        "time": "11:26",
+        "ts": 1790508409
       }
     ],
     "language": "en",
-    "packId": "20260927-42",
-    "sequence": 42,
+    "packId": "20260927-43",
+    "sequence": 43,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:24"
+    "updatedAt": "11:27"
   },
   "verified": true
 }
