@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-17 seq=17 exp=1790670009",
+      "advancedStatus": "pack_id=20260927-18 seq=18 exp=1790670907",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:20",
+      "lastChecked": "08:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 08:20",
+    "expiresAt": "2026-09-29 08:35",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The spokesperson of Iran's Ministry of Defense announced that part of the military and strategic capabilities have been deployed in underground infrastructures. This has prevented the enemy from accurately assessing Iran's defense capacity and weapons production. Recent wars have been hybrid, involving social, economic, and media domains as well.",
-        "time": "08:22",
-        "ts": 1790410929
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -777,14 +770,28 @@
         "text": "The Israeli army announced that in response to the launch of an explosive drone by Hezbollah towards its forces in southern Lebanon, it targeted the group's positions. The launch sites of drones and anti-tank missiles were targeted in the attacks. The Israeli army warned that any use of force from Lebanese territory will be met with a decisive response.",
         "time": "08:19",
         "ts": 1790497163
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Ministry of Health has halved the medical entrance exam capacity this year. In regions like Baluchistan and Lenjan, power outages continue, causing difficulties for people. Additionally, the cost of stationery has risen sharply.",
+        "time": "08:34",
+        "ts": 1790498057
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Mehri, a 16-year-old teenager, was killed on January 9, 2026, in Zarrinshahr, Isfahan, due to a war bullet hitting his neck. Videos show his family's distress during his birthday ceremony at his grave.",
+        "time": "08:34",
+        "ts": 1790498096
       }
     ],
     "language": "en",
-    "packId": "20260927-17",
-    "sequence": 17,
+    "packId": "20260927-18",
+    "sequence": 18,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:20"
+    "updatedAt": "08:35"
   },
   "verified": true
 }
