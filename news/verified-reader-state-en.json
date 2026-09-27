@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-75 seq=75 exp=1790694468",
+      "advancedStatus": "pack_id=20260927-76 seq=76 exp=1790694895",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:07",
+      "lastChecked": "15:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 15:07",
+    "expiresAt": "2026-09-29 15:14",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Abbas Tahsin Saeed Al-Amari, an Iraqi national, has been held in Evin prison for over 9 months without a clear status. His case is being reviewed in Branch 15 of the Tehran Revolutionary Court. He is accused of propaganda against the regime and espionage for a foreign government.",
-        "time": "15:07",
-        "ts": 1790435248
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "A citizen sent a video showing that syrups prepared for their child are expired. The expiration dates have been erased and fake labels attached. This issue was reported by Iran International.",
         "time": "15:05",
         "ts": 1790521552
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran International is awarding a scholarship named after Farahnaz Espad on the 40th day after her passing. This scholarship will cover the tuition costs for at least one Iranian student pursuing a master's degree abroad. The initiative honors the dedicated and patriotic presenter of Iran International.",
+        "time": "15:14",
+        "ts": 1790522047
       }
     ],
     "language": "en",
-    "packId": "20260927-75",
-    "sequence": 75,
+    "packId": "20260927-76",
+    "sequence": 76,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:07"
+    "updatedAt": "15:14"
   },
   "verified": true
 }
