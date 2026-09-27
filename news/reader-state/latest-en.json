@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-44 seq=44 exp=1790681578",
+      "advancedStatus": "pack_id=20260927-45 seq=45 exp=1790681686",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:32",
+      "lastChecked": "11:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 11:32",
+    "expiresAt": "2026-09-29 11:34",
     "items": [
       {
         "channel": "harana",
@@ -896,14 +896,21 @@
         "text": "The Central Bank of Iran's report shows the annual inflation rate in September exceeded 68 percent. This is the highest inflation rate since 1943. The point-to-point inflation rate in September was about 84 percent, and the point-to-point inflation for goods was over 118 percent.",
         "time": "11:32",
         "ts": 1790508731
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Poria Bagheri's father responded to Masoud Pezeshkian's remarks about foreign involvement in the December 2025 killings, questioning why the internet was cut and cameras removed if the perpetrators were foreign. He also asked how government rallies were held safely. Poria Bagheri, 22, was killed on the evening of December 8, 2025, in Shahriar.",
+        "time": "11:34",
+        "ts": 1790508840
       }
     ],
     "language": "en",
-    "packId": "20260927-44",
-    "sequence": 44,
+    "packId": "20260927-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:32"
+    "updatedAt": "11:34"
   },
   "verified": true
 }
