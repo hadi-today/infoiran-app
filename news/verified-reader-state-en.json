@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-10 seq=10 exp=1790666053",
+      "advancedStatus": "pack_id=20260927-11 seq=11 exp=1790667545",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:14",
+      "lastChecked": "07:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 07:14",
+    "expiresAt": "2026-09-29 07:39",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Zinedine Zidane announced that Kylian Mbappe must leave the French national team camp due to a knee injury. Mbappe was injured during the match against Turkey and will miss France's next three games. The French Football Federation confirmed that Mbappe will return to Madrid for treatment.",
-        "time": "07:19",
-        "ts": 1790407154
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Rouhollah Rahimpour referred to Nawaf Salam's remarks about the monopoly of weapons by the Lebanese government, stating that Lebanon and Iraq are moving towards a model where decisions of war and peace are controlled by governments. He added that this trend could challenge the influence model of the Islamic Republic and parallel armed forces. If official support channels close, the IRGC may move towards smaller, more informal, and deniable networks.",
-        "time": "07:27",
-        "ts": 1790407661
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -749,14 +735,21 @@
         "text": "Hamid Bord, CEO of the National Iranian Oil Company, stated that the enemy has planned to attack oil facilities. He urged people to save 10 to 15 percent of energy consumption to ensure continuous energy supply. Additionally, records for oil and gas production in Iran have been broken.",
         "time": "07:13",
         "ts": 1790493208
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Mousa Al-Reza Badagh Abadi, detained during the December 2025 protests, was sentenced to one year in prison by the Appeals Court of North Khorasan Province. The sentence was issued on charges of \"propaganda against the regime.\" The same sentence had previously been issued in the primary court.",
+        "time": "07:38",
+        "ts": 1790494701
       }
     ],
     "language": "en",
-    "packId": "20260927-10",
-    "sequence": 10,
+    "packId": "20260927-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:14"
+    "updatedAt": "07:39"
   },
   "verified": true
 }
