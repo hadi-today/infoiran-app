@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-85 seq=85 exp=1790699343",
+      "advancedStatus": "pack_id=20260927-86 seq=86 exp=1790699734",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:29",
+      "lastChecked": "16:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 16:29",
+    "expiresAt": "2026-09-29 16:35",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,21 @@
         "text": "John Kennedy, Republican senator from Louisiana, said Trump's administration rejected the Islamic Republic's proposal. He emphasized that sanctions and blockade should continue. He also mentioned the closure of the Strait of Hormuz and its impact on oil prices.",
         "time": "16:28",
         "ts": 1790526497
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Ali Shahriari stated that the out-of-pocket payment share for patients has increased to between 55% and 75% this year, with some drug prices rising 400 to 500 percent. Payments to public hospitals are delayed by 10 to 12 months, forcing patients to procure some hospitalization supplies externally. Additionally, the health insurance organization's budget covered only half of the forecasted needs.",
+        "time": "16:34",
+        "ts": 1790526878
       }
     ],
     "language": "en",
-    "packId": "20260927-85",
-    "sequence": 85,
+    "packId": "20260927-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:29"
+    "updatedAt": "16:35"
   },
   "verified": true
 }
