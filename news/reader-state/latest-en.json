@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-125 seq=125 exp=1790721989",
+      "advancedStatus": "pack_id=20260927-126 seq=126 exp=1790722650",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:46",
+      "lastChecked": "22:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 22:46",
+    "expiresAt": "2026-09-29 22:57",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Morad Veysi, a senior analyst at Iran International, said the IRGC emphasized an asymmetric naval warfare strategy to sink large US ships with mass attacks by fast boats. This strategy was practiced in the \"Prophet Muhammad\" exercises but no successful attacks on US ships occurred. Veysi considered this strategy to be flawed.",
-        "time": "22:46",
-        "ts": 1790462793
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Abbas Kamel, the former head of Egyptian intelligence, warned Israel about an imminent crisis in Gaza 11 days before the October 7 attack during a secret trip. The former head of Israel's National Security Council denied this report. Additionally, Mohamed bin Zayed, the UAE president, warned Benjamin Netanyahu weeks before the attack about a possible Hamas assault.",
-        "time": "22:47",
-        "ts": 1790462866
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -952,14 +938,21 @@
         "text": "Ramin Kashif Azar, CEO of Imam Khomeini Airport, stated that flights from this airport continue to more than 30 international destinations, with over 60 flights operated today. He said the airport is fully operational and urged passengers to check official sources for schedule changes. These remarks come as some Iranian flights have been limited due to new US sanctions.",
         "time": "22:45",
         "ts": 1790549149
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iranian national football team will play a friendly match against Russia in the second FIFA international window. Russian teams have been banned from official competitions following the Ukraine war. This match is held under special circumstances.",
+        "time": "22:56",
+        "ts": 1790549809
       }
     ],
     "language": "en",
-    "packId": "20260927-125",
-    "sequence": 125,
+    "packId": "20260927-126",
+    "sequence": 126,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:46"
+    "updatedAt": "22:57"
   },
   "verified": true
 }
