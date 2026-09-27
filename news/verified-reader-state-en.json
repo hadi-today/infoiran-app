@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-76 seq=76 exp=1790694895",
+      "advancedStatus": "pack_id=20260927-77 seq=77 exp=1790695135",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:14",
+      "lastChecked": "15:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 15:14",
+    "expiresAt": "2026-09-29 15:18",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "Iran International is awarding a scholarship named after Farahnaz Espad on the 40th day after her passing. This scholarship will cover the tuition costs for at least one Iranian student pursuing a master's degree abroad. The initiative honors the dedicated and patriotic presenter of Iran International.",
         "time": "15:14",
         "ts": 1790522047
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Five years after the ban on importing Korean home appliances, a limited import license for these goods has been issued. Ahmad Alavi stated that this decision is neither beneficial for border residents nor the national economy and called it a rent-seeking decision to circumvent US sanctions.",
+        "time": "15:18",
+        "ts": 1790522286
       }
     ],
     "language": "en",
-    "packId": "20260927-76",
-    "sequence": 76,
+    "packId": "20260927-77",
+    "sequence": 77,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:14"
+    "updatedAt": "15:18"
   },
   "verified": true
 }
