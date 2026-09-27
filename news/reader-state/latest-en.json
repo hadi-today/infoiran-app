@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-116 seq=116 exp=1790715780",
+      "advancedStatus": "pack_id=20260927-117 seq=117 exp=1790717226",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:03",
+      "lastChecked": "21:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 21:03",
+    "expiresAt": "2026-09-29 21:27",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "Bloomberg reported that two oil tankers linked to the Islamic Republic, seized during the 40-day war, are likely to reach the US in a few weeks. These tankers carry millions of dollars worth of Iranian crude oil that will be confiscated. The US Department of Justice has initiated legal proceedings to seize these tankers.",
         "time": "21:02",
         "ts": 1790542939
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Bagher Ghalibaf, the Speaker of the Parliament, stated on X that the US claims Iran does not control the Strait of Hormuz, but the oil market has priced a significant premium. He attributed this contradiction either to the market or to the US narrative. Ghalibaf also mentioned that there is free dollar liquidity in the Strait of Hormuz available for anyone to take.",
+        "time": "21:26",
+        "ts": 1790544389
       }
     ],
     "language": "en",
-    "packId": "20260927-116",
-    "sequence": 116,
+    "packId": "20260927-117",
+    "sequence": 117,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:03"
+    "updatedAt": "21:27"
   },
   "verified": true
 }
