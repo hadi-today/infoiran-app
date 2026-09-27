@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-114 seq=114 exp=1790715175",
+      "advancedStatus": "pack_id=20260927-113 seq=113 exp=1790715075",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:52",
+      "lastChecked": "20:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,8 +13,15 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 20:52",
+    "expiresAt": "2026-09-29 20:51",
     "items": [
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Spanish football team defeated England 3-2 in their first UEFA Nations League match. Spain's goals were scored by Yamal, Baina, and Oyarzabal. With this victory, Spain extended their unbeaten streak to 39 games.",
+        "time": "20:50",
+        "ts": 1790455856
+      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -945,21 +952,14 @@
         "text": "The German national football team lost 1-0 to Greece in the second week of the UEFA Nations League. The match was held in Augsburg, and the only goal was scored by Korbelis in the 74th minute. Germany previously drew 1-1 against the Netherlands.",
         "time": "20:50",
         "ts": 1790542236
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Leila Morvati said the parliament's plan on Strait of Hormuz security could lead to ship seizures and increased tensions with Washington. She added the law might complicate negotiations. Also, leaving the NPT and restrictions in the Strait could raise tensions.",
-        "time": "20:51",
-        "ts": 1790542276
       }
     ],
     "language": "en",
-    "packId": "20260927-114",
-    "sequence": 114,
+    "packId": "20260927-113",
+    "sequence": 113,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:52"
+    "updatedAt": "20:51"
   },
   "verified": true
 }
