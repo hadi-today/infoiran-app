@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-126 seq=126 exp=1790722650",
+      "advancedStatus": "pack_id=20260927-127 seq=127 exp=1790723464",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:57",
+      "lastChecked": "23:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 22:57",
+    "expiresAt": "2026-09-29 23:11",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Manchester City has been found guilty of most of 115 financial charges related to 2009-2018. The club intends to appeal the decision and the punishment has not yet been announced. Possible penalties include point deductions, heavy fines, or expulsion from the Premier League.",
-        "time": "23:07",
-        "ts": 1790464060
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -945,14 +938,21 @@
         "text": "The Iranian national football team will play a friendly match against Russia in the second FIFA international window. Russian teams have been banned from official competitions following the Ukraine war. This match is held under special circumstances.",
         "time": "22:56",
         "ts": 1790549809
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The CENTCOM spokesperson denied the IRGC's claim of seizing a US unmanned underwater vessel in the Strait of Hormuz. The US stated it maintains control over all its vessels and drones. Previously, the IRGC claimed to have seized the vessel and declared the Strait of Hormuz closed.",
+        "time": "23:10",
+        "ts": 1790550624
       }
     ],
     "language": "en",
-    "packId": "20260927-126",
-    "sequence": 126,
+    "packId": "20260927-127",
+    "sequence": 127,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:57"
+    "updatedAt": "23:11"
   },
   "verified": true
 }
