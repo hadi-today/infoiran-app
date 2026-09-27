@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-39 seq=39 exp=1790679250",
+      "advancedStatus": "pack_id=20260927-41 seq=41 exp=1790680799",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:54",
+      "lastChecked": "11:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 10:54",
+    "expiresAt": "2026-09-29 11:19",
     "items": [
       {
         "channel": "harana",
@@ -861,14 +861,28 @@
         "text": "Han Zheng, Vice President of China, emphasized the special responsibilities of major powers in maintaining international peace and security. He called for respect for the sovereignty and security of Middle Eastern countries and the stability of global trade. He also stressed adherence to international laws and the rule of law.",
         "time": "10:53",
         "ts": 1790506397
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The prosecutor of Yazd announced that alcoholic beverages were discovered and confiscated during an inspection of a cafe. Alcohol tests were conducted on 100 people present, with 21 testing positive. The cafe was sealed by judicial order and a case was filed for legal proceedings.",
+        "time": "11:17",
+        "ts": 1790507821
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The appellate court confirmed the conviction of Ali Younesi, a political prisoner. He was sentenced to five years in prison for supporting the Zionist regime and 15 months for propaganda against the regime. This sentence was issued in a case opened against him during his imprisonment.",
+        "time": "11:18",
+        "ts": 1790507917
       }
     ],
     "language": "en",
-    "packId": "20260927-39",
-    "sequence": 39,
+    "packId": "20260927-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:54"
+    "updatedAt": "11:19"
   },
   "verified": true
 }
