@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-32 seq=32 exp=1790676762",
+      "advancedStatus": "pack_id=20260927-33 seq=33 exp=1790677127",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:12",
+      "lastChecked": "10:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 10:12",
+    "expiresAt": "2026-09-29 10:18",
     "items": [
       {
         "channel": "iranintl",
@@ -819,14 +819,28 @@
         "text": "Fars News Agency, citing a source close to Iran's negotiation team, reported that Tehran is determined not to yield its rights and interests under pressure from the US and Israel. The source mentioned internal challenges in the US and dissatisfaction with the consequences of war. Iran's recent proposal includes phased and reciprocal measures.",
         "time": "10:10",
         "ts": 1790503820
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Akraminia, the army spokesperson, said that the US is not in a good position in the region and might launch an attack. He added that Iran is better prepared than before and has optimized its equipment. He also warned that if the enemy attacks, the region will face more conflict and unrest.",
+        "time": "10:17",
+        "ts": 1790504243
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Abbas Abdi was sentenced to one year of imprisonment by the Criminal Court One of Tehran Province. The Etemad newspaper was also sentenced to a two-month suspension of activity. This ruling is related to a specific case.",
+        "time": "10:18",
+        "ts": 1790504313
       }
     ],
     "language": "en",
-    "packId": "20260927-32",
-    "sequence": 32,
+    "packId": "20260927-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:12"
+    "updatedAt": "10:18"
   },
   "verified": true
 }
