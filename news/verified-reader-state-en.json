@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-98 seq=98 exp=1790705974",
+      "advancedStatus": "pack_id=20260927-99 seq=99 exp=1790706087",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:19",
+      "lastChecked": "18:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 18:19",
+    "expiresAt": "2026-09-29 18:21",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,28 @@
         "text": "The Netherlands national football team defeated Serbia 2-1 in their second UEFA Nations League match. Meerdink, who played his first match for the Netherlands just three days earlier, scored two goals after starting in the lineup. Additionally, Denmark defeated Wales 2-0.",
         "time": "18:19",
         "ts": 1790533171
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Mahdavi-Azad said in the program \"Cheshmandaz\" that the Islamic Republic fears an explosion of public anger and possible overthrow more than war or famine. He described recent government actions as a sign of a large state of alert for possible suppression and killing. He also stated that the government has lost its trust in society.",
+        "time": "18:20",
+        "ts": 1790533220
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Contract workers of Malard Municipality have complained about their unpaid wages. Employees at the Tehran office of Ghadir Petrochemical are concerned about job uncertainty. These issues have been reported in two different work units.",
+        "time": "18:21",
+        "ts": 1790533266
       }
     ],
     "language": "en",
-    "packId": "20260927-98",
-    "sequence": 98,
+    "packId": "20260927-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:19"
+    "updatedAt": "18:21"
   },
   "verified": true
 }
