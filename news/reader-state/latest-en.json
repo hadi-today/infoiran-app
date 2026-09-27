@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-83 seq=83 exp=1790698365",
+      "advancedStatus": "pack_id=20260927-84 seq=84 exp=1790698938",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:12",
+      "lastChecked": "16:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 16:12",
+    "expiresAt": "2026-09-29 16:22",
     "items": [
       {
         "channel": "harana",
@@ -945,14 +945,21 @@
         "text": "Poland and Lithuania are reviewing civilian evacuation plans and exit routes in the Suwałki Gap area due to the possibility of a Russian attack. Warsaw has also strengthened its air defenses in border areas. These measures are in response to regional security threats.",
         "time": "16:12",
         "ts": 1790525520
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hassan Pajani, a member of Iran's electronic football team, won the gold medal at the Nagoya Asian Games. He stated that training with good internet abroad was one reason for his success. Pajani has been living and training in Indonesia for the past year and a half.",
+        "time": "16:21",
+        "ts": 1790526087
       }
     ],
     "language": "en",
-    "packId": "20260927-83",
-    "sequence": 83,
+    "packId": "20260927-84",
+    "sequence": 84,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:12"
+    "updatedAt": "16:22"
   },
   "verified": true
 }
