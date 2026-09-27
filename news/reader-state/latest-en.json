@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-69 seq=69 exp=1790692779",
+      "advancedStatus": "pack_id=20260927-70 seq=70 exp=1790693524",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:39",
+      "lastChecked": "14:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 14:39",
+    "expiresAt": "2026-09-29 14:52",
     "items": [
       {
         "channel": "iranintl",
@@ -882,14 +882,28 @@
         "text": "Babak Roshanzamir from Likak was arrested by security forces on September 17. He was transferred to Dehdasht prison after about a week. This news was reported by Harana news agency.",
         "time": "14:38",
         "ts": 1790519926
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The appeals court confirmed an additional five-year prison sentence for Ali Younesi, a computer engineering student. This sentence was previously issued by Branch 29 of the Revolutionary Court. Ali Younesi and Amirhossein Moradi remain in prison and are barred from continuing their education.",
+        "time": "14:51",
+        "ts": 1790520674
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "US Treasury Secretary Scott Bessent stated that China has significantly reduced its assistance to Iran and denied reports of increased military and intelligence aid. He added that only about 15 million barrels of Iranian oil remain at sea, and likely the final shipments to China will be delivered in the next two weeks, after which Tehran will have nothing to trade and, due to this pressure, seeks a deal. Bessent also said the US does not allow Iran's oil to exit, and Iran's share of oil passing through the Strait of Hormuz is zero.",
+        "time": "14:51",
+        "ts": 1790520692
       }
     ],
     "language": "en",
-    "packId": "20260927-69",
-    "sequence": 69,
+    "packId": "20260927-70",
+    "sequence": 70,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:39"
+    "updatedAt": "14:52"
   },
   "verified": true
 }
