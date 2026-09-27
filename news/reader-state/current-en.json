@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-121 seq=121 exp=1790720292",
+      "advancedStatus": "pack_id=20260927-122 seq=122 exp=1790720410",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:18",
+      "lastChecked": "22:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 22:18",
+    "expiresAt": "2026-09-29 22:20",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "Amir Giti stated that despite contradictory positions on war and negotiation, the Islamic Republic seeks to continue talks with the United States. It tries to convey its messages to Washington through intermediaries such as Qatar, Pakistan, and Turkey. The main issue is that the final decision-makers in cases like the Strait of Hormuz are not involved, leading to doubts about the Iranian delegation's ability to implement any agreement.",
         "time": "22:16",
         "ts": 1790547398
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Maryam Dehkordi stated that the new directive from the Ministry of Intelligence continues the suppression of the student movement and pressures students to accept mandatory dress codes. Since the 1401 uprising, university environments have become more securitized, with students facing disciplinary actions and case filings. The confirmation of some students' sentences and recent arrests sends a threatening message from the judiciary to the student body.",
+        "time": "22:19",
+        "ts": 1790547568
       }
     ],
     "language": "en",
-    "packId": "20260927-121",
-    "sequence": 121,
+    "packId": "20260927-122",
+    "sequence": 122,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:18"
+    "updatedAt": "22:20"
   },
   "verified": true
 }
