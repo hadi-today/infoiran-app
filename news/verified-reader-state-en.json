@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-100 seq=100 exp=1790706187",
+      "advancedStatus": "pack_id=20260927-101 seq=101 exp=1790706439",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:23",
+      "lastChecked": "18:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 18:23",
+    "expiresAt": "2026-09-29 18:27",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "BBC identified three main factors behind Spain's football success: the coaching education system, the hardworking culture in the Basque region, and Barcelona's tactical revolution. Spain's national team enters the UEFA Nations League match against England with a 38-game unbeaten streak. Spain's football achievements include multiple championships across age groups and the key role of the La Masia academy.",
-        "time": "18:22",
-        "ts": 1790446954
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -959,14 +952,21 @@
         "text": "Contract workers of Malard Municipality have complained about their unpaid wages. Employees at the Tehran office of Ghadir Petrochemical are concerned about job uncertainty. These issues have been reported in two different work units.",
         "time": "18:21",
         "ts": 1790533266
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Central Bank released a new report on the consumer price index in urban areas. The report shows that despite a decrease in the monthly growth rate of prices, inflation remains high.",
+        "time": "18:26",
+        "ts": 1790533580
       }
     ],
     "language": "en",
-    "packId": "20260927-100",
-    "sequence": 100,
+    "packId": "20260927-101",
+    "sequence": 101,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:23"
+    "updatedAt": "18:27"
   },
   "verified": true
 }
