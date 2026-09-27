@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-02 seq=2 exp=1790647887",
+      "advancedStatus": "pack_id=20260927-03 seq=3 exp=1790651474",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:11",
+      "lastChecked": "03:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 02:11",
+    "expiresAt": "2026-09-29 03:11",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Saudi-led coalition announced it intercepted two ballistic missiles and two drones launched by the Houthis. The missiles were headed toward Khamis Mushait and the drones toward Riyadh. Saudi civil defense issued warnings for Khamis Mushait and Abha but not for Riyadh.",
-        "time": "02:15",
-        "ts": 1790388953
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "The Wall Street Journal, citing American officials, reported that the US president rejected the Islamic Republic's proposal for a seven-day ceasefire and told aides he expects to resume bombing after the November midterm elections. The proposal included reopening the Strait of Hormuz and resuming nuclear talks in exchange for lifting the US blockade of Iranian ports.",
-        "time": "02:18",
-        "ts": 1790389086
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -791,14 +777,21 @@
         "text": "Mike Waltz, the US ambassador to the UN, said the IRGC controls Iran's government and economy, and Trump has pressured the Islamic Republic's economy. He added that Iran's currency is falling and inflation is rising. Waltz also described Iran's attacks on civilian ships as violations of international law and noted the global condemnation of these actions.",
         "time": "02:10",
         "ts": 1790475049
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Indian Foreign Minister expressed concern at the UN General Assembly about conflicts in the Persian Gulf and attacks on commercial ships. He emphasized the necessity of a two-state solution for lasting peace in the Middle East and called for restraint and de-escalation. He also mentioned the Ukraine war and called for an end to the conflict.",
+        "time": "03:10",
+        "ts": 1790478633
       }
     ],
     "language": "en",
-    "packId": "20260927-02",
-    "sequence": 2,
+    "packId": "20260927-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:11"
+    "updatedAt": "03:11"
   },
   "verified": true
 }
