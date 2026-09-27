@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-60 seq=60 exp=1790689062",
+      "advancedStatus": "pack_id=20260927-61 seq=61 exp=1790689454",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:37",
+      "lastChecked": "13:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 13:37",
+    "expiresAt": "2026-09-29 13:44",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Babak Roshanzamir, a citizen from Likak, was arrested on Friday, September 27, and transferred to Dehdasht prison. He was arrested after visiting the martyrs' cemetery in Likak and lighting a candle in their memory. This information is based on reports received by Iran International.",
-        "time": "13:43",
-        "ts": 1790430194
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +903,28 @@
         "text": "Ashkan Madani was arrested on September 15 to serve his prison sentence and transferred to Evin Prison. He had previously been sentenced to four years and seven months in prison. Since his arrest, he has had only one phone call with his family.",
         "time": "13:36",
         "ts": 1790516211
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The spokesperson for the Houthi armed forces in Yemen stated that Saudi F-15 fighter jets launched attacks from Khamis Mushait base on the Taiz market and the Khab and Al-Shaaf areas in Al-Jawf province. The attacks targeted the Taiz market in Ma'awiyah twice and Khab and Al-Shaaf four times. He warned that the bloodshed in the Ma'awiyah market will have severe consequences for Saudi Arabia.",
+        "time": "13:43",
+        "ts": 1790516604
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Pressure on the families of those killed in the December protests continues. The family of Ahmad Ghasempour Pilehroodi has faced increased pressure after opposing his registration as a martyr and Basiji. More details were provided by Farnoush Faraji from Iran International.",
+        "time": "13:44",
+        "ts": 1790516647
       }
     ],
     "language": "en",
-    "packId": "20260927-60",
-    "sequence": 60,
+    "packId": "20260927-61",
+    "sequence": 61,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:37"
+    "updatedAt": "13:44"
   },
   "verified": true
 }
