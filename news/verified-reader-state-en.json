@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260927-96 seq=96 exp=1790704238",
+      "advancedStatus": "pack_id=20260927-97 seq=97 exp=1790705319",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:50",
+      "lastChecked": "18:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-27",
-    "expiresAt": "2026-09-29 17:50",
+    "expiresAt": "2026-09-29 18:08",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Some retirees of Wagon Pars Arak company have not received a large part of their end-of-service claims. Several of these retirees were summoned to court after holding a protest gathering. The summons were due to a complaint by the employer.",
-        "time": "17:58",
-        "ts": 1790445511
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Supreme Court has confirmed the death sentence of Mojdeh Hashemi, a prisoner in Qazvin prison. Hashemi previously reported torture and pressure for forced confession on espionage charges. Recently, the issuance of death sentences, imprisonment, and flogging for women has increased.",
-        "time": "18:06",
-        "ts": 1790445996
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -952,14 +938,21 @@
         "text": "The executive secretary of the Workers' House in Hamedan reported on the livelihood and medical problems of workers. Many workers cannot afford the heavy medical costs, and there is a shortage of specialist doctors in social security centers. High dental and joint disease treatment costs are also among the issues.",
         "time": "17:49",
         "ts": 1790531388
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Mahdi Shahriari said that Iran's exit from the NPT would mean building nuclear weapons, which Tehran does not intend to do. He added that such an exit would increase costs and tensions, and he doubts the exit proposal will pass in parliament. Shahriari also called for action against organized messaging encouraging representatives to vote for this proposal.",
+        "time": "18:07",
+        "ts": 1790532468
       }
     ],
     "language": "en",
-    "packId": "20260927-96",
-    "sequence": 96,
+    "packId": "20260927-97",
+    "sequence": 97,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:50"
+    "updatedAt": "18:08"
   },
   "verified": true
 }
