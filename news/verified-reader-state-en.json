@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-75 seq=75 exp=1790780424",
+      "advancedStatus": "pack_id=20260928-76 seq=76 exp=1790780600",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:00",
+      "lastChecked": "15:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 15:00",
+    "expiresAt": "2026-09-30 15:03",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,21 @@
         "text": "British counter-terrorism police announced that five men connected to the incident at the Fairford airbase were released on bail after interrogation. Investigations continue, and strict restrictions on their movements have been imposed. The police are also examining the possibility that they acted on behalf of a foreign government.",
         "time": "14:59",
         "ts": 1790607545
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A student told Iran International in a video that studying in Iran has become possible only for the wealthy class. He mentioned the high prices of stationery and difficulties in education. Families cannot afford the costs of education.",
+        "time": "15:02",
+        "ts": 1790607724
       }
     ],
     "language": "en",
-    "packId": "20260928-75",
-    "sequence": 75,
+    "packId": "20260928-76",
+    "sequence": 76,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:00"
+    "updatedAt": "15:03"
   },
   "verified": true
 }
