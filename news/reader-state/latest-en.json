@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-34 seq=34 exp=1790757076",
+      "advancedStatus": "pack_id=20260928-35 seq=35 exp=1790757190",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:31",
+      "lastChecked": "08:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 08:31",
+    "expiresAt": "2026-09-30 08:33",
     "items": [
       {
         "channel": "iranintl",
@@ -1043,14 +1043,21 @@
         "text": "Benjamin Netanyahu, the Prime Minister of Israel, made a secret trip by private plane to Abu Dhabi and met with Mohammed bin Zayed. The meeting lasted four hours. Netanyahu had previously traveled secretly to Abu Dhabi during Operation \"Roar of the Lions.\"",
         "time": "08:30",
         "ts": 1790584233
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows military vehicles stationed on Sunday, October 5, at a technical school in Tehran. One of the military personnel threatened the students in a speech. He warned them not to stand in the path of the enemy.",
+        "time": "08:31",
+        "ts": 1790584308
       }
     ],
     "language": "en",
-    "packId": "20260928-34",
-    "sequence": 34,
+    "packId": "20260928-35",
+    "sequence": 35,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:31"
+    "updatedAt": "08:33"
   },
   "verified": true
 }
