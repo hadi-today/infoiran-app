@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-59 seq=59 exp=1790769744",
+      "advancedStatus": "pack_id=20260928-60 seq=60 exp=1790769915",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:02",
+      "lastChecked": "12:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 12:02",
+    "expiresAt": "2026-09-30 12:05",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Heshmatollah Falahatpisheh was sentenced to one year in prison by the appeals court for publishing content on social media. The execution of the sentence has been suspended for five years. The sentence was issued by the appeals court.",
-        "time": "12:02",
-        "ts": 1790510520
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1015,14 +1008,28 @@
         "text": "During the 'Woman, Life, Freedom' uprising, security forces killed protesters not only in the streets but also in homes and detention centers. Ramin Fatehi was one of the protesters who died under torture after being arrested by the IRGC Intelligence. Iran International interviewed his sister seeking justice.",
         "time": "12:01",
         "ts": 1790596860
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Jabbar Azarhomayoun was transferred to Sanandaj prison after more than three weeks of detention and completion of interrogation. He was held in the Intelligence Department detention center. This transfer to Sanandaj prison has taken place.",
+        "time": "12:04",
+        "ts": 1790597057
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen sent a video to Iran International showing the noise disturbance caused by a government night gathering in Boumehen. The video was submitted as a local report. The issue of noise disturbance in this area has been highlighted.",
+        "time": "12:04",
+        "ts": 1790597064
       }
     ],
     "language": "en",
-    "packId": "20260928-59",
-    "sequence": 59,
+    "packId": "20260928-60",
+    "sequence": 60,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:02"
+    "updatedAt": "12:05"
   },
   "verified": true
 }
