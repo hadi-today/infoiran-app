@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-110 seq=110 exp=1790797271",
+      "advancedStatus": "pack_id=20260928-111 seq=111 exp=1790797377",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:41",
+      "lastChecked": "19:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 19:41",
+    "expiresAt": "2026-09-30 19:42",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "Arghavan Rezaei, a former tennis player of Iranian descent living in France, has become the coach of Iran's tennis team for the 2026 Asian Games in Nagoya. This was announced in an interview with Saeedeh Fathi, a sports journalist.",
         "time": "19:40",
         "ts": 1790624418
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Press TV, quoting an informed Iranian official, reported that claims about Tehran's flexibility on the nuclear stance are incorrect. The official stated that the US is trapped in the Strait of Hormuz and is raising the nuclear issue to divert attention. It was also emphasized that Iran's position on the nuclear issue has not changed and no talks are currently underway.",
+        "time": "19:41",
+        "ts": 1790624497
       }
     ],
     "language": "en",
-    "packId": "20260928-110",
-    "sequence": 110,
+    "packId": "20260928-111",
+    "sequence": 111,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:41"
+    "updatedAt": "19:42"
   },
   "verified": true
 }
