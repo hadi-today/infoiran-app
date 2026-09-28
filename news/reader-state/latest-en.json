@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-11 seq=11 exp=1790748994",
+      "advancedStatus": "pack_id=20260928-12 seq=12 exp=1790749832",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:16",
+      "lastChecked": "06:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 06:16",
+    "expiresAt": "2026-09-30 06:30",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "Miad Maleki explained the impact of reduced Iranian oil sales and sanctions pressure. He stated that pressure will come faster through the drying up of financial accounts and oil revenues. He also emphasized the important role of trust networks and intermediaries in Iran's petrochemical, oil, and metal trade, and that disruption in providing currency to them causes import difficulties.",
         "time": "06:15",
         "ts": 1790576147
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows armed forces with military equipment present at a school in Eslamshahr. This event took place on Sunday, the 5th of Mehr. The video was released by Iran International.",
+        "time": "06:29",
+        "ts": 1790576992
       }
     ],
     "language": "en",
-    "packId": "20260928-11",
-    "sequence": 11,
+    "packId": "20260928-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:16"
+    "updatedAt": "06:30"
   },
   "verified": true
 }
