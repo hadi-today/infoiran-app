@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-45 seq=45 exp=1790763168",
+      "advancedStatus": "pack_id=20260928-46 seq=46 exp=1790763363",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:12",
+      "lastChecked": "10:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 10:12",
+    "expiresAt": "2026-09-30 10:16",
     "items": [
       {
         "channel": "iranintl",
@@ -1015,14 +1015,21 @@
         "text": "Sergey Lavrov stated that Russia may agree to transfer Turkey's S-400 missile defense systems to another friendly country. This agreement is conditional on Russia's explicit consent. It is also guaranteed that these systems will not be transferred to a third country, especially Ukraine.",
         "time": "10:11",
         "ts": 1790590304
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The French foreign minister stated that France's military mission to protect the Yanbu oil terminal in Saudi Arabia is purely defensive. He emphasized that France is not involved in the war with Iran. These remarks were made in an interview with an Iran International reporter.",
+        "time": "10:13",
+        "ts": 1790590382
       }
     ],
     "language": "en",
-    "packId": "20260928-45",
-    "sequence": 45,
+    "packId": "20260928-46",
+    "sequence": 46,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:12"
+    "updatedAt": "10:16"
   },
   "verified": true
 }
