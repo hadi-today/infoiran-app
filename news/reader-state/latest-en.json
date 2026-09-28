@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-29 seq=29 exp=1790755552",
+      "advancedStatus": "pack_id=20260928-30 seq=30 exp=1790756079",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:05",
+      "lastChecked": "08:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 08:05",
+    "expiresAt": "2026-09-30 08:14",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Israeli army announced that Saher Nidal Lotfi Saqr was killed on Saturday in an attack on the Nasirat area of Gaza. He was a member of a terrorist group affiliated with global jihadist organizations. Saqr supplied weapons for Hamas during the war.",
-        "time": "08:07",
-        "ts": 1790496479
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Individuals involved in organizing the 10-kilometer Tehran marathon, including the head of Tehran athletics and provincial sports officials, have been summoned to the prosecutor's office. So far, one person has been charged and released on bail. Tehran's prosecutor has filed charges against the organizers for violating legal and religious regulations.",
-        "time": "08:09",
-        "ts": 1790496567
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1036,14 +1022,21 @@
         "text": "A video shows an explosion caused by neutralizing leftover war ammunition on Kharg Island on Monday, October 6. The district governor of Kharg stated that the operation to neutralize unexploded shells and ammunition will last about 10 days.",
         "time": "08:05",
         "ts": 1790582711
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US Embassy in London asked American citizens to exercise caution after the arrest of several individuals on charges of attempting to bomb near Royal Air Force Fairford. The embassy stated that US-related facilities, gatherings, and organizations may be at increased risk. It also reminded American citizens that British authorities assess the terrorism threat level as severe.",
+        "time": "08:13",
+        "ts": 1790583229
       }
     ],
     "language": "en",
-    "packId": "20260928-29",
-    "sequence": 29,
+    "packId": "20260928-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:05"
+    "updatedAt": "08:14"
   },
   "verified": true
 }
