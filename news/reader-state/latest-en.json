@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-66 seq=66 exp=1790771848",
+      "advancedStatus": "pack_id=20260928-67 seq=67 exp=1790772777",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:37",
+      "lastChecked": "12:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 12:37",
+    "expiresAt": "2026-09-30 12:52",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Belgian security authorities stated that the perpetrators of two terrorist attacks in Liège and Antwerp followed the Islamic Republic's call to target Jewish and Israeli interests. Last March, a bomb exploded in front of a synagogue in Liège and a car was set on fire in the Jewish neighborhood of Antwerp. The coordinator of these attacks was arrested in Turkey.",
-        "time": "12:43",
-        "ts": 1790512980
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The Ministry of Science has issued the 'Guidelines for Decorum, Ethics, and University Conduct' to universities. According to this directive, wearing attire compatible with Iranian-Islamic culture is mandatory for entering university premises. Universities are required to inform students about this guideline.",
-        "time": "12:49",
-        "ts": 1790513360
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1029,14 +1015,21 @@
         "text": "The daughters of the immortal Hamid Shakarian joined the campaign \"One Candle, One Memory, One Name\" by lighting a candle. They stated that they will continue in memory of the immortal ones of the homeland. This act was done in memory of their father.",
         "time": "12:36",
         "ts": 1790598970
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US Central Command denied claims by an IRGC official about full control of the Strait of Hormuz. CENTCOM stated that the Iranian naval forces have been sunk and no naval force remains. The free passage of ships through the strait indicates that Iran does not control this waterway.",
+        "time": "12:52",
+        "ts": 1790599926
       }
     ],
     "language": "en",
-    "packId": "20260928-66",
-    "sequence": 66,
+    "packId": "20260928-67",
+    "sequence": 67,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:37"
+    "updatedAt": "12:52"
   },
   "verified": true
 }
