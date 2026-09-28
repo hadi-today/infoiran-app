@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-37 seq=37 exp=1790759110",
+      "advancedStatus": "pack_id=20260928-38 seq=38 exp=1790760321",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:05",
+      "lastChecked": "09:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 09:05",
+    "expiresAt": "2026-09-30 09:25",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A Hamas member who obtained asylum and citizenship in the UK is accused of planning attacks against Jewish and Israeli targets in Europe. This individual is the son of a senior Hamas official and previously worked in Ismail Haniyeh's security team. He applied for asylum in 2015 and later received UK citizenship.",
-        "time": "09:07",
-        "ts": 1790500024
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The prison sentence and media activity ban for Sadegh Zibakalam were confirmed by the judicial authority. He was sentenced to one year in prison and a two-year media activity ban in the primary court. The prison sentence has also been suspended for three years.",
-        "time": "09:09",
-        "ts": 1790500150
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1029,14 +1015,21 @@
         "text": "A video shows that Basij forces were present in a school in the country on Sunday, the fifth of Mehr. The video was received by Iran International. No further details have been provided.",
         "time": "09:04",
         "ts": 1790586261
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morteza Kazemian, a member of Iran International's editorial board, referring to Donald Trump's remarks about ending the Iran war, said Trump seeks US interests with 'minimum cost and maximum benefit' and, through maximum pressure, aims to secure 'maximum concessions' at the negotiating table. He added that Trump will not end the current situation until he guarantees full security of the Strait of Hormuz and the return of shipping to pre-war conditions, whether through continued economic pressure or by resuming war to bring the Islamic Republic back to negotiations.",
+        "time": "09:24",
+        "ts": 1790587467
       }
     ],
     "language": "en",
-    "packId": "20260928-37",
-    "sequence": 37,
+    "packId": "20260928-38",
+    "sequence": 38,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:05"
+    "updatedAt": "09:25"
   },
   "verified": true
 }
