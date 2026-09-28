@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-84 seq=84 exp=1790788533",
+      "advancedStatus": "pack_id=20260928-85 seq=85 exp=1790788756",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:15",
+      "lastChecked": "17:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 17:15",
+    "expiresAt": "2026-09-30 17:19",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Alireza Namvar Haghighi said that including Iran's nuclear program in the negotiations and China's more active role have increased the likelihood of an agreement between Tehran and Washington. He added that military and economic pressures have strengthened the US position. The durability of any agreement depends on consensus within the Islamic Republic's power structure and the implementation of commitments.",
-        "time": "17:16",
-        "ts": 1790529384
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Fatemeh Tousali and Yalda Hassan-Shokati competed in the women's trampoline preliminary round. Tousali advanced to the final by placing sixth, while Hassan-Shokati did not reach the final. The male representatives also failed to win a medal.",
-        "time": "17:18",
-        "ts": 1790529494
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -875,14 +861,21 @@
         "text": "Donald Trump is ready to reduce sanctions and release blocked assets in exchange for specific steps by Iran regarding its nuclear program. Qatari and Pakistani mediators are trying to reach an agreement between Iran and the US. Disagreements remain over nuclear issues and the timing of commitments.",
         "time": "17:14",
         "ts": 1790615666
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Trump administration is considering issuing a limited sanctions exemption to resume flights for Shia pilgrims between Iran and Najaf. This exemption would allow Iraqi Airways to operate flights for one month. A longer-term exemption may be issued after this period.",
+        "time": "17:18",
+        "ts": 1790615905
       }
     ],
     "language": "en",
-    "packId": "20260928-84",
-    "sequence": 84,
+    "packId": "20260928-85",
+    "sequence": 85,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:15"
+    "updatedAt": "17:19"
   },
   "verified": true
 }
