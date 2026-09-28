@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-15 seq=15 exp=1790750371",
+      "advancedStatus": "pack_id=20260928-16 seq=16 exp=1790750563",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:39",
+      "lastChecked": "06:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 06:39",
+    "expiresAt": "2026-09-30 06:42",
     "items": [
       {
         "channel": "iranintl",
@@ -980,14 +980,21 @@
         "text": "A fishing boat crew member reported that on October 5th, while shrimp fishing between Qeshm and Larak islands, a mine got caught in their net. The incident occurred near the Strait of Hormuz on the route to Qeshm. The mine appeared to have been drifting in the sea for about a month.",
         "time": "06:38",
         "ts": 1790577532
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ramin Ahmadzadeh lost 3-0 to Ziyodulaev from Uzbekistan in the final of the 81 kg Kurash competition at the Nagoya Asian Games and finished second. He defeated Oyushi from Japan 5-0 in the semifinals. Ahmadzadeh entered the competition with an injury that worsened in the semifinals.",
+        "time": "06:42",
+        "ts": 1790577720
       }
     ],
     "language": "en",
-    "packId": "20260928-15",
-    "sequence": 15,
+    "packId": "20260928-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:39"
+    "updatedAt": "06:42"
   },
   "verified": true
 }
