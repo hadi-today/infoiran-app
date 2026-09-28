@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-107 seq=107 exp=1790796366",
+      "advancedStatus": "pack_id=20260928-108 seq=108 exp=1790796546",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:26",
+      "lastChecked": "19:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 19:26",
+    "expiresAt": "2026-09-30 19:29",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "Mehdi Mahdavi-Azad criticized Mojtaba Khamenei's statements on the program \"Cheshmandaz,\" saying the claim that the Islamic Republic is the \"world's top power\" contradicts Mojtaba's hidden status. He added that Mojtaba's whereabouts are unknown, highlighting the gap between the government's claims and reality.",
         "time": "19:25",
         "ts": 1790623511
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The audio version of Cheshmandaz announced that Mojtaba Khamenei referred to himself as a superpower from his hideout. This news was published by Iran International. No further details are provided in the text.",
+        "time": "19:28",
+        "ts": 1790623685
       }
     ],
     "language": "en",
-    "packId": "20260928-107",
-    "sequence": 107,
+    "packId": "20260928-108",
+    "sequence": 108,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:26"
+    "updatedAt": "19:29"
   },
   "verified": true
 }
