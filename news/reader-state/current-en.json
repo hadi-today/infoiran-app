@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-104 seq=104 exp=1790795671",
+      "advancedStatus": "pack_id=20260928-105 seq=105 exp=1790795775",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:14",
+      "lastChecked": "19:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 19:14",
+    "expiresAt": "2026-09-30 19:16",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The number of detained teacher union activists in Mamasani has reached six. These individuals were transferred to Noorabad Mamasani prison after interrogation. The arrests took place on Friday, September 24.",
-        "time": "19:14",
-        "ts": 1790536466
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -896,14 +889,21 @@
         "text": "Donald Trump stated that the US will soon win the war with Iran and gasoline prices will sharply decrease afterward. He also said the US has prevented Iran from obtaining nuclear weapons. Trump added that US officials have held talks with Iranian intermediaries.",
         "time": "19:13",
         "ts": 1790622826
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Contract employees in the service sections of Golestan province's medical universities hospitals reported not receiving their bonuses for the past year. They expressed concern about the reduction in their wages. These employees have demanded attention to their situation.",
+        "time": "19:14",
+        "ts": 1790622876
       }
     ],
     "language": "en",
-    "packId": "20260928-104",
-    "sequence": 104,
+    "packId": "20260928-105",
+    "sequence": 105,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:14"
+    "updatedAt": "19:16"
   },
   "verified": true
 }
