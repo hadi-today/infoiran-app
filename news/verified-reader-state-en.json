@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-19 seq=19 exp=1790751735",
+      "advancedStatus": "pack_id=20260928-20 seq=20 exp=1790752154",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:02",
+      "lastChecked": "07:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 07:02",
+    "expiresAt": "2026-09-30 07:09",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of Iranians residing in Sweden marched against the Islamic Republic on Saturday, October 4, in the streets of Gothenburg. This video was released by Iran International. The march was held in protest against the Islamic Republic.",
-        "time": "07:01",
-        "ts": 1790492507
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1001,14 +994,21 @@
         "text": "A video shows that Azadi Stadium is still without grass, with drainage and groundwork ongoing. Some stands behind the goal remain without seats. The stadium was supposed to be ready for the 1405-1406 season, but the complete replacement of the grass has delayed the preparation process.",
         "time": "07:01",
         "ts": 1790578886
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The United Students channel reported the ban on entry of 150 students at Alzahra University. For many of these students, no disciplinary committee ruling was issued, and the ban was enforced without written notification by the university president's order. Some of these students have been banned since last semester, exceeding the two-month period set in the disciplinary regulations.",
+        "time": "07:08",
+        "ts": 1790579310
       }
     ],
     "language": "en",
-    "packId": "20260928-19",
-    "sequence": 19,
+    "packId": "20260928-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:02"
+    "updatedAt": "07:09"
   },
   "verified": true
 }
