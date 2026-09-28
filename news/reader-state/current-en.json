@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-23 seq=23 exp=1790753447",
+      "advancedStatus": "pack_id=20260928-24 seq=24 exp=1790753619",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:30",
+      "lastChecked": "07:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 07:30",
+    "expiresAt": "2026-09-30 07:33",
     "items": [
       {
         "channel": "harana",
@@ -1015,14 +1015,21 @@
         "text": "China and the United States agreed to mutually reduce tariffs on goods worth about 30 billion dollars after a meeting between their presidents. This agreement was reached following the meeting of Xi Jinping and Donald Trump. The report includes an interview with Alireza Mohibi, a journalist from Iran International.",
         "time": "07:29",
         "ts": 1790580595
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Videos received by Iran International show the presence of armed forces in a girls' technical school in Andisheh city. This presence was for a symbolic funeral of Ali Khamenei on Sunday, the fifth of Mehr. The event was reported on a specific date.",
+        "time": "07:32",
+        "ts": 1790580766
       }
     ],
     "language": "en",
-    "packId": "20260928-23",
-    "sequence": 23,
+    "packId": "20260928-24",
+    "sequence": 24,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:30"
+    "updatedAt": "07:33"
   },
   "verified": true
 }
