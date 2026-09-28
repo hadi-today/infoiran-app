@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-14 seq=14 exp=1790750040",
+      "advancedStatus": "pack_id=20260928-15 seq=15 exp=1790750371",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:34",
+      "lastChecked": "06:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 06:34",
+    "expiresAt": "2026-09-30 06:39",
     "items": [
       {
         "channel": "iranintl",
@@ -973,14 +973,21 @@
         "text": "Habibollah Sayari stated that enemies expected collapse by attacking the main pillar, but people's motivation for revenge increased. He announced that the naval forces of the IRGC and the army have full control over the Strait of Hormuz and surrounding areas. He also called Donald Trump's remarks about the Strait of Hormuz mere rhetoric.",
         "time": "06:32",
         "ts": 1790577179
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A fishing boat crew member reported that on October 5th, while shrimp fishing between Qeshm and Larak islands, a mine got caught in their net. The incident occurred near the Strait of Hormuz on the route to Qeshm. The mine appeared to have been drifting in the sea for about a month.",
+        "time": "06:38",
+        "ts": 1790577532
       }
     ],
     "language": "en",
-    "packId": "20260928-14",
-    "sequence": 14,
+    "packId": "20260928-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:34"
+    "updatedAt": "06:39"
   },
   "verified": true
 }
