@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-83 seq=83 exp=1790787689",
+      "advancedStatus": "pack_id=20260928-84 seq=84 exp=1790788533",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:01",
+      "lastChecked": "17:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 17:01",
+    "expiresAt": "2026-09-30 17:15",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A 9-year-old child was injured in the head during a military shooting in the Jihadabad area of Saravan county on Thursday. The child died on Sunday, October 5, due to the severity of the injuries in the hospital. The child's father was also injured during the shooting.",
-        "time": "17:01",
-        "ts": 1790528508
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A video shows a protester in Shiraz writing a slogan against the leader of the Islamic Republic on a wall. The slogan reads \"Death to Mojtaba Khamenei, son of Zahhak.\" This video was released by Iran International.",
-        "time": "17:02",
-        "ts": 1790528549
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Iranian Parliament's Research Center estimated the electricity consumption of crypto miners in Iran at around 930 to 1200 megawatts, equivalent to about 6 percent of the country's total electricity shortfall during the four hot months of the year. The report also estimated the annual fuel cost for crypto mining at approximately 1.5 billion dollars, assuming the use of imported diesel.",
-        "time": "17:05",
-        "ts": 1790528725
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +868,21 @@
         "text": "A US official told CNN on Monday that Donald Trump is ready to reduce sanctions on Iran and release frozen assets in exchange for 'tangible progress' toward a nuclear deal. The official said the US is engaged in 'positive and constructive talks' through intermediaries but stressed that no deal will be reached until nuclear issues are resolved.",
         "time": "17:00",
         "ts": 1790614834
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Donald Trump is ready to reduce sanctions and release blocked assets in exchange for specific steps by Iran regarding its nuclear program. Qatari and Pakistani mediators are trying to reach an agreement between Iran and the US. Disagreements remain over nuclear issues and the timing of commitments.",
+        "time": "17:14",
+        "ts": 1790615666
       }
     ],
     "language": "en",
-    "packId": "20260928-83",
-    "sequence": 83,
+    "packId": "20260928-84",
+    "sequence": 84,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:01"
+    "updatedAt": "17:15"
   },
   "verified": true
 }
