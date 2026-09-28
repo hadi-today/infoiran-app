@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-02 seq=2 exp=1790730831",
+      "advancedStatus": "pack_id=20260928-03 seq=3 exp=1790732104",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:13",
+      "lastChecked": "01:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 01:13",
+    "expiresAt": "2026-09-30 01:35",
     "items": [
       {
         "channel": "iranintl",
@@ -931,14 +931,21 @@
         "text": "Morgan Ortagus, former US envoy for Middle East affairs, said in an interview with Fox News that Iran's government is 'hanging by a thread' and the US blockade has isolated Tehran. She said Iran is not putting even a drop of oil on the free market, and nothing is being traded. Ortagus added that messages from Islamic Republic officials were incoherent last week, with leaders trying to meet with US and European officials on the sidelines while IRGC commanders were scolding them.",
         "time": "01:13",
         "ts": 1790557984
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The one-day conference \"Iran Alternative\" was held on October 4 in Cologne, initiated by the Women, Life, Freedom network. The goal was to form a coordination and leadership council and explore ways to organize forces opposing the Islamic Republic. The meeting emphasized women's rights equality, ending discrimination, and minority rights.",
+        "time": "01:34",
+        "ts": 1790559249
       }
     ],
     "language": "en",
-    "packId": "20260928-02",
-    "sequence": 2,
+    "packId": "20260928-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:13"
+    "updatedAt": "01:35"
   },
   "verified": true
 }
