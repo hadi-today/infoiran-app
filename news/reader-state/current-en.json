@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-70 seq=70 exp=1790776807",
+      "advancedStatus": "pack_id=20260928-71 seq=71 exp=1790777491",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:00",
+      "lastChecked": "14:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 14:00",
+    "expiresAt": "2026-09-30 14:11",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Abdolmahdi Asadi stated that with the suspension of Oman flights, mobile phone imports to Iran have stopped. Over 90% of the country's mobile phones are imported by air. This flight suspension has caused problems in goods imports.",
-        "time": "14:01",
-        "ts": 1790517698
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A judicial case has been filed against Shahram Azmoudeh, a retired teacher and editor of Talash monthly. He is accused of propaganda against the regime and has been summoned to the first investigative branch of the Public and Revolutionary Prosecutor's Office in Talesh. This news was reported by Harana News Agency.",
-        "time": "14:09",
-        "ts": 1790518154
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -980,14 +966,21 @@
         "text": "The Iranian embassy in London denied any connection between Iran and the arrest of five suspects near the RAF Fairford base, calling the speculations baseless. The embassy stated that such claims fuel Iranophobia propaganda and reserved the right to legal responses. Earlier, Reuters had suggested a possible link between the attack and the Islamic Republic.",
         "time": "13:59",
         "ts": 1790603956
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abbas Araghchi, Iran's Foreign Minister, is scheduled to meet with the mediators of the negotiations with the US on Monday morning. No US representative will attend this meeting, which will focus on reviewing the latest proposals and views on the negotiation conditions. Iran has proposed reopening the Strait of Hormuz in exchange for the release of its frozen assets.",
+        "time": "14:10",
+        "ts": 1790604628
       }
     ],
     "language": "en",
-    "packId": "20260928-70",
-    "sequence": 70,
+    "packId": "20260928-71",
+    "sequence": 71,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:00"
+    "updatedAt": "14:11"
   },
   "verified": true
 }
