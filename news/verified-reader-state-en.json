@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-28 seq=28 exp=1790755189",
+      "advancedStatus": "pack_id=20260928-29 seq=29 exp=1790755552",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:59",
+      "lastChecked": "08:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 07:59",
+    "expiresAt": "2026-09-30 08:05",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of Iranians living in the US held a car caravan on Saturday, October 4, in San Jose, California. They carried the Lion and Sun flags. This event was reported based on videos received by Iran International.",
-        "time": "08:02",
-        "ts": 1790496155
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1036,14 +1029,21 @@
         "text": "Melissa Lantsman, deputy leader of Canada's Conservative Party, attended the unveiling ceremony of the memorial plaque and bench for the immortal heroes of the Lion and Sun Revolution. She stated that the Islamic Republic wants these heroes to be forgotten, but they will not allow it. Lantsman also called for the expulsion of Islamic Republic agents from Canada.",
         "time": "07:58",
         "ts": 1790582338
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows an explosion caused by neutralizing leftover war ammunition on Kharg Island on Monday, October 6. The district governor of Kharg stated that the operation to neutralize unexploded shells and ammunition will last about 10 days.",
+        "time": "08:05",
+        "ts": 1790582711
       }
     ],
     "language": "en",
-    "packId": "20260928-28",
-    "sequence": 28,
+    "packId": "20260928-29",
+    "sequence": 29,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:59"
+    "updatedAt": "08:05"
   },
   "verified": true
 }
