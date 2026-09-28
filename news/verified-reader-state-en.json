@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-126 seq=126 exp=1790809274",
+      "advancedStatus": "pack_id=20260928-127 seq=127 exp=1790809379",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:01",
+      "lastChecked": "23:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 23:01",
+    "expiresAt": "2026-09-30 23:02",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "Mai Sato, the UN special rapporteur on human rights in Iran, called for a halt to executions until the complete abolition of the death penalty. She announced that from Tuesday until October 9, she will provide updates on execution cases. Sato also highlighted the significant gap between Iran's judicial processes and international fair trial standards.",
         "time": "23:00",
         "ts": 1790636431
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Leila Morvati said reports about a major change in Iran's nuclear policy should be viewed with skepticism until an official announcement. She added that withdrawing from uranium enrichment would be a turning point. Morvati emphasized that stopping enrichment alone will not resolve the crisis with the US.",
+        "time": "23:01",
+        "ts": 1790636472
       }
     ],
     "language": "en",
-    "packId": "20260928-126",
-    "sequence": 126,
+    "packId": "20260928-127",
+    "sequence": 127,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:01"
+    "updatedAt": "23:02"
   },
   "verified": true
 }
