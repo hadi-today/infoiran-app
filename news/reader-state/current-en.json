@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-85 seq=85 exp=1790788756",
+      "advancedStatus": "pack_id=20260928-86 seq=86 exp=1790788939",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:19",
+      "lastChecked": "17:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 17:19",
+    "expiresAt": "2026-09-30 17:22",
     "items": [
       {
         "channel": "iranintl",
@@ -868,14 +868,28 @@
         "text": "The Trump administration is considering issuing a limited sanctions exemption to resume flights for Shia pilgrims between Iran and Najaf. This exemption would allow Iraqi Airways to operate flights for one month. A longer-term exemption may be issued after this period.",
         "time": "17:18",
         "ts": 1790615905
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Ali Hasan Bahamin, Ali Safari, and Hojat Sadat, three detained teacher activists in Noorabad Mamasani, were released on bail. They were arrested on Friday, 3 Mehr. They were detained along with three other individuals by security forces.",
+        "time": "17:19",
+        "ts": 1790615960
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iran Prosperity Project, initiated by the National Union for Democracy in Iran, will be presented at a meeting in the European Parliament in Brussels. The meeting will review proposals and plans for political transition in Iran. Topics include governance, security, territorial integrity, and continuity of essential services.",
+        "time": "17:21",
+        "ts": 1790616081
       }
     ],
     "language": "en",
-    "packId": "20260928-85",
-    "sequence": 85,
+    "packId": "20260928-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:19"
+    "updatedAt": "17:22"
   },
   "verified": true
 }
