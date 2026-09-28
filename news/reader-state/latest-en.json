@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-127 seq=127 exp=1790809379",
+      "advancedStatus": "pack_id=20260928-128 seq=128 exp=1790809586",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:02",
+      "lastChecked": "23:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 23:02",
+    "expiresAt": "2026-09-30 23:06",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "Leila Morvati said reports about a major change in Iran's nuclear policy should be viewed with skepticism until an official announcement. She added that withdrawing from uranium enrichment would be a turning point. Morvati emphasized that stopping enrichment alone will not resolve the crisis with the US.",
         "time": "23:01",
         "ts": 1790636472
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ghassan Ashour said the suspension and then limited resumption of flights between Iran and Iraq indicate a bargaining process by the Iraqi prime minister with Tehran and Washington. Baghdad gained a major concession by stopping Iranian flights and gave a limited concession by allowing Iraqi flights to Iran. Iraq's request to the US for a limited exemption for Iranian flights to Najaf responds to pressure from groups close to the Islamic Republic.",
+        "time": "23:05",
+        "ts": 1790636742
       }
     ],
     "language": "en",
-    "packId": "20260928-127",
-    "sequence": 127,
+    "packId": "20260928-128",
+    "sequence": 128,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:02"
+    "updatedAt": "23:06"
   },
   "verified": true
 }
