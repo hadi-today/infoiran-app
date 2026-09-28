@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-20 seq=20 exp=1790752154",
+      "advancedStatus": "pack_id=20260928-21 seq=21 exp=1790752363",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:09",
+      "lastChecked": "07:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 07:09",
+    "expiresAt": "2026-09-30 07:12",
     "items": [
       {
         "channel": "iranintl",
@@ -1001,14 +1001,21 @@
         "text": "The United Students channel reported the ban on entry of 150 students at Alzahra University. For many of these students, no disciplinary committee ruling was issued, and the ban was enforced without written notification by the university president's order. Some of these students have been banned since last semester, exceeding the two-month period set in the disciplinary regulations.",
         "time": "07:08",
         "ts": 1790579310
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Michael Parsa, Ontario's Minister of Children, said that officials of the Islamic Republic should be ashamed of support coming from far outside Iran. He made these remarks at the unveiling ceremony of a plaque and bench commemorating the Lion and Sun Revolution. He emphasized that people outside Iran care more about the Iranian people than the government does.",
+        "time": "07:12",
+        "ts": 1790579521
       }
     ],
     "language": "en",
-    "packId": "20260928-20",
-    "sequence": 20,
+    "packId": "20260928-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:09"
+    "updatedAt": "07:12"
   },
   "verified": true
 }
