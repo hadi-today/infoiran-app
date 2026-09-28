@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-78 seq=78 exp=1790782509",
+      "advancedStatus": "pack_id=20260928-79 seq=79 exp=1790782652",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:35",
+      "lastChecked": "15:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 15:35",
+    "expiresAt": "2026-09-30 15:37",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The deputy of elementary education in Qazvin province announced the identification of 309 children out of school in the province. He claimed that all these children have been integrated into the education system.",
-        "time": "15:35",
-        "ts": 1790523309
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "Retired telecommunications workers held protest gatherings in Ahvaz and Isfahan. They demand supplementary insurance without deductibles and implementation of salary adjustments according to the law. They also seek payment of overdue claims and attention to medical and livelihood issues.",
         "time": "15:34",
         "ts": 1790609656
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ed Miliband, the UK Foreign Secretary, described recent threats at the Royal Air Force base as reminders of ongoing dangers. He emphasized that London will counter these with economic sanctions and actions against Iran's proxy forces. Miliband called reopening the Strait of Hormuz essential to address the cost of living crisis in the UK.",
+        "time": "15:36",
+        "ts": 1790609796
       }
     ],
     "language": "en",
-    "packId": "20260928-78",
-    "sequence": 78,
+    "packId": "20260928-79",
+    "sequence": 79,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:35"
+    "updatedAt": "15:37"
   },
   "verified": true
 }
