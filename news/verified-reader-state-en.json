@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-94 seq=94 exp=1790793013",
+      "advancedStatus": "pack_id=20260928-95 seq=95 exp=1790793143",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:30",
+      "lastChecked": "18:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 18:30",
+    "expiresAt": "2026-09-30 18:32",
     "items": [
       {
         "channel": "iranintl",
@@ -868,14 +868,21 @@
         "text": "SpaceX's Starship rocket entered Earth's orbit for the first time. One of its engines failed, but the flight continued. This test flight is an important step for future missions to the Moon and Mars.",
         "time": "18:29",
         "ts": 1790620152
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Al Hadath network reported, citing its sources, that the Islamic Republic has agreed to halt uranium enrichment in exchange for a reduction in US sanctions. According to these sources, mediators are pressuring the Islamic Republic to make concessions regarding its nuclear program.",
+        "time": "18:30",
+        "ts": 1790620245
       }
     ],
     "language": "en",
-    "packId": "20260928-94",
-    "sequence": 94,
+    "packId": "20260928-95",
+    "sequence": 95,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:30"
+    "updatedAt": "18:32"
   },
   "verified": true
 }
