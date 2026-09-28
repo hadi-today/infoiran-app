@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260928-05 seq=5 exp=1790741995",
+      "advancedStatus": "pack_id=20260928-06 seq=6 exp=1790745643",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:19",
+      "lastChecked": "05:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-28",
-    "expiresAt": "2026-09-30 04:19",
+    "expiresAt": "2026-09-30 05:20",
     "items": [
       {
         "channel": "iranintl",
@@ -938,14 +938,21 @@
         "text": "Kayhan newspaper wrote that Trump should not be appeased but controlled by raising the cost of war and missile pressure. Kayhan considers maintaining leverage over the Strait of Hormuz and energy routes as the only logical approach. The newspaper also criticized Iran's diplomatic stance in New York and the display of eagerness for negotiation.",
         "time": "04:19",
         "ts": 1790569149
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Salar Velayatmadar stated that if the US attacks Iranian territory, the Strait of Hormuz and Bab al-Mandab will be closed. He added that closing these straits is not difficult for Iran and has not been done so far due to restraint. He also warned that Europe would face higher costs if it follows Trump's policies.",
+        "time": "05:19",
+        "ts": 1790572798
       }
     ],
     "language": "en",
-    "packId": "20260928-05",
-    "sequence": 5,
+    "packId": "20260928-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:19"
+    "updatedAt": "05:20"
   },
   "verified": true
 }
