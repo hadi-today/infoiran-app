@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-49 seq=49 exp=1790848952",
+      "advancedStatus": "pack_id=20260929-50 seq=50 exp=1790849594",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:02",
+      "lastChecked": "10:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 10:02",
+    "expiresAt": "2026-10-01 10:13",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reuters reported that the connection of the attack near the Royal Air Force base in Fairford to the Islamic Republic is considered the most likely option. The possibility of sabotage by Russia or Islamist groups is also being investigated. A threat from the Islamic Republic against this base was raised about six weeks ago.",
-        "time": "10:02",
-        "ts": 1790589779
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Sergey Lavrov stated that Russia may agree to transfer Turkey's S-400 missile defense systems to another friendly country. This agreement is conditional on Russia's explicit consent. It is also guaranteed that these systems will not be transferred to a third country, especially Ukraine.",
-        "time": "10:11",
-        "ts": 1790590304
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -966,14 +952,21 @@
         "text": "A video shows military equipment and armed forces present in a school in eastern Tehran. The video was received by Iran International. No further details have been provided.",
         "time": "10:01",
         "ts": 1790676100
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Three Bahá'í citizens named Hengameh Sharifinia, Foad Abdolghafari, and Fahim Agahi were sentenced by Branch 15 of Tehran Revolutionary Court to a total of 35 years in prison and additional penalties. These penalties include travel bans, prohibition from group activities, and confiscation of property. The verdict was issued in late September by Judge Salavati.",
+        "time": "10:12",
+        "ts": 1790676724
       }
     ],
     "language": "en",
-    "packId": "20260929-49",
-    "sequence": 49,
+    "packId": "20260929-50",
+    "sequence": 50,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:02"
+    "updatedAt": "10:13"
   },
   "verified": true
 }
