@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-86 seq=86 exp=1790866107",
+      "advancedStatus": "pack_id=20260929-87 seq=87 exp=1790866617",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:48",
+      "lastChecked": "14:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 14:48",
+    "expiresAt": "2026-10-01 14:56",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Bijan Mortazavi denied news of his return to Iran. He called the reports by some media outlets false. This response was published in a video on his Instagram story.",
-        "time": "14:53",
-        "ts": 1790607229
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1015,14 +1008,21 @@
         "text": "Mehdi Nazari, a political prisoner, is serving a five-year sentence in Tehran Grand Prison. He was arrested in June and recently assaulted and threatened by a fellow inmate acting as a prison lawyer. Nazari was convicted on charges including assembly and collusion against national security.",
         "time": "14:47",
         "ts": 1790693247
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fatemeh Mohajerani, the spokesperson of the Islamic Republic government, called the ban on Iran's flights an example of American bullying. She also thanked the Iraqi people who are pursuing the cancellation of this ban.",
+        "time": "14:56",
+        "ts": 1790693763
       }
     ],
     "language": "en",
-    "packId": "20260929-86",
-    "sequence": 86,
+    "packId": "20260929-87",
+    "sequence": 87,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:48"
+    "updatedAt": "14:56"
   },
   "verified": true
 }
