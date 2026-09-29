@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-127 seq=127 exp=1790884613",
+      "advancedStatus": "pack_id=20260929-128 seq=128 exp=1790885524",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:56",
+      "lastChecked": "20:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 19:56",
+    "expiresAt": "2026-10-01 20:12",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Donald Trump, the President of the United States, said on Monday, September 28, 2026, at the White House that the US would win the war with the Islamic Republic 'very soon' and gas prices would drop sharply after the war. He added, 'No one else could have done this.' He also stated that the US has prevented Tehran from obtaining nuclear weapons.",
-        "time": "20:02",
-        "ts": 1790625755
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The audio version of program 24 with Fardad Farahzad has been released. It covers the meeting of Araqchi with mediators in New York. This meeting is discussed in the news program.",
-        "time": "20:03",
-        "ts": 1790625793
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1050,14 +1036,21 @@
         "text": "Amir Ghalenoei commented after Iran's national football team lost 2-0 to Russia that these matches help identify the team's weaknesses. He stated that some players will not be invited to future camps. He also mentioned the absence of Mohammad Mohebi and Saman Ghoddos due to residency issues and injury.",
         "time": "19:55",
         "ts": 1790711756
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump said the Islamic Republic of Iran is in a very bad situation and may surrender. He also stated that more oil has passed through the Strait of Hormuz in recent days than ever before. Trump emphasized that the goal is to prevent Iran from acquiring nuclear weapons.",
+        "time": "20:11",
+        "ts": 1790712675
       }
     ],
     "language": "en",
-    "packId": "20260929-127",
-    "sequence": 127,
+    "packId": "20260929-128",
+    "sequence": 128,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:56"
+    "updatedAt": "20:12"
   },
   "verified": true
 }
