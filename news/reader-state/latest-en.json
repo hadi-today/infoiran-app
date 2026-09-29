@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-138 seq=138 exp=1790897292",
+      "advancedStatus": "pack_id=20260929-139 seq=139 exp=1790898924",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:28",
+      "lastChecked": "23:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 23:28",
+    "expiresAt": "2026-10-01 23:55",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The official Saudi Press Agency reported that Foreign Minister Faisal bin Farhan met with US Secretary of State Marco Rubio in Washington. The two sides discussed regional security and political developments, the situation in Yemen, and the security of navigation in the Strait of Hormuz and Bab el-Mandeb. The ministers stressed the importance of protecting maritime security and continuing coordination between Riyadh and Washington.",
-        "time": "23:37",
-        "ts": 1790638665
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1008,14 +1001,21 @@
         "text": "Scott Bessent, US Treasury Secretary, stated that the Treasury will continue to target and disrupt those providing material, technological, or financial support for the Iranian government's terrorist activities. He emphasized that no support for the Iranian government will be tolerated.",
         "time": "23:27",
         "ts": 1790724445
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shayan Samiei stated that maximum pressure could force Tehran to accept US conditions, but negotiations have become a way to buy time. He described the risk of military escalation as real and serious but not inevitable. The US and Israel may act if the IRGC initiates an attack.",
+        "time": "23:54",
+        "ts": 1790726077
       }
     ],
     "language": "en",
-    "packId": "20260929-138",
-    "sequence": 138,
+    "packId": "20260929-139",
+    "sequence": 139,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:28"
+    "updatedAt": "23:55"
   },
   "verified": true
 }
