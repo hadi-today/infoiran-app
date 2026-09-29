@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-52 seq=52 exp=1790850758",
+      "advancedStatus": "pack_id=20260929-53 seq=53 exp=1790850927",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:32",
+      "lastChecked": "10:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 10:32",
+    "expiresAt": "2026-10-01 10:35",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Ali Mohammad Baghshahi, a clinical psychology student at Beheshti University, was released from Yazd prison on bail. This happened yesterday. More information is available from Harana News Agency.",
-        "time": "10:33",
-        "ts": 1790591606
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A video shows IRGC agents training children, whose schools are closed, to use weapons. The video was received by Iran International. The video highlights military training given to children.",
-        "time": "10:33",
-        "ts": 1790591622
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -952,14 +938,28 @@
         "text": "The IRGC in a letter to the American people declared the Islamic Republic victorious in the war with the US. The letter attributed this victory mainly to Mojtaba Khamenei's leadership. The IRGC also described the US as lacking similar leadership.",
         "time": "10:31",
         "ts": 1790677894
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Public sector workers in France are striking in protest against government wage policies. The basis for salary calculation will remain unchanged next year. This news was reported by Sajedeh Sharifi.",
+        "time": "10:34",
+        "ts": 1790678074
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hamid Mahdavi's sister released a video on Firefighter Day. Hamid Mahdavi, a 38-year-old firefighter, was killed on January 8, 2026, in Mashhad. He was shot directly by officers while helping the injured.",
+        "time": "10:34",
+        "ts": 1790678080
       }
     ],
     "language": "en",
-    "packId": "20260929-52",
-    "sequence": 52,
+    "packId": "20260929-53",
+    "sequence": 53,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:32"
+    "updatedAt": "10:35"
   },
   "verified": true
 }
