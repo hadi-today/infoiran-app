@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-90 seq=90 exp=1790867433",
+      "advancedStatus": "pack_id=20260929-91 seq=91 exp=1790867802",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:10",
+      "lastChecked": "15:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 15:10",
+    "expiresAt": "2026-10-01 15:16",
     "items": [
       {
         "channel": "iranintl",
@@ -1015,14 +1015,21 @@
         "text": "The IRGC described the US economy as declining in a letter and stated that the US has failed to achieve its goals. The IRGC urged the American people to stand against their government's policies and suggested they identify as Iranian when traveling abroad. Mehdi Tajik has commented on the reactions to this letter.",
         "time": "15:09",
         "ts": 1790694579
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "JD Vance, the US Vice President, blamed the Islamic Republic for the collapse of the Islamabad agreement, stating they made a mistake by targeting commercial ships. He added that Iranians realized their mistake and could have benefited from improved relations with the US if they had fulfilled their commitments. Vance also mentioned uncertainty about Mojtaba Khamenei's status, saying Washington does not know for sure if he is alive, but evidence suggests he is.",
+        "time": "15:15",
+        "ts": 1790694957
       }
     ],
     "language": "en",
-    "packId": "20260929-90",
-    "sequence": 90,
+    "packId": "20260929-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:10"
+    "updatedAt": "15:16"
   },
   "verified": true
 }
