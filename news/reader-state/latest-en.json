@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-133 seq=133 exp=1790893817",
+      "advancedStatus": "pack_id=20260929-134 seq=134 exp=1790893964",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:30",
+      "lastChecked": "22:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 22:30",
+    "expiresAt": "2026-10-01 22:32",
     "items": [
       {
         "channel": "iranintl",
@@ -1008,14 +1008,21 @@
         "text": "Morad Vaisi stated that the dollar price in Iran has reached 250,000 tomans. He added that the dollar has increased 35,000 times since the beginning of the revolution. He also referred to Mojtaba Khamenei's remarks about being the first world power.",
         "time": "22:29",
         "ts": 1790720979
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Vaisi, senior analyst at Iran International, said that a preemptive attack by the Islamic Republic on Israel could be a form of suicide. He added that Netanyahu is waiting for such a mistake. Netanyahu is waiting for an opportunity to resume war with the Islamic Republic.",
+        "time": "22:31",
+        "ts": 1790721117
       }
     ],
     "language": "en",
-    "packId": "20260929-133",
-    "sequence": 133,
+    "packId": "20260929-134",
+    "sequence": 134,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:30"
+    "updatedAt": "22:32"
   },
   "verified": true
 }
