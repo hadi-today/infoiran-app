@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-122 seq=122 exp=1790883372",
+      "advancedStatus": "pack_id=20260929-123 seq=123 exp=1790883851",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:36",
+      "lastChecked": "19:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 19:36",
+    "expiresAt": "2026-10-01 19:44",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Arghavan Rezaei, a former tennis player of Iranian descent living in France, has become the coach of Iran's tennis team for the 2026 Asian Games in Nagoya. This was announced in an interview with Saeedeh Fathi, a sports journalist.",
-        "time": "19:40",
-        "ts": 1790624418
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Press TV, quoting an informed Iranian official, reported that claims about Tehran's flexibility on the nuclear stance are incorrect. The official stated that the US is trapped in the Strait of Hormuz and is raising the nuclear issue to divert attention. It was also emphasized that Iran's position on the nuclear issue has not changed and no talks are currently underway.",
-        "time": "19:41",
-        "ts": 1790624497
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -1029,14 +1015,21 @@
         "text": "The mother of Aida Aghili joined the campaign \"One Candle, One Name, One Memory.\" Aida Aghili was killed by officers' bullets during the National Revolution protests in Tehran. She died at the age of 34.",
         "time": "19:35",
         "ts": 1790710514
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran's Foreign Ministry strongly condemned Benjamin Netanyahu's trip to the UAE. The ministry warned about the dangerous consequences of Israel's presence in the region. It also urged regional countries not to facilitate Israel's presence.",
+        "time": "19:43",
+        "ts": 1790710998
       }
     ],
     "language": "en",
-    "packId": "20260929-122",
-    "sequence": 122,
+    "packId": "20260929-123",
+    "sequence": 123,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:36"
+    "updatedAt": "19:44"
   },
   "verified": true
 }
