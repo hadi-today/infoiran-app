@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-29 seq=29 exp=1790842605",
+      "advancedStatus": "pack_id=20260929-30 seq=30 exp=1790843481",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:16",
+      "lastChecked": "08:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 08:16",
+    "expiresAt": "2026-10-01 08:31",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ben Sabti, a researcher on Iran and Israel, said Netanyahu's trip to the UAE may have a security purpose. Israel and the UAE likely discussed defense systems and intelligence cooperation. The meeting aimed for greater coordination against the Islamic Republic.",
-        "time": "08:23",
-        "ts": 1790583799
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Alireza Arafi, in a message on the second anniversary of Hassan Nasrallah's death, stated that the ultimate victory over enemies and the destruction of Israel and the US is the inevitable fate of the resistance front. He emphasized that the resistance front from Tehran to Beirut and Gaza to Sanaa is a unified front. This unity is based on shared faith, enemy, and goals.",
-        "time": "08:24",
-        "ts": 1790583851
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ramin Ahmadzadeh won the silver medal in the under 81 kg Kurash category. Noshad Alamian reached the semifinals in table tennis and earned a bronze medal. This report was provided by Alireza Modiri from Iran International.",
-        "time": "08:27",
-        "ts": 1790584060
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +896,21 @@
         "text": "Mohammad Bagher Ghalibaf, the Speaker of the Parliament, said that the US attempt to impose a naval blockade and pressure Iran's trade will fail with military responses. He emphasized that in a region where Iran does not sell oil, no country will sell oil. He also stated that if Iran's security is not ensured, no infrastructure will be safe.",
         "time": "08:15",
         "ts": 1790669752
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Kazemi, spokesperson for the judiciary, announced that the US government has been sentenced to pay 48 billion dollars in the Qasem Soleimani case. The case is in the enforcement stage, and the criminal part is being tried in court. Additionally, 73 individuals are under investigation in the criminal section.",
+        "time": "08:30",
+        "ts": 1790670625
       }
     ],
     "language": "en",
-    "packId": "20260929-29",
-    "sequence": 29,
+    "packId": "20260929-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:16"
+    "updatedAt": "08:31"
   },
   "verified": true
 }
