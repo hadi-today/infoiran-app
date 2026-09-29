@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-103 seq=103 exp=1790873641",
+      "advancedStatus": "pack_id=20260929-104 seq=104 exp=1790873910",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:54",
+      "lastChecked": "16:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 16:54",
+    "expiresAt": "2026-10-01 16:58",
     "items": [
       {
         "channel": "iranintl",
@@ -1085,14 +1085,21 @@
         "text": "JD Vance described the power structure in Iran as very confusing. He said various groups such as hardliners, conservatives, moderates, and clerics play roles in decision-making. He also added that Mojtaba Khamenei does not interfere much in daily affairs.",
         "time": "16:52",
         "ts": 1790700778
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The One Million Signatures campaign in Iran was inspired by the women's movement in Morocco in the 1990s. The campaign aims to reform discriminatory family laws and has localized the Moroccan experience in Iran's context. Morocco's family law reforms were finalized in 2004 and are now undergoing new fundamental changes.",
+        "time": "16:57",
+        "ts": 1790701028
       }
     ],
     "language": "en",
-    "packId": "20260929-103",
-    "sequence": 103,
+    "packId": "20260929-104",
+    "sequence": 104,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:54"
+    "updatedAt": "16:58"
   },
   "verified": true
 }
