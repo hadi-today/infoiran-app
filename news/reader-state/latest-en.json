@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-54 seq=54 exp=1790851050",
+      "advancedStatus": "pack_id=20260929-55 seq=55 exp=1790851974",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:37",
+      "lastChecked": "10:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 10:37",
+    "expiresAt": "2026-10-01 10:52",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Mahbubeh Shabani, a detainee from the January 2026 protests sentenced to death, was transferred to solitary confinement in Vakilabad Prison in Mashhad. The transfer was carried out with violence. This event took place on Monday, October 6.",
-        "time": "10:44",
-        "ts": 1790592268
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Investigations into the attack on Saudi Arabia's East-West pipeline have reached their final stages. According to reports, the perpetrators entered Iraq from Iran and launched drones from Maysan province. The Iraqi Foreign Ministry sent related information to Tehran but received no response.",
-        "time": "10:47",
-        "ts": 1790592435
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -952,14 +938,21 @@
         "text": "Hamid Mahdavi's sister released a video on Firefighter Day. Hamid Mahdavi, a 38-year-old firefighter, was killed on January 8, 2026, in Mashhad. He was shot directly by officers while helping the injured.",
         "time": "10:34",
         "ts": 1790678080
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Ghazal Marzban, a Christian convert imprisoned in Evin, has gone on a hunger strike due to being denied access to religious books. She is also deprived of family visits. She faces an open apostasy case and another case related to the protests of December 2025.",
+        "time": "10:51",
+        "ts": 1790679080
       }
     ],
     "language": "en",
-    "packId": "20260929-54",
-    "sequence": 54,
+    "packId": "20260929-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:37"
+    "updatedAt": "10:52"
   },
   "verified": true
 }
