@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-41 seq=41 exp=1790846254",
+      "advancedStatus": "pack_id=20260929-42 seq=42 exp=1790846562",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:17",
+      "lastChecked": "09:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 09:17",
+    "expiresAt": "2026-10-01 09:22",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,28 @@
         "text": "Morteza Kazemian described Qalibaf's threat to block oil exports from regional countries as a continuation of the Islamic Republic's approach. He characterized this stance as a move towards maximum confrontation. Kazemian expressed concern about the consequences of this approach for the country's future.",
         "time": "09:15",
         "ts": 1790673318
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Hadi Eidipour, head of Shiraz Fire Department, announced that 20 unsafe schools have been identified in the city. Among them, six schools are high-risk and require urgent attention from the education department. Additionally, 203 high-risk and unsafe buildings have been identified in Shiraz.",
+        "time": "09:21",
+        "ts": 1790673710
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The aircraft carrier USS Theodore Roosevelt has departed from San Diego base to the US Central Command operational area in the Middle East. This carrier will replace the USS George Washington. The simultaneous presence of two US carrier strike groups in the region will continue.",
+        "time": "09:22",
+        "ts": 1790673755
       }
     ],
     "language": "en",
-    "packId": "20260929-41",
-    "sequence": 41,
+    "packId": "20260929-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:17"
+    "updatedAt": "09:22"
   },
   "verified": true
 }
