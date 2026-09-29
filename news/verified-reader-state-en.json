@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-24 seq=24 exp=1790840104",
+      "advancedStatus": "pack_id=20260929-25 seq=25 exp=1790840429",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:35",
+      "lastChecked": "07:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 07:35",
+    "expiresAt": "2026-10-01 07:40",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of Iranians living in Canada gathered in front of Calgary City Hall, demanding the halt of executions for Ali Zarei, Aref Khamseh, and other political prisoners. They also commemorated two teenagers killed during the \"Woman, Life, Freedom\" uprising. This report was prepared by Sepidar Valian from Iran International.",
-        "time": "07:34",
-        "ts": 1790580873
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "The number of executions in Isfahan's Dastgerd prison has increased to two. These executions took place on Monday, 6 Mehr 1405. The identity of one of the executed prisoners, Reza Sheikhi, has been confirmed.",
         "time": "07:34",
         "ts": 1790667255
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US dollar rate in Iran's free market surpassed 250,000 tomans on Tuesday, 7th of Mehr. The prices of the euro and pound also increased to 277,000 tomans and 323,000 tomans respectively. Additionally, the price of the new Emami coin exceeded 249 million tomans.",
+        "time": "07:39",
+        "ts": 1790667580
       }
     ],
     "language": "en",
-    "packId": "20260929-24",
-    "sequence": 24,
+    "packId": "20260929-25",
+    "sequence": 25,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:35"
+    "updatedAt": "07:40"
   },
   "verified": true
 }
