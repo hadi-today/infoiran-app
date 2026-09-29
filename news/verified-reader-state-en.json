@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-119 seq=119 exp=1790882214",
+      "advancedStatus": "pack_id=20260929-120 seq=120 exp=1790882498",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:16",
+      "lastChecked": "19:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 19:16",
+    "expiresAt": "2026-10-01 19:21",
     "items": [
       {
         "channel": "iranintl",
@@ -1036,14 +1036,21 @@
         "text": "Yashar Tabrizi, a political prisoner in Tabriz prison, has been denied transfer to the hospital despite needing a heart angiography. Prison officials opposed his transfer. This issue has been confirmed by a source close to his family.",
         "time": "19:16",
         "ts": 1790709361
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Wall Street Journal reported that the IRGC has lost control of the Strait of Hormuz. It is likely that the IRGC will initiate preemptive attacks against the US to regain this position. This report was released one day after a message attributed to Mojtaba Khamenei.",
+        "time": "19:20",
+        "ts": 1790709640
       }
     ],
     "language": "en",
-    "packId": "20260929-119",
-    "sequence": 119,
+    "packId": "20260929-120",
+    "sequence": 120,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:16"
+    "updatedAt": "19:21"
   },
   "verified": true
 }
