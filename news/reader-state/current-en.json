@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-93 seq=93 exp=1790869310",
+      "advancedStatus": "pack_id=20260929-94 seq=94 exp=1790869803",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:41",
+      "lastChecked": "15:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 15:41",
+    "expiresAt": "2026-10-01 15:50",
     "items": [
       {
         "channel": "iranintl",
@@ -1015,14 +1015,28 @@
         "text": "The Danish Foreign Ministry has advised its citizens to avoid traveling to Iran and urged Danes currently in Iran to leave the country. The ministry warned about the risk of detention and limited consular services. Sweden, Norway, and Finland have issued similar warnings.",
         "time": "15:40",
         "ts": 1790696455
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Broadcast images from IRIB show some classes of Kharazmi University held outdoors next to the ruins of the Bi-Van Bridge in Karaj, damaged during the Iran-US war. The bridge was destroyed in the conflict. The images show classes being held near the damaged bridge.",
+        "time": "15:49",
+        "ts": 1790696945
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Benjamin Netanyahu, the Prime Minister of Israel, is scheduled to hold a security assessment meeting on Tuesday evening, 7 Mehr. This decision follows increased security tensions. Netanyahu also warned of a possible enemy attack on Israel ahead of the parliamentary elections.",
+        "time": "15:49",
+        "ts": 1790696962
       }
     ],
     "language": "en",
-    "packId": "20260929-93",
-    "sequence": 93,
+    "packId": "20260929-94",
+    "sequence": 94,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:41"
+    "updatedAt": "15:50"
   },
   "verified": true
 }
