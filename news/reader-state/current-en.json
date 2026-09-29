@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-50 seq=50 exp=1790849594",
+      "advancedStatus": "pack_id=20260929-51 seq=51 exp=1790850019",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:13",
+      "lastChecked": "10:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 10:13",
+    "expiresAt": "2026-10-01 10:20",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The French foreign minister stated that France's military mission to protect the Yanbu oil terminal in Saudi Arabia is purely defensive. He emphasized that France is not involved in the war with Iran. These remarks were made in an interview with an Iran International reporter.",
-        "time": "10:13",
-        "ts": 1790590382
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Drugs related to coagulation disorders in women have not been imported into the country for about 11 months. Patients have been forced to use older and less effective methods. This drug shortage causes serious physical and psychological effects for women.",
-        "time": "10:17",
-        "ts": 1790590657
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -959,14 +945,21 @@
         "text": "Three Bahá'í citizens named Hengameh Sharifinia, Foad Abdolghafari, and Fahim Agahi were sentenced by Branch 15 of Tehran Revolutionary Court to a total of 35 years in prison and additional penalties. These penalties include travel bans, prohibition from group activities, and confiscation of property. The verdict was issued in late September by Judge Salavati.",
         "time": "10:12",
         "ts": 1790676724
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Majid Vahid Berimanlou won the gold medal in the 66 kg Kurash category at the Nagoya Asian Games. He dedicated the medal to the nomads and the people of his country. Berimanlou defeated Yasin Bobakalonov from Tajikistan in the final.",
+        "time": "10:18",
+        "ts": 1790677132
       }
     ],
     "language": "en",
-    "packId": "20260929-50",
-    "sequence": 50,
+    "packId": "20260929-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:13"
+    "updatedAt": "10:20"
   },
   "verified": true
 }
