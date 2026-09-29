@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-02 seq=2 exp=1790813092",
+      "advancedStatus": "pack_id=20260929-03 seq=3 exp=1790818828",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:04",
+      "lastChecked": "01:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 00:04",
+    "expiresAt": "2026-10-01 01:40",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mark Kelly, a Democratic senator, criticized Donald Trump's handling of the war with Iran, calling it a 'disaster' and a 'mistake'. He said Trump entered the war without a strategic goal, plan, timeline, or exit strategy and is trapped.",
-        "time": "00:29",
-        "ts": 1790555385
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Morgan Ortagus, former US envoy for Middle East affairs, said in an interview with Fox News that Iran's government is 'hanging by a thread' and the US blockade has isolated Tehran. She said Iran is not putting even a drop of oil on the free market, and nothing is being traded. Ortagus added that messages from Islamic Republic officials were incoherent last week, with leaders trying to meet with US and European officials on the sidelines while IRGC commanders were scolding them.",
-        "time": "01:13",
-        "ts": 1790557984
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The one-day conference \"Iran Alternative\" was held on October 4 in Cologne, initiated by the Women, Life, Freedom network. The goal was to form a coordination and leadership council and explore ways to organize forces opposing the Islamic Republic. The meeting emphasized women's rights equality, ending discrimination, and minority rights.",
-        "time": "01:34",
-        "ts": 1790559249
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -938,14 +917,21 @@
         "text": "Abbas Araghchi announced a renewed meeting with a Qatari intermediary and expressed hope that the final response from the US would be delivered to Iran via Qatar by Tuesday. He mentioned that ideas to fulfill Iran's conditions have been discussed and will be presented to the American side. Araghchi stated that whenever the US response is ready, it will be conveyed to Iran through Qatar.",
         "time": "00:02",
         "ts": 1790640161
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The International Organization for Migration announced that since the escalation of conflicts in western Yemen in June, over 145,000 people have been displaced in eight provinces. This number has increased by 15,870 compared to last week. Insecurity continues to cause displacement of families in these areas.",
+        "time": "01:39",
+        "ts": 1790645983
       }
     ],
     "language": "en",
-    "packId": "20260929-02",
-    "sequence": 2,
+    "packId": "20260929-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:04"
+    "updatedAt": "01:40"
   },
   "verified": true
 }
