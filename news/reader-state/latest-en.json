@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-25 seq=25 exp=1790840429",
+      "advancedStatus": "pack_id=20260929-26 seq=26 exp=1790841076",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:40",
+      "lastChecked": "07:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 07:40",
+    "expiresAt": "2026-10-01 07:51",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The brother of Esmail Beigi, a protester killed in January, responded to Masoud Pezeshkian's remarks at the UN, accusing him of baselessly calling his brother an armed terrorist. He emphasized that his brother was unarmed and nonviolent when killed. Esmail Beigi was shot and killed by snipers in Isfahan on January 9.",
-        "time": "07:45",
-        "ts": 1790581547
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mehdi Taj announced that the new head coach of Iran's U23 football team will be introduced within two days. The aim is for the U23 coach to closely supervise the youth teams. Iran's U23 team was eliminated from advancing in the 2026 Asian Games after losing to North Korea.",
-        "time": "07:49",
-        "ts": 1790581767
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -924,14 +910,21 @@
         "text": "The US dollar rate in Iran's free market surpassed 250,000 tomans on Tuesday, 7th of Mehr. The prices of the euro and pound also increased to 277,000 tomans and 323,000 tomans respectively. Additionally, the price of the new Emami coin exceeded 249 million tomans.",
         "time": "07:39",
         "ts": 1790667580
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Mohebbi, spokesperson for the IRGC, explained that the letter to the American people describes the popularity of the IRGC and its services. He accused the US ruling authorities of lying and called for a change in their policies. He also urged the American people to read the letter.",
+        "time": "07:50",
+        "ts": 1790668232
       }
     ],
     "language": "en",
-    "packId": "20260929-25",
-    "sequence": 25,
+    "packId": "20260929-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:40"
+    "updatedAt": "07:51"
   },
   "verified": true
 }
