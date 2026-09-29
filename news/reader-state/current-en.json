@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-101 seq=101 exp=1790872513",
+      "advancedStatus": "pack_id=20260929-102 seq=102 exp=1790872665",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:35",
+      "lastChecked": "16:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 16:35",
+    "expiresAt": "2026-10-01 16:37",
     "items": [
       {
         "channel": "iranintl",
@@ -1078,14 +1078,21 @@
         "text": "A video published on social media shows the sighting of an Iranian leopard in Kajur, Mazandaran province. This video has attracted users' attention. The sighting of the Iranian leopard in this area has been recorded.",
         "time": "16:33",
         "ts": 1790699628
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Akraminia, the army spokesperson, stated that the military strategy in the war has shifted from defense to offense. He said that preemptive strikes are carried out before the enemy attacks. He also emphasized that if an imminent enemy attack is detected, preemptive operations will be conducted.",
+        "time": "16:36",
+        "ts": 1790699789
       }
     ],
     "language": "en",
-    "packId": "20260929-101",
-    "sequence": 101,
+    "packId": "20260929-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:35"
+    "updatedAt": "16:37"
   },
   "verified": true
 }
