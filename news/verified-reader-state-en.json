@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-100 seq=100 exp=1790872393",
+      "advancedStatus": "pack_id=20260929-101 seq=101 exp=1790872513",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:33",
+      "lastChecked": "16:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 16:33",
+    "expiresAt": "2026-10-01 16:35",
     "items": [
       {
         "channel": "iranintl",
@@ -1071,14 +1071,21 @@
         "text": "The dollar in Iran surpassed 255,000 tomans. The deputy health minister urged people not to waste leftover food and to consume it. Simultaneously, a letter from the IRGC to the American people about the country's economic collapse was published.",
         "time": "16:31",
         "ts": 1790699513
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video published on social media shows the sighting of an Iranian leopard in Kajur, Mazandaran province. This video has attracted users' attention. The sighting of the Iranian leopard in this area has been recorded.",
+        "time": "16:33",
+        "ts": 1790699628
       }
     ],
     "language": "en",
-    "packId": "20260929-100",
-    "sequence": 100,
+    "packId": "20260929-101",
+    "sequence": 101,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:33"
+    "updatedAt": "16:35"
   },
   "verified": true
 }
