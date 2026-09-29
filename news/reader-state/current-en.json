@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-61 seq=61 exp=1790855530",
+      "advancedStatus": "pack_id=20260929-62 seq=62 exp=1790855840",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:52",
+      "lastChecked": "11:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 11:52",
+    "expiresAt": "2026-10-01 11:57",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "Masoud Babapour stated at the 'Iran Prosperity Project' meeting that opponents of the Islamic Republic are shifting from solely opposing the regime to presenting plans for the post-regime period. He noted European politicians' concerns about Iran's future and emphasized the need for a plan to ensure stability after the Islamic Republic. Babapour mentioned the consolidation of Prince Reza Pahlavi's leadership as part of this plan.",
         "time": "11:51",
         "ts": 1790682669
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Caspian Airlines announced that the plane seized in Turkey will return to Iran on Tuesday. The plane was seized due to a 3 million euro debt and a court order. Legal and administrative follow-ups have been made to lift the seizure.",
+        "time": "11:56",
+        "ts": 1790682986
       }
     ],
     "language": "en",
-    "packId": "20260929-61",
-    "sequence": 61,
+    "packId": "20260929-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:52"
+    "updatedAt": "11:57"
   },
   "verified": true
 }
