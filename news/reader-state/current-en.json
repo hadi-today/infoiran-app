@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-82 seq=82 exp=1790864435",
+      "advancedStatus": "pack_id=20260929-83 seq=83 exp=1790864555",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:20",
+      "lastChecked": "14:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 14:20",
+    "expiresAt": "2026-10-01 14:22",
     "items": [
       {
         "channel": "iranintl",
@@ -994,14 +994,21 @@
         "text": "Tehran's mayor said that America's plan is to create internal chaos and a direct attack on Iran. He added that the country is moving towards rupture and disorder, which is what America wants. He also warned that America intends to push Iran towards a social explosion.",
         "time": "14:19",
         "ts": 1790691559
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The spokesperson of the Islamic Republic Army announced a reward of five billion tomans for handing over or capturing any American soldier entering Iranian territory. If the person handing over is a woman, the reward will be doubled to ten billion tomans. This amount was announced by Mohammad Akraminia.",
+        "time": "14:20",
+        "ts": 1790691653
       }
     ],
     "language": "en",
-    "packId": "20260929-82",
-    "sequence": 82,
+    "packId": "20260929-83",
+    "sequence": 83,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:20"
+    "updatedAt": "14:22"
   },
   "verified": true
 }
