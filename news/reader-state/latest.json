@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-71 seq=71 exp=1790860377",
+      "advancedStatus": "pack_id=20260929-72 seq=72 exp=1790860525",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:12",
+      "lastChecked": "13:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 13:12",
+    "expiresAt": "2026-10-01 13:15",
     "items": [
       {
         "channel": "وحید آنلاین",
@@ -824,13 +824,19 @@
         "text": "محدودیت فعالیت ایرلاین‌های ایرانی در مسیرهای خارجی ادامه دارد و مشکلات مالی و تحریم‌ها بر پروازهای ایران تاثیر گذاشته است. یک هواپیمای کاسپین در استانبول به دلیل بدهی توقیف شده است. پروازهای ایرلاین‌های ایرانی به عراق نیز با محدودیت مواجه‌اند.",
         "time": "13:12",
         "ts": 1790687562
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "وزارت حمل‌ونقل عراق اعلام کرد شرکت هواپیمایی عراق پس از دریافت معافیت ویژه، در حال آماده‌سازی برای ازسرگیری پروازهای خود به ایران است. پروازهای رفت‌وبرگشت میان عراق و ایران انتظار می‌رود در ماه اکتبر و ابتدا از فرودگاه نجف از سر گرفته شوند. این پروازها مطابق مقررات تصویب‌شده انجام خواهد شد.",
+        "time": "13:14",
+        "ts": 1790687699
       }
     ],
-    "packId": "20260929-71",
-    "sequence": 71,
+    "packId": "20260929-72",
+    "sequence": 72,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "13:12"
+    "updatedAt": "13:15"
   },
   "verified": true
 }
