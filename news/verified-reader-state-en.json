@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-137 seq=137 exp=1790896437",
+      "advancedStatus": "pack_id=20260929-138 seq=138 exp=1790897292",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:13",
+      "lastChecked": "23:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 23:13",
+    "expiresAt": "2026-10-01 23:28",
     "items": [
       {
         "channel": "iranintl",
@@ -1001,14 +1001,21 @@
         "text": "Qatari mediators failed to make progress in diplomatic talks between the US and the Islamic Republic. This deadlock has increased the likelihood of renewed military conflict. US officials believe Trump may order military operations after the midterm elections.",
         "time": "23:13",
         "ts": 1790723591
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Scott Bessent, US Treasury Secretary, stated that the Treasury will continue to target and disrupt those providing material, technological, or financial support for the Iranian government's terrorist activities. He emphasized that no support for the Iranian government will be tolerated.",
+        "time": "23:27",
+        "ts": 1790724445
       }
     ],
     "language": "en",
-    "packId": "20260929-137",
-    "sequence": 137,
+    "packId": "20260929-138",
+    "sequence": 138,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:13"
+    "updatedAt": "23:28"
   },
   "verified": true
 }
