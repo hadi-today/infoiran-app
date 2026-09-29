@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-26 seq=26 exp=1790841076",
+      "advancedStatus": "pack_id=20260929-27 seq=27 exp=1790841741",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:51",
+      "lastChecked": "08:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 07:51",
+    "expiresAt": "2026-10-01 08:02",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Melissa Lantsman, deputy leader of Canada's Conservative Party, attended the unveiling ceremony of the memorial plaque and bench for the immortal heroes of the Lion and Sun Revolution. She stated that the Islamic Republic wants these heroes to be forgotten, but they will not allow it. Lantsman also called for the expulsion of Islamic Republic agents from Canada.",
-        "time": "07:58",
-        "ts": 1790582338
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +910,21 @@
         "text": "Hossein Mohebbi, spokesperson for the IRGC, explained that the letter to the American people describes the popularity of the IRGC and its services. He accused the US ruling authorities of lying and called for a change in their policies. He also urged the American people to read the letter.",
         "time": "07:50",
         "ts": 1790668232
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Zinedine Zidane praised the French national team players after their victory over Belgium, stating that all were ready to contribute to the team. He expressed satisfaction with the team's performance in recent matches and praised their resilience against Belgium's pressure. Zidane also explained his reaction to Michael Olise's goal.",
+        "time": "08:01",
+        "ts": 1790668889
       }
     ],
     "language": "en",
-    "packId": "20260929-26",
-    "sequence": 26,
+    "packId": "20260929-27",
+    "sequence": 27,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:51"
+    "updatedAt": "08:02"
   },
   "verified": true
 }
