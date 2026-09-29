@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-80 seq=80 exp=1790863392",
+      "advancedStatus": "pack_id=20260929-81 seq=81 exp=1790863502",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:03",
+      "lastChecked": "14:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 14:03",
+    "expiresAt": "2026-10-01 14:05",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -848,13 +848,19 @@
         "text": "یک فروند هواپیمای بوئینگ ۷۳۷ شرکت هواپیمایی کاسپین در ترکیه به دلیل بدهی سه میلیون یورویی توقیف شد. این هواپیما هنگام آماده شدن برای پرواز از استانبول به تهران متوقف و مسافران مجبور به پیاده شدن شدند. حکم توقیف توسط دادگاه صادر شده است.",
         "time": "14:02",
         "ts": 1790690546
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "یک دانش‌آموز در جنوب ایران می‌گوید مدرسه آنها آنلاین است اما برای ثبت نام باید شهریه پرداخت شود. خانواده او به دلیل جنگ و مشکلات اقتصادی توانایی پرداخت شهریه را ندارند. پدرش اخراج شده و مادرش بیمار است.",
+        "time": "14:03",
+        "ts": 1790690625
       }
     ],
-    "packId": "20260929-80",
-    "sequence": 80,
+    "packId": "20260929-81",
+    "sequence": 81,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "14:03"
+    "updatedAt": "14:05"
   },
   "verified": true
 }
