@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-75 seq=75 exp=1790861422",
+      "advancedStatus": "pack_id=20260929-76 seq=76 exp=1790861539",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:30",
+      "lastChecked": "13:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 13:30",
+    "expiresAt": "2026-10-01 13:32",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "FIFA accused UEFA of launching a misinformation campaign and refused to hand over documents related to the controversial privatization of World Cup shares. UEFA filed a lawsuit in the US demanding disclosure of FIFA's documents, which FIFA denied as baseless. This crisis escalates amid growing opposition to Infantino's presidency.",
         "time": "13:28",
         "ts": 1790688511
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Families of those killed in the December 2025 protests have reacted to Masoud Pezeshkian's statements about protesters being armed. They say their children only went to the streets to participate in the protests. The families have asked the government to provide evidence for its claims.",
+        "time": "13:30",
+        "ts": 1790688621
       }
     ],
     "language": "en",
-    "packId": "20260929-75",
-    "sequence": 75,
+    "packId": "20260929-76",
+    "sequence": 76,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:30"
+    "updatedAt": "13:32"
   },
   "verified": true
 }
