@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-05 seq=5 exp=1790820098",
+      "advancedStatus": "pack_id=20260929-06 seq=6 exp=1790820922",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:01",
+      "lastChecked": "02:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 02:01",
+    "expiresAt": "2026-10-01 02:15",
     "items": [
       {
         "channel": "iranintl",
@@ -938,14 +938,21 @@
         "text": "Marco Rubio, the US Secretary of State, called the foiled plot at the Royal Air Force base in Fairford, UK, a very serious threat and saw the trace of a foreign agent in it. Five people were arrested in connection with the incident and later released on bail. Rubio thanked the UK for its cooperation in the case and said more information would be released in the coming days.",
         "time": "02:00",
         "ts": 1790647258
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Marco Rubio, the US Secretary of State, told Fox News that the Islamic Republic is governed by \"hardline Shiite clerics\" with an apocalyptic view, and such individuals should not have access to nuclear weapons. He called this situation an \"unacceptable danger\" and added that as the Trump administration's sanctions campaign intensifies, Iran's economy is rapidly heading towards a \"great catastrophe.\" Rubio accused the Islamic Republic of using money to finance Hezbollah, militias in Iraq, support terrorism, build weapons, and carry out \"terror plots\" worldwide, instead of spending resources on improving people's lives.",
+        "time": "02:14",
+        "ts": 1790648076
       }
     ],
     "language": "en",
-    "packId": "20260929-05",
-    "sequence": 5,
+    "packId": "20260929-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:01"
+    "updatedAt": "02:15"
   },
   "verified": true
 }
