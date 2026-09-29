@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-38 seq=38 exp=1790845752",
+      "advancedStatus": "pack_id=20260929-39 seq=39 exp=1790846032",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:09",
+      "lastChecked": "09:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 09:09",
+    "expiresAt": "2026-10-01 09:13",
     "items": [
       {
         "channel": "iranintl",
@@ -931,14 +931,21 @@
         "text": "Bourgan Nezami, an economist, stated that the 18% increase in the exchange rate over the past three months and a 3% rise in the last week indicate ongoing pressure on Iran's foreign exchange resources. He identified the restriction of currency supply channels as a cause for Iran's economy entering a period of economic decline. He also warned that further pressures could worsen the situation.",
         "time": "09:07",
         "ts": 1790672827
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Aghaei from Iran International said the Islamic Republic faces a survival equation amid economic pressure, naval blockade, and military pressure. Tehran is seeking to buy time through diplomatic activities in New York. It also threatens to make oil export routes unsafe to increase the costs of pressure against itself.",
+        "time": "09:13",
+        "ts": 1790673188
       }
     ],
     "language": "en",
-    "packId": "20260929-38",
-    "sequence": 38,
+    "packId": "20260929-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:09"
+    "updatedAt": "09:13"
   },
   "verified": true
 }
