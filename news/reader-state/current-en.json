@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-99 seq=99 exp=1790872263",
+      "advancedStatus": "pack_id=20260929-100 seq=100 exp=1790872393",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:31",
+      "lastChecked": "16:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 16:31",
+    "expiresAt": "2026-10-01 16:33",
     "items": [
       {
         "channel": "iranintl",
@@ -1057,14 +1057,28 @@
         "text": "Videos show increased military presence in Iranian schools by Basij, IRGC, and police forces. Military training for Hashd al-Shaabi forces in some schools has also been reported. The Islamic Republic is trying to turn schools and universities into places for military recruitment.",
         "time": "16:30",
         "ts": 1790699408
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Reza Qarabaghi reported the death of an emergency technician in Mazandaran due to ambulance malfunction. He also mentioned the use of worn-out ambulances and the financial difficulties of emergency personnel. Many workers have monthly working hours of up to 240, with salaries ranging from 25 to 30 million tomans.",
+        "time": "16:31",
+        "ts": 1790699466
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The dollar in Iran surpassed 255,000 tomans. The deputy health minister urged people not to waste leftover food and to consume it. Simultaneously, a letter from the IRGC to the American people about the country's economic collapse was published.",
+        "time": "16:31",
+        "ts": 1790699513
       }
     ],
     "language": "en",
-    "packId": "20260929-99",
-    "sequence": 99,
+    "packId": "20260929-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:31"
+    "updatedAt": "16:33"
   },
   "verified": true
 }
