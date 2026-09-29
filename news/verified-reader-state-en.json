@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-67 seq=67 exp=1790858359",
+      "advancedStatus": "pack_id=20260929-68 seq=68 exp=1790859131",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:39",
+      "lastChecked": "12:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 12:39",
+    "expiresAt": "2026-10-01 12:52",
     "items": [
       {
         "channel": "iranintl",
@@ -931,14 +931,21 @@
         "text": "Donald Trump confirmed that US officials have held talks with mediators seeking to end the war with the Islamic Republic, but did not provide further details. He also said the US will win the war 'in any form' and that this will happen 'very quickly'.",
         "time": "12:38",
         "ts": 1790685496
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reports indicate water and electricity outages in various regions of Iran, including Siyah Kuh village in Gilan. Prices of essential goods and medical services have risen sharply. Farmers complain about delayed payments for their products.",
+        "time": "12:51",
+        "ts": 1790686280
       }
     ],
     "language": "en",
-    "packId": "20260929-67",
-    "sequence": 67,
+    "packId": "20260929-68",
+    "sequence": 68,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:39"
+    "updatedAt": "12:52"
   },
   "verified": true
 }
