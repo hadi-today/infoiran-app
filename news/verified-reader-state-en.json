@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-03 seq=3 exp=1790818828",
+      "advancedStatus": "pack_id=20260929-04 seq=4 exp=1790819271",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:40",
+      "lastChecked": "01:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 01:40",
+    "expiresAt": "2026-10-01 01:47",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "The International Organization for Migration announced that since the escalation of conflicts in western Yemen in June, over 145,000 people have been displaced in eight provinces. This number has increased by 15,870 compared to last week. Insecurity continues to cause displacement of families in these areas.",
         "time": "01:39",
         "ts": 1790645983
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Marco Rubio, the US Secretary of State, announced strong US support for Lebanon in implementing the tripartite agreement framework. He described this framework as the only path to lasting peace with Israel. Rubio also emphasized that the US stands with an independent Lebanon free from Hezbollah and Iranian influence.",
+        "time": "01:47",
+        "ts": 1790646428
       }
     ],
     "language": "en",
-    "packId": "20260929-03",
-    "sequence": 3,
+    "packId": "20260929-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:40"
+    "updatedAt": "01:47"
   },
   "verified": true
 }
