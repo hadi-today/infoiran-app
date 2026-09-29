@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-74 seq=74 exp=1790861309",
+      "advancedStatus": "pack_id=20260929-75 seq=75 exp=1790861422",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:28",
+      "lastChecked": "13:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 13:28",
+    "expiresAt": "2026-10-01 13:30",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,21 @@
         "text": "Iranian airlines have stopped flights to Azerbaijan, Georgia, Oman, UAE, and Iraq. Flights to China, Russia, Turkey, Afghanistan, Pakistan, Armenia, Belarus, and Malaysia continue. This information was reported by domestic Iranian news agencies.",
         "time": "13:27",
         "ts": 1790688460
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "FIFA accused UEFA of launching a misinformation campaign and refused to hand over documents related to the controversial privatization of World Cup shares. UEFA filed a lawsuit in the US demanding disclosure of FIFA's documents, which FIFA denied as baseless. This crisis escalates amid growing opposition to Infantino's presidency.",
+        "time": "13:28",
+        "ts": 1790688511
       }
     ],
     "language": "en",
-    "packId": "20260929-74",
-    "sequence": 74,
+    "packId": "20260929-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:28"
+    "updatedAt": "13:30"
   },
   "verified": true
 }
