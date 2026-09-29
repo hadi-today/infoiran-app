@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-21 seq=21 exp=1790839440",
+      "advancedStatus": "pack_id=20260929-22 seq=22 exp=1790839769",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:24",
+      "lastChecked": "07:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 07:24",
+    "expiresAt": "2026-10-01 07:29",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "The Disciplinary Committee of the Football Federation rejected the complaint by Paykan Tehran against Esteghlal regarding the use of Jalaleddin Masharipov. Paykan claimed the player's re-registration occurred during Esteghlal's transfer ban. The committee stated the player's contract and playing card were issued before the ban.",
         "time": "07:23",
         "ts": 1790666584
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Nasrin Sotoudeh became the first Iranian woman to receive the Václav Havel Human Rights Prize. The award was given in recognition of her efforts against the death penalty and compulsory hijab, and for defending activists and minorities. She has previously been detained for her activities and was recently released on bail.",
+        "time": "07:28",
+        "ts": 1790666916
       }
     ],
     "language": "en",
-    "packId": "20260929-21",
-    "sequence": 21,
+    "packId": "20260929-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:24"
+    "updatedAt": "07:29"
   },
   "verified": true
 }
