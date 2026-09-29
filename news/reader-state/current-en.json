@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-09 seq=9 exp=1790829269",
+      "advancedStatus": "pack_id=20260929-10 seq=10 exp=1790830530",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:34",
+      "lastChecked": "04:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 04:34",
+    "expiresAt": "2026-10-01 04:55",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,21 @@
         "text": "Hossein Shariatmadari, editor-in-chief of Kayhan newspaper, condemned Iraq's ban on Iranian flights. He called this action \"Ali al-Zaidi's cooperation with America\" and \"alignment with the Yazid of our time.\" Shariatmadari added that this ban was proposed by the US Treasury Department and accepted by the Iraqi Prime Minister.",
         "time": "04:33",
         "ts": 1790656427
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Kazemi stated that the teachings of the eight-year war, the 12-day war, and the recent war must be included in textbooks. He said students are currently in a battlefield and this is a good opportunity to recognize the enemy and strengthen national identity. Additionally, three books about the 12-day war have been published and provided to students.",
+        "time": "04:54",
+        "ts": 1790657687
       }
     ],
     "language": "en",
-    "packId": "20260929-09",
-    "sequence": 9,
+    "packId": "20260929-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:34"
+    "updatedAt": "04:55"
   },
   "verified": true
 }
