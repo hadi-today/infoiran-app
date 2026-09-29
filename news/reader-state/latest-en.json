@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-128 seq=128 exp=1790885524",
+      "advancedStatus": "pack_id=20260929-129 seq=129 exp=1790886528",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:12",
+      "lastChecked": "20:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 20:12",
+    "expiresAt": "2026-10-01 20:28",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Murad Vaisi said Mojtaba Khamenei's message claiming the Islamic Republic is the world's superpower shows his disconnect from Iran's economic and social realities. He cited power and gas crises, currency devaluation, oil sales restrictions, and flight cancellations as evidence against these claims. He also stated that Islamic Republic officials feel concern towards Reza Pahlavi.",
-        "time": "20:21",
-        "ts": 1790626874
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Sardar Azmoun commented on the national team's performance in the 2026 World Cup, expressing disappointment over not advancing to the next stage. He admitted the team did not achieve good results and hopes to make up for it in the future. He also mentioned that criticism from Amir Ghalenoei about his physical readiness has become normal for him.",
-        "time": "20:23",
-        "ts": 1790627028
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Sadrzadeh said Benjamin Netanyahu's trip to Abu Dhabi shows the closeness between Israel and the UAE. The trip occurred while Netanyahu is under pressure from reports about warnings before the October 7 attack. Netanyahu aims to reduce political pressure ahead of the elections.",
-        "time": "20:23",
-        "ts": 1790627036
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1043,14 +1022,21 @@
         "text": "Donald Trump said the Islamic Republic of Iran is in a very bad situation and may surrender. He also stated that more oil has passed through the Strait of Hormuz in recent days than ever before. Trump emphasized that the goal is to prevent Iran from acquiring nuclear weapons.",
         "time": "20:11",
         "ts": 1790712675
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "At the end of the tenth day of the 2026 Asian Games in Nagoya, China leads the medal table with 143 gold medals. Japan and South Korea are second and third with 45 and 24 gold medals respectively. Iran is ranked seventh with 10 gold, 16 silver, and 11 bronze medals.",
+        "time": "20:28",
+        "ts": 1790713686
       }
     ],
     "language": "en",
-    "packId": "20260929-128",
-    "sequence": 128,
+    "packId": "20260929-129",
+    "sequence": 129,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:12"
+    "updatedAt": "20:28"
   },
   "verified": true
 }
