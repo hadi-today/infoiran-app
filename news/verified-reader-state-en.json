@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-06 seq=6 exp=1790820922",
+      "advancedStatus": "pack_id=20260929-07 seq=7 exp=1790821703",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:15",
+      "lastChecked": "02:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 02:15",
+    "expiresAt": "2026-10-01 02:28",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,21 @@
         "text": "Marco Rubio, the US Secretary of State, told Fox News that the Islamic Republic is governed by \"hardline Shiite clerics\" with an apocalyptic view, and such individuals should not have access to nuclear weapons. He called this situation an \"unacceptable danger\" and added that as the Trump administration's sanctions campaign intensifies, Iran's economy is rapidly heading towards a \"great catastrophe.\" Rubio accused the Islamic Republic of using money to finance Hezbollah, militias in Iraq, support terrorism, build weapons, and carry out \"terror plots\" worldwide, instead of spending resources on improving people's lives.",
         "time": "02:14",
         "ts": 1790648076
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Marco Rubio, US Secretary of State, said that if Iran had nuclear weapons, it could control the Strait of Hormuz and Bab-el-Mandeb. He added that Iran could set transit fees and decide who has access to energy. These statements were made in an interview with Fox News.",
+        "time": "02:27",
+        "ts": 1790648851
       }
     ],
     "language": "en",
-    "packId": "20260929-06",
-    "sequence": 6,
+    "packId": "20260929-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:15"
+    "updatedAt": "02:28"
   },
   "verified": true
 }
