@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-07 seq=7 exp=1790821703",
+      "advancedStatus": "pack_id=20260929-08 seq=8 exp=1790822824",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:28",
+      "lastChecked": "02:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 02:28",
+    "expiresAt": "2026-10-01 02:47",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,21 @@
         "text": "Marco Rubio, US Secretary of State, said that if Iran had nuclear weapons, it could control the Strait of Hormuz and Bab-el-Mandeb. He added that Iran could set transit fees and decide who has access to energy. These statements were made in an interview with Fox News.",
         "time": "02:27",
         "ts": 1790648851
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Karun Human Rights Organization announced that Tareq Hasnian, a 42-year-old Arab political prisoner, remains in uncertainty six months after his arrest and is deprived of contact with his family. Reports of physical and psychological torture during his interrogation have been received. The organization called for his access to medical services, an independent lawyer, and his release.",
+        "time": "02:46",
+        "ts": 1790649978
       }
     ],
     "language": "en",
-    "packId": "20260929-07",
-    "sequence": 7,
+    "packId": "20260929-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:28"
+    "updatedAt": "02:47"
   },
   "verified": true
 }
