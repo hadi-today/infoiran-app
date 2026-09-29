@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-130 seq=130 exp=1790888870",
+      "advancedStatus": "pack_id=20260929-131 seq=131 exp=1790889757",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:07",
+      "lastChecked": "21:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 21:07",
+    "expiresAt": "2026-10-01 21:22",
     "items": [
       {
         "channel": "iranintl",
@@ -1029,14 +1029,21 @@
         "text": "Elon Musk spoke at the White House about unemployment caused by artificial intelligence, stating that the most likely outcome is an era of abundance with high universal income. He added that the job market will change but demand for human labor will remain high. Musk also highlighted the benefits of AI in improving healthcare.",
         "time": "21:07",
         "ts": 1790716025
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Farzin Nadimi commented on the suspicious incident near the Fairford airbase, stating that the exact intent of the detained individuals is still unclear. The likelihood of a terrorist operation on the same night is low. It is possible they were training for a larger operation involving explosives.",
+        "time": "21:21",
+        "ts": 1790716917
       }
     ],
     "language": "en",
-    "packId": "20260929-130",
-    "sequence": 130,
+    "packId": "20260929-131",
+    "sequence": 131,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:07"
+    "updatedAt": "21:22"
   },
   "verified": true
 }
