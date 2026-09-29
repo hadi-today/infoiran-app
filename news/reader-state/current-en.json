@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-01 seq=1 exp=1790812998",
+      "advancedStatus": "pack_id=20260929-02 seq=2 exp=1790813092",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:03",
+      "lastChecked": "00:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 00:03",
+    "expiresAt": "2026-10-01 00:04",
     "items": [
       {
         "channel": "iranintl",
@@ -941,11 +941,11 @@
       }
     ],
     "language": "en",
-    "packId": "20260929-01",
-    "sequence": 1,
+    "packId": "20260929-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:03"
+    "updatedAt": "00:04"
   },
   "verified": true
 }
