@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-57 seq=57 exp=1790852859",
+      "advancedStatus": "pack_id=20260929-58 seq=58 exp=1790853384",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:07",
+      "lastChecked": "11:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 11:07",
+    "expiresAt": "2026-10-01 11:16",
     "items": [
       {
         "channel": "iranintl",
@@ -938,14 +938,21 @@
         "text": "The price of the dollar in Tehran's free market has surpassed 250,000 tomans for the first time. The US Treasury Secretary mentioned the possibility of the dollar reaching 300,000 tomans. The economic secretary of Iran International also confirmed this possibility if current conditions continue.",
         "time": "11:06",
         "ts": 1790679991
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran International's truth discovery campaign reports organized torture, deprivation of medicine and food, and unhygienic conditions in the Dastgerd and Dowlatabad prisons in Isfahan. One account reveals new details about the arrest and torture of Alireza Sepahi, sentenced to death in the Ali Khani Square case. The report is provided by Farnoush Faraji.",
+        "time": "11:15",
+        "ts": 1790680526
       }
     ],
     "language": "en",
-    "packId": "20260929-57",
-    "sequence": 57,
+    "packId": "20260929-58",
+    "sequence": 58,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:07"
+    "updatedAt": "11:16"
   },
   "verified": true
 }
