@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-62 seq=62 exp=1790855840",
+      "advancedStatus": "pack_id=20260929-63 seq=63 exp=1790856116",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:57",
+      "lastChecked": "12:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 11:57",
+    "expiresAt": "2026-10-01 12:01",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of Allameh students held a protest gathering in Tehran on Tuesday, October 6. This news is based on videos received by Iran International. The location and exact time of the gathering were announced in Tehran.",
-        "time": "11:56",
-        "ts": 1790596607
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Students report unpaid wages and insufficient training during internships. Glass factory workers in Qazvin have not received their wages due to financial corruption and debt. There are also reports of delayed payments in Mahshahr and sharp price increases in Tehran and Kermanshah.",
-        "time": "11:57",
-        "ts": 1790596649
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "During the 'Woman, Life, Freedom' uprising, security forces killed protesters not only in the streets but also in homes and detention centers. Ramin Fatehi was one of the protesters who died under torture after being arrested by the IRGC Intelligence. Iran International interviewed his sister seeking justice.",
-        "time": "12:01",
-        "ts": 1790596860
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -966,14 +945,21 @@
         "text": "Caspian Airlines announced that the plane seized in Turkey will return to Iran on Tuesday. The plane was seized due to a 3 million euro debt and a court order. Legal and administrative follow-ups have been made to lift the seizure.",
         "time": "11:56",
         "ts": 1790682986
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Negin Hamedi, the international relations officer of the Janis network, said the network aims to organize Iranian students abroad and create more space for views opposing the Islamic Republic. Janis operates in several European countries and aims to connect the academic world to the political world at the European Parliament. The network seeks to attract European politicians' attention to proposed plans for Iran's future after the Islamic Republic.",
+        "time": "12:01",
+        "ts": 1790683262
       }
     ],
     "language": "en",
-    "packId": "20260929-62",
-    "sequence": 62,
+    "packId": "20260929-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:57"
+    "updatedAt": "12:01"
   },
   "verified": true
 }
