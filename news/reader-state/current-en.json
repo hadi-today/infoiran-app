@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260929-89 seq=89 exp=1790866976",
+      "advancedStatus": "pack_id=20260929-90 seq=90 exp=1790867433",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:02",
+      "lastChecked": "15:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-29",
-    "expiresAt": "2026-10-01 15:02",
+    "expiresAt": "2026-10-01 15:10",
     "items": [
       {
         "channel": "iranintl",
@@ -1008,14 +1008,21 @@
         "text": "A video sent to Iran International shows the presence of IRGC forces and military equipment in a school in Tehran. The video does not specify the exact location or time of the presence. No further information about the event has been released.",
         "time": "15:02",
         "ts": 1790694129
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The IRGC described the US economy as declining in a letter and stated that the US has failed to achieve its goals. The IRGC urged the American people to stand against their government's policies and suggested they identify as Iranian when traveling abroad. Mehdi Tajik has commented on the reactions to this letter.",
+        "time": "15:09",
+        "ts": 1790694579
       }
     ],
     "language": "en",
-    "packId": "20260929-89",
-    "sequence": 89,
+    "packId": "20260929-90",
+    "sequence": 90,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:02"
+    "updatedAt": "15:10"
   },
   "verified": true
 }
