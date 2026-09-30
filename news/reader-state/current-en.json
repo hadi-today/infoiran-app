@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-54 seq=54 exp=1790943016",
+      "advancedStatus": "pack_id=20260930-55 seq=55 exp=1790943791",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:10",
+      "lastChecked": "12:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 12:10",
+    "expiresAt": "2026-10-02 12:23",
     "items": [
       {
         "channel": "harana",
@@ -938,14 +938,21 @@
         "text": "Denmark has intensified security checks on Iranian PhD students and researchers. Aarhus University has rejected 89 applicants from high-risk countries, including Iran, since 2024. This information was reported by Mehran Abbasian, a journalist from Iran International.",
         "time": "12:09",
         "ts": 1790770161
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Yousef Tabatabainejad, the Friday prayer leader of Isfahan, stated that the devaluation of the national currency and inflation are natural consequences of war, citing Iraq's experience. He mentioned that targeting vital infrastructure has caused price increases. He also emphasized that the government has managed affairs well despite the full-scale war conditions.",
+        "time": "12:22",
+        "ts": 1790770943
       }
     ],
     "language": "en",
-    "packId": "20260930-54",
-    "sequence": 54,
+    "packId": "20260930-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:10"
+    "updatedAt": "12:23"
   },
   "verified": true
 }
