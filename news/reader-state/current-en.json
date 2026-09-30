@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-15 seq=15 exp=1790923952",
+      "advancedStatus": "pack_id=20260930-17 seq=17 exp=1790924162",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:52",
+      "lastChecked": "06:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 06:52",
+    "expiresAt": "2026-10-02 06:56",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Telecommunication internet has faced severe disruptions or complete outages in cities such as Tehran, Tabriz, Hamedan, Iranshahr, Birjand, and Bushehr. Access to telecommunication systems and the support number 2020 has also been disrupted. The company attributed the issue to infrastructure upgrades, but its deputy stated that the internet itself has no problems.",
-        "time": "06:52",
-        "ts": 1790664744
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1001,14 +994,28 @@
         "text": "In Kish Island, living conditions are very limited after the war and costs have increased. In Shiraz, the electricity consumption pattern has changed and electricity bills have risen sharply. Additionally, daily power outages have been reported in Isfahan and Shazand.",
         "time": "06:52",
         "ts": 1790751132
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reuters, citing an informed source, reported that Iranian Foreign Minister Abbas Araghchi met with Qatari mediators in Doha on Tuesday evening and received the US response to the proposed 'seven-day confidence-building' plan. He will convey the response to Tehran on Wednesday. The document under negotiation is a plan to build trust and return to an enhanced version of the 'Islamabad Understanding' signed in June, and the main disagreement is over the sequence of actions.",
+        "time": "06:54",
+        "ts": 1790751244
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Zahra Azadpour, a football player for Mehregan Pardis Club, was killed on the evening of January 9, 2026, in Karaj by the Islamic Republic's suppression forces. She was born in 1998 and had played for Azarakhsh Shahriar and Saba teams. Azadpour had also been invited to the Iranian women's national football team camp.",
+        "time": "06:54",
+        "ts": 1790751295
       }
     ],
     "language": "en",
-    "packId": "20260930-15",
-    "sequence": 15,
+    "packId": "20260930-17",
+    "sequence": 17,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:52"
+    "updatedAt": "06:56"
   },
   "verified": true
 }
