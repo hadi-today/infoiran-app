@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-05 seq=5 exp=1790902458",
+      "advancedStatus": "pack_id=20260930-06 seq=6 exp=1790905854",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:54",
+      "lastChecked": "01:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 00:54",
+    "expiresAt": "2026-10-02 01:50",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The International Organization for Migration announced that since the escalation of conflicts in western Yemen in June, over 145,000 people have been displaced in eight provinces. This number has increased by 15,870 compared to last week. Insecurity continues to cause displacement of families in these areas.",
-        "time": "01:39",
-        "ts": 1790645983
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Marco Rubio, the US Secretary of State, announced strong US support for Lebanon in implementing the tripartite agreement framework. He described this framework as the only path to lasting peace with Israel. Rubio also emphasized that the US stands with an independent Lebanon free from Hezbollah and Iranian influence.",
-        "time": "01:47",
-        "ts": 1790646428
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1029,14 +1015,21 @@
         "text": "The Wall Street Journal reported that the Islamic Republic's reduced ability to block oil flow through the Strait of Hormuz may increase the risk of military escalation by Tehran. According to the report, the US Navy and Gulf oil producers have been more successful in countering attacks or using alternative routes, and data shows the volume of oil passing through Hormuz and alternative routes has reached about 80% of pre-war levels. In contrast, the Islamic Republic has been unable to export its crude oil through Hormuz since the reimposition of the US naval blockade in July, and Iran's oil reserves outside the blockade may run out by mid-October.",
         "time": "00:52",
         "ts": 1790729561
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Naib Karami, a 25-year-old from Bani Nar village in Salas Babajani, Kermanshah, was shot dead by military forces while herding near the border area. Local sources report that the village is surrounded by military and security forces. This incident occurred in the border strip of Kermanshah province.",
+        "time": "01:50",
+        "ts": 1790733010
       }
     ],
     "language": "en",
-    "packId": "20260930-05",
-    "sequence": 5,
+    "packId": "20260930-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:54"
+    "updatedAt": "01:50"
   },
   "verified": true
 }
