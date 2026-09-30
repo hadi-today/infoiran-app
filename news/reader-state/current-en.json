@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-64 seq=64 exp=1790947883",
+      "advancedStatus": "pack_id=20260930-65 seq=65 exp=1790948036",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:31",
+      "lastChecked": "13:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 13:31",
+    "expiresAt": "2026-10-02 13:33",
     "items": [
       {
         "channel": "iranintl",
@@ -931,14 +931,21 @@
         "text": "Protests over the housing crisis in Spain continue for the fifth consecutive day. Hundreds of protesters have gathered in Madrid and set up tents in the square. They are protesting against rising housing costs, forced evictions, and insufficient government measures.",
         "time": "13:30",
         "ts": 1790775036
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Dariush Atashafroz, sentenced to death at age 17, is now facing execution after nearly 16 years in Sepidar prison in Ahvaz. The execution has been postponed due to efforts to gain the victim's family's consent. The victim's family has not agreed to forgiveness or reconciliation and insists on the execution of the retribution sentence.",
+        "time": "13:32",
+        "ts": 1790775134
       }
     ],
     "language": "en",
-    "packId": "20260930-64",
-    "sequence": 64,
+    "packId": "20260930-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:31"
+    "updatedAt": "13:33"
   },
   "verified": true
 }
