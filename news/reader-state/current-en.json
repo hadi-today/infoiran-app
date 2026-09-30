@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-122 seq=122 exp=1790977237",
+      "advancedStatus": "pack_id=20260930-123 seq=123 exp=1790977634",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:40",
+      "lastChecked": "21:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 21:40",
+    "expiresAt": "2026-10-02 21:47",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,21 @@
         "text": "Donald Trump announced that more information about the release on bail of suspects in a possible conspiracy against a British airbase will be released by the end of the day. These individuals were detained on suspicion of involvement in the conspiracy. Reports indicate that American forces used this base to attack Iran.",
         "time": "21:39",
         "ts": 1790804381
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amir Ghalenoei, head coach of Iran's national football team, promised to rebuild the team even better than before. After two losses against Uzbekistan and Russia, he stated that weaknesses will be corrected and structural changes will be made if necessary. Ghalenoei emphasized that he accepts mistakes but will not give up, aiming for success in the Asian Cup.",
+        "time": "21:46",
+        "ts": 1790804794
       }
     ],
     "language": "en",
-    "packId": "20260930-122",
-    "sequence": 122,
+    "packId": "20260930-123",
+    "sequence": 123,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:40"
+    "updatedAt": "21:47"
   },
   "verified": true
 }
