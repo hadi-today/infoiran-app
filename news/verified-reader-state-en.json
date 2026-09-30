@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-106 seq=106 exp=1790967653",
+      "advancedStatus": "pack_id=20260930-107 seq=107 exp=1790967856",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:00",
+      "lastChecked": "19:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 19:00",
+    "expiresAt": "2026-10-02 19:04",
     "items": [
       {
         "channel": "harana",
@@ -931,14 +931,21 @@
         "text": "The expulsion and two-semester suspension of Reza Niaparest, a master's student of history at Shahid Beheshti University, was confirmed by the university's appeals council. This ruling is final. Reza Niaparest is banned from continuing his studies.",
         "time": "18:57",
         "ts": 1790794668
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video released by state media shows the presence of military personnel in a boys' school in Eslamshahr. Forces affiliated with military institutions gave a speech and played religious-heroic songs loudly for the students. This event took place in an educational setting.",
+        "time": "19:03",
+        "ts": 1790794980
       }
     ],
     "language": "en",
-    "packId": "20260930-106",
-    "sequence": 106,
+    "packId": "20260930-107",
+    "sequence": 107,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:00"
+    "updatedAt": "19:04"
   },
   "verified": true
 }
