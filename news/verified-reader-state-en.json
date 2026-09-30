@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-07 seq=7 exp=1790907983",
+      "advancedStatus": "pack_id=20260930-08 seq=8 exp=1790910070",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:26",
+      "lastChecked": "03:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 02:26",
+    "expiresAt": "2026-10-02 03:01",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Marco Rubio, US Secretary of State, said that if Iran had nuclear weapons, it could control the Strait of Hormuz and Bab-el-Mandeb. He added that Iran could set transit fees and decide who has access to energy. These statements were made in an interview with Fox News.",
-        "time": "02:27",
-        "ts": 1790648851
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Karun Human Rights Organization announced that Tareq Hasnian, a 42-year-old Arab political prisoner, remains in uncertainty six months after his arrest and is deprived of contact with his family. Reports of physical and psychological torture during his interrogation have been received. The organization called for his access to medical services, an independent lawyer, and his release.",
-        "time": "02:46",
-        "ts": 1790649978
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1015,14 +1001,21 @@
         "text": "Syrian authorities announced the dismantling of a three-member cell linked to Hezbollah in Daraa province. The suspects were accused of attempting to install a rocket launch platform and carry out attacks against security. The arrests were coordinated with internal security forces.",
         "time": "02:25",
         "ts": 1790735140
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US State Department sanctioned Iranian airline Saha and Russian companies Yakovlev and MG-Flot for involvement in supplying military equipment and transferring weapons related to Iran. Additionally, 10 individuals and entities were sanctioned for providing arms to Iran's Ministry of Defense. The US has also requested information about three officials linked to the IRGC Aerospace Force.",
+        "time": "03:00",
+        "ts": 1790737225
       }
     ],
     "language": "en",
-    "packId": "20260930-07",
-    "sequence": 7,
+    "packId": "20260930-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:26"
+    "updatedAt": "03:01"
   },
   "verified": true
 }
