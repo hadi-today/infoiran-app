@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-44 seq=44 exp=1790939057",
+      "advancedStatus": "pack_id=20260930-45 seq=45 exp=1790939170",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:04",
+      "lastChecked": "11:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 11:04",
+    "expiresAt": "2026-10-02 11:06",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen protested the severe increase in drug prices in a video to Iran International. He said people's income does not cover the cost of medicine. This person holds the Islamic Republic responsible for this situation.",
-        "time": "11:03",
-        "ts": 1790679814
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -938,14 +931,21 @@
         "text": "Heydar Qadrian, a citizen from Saqez, has been detained by security forces for four days. The location of his detention remains unknown. This report was published by Harana News Agency.",
         "time": "11:03",
         "ts": 1790766202
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iranian national football team dropped one place to 23rd in the FIFA rankings after losses to Uzbekistan and Russia. Iran had been among the top 22 teams since June 2023, but recent defeats ended this streak. The team has lost 20 points in the FIFA rankings since the start of the 2026 World Cup.",
+        "time": "11:04",
+        "ts": 1790766254
       }
     ],
     "language": "en",
-    "packId": "20260930-44",
-    "sequence": 44,
+    "packId": "20260930-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:04"
+    "updatedAt": "11:06"
   },
   "verified": true
 }
