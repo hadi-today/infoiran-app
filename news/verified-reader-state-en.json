@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-04 seq=4 exp=1790902353",
+      "advancedStatus": "pack_id=20260930-05 seq=5 exp=1790902458",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:52",
+      "lastChecked": "00:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 00:52",
+    "expiresAt": "2026-10-02 00:54",
     "items": [
       {
         "channel": "iranintl",
@@ -1022,14 +1022,21 @@
         "text": "On Tuesday, 7th of Mehr, the Wall Street Journal wrote that the Islamic Republic's reduced ability to block the Strait of Hormuz and use it as leverage may increase the risk of military escalation by Tehran. According to Kepler data, the volume of oil passing through Hormuz and alternative routes has reached about 80% of pre-war levels, but the Islamic Republic has been unable to pass its crude oil through the Strait since the US naval blockade in July, and Iran's oil reserves outside the blockade zone may run out by mid-October. The newspaper also wrote that declining oil revenues and the weakening of Tehran's leverage in the Strait of Hormuz may push the Islamic Republic to resume attacks to increase pressure.",
         "time": "00:51",
         "ts": 1790729512
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Wall Street Journal reported that the Islamic Republic's reduced ability to block oil flow through the Strait of Hormuz may increase the risk of military escalation by Tehran. According to the report, the US Navy and Gulf oil producers have been more successful in countering attacks or using alternative routes, and data shows the volume of oil passing through Hormuz and alternative routes has reached about 80% of pre-war levels. In contrast, the Islamic Republic has been unable to export its crude oil through Hormuz since the reimposition of the US naval blockade in July, and Iran's oil reserves outside the blockade may run out by mid-October.",
+        "time": "00:52",
+        "ts": 1790729561
       }
     ],
     "language": "en",
-    "packId": "20260930-04",
-    "sequence": 4,
+    "packId": "20260930-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:52"
+    "updatedAt": "00:54"
   },
   "verified": true
 }
