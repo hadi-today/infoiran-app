@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-35 seq=35 exp=1790933792",
+      "advancedStatus": "pack_id=20260930-36 seq=36 exp=1790933909",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:36",
+      "lastChecked": "09:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 09:36",
+    "expiresAt": "2026-10-02 09:38",
     "items": [
       {
         "channel": "iranintl",
@@ -938,14 +938,21 @@
         "text": "Saeed Tarvand's child sang the song \"Lonely Man\" in his mourning. Saeed Tarvand, a 33-year-old oil company contractor, was killed during the protests on January 8 in Abadan. He was buried in Mehran County, Ilam Province.",
         "time": "09:35",
         "ts": 1790760939
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Nadari called for a decisive, immediate, and even military response to the aerial blockade of the Islamic Republic. He considered the failure to respond promptly to the maritime blockade a serious and strategic mistake. Nadari warned that closing the airspace could increase pressures and pave the way for a land blockade.",
+        "time": "09:37",
+        "ts": 1790761020
       }
     ],
     "language": "en",
-    "packId": "20260930-35",
-    "sequence": 35,
+    "packId": "20260930-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:36"
+    "updatedAt": "09:38"
   },
   "verified": true
 }
