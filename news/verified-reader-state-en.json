@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-08 seq=8 exp=1790910070",
+      "advancedStatus": "pack_id=20260930-10 seq=10 exp=1790915425",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:01",
+      "lastChecked": "04:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 03:01",
+    "expiresAt": "2026-10-02 04:30",
     "items": [
       {
         "channel": "iranintl",
@@ -1008,14 +1008,28 @@
         "text": "The US State Department sanctioned Iranian airline Saha and Russian companies Yakovlev and MG-Flot for involvement in supplying military equipment and transferring weapons related to Iran. Additionally, 10 individuals and entities were sanctioned for providing arms to Iran's Ministry of Defense. The US has also requested information about three officials linked to the IRGC Aerospace Force.",
         "time": "03:00",
         "ts": 1790737225
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Norman Roule, a former CIA official, stated that if the Islamic Republic remains, its behavior will likely follow the pattern of recent decades. He added that the IRGC is now in power and has established Tehran's proxy forces network. Additionally, the Quds Force plays a key role in Iran's regional foreign policy.",
+        "time": "03:16",
+        "ts": 1790738161
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The death sentences of Ali Hemmati and Majid Nikandish, two detainees of the Iranian National Revolution in Mashhad, were carried out early Wednesday, October 8. They were arrested in January 2026 in the Tabarsi area of Mashhad. The death sentences were executed after confirmation by the Supreme Court and following legal procedures.",
+        "time": "04:29",
+        "ts": 1790742576
       }
     ],
     "language": "en",
-    "packId": "20260930-08",
-    "sequence": 8,
+    "packId": "20260930-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:01"
+    "updatedAt": "04:30"
   },
   "verified": true
 }
