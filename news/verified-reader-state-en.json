@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-36 seq=36 exp=1790933909",
+      "advancedStatus": "pack_id=20260930-37 seq=37 exp=1790935464",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:38",
+      "lastChecked": "10:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 09:38",
+    "expiresAt": "2026-10-02 10:04",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Despite the Ministry of Energy's announcement about the end of power outages, reports indicate that electricity cuts continue in the provinces of Isfahan, Markazi, and Chaharmahal and Bakhtiari. This issue has been reported by Iran International. More details were provided by Leila Saadati.",
-        "time": "09:43",
-        "ts": 1790674992
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Bagher Ghalibaf responded to Trump in a parliamentary speech saying, \"Turn so we can turn.\" Trump had previously stated that the US would win against the Islamic Republic through economic pressure and military action. The Wall Street Journal reported that Trump expects bombing of the Islamic Republic to resume after the US midterm elections.",
-        "time": "09:53",
-        "ts": 1790675624
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A video shows military equipment and armed forces present in a school in eastern Tehran. The video was received by Iran International. No further details have been provided.",
-        "time": "10:01",
-        "ts": 1790676100
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -945,14 +924,21 @@
         "text": "Ahmad Nadari called for a decisive, immediate, and even military response to the aerial blockade of the Islamic Republic. He considered the failure to respond promptly to the maritime blockade a serious and strategic mistake. Nadari warned that closing the airspace could increase pressures and pave the way for a land blockade.",
         "time": "09:37",
         "ts": 1790761020
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The head of the Ear and Hearing Health Department of the Ministry of Health announced an increase in hearing impairment in Iran. Saeed Mahmoudian stated that the rate of congenital hearing impairment has reached more than four cases per thousand births. This news was released during the International Week of the Deaf.",
+        "time": "10:03",
+        "ts": 1790762595
       }
     ],
     "language": "en",
-    "packId": "20260930-36",
-    "sequence": 36,
+    "packId": "20260930-37",
+    "sequence": 37,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:38"
+    "updatedAt": "10:04"
   },
   "verified": true
 }
