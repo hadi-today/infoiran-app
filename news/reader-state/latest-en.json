@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-115 seq=115 exp=1790972911",
+      "advancedStatus": "pack_id=20260930-116 seq=116 exp=1790973148",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:28",
+      "lastChecked": "20:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 20:28",
+    "expiresAt": "2026-10-02 20:32",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "At the end of the tenth day of the 2026 Asian Games in Nagoya, China leads the medal table with 143 gold medals. Japan and South Korea are second and third with 45 and 24 gold medals respectively. Iran is ranked seventh with 10 gold, 16 silver, and 11 bronze medals.",
-        "time": "20:28",
-        "ts": 1790713686
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +910,21 @@
         "text": "Ehsan Haddadi, head of the Athletics Federation, announced the return of two athletes and a coach to Iran. This return follows the implementation of a memorandum between Iran's Foreign Ministry and South Korea. The case involves allegations of group assault by four members of Iran's delegation at the 2025 Asian Championships in Gumi.",
         "time": "20:27",
         "ts": 1790800057
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video from Eslamshahr shows a military vehicle entering a girls' school. This video was received by Iran International. No further details about the incident have been reported.",
+        "time": "20:31",
+        "ts": 1790800296
       }
     ],
     "language": "en",
-    "packId": "20260930-115",
-    "sequence": 115,
+    "packId": "20260930-116",
+    "sequence": 116,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:28"
+    "updatedAt": "20:32"
   },
   "verified": true
 }
