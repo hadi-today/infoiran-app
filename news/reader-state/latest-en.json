@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-32 seq=32 exp=1790933215",
+      "advancedStatus": "pack_id=20260930-34 seq=34 exp=1790933583",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:26",
+      "lastChecked": "09:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 09:26",
+    "expiresAt": "2026-10-02 09:33",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Abbas Araghchi stated that a Qatari intermediary met with the Iranian side to discuss ways to fulfill the Islamic Republic's conditions. Iran's seven-point plan has been conveyed to the Americans. The Islamic Republic is awaiting an official response from the US through intermediaries.",
-        "time": "09:31",
-        "ts": 1790674312
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -938,14 +931,21 @@
         "text": "Messages received by Iran International report continued delays in wage payments and layoffs of workers in various sectors. Livelihood problems of employees in factories, universities, and medical centers have been reported. Some businesses have also been closed.",
         "time": "09:26",
         "ts": 1790760410
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Naser Arasteh, deputy head of Khamenei's military advisory group, stated that the younger generation will witness the decline and collapse of American dominance. He said the US might face serious internal divisions and fundamental changes in its political structure. He also predicted that he will witness the collapse of the Israeli regime.",
+        "time": "09:32",
+        "ts": 1790760730
       }
     ],
     "language": "en",
-    "packId": "20260930-32",
-    "sequence": 32,
+    "packId": "20260930-34",
+    "sequence": 34,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:26"
+    "updatedAt": "09:33"
   },
   "verified": true
 }
