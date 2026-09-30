@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-120 seq=120 exp=1790977000",
+      "advancedStatus": "pack_id=20260930-121 seq=121 exp=1790977140",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:36",
+      "lastChecked": "21:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 21:36",
+    "expiresAt": "2026-10-02 21:39",
     "items": [
       {
         "channel": "iranintl",
@@ -931,14 +931,21 @@
         "text": "A video showing the transport of a missile in the streets of Najafabad, Isfahan province, on Wednesday, October 8, has been released. The video was received by Iran International. The event took place on October 8.",
         "time": "21:35",
         "ts": 1790804154
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Axios reported that mediators, especially Qatar, have not succeeded in bringing Tehran and Washington closer. There is a possibility of renewed US attacks. Donald Trump stated that the US has achieved a complete military victory in the war with Iran.",
+        "time": "21:38",
+        "ts": 1790804296
       }
     ],
     "language": "en",
-    "packId": "20260930-120",
-    "sequence": 120,
+    "packId": "20260930-121",
+    "sequence": 121,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:36"
+    "updatedAt": "21:39"
   },
   "verified": true
 }
