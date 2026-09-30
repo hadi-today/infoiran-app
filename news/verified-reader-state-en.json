@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-68 seq=68 exp=1790949706",
+      "advancedStatus": "pack_id=20260930-69 seq=69 exp=1790950045",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:01",
+      "lastChecked": "14:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 14:01",
+    "expiresAt": "2026-10-02 14:07",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "A Boeing 737 passenger plane of Caspian Airlines was seized in Turkey due to a three million euro debt. The plane was stopped while preparing for a flight from Istanbul to Tehran, and passengers had to disembark. The seizure order was issued by the court.",
-        "time": "14:02",
-        "ts": 1790690546
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A student in southern Iran says their school is online but requires tuition payment for enrollment. The family cannot afford the tuition due to war and economic difficulties. The student's father has been laid off and the mother is ill.",
-        "time": "14:03",
-        "ts": 1790690625
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -938,14 +924,21 @@
         "text": "Amin Mirzazadeh won the 11th gold medal for Iran at the Nagoya Asian Games by defeating his Uzbek opponent in the 130 kg Greco-Roman wrestling final. Mohammad Javad Rezaei and Gholamreza Farkhi were eliminated in the first round after losing to Kazakh opponents. This report was prepared by Alireza Modiri from Iran International.",
         "time": "13:59",
         "ts": 1790776791
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iranian judokas started their competitions at the Nagoya Asian Games. Mahsa Shakibaei and Abolfazl Mahmoudi were eliminated after losing to their opponents. The report was provided by Mehdi Kazemi from Iran International.",
+        "time": "14:06",
+        "ts": 1790777193
       }
     ],
     "language": "en",
-    "packId": "20260930-68",
-    "sequence": 68,
+    "packId": "20260930-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:01"
+    "updatedAt": "14:07"
   },
   "verified": true
 }
