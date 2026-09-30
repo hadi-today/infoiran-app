@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-98 seq=98 exp=1790964467",
+      "advancedStatus": "pack_id=20260930-99 seq=99 exp=1790964578",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:07",
+      "lastChecked": "18:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 18:07",
+    "expiresAt": "2026-10-02 18:09",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "Donald Trump stated that the US has been at war with the Islamic Republic for six months and that Iran's military capability is completely destroyed. He said the US has almost full control over the Strait of Hormuz. Trump also described Iran's economic situation as poor with inflation exceeding 300 percent.",
         "time": "18:06",
         "ts": 1790791609
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Some technical infrastructure workers eligible for early retirement have reported that their retirement process has been halted. The stoppage is due to several months of unpaid insurance premiums by the employer. This issue has caused difficulties for these workers' retirement.",
+        "time": "18:08",
+        "ts": 1790791705
       }
     ],
     "language": "en",
-    "packId": "20260930-98",
-    "sequence": 98,
+    "packId": "20260930-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:07"
+    "updatedAt": "18:09"
   },
   "verified": true
 }
