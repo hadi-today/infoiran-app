@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-61 seq=61 exp=1790946331",
+      "advancedStatus": "pack_id=20260930-62 seq=62 exp=1790946679",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:05",
+      "lastChecked": "13:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 13:05",
+    "expiresAt": "2026-10-02 13:11",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,28 @@
         "text": "Syria has announced the arrest of a three-member cell affiliated with Hezbollah in Lebanon. These individuals are accused of attempting to deploy rocket launchers near the Israeli border. More details were provided by an Iran International reporter.",
         "time": "13:02",
         "ts": 1790773374
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The price of sanitary pads has increased by 145% year-on-year. The average price of a large size pack has risen from about 50,000 tomans to 138,000 tomans. The rising costs have led some women to use cheaper alternatives, which may threaten their health.",
+        "time": "13:10",
+        "ts": 1790773825
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Sports Human Rights Organization announced that seven Iranian athletes are at risk of execution in the prisons of the Islamic Republic. Ali Pishevarzadeh and Maryam Hedavand are among those sentenced to death. Concerns have been raised about torture, forced confessions, and denial of access to a lawyer.",
+        "time": "13:11",
+        "ts": 1790773874
       }
     ],
     "language": "en",
-    "packId": "20260930-61",
-    "sequence": 61,
+    "packId": "20260930-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:05"
+    "updatedAt": "13:11"
   },
   "verified": true
 }
