@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-55 seq=55 exp=1790943791",
+      "advancedStatus": "pack_id=20260930-56 seq=56 exp=1790944388",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:23",
+      "lastChecked": "12:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 12:23",
+    "expiresAt": "2026-10-02 12:33",
     "items": [
       {
         "channel": "harana",
@@ -945,14 +945,21 @@
         "text": "Yousef Tabatabainejad, the Friday prayer leader of Isfahan, stated that the devaluation of the national currency and inflation are natural consequences of war, citing Iraq's experience. He mentioned that targeting vital infrastructure has caused price increases. He also emphasized that the government has managed affairs well despite the full-scale war conditions.",
         "time": "12:22",
         "ts": 1790770943
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows military forces conducting an exercise in a boys' school in Tehran. This action intensified the security atmosphere in educational places. The video was released by state media.",
+        "time": "12:32",
+        "ts": 1790771525
       }
     ],
     "language": "en",
-    "packId": "20260930-55",
-    "sequence": 55,
+    "packId": "20260930-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:23"
+    "updatedAt": "12:33"
   },
   "verified": true
 }
