@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-83 seq=83 exp=1790958727",
+      "advancedStatus": "pack_id=20260930-84 seq=84 exp=1790958876",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:32",
+      "lastChecked": "16:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 16:32",
+    "expiresAt": "2026-10-02 16:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The dollar in Iran surpassed 255,000 tomans. The deputy health minister urged people not to waste leftover food and to consume it. Simultaneously, a letter from the IRGC to the American people about the country's economic collapse was published.",
-        "time": "16:31",
-        "ts": 1790699513
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "Andy Burnham, the UK Prime Minister, stated there is strong evidence that the Iranian government was involved in the weekend incident at the RAF Fairford base. Five British men were arrested on suspicion of terrorism-related offenses. Police investigations into the incident are ongoing.",
         "time": "16:31",
         "ts": 1790785870
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Videos received by Iran International on Wednesday, October 8, show severe flooding entering the streets of Aliabad Katoul in Golestan province. The flood has caused waterlogging in the area. Reports indicate flooding has occurred in this region.",
+        "time": "16:32",
+        "ts": 1790785949
       }
     ],
     "language": "en",
-    "packId": "20260930-83",
-    "sequence": 83,
+    "packId": "20260930-84",
+    "sequence": 84,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:32"
+    "updatedAt": "16:34"
   },
   "verified": true
 }
