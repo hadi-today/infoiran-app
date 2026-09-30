@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-84 seq=84 exp=1790958876",
+      "advancedStatus": "pack_id=20260930-85 seq=85 exp=1790959485",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:34",
+      "lastChecked": "16:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 16:34",
+    "expiresAt": "2026-10-02 16:44",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A video published on social media shows the sighting of an Iranian leopard in Kajur, Mazandaran province. This video has attracted users' attention. The sighting of the Iranian leopard in this area has been recorded.",
-        "time": "16:33",
-        "ts": 1790699628
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Akraminia, the army spokesperson, stated that the military strategy in the war has shifted from defense to offense. He said that preemptive strikes are carried out before the enemy attacks. He also emphasized that if an imminent enemy attack is detected, preemptive operations will be conducted.",
-        "time": "16:36",
-        "ts": 1790699789
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +875,21 @@
         "text": "Videos received by Iran International on Wednesday, October 8, show severe flooding entering the streets of Aliabad Katoul in Golestan province. The flood has caused waterlogging in the area. Reports indicate flooding has occurred in this region.",
         "time": "16:32",
         "ts": 1790785949
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Minister of Culture has submitted a list of over 100 Iranian figures abroad to authorities for their return. The judiciary announced the seizure of assets and blocking of bank accounts of Iranian critics abroad. A system called \"Elaj\" has asked the public to report these individuals.",
+        "time": "16:42",
+        "ts": 1790786556
       }
     ],
     "language": "en",
-    "packId": "20260930-84",
-    "sequence": 84,
+    "packId": "20260930-85",
+    "sequence": 85,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:34"
+    "updatedAt": "16:44"
   },
   "verified": true
 }
