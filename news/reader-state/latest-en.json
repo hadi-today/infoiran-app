@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-104 seq=104 exp=1790967232",
+      "advancedStatus": "pack_id=20260930-105 seq=105 exp=1790967452",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:53",
+      "lastChecked": "18:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 18:53",
+    "expiresAt": "2026-10-02 18:57",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "Alireza Beiranvand commented on the national team's performance after returning to Iran. He said, \"It is not over yet, one game remains.\" This ambiguous statement concerns the status of the national team.",
         "time": "18:50",
         "ts": 1790794201
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The cost of education in Iranian schools has increased sharply. Prices of books, stationery, and tuition fees for public schools and vocational schools have reached very high amounts. Additionally, a student was expelled for tearing a picture of Khamenei.",
+        "time": "18:53",
+        "ts": 1790794437
       }
     ],
     "language": "en",
-    "packId": "20260930-104",
-    "sequence": 104,
+    "packId": "20260930-105",
+    "sequence": 105,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:53"
+    "updatedAt": "18:57"
   },
   "verified": true
 }
