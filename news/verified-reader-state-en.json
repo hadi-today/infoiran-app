@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-102 seq=102 exp=1790966498",
+      "advancedStatus": "pack_id=20260930-103 seq=103 exp=1790966970",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:41",
+      "lastChecked": "18:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 18:41",
+    "expiresAt": "2026-10-02 18:49",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Iranian national football team lost to Uzbekistan and Russia with scores of 3-1 and 2-0 in the September FIFA window. Amir Ghalenoei had promised the Asian Cup championship after the World Cup elimination. Due to poor results and lack of team renewal, a poll about Ghalenoei's dismissal has been conducted.",
-        "time": "18:46",
-        "ts": 1790707579
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +910,21 @@
         "text": "Families and relatives of those killed in the December protests keep the memory alive with tattoos. Injured protesters use protest-related designs to cover their wounds. This topic was discussed in an interview with Azadeh Akbari.",
         "time": "18:39",
         "ts": 1790793595
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Mahdavi-Azad said that repeating claims about the arming of rioters and the danger of civil war is an effort to prepare public opinion for a possible crackdown on protesters. He added that the Islamic Republic previously used warnings about Syria-like conditions in Iran to scare people. Now, with harsher rhetoric, it aims to justify harsher actions against protesters.",
+        "time": "18:47",
+        "ts": 1790794075
       }
     ],
     "language": "en",
-    "packId": "20260930-102",
-    "sequence": 102,
+    "packId": "20260930-103",
+    "sequence": 103,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:41"
+    "updatedAt": "18:49"
   },
   "verified": true
 }
