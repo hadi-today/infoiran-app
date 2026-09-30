@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-85 seq=85 exp=1790959485",
+      "advancedStatus": "pack_id=20260930-86 seq=86 exp=1790959865",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:44",
+      "lastChecked": "16:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 16:44",
+    "expiresAt": "2026-10-02 16:51",
     "items": [
       {
         "channel": "iranintl",
@@ -882,14 +882,21 @@
         "text": "The Minister of Culture has submitted a list of over 100 Iranian figures abroad to authorities for their return. The judiciary announced the seizure of assets and blocking of bank accounts of Iranian critics abroad. A system called \"Elaj\" has asked the public to report these individuals.",
         "time": "16:42",
         "ts": 1790786556
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Videos released show that Amir Ghalenoei and his assistants fled from reporters upon arrival in Tehran after two friendly matches against Uzbekistan and Russia. Most national team players also refused to talk to the media.",
+        "time": "16:50",
+        "ts": 1790787008
       }
     ],
     "language": "en",
-    "packId": "20260930-85",
-    "sequence": 85,
+    "packId": "20260930-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:44"
+    "updatedAt": "16:51"
   },
   "verified": true
 }
