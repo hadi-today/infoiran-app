@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-121 seq=121 exp=1790977140",
+      "advancedStatus": "pack_id=20260930-122 seq=122 exp=1790977237",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:39",
+      "lastChecked": "21:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 21:39",
+    "expiresAt": "2026-10-02 21:40",
     "items": [
       {
         "channel": "iranintl",
@@ -938,14 +938,21 @@
         "text": "Axios reported that mediators, especially Qatar, have not succeeded in bringing Tehran and Washington closer. There is a possibility of renewed US attacks. Donald Trump stated that the US has achieved a complete military victory in the war with Iran.",
         "time": "21:38",
         "ts": 1790804296
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump announced that more information about the release on bail of suspects in a possible conspiracy against a British airbase will be released by the end of the day. These individuals were detained on suspicion of involvement in the conspiracy. Reports indicate that American forces used this base to attack Iran.",
+        "time": "21:39",
+        "ts": 1790804381
       }
     ],
     "language": "en",
-    "packId": "20260930-121",
-    "sequence": 121,
+    "packId": "20260930-122",
+    "sequence": 122,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:39"
+    "updatedAt": "21:40"
   },
   "verified": true
 }
