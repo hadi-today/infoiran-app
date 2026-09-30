@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-111 seq=111 exp=1790969267",
+      "advancedStatus": "pack_id=20260930-112 seq=112 exp=1790970174",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:27",
+      "lastChecked": "19:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 19:27",
+    "expiresAt": "2026-10-02 19:42",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "At the beginning of the academic year, students held protests at Allameh, Kermanshah, and Lorestan universities. These protests were observed at various universities in Iran. An interview with Roghieh Rezaei was conducted about this issue.",
-        "time": "19:33",
-        "ts": 1790710408
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The mother of Aida Aghili joined the campaign \"One Candle, One Name, One Memory.\" Aida Aghili was killed by officers' bullets during the National Revolution protests in Tehran. She died at the age of 34.",
-        "time": "19:35",
-        "ts": 1790710514
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -945,14 +931,21 @@
         "text": "Kazem Alinejad, a political prisoner, is deprived of proper medical care in Evin prison due to multiple illnesses including diabetes and heart and lung problems. His physical condition has worsened in the past two weeks with chest pain and shortness of breath. His family is unable to obtain necessary medications due to his lack of hospital referral and medical prescription.",
         "time": "19:25",
         "ts": 1790796329
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Reza Naqdi said Trump is thinking about his own economic interests, not the national interests of the US. He added that five thousand American soldiers are stranded on aircraft carriers in the ocean, and US ships in the Indian Ocean have not been able to dock at the Fifth Fleet base. Naqdi also mentioned Iran's military budget and criticized the US government model.",
+        "time": "19:41",
+        "ts": 1790797306
       }
     ],
     "language": "en",
-    "packId": "20260930-111",
-    "sequence": 111,
+    "packId": "20260930-112",
+    "sequence": 112,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:27"
+    "updatedAt": "19:42"
   },
   "verified": true
 }
