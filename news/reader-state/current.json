@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-02 seq=2 exp=1790900322",
+      "advancedStatus": "pack_id=20260930-03 seq=3 exp=1790900965",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:18",
+      "lastChecked": "00:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 00:18",
+    "expiresAt": "2026-10-02 00:29",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -866,13 +866,19 @@
         "text": "محمد بن عبدالرحمن آل ثانی، نخست‌وزیر قطر، اعلام کرد که نیم ساعت پیش از آغاز جنگ با جمهوری اسلامی، کاخ سفید او را از عملیات نظامی قریب‌الوقوع مطلع کرده است. او در برنامه «پیرس مورگان بدون سانسور» گفت هنگام تماس کاخ سفید در دوحه خواب بود. مقام‌های آمریکایی به او اطلاع دادند که عملیات نظامی به‌زودی آغاز خواهد شد.",
         "time": "00:17",
         "ts": 1790727478
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "پلیس بریتانیا طرح مشکوک حمله به پایگاه هوایی فرفورد را خنثی کرد و پنج مظنون بازداشت شدند. تحقیقات ضدتروریسم احتمال ارتباط مظنونان با جمهوری اسلامی را بررسی می‌کند. جمهوری اسلامی هرگونه دخالت در این ماجرا را رد کرده است.",
+        "time": "00:28",
+        "ts": 1790728120
       }
     ],
-    "packId": "20260930-02",
-    "sequence": 2,
+    "packId": "20260930-03",
+    "sequence": 3,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "00:18"
+    "updatedAt": "00:29"
   },
   "verified": true
 }
