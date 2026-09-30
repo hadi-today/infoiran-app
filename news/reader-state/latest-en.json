@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-50 seq=50 exp=1790941014",
+      "advancedStatus": "pack_id=20260930-51 seq=51 exp=1790941256",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:36",
+      "lastChecked": "11:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 11:36",
+    "expiresAt": "2026-10-02 11:40",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,21 @@
         "text": "Iranians residing in Madrid gathered in front of the Spanish Ministry of Foreign Affairs on October 7. They protested against executions in Iran. They also condemned the meeting between the Spanish Foreign Minister and the Iranian Foreign Minister at the United Nations.",
         "time": "11:35",
         "ts": 1790768145
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Prime Minister of Iraq announced that the country has entered a phase where it will take full responsibility for its security and stability. He emphasized that no weapons or forces outside the law and government institutions will be allowed. The end of the international coalition's mission does not mean the end of Iraq's fight against terrorism.",
+        "time": "11:39",
+        "ts": 1790768397
       }
     ],
     "language": "en",
-    "packId": "20260930-50",
-    "sequence": 50,
+    "packId": "20260930-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:36"
+    "updatedAt": "11:40"
   },
   "verified": true
 }
