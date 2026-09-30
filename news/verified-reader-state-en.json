@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-94 seq=94 exp=1790963335",
+      "advancedStatus": "pack_id=20260930-95 seq=95 exp=1790963448",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:48",
+      "lastChecked": "17:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 17:48",
+    "expiresAt": "2026-10-02 17:50",
     "items": [
       {
         "channel": "harana",
@@ -903,14 +903,21 @@
         "text": "Cristiano Ronaldo left the Portugal national team camp after the coach's comments about his absence in matches. The coach stated Ronaldo would not play against Denmark unless needed. Ronaldo left Parken Stadium in a federation van and is set to travel to Madrid.",
         "time": "17:48",
         "ts": 1790790485
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump announced that the last American forces are leaving Iraq and that the US presence there will soon become history. He described the decisions leading to US entry into Iraq as very bad and called Iraq a quagmire. Trump called this day a great day for America and praised the Iraqi Prime Minister.",
+        "time": "17:49",
+        "ts": 1790790572
       }
     ],
     "language": "en",
-    "packId": "20260930-94",
-    "sequence": 94,
+    "packId": "20260930-95",
+    "sequence": 95,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:48"
+    "updatedAt": "17:50"
   },
   "verified": true
 }
