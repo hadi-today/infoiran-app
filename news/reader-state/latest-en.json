@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-57 seq=57 exp=1790944942",
+      "advancedStatus": "pack_id=20260930-58 seq=58 exp=1790945481",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:42",
+      "lastChecked": "12:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 12:42",
+    "expiresAt": "2026-10-02 12:51",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,28 @@
         "text": "Bijan Mortazavi, a pop singer and musician, announced his trip to Iran via an Instagram live video. He is at Imam Khomeini Airport in Tehran with his wife. His wife stated that they came to Iran to take care of some matters.",
         "time": "12:41",
         "ts": 1790772080
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Bloomberg reported an increase in oil exports from Arab countries through the Strait of Hormuz and alternative routes. Their oil exports have reached about 80% of the pre-war level. This report was published by Maryam Rahmati from Iran International.",
+        "time": "12:50",
+        "ts": 1790772628
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A Flydubai plane on the Tel Aviv route experienced a sharp altitude drop. This occurred while passengers were unaware of the situation inside the aircraft. The plane landed at Tabuk Airport in Saudi Arabia.",
+        "time": "12:51",
+        "ts": 1790772666
       }
     ],
     "language": "en",
-    "packId": "20260930-57",
-    "sequence": 57,
+    "packId": "20260930-58",
+    "sequence": 58,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:42"
+    "updatedAt": "12:51"
   },
   "verified": true
 }
