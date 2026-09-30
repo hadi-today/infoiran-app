@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-40 seq=40 exp=1790937193",
+      "advancedStatus": "pack_id=20260930-41 seq=41 exp=1790937500",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:33",
+      "lastChecked": "10:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 10:33",
+    "expiresAt": "2026-10-02 10:38",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Public sector workers in France are striking in protest against government wage policies. The basis for salary calculation will remain unchanged next year. This news was reported by Sajedeh Sharifi.",
-        "time": "10:34",
-        "ts": 1790678074
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Hamid Mahdavi's sister released a video on Firefighter Day. Hamid Mahdavi, a 38-year-old firefighter, was killed on January 8, 2026, in Mashhad. He was shot directly by officers while helping the injured.",
-        "time": "10:34",
-        "ts": 1790678080
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -931,14 +917,21 @@
         "text": "Farzaneh Sasanipour's daughter placed her mother's birthday cake on her tombstone. She said her mother was unjustly killed by a bullet. This video was shared on social media.",
         "time": "10:32",
         "ts": 1790764338
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Parisa Eslami, a Bahá'í citizen residing in Karaj, was transferred to Kachouyi Prison in Karaj to serve her prison sentence. This transfer took place on Sunday, 5 Mehr. Her prison sentence has been enforced.",
+        "time": "10:37",
+        "ts": 1790764636
       }
     ],
     "language": "en",
-    "packId": "20260930-40",
-    "sequence": 40,
+    "packId": "20260930-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:33"
+    "updatedAt": "10:38"
   },
   "verified": true
 }
