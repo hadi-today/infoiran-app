@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-123 seq=123 exp=1790977634",
+      "advancedStatus": "pack_id=20260930-125 seq=125 exp=1790979635",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:47",
+      "lastChecked": "22:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 21:47",
+    "expiresAt": "2026-10-02 22:20",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US State Department's Rewards for Justice program set a reward of up to $15 million for information about three commanders of the IRGC Aerospace Force, including Ahmad JafarAbadi, Abdullah Mehrabi, and Ali Asghar Norouzi. People were asked to send information via Signal or Tor, and those providing it will be eligible for a reward and relocation.",
-        "time": "21:57",
-        "ts": 1790719079
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -952,14 +945,28 @@
         "text": "Amir Ghalenoei, head coach of Iran's national football team, promised to rebuild the team even better than before. After two losses against Uzbekistan and Russia, he stated that weaknesses will be corrected and structural changes will be made if necessary. Ghalenoei emphasized that he accepts mistakes but will not give up, aiming for success in the Asian Cup.",
         "time": "21:46",
         "ts": 1790804794
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump stated that the US must decide between military action and reaching an agreement with the Islamic Republic. He mentioned the possibility of bombing Iran and said the issue will end soon. Trump also described Iran's military and economic situation as dire.",
+        "time": "22:11",
+        "ts": 1790806293
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Christopher Behnam, a United Airlines pilot, explained the security incident on the Flydubai flight. He said if the captain had not opened the cockpit door, the attacking co-pilot could have taken control of the plane. The intervention of the crew and other pilots saved about 180 passengers' lives.",
+        "time": "22:19",
+        "ts": 1790806789
       }
     ],
     "language": "en",
-    "packId": "20260930-123",
-    "sequence": 123,
+    "packId": "20260930-125",
+    "sequence": 125,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:47"
+    "updatedAt": "22:20"
   },
   "verified": true
 }
