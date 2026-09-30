@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-03 seq=3 exp=1790900965",
+      "advancedStatus": "pack_id=20260930-04 seq=4 exp=1790902353",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:29",
+      "lastChecked": "00:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 00:29",
+    "expiresAt": "2026-10-02 00:52",
     "items": [
       {
         "channel": "iranintl",
@@ -1015,14 +1015,21 @@
         "text": "British police foiled a suspicious plot to attack the RAF Fairford base and arrested five suspects. Counter-terrorism investigations are examining possible links between the suspects and the Islamic Republic. The Islamic Republic has denied any involvement in the incident.",
         "time": "00:28",
         "ts": 1790728120
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "On Tuesday, 7th of Mehr, the Wall Street Journal wrote that the Islamic Republic's reduced ability to block the Strait of Hormuz and use it as leverage may increase the risk of military escalation by Tehran. According to Kepler data, the volume of oil passing through Hormuz and alternative routes has reached about 80% of pre-war levels, but the Islamic Republic has been unable to pass its crude oil through the Strait since the US naval blockade in July, and Iran's oil reserves outside the blockade zone may run out by mid-October. The newspaper also wrote that declining oil revenues and the weakening of Tehran's leverage in the Strait of Hormuz may push the Islamic Republic to resume attacks to increase pressure.",
+        "time": "00:51",
+        "ts": 1790729512
       }
     ],
     "language": "en",
-    "packId": "20260930-03",
-    "sequence": 3,
+    "packId": "20260930-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:29"
+    "updatedAt": "00:52"
   },
   "verified": true
 }
