@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-31 seq=31 exp=1790932582",
+      "advancedStatus": "pack_id=20260930-32 seq=32 exp=1790933215",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:16",
+      "lastChecked": "09:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 09:16",
+    "expiresAt": "2026-10-02 09:26",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Hadi Eidipour, head of Shiraz Fire Department, announced that 20 unsafe schools have been identified in the city. Among them, six schools are high-risk and require urgent attention from the education department. Additionally, 203 high-risk and unsafe buildings have been identified in Shiraz.",
-        "time": "09:21",
-        "ts": 1790673710
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The aircraft carrier USS Theodore Roosevelt has departed from San Diego base to the US Central Command operational area in the Middle East. This carrier will replace the USS George Washington. The simultaneous presence of two US carrier strike groups in the region will continue.",
-        "time": "09:22",
-        "ts": 1790673755
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Fatemeh Mohajerani, the government spokesperson, confirmed the increase in economic pressure and inflation on households. She stated that the ration card is to help people's livelihoods and promised to increase its amount. War conditions and the costs of repairing damaged infrastructure have caused changes in government expenses.",
-        "time": "09:24",
-        "ts": 1790673871
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -945,14 +924,28 @@
         "text": "The match between Esteghlal and Shahin youth teams in the second week of Tehran's youth football league was interrupted for 15 minutes due to severe player clashes. The Tehran Football Association temporarily banned all 20 players on the match list from football activities. Additionally, both teams are banned from hosting home matches with spectators until further notice.",
         "time": "09:15",
         "ts": 1790759737
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US has imposed sanctions on 13 individuals and entities in China, Hong Kong, Russia, and Pakistan. The aim of these sanctions is to block the military supply chain and support routes for the Islamic Republic. Two Russian companies involved in transferring military equipment to Iran have also been sanctioned.",
+        "time": "09:26",
+        "ts": 1790760371
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Messages received by Iran International report continued delays in wage payments and layoffs of workers in various sectors. Livelihood problems of employees in factories, universities, and medical centers have been reported. Some businesses have also been closed.",
+        "time": "09:26",
+        "ts": 1790760410
       }
     ],
     "language": "en",
-    "packId": "20260930-31",
-    "sequence": 31,
+    "packId": "20260930-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:16"
+    "updatedAt": "09:26"
   },
   "verified": true
 }
