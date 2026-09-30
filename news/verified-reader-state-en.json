@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-132 seq=132 exp=1790984269",
+      "advancedStatus": "pack_id=20260930-133 seq=133 exp=1790984533",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:37",
+      "lastChecked": "23:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 23:37",
+    "expiresAt": "2026-10-02 23:42",
     "items": [
       {
         "channel": "iranintl",
@@ -966,14 +966,21 @@
         "text": "Benjamin Netanyahu spoke with Mohammed bin Zayed after the Dubai to Tel Aviv flight incident. He described the event as terrorist and said the pilot intended to bring down the plane. Netanyahu also plans to discuss the matter with Donald Trump.",
         "time": "23:37",
         "ts": 1790811423
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ivar Farhadi stated that security cooperation between Israel, the UAE, and Saudi Arabia has begun and may expand with ongoing tensions from the Islamic Republic. The Islamic Republic faces a choice between continued economic pressure or broad retreat. There is a possibility of escalating confrontation in the Persian Gulf.",
+        "time": "23:41",
+        "ts": 1790811692
       }
     ],
     "language": "en",
-    "packId": "20260930-132",
-    "sequence": 132,
+    "packId": "20260930-133",
+    "sequence": 133,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:37"
+    "updatedAt": "23:42"
   },
   "verified": true
 }
