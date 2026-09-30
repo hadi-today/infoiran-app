@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-129 seq=129 exp=1790981554",
+      "advancedStatus": "pack_id=20260930-130 seq=130 exp=1790982733",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:52",
+      "lastChecked": "23:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 22:52",
+    "expiresAt": "2026-10-02 23:12",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "The Iranian Human Rights Documentation Center reported on the inefficiency of debtor imprisonment laws in Iran's judicial system. According to the report, individuals unable to pay debts are sometimes imprisoned and must prove poverty or pay debts to be released. The center's director called for the abolition of debtor imprisonment and the implementation of mechanisms to assess individuals' financial capacity.",
         "time": "22:51",
         "ts": 1790808706
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump, President of the United States, said the Islamic Republic lost 4,500 people in the recent war, while according to him US casualties were 18. He added that events will happen \"very soon.\" Trump also said Iran's economy has been destroyed, inflation has reached over 300 percent, and the Islamic Republic's navy, air force, and defense equipment have been destroyed.",
+        "time": "23:11",
+        "ts": 1790809878
       }
     ],
     "language": "en",
-    "packId": "20260930-129",
-    "sequence": 129,
+    "packId": "20260930-130",
+    "sequence": 130,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:52"
+    "updatedAt": "23:12"
   },
   "verified": true
 }
