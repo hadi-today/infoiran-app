@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-71 seq=71 exp=1790951693",
+      "advancedStatus": "pack_id=20260930-72 seq=72 exp=1790951800",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:34",
+      "lastChecked": "14:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 14:34",
+    "expiresAt": "2026-10-02 14:36",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The family of Amir Mahdi Farkhipour, a teenager killed during the Mahsa uprising, joined the campaign \"One Candle, One Name, One Memory.\" They lit a candle at his grave. Amir Mahdi Farkhipour was killed on October 27, 2022, in Tehran.",
-        "time": "14:34",
-        "ts": 1790692471
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "Mohsen Rezaee warned on social media about the consequences of hosting US and Israeli military bases in the region. He urged the UAE to stop fueling wars and baseless claims over Iranian islands. Iran's Foreign Ministry condemned Netanyahu's visit to the UAE and warned of its dangerous consequences.",
         "time": "14:34",
         "ts": 1790778846
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen criticized the high cost of medicine in a video sent to Iran International and expressed fatigue with the current situation. He hopes that whatever is going to happen will happen soon. The citizen called for relief from the current conditions.",
+        "time": "14:35",
+        "ts": 1790778926
       }
     ],
     "language": "en",
-    "packId": "20260930-71",
-    "sequence": 71,
+    "packId": "20260930-72",
+    "sequence": 72,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:34"
+    "updatedAt": "14:36"
   },
   "verified": true
 }
