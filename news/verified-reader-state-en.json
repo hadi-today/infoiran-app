@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-02 seq=2 exp=1790900322",
+      "advancedStatus": "pack_id=20260930-03 seq=3 exp=1790900965",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:18",
+      "lastChecked": "00:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 00:18",
+    "expiresAt": "2026-10-02 00:29",
     "items": [
       {
         "channel": "iranintl",
@@ -1008,14 +1008,21 @@
         "text": "Mohammed bin Abdulrahman Al Thani, the Prime Minister of Qatar, stated that the White House informed him about the imminent military operation half an hour before the war with the Islamic Republic began. He said on the program \"Piers Morgan Uncensored\" that he was asleep in Doha when the White House called. American officials informed him that the military operation would start soon.",
         "time": "00:17",
         "ts": 1790727478
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "British police foiled a suspicious plot to attack the RAF Fairford base and arrested five suspects. Counter-terrorism investigations are examining possible links between the suspects and the Islamic Republic. The Islamic Republic has denied any involvement in the incident.",
+        "time": "00:28",
+        "ts": 1790728120
       }
     ],
     "language": "en",
-    "packId": "20260930-02",
-    "sequence": 2,
+    "packId": "20260930-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:18"
+    "updatedAt": "00:29"
   },
   "verified": true
 }
