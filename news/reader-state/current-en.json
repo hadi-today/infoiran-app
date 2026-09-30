@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20260930-18 seq=18 exp=1790924438",
+      "advancedStatus": "pack_id=20260930-19 seq=19 exp=1790924884",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:00",
+      "lastChecked": "07:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-09-30",
-    "expiresAt": "2026-10-02 07:00",
+    "expiresAt": "2026-10-02 07:08",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Amir Esmaeili won the bronze medal in the 90+ kg boxing category at the 2026 Nagoya Asian Games. He lost in the semifinals to Jahangir Zokurov from Uzbekistan and missed the final. Esmaeili secured the only boxing medal for Iran in this edition of the Games.",
-        "time": "07:05",
-        "ts": 1790665509
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1015,14 +1008,21 @@
         "text": "The spokesperson for the Israeli Prime Minister stated that the Flydubai flight incident was not a hijacking. Israeli media reported that the warning was mistaken and caused by a violent altercation among passengers. The Flydubai flight is currently landing in Saudi Arabia.",
         "time": "06:59",
         "ts": 1790751583
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Today marks the fourth anniversary of the Bloody Friday in Zahedan during the 2022 protests. On that day, military and security forces fired on protesters, resulting in about one hundred deaths including 15 children. The report reviews the events, involved individuals, and the judicial process of the case.",
+        "time": "07:07",
+        "ts": 1790752041
       }
     ],
     "language": "en",
-    "packId": "20260930-18",
-    "sequence": 18,
+    "packId": "20260930-19",
+    "sequence": 19,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:00"
+    "updatedAt": "07:08"
   },
   "verified": true
 }
