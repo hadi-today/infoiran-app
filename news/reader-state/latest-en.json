@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-16 seq=16 exp=1790997847",
+      "advancedStatus": "pack_id=20261001-17 seq=17 exp=1790998051",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:24",
+      "lastChecked": "03:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 03:24",
+    "expiresAt": "2026-10-03 03:27",
     "items": [
       {
         "channel": "iranintl",
@@ -1036,14 +1036,21 @@
         "text": "Mohammad Qaedi said Saudi Arabia has distinguished between its political stance towards Israel and humanitarian aid to passengers. He added that such cooperation could strengthen security ties between Saudi Arabia and Israel. Also, if the incident's connection to Tehran is confirmed, pressure on the Islamic Republic will increase.",
         "time": "03:23",
         "ts": 1790825002
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Andy Burnham, the British Prime Minister, stated there is strong evidence that the Islamic Republic was involved in the attack on the RAF Fairford base. Benjamin Netanyahu said Israel provided intelligence to Britain warning of the attack. According to Netanyahu, the attack was supported by the Islamic Republic.",
+        "time": "03:26",
+        "ts": 1790825205
       }
     ],
     "language": "en",
-    "packId": "20261001-16",
-    "sequence": 16,
+    "packId": "20261001-17",
+    "sequence": 17,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:24"
+    "updatedAt": "03:27"
   },
   "verified": true
 }
