@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-02 seq=2 exp=1790987060",
+      "advancedStatus": "pack_id=20261001-03 seq=3 exp=1790987598",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:24",
+      "lastChecked": "00:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 00:24",
+    "expiresAt": "2026-10-03 00:33",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "British police foiled a suspicious plot to attack the RAF Fairford base and arrested five suspects. Counter-terrorism investigations are examining possible links between the suspects and the Islamic Republic. The Islamic Republic has denied any involvement in the incident.",
-        "time": "00:28",
-        "ts": 1790728120
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -973,14 +966,21 @@
         "text": "The US Central Command announced that it has changed the routes of 125 commercial ships by Wednesday to enforce the maritime blockade of the Islamic Republic. Previously, the routes of 122 commercial ships had been changed. These actions are part of the maritime blockade enforcement.",
         "time": "00:23",
         "ts": 1790814206
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "US Defense Secretary Pete Hegseth stated that the US and its allies have destroyed Iran's navy, air force, defense systems, leadership, and military industry. He said Iran's conventional shield and nuclear targets have been paralyzed. He added that US forces will ensure Iran never acquires nuclear weapons.",
+        "time": "00:32",
+        "ts": 1790814751
       }
     ],
     "language": "en",
-    "packId": "20261001-02",
-    "sequence": 2,
+    "packId": "20261001-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:24"
+    "updatedAt": "00:33"
   },
   "verified": true
 }
