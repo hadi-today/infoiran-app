@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-91 seq=91 exp=1791044535",
+      "advancedStatus": "pack_id=20261001-92 seq=92 exp=1791046373",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:22",
+      "lastChecked": "16:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,36 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 16:22",
+    "expiresAt": "2026-10-03 16:52",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Andy Burnham, the UK Prime Minister, stated there is strong evidence that the Iranian government was involved in the weekend incident at the RAF Fairford base. Five British men were arrested on suspicion of terrorism-related offenses. Police investigations into the incident are ongoing.",
-        "time": "16:31",
-        "ts": 1790785870
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Videos received by Iran International on Wednesday, October 8, show severe flooding entering the streets of Aliabad Katoul in Golestan province. The flood has caused waterlogging in the area. Reports indicate flooding has occurred in this region.",
-        "time": "16:32",
-        "ts": 1790785949
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Minister of Culture has submitted a list of over 100 Iranian figures abroad to authorities for their return. The judiciary announced the seizure of assets and blocking of bank accounts of Iranian critics abroad. A system called \"Elaj\" has asked the public to report these individuals.",
-        "time": "16:42",
-        "ts": 1790786556
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Videos released show that Amir Ghalenoei and his assistants fled from reporters upon arrival in Tehran after two friendly matches against Uzbekistan and Russia. Most national team players also refused to talk to the media.",
-        "time": "16:50",
-        "ts": 1790787008
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1036,14 +1008,21 @@
         "text": "French authorities reported the arrest of over 600 people and injury of 83 police officers during student protests. The student union stated that entrances to about 400 high schools have been blocked. These protests are expanding.",
         "time": "16:20",
         "ts": 1790871625
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "British counter-terrorism police arrested a dual British-Iranian citizen on suspicion of preparing terrorist acts. The arrest took place near the RAF Fairford base. The British Prime Minister has accused Iran of involvement in the incident.",
+        "time": "16:51",
+        "ts": 1790873511
       }
     ],
     "language": "en",
-    "packId": "20261001-91",
-    "sequence": 91,
+    "packId": "20261001-92",
+    "sequence": 92,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:22"
+    "updatedAt": "16:52"
   },
   "verified": true
 }
