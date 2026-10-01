@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-11 seq=11 exp=1790995967",
+      "advancedStatus": "pack_id=20261001-12 seq=12 exp=1790996206",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:52",
+      "lastChecked": "02:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 02:52",
+    "expiresAt": "2026-10-03 02:56",
     "items": [
       {
         "channel": "iranintl",
@@ -1015,14 +1015,21 @@
         "text": "Russia launched a new wave of air attacks targeting Kyiv and several regions of Ukraine with nearly 190 drones and several ballistic missiles. Ukraine's energy infrastructure was a primary target in these attacks. This report was provided by Lily Nikfar, a journalist from Iran International.",
         "time": "02:52",
         "ts": 1790823124
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ghassan Ashour said that the withdrawal of US military forces from Iraq will not cause a major field change as these forces were mostly stationed in their bases. He added that groups close to the Islamic Republic have new excuses to avoid disarmament. These groups prioritize Tehran's interests over Iraq's interests.",
+        "time": "02:56",
+        "ts": 1790823361
       }
     ],
     "language": "en",
-    "packId": "20261001-11",
-    "sequence": 11,
+    "packId": "20261001-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:52"
+    "updatedAt": "02:56"
   },
   "verified": true
 }
