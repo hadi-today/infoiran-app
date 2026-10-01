@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-44 seq=44 exp=1791022734",
+      "advancedStatus": "pack_id=20261001-45 seq=45 exp=1791022848",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:18",
+      "lastChecked": "10:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 10:18",
+    "expiresAt": "2026-10-03 10:20",
     "items": [
       {
         "channel": "harana",
@@ -1022,14 +1022,21 @@
         "text": "Alireza Abdoli won the gold medal in the 77 kg Greco-Roman wrestling final at the Nagoya Asian Games by defeating Kosaka from Japan 5-3. He advanced to the final with decisive victories in earlier rounds. This was Iran's twelfth gold medal in the Games.",
         "time": "10:18",
         "ts": 1790849886
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reuters reported that the supply of fuel oil at Fujairah port in the UAE has increased in recent months, allowing the port to resume bunkering and boost exports to Asia. Fujairah had faced a sharp decline in sales in the second quarter after the war began and disrupted fuel supplies. With the increased supply, the UAE has once again become the largest fuel oil exporter in the Middle East, although marine fuel sales and Fujairah's fuel oil inventories remain below pre-war levels.",
+        "time": "10:19",
+        "ts": 1790849992
       }
     ],
     "language": "en",
-    "packId": "20261001-44",
-    "sequence": 44,
+    "packId": "20261001-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:18"
+    "updatedAt": "10:20"
   },
   "verified": true
 }
