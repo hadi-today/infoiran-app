@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-38 seq=38 exp=1791016562",
+      "advancedStatus": "pack_id=20261001-39 seq=39 exp=1791017080",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:36",
+      "lastChecked": "08:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 08:36",
+    "expiresAt": "2026-10-03 08:44",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Family and close ones of Mohammad Sepiani commemorated his birthday beside his tomb. Mohammad Sepiani was killed by agents on January 9, 2026, in Najafabad, Isfahan. He was 27 years old at the time of his death.",
-        "time": "08:35",
-        "ts": 1790757328
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mostafa Dehpahlevan blamed the Ministry of Cultural Heritage for neglecting the protection of historical artifacts. He stated that over 70% of those involved in the smuggling mafia do not have financial problems. He also reported instances of a parliament member and an imam participating in illegal excavations.",
-        "time": "08:38",
-        "ts": 1790757499
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -1064,14 +1050,21 @@
         "text": "The Iranian mission to the UN denied Axios's report about Marco Rubio's order for the immediate departure of Abbas Araghchi and his delegation from New York. The mission stated that the Iranian delegation left New York according to a prearranged schedule. The US State Department was informed of the departure plan in advance.",
         "time": "08:35",
         "ts": 1790843712
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A man in Tehran set fire to his mother-in-law's house and killed her after his wife decided to separate. The perpetrator died in the fire, and four others, including his wife, were injured. This incident occurred yesterday.",
+        "time": "08:43",
+        "ts": 1790844227
       }
     ],
     "language": "en",
-    "packId": "20261001-38",
-    "sequence": 38,
+    "packId": "20261001-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:36"
+    "updatedAt": "08:44"
   },
   "verified": true
 }
