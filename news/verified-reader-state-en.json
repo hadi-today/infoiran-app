@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-55 seq=55 exp=1791029175",
+      "advancedStatus": "pack_id=20261001-56 seq=56 exp=1791030709",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:06",
+      "lastChecked": "12:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 12:06",
+    "expiresAt": "2026-10-03 12:31",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The interrogation session of Ali Vasaghi and Siamak Mirzaei, Azerbaijani activists imprisoned in Ardabil prison, was held on Monday, 6 Mehr, via videoconference. The session was conducted by Branch 10 of the Ardabil Prosecutor's Office, where charges were read to them. They defended themselves during the session.",
-        "time": "12:05",
-        "ts": 1790769949
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Denmark has intensified security checks on Iranian PhD students and researchers. Aarhus University has rejected 89 applicants from high-risk countries, including Iran, since 2024. This information was reported by Mehran Abbasian, a journalist from Iran International.",
-        "time": "12:09",
-        "ts": 1790770161
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Yousef Tabatabainejad, the Friday prayer leader of Isfahan, stated that the devaluation of the national currency and inflation are natural consequences of war, citing Iraq's experience. He mentioned that targeting vital infrastructure has caused price increases. He also emphasized that the government has managed affairs well despite the full-scale war conditions.",
-        "time": "12:22",
-        "ts": 1790770943
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1001,14 +980,21 @@
         "text": "The deputy police commander of North Khorasan announced the arrest of a woman due to child abuse. The father had entrusted his two children to this woman and discovered signs of burns on one child's body. The case was pursued after the father reported the abuse to the police.",
         "time": "12:04",
         "ts": 1790856240
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Soda Ebrahimi Shamsabadi, a death row prisoner in Bandar Abbas prison, is deprived of proper medical care despite suffering from multiple diseases including MS. Her case has been referred to Branch 41 of the Supreme Court following an appeal against the death sentence. She has not been transferred to external medical centers for specialized treatment.",
+        "time": "12:29",
+        "ts": 1790857786
       }
     ],
     "language": "en",
-    "packId": "20261001-55",
-    "sequence": 55,
+    "packId": "20261001-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:06"
+    "updatedAt": "12:31"
   },
   "verified": true
 }
