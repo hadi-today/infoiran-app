@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-72 seq=72 exp=1791037004",
+      "advancedStatus": "pack_id=20261001-73 seq=73 exp=1791037588",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:16",
+      "lastChecked": "14:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 14:16",
+    "expiresAt": "2026-10-03 14:26",
     "items": [
       {
         "channel": "iranintl",
@@ -1001,14 +1001,21 @@
         "text": "Farzaneh Fasihi, Iran's Olympic runner, called Ehsan Haddadi the most notorious athlete in Iran's history and said young athletes should take him as a lesson. This reaction came after Haddadi's remarks about female athletes, advising them to become virtual celebrities or champions. Fasihi also referred to Haddadi's legal case in the 2010s involving accusations of sexual assault.",
         "time": "14:15",
         "ts": 1790864144
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The US President, in an interview with Time magazine, stated that he rejected the recent proposal by the Islamic Republic to end conflicts and reopen the Strait of Hormuz due to its \"insufficiency.\" He added that he does not rule out the possibility of escalating US military attacks against the Islamic Republic. Trump also claimed to have destroyed Iran's nuclear capabilities, navy, air force, and radar.",
+        "time": "14:25",
+        "ts": 1790864720
       }
     ],
     "language": "en",
-    "packId": "20261001-72",
-    "sequence": 72,
+    "packId": "20261001-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:16"
+    "updatedAt": "14:26"
   },
   "verified": true
 }
