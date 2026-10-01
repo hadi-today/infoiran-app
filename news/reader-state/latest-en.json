@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-110 seq=110 exp=1791055515",
+      "advancedStatus": "pack_id=20261001-111 seq=111 exp=1791056357",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:25",
+      "lastChecked": "19:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 19:25",
+    "expiresAt": "2026-10-03 19:39",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A student reports financial difficulties in buying a laptop and high dental and medical costs for their child. The costs of living and language education are very high, and incomes do not cover expenses. People complain about the economic situation and severe inflation.",
-        "time": "19:24",
-        "ts": 1790796280
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Kazem Alinejad, a political prisoner, is deprived of proper medical care in Evin prison due to multiple illnesses including diabetes and heart and lung problems. His physical condition has worsened in the past two weeks with chest pain and shortness of breath. His family is unable to obtain necessary medications due to his lack of hospital referral and medical prescription.",
-        "time": "19:25",
-        "ts": 1790796329
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -980,14 +966,21 @@
         "text": "Abbas Araghchi proposed during private meetings in New York that inspectors be allowed access to bombed nuclear facilities in exchange for sanctions relief. This proposal was made on the sidelines of the UN General Assembly. Araghchi also requested the cancellation of the UN sanctions reinstatement decision, which European officials have opposed so far.",
         "time": "19:24",
         "ts": 1790882664
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Mahdi Abiyat, a 31-year-old citizen of Ahvaz, was arrested by Intelligence Department agents in Ahvaz. The arrest took place without a judicial warrant on a street in the Kooye Shahrak neighborhood of Ahvaz. Mahdi Abiyat was transferred to an unknown location.",
+        "time": "19:38",
+        "ts": 1790883508
       }
     ],
     "language": "en",
-    "packId": "20261001-110",
-    "sequence": 110,
+    "packId": "20261001-111",
+    "sequence": 111,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:25"
+    "updatedAt": "19:39"
   },
   "verified": true
 }
