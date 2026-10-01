@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-31 seq=31 exp=1791013217",
+      "advancedStatus": "pack_id=20261001-32 seq=32 exp=1791013550",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:40",
+      "lastChecked": "07:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 07:40",
+    "expiresAt": "2026-10-03 07:45",
     "items": [
       {
         "channel": "iranintl",
@@ -1050,14 +1050,21 @@
         "text": "A man in a village near Marand killed four members of his wife's family due to family disputes using a firearm. This incident occurred in a village near Marand. Further details have not been released.",
         "time": "07:39",
         "ts": 1790840361
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "US aviation sanctions against Iran have disrupted some Iranian airlines' operations in Turkey. The suspension of certain routes and flight disruptions have created uncertainty for Iranian travelers. This report is provided by Farzia Sabti from Iran International.",
+        "time": "07:44",
+        "ts": 1790840699
       }
     ],
     "language": "en",
-    "packId": "20261001-31",
-    "sequence": 31,
+    "packId": "20261001-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:40"
+    "updatedAt": "07:45"
   },
   "verified": true
 }
