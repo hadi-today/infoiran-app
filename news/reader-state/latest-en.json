@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-127 seq=127 exp=1791069323",
+      "advancedStatus": "pack_id=20261001-128 seq=128 exp=1791069972",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:15",
+      "lastChecked": "23:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 23:15",
+    "expiresAt": "2026-10-03 23:26",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,21 @@
         "text": "46 countries at the UN Human Rights Council condemned the increased use of the death penalty by the Islamic Republic. They expressed concern about the execution of protesters and violations of due process rights. The statement was read by the representative of Liechtenstein.",
         "time": "23:14",
         "ts": 1790896478
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Bert Eriksson stated that the US, after pressuring Iran at sea and air, is now restricting Iran's economic lifelines on land. These restrictions have put pressure on people's livelihoods. Iran's economy is facing high inflation and a declining rial value.",
+        "time": "23:25",
+        "ts": 1790897125
       }
     ],
     "language": "en",
-    "packId": "20261001-127",
-    "sequence": 127,
+    "packId": "20261001-128",
+    "sequence": 128,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:15"
+    "updatedAt": "23:26"
   },
   "verified": true
 }
