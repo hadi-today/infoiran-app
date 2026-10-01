@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-95 seq=95 exp=1791047178",
+      "advancedStatus": "pack_id=20261001-97 seq=97 exp=1791047398",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:06",
+      "lastChecked": "17:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 17:06",
+    "expiresAt": "2026-10-03 17:09",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Heavy rainfall on Wednesday, October 8, in Juybar, Mazandaran caused flooding in the streets. Firefighters and people used pumps and other equipment to drain the water. This incident was shared on social media.",
-        "time": "17:05",
-        "ts": 1790787900
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -1036,14 +1029,21 @@
         "text": "The US Treasury Department added two individuals and 29 companies and entities related to Iran to its sanctions list on Thursday evening, October 8. Among the sanctioned Iranian entities are Iran Khodro, Iran Khodro Diesel, Saipa, Pars Khodro, Zamyad, Hepco, the Islamic Republic of Iran Railways, and Raja Passenger Trains Company. Companies in China, Hong Kong, the UAE, Turkey, Germany, and Indonesia were also added to the list.",
         "time": "17:05",
         "ts": 1790874344
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran International reported that the Islamic Republic systematically uses violence against nationalist protesters. The violence includes direct shooting, threats of amputation, and burning or skinning due to nationalist tattoos. Tattoos such as Reza Shah Pahlavi's signature and the Lion and Sun symbol have led to violent confrontations.",
+        "time": "17:08",
+        "ts": 1790874536
       }
     ],
     "language": "en",
-    "packId": "20261001-95",
-    "sequence": 95,
+    "packId": "20261001-97",
+    "sequence": 97,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:06"
+    "updatedAt": "17:09"
   },
   "verified": true
 }
