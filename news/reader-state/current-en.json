@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-14 seq=14 exp=1790996893",
+      "advancedStatus": "pack_id=20261001-15 seq=15 exp=1790997160",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:08",
+      "lastChecked": "03:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 03:08",
+    "expiresAt": "2026-10-03 03:12",
     "items": [
       {
         "channel": "iranintl",
@@ -1029,14 +1029,21 @@
         "text": "Associated Press reported that the Iranian rial has reached its lowest historical value. Food and medicine prices have increased, and oil export restrictions have added more economic pressure. This report was prepared by Maryam Rahmati from Iran International.",
         "time": "03:07",
         "ts": 1790824042
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amir Hamidi stated that Donald Trump's remarks about the possibility of continued military actions should be seen within the framework of diplomacy with pressure. He added that Washington and Tehran still have fundamental disagreements on key issues. Two paths lie ahead: a feasible agreement or increased risk of conflict escalation.",
+        "time": "03:12",
+        "ts": 1790824342
       }
     ],
     "language": "en",
-    "packId": "20261001-14",
-    "sequence": 14,
+    "packId": "20261001-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:08"
+    "updatedAt": "03:12"
   },
   "verified": true
 }
