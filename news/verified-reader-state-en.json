@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-22 seq=22 exp=1791007112",
+      "advancedStatus": "pack_id=20261001-23 seq=23 exp=1791007449",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:58",
+      "lastChecked": "06:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 05:58",
+    "expiresAt": "2026-10-03 06:04",
     "items": [
       {
         "channel": "iranintl",
@@ -1064,14 +1064,21 @@
         "text": "Mohammad Mokhber called Donald Trump's statements baseless and said these remarks will fail as before. He described national unity as a strength of the Islamic Republic. He also emphasized that the fighters continue their path relying on God and the support of the people.",
         "time": "05:57",
         "ts": 1790834253
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Davood Sajadi warned about the importance of Starlink and users' ability to bypass government filters. He said the government cannot fully block access to Starlink and has disrupted GPS signals. This issue has caused concern among government agents.",
+        "time": "06:03",
+        "ts": 1790834593
       }
     ],
     "language": "en",
-    "packId": "20261001-22",
-    "sequence": 22,
+    "packId": "20261001-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:58"
+    "updatedAt": "06:04"
   },
   "verified": true
 }
