@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-03 seq=3 exp=1790987598",
+      "advancedStatus": "pack_id=20261001-04 seq=4 exp=1790989204",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:33",
+      "lastChecked": "01:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 00:33",
+    "expiresAt": "2026-10-03 01:00",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "On Tuesday, 7th of Mehr, the Wall Street Journal wrote that the Islamic Republic's reduced ability to block the Strait of Hormuz and use it as leverage may increase the risk of military escalation by Tehran. According to Kepler data, the volume of oil passing through Hormuz and alternative routes has reached about 80% of pre-war levels, but the Islamic Republic has been unable to pass its crude oil through the Strait since the US naval blockade in July, and Iran's oil reserves outside the blockade zone may run out by mid-October. The newspaper also wrote that declining oil revenues and the weakening of Tehran's leverage in the Strait of Hormuz may push the Islamic Republic to resume attacks to increase pressure.",
-        "time": "00:51",
-        "ts": 1790729512
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Wall Street Journal reported that the Islamic Republic's reduced ability to block oil flow through the Strait of Hormuz may increase the risk of military escalation by Tehran. According to the report, the US Navy and Gulf oil producers have been more successful in countering attacks or using alternative routes, and data shows the volume of oil passing through Hormuz and alternative routes has reached about 80% of pre-war levels. In contrast, the Islamic Republic has been unable to export its crude oil through Hormuz since the reimposition of the US naval blockade in July, and Iran's oil reserves outside the blockade may run out by mid-October.",
-        "time": "00:52",
-        "ts": 1790729561
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -973,14 +959,21 @@
         "text": "US Defense Secretary Pete Hegseth stated that the US and its allies have destroyed Iran's navy, air force, defense systems, leadership, and military industry. He said Iran's conventional shield and nuclear targets have been paralyzed. He added that US forces will ensure Iran never acquires nuclear weapons.",
         "time": "00:32",
         "ts": 1790814751
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The office of Prince Reza Pahlavi warned about fake emails titled \"Iran in 2035.\" These emails falsely claim to represent Reza Pahlavi. The office urged recipients not to respond or click on links in these emails.",
+        "time": "00:59",
+        "ts": 1790816358
       }
     ],
     "language": "en",
-    "packId": "20261001-03",
-    "sequence": 3,
+    "packId": "20261001-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:33"
+    "updatedAt": "01:00"
   },
   "verified": true
 }
