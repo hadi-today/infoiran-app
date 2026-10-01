@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-80 seq=80 exp=1791040077",
+      "advancedStatus": "pack_id=20261001-82 seq=82 exp=1791040944",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:07",
+      "lastChecked": "15:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 15:07",
+    "expiresAt": "2026-10-03 15:22",
     "items": [
       {
         "channel": "iranintl",
@@ -1015,14 +1015,28 @@
         "text": "Associated Press reported, citing two American officials, that US Secretary of State Marco Rubio asked Abbas Araghchi and his delegation to leave New York early after indirect negotiations with the Islamic Republic failed to make progress.",
         "time": "15:07",
         "ts": 1790867230
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Representatives of the new Syrian government and Hezbollah met secretly in Turkey to reduce security tensions. This is their first known direct meeting since the fall of Bashar al-Assad. Turkey played a role in organizing the meeting.",
+        "time": "15:14",
+        "ts": 1790867640
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Russia has warned NATO that if it intervenes to cut off Kaliningrad's connection with Russian territory, Moscow is prepared to use all its military capabilities, including nuclear weapons. This warning was reported by Lily Nickfar from Iran International.",
+        "time": "15:21",
+        "ts": 1790868083
       }
     ],
     "language": "en",
-    "packId": "20261001-80",
-    "sequence": 80,
+    "packId": "20261001-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:07"
+    "updatedAt": "15:22"
   },
   "verified": true
 }
