@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-05 seq=5 exp=1790990309",
+      "advancedStatus": "pack_id=20261001-06 seq=6 exp=1790990488",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:18",
+      "lastChecked": "01:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 01:18",
+    "expiresAt": "2026-10-03 01:21",
     "items": [
       {
         "channel": "iranintl",
@@ -973,14 +973,21 @@
         "text": "The police of Sistan and Baluchestan announced that Alireza Sancholi, a law enforcement officer, was killed in an armed attack on the Ahmadabad checkpoint in Rask. The police are working to identify and arrest the attackers. The deputy governor of Sistan and Baluchestan had previously stated that the attack caused no damage.",
         "time": "01:17",
         "ts": 1790817457
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "US Secretary of State Marco Rubio ordered the Iranian delegation accompanying Abbas Araghchi to immediately leave New York after negotiations with the Islamic Republic reached a deadlock. The delegation flew from New York to Doha at 1:20 AM on Tuesday. This action followed the failure of Qatari mediators to achieve a breakthrough in Washington-Tehran talks.",
+        "time": "01:20",
+        "ts": 1790817646
       }
     ],
     "language": "en",
-    "packId": "20261001-05",
-    "sequence": 5,
+    "packId": "20261001-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:18"
+    "updatedAt": "01:21"
   },
   "verified": true
 }
