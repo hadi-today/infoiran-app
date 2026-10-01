@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-122 seq=122 exp=1791065349",
+      "advancedStatus": "pack_id=20261001-123 seq=123 exp=1791067095",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:09",
+      "lastChecked": "22:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 22:09",
+    "expiresAt": "2026-10-03 22:38",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump stated that the US must decide between military action and reaching an agreement with the Islamic Republic. He mentioned the possibility of bombing Iran and said the issue will end soon. Trump also described Iran's military and economic situation as dire.",
-        "time": "22:11",
-        "ts": 1790806293
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Christopher Behnam, a United Airlines pilot, explained the security incident on the Flydubai flight. He said if the captain had not opened the cockpit door, the attacking co-pilot could have taken control of the plane. The intervention of the crew and other pilots saved about 180 passengers' lives.",
-        "time": "22:19",
-        "ts": 1790806789
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -966,14 +952,21 @@
         "text": "After Portugal's match against Denmark, Jorge Jesus avoided answering questions about his conflict with Cristiano Ronaldo and emphasized focusing on the next game against Norway. He stated that the rules are the same for everyone and that focusing is not difficult for him. Jesus promised to discuss the issue after the match with Norway.",
         "time": "22:08",
         "ts": 1790892498
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The U.S. Treasury Department announced that as part of efforts to block Iran's sanctions evasion routes, it has sanctioned a number of companies and intermediaries in China, the United Arab Emirates, Turkey, Indonesia, and Germany.",
+        "time": "22:37",
+        "ts": 1790894251
       }
     ],
     "language": "en",
-    "packId": "20261001-122",
-    "sequence": 122,
+    "packId": "20261001-123",
+    "sequence": 123,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:09"
+    "updatedAt": "22:38"
   },
   "verified": true
 }
