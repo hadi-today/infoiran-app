@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-53 seq=53 exp=1791028431",
+      "advancedStatus": "pack_id=20261001-54 seq=54 exp=1791029052",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:53",
+      "lastChecked": "12:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 11:53",
+    "expiresAt": "2026-10-03 12:04",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Iran International inquired with the UK Treasury about special licenses for some Iranian banks and Iran Air. The UK Treasury declined to confirm or deny the issuance of these licenses. This issue arose following the continued operation of some Iranian banks in the UK after sanctions.",
-        "time": "12:02",
-        "ts": 1790769720
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -994,14 +987,28 @@
         "text": "Donald Trump stated in an interview that he might escalate airstrikes on Iran after the US midterm elections. He said he could not specify the targets and emphasized that the Islamic Republic wants a deal, but he seeks a real agreement. Trump also mentioned that he might destroy Iran.",
         "time": "11:52",
         "ts": 1790855565
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Belali, advisor to the commander of the IRGC Aerospace Force, announced that the Islamic Republic has achieved a long-range ballistic missile capable of hitting moving targets. This success was achieved in recent days. Additionally, in the operation against the Muwaffaq al-Sultani base, the missiles inflicted damage and casualties on the enemy.",
+        "time": "12:03",
+        "ts": 1790856186
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The deputy police commander of North Khorasan announced the arrest of a woman due to child abuse. The father had entrusted his two children to this woman and discovered signs of burns on one child's body. The case was pursued after the father reported the abuse to the police.",
+        "time": "12:04",
+        "ts": 1790856240
       }
     ],
     "language": "en",
-    "packId": "20261001-53",
-    "sequence": 53,
+    "packId": "20261001-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:53"
+    "updatedAt": "12:04"
   },
   "verified": true
 }
