@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-63 seq=63 exp=1791033467",
+      "advancedStatus": "pack_id=20261001-64 seq=64 exp=1791033834",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:17",
+      "lastChecked": "13:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 13:17",
+    "expiresAt": "2026-10-03 13:23",
     "items": [
       {
         "channel": "iranintl",
@@ -980,14 +980,21 @@
         "text": "The Israeli Prime Minister praised the Indian pilot of the Flydubai flight for resisting an attacker and saving 174 passengers. Despite being seriously injured, the pilot opened the cabin door to allow passengers and crew to restrain the attacker. Netanyahu called him a true hero.",
         "time": "13:16",
         "ts": 1790860561
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "In Rasht, a young boy was attacked for wearing shorts. Educational expenses have risen sharply, and students are deprived of school books and supplies. It is also reported that police officers threaten students over taking food from restaurants.",
+        "time": "13:22",
+        "ts": 1790860974
       }
     ],
     "language": "en",
-    "packId": "20261001-63",
-    "sequence": 63,
+    "packId": "20261001-64",
+    "sequence": 64,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:17"
+    "updatedAt": "13:23"
   },
   "verified": true
 }
