@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-43 seq=43 exp=1791022167",
+      "advancedStatus": "pack_id=20261001-44 seq=44 exp=1791022734",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:09",
+      "lastChecked": "10:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 10:09",
+    "expiresAt": "2026-10-03 10:18",
     "items": [
       {
         "channel": "harana",
@@ -1015,14 +1015,21 @@
         "text": "Mehdi Fazeli stated that the armed forces are prepared for all scenarios, including a war of attrition and lightning operations. He said the military capability of the Islamic Republic has significantly increased since March 1. Additionally, tests have been conducted where missiles exploded near American ships, serving as a clear warning to the US.",
         "time": "10:07",
         "ts": 1790849242
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Abdoli won the gold medal in the 77 kg Greco-Roman wrestling final at the Nagoya Asian Games by defeating Kosaka from Japan 5-3. He advanced to the final with decisive victories in earlier rounds. This was Iran's twelfth gold medal in the Games.",
+        "time": "10:18",
+        "ts": 1790849886
       }
     ],
     "language": "en",
-    "packId": "20261001-43",
-    "sequence": 43,
+    "packId": "20261001-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:09"
+    "updatedAt": "10:18"
   },
   "verified": true
 }
