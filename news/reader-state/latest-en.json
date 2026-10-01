@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-100 seq=100 exp=1791050723",
+      "advancedStatus": "pack_id=20261001-101 seq=101 exp=1791050892",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:05",
+      "lastChecked": "18:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 18:05",
+    "expiresAt": "2026-10-03 18:08",
     "items": [
       {
         "channel": "iranintl",
@@ -987,14 +987,28 @@
         "text": "A birthday ceremony for Arzoo Abedi was held at her grave. This 50-year-old fitness coach and mountaineer was shot in Isfahan on the evening of January 8 and died. Her two children were with her at the time.",
         "time": "18:03",
         "ts": 1790877823
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Donald Trump claimed that he eliminated Iran's nuclear threat in one night, which he had previously said would take 4 to 6 weeks. He added that the remaining time is just to ensure the situation stays the same.",
+        "time": "18:05",
+        "ts": 1790877925
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Scott Bessent, the US Treasury Secretary, wrote on the social media platform X that the Iranian government's ability to finance its war machine and spread terror globally has significantly decreased thanks to \"economic exclusion\" operations. He added that today's action directly targets their supporters and paves the way for the US and its partners to cut off the Iranian government's revenues once and for all.",
+        "time": "18:06",
+        "ts": 1790877984
       }
     ],
     "language": "en",
-    "packId": "20261001-100",
-    "sequence": 100,
+    "packId": "20261001-101",
+    "sequence": 101,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:05"
+    "updatedAt": "18:08"
   },
   "verified": true
 }
