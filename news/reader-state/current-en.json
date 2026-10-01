@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-04 seq=4 exp=1790989204",
+      "advancedStatus": "pack_id=20261001-05 seq=5 exp=1790990309",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:00",
+      "lastChecked": "01:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 01:00",
+    "expiresAt": "2026-10-03 01:18",
     "items": [
       {
         "channel": "iranintl",
@@ -966,14 +966,21 @@
         "text": "The office of Prince Reza Pahlavi warned about fake emails titled \"Iran in 2035.\" These emails falsely claim to represent Reza Pahlavi. The office urged recipients not to respond or click on links in these emails.",
         "time": "00:59",
         "ts": 1790816358
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The police of Sistan and Baluchestan announced that Alireza Sancholi, a law enforcement officer, was killed in an armed attack on the Ahmadabad checkpoint in Rask. The police are working to identify and arrest the attackers. The deputy governor of Sistan and Baluchestan had previously stated that the attack caused no damage.",
+        "time": "01:17",
+        "ts": 1790817457
       }
     ],
     "language": "en",
-    "packId": "20261001-04",
-    "sequence": 4,
+    "packId": "20261001-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:00"
+    "updatedAt": "01:18"
   },
   "verified": true
 }
