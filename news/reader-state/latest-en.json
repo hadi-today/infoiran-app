@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-20 seq=20 exp=1791005482",
+      "advancedStatus": "pack_id=20261001-21 seq=21 exp=1791006685",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:31",
+      "lastChecked": "05:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 05:31",
+    "expiresAt": "2026-10-03 05:51",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "The Judiciary of the Islamic Republic announced the execution of two individuals arrested during last December's protests in Mashhad. They were accused of involvement in the killing of four security forces. The execution was carried out after the Supreme Court confirmed the sentence.",
-        "time": "05:42",
-        "ts": 1790746928
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1057,14 +1050,21 @@
         "text": "Ali Madanizadeh, the Minister of Economy, rejected Scott Bassett's claims about the collapse of Iran's economy, stating these claims aim to create unrest and increase currency prices. He added that war damages to small and medium units have been compensated. Part of the financial issues is related to a currency attack acknowledged by the US and Israel.",
         "time": "05:30",
         "ts": 1790832634
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Kambiz Tavana referred to his conversation with Max Mizlish, who said cryptocurrencies could act as a backdoor to bypass US financial sanctions. Mizlish believes the Islamic Republic might conduct transactions initially unnoticed by US agencies. However, there is an ongoing process to monitor and block these identified activities.",
+        "time": "05:50",
+        "ts": 1790833833
       }
     ],
     "language": "en",
-    "packId": "20261001-20",
-    "sequence": 20,
+    "packId": "20261001-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:31"
+    "updatedAt": "05:51"
   },
   "verified": true
 }
