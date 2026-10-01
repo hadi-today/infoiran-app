@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-12 seq=12 exp=1790996206",
+      "advancedStatus": "pack_id=20261001-13 seq=13 exp=1790996450",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:56",
+      "lastChecked": "03:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 02:56",
+    "expiresAt": "2026-10-03 03:00",
     "items": [
       {
         "channel": "iranintl",
@@ -1022,14 +1022,21 @@
         "text": "Ghassan Ashour said that the withdrawal of US military forces from Iraq will not cause a major field change as these forces were mostly stationed in their bases. He added that groups close to the Islamic Republic have new excuses to avoid disarmament. These groups prioritize Tehran's interests over Iraq's interests.",
         "time": "02:56",
         "ts": 1790823361
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump reshared a New York Post report about economic pressures on the Islamic Republic. The report quotes Scott Bassett saying that within two weeks, there might be nothing left of Iran's economy. Bassett also stated that after delivering the last oil shipments to China, Iran will have nothing left to trade.",
+        "time": "03:00",
+        "ts": 1790823608
       }
     ],
     "language": "en",
-    "packId": "20261001-12",
-    "sequence": 12,
+    "packId": "20261001-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:56"
+    "updatedAt": "03:00"
   },
   "verified": true
 }
