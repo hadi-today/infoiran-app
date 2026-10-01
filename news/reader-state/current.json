@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-103 seq=103 exp=1791052133",
+      "advancedStatus": "pack_id=20261001-104 seq=104 exp=1791052563",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:28",
+      "lastChecked": "18:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 18:28",
+    "expiresAt": "2026-10-03 18:36",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -848,13 +848,19 @@
         "text": "برنامه جغرافیای انقلاب ملی به بررسی اعتراضات سراسری مردم در دی‌ماه ۱۴۰۴ و الگوهای سرکوب آن می‌پردازد. قسمت بعدی برنامه به استان زنجان اختصاص دارد. ایران اینترنشنال از مخاطبان خواسته اطلاعات و تصاویر مربوط به این اعتراضات را ارسال کنند.",
         "time": "18:26",
         "ts": 1790879185
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "ویدئویی نشان می‌دهد کاروانی از نیروها و تجهیزات نظامی در آبادان در حال حرکت به سوی گذرگاه مرزی شلمچه است. این حرکت در هشتم مهرماه گزارش شده است. ساکنان محلی این موضوع را تایید کرده‌اند.",
+        "time": "18:34",
+        "ts": 1790879692
       }
     ],
-    "packId": "20261001-103",
-    "sequence": 103,
+    "packId": "20261001-104",
+    "sequence": 104,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "18:28"
+    "updatedAt": "18:36"
   },
   "verified": true
 }
