@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-92 seq=92 exp=1791046373",
+      "advancedStatus": "pack_id=20261001-93 seq=93 exp=1791046801",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:52",
+      "lastChecked": "17:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-01",
-    "expiresAt": "2026-10-03 16:52",
+    "expiresAt": "2026-10-03 17:00",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Nasrin Sotoudeh discussed the experience of the One Million Signatures campaign and its role in changing perspectives on women's rights. She emphasized the importance of men's support and the unity of women with different beliefs. Sotoudeh also spoke about mandatory hijab, the Mahsa movement, and the future of women's demands.",
-        "time": "16:57",
-        "ts": 1790787426
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -1015,14 +1008,21 @@
         "text": "British counter-terrorism police arrested a dual British-Iranian citizen on suspicion of preparing terrorist acts. The arrest took place near the RAF Fairford base. The British Prime Minister has accused Iran of involvement in the incident.",
         "time": "16:51",
         "ts": 1790873511
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "American forces withdrew from their last bases in Iraq on Wednesday, October 8, 2024. This withdrawal was based on an agreement made during Joe Biden's presidency. Iraqi officials and analysts have warned about the security implications of this move.",
+        "time": "16:58",
+        "ts": 1790873938
       }
     ],
     "language": "en",
-    "packId": "20261001-92",
-    "sequence": 92,
+    "packId": "20261001-93",
+    "sequence": 93,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:52"
+    "updatedAt": "17:00"
   },
   "verified": true
 }
