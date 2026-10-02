@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261002-39 seq=39 exp=1791113681",
+      "advancedStatus": "pack_id=20261002-40 seq=40 exp=1791114542",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:34",
+      "lastChecked": "11:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-02",
-    "expiresAt": "2026-10-04 11:34",
+    "expiresAt": "2026-10-04 11:49",
     "items": [
       {
         "channel": "iranintl",
@@ -847,14 +847,21 @@
         "text": "Iranian authorities used oil company facilities to suppress protests in Khuzestan province. Medical staff were instructed to cooperate with security agencies to identify injured protesters. This information was reported by Iran International.",
         "time": "11:33",
         "ts": 1790940825
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Esteghlal football team faces travel restrictions for the second week of the Asian Elite League in Qatar, and club officials are awaiting a response from Qatar. Esteghlal has requested a direct flight to Qatar but has not yet received a reply. If a direct flight is not possible, Esteghlal has two travel options: from Tabriz to Istanbul and then to Qatar, or from Basra to Qatar.",
+        "time": "11:47",
+        "ts": 1790941677
       }
     ],
     "language": "en",
-    "packId": "20261002-39",
-    "sequence": 39,
+    "packId": "20261002-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:34"
+    "updatedAt": "11:49"
   },
   "verified": true
 }
