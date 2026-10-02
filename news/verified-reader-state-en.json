@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261002-85 seq=85 exp=1791137408",
+      "advancedStatus": "pack_id=20261002-86 seq=86 exp=1791137634",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:10",
+      "lastChecked": "18:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-02",
-    "expiresAt": "2026-10-04 18:10",
+    "expiresAt": "2026-10-04 18:13",
     "items": [
       {
         "channel": "iranintl",
@@ -847,14 +847,21 @@
         "text": "Zinedine Zidane will sit on the bench as the head coach of France for the first time tonight against Italy in the UEFA Nations League. This match marks a special return for Zidane to the stadium where he won the 1998 World Cup. All tickets for the match were sold out in less than 24 hours.",
         "time": "18:09",
         "ts": 1790964545
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Signs have been observed in Washington and Jerusalem. A question has been raised about when Trump will decide to restart the operation. This topic was discussed on Iran International.",
+        "time": "18:13",
+        "ts": 1790964786
       }
     ],
     "language": "en",
-    "packId": "20261002-85",
-    "sequence": 85,
+    "packId": "20261002-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:10"
+    "updatedAt": "18:13"
   },
   "verified": true
 }
