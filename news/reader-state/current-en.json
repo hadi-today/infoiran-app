@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261002-90 seq=90 exp=1791139081",
+      "advancedStatus": "pack_id=20261002-91 seq=91 exp=1791139372",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:38",
+      "lastChecked": "18:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-02",
-    "expiresAt": "2026-10-04 18:38",
+    "expiresAt": "2026-10-04 18:42",
     "items": [
       {
         "channel": "harana",
@@ -861,14 +861,21 @@
         "text": "Forty-six countries signed a joint statement at the UN Human Rights Council condemning the continued use of the death penalty in Iran. They called for an immediate halt to executions and expressed concern over secret trials and torture. The statement noted that at least 31 protesters were executed after the January crackdown, with dozens more at risk of execution.",
         "time": "18:37",
         "ts": 1790966234
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The collapse of a two-story residential building under construction in the village of Paeen-Kuh, Zanjan, caused the death of one worker and injury to another. The incident occurred due to lack of safety measures and poor working conditions. The safety situation at the workplace has been criticized.",
+        "time": "18:42",
+        "ts": 1790966526
       }
     ],
     "language": "en",
-    "packId": "20261002-90",
-    "sequence": 90,
+    "packId": "20261002-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:38"
+    "updatedAt": "18:42"
   },
   "verified": true
 }
