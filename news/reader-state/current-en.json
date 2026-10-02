@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261002-01 seq=1 exp=1791074068",
+      "advancedStatus": "pack_id=20261002-02 seq=2 exp=1791075291",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:34",
+      "lastChecked": "00:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-02",
-    "expiresAt": "2026-10-04 00:34",
+    "expiresAt": "2026-10-04 00:54",
     "items": [
       {
         "channel": "iranintl",
@@ -938,14 +938,21 @@
         "text": "Mike Waltz, the US ambassador to the UN, stated that the Islamic Republic has violated laws and refuses to abandon its nuclear ambitions. He referred to the IAEA's recent referral of Iran's case to the Security Council. Waltz also accused Russia and China of blocking UN sanctions against Iran.",
         "time": "00:33",
         "ts": 1790901215
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump said it appears that the Islamic Republic was involved in the incident at the Royal Air Force base in Fairford, but he cannot confirm this with certainty. He emphasized that the Islamic Republic's efforts will soon end and their army has been defeated. Trump also stated that their navy and air force have been destroyed.",
+        "time": "00:53",
+        "ts": 1790902438
       }
     ],
     "language": "en",
-    "packId": "20261002-01",
-    "sequence": 1,
+    "packId": "20261002-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:34"
+    "updatedAt": "00:54"
   },
   "verified": true
 }
