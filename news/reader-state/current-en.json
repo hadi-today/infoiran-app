@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261002-105 seq=105 exp=1791151630",
+      "advancedStatus": "pack_id=20261002-106 seq=106 exp=1791151736",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:07",
+      "lastChecked": "22:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-02",
-    "expiresAt": "2026-10-04 22:07",
+    "expiresAt": "2026-10-04 22:08",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,21 @@
         "text": "Meysam Mehrani stated that the increase of American forces and naval groups in the region indicates Washington's readiness for a military option. He added that the Islamic Republic has raised its threat level due to reduced capabilities and loss of leverage such as the Strait of Hormuz. Additionally, the shift in power balance and greater regional cooperation with the US and Israel have limited the Islamic Republic's options.",
         "time": "22:06",
         "ts": 1790978780
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Farzin Nadimi stated that the US has deployed a new carrier group and destroyers equipped with the Aegis system to the region. He added that the Islamic Republic can damage oil and gas infrastructure in the region but such attacks will not change the war equation. There is also a possibility of activation of networks affiliated with the Islamic Republic outside the region if the conflict escalates.",
+        "time": "22:08",
+        "ts": 1790978887
       }
     ],
     "language": "en",
-    "packId": "20261002-105",
-    "sequence": 105,
+    "packId": "20261002-106",
+    "sequence": 106,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:07"
+    "updatedAt": "22:08"
   },
   "verified": true
 }
