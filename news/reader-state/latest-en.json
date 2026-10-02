@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261002-64 seq=64 exp=1791126860",
+      "advancedStatus": "pack_id=20261002-65 seq=65 exp=1791126986",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:14",
+      "lastChecked": "15:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-02",
-    "expiresAt": "2026-10-04 15:14",
+    "expiresAt": "2026-10-04 15:16",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Representatives of the new Syrian government and Hezbollah met secretly in Turkey to reduce security tensions. This is their first known direct meeting since the fall of Bashar al-Assad. Turkey played a role in organizing the meeting.",
-        "time": "15:14",
-        "ts": 1790867640
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -840,14 +833,28 @@
         "text": "Ehsan Haddadi, head of the Athletics Federation, described some female athletes in this sport as \"virtual athletes.\" Farzaneh Fasihi, an Iranian Olympic runner, responded by calling Haddadi \"the most infamous athlete in Iran's history.\" This issue arose concurrently with the Asian Games.",
         "time": "15:13",
         "ts": 1790954008
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Elnaz Shakerdoost was sentenced to one year in prison and two years of political, virtual, and artistic activity bans for supporting the December protests. This sentence was confirmed by the Tehran Province Court of Appeals. She is a cinema and television actress.",
+        "time": "15:15",
+        "ts": 1790954131
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Rising living and rehabilitation equipment costs have made meeting daily needs harder for people with disabilities. Some Iran International viewers reported delays or cuts in pensions, nursing fees, and hygiene aid payments. These details were reported by Saba Heydarkhani.",
+        "time": "15:16",
+        "ts": 1790954172
       }
     ],
     "language": "en",
-    "packId": "20261002-64",
-    "sequence": 64,
+    "packId": "20261002-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:14"
+    "updatedAt": "15:16"
   },
   "verified": true
 }
