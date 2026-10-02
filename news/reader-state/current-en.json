@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261002-06 seq=6 exp=1791078076",
+      "advancedStatus": "pack_id=20261002-07 seq=7 exp=1791079470",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:41",
+      "lastChecked": "02:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-02",
-    "expiresAt": "2026-10-04 01:41",
+    "expiresAt": "2026-10-04 02:04",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Marco Rubio, the US Secretary of State, ordered the immediate exit of the Islamic Republic's delegation from the US. This decision was made after failed negotiations and a deadlock in Qatar's mediation. The US believes Iran no longer has effective control over the Strait of Hormuz, and Iranian oil exports have dropped to nearly zero due to the US naval blockade.",
-        "time": "01:42",
-        "ts": 1790818975
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Israeli Prime Minister said it is still early to identify the perpetrator behind the foiled attempt to bring down the Flydubai flight. The suspected co-pilot is under interrogation in Saudi Arabia and may be transferred to the UAE. Israel may participate in the investigation of the incident.",
-        "time": "01:52",
-        "ts": 1790819523
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -952,14 +938,21 @@
         "text": "The US has deployed two Patriot missile defense batteries to Saudi Arabia and Qatar in recent weeks. This move aims to protect the oil and gas facilities of these countries in case of renewed military operations against Iran. It was done at the request of Saudi and Qatari leaders to reassure them.",
         "time": "01:40",
         "ts": 1790905226
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A Russian government internal document shows that 68% of its trade with Iran is conducted in rubles and rials. This is while Vladimir Putin had announced in January 2025 that the figure was 95%. Russia has even set a target of 71% for 2026.",
+        "time": "02:03",
+        "ts": 1790906619
       }
     ],
     "language": "en",
-    "packId": "20261002-06",
-    "sequence": 6,
+    "packId": "20261002-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:41"
+    "updatedAt": "02:04"
   },
   "verified": true
 }
