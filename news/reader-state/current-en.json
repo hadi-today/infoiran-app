@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261002-99 seq=99 exp=1791147405",
+      "advancedStatus": "pack_id=20261002-100 seq=100 exp=1791147822",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:56",
+      "lastChecked": "21:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-02",
-    "expiresAt": "2026-10-04 20:56",
+    "expiresAt": "2026-10-04 21:03",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,21 @@
         "text": "The national teams of France and Italy drew 1-1 in the third week of the UEFA Nations League. Goals were scored by Michael Olise for France and Alessandro Bastoni for Italy. France played with ten men from the 85th minute.",
         "time": "20:56",
         "ts": 1790974562
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A birthday celebration for Mehran Basir Tavana, a protester killed during the Mahsa uprising, was held at his gravesite. This 29-year-old was shot by government forces on November 16, 2022, and died three days later. A video of the ceremony has been released.",
+        "time": "21:02",
+        "ts": 1790974966
       }
     ],
     "language": "en",
-    "packId": "20261002-99",
-    "sequence": 99,
+    "packId": "20261002-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:56"
+    "updatedAt": "21:03"
   },
   "verified": true
 }
