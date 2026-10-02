@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261002-29 seq=29 exp=1791104440",
+      "advancedStatus": "pack_id=20261002-30 seq=30 exp=1791105002",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:00",
+      "lastChecked": "09:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-02",
-    "expiresAt": "2026-10-04 09:00",
+    "expiresAt": "2026-10-04 09:10",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "Akbar Hasanpour's wife released a video showing moments from his birthday and funeral. Akbar Hasanpour was killed on the evening of January 9, 2026, in Gohardasht, Karaj by government forces. The video was published on the occasion of his birthday.",
         "time": "08:59",
         "ts": 1790931580
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump posted images on Truth Social showing protesters marching in Isfahan. The images are from December. Trump published these images on Thursday, September 30.",
+        "time": "09:09",
+        "ts": 1790932146
       }
     ],
     "language": "en",
-    "packId": "20261002-29",
-    "sequence": 29,
+    "packId": "20261002-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:00"
+    "updatedAt": "09:10"
   },
   "verified": true
 }
