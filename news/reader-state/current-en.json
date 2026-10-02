@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261002-07 seq=7 exp=1791079470",
+      "advancedStatus": "pack_id=20261002-08 seq=8 exp=1791082271",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:04",
+      "lastChecked": "02:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-02",
-    "expiresAt": "2026-10-04 02:04",
+    "expiresAt": "2026-10-04 02:51",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Benjamin Netanyahu said in a Fox News interview that Israel had provided intelligence to Britain showing an attack supported by the Islamic Republic was being planned. According to him, London sanctioned Israel 'almost the next day.'",
-        "time": "02:41",
-        "ts": 1790822504
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -945,14 +938,21 @@
         "text": "A Russian government internal document shows that 68% of its trade with Iran is conducted in rubles and rials. This is while Vladimir Putin had announced in January 2025 that the figure was 95%. Russia has even set a target of 71% for 2026.",
         "time": "02:03",
         "ts": 1790906619
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump stated that the Islamic Republic was only three to four weeks or less away from acquiring nuclear weapons. He said Iran has not been able to pass a ship through the Strait of Hormuz for months and the US is removing millions of barrels of oil from the region. Trump predicted the crisis will end soon and oil prices will drop.",
+        "time": "02:50",
+        "ts": 1790909419
       }
     ],
     "language": "en",
-    "packId": "20261002-07",
-    "sequence": 7,
+    "packId": "20261002-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:04"
+    "updatedAt": "02:51"
   },
   "verified": true
 }
