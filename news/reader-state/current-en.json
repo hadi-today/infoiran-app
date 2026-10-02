@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261002-22 seq=22 exp=1791099012",
+      "advancedStatus": "pack_id=20261002-23 seq=23 exp=1791099319",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:30",
+      "lastChecked": "07:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-02",
-    "expiresAt": "2026-10-04 07:30",
+    "expiresAt": "2026-10-04 07:35",
     "items": [
       {
         "channel": "iranintl",
@@ -889,14 +889,21 @@
         "text": "Pakistan's Foreign Ministry announced that Islamabad adheres to all applicable sanctions against the Islamic Republic of Iran. This comes despite Pakistan previously opposing unilateral sanctions against Iran. The report was provided by Javad Hamdani from Iran International.",
         "time": "07:29",
         "ts": 1790926165
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iman Aghayari, a political analyst, referred to the joint statement of 46 countries at the UN Human Rights Council. These statements are important for documenting human rights violations and protesting executions. The Islamic Republic accepts the least impact from global protests.",
+        "time": "07:34",
+        "ts": 1790926469
       }
     ],
     "language": "en",
-    "packId": "20261002-22",
-    "sequence": 22,
+    "packId": "20261002-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:30"
+    "updatedAt": "07:35"
   },
   "verified": true
 }
