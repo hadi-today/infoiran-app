@@ -1,41 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261001-131 seq=131 exp=1791071963",
+      "advancedStatus": "pack_id=20261002-01 seq=1 exp=1791074068",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:59",
+      "lastChecked": "00:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-10-01",
-    "expiresAt": "2026-10-03 23:59",
+    "date": "2026-10-02",
+    "expiresAt": "2026-10-04 00:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Islamic Revolutionary Guard Corps wrote a letter to the American people warning about the country's economic collapse. The letter urges American voters to overthrow the Trump administration. It is both an invitation to friendship and an electoral recommendation.",
-        "time": "00:02",
-        "ts": 1790812978
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US Central Command announced that it has changed the routes of 125 commercial ships by Wednesday to enforce the maritime blockade of the Islamic Republic. Previously, the routes of 122 commercial ships had been changed. These actions are part of the maritime blockade enforcement.",
-        "time": "00:23",
-        "ts": 1790814206
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "US Defense Secretary Pete Hegseth stated that the US and its allies have destroyed Iran's navy, air force, defense systems, leadership, and military industry. He said Iran's conventional shield and nuclear targets have been paralyzed. He added that US forces will ensure Iran never acquires nuclear weapons.",
-        "time": "00:32",
-        "ts": 1790814751
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -952,14 +931,21 @@
         "text": "EU ministers met in Luxembourg to discuss migration, security, and the Schengen area. The main focus was on returning asylum seekers without residence permits. Strengthening cooperation with non-EU countries to repatriate their nationals was also a key topic.",
         "time": "23:58",
         "ts": 1790899118
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mike Waltz, the US ambassador to the UN, stated that the Islamic Republic has violated laws and refuses to abandon its nuclear ambitions. He referred to the IAEA's recent referral of Iran's case to the Security Council. Waltz also accused Russia and China of blocking UN sanctions against Iran.",
+        "time": "00:33",
+        "ts": 1790901215
       }
     ],
     "language": "en",
-    "packId": "20261001-131",
-    "sequence": 131,
+    "packId": "20261002-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:59"
+    "updatedAt": "00:34"
   },
   "verified": true
 }
