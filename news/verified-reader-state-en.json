@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261002-58 seq=58 exp=1791122219",
+      "advancedStatus": "pack_id=20261002-59 seq=59 exp=1791122656",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:56",
+      "lastChecked": "14:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-02",
-    "expiresAt": "2026-10-04 13:56",
+    "expiresAt": "2026-10-04 14:04",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Alireza Abdoli won the gold medal in Greco-Roman wrestling at the Nagoya Asian Games. Mehdi Bali lost in the semifinals with a score of 5 to 4. Sajjad Abbaspour finished in fifth place.",
-        "time": "13:58",
-        "ts": 1790863094
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Following the first round of student protests at Allameh Tabataba'i University, a video has been released showing students posting notices around the university announcing their intention to continue the protests.",
-        "time": "14:02",
-        "ts": 1790863344
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "On the twelfth day of the Asian Games in Nagoya, opponents of the Islamic Republic held a protest gathering. Some spectators faced confrontations with officials for carrying the Lion and Sun flag. The report was provided by Alireza Modiri from Iran International.",
-        "time": "14:03",
-        "ts": 1790863384
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -889,14 +868,21 @@
         "text": "The Portuguese Football Federation is trying to diplomatically resolve the tension between Cristiano Ronaldo and the national team coach, Jorge Jesus. A meeting with Ronaldo's consent is scheduled for next week to mend relations. The federation aims to end Ronaldo's national career with respect and dignity.",
         "time": "13:54",
         "ts": 1790949272
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows graffiti with the slogan \"Long live the king\" in the city of Nishapur. This video was received by Iran International. The graffiti in this city has attracted attention.",
+        "time": "14:03",
+        "ts": 1790949793
       }
     ],
     "language": "en",
-    "packId": "20261002-58",
-    "sequence": 58,
+    "packId": "20261002-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:56"
+    "updatedAt": "14:04"
   },
   "verified": true
 }
