@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261002-97 seq=97 exp=1791143064",
+      "advancedStatus": "pack_id=20261002-98 seq=98 exp=1791144160",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:44",
+      "lastChecked": "20:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-02",
-    "expiresAt": "2026-10-04 19:44",
+    "expiresAt": "2026-10-04 20:02",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,21 @@
         "text": "The third US aircraft carrier has been deployed to the Middle East. This news was announced in the audio version of the program 24 with Fardad Farahzad. More details are provided in this program.",
         "time": "19:43",
         "ts": 1790970210
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Two Iranian nationals in the UK have been accused of preparing terrorist acts against the Jewish community in Manchester. They were arrested on September 20 by counter-terrorism police. Investigations indicate the plan was scheduled before the Yom Kippur ceremony and involved contact with a person possibly in Iran.",
+        "time": "20:01",
+        "ts": 1790971310
       }
     ],
     "language": "en",
-    "packId": "20261002-97",
-    "sequence": 97,
+    "packId": "20261002-98",
+    "sequence": 98,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:44"
+    "updatedAt": "20:02"
   },
   "verified": true
 }
