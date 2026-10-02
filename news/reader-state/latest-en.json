@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261002-66 seq=66 exp=1791127094",
+      "advancedStatus": "pack_id=20261002-67 seq=67 exp=1791127248",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:18",
+      "lastChecked": "15:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-02",
-    "expiresAt": "2026-10-04 15:18",
+    "expiresAt": "2026-10-04 15:20",
     "items": [
       {
         "channel": "iranintl",
@@ -847,14 +847,28 @@
         "text": "Rising living and rehabilitation equipment costs have made meeting daily needs harder for people with disabilities. Some Iran International viewers reported delays or cuts in pensions, nursing fees, and hygiene aid payments. These details were reported by Saba Heydarkhani.",
         "time": "15:16",
         "ts": 1790954172
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reuters reported that Tehran is preparing a stronger and broader response if the US resumes extensive attacks. Plans include expanding targets to countries supporting US military operations, possibly beyond the Middle East. The Islamic Republic is keeping negotiations open but considers the chance of an agreement low.",
+        "time": "15:19",
+        "ts": 1790954391
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran won three gold medals in fencing at the 1974 Asian Games in Tehran. The Iranian women's foil team won the first gold medal for Iranian women in an international competition. Giti Mohban also won an individual bronze medal in addition to the team gold.",
+        "time": "15:20",
+        "ts": 1790954400
       }
     ],
     "language": "en",
-    "packId": "20261002-66",
-    "sequence": 66,
+    "packId": "20261002-67",
+    "sequence": 67,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:18"
+    "updatedAt": "15:20"
   },
   "verified": true
 }
