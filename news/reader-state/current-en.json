@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261002-40 seq=40 exp=1791114542",
+      "advancedStatus": "pack_id=20261002-41 seq=41 exp=1791114824",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:49",
+      "lastChecked": "11:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-02",
-    "expiresAt": "2026-10-04 11:49",
+    "expiresAt": "2026-10-04 11:53",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump stated in an interview that he might escalate airstrikes on Iran after the US midterm elections. He said he could not specify the targets and emphasized that the Islamic Republic wants a deal, but he seeks a real agreement. Trump also mentioned that he might destroy Iran.",
-        "time": "11:52",
-        "ts": 1790855565
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "The Esteghlal football team faces travel restrictions for the second week of the Asian Elite League in Qatar, and club officials are awaiting a response from Qatar. Esteghlal has requested a direct flight to Qatar but has not yet received a reply. If a direct flight is not possible, Esteghlal has two travel options: from Tabriz to Istanbul and then to Qatar, or from Basra to Qatar.",
         "time": "11:47",
         "ts": 1790941677
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The human rights website Hal Va Sh reported that at least five members of the Fatemiyoun Brigade were killed in an armed attack in the Rudmahi area of Zahedan. The attack involved a roadside bomb explosion and gunfire. The Quds Base of the IRGC also confirmed the death of one of its forces.",
+        "time": "11:52",
+        "ts": 1790941976
       }
     ],
     "language": "en",
-    "packId": "20261002-40",
-    "sequence": 40,
+    "packId": "20261002-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:49"
+    "updatedAt": "11:53"
   },
   "verified": true
 }
