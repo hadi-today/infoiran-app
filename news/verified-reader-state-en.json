@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261002-42 seq=42 exp=1791115361",
+      "advancedStatus": "pack_id=20261002-43 seq=43 exp=1791115739",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:02",
+      "lastChecked": "12:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-02",
-    "expiresAt": "2026-10-04 12:02",
+    "expiresAt": "2026-10-04 12:08",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Belali, advisor to the commander of the IRGC Aerospace Force, announced that the Islamic Republic has achieved a long-range ballistic missile capable of hitting moving targets. This success was achieved in recent days. Additionally, in the operation against the Muwaffaq al-Sultani base, the missiles inflicted damage and casualties on the enemy.",
-        "time": "12:03",
-        "ts": 1790856186
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The deputy police commander of North Khorasan announced the arrest of a woman due to child abuse. The father had entrusted his two children to this woman and discovered signs of burns on one child's body. The case was pursued after the father reported the abuse to the police.",
-        "time": "12:04",
-        "ts": 1790856240
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -861,14 +847,21 @@
         "text": "A viewer reported in a video that on October 2nd, they paid over half a million tomans for a bottle of soda and a bucket of yogurt. They sarcastically called the Islamic Republic the \"number one superpower in the world.\" The video was sent to Iran International.",
         "time": "12:01",
         "ts": 1790942512
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The UAE has declared the incident on the Flydubai flight as a terrorist act. The UAE Attorney General's office has started official interrogations of the co-pilot on charges of terrorism links. Israeli security officials have requested to have observers present during the interrogations.",
+        "time": "12:08",
+        "ts": 1790942887
       }
     ],
     "language": "en",
-    "packId": "20261002-42",
-    "sequence": 42,
+    "packId": "20261002-43",
+    "sequence": 43,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:02"
+    "updatedAt": "12:08"
   },
   "verified": true
 }
