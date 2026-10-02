@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261002-04 seq=4 exp=1791076513",
+      "advancedStatus": "pack_id=20261002-06 seq=6 exp=1791078076",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:15",
+      "lastChecked": "01:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-02",
-    "expiresAt": "2026-10-04 01:15",
+    "expiresAt": "2026-10-04 01:41",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The police of Sistan and Baluchestan announced that Alireza Sancholi, a law enforcement officer, was killed in an armed attack on the Ahmadabad checkpoint in Rask. The police are working to identify and arrest the attackers. The deputy governor of Sistan and Baluchestan had previously stated that the attack caused no damage.",
-        "time": "01:17",
-        "ts": 1790817457
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "US Secretary of State Marco Rubio ordered the Iranian delegation accompanying Abbas Araghchi to immediately leave New York after negotiations with the Islamic Republic reached a deadlock. The delegation flew from New York to Doha at 1:20 AM on Tuesday. This action followed the failure of Qatari mediators to achieve a breakthrough in Washington-Tehran talks.",
-        "time": "01:20",
-        "ts": 1790817646
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -952,14 +938,28 @@
         "text": "Ashton Hamid Al-Aboudi, an employee of the US Department of Energy, was arrested for attempting to provide material support to Yemen's Houthis. He is accused of procuring drone parts and chemicals and offering technical advice to the Houthis. The charges are unproven, and if convicted, he could face up to 20 years in prison.",
         "time": "01:14",
         "ts": 1790903650
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran is entering winter with chronic gas shortages and reduced production capacity. The First Vice President stated that 250 million cubic meters of gas were lost from the network during two recent wars, and the government hopes to restore 100 million cubic meters. Gas shortages may lead to reduced production, power outages, and increased pollution.",
+        "time": "01:17",
+        "ts": 1790903876
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US has deployed two Patriot missile defense batteries to Saudi Arabia and Qatar in recent weeks. This move aims to protect the oil and gas facilities of these countries in case of renewed military operations against Iran. It was done at the request of Saudi and Qatari leaders to reassure them.",
+        "time": "01:40",
+        "ts": 1790905226
       }
     ],
     "language": "en",
-    "packId": "20261002-04",
-    "sequence": 4,
+    "packId": "20261002-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:15"
+    "updatedAt": "01:41"
   },
   "verified": true
 }
