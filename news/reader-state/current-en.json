@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261002-107 seq=107 exp=1791152202",
+      "advancedStatus": "pack_id=20261002-108 seq=108 exp=1791152660",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:16",
+      "lastChecked": "22:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-02",
-    "expiresAt": "2026-10-04 22:16",
+    "expiresAt": "2026-10-04 22:24",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "Kambiz Tavana said that if Saudi Arabia launches a new operation in Yemen in response to Houthi attacks, it may consider a ground presence. This move could lead to higher costs and casualties and change regional dynamics. It would also affect the energy market and the future of the Bab al-Mandab Strait.",
         "time": "22:15",
         "ts": 1790979350
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amnesty International has confirmed the unlawful killing of 377 people, including dozens of children, by the Islamic Republic forces. The report includes human rights violations. The organization has called for accountability of the responsible parties.",
+        "time": "22:23",
+        "ts": 1790979816
       }
     ],
     "language": "en",
-    "packId": "20261002-107",
-    "sequence": 107,
+    "packId": "20261002-108",
+    "sequence": 108,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:16"
+    "updatedAt": "22:24"
   },
   "verified": true
 }
