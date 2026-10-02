@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261002-98 seq=98 exp=1791144160",
+      "advancedStatus": "pack_id=20261002-99 seq=99 exp=1791147405",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:02",
+      "lastChecked": "20:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-02",
-    "expiresAt": "2026-10-04 20:02",
+    "expiresAt": "2026-10-04 20:56",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen sent a video to Iran International complaining about the poor quality of the Tehran to Zahedan train. The train was stopped due to a repair of a malfunction. It eventually arrived at the destination with a six-hour delay.",
-        "time": "20:05",
-        "ts": 1790885113
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "UKMTO reported that a tanker was hit by an unknown projectile while passing through the Strait of Hormuz, causing a fire. The crew is reported to be safe. The extent of damage and environmental impact is not yet known.",
-        "time": "20:23",
-        "ts": 1790886218
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -861,14 +847,21 @@
         "text": "Two Iranian nationals in the UK have been accused of preparing terrorist acts against the Jewish community in Manchester. They were arrested on September 20 by counter-terrorism police. Investigations indicate the plan was scheduled before the Yom Kippur ceremony and involved contact with a person possibly in Iran.",
         "time": "20:01",
         "ts": 1790971310
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The national teams of France and Italy drew 1-1 in the third week of the UEFA Nations League. Goals were scored by Michael Olise for France and Alessandro Bastoni for Italy. France played with ten men from the 85th minute.",
+        "time": "20:56",
+        "ts": 1790974562
       }
     ],
     "language": "en",
-    "packId": "20261002-98",
-    "sequence": 98,
+    "packId": "20261002-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:02"
+    "updatedAt": "20:56"
   },
   "verified": true
 }
