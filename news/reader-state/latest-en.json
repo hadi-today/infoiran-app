@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-98 seq=98 exp=1791220856",
+      "advancedStatus": "pack_id=20261003-99 seq=99 exp=1791221161",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:20",
+      "lastChecked": "17:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 17:20",
+    "expiresAt": "2026-10-05 17:26",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Syrian presidential advisor stated that reports of contact between Damascus and Hezbollah in Lebanon are completely false. The Syrian government negotiates with Lebanon only through the Lebanese government. He also said the era of militias is over and Syria supports the Lebanese government.",
-        "time": "17:23",
-        "ts": 1790961799
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Ahed Shokouhian, a prisoner sentenced to death, is held in Qezel Hesar prison in Karaj. His death sentence was confirmed at the final appeal stage, but the case was returned to Varamin investigation due to deficiencies in the investigation. This deficiency is procedural and has not led to a change in the sentence so far.",
-        "time": "17:24",
-        "ts": 1790961860
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -945,14 +931,21 @@
         "text": "The Brazil national football team defeated India 4-0 in a friendly match at Salt Lake Stadium in Kolkata. Samuel Lino scored two goals in the second half, while Stau and Pedro scored in the first half. Carlo Ancelotti led the team to victory with players like Vinicius Junior and Marquinhos in the lineup.",
         "time": "17:20",
         "ts": 1791048009
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hamam Al-Hamami, the co-pilot of the FlyDubai flight, lived in Syria for several years and is suspected of joining a group linked to the Islamic Republic. He stated in interrogation that he intended to crash the plane into a target in Israel. Investigations involving multiple countries are ongoing to examine his possible connections and group support.",
+        "time": "17:24",
+        "ts": 1791048294
       }
     ],
     "language": "en",
-    "packId": "20261003-98",
-    "sequence": 98,
+    "packId": "20261003-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:20"
+    "updatedAt": "17:26"
   },
   "verified": true
 }
