@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-71 seq=71 exp=1791206902",
+      "advancedStatus": "pack_id=20261003-72 seq=72 exp=1791207016",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:28",
+      "lastChecked": "13:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 13:28",
+    "expiresAt": "2026-10-05 13:30",
     "items": [
       {
         "channel": "iranintl",
@@ -931,14 +931,21 @@
         "text": "The forced eviction of an 87-year-old woman after more than seven decades in her home in Madrid led to protests by tens of thousands. Protesters demand stronger tenant protections and a halt to evictions without alternative housing. This report was published by Sajedeh Sharifi from Iran International.",
         "time": "13:27",
         "ts": 1791034056
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Behzad Yazdani, a Bahá'í citizen residing in Shiraz, has been detained for over 180 days without access to a lawyer or a court hearing. He was arrested on the 9th of Farvardin by the IRGC intelligence. His family has not received any judicial response regarding his case status.",
+        "time": "13:28",
+        "ts": 1791034101
       }
     ],
     "language": "en",
-    "packId": "20261003-71",
-    "sequence": 71,
+    "packId": "20261003-72",
+    "sequence": 72,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:28"
+    "updatedAt": "13:30"
   },
   "verified": true
 }
