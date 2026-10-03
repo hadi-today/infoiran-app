@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-93 seq=93 exp=1791217626",
+      "advancedStatus": "pack_id=20261003-94 seq=94 exp=1791217912",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:27",
+      "lastChecked": "16:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 16:27",
+    "expiresAt": "2026-10-05 16:31",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,21 @@
         "text": "Tens of thousands of students and teachers in France protested due to crowded classrooms and teacher shortages. The protests involved over 1,200 high schools, and teachers have indicated a possible strike after the 2027 budget announcement. Authorities reported the arrest of more than 5,000 people, mostly teenagers.",
         "time": "16:26",
         "ts": 1791044774
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Roberto Piazza, head coach of Iran's national volleyball team, expressed gratitude for the support from the Iranian people after winning gold at the Nagoya Asian Games. He stated the tournament was not easy and the players aimed to do something special for Iran. Piazza also hopes to win more medals in the future and is optimistic about Iranian talents.",
+        "time": "16:30",
+        "ts": 1791045059
       }
     ],
     "language": "en",
-    "packId": "20261003-93",
-    "sequence": 93,
+    "packId": "20261003-94",
+    "sequence": 94,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:27"
+    "updatedAt": "16:31"
   },
   "verified": true
 }
