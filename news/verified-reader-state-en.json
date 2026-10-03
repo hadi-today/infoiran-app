@@ -1,41 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261002-111 seq=111 exp=1791156689",
+      "advancedStatus": "pack_id=20261003-01 seq=1 exp=1791160262",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:31",
+      "lastChecked": "00:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-10-02",
-    "expiresAt": "2026-10-04 23:31",
+    "date": "2026-10-03",
+    "expiresAt": "2026-10-05 00:31",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "US Treasury Secretary Scott Bessent said Iran did not load any crude oil onto tankers in September. He attributed this to the pressure campaign by the Trump administration to cut off the Islamic Republic's main source of revenue. The US Treasury also announced that it had launched an economic exclusion operation to cut off Iran's financial resources.",
-        "time": "23:33",
-        "ts": 1790897584
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump said the war with the Islamic Republic will end very soon and Tehran must make the right decision. He added that the US has almost complete control of the Strait of Hormuz and the Islamic Republic faces 312% inflation and currency collapse. Trump also said Washington is still trying to negotiate and oil prices will drop sharply after the war.",
-        "time": "23:43",
-        "ts": 1790898228
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "EU ministers met in Luxembourg to discuss migration, security, and the Schengen area. The main focus was on returning asylum seekers without residence permits. Strengthening cooperation with non-EU countries to repatriate their nationals was also a key topic.",
-        "time": "23:58",
-        "ts": 1790899118
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -847,14 +826,21 @@
         "text": "The match between Iran and Russia was one of the worst performances of the national team under Amir Ghalenoei. The head coach had said before the game that the team would play differently, but this did not happen. This was discussed in an interview with Mazdak Mirzaei.",
         "time": "23:30",
         "ts": 1790983839
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "An Omani co-pilot accused of attacking the Flydubai pilot stated he intended to bring down the plane over Israeli territory. The suspect was transferred from Saudi Arabia to the UAE and is cooperating with investigators. Flydubai has temporarily suspended its flights to Tel Aviv.",
+        "time": "00:30",
+        "ts": 1790987409
       }
     ],
     "language": "en",
-    "packId": "20261002-111",
-    "sequence": 111,
+    "packId": "20261003-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:31"
+    "updatedAt": "00:31"
   },
   "verified": true
 }
