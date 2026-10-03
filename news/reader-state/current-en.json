@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-26 seq=26 exp=1791185871",
+      "advancedStatus": "pack_id=20261003-27 seq=27 exp=1791186047",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:37",
+      "lastChecked": "07:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 07:37",
+    "expiresAt": "2026-10-05 07:40",
     "items": [
       {
         "channel": "harana",
@@ -840,14 +840,21 @@
         "text": "Younes Emami and Amirali Azarpeira reached the final in freestyle wrestling at the Aichi-Nagoya Asian Games. Three Iranian taekwondo athletes secured their medals. In paddle, Amir Mohammad Jamshidi and Farsad Shahi won bronze medals.",
         "time": "07:36",
         "ts": 1791013014
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The Judiciary Media Center announced the execution of Siavash Jamshidi Kheirabadi. He was among those arrested during the nationwide protests of December 1404 in Shahr-e Kord. His charges included waging war against God and conspiracy against national security.",
+        "time": "07:39",
+        "ts": 1791013197
       }
     ],
     "language": "en",
-    "packId": "20261003-26",
-    "sequence": 26,
+    "packId": "20261003-27",
+    "sequence": 27,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:37"
+    "updatedAt": "07:40"
   },
   "verified": true
 }
