@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-64 seq=64 exp=1791203843",
+      "advancedStatus": "pack_id=20261003-65 seq=65 exp=1791203959",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:37",
+      "lastChecked": "12:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 12:37",
+    "expiresAt": "2026-10-05 12:39",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "A worker employed in the manganese mine of Vanarch in Qom province died due to the collapse of part of one of the mine's tunnels. The incident occurred in the Vanarch manganese mine. Further details have not been announced.",
         "time": "12:36",
         "ts": 1791030999
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abdolnaser Hemmati, the Central Bank governor, described the rise in the dollar price as temporary and attributed it to American propaganda shocks. However, 36 days later, the dollar surpassed 250,000 tomans. This indicates a continued upward trend in the dollar price.",
+        "time": "12:38",
+        "ts": 1791031080
       }
     ],
     "language": "en",
-    "packId": "20261003-64",
-    "sequence": 64,
+    "packId": "20261003-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:37"
+    "updatedAt": "12:39"
   },
   "verified": true
 }
