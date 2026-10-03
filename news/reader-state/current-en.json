@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-106 seq=106 exp=1791224165",
+      "advancedStatus": "pack_id=20261003-108 seq=108 exp=1791224582",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:16",
+      "lastChecked": "18:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 18:16",
+    "expiresAt": "2026-10-05 18:23",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Contracted firefighters in Shush report that their job titles have not been correctly recorded in insurance records. This issue has deprived them of benefits related to hard and hazardous jobs and early retirement. They have worked for years in firefighting and rescue operations.",
-        "time": "18:17",
-        "ts": 1790965067
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -952,14 +945,28 @@
         "text": "A few days after Trump's renewed warning about possible new attacks on Iran, Axios reported that next steps in the war were discussed in a meeting with senior US officials.",
         "time": "18:15",
         "ts": 1791051301
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahead of the US midterm elections, the dispute over mail-in voting restrictions has reached the Postal Service and the Supreme Court. The Trump administration sought to change the mail-in voting process through an executive order, but the Supreme Court in September halted the implementation of new postal regulations for the upcoming elections.",
+        "time": "18:19",
+        "ts": 1791051574
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Gas poisoning in a well in Bijar caused the death of one worker and injury to another. The number of injured in a building collapse incident in Zanjan has increased from one to four.",
+        "time": "18:21",
+        "ts": 1791051663
       }
     ],
     "language": "en",
-    "packId": "20261003-106",
-    "sequence": 106,
+    "packId": "20261003-108",
+    "sequence": 108,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:16"
+    "updatedAt": "18:23"
   },
   "verified": true
 }
