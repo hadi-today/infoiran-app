@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-49 seq=49 exp=1791196233",
+      "advancedStatus": "pack_id=20261003-50 seq=50 exp=1791196559",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:30",
+      "lastChecked": "10:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 10:30",
+    "expiresAt": "2026-10-05 10:35",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "The police commander of Mahabad announced that one person was killed and four were injured in the shooting incident in front of the Mahabad courthouse. The incident occurred following a verbal dispute among several women and the arrival of an armed man. The shooter was arrested at the scene.",
         "time": "10:29",
         "ts": 1791023389
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Student protests over teacher shortages, crowded classes, and school deterioration have been ongoing in France since Monday. More than five thousand people have been arrested so far. This report is provided by Sajedeh Sharifi from Iran International.",
+        "time": "10:34",
+        "ts": 1791023699
       }
     ],
     "language": "en",
-    "packId": "20261003-49",
-    "sequence": 49,
+    "packId": "20261003-50",
+    "sequence": 50,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:30"
+    "updatedAt": "10:35"
   },
   "verified": true
 }
