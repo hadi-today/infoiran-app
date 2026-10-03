@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-97 seq=97 exp=1791220060",
+      "advancedStatus": "pack_id=20261003-98 seq=98 exp=1791220856",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:07",
+      "lastChecked": "17:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 17:07",
+    "expiresAt": "2026-10-05 17:20",
     "items": [
       {
         "channel": "iranintl",
@@ -938,14 +938,21 @@
         "text": "Mohsen Rezaei, Secretary of the Supreme National Security Council, attended the government's economic coordination headquarters meeting. He described the current situation as one of the most difficult periods for the country. Rezaei also stated that the negotiation process is very serious.",
         "time": "17:06",
         "ts": 1791047199
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Brazil national football team defeated India 4-0 in a friendly match at Salt Lake Stadium in Kolkata. Samuel Lino scored two goals in the second half, while Stau and Pedro scored in the first half. Carlo Ancelotti led the team to victory with players like Vinicius Junior and Marquinhos in the lineup.",
+        "time": "17:20",
+        "ts": 1791048009
       }
     ],
     "language": "en",
-    "packId": "20261003-97",
-    "sequence": 97,
+    "packId": "20261003-98",
+    "sequence": 98,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:07"
+    "updatedAt": "17:20"
   },
   "verified": true
 }
