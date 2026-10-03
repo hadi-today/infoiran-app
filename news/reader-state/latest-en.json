@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-121 seq=121 exp=1791231647",
+      "advancedStatus": "pack_id=20261003-122 seq=122 exp=1791231839",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:20",
+      "lastChecked": "20:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 20:20",
+    "expiresAt": "2026-10-05 20:23",
     "items": [
       {
         "channel": "iranintl",
@@ -973,14 +973,21 @@
         "text": "Ivar Farhadi stated that the US is preparing for possible conflict scenarios with the Islamic Republic by deploying a third aircraft carrier and air defense systems in Qatar and Saudi Arabia. He said the Islamic Republic has lost much of its leverage but can still increase the cost of conflict by attacking energy infrastructure and activating proxy forces.",
         "time": "20:19",
         "ts": 1791058781
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Asieh Amini stated that women political prisoners are deprived of contact with family, visits, medicine, and books. She added that these pressures are part of the Islamic Republic's intensified punishment. The regime also uses women's gender roles to impose harsher punishments.",
+        "time": "20:23",
+        "ts": 1791058986
       }
     ],
     "language": "en",
-    "packId": "20261003-121",
-    "sequence": 121,
+    "packId": "20261003-122",
+    "sequence": 122,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:20"
+    "updatedAt": "20:23"
   },
   "verified": true
 }
