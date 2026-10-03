@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-124 seq=124 exp=1791234318",
+      "advancedStatus": "pack_id=20261003-125 seq=125 exp=1791234431",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:05",
+      "lastChecked": "21:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 21:05",
+    "expiresAt": "2026-10-05 21:07",
     "items": [
       {
         "channel": "iranintl",
@@ -980,14 +980,21 @@
         "text": "Alex Winston spoke about the deep connection between the people of Iran and Israel at the fifth Iran conference of the Nufdi Institute in Washington. He emphasized that the media should convey the voices of Iranian protesters to the world. These statements were made in an interview with Iran International.",
         "time": "21:04",
         "ts": 1791061459
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Videos published on social media show flooding in various areas of Karaj and Alborz province after the rains on Saturday, October 3. As of the time of publication, no reports on damages or casualties have been released. Officials of the Islamic Republic have not yet provided an official report.",
+        "time": "21:05",
+        "ts": 1791061533
       }
     ],
     "language": "en",
-    "packId": "20261003-124",
-    "sequence": 124,
+    "packId": "20261003-125",
+    "sequence": 125,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:05"
+    "updatedAt": "21:07"
   },
   "verified": true
 }
