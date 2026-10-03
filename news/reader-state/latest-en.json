@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-51 seq=51 exp=1791196673",
+      "advancedStatus": "pack_id=20261003-52 seq=52 exp=1791196786",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:37",
+      "lastChecked": "10:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 10:37",
+    "expiresAt": "2026-10-05 10:39",
     "items": [
       {
         "channel": "iranintl",
@@ -938,14 +938,21 @@
         "text": "The 40th-day memorial ceremony for Ali Hashemi was held on Thursday, 9 Mehr 1405, in the village of Sheshjavan, Isfahan. Ali Hashemi was arrested by security forces on 25 Ordibehesht and transferred to the central prison of Isfahan. His family was informed on 28 Mordad that he was hospitalized due to cardiac arrest, but upon arrival at the hospital, they were told he had passed away.",
         "time": "10:36",
         "ts": 1791023776
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Ali Asghar Karabi, the father of a victim of the December protests, has been detained in Sabzevar prison for 24 days and remains in legal limbo. He was summoned and arrested by a security agency after visiting his son's grave and posting a video on social media. His legal status is still unclear.",
+        "time": "10:38",
+        "ts": 1791023927
       }
     ],
     "language": "en",
-    "packId": "20261003-51",
-    "sequence": 51,
+    "packId": "20261003-52",
+    "sequence": 52,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:37"
+    "updatedAt": "10:39"
   },
   "verified": true
 }
