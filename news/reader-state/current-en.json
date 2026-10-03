@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-65 seq=65 exp=1791203959",
+      "advancedStatus": "pack_id=20261003-66 seq=66 exp=1791204445",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:39",
+      "lastChecked": "12:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 12:39",
+    "expiresAt": "2026-10-05 12:47",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "At least 140 people were arrested during protests in Bojnord between January 3 and 10, 2026. The number of detainees reached 180 by the end of January. Some of those arrested included a former judiciary employee and a nurse.",
-        "time": "12:41",
-        "ts": 1790944866
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -966,14 +959,21 @@
         "text": "Abdolnaser Hemmati, the Central Bank governor, described the rise in the dollar price as temporary and attributed it to American propaganda shocks. However, 36 days later, the dollar surpassed 250,000 tomans. This indicates a continued upward trend in the dollar price.",
         "time": "12:38",
         "ts": 1791031080
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Scott Bassett, the US Treasury Secretary, stated that for the first time since Iran began oil production, it has no oil on water this week and will have no revenue from oil sales. He attributed this situation to US military and economic actions against Iran. These measures included military conflict, blockade, and an economic expulsion operation.",
+        "time": "12:46",
+        "ts": 1791031595
       }
     ],
     "language": "en",
-    "packId": "20261003-65",
-    "sequence": 65,
+    "packId": "20261003-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:39"
+    "updatedAt": "12:47"
   },
   "verified": true
 }
