@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-118 seq=118 exp=1791230628",
+      "advancedStatus": "pack_id=20261003-119 seq=119 exp=1791230988",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:03",
+      "lastChecked": "20:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 20:03",
+    "expiresAt": "2026-10-05 20:09",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,28 @@
         "text": "Two members of the Islamic Republic's delegation to the UN were expelled from the US after failing to comply with the State Department's order to leave the country. The US State Department repeatedly informed the Iranian delegation that all members must immediately leave US soil. These two diplomats left the US on Friday night and Saturday morning.",
         "time": "20:02",
         "ts": 1791057774
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Bruno Fernandes, captain of Portugal's national team, spoke about Cristiano Ronaldo in a press conference before the match against Norway. He emphasized that Ronaldo will never lose his status as the greatest symbol of the national team. Fernandes hopes the issue will end well and called for respect for all sides.",
+        "time": "20:09",
+        "ts": 1791058143
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Donyamali, the Minister of Sports and Youth, spoke about visa issues for the national team's companions at the 2026 World Cup and FIFA's performance at the World Cup. He said they should move away from the legal space of FIFA and pay attention to the problems caused by US sanctions. The Minister emphasized that despite the sanctions, Iran will continue to fight.",
+        "time": "20:09",
+        "ts": 1791058153
       }
     ],
     "language": "en",
-    "packId": "20261003-118",
-    "sequence": 118,
+    "packId": "20261003-119",
+    "sequence": 119,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:03"
+    "updatedAt": "20:09"
   },
   "verified": true
 }
