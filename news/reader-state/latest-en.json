@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-10 seq=10 exp=1791169202",
+      "advancedStatus": "pack_id=20261003-11 seq=11 exp=1791169371",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:00",
+      "lastChecked": "03:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 03:00",
+    "expiresAt": "2026-10-05 03:02",
     "items": [
       {
         "channel": "iranintl",
@@ -833,14 +833,21 @@
         "text": "Mohammad Ghaedi, a lecturer in international relations, said the statement by 56 countries against the Islamic Republic attempts to link the path of reinstating UN sanctions with the US maximum pressure campaign and increase economic and security pressure on Tehran. He added that the statement could facilitate information exchange on Iran's nuclear, missile, and drone programs and inspection of related shipments. According to Ghaedi, opposition from China and Russia and China's role in supplying dual-use goods to Tehran could challenge the full implementation of this campaign.",
         "time": "02:59",
         "ts": 1790996351
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US and over 50 countries issued a joint statement emphasizing the continuation of UN restrictions on Iran's nuclear, missile, and arms programs. Mohammad Qaedi said the statement could link the snapback mechanism and US maximum pressure campaign. He added that opposition from China and Russia might hinder full implementation of this campaign.",
+        "time": "03:02",
+        "ts": 1790996523
       }
     ],
     "language": "en",
-    "packId": "20261003-10",
-    "sequence": 10,
+    "packId": "20261003-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:00"
+    "updatedAt": "03:02"
   },
   "verified": true
 }
