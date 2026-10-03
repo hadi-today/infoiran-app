@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-37 seq=37 exp=1791191467",
+      "advancedStatus": "pack_id=20261003-38 seq=38 exp=1791192596",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:11",
+      "lastChecked": "09:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 09:11",
+    "expiresAt": "2026-10-05 09:29",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Hadi Ahmadi, spokesperson for the Iranian Pharmacists Association, reported a liquidity crisis in the drug supply chain. He stated that delays in payment have caused over 8 billion rials worth of pharmacy checks to bounce. Ahmadi warned that this situation could lead to drug shortages and reduced access for the public.",
-        "time": "09:14",
-        "ts": 1790932464
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Alex Ferguson was afraid to return to Old Trafford after emergency brain surgery in 2018. He did not know how fans would react but was met with strong applause. Ferguson also spoke about his recovery process and losing his voice during that time.",
-        "time": "09:26",
-        "ts": 1790933219
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -875,14 +861,21 @@
         "text": "A secret meeting of senior US officials was held at Camp David regarding the relationship between the Islamic Republic and the Houthis. The importance of Bab al-Mandeb for maritime security and the global supply chain was discussed. The US focuses on establishing a stable government in Yemen.",
         "time": "09:10",
         "ts": 1791018617
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Aghaei referred to Donald Trump's remarks about an early end to the war and said if neither the US nor the Islamic Republic compromises, a new war is inevitable. He described two possible scenarios: limited attacks on specific facilities or broader attacks on infrastructure and officials. The main issue is the timing of the war's start.",
+        "time": "09:29",
+        "ts": 1791019750
       }
     ],
     "language": "en",
-    "packId": "20261003-37",
-    "sequence": 37,
+    "packId": "20261003-38",
+    "sequence": 38,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:11"
+    "updatedAt": "09:29"
   },
   "verified": true
 }
