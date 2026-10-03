@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-90 seq=90 exp=1791216218",
+      "advancedStatus": "pack_id=20261003-91 seq=91 exp=1791216498",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:03",
+      "lastChecked": "16:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 16:03",
+    "expiresAt": "2026-10-05 16:08",
     "items": [
       {
         "channel": "iranintl",
@@ -938,14 +938,21 @@
         "text": "Saipa customers protested on Saturday at the company's customer service office due to severe delays in vehicle delivery. They expressed their dissatisfaction with the situation. A video of the protest was sent to Iran International.",
         "time": "16:02",
         "ts": 1791043355
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Atta Hosseinian, citing data from institutions like Kepler, stated that Iran's oil exports during the second naval blockade have nearly dropped to zero. The docking of tankers at Khark and Jask terminals has decreased. The best-case oil export volume is about 80,000 barrels per day.",
+        "time": "16:07",
+        "ts": 1791043642
       }
     ],
     "language": "en",
-    "packId": "20261003-90",
-    "sequence": 90,
+    "packId": "20261003-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:03"
+    "updatedAt": "16:08"
   },
   "verified": true
 }
