@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-101 seq=101 exp=1791222546",
+      "advancedStatus": "pack_id=20261003-102 seq=102 exp=1791222755",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:49",
+      "lastChecked": "17:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 17:49",
+    "expiresAt": "2026-10-05 17:52",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,21 @@
         "text": "Mehdi Mahdavi-Azad said in the program \"Cheshmandaz\" that Iranian officials are worried about a possible US ground attack. He added that the US is reinforcing its forces in the region. Additionally, three US aircraft carriers are scheduled to be deployed in the region starting next month.",
         "time": "17:47",
         "ts": 1791049624
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Alireza Rashidi, a 16-year-old teenager from Ashkhaneh in North Khorasan province, was arrested on Wednesday, October 8. The arrest is related to the nationwide protests of December 1404. Security forces were responsible for the arrest.",
+        "time": "17:51",
+        "ts": 1791049862
       }
     ],
     "language": "en",
-    "packId": "20261003-101",
-    "sequence": 101,
+    "packId": "20261003-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:49"
+    "updatedAt": "17:52"
   },
   "verified": true
 }
