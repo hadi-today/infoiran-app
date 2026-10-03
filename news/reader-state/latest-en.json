@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-39 seq=39 exp=1791193019",
+      "advancedStatus": "pack_id=20261003-40 seq=40 exp=1791193455",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:36",
+      "lastChecked": "09:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 09:36",
+    "expiresAt": "2026-10-05 09:44",
     "items": [
       {
         "channel": "iranintl",
@@ -875,14 +875,21 @@
         "text": "Officials at the University of Medical Sciences have issued installment meat purchase vouchers for employees up to 10 million tomans. These vouchers allow repayment in installments. Previously, reports indicated a decline in purchasing power and a shift towards installment buying among citizens.",
         "time": "09:36",
         "ts": 1791020165
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Forough Kenani stated that details of Siavash Jamshidi's case were not released before his execution. No evidence was presented showing his involvement in a murder. She added that the Islamic Republic uses executions to suppress ongoing protests.",
+        "time": "09:43",
+        "ts": 1791020609
       }
     ],
     "language": "en",
-    "packId": "20261003-39",
-    "sequence": 39,
+    "packId": "20261003-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:36"
+    "updatedAt": "09:44"
   },
   "verified": true
 }
