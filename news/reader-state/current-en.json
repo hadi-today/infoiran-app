@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-14 seq=14 exp=1791170377",
+      "advancedStatus": "pack_id=20261003-15 seq=15 exp=1791172222",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:19",
+      "lastChecked": "03:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 03:19",
+    "expiresAt": "2026-10-05 03:50",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The UK permanent representative to the UN stated that UN sanctions related to Iran's nuclear program remain binding despite the veto on extending the expert mission's mandate. She added that ending this mission will make monitoring sanctions more difficult. She also emphasized that Iran has accumulated over 400 kilograms of uranium enriched to 60 percent.",
-        "time": "03:31",
-        "ts": 1790911871
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "A 19-meter column inspired by Persepolis has been installed in Iran Square in Buenos Aires. This column commemorates the relations between Iran and Argentina during the Pahlavi era. It was gifted following the visit of Mohammad Reza Shah Pahlavi and Empress Farah to Argentina in 1965.",
         "time": "03:18",
         "ts": 1790997523
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Senior members of Donald Trump's administration held an unannounced meeting to discuss next steps in the war with the Islamic Republic and the Saudi conflict with the Houthis. The meeting was chaired by JD Vance and attended by senior officials. Trump is considering resuming military operations against the Islamic Republic, and Saudi Arabia has requested US participation in attacks against the Houthis.",
+        "time": "03:49",
+        "ts": 1790999368
       }
     ],
     "language": "en",
-    "packId": "20261003-14",
-    "sequence": 14,
+    "packId": "20261003-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:19"
+    "updatedAt": "03:50"
   },
   "verified": true
 }
