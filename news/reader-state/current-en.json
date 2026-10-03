@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-44 seq=44 exp=1791194927",
+      "advancedStatus": "pack_id=20261003-45 seq=45 exp=1791195095",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:08",
+      "lastChecked": "10:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 10:08",
+    "expiresAt": "2026-10-05 10:11",
     "items": [
       {
         "channel": "iranintl",
@@ -903,14 +903,21 @@
         "text": "Benjamin Netanyahu said in an interview that the Islamic Republic government will fall and the day of freedom for the Iranian people will come. He added that Trump's sanctions have weakened the Revolutionary Guards. Netanyahu also claimed that Israel has prevented Iran from obtaining nuclear weapons.",
         "time": "10:06",
         "ts": 1791021976
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "At least 13 citizens related to the Qaleh Chenan case in Ahvaz remain detained and legally uncertain after about seven months. They are held in Sheiban prison and are denied access to lawyers and family visits. The status of Amin Naseri, who was reportedly shot during a security operation, is unknown.",
+        "time": "10:10",
+        "ts": 1791022214
       }
     ],
     "language": "en",
-    "packId": "20261003-44",
-    "sequence": 44,
+    "packId": "20261003-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:08"
+    "updatedAt": "10:11"
   },
   "verified": true
 }
