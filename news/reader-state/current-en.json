@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-104 seq=104 exp=1791223562",
+      "advancedStatus": "pack_id=20261003-105 seq=105 exp=1791223821",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:06",
+      "lastChecked": "18:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 18:06",
+    "expiresAt": "2026-10-05 18:10",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,21 @@
         "text": "A man accused of killing a 17-year-old girl in Tehran for honor motives has been sentenced to death. The sentence was issued by Branch 12 of the Tehran Criminal Court. In addition to the death penalty, other punishments have also been assigned to him.",
         "time": "18:04",
         "ts": 1791050680
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The England national football team defeated Croatia 7-0 in the third week of the UEFA Nations League. Harry Kane and Saka each scored twice, with additional goals from Jude Bellingham, Anthony Gordon, and Rogers. The match was held without regular spectators, and England reached a higher level after their loss to Spain.",
+        "time": "18:08",
+        "ts": 1791050918
       }
     ],
     "language": "en",
-    "packId": "20261003-104",
-    "sequence": 104,
+    "packId": "20261003-105",
+    "sequence": 105,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:06"
+    "updatedAt": "18:10"
   },
   "verified": true
 }
