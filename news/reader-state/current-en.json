@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-100 seq=100 exp=1791221291",
+      "advancedStatus": "pack_id=20261003-101 seq=101 exp=1791222546",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:28",
+      "lastChecked": "17:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 17:28",
+    "expiresAt": "2026-10-05 17:49",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen sent a video showing a broken iron lamp post in Pardisan Park, Tehran. He stated that the lamp post fell in an area where people walk. This incident has raised safety concerns in the park.",
-        "time": "17:31",
-        "ts": 1790962293
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -945,14 +938,21 @@
         "text": "The One Million Signatures Campaign for Changing Discriminatory Laws turned twenty this September. The campaign aimed to change unequal laws and collect signatures, becoming an important experience in the Iranian women's movement. Parvin Ardalan, one of the founders, discussed the history and impact of the campaign.",
         "time": "17:27",
         "ts": 1791048425
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Mahdavi-Azad said in the program \"Cheshmandaz\" that Iranian officials are worried about a possible US ground attack. He added that the US is reinforcing its forces in the region. Additionally, three US aircraft carriers are scheduled to be deployed in the region starting next month.",
+        "time": "17:47",
+        "ts": 1791049624
       }
     ],
     "language": "en",
-    "packId": "20261003-100",
-    "sequence": 100,
+    "packId": "20261003-101",
+    "sequence": 101,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:28"
+    "updatedAt": "17:49"
   },
   "verified": true
 }
