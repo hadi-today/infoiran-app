@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-16 seq=16 exp=1791178658",
+      "advancedStatus": "pack_id=20261003-15 seq=15 exp=1791172222",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:37",
+      "lastChecked": "03:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,8 +13,15 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 05:37",
+    "expiresAt": "2026-10-05 03:50",
     "items": [
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Priest Vartan Avanesian stated that pressure on Christians in Iran began in the early years of the Islamic Republic. He said Christians are still imprisoned due to their religious beliefs. Although human rights organizations for Christians are active, much work remains to bring their voices to the global community.",
+        "time": "05:26",
+        "ts": 1790918773
+      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -847,21 +854,14 @@
         "text": "Senior members of Donald Trump's administration held an unannounced meeting to discuss next steps in the war with the Islamic Republic and the Saudi conflict with the Houthis. The meeting was chaired by JD Vance and attended by senior officials. Trump is considering resuming military operations against the Islamic Republic, and Saudi Arabia has requested US participation in attacks against the Houthis.",
         "time": "03:49",
         "ts": 1790999368
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The execution of Siavash Jamshidi was carried out on charges of waging war and conspiracy against national security. He was accused of shooting at security forces. The judiciary media described him as a thug from Shahrekord.",
-        "time": "05:36",
-        "ts": 1791005786
       }
     ],
     "language": "en",
-    "packId": "20261003-16",
-    "sequence": 16,
+    "packId": "20261003-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:37"
+    "updatedAt": "03:50"
   },
   "verified": true
 }
