@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-12 seq=12 exp=1791169784",
+      "advancedStatus": "pack_id=20261003-13 seq=13 exp=1791169998",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:09",
+      "lastChecked": "03:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 03:09",
+    "expiresAt": "2026-10-05 03:13",
     "items": [
       {
         "channel": "iranintl",
@@ -840,14 +840,21 @@
         "text": "Associated Press reported that US and UK leaders have suggested a possible role of the Islamic Republic in two recent security incidents, but as of October 2, this connection has not been confirmed. These incidents involve arrests near the RAF Fairford base and an attack on a Flydubai flight to Israel. The Islamic Republic has denied involvement in the Fairford incident, and investigations are still in early stages.",
         "time": "03:08",
         "ts": 1790996934
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "North Korea launched a ballistic missile toward the sea early on Saturday, October 2. This action followed North Korea's rejection of an apology request regarding border mine explosions. South Korea and Japan confirmed the launch, and South Korea's National Security Council held an emergency meeting.",
+        "time": "03:12",
+        "ts": 1790997155
       }
     ],
     "language": "en",
-    "packId": "20261003-12",
-    "sequence": 12,
+    "packId": "20261003-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:09"
+    "updatedAt": "03:13"
   },
   "verified": true
 }
