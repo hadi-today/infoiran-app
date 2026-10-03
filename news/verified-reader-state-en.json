@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-74 seq=74 exp=1791208777",
+      "advancedStatus": "pack_id=20261003-75 seq=75 exp=1791208888",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:59",
+      "lastChecked": "14:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 13:59",
+    "expiresAt": "2026-10-05 14:01",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,28 @@
         "text": "Khizr Rasul Marut, a citizen of Mahabad, was arrested and transferred to Mahabad prison to serve his sentence. This occurred today. More details are provided in the full article.",
         "time": "13:58",
         "ts": 1791035933
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Videos and images show a storm and dust rising in Qom province. Reports indicate that several power distribution feeders in the province have gone offline. This event was reported on social media and Iran International.",
+        "time": "14:00",
+        "ts": 1791036015
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Around 16:30 in Qeshm, a very loud and terrifying sound of a missile launch or fighter jet passage was heard. Some reports mention a missile launch towards the strait and air defense activation. The source of this news is Vahid Online.",
+        "time": "14:00",
+        "ts": 1791036052
       }
     ],
     "language": "en",
-    "packId": "20261003-74",
-    "sequence": 74,
+    "packId": "20261003-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:59"
+    "updatedAt": "14:01"
   },
   "verified": true
 }
