@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-54 seq=54 exp=1791197896",
+      "advancedStatus": "pack_id=20261003-55 seq=55 exp=1791198780",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:58",
+      "lastChecked": "11:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 10:58",
+    "expiresAt": "2026-10-05 11:13",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Amirhossein Zare won the gold medal in the 125 kg freestyle wrestling final at the 2026 Nagoya Asian Games by defeating Bohrdon from China 14-2. He had also defeated his previous opponents with decisive results. This victory marked Iran's 14th gold medal in the Games.",
-        "time": "11:02",
-        "ts": 1790938935
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ata Hosseinian stated that gas shortage in Iran has reached 300 to 400 million cubic meters per day. In case of a cold winter, gas supply to households and industries in the northern half of the country may be cut off. This could lead to increased mazut burning, air pollution, and widespread power outages.",
-        "time": "11:06",
-        "ts": 1790939184
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -959,14 +945,21 @@
         "text": "Amirali Azarpira defeated his Uzbek opponent 10-0 in the 97 kg freestyle wrestling final at the 2026 Asian Games in Nagoya. He won the gold medal in this event. This was the 18th gold medal for the Iranian team and the last medal for the wrestling team in these games.",
         "time": "10:57",
         "ts": 1791025043
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Mohammad Amin Mandani, a prisoner held in Tehran's central prison, was sentenced to death and 20 years in prison by Branch 26 of the Tehran Revolutionary Court. His charges include cooperating with hostile states and gathering and conspiring against national security. The sentence was issued by Judge Iman Afshari.",
+        "time": "11:12",
+        "ts": 1791025926
       }
     ],
     "language": "en",
-    "packId": "20261003-54",
-    "sequence": 54,
+    "packId": "20261003-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:58"
+    "updatedAt": "11:13"
   },
   "verified": true
 }
