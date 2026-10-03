@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261003-105 seq=105 exp=1791223821",
+      "advancedStatus": "pack_id=20261003-106 seq=106 exp=1791224165",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:10",
+      "lastChecked": "18:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-03",
-    "expiresAt": "2026-10-05 18:10",
+    "expiresAt": "2026-10-05 18:16",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Zinedine Zidane will sit on the bench as the head coach of France for the first time tonight against Italy in the UEFA Nations League. This match marks a special return for Zidane to the stadium where he won the 1998 World Cup. All tickets for the match were sold out in less than 24 hours.",
-        "time": "18:09",
-        "ts": 1790964545
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Signs have been observed in Washington and Jerusalem. A question has been raised about when Trump will decide to restart the operation. This topic was discussed on Iran International.",
-        "time": "18:13",
-        "ts": 1790964786
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -959,14 +945,21 @@
         "text": "The England national football team defeated Croatia 7-0 in the third week of the UEFA Nations League. Harry Kane and Saka each scored twice, with additional goals from Jude Bellingham, Anthony Gordon, and Rogers. The match was held without regular spectators, and England reached a higher level after their loss to Spain.",
         "time": "18:08",
         "ts": 1791050918
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A few days after Trump's renewed warning about possible new attacks on Iran, Axios reported that next steps in the war were discussed in a meeting with senior US officials.",
+        "time": "18:15",
+        "ts": 1791051301
       }
     ],
     "language": "en",
-    "packId": "20261003-105",
-    "sequence": 105,
+    "packId": "20261003-106",
+    "sequence": 106,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:10"
+    "updatedAt": "18:16"
   },
   "verified": true
 }
