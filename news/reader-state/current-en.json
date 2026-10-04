@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-74 seq=74 exp=1791300154",
+      "advancedStatus": "pack_id=20261004-75 seq=75 exp=1791300594",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:22",
+      "lastChecked": "15:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 15:22",
+    "expiresAt": "2026-10-06 15:29",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Trump said big news about Iran is coming. The aircraft carrier Theodore Roosevelt with 10,000 Marines has moved toward the Middle East to form the largest US military buildup since the 2003 Iraq occupation.",
-        "time": "15:24",
-        "ts": 1791041090
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Arian Salimi won the gold medal in taekwondo. Hedi Hajimousaei took silver and Fatemeh Ahmadi won bronze. Nahid Kiani was eliminated from the competition.",
-        "time": "15:25",
-        "ts": 1791041127
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Nahid Kiani in the women's taekwondo under 57 kg category won against a Kazakh opponent but lost to Lin Chen from Taiwan and was eliminated from the competition. This news was reported by Alireza Modiri.",
-        "time": "15:25",
-        "ts": 1791041132
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -847,14 +826,21 @@
         "text": "Siavash Jamshidi, an athlete and taekwondo practitioner, was executed on charges of moharebeh and conspiracy against national security. He was arrested during the protests of December 2025. The judiciary media stated that his execution sentence was due to drawing a firearm and shooting at security forces.",
         "time": "15:21",
         "ts": 1791127305
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Foreign Ministry spokesperson confirmed that Tehran rejected Washington's nuclear negotiation proposal. Meanwhile, Fox News reported that the 13th Marine Regiment of the US has been deployed to the region. This unit has a long history of US ground operations.",
+        "time": "15:28",
+        "ts": 1791127739
       }
     ],
     "language": "en",
-    "packId": "20261004-74",
-    "sequence": 74,
+    "packId": "20261004-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:22"
+    "updatedAt": "15:29"
   },
   "verified": true
 }
