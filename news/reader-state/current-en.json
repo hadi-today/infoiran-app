@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-105 seq=105 exp=1791322080",
+      "advancedStatus": "pack_id=20261004-106 seq=106 exp=1791322438",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:28",
+      "lastChecked": "21:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 21:28",
+    "expiresAt": "2026-10-06 21:33",
     "items": [
       {
         "channel": "iranintl",
@@ -791,14 +791,21 @@
         "text": "Morad Vaisi stated that Israel has changed the names of 14 highways and streets in Tehran over the past year. He said Israel targets IRGC commanders and Tehran's city council is changing street names according to Israel's plan.",
         "time": "21:27",
         "ts": 1791149228
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iranian football has experienced multiple failures and defeats in recent years under Mehdi Taj's leadership. The Guinea-Bissau football team refused to play a friendly match with the Iranian national team. This issue was discussed in the Hat-Trick program with a conversation by Mazdak Mirzaei.",
+        "time": "21:33",
+        "ts": 1791149595
       }
     ],
     "language": "en",
-    "packId": "20261004-105",
-    "sequence": 105,
+    "packId": "20261004-106",
+    "sequence": 106,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:28"
+    "updatedAt": "21:33"
   },
   "verified": true
 }
