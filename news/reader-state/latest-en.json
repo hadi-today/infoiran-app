@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-89 seq=89 exp=1791308848",
+      "advancedStatus": "pack_id=20261004-90 seq=90 exp=1791308954",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:47",
+      "lastChecked": "17:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 17:47",
+    "expiresAt": "2026-10-06 17:49",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mehdi Mahdavi-Azad said in the program \"Cheshmandaz\" that Iranian officials are worried about a possible US ground attack. He added that the US is reinforcing its forces in the region. Additionally, three US aircraft carriers are scheduled to be deployed in the region starting next month.",
-        "time": "17:47",
-        "ts": 1791049624
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "Ashkan Nezamabadi said that the central bank's intervention cannot control the exchange rate in the long term. He added that the rise in the dollar price after the announcement of currency supply indicates the market does not take this policy seriously.",
         "time": "17:46",
         "ts": 1791135978
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iran-backed Houthis announced an attack on Saudi Arabia, including Aramco facilities. They described the attack as a response to the coalition attacks led by Saudi Arabia. At the same time, the head of Yemen's presidential leadership council announced the start of operations against the Houthis.",
+        "time": "17:48",
+        "ts": 1791136092
       }
     ],
     "language": "en",
-    "packId": "20261004-89",
-    "sequence": 89,
+    "packId": "20261004-90",
+    "sequence": 90,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:47"
+    "updatedAt": "17:49"
   },
   "verified": true
 }
