@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-91 seq=91 exp=1791309315",
+      "advancedStatus": "pack_id=20261004-92 seq=92 exp=1791309869",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:55",
+      "lastChecked": "18:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 17:55",
+    "expiresAt": "2026-10-06 18:04",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A student sent a video to Iran International asking compatriots to be the voice of Iranian students worldwide. This request aims to gain international support. The video was sent to Iran International.",
-        "time": "18:01",
-        "ts": 1791050518
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "The Israeli Knesset elections will be held on the 5th of Aban. Parties need to win at least 61 out of 120 seats to form a government. The main question is whether Netanyahu's supporters or his opponents will win.",
         "time": "17:54",
         "ts": 1791136463
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The head of the Khuzestan Dispute Resolution Council announced reconciliation in three execution cases with the forgiveness of the victims' families. One of these cases is related to Izeh and after 14 years has led to the pardon of the convicted individual. This was announced by the prosecutor of Izeh county.",
+        "time": "18:03",
+        "ts": 1791137006
       }
     ],
     "language": "en",
-    "packId": "20261004-91",
-    "sequence": 91,
+    "packId": "20261004-92",
+    "sequence": 92,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:55"
+    "updatedAt": "18:04"
   },
   "verified": true
 }
