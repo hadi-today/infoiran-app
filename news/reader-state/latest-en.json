@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-80 seq=80 exp=1791303353",
+      "advancedStatus": "pack_id=20261004-81 seq=81 exp=1791303793",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:15",
+      "lastChecked": "16:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 16:15",
+    "expiresAt": "2026-10-06 16:23",
     "items": [
       {
         "channel": "iranintl",
@@ -847,14 +847,21 @@
         "text": "Eyal Zamir, Chief of Staff of the Israeli Army, stated the necessity of expanding the security margin and increasing the size of the army as lessons from October 7. He said the army is preparing for surprise war on multiple fronts and the army's structure must be developed. He also emphasized neutralizing severe threats as they emerge.",
         "time": "16:14",
         "ts": 1791130499
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Darya Safaei stated at the Mehregan celebration that Iranian identity is the only way to salvation. She emphasized the importance of hope for Iran in dark times. She also referred to Prince Reza Pahlavi as the Fereydun of our time.",
+        "time": "16:22",
+        "ts": 1791130942
       }
     ],
     "language": "en",
-    "packId": "20261004-80",
-    "sequence": 80,
+    "packId": "20261004-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:15"
+    "updatedAt": "16:23"
   },
   "verified": true
 }
