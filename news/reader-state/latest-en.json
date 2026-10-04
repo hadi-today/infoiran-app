@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-67 seq=67 exp=1791296913",
+      "advancedStatus": "pack_id=20261004-68 seq=68 exp=1791297161",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:28",
+      "lastChecked": "14:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 14:28",
+    "expiresAt": "2026-10-06 14:32",
     "items": [
       {
         "channel": "harana",
@@ -826,14 +826,21 @@
         "text": "Despite an increase in the number of gold medals for Iran compared to the previous period, the total number of medals has decreased. This report compares Iran's performance in the 2026 Asian Games with the past four editions. More details are provided by Alireza Modiri.",
         "time": "14:27",
         "ts": 1791124065
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli Prime Minister stated during a visit to the naval base that the maritime space has become an international battlefield. He added that enemies aim to threaten the maritime space in the Mediterranean and ports, and they will not allow this to happen. He also announced that Israel's sixth submarine has arrived and plans to acquire more equipment.",
+        "time": "14:31",
+        "ts": 1791124316
       }
     ],
     "language": "en",
-    "packId": "20261004-67",
-    "sequence": 67,
+    "packId": "20261004-68",
+    "sequence": 68,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:28"
+    "updatedAt": "14:32"
   },
   "verified": true
 }
