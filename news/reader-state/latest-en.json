@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-09 seq=9 exp=1791256872",
+      "advancedStatus": "pack_id=20261004-10 seq=10 exp=1791257294",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:21",
+      "lastChecked": "03:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 03:21",
+    "expiresAt": "2026-10-06 03:28",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "An image of Gholamreza Jalali, head of the Passive Defense Organization, wearing a smartwatch with location tracking capabilities has been published. This image has sparked ironic reactions because he previously considered smart devices to be security risks. Mehdi Sarami Far described this as an example of managerial inefficiency in the Passive Defense Organization.",
         "time": "03:20",
         "ts": 1791084032
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Flooding on the afternoon of Saturday, October 3, in Alborz province submerged roads and displaced vehicles. Five watershed workers trapped in Bagestan were rescued by Red Crescent forces. Officials urged people to avoid unnecessary travel in mountainous areas due to ongoing rainfall.",
+        "time": "03:27",
+        "ts": 1791084447
       }
     ],
     "language": "en",
-    "packId": "20261004-09",
-    "sequence": 9,
+    "packId": "20261004-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:21"
+    "updatedAt": "03:28"
   },
   "verified": true
 }
