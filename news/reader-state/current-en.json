@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-10 seq=10 exp=1791257294",
+      "advancedStatus": "pack_id=20261004-11 seq=11 exp=1791257748",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:28",
+      "lastChecked": "03:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 03:28",
+    "expiresAt": "2026-10-06 03:35",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "Flooding on the afternoon of Saturday, October 3, in Alborz province submerged roads and displaced vehicles. Five watershed workers trapped in Bagestan were rescued by Red Crescent forces. Officials urged people to avoid unnecessary travel in mountainous areas due to ongoing rainfall.",
         "time": "03:27",
         "ts": 1791084447
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Yemen's government forces targeted Houthi positions in Sanaa and Saada early Sunday, October 3. Intense clashes continue in western Taiz, with around 200,000 displaced people reported. Yemen's Ministry of Defense has launched a general mobilization campaign.",
+        "time": "03:34",
+        "ts": 1791084897
       }
     ],
     "language": "en",
-    "packId": "20261004-10",
-    "sequence": 10,
+    "packId": "20261004-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:28"
+    "updatedAt": "03:35"
   },
   "verified": true
 }
