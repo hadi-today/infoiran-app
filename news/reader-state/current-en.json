@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-14 seq=14 exp=1791263859",
+      "advancedStatus": "pack_id=20261004-15 seq=15 exp=1791264147",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:17",
+      "lastChecked": "05:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 05:17",
+    "expiresAt": "2026-10-06 05:22",
     "items": [
       {
         "channel": "iranintl",
@@ -938,14 +938,21 @@
         "text": "Shahram Khaledi stated that the US can limit the presence of Islamic Republic representatives at UN meetings. He said if they stay beyond the allowed time, the US can expel them. This action is viewed as part of diplomatic pressure on the Islamic Republic.",
         "time": "05:16",
         "ts": 1791091013
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abbas Golrou announced that the National Security and Foreign Policy Commission is reviewing the simultaneous naval and aerial blockade of Iran. He stated that the Islamic Republic has the necessary tools to counter this. Golrou emphasized that issues should be handled prudently, especially regarding the cancellation of Iran's flights by regional countries.",
+        "time": "05:21",
+        "ts": 1791091294
       }
     ],
     "language": "en",
-    "packId": "20261004-14",
-    "sequence": 14,
+    "packId": "20261004-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:17"
+    "updatedAt": "05:22"
   },
   "verified": true
 }
