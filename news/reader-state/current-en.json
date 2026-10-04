@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-01 seq=1 exp=1791246517",
+      "advancedStatus": "pack_id=20261004-02 seq=2 exp=1791248414",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:28",
+      "lastChecked": "01:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 00:28",
+    "expiresAt": "2026-10-06 01:00",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "An Omani co-pilot accused of attacking the Flydubai pilot stated he intended to bring down the plane over Israeli territory. The suspect was transferred from Saudi Arabia to the UAE and is cooperating with investigators. Flydubai has temporarily suspended its flights to Tel Aviv.",
-        "time": "00:30",
-        "ts": 1790987409
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -952,14 +945,21 @@
         "text": "Pete Hegseth declined to disclose how many US aircraft carriers will remain in the Middle East after the arrival of the Theodore Roosevelt. He stated his duty is to provide the widest range of options to the commander-in-chief. Hegseth also mentioned that the conflict with the Islamic Republic could be resolved in various ways.",
         "time": "00:27",
         "ts": 1791073672
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Houshang Hasan-Yari said Donald Trump's threat to Tehran to choose between an \"easy path\" and a \"difficult path\" means demanding the complete surrender of the Islamic Republic. He added that the US has strengthened its military presence in the region and kept the option of attack ready. The likelihood of conflict increases if Tehran does not accept Washington's demands, and the US goal may extend beyond the nuclear program.",
+        "time": "00:59",
+        "ts": 1791075569
       }
     ],
     "language": "en",
-    "packId": "20261004-01",
-    "sequence": 1,
+    "packId": "20261004-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:28"
+    "updatedAt": "01:00"
   },
   "verified": true
 }
