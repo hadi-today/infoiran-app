@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-43 seq=43 exp=1791284292",
+      "advancedStatus": "pack_id=20261004-44 seq=44 exp=1791284820",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:58",
+      "lastChecked": "11:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 10:58",
+    "expiresAt": "2026-10-06 11:07",
     "items": [
       {
         "channel": "harana",
@@ -868,14 +868,28 @@
         "text": "Ali Khazarian described the excessive presence of the foreign minister in New York as creating a weak image of Iran. He called the diplomacy of the New York trip undignified and unwise. He also described the Strait of Hormuz as a key point in the global economy and a battlefield.",
         "time": "10:57",
         "ts": 1791111450
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Taj stated that Iran's football quota for next year is 1+3, but club results are not good and teams are deprived of home games. He mentioned the hosting problems of Esteghlal in Iraq and said these issues depend on the country's conditions. Taj also expressed concern about the impact of Russian spectators and referees on the fairness of matches.",
+        "time": "11:06",
+        "ts": 1791111970
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Instagram page of the youth league has published a video showing the latest status of the Azadi Stadium reconstruction. The groundwork and renovation of the stadium's grass are underway. This news was reported by Iran International.",
+        "time": "11:06",
+        "ts": 1791111978
       }
     ],
     "language": "en",
-    "packId": "20261004-43",
-    "sequence": 43,
+    "packId": "20261004-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:58"
+    "updatedAt": "11:07"
   },
   "verified": true
 }
