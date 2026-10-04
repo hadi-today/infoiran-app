@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-12 seq=12 exp=1791260128",
+      "advancedStatus": "pack_id=20261004-13 seq=13 exp=1791261614",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:15",
+      "lastChecked": "04:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 04:15",
+    "expiresAt": "2026-10-06 04:40",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "Kayhan newspaper accused a group of using negotiations as a cover for surrender and asking people to submit instead of supporting the country. The newspaper also accused this group of blaming their own country instead of demanding accountability from the war initiator. Kayhan justifies conceding to the aggressor under the name of rationality and expediency.",
         "time": "04:14",
         "ts": 1791087277
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Secretary-General of the Nurses' House stated that efforts to secure nurses' rights have been fruitless, and many nurses consider leaving the profession due to low salaries. The average salary of nurses is about 25 to 28 million tomans, equivalent to 100 dollars. He also mentioned the damages caused by inadequate nursing services in hospitals.",
+        "time": "04:39",
+        "ts": 1791088771
       }
     ],
     "language": "en",
-    "packId": "20261004-12",
-    "sequence": 12,
+    "packId": "20261004-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:15"
+    "updatedAt": "04:40"
   },
   "verified": true
 }
