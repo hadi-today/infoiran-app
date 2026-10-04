@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-46 seq=46 exp=1791285067",
+      "advancedStatus": "pack_id=20261004-47 seq=47 exp=1791286776",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:11",
+      "lastChecked": "11:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 11:11",
+    "expiresAt": "2026-10-06 11:39",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Mohammad Amin Mandani, a prisoner held in Tehran's central prison, was sentenced to death and 20 years in prison by Branch 26 of the Tehran Revolutionary Court. His charges include cooperating with hostile states and gathering and conspiring against national security. The sentence was issued by Judge Iman Afshari.",
-        "time": "11:12",
-        "ts": 1791025926
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Yemeni government forces carried out airstrikes on areas controlled by the Houthis in Sana'a. These attacks occurred on Saturday, 11 Mehr, and smoke was seen in the city's sky. The Houthis are supported by the Islamic Republic.",
-        "time": "11:23",
-        "ts": 1791026637
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The mother of Moein Abbaspour responded to Masoud Pezeshkian's claim that her son was a terrorist by questioning why the Islamic Republic's Martyrs Foundation approached their family to declare him a martyr. This reaction was seen in a video released on social media. The issue arose during Pezeshkian's trip to the United States.",
-        "time": "11:33",
-        "ts": 1791027208
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +868,21 @@
         "text": "The head of the Kamalan court announced an alternative sentence to imprisonment for a defendant. Instead of prison, the individual was sentenced to prepare and distribute 90 stationery packages to needy students. The sentence was executed today.",
         "time": "11:09",
         "ts": 1791112199
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The court session for Saeed Masouri's new case was held on Saturday, 11 Mehr, at the second branch of the Revolutionary Court in Karaj. Saeed Masouri, a political prisoner, was tried in this session. His lawyer stated that the defense related to the case was presented.",
+        "time": "11:38",
+        "ts": 1791113924
       }
     ],
     "language": "en",
-    "packId": "20261004-46",
-    "sequence": 46,
+    "packId": "20261004-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:11"
+    "updatedAt": "11:39"
   },
   "verified": true
 }
