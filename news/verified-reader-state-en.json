@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-79 seq=79 exp=1791302994",
+      "advancedStatus": "pack_id=20261004-80 seq=80 exp=1791303353",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:09",
+      "lastChecked": "16:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 16:09",
+    "expiresAt": "2026-10-06 16:15",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump announced the deployment of about 9,000 new US troops to the Middle East. Simultaneously, the aircraft carrier Theodore Roosevelt and the amphibious group Makin Island are moving toward the region, and the number of US naval forces in the region will exceed 20,000.",
-        "time": "16:10",
-        "ts": 1791043822
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -847,14 +840,21 @@
         "text": "Gholamali Haddad Adel stated at the funeral of Abbas Araqchi's sister that Mojtaba Khamenei sends his regards and is in good health. He added that, thank God, Mojtaba Khamenei's condition is good.",
         "time": "16:09",
         "ts": 1791130146
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Eyal Zamir, Chief of Staff of the Israeli Army, stated the necessity of expanding the security margin and increasing the size of the army as lessons from October 7. He said the army is preparing for surprise war on multiple fronts and the army's structure must be developed. He also emphasized neutralizing severe threats as they emerge.",
+        "time": "16:14",
+        "ts": 1791130499
       }
     ],
     "language": "en",
-    "packId": "20261004-79",
-    "sequence": 79,
+    "packId": "20261004-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:09"
+    "updatedAt": "16:15"
   },
   "verified": true
 }
