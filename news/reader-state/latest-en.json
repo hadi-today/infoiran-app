@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-25 seq=25 exp=1791274007",
+      "advancedStatus": "pack_id=20261004-26 seq=26 exp=1791274684",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:06",
+      "lastChecked": "08:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 08:06",
+    "expiresAt": "2026-10-06 08:18",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Fox News reported that the U.S. Treasury Department is discussing Turkey's air links with Iran and the risk of sanctions on related companies and financial institutions with senior Ankara officials.",
-        "time": "08:06",
-        "ts": 1791014814
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mehdi Hajimosavi lost in the final of the 68 kg taekwondo category at the 2026 Asian Games in Nagoya against Banlong Tobtimdang from Thailand. The match was held in two rounds. Hajimosavi won the silver medal.",
-        "time": "08:16",
-        "ts": 1791015413
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -924,14 +910,21 @@
         "text": "A citizen in Jahrom sent a video showing unhealthy and contaminated tap water. He states that after several hours of water outage, the water is now unusable. This issue was reported by Iran International.",
         "time": "08:05",
         "ts": 1791101104
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Chamran stated that he witnessed the moment of the attack on Ali Khamenei's office from the sixth floor of the council building. He added that after seeing smoke and dust, they were informed about the attack and Khamenei's death.",
+        "time": "08:17",
+        "ts": 1791101841
       }
     ],
     "language": "en",
-    "packId": "20261004-25",
-    "sequence": 25,
+    "packId": "20261004-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:06"
+    "updatedAt": "08:18"
   },
   "verified": true
 }
