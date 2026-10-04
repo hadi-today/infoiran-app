@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-113 seq=113 exp=1791325492",
+      "advancedStatus": "pack_id=20261004-114 seq=114 exp=1791325635",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:24",
+      "lastChecked": "22:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 22:24",
+    "expiresAt": "2026-10-06 22:27",
     "items": [
       {
         "channel": "iranintl",
@@ -819,14 +819,21 @@
         "text": "Mehdi Taj announced that according to the new AFC stadium standards, no stadium in Iran currently holds an A rating. Only Pars Shiraz Stadium has received a B license. This news was discussed in the Hattrick program.",
         "time": "22:24",
         "ts": 1791152644
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US has returned all B-1 bombers stationed at the RAF Fairford base in the UK to the United States. These aircraft were used in attacks on missile sites of the Islamic Republic. Several suspects were arrested near the base with possible involvement of the Islamic Republic suggested, but Tehran has denied the accusation.",
+        "time": "22:26",
+        "ts": 1791152792
       }
     ],
     "language": "en",
-    "packId": "20261004-113",
-    "sequence": 113,
+    "packId": "20261004-114",
+    "sequence": 114,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:24"
+    "updatedAt": "22:27"
   },
   "verified": true
 }
