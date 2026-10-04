@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-16 seq=16 exp=1791265093",
+      "advancedStatus": "pack_id=20261004-17 seq=17 exp=1791265536",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:38",
+      "lastChecked": "05:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 05:38",
+    "expiresAt": "2026-10-06 05:45",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,21 @@
         "text": "Nazli Sedghi, a lawyer, warned about the demolition of parts of Rajaee Shahr prison and called for independent investigations. She emphasized that the site should be preserved as its documents and physical space are part of human rights violation cases. Preserving this prison is also essential for safeguarding historical memory and transitional justice.",
         "time": "05:37",
         "ts": 1791092230
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of Iranians living in Calgary, Canada, held a rally for the 40th consecutive week in support of the people of Iran, political prisoners, and Reza Pahlavi. The organizers stated their goal is to convey the voice of the Iranian people to Canadian media and politicians. They announced that these rallies will continue until Iran is free.",
+        "time": "05:44",
+        "ts": 1791092683
       }
     ],
     "language": "en",
-    "packId": "20261004-16",
-    "sequence": 16,
+    "packId": "20261004-17",
+    "sequence": 17,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:38"
+    "updatedAt": "05:45"
   },
   "verified": true
 }
