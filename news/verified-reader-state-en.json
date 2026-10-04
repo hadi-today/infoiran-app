@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-101 seq=101 exp=1791314258",
+      "advancedStatus": "pack_id=20261004-102 seq=102 exp=1791314518",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:17",
+      "lastChecked": "19:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 19:17",
+    "expiresAt": "2026-10-06 19:21",
     "items": [
       {
         "channel": "iranintl",
@@ -833,14 +833,21 @@
         "text": "On Sunday, October 4th, at least eight protests were held by steel retirees in Isfahan, merchants of Jannat Bazaar and citizens protesting marriage laws in Tehran, and social security retirees in five cities. Additionally, a sit-in by students of Khajeh Nasir al-Din Tusi University protesting disciplinary rulings was reported.",
         "time": "19:16",
         "ts": 1791141413
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Persepolis club submitted new documents to the Appeals Committee emphasizing Yaser Asani's illegal play for Esteghlal. Persepolis referred to detailed negotiations with Asani after his contract termination with Esteghlal. The Football Federation's Disciplinary Committee had previously declared Asani an active and authorized player.",
+        "time": "19:21",
+        "ts": 1791141663
       }
     ],
     "language": "en",
-    "packId": "20261004-101",
-    "sequence": 101,
+    "packId": "20261004-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:17"
+    "updatedAt": "19:21"
   },
   "verified": true
 }
