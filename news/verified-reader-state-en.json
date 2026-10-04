@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-11 seq=11 exp=1791257748",
+      "advancedStatus": "pack_id=20261004-12 seq=12 exp=1791260128",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:35",
+      "lastChecked": "04:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 03:35",
+    "expiresAt": "2026-10-06 04:15",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Senior members of Donald Trump's administration held an unannounced meeting to discuss next steps in the war with the Islamic Republic and the Saudi conflict with the Houthis. The meeting was chaired by JD Vance and attended by senior officials. Trump is considering resuming military operations against the Islamic Republic, and Saudi Arabia has requested US participation in attacks against the Houthis.",
-        "time": "03:49",
-        "ts": 1790999368
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "Yemen's government forces targeted Houthi positions in Sanaa and Saada early Sunday, October 3. Intense clashes continue in western Taiz, with around 200,000 displaced people reported. Yemen's Ministry of Defense has launched a general mobilization campaign.",
         "time": "03:34",
         "ts": 1791084897
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Kayhan newspaper accused a group of using negotiations as a cover for surrender and asking people to submit instead of supporting the country. The newspaper also accused this group of blaming their own country instead of demanding accountability from the war initiator. Kayhan justifies conceding to the aggressor under the name of rationality and expediency.",
+        "time": "04:14",
+        "ts": 1791087277
       }
     ],
     "language": "en",
-    "packId": "20261004-11",
-    "sequence": 11,
+    "packId": "20261004-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:35"
+    "updatedAt": "04:15"
   },
   "verified": true
 }
