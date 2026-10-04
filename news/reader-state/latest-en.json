@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-96 seq=96 exp=1791312532",
+      "advancedStatus": "pack_id=20261004-97 seq=97 exp=1791312927",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:48",
+      "lastChecked": "18:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 18:48",
+    "expiresAt": "2026-10-06 18:55",
     "items": [
       {
         "channel": "harana",
@@ -819,14 +819,21 @@
         "text": "Two people died while repairing a water motor and digging a well in Tuyserkan and Nahavand. Four workers were injured in Eshtehard, Kermanshah, and Ilam. Additionally, a fire at the Samen coal factory caused one injury.",
         "time": "18:48",
         "ts": 1791139680
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abdolhossein Hemmati, secretary of the Energy Commission of the Parliament, stated that increased insecurity in the Strait of Hormuz raises the risk in the oil market and may lead to higher global oil prices. He said efforts are being made to push the price above $110 and that the regional conditions allow for price increases. Hemmati also warned that if Iran cannot export its oil, no other country will be allowed to export through this route.",
+        "time": "18:54",
+        "ts": 1791140065
       }
     ],
     "language": "en",
-    "packId": "20261004-96",
-    "sequence": 96,
+    "packId": "20261004-97",
+    "sequence": 97,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:48"
+    "updatedAt": "18:55"
   },
   "verified": true
 }
