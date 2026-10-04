@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-110 seq=110 exp=1791324770",
+      "advancedStatus": "pack_id=20261004-111 seq=111 exp=1791324990",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:12",
+      "lastChecked": "22:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 22:12",
+    "expiresAt": "2026-10-06 22:16",
     "items": [
       {
         "channel": "iranintl",
@@ -812,14 +812,21 @@
         "text": "Morad Vaisi stated that six people in Tehran are identified as members of the decision-making committee on negotiation and war with the US. The first three lean towards agreement with the US, while the latter three prefer continued confrontation. All of them face public anger from protesters.",
         "time": "22:12",
         "ts": 1791151930
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US stated after the Islamic Republic delegation's trip to the UN that Tehran did not offer a new proposal to reduce tensions. The US has also strengthened its military presence in Israel and the region. The main goal of the US is to prevent the Islamic Republic from obtaining nuclear weapons.",
+        "time": "22:15",
+        "ts": 1791152147
       }
     ],
     "language": "en",
-    "packId": "20261004-110",
-    "sequence": 110,
+    "packId": "20261004-111",
+    "sequence": 111,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:12"
+    "updatedAt": "22:16"
   },
   "verified": true
 }
