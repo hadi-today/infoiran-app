@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261004-53 seq=53 exp=1791289823",
+      "advancedStatus": "pack_id=20261004-54 seq=54 exp=1791290112",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:30",
+      "lastChecked": "12:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-04",
-    "expiresAt": "2026-10-06 12:30",
+    "expiresAt": "2026-10-06 12:35",
     "items": [
       {
         "channel": "iranintl",
@@ -882,14 +882,21 @@
         "text": "The price of the US dollar reached 273,100 tomans on Sunday, 12 Mehr, showing an increase compared to the previous day. The prices of the euro, pound, dirham, yuan, and Turkish lira have also risen. In the gold market, the price of 18-carat gold per gram and the Emami coin have increased as well.",
         "time": "12:29",
         "ts": 1791116980
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Three Baha'i citizens in Shiraz have been detained for 21 days without access to a lawyer or contact with their families. They have had only one brief meeting with their families and have not been allowed further contact or visits since then. Concerns have increased about their physical and mental health, especially due to one detainee's underlying respiratory condition.",
+        "time": "12:34",
+        "ts": 1791117263
       }
     ],
     "language": "en",
-    "packId": "20261004-53",
-    "sequence": 53,
+    "packId": "20261004-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:30"
+    "updatedAt": "12:35"
   },
   "verified": true
 }
