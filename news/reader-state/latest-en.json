@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-68 seq=68 exp=1791376863",
+      "advancedStatus": "pack_id=20261005-69 seq=69 exp=1791377474",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:41",
+      "lastChecked": "12:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 12:41",
+    "expiresAt": "2026-10-07 12:51",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "Mizan news agency reported the execution of Alireza Sepahi in Dastgerd prison in Isfahan on the early morning of October 4, 2026. Alireza Sepahi married his fiancée by phone before the execution and is the fourth detainee from the Dey 404 protests to be executed. These executions took place after a statement by 46 countries condemning executions in Iran.",
         "time": "12:38",
         "ts": 1791203918
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A court session is being held in London's Royal Woolwich Court for three Iranians accused of cooperating with the Islamic Republic's intelligence service. The charges include planning violence against Iran International journalists. More details are provided in an interview with Tajeddin Soroush.",
+        "time": "12:50",
+        "ts": 1791204630
       }
     ],
     "language": "en",
-    "packId": "20261005-68",
-    "sequence": 68,
+    "packId": "20261005-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:41"
+    "updatedAt": "12:51"
   },
   "verified": true
 }
