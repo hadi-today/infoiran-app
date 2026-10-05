@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-18 seq=18 exp=1791354639",
+      "advancedStatus": "pack_id=20261005-19 seq=19 exp=1791355211",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:30",
+      "lastChecked": "06:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 06:30",
+    "expiresAt": "2026-10-07 06:40",
     "items": [
       {
         "channel": "harana",
@@ -805,14 +805,21 @@
         "text": "Hamid Pourmohammadi, head of the Planning and Budget Organization, stated that the government currently has no plans to increase salaries of employees and retirees again. This month's priorities include reopening schools and universities, paying wheat farmers' claims, and people's livelihood. Also, the amendment bill for the seventh development plan is expected to be submitted to the parliament in October.",
         "time": "06:29",
         "ts": 1791181796
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows the moment of demolition of the watchtower of Gohardasht prison in Alborz province. The closure process of this prison began in August 2023 with the transfer of prisoners to Qezel Hesar prison. This action is part of the closure of Rajai Shahr prison.",
+        "time": "06:39",
+        "ts": 1791182361
       }
     ],
     "language": "en",
-    "packId": "20261005-18",
-    "sequence": 18,
+    "packId": "20261005-19",
+    "sequence": 19,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:30"
+    "updatedAt": "06:40"
   },
   "verified": true
 }
