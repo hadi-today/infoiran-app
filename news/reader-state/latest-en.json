@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-02 seq=2 exp=1791409482",
+      "advancedStatus": "pack_id=20261005-03 seq=3 exp=1791409645",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:44",
+      "lastChecked": "21:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 21:44",
+    "expiresAt": "2026-10-07 21:47",
     "items": [
       {
         "channel": "harana",
@@ -28,14 +28,21 @@
         "text": "Morad Vaisi, a senior analyst at Iran International, said that the Islamic Republic's military power has mainly relied on four areas: proxy groups, drones, missiles, and naval forces using fast boats. He added that the Islamic Republic has suffered serious damage in three areas and only the missile domain remains, but not as before. He emphasized that the Islamic Republic has lost many of its cards.",
         "time": "21:44",
         "ts": 1791236664
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The head of Iran's Central Bank attributed the currency crisis and rising dollar prices to an economic war. He stated that the US and Israel have targeted the currency market. These remarks came following the increase in the dollar price.",
+        "time": "21:47",
+        "ts": 1791236827
       }
     ],
     "language": "en",
-    "packId": "20261005-02",
-    "sequence": 2,
+    "packId": "20261005-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:44"
+    "updatedAt": "21:47"
   },
   "verified": true
 }
