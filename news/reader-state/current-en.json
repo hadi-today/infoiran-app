@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-21 seq=21 exp=1791356562",
+      "advancedStatus": "pack_id=20261005-22 seq=22 exp=1791357142",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:02",
+      "lastChecked": "07:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 07:02",
+    "expiresAt": "2026-10-07 07:12",
     "items": [
       {
         "channel": "harana",
@@ -826,14 +826,21 @@
         "text": "The National Security Commission of the Parliament has passed a law to suspend Iran's cooperation with the International Atomic Energy Agency until the security of nuclear sites and scientists is ensured. This action follows threats and damages to nuclear centers and the martyrdom of scientists. The parliament member emphasized that the claims by the US and Europe regarding Iran's cooperation are not justifiable.",
         "time": "07:01",
         "ts": 1791183715
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Football Federation's Appeal Committee rejected the protests of Sepahan and Mes Shahrbabak clubs against Yaser Asani's presence in Esteghlal's lineup. The disciplinary committee's ruling acquitting Esteghlal and this player was confirmed. Persepolis's complaint against Esteghlal and Asani remains open in the Appeal Committee.",
+        "time": "07:11",
+        "ts": 1791184298
       }
     ],
     "language": "en",
-    "packId": "20261005-21",
-    "sequence": 21,
+    "packId": "20261005-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:02"
+    "updatedAt": "07:12"
   },
   "verified": true
 }
