@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-125 seq=125 exp=1791404457",
+      "advancedStatus": "pack_id=20261005-126 seq=126 exp=1791404831",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:20",
+      "lastChecked": "20:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 20:20",
+    "expiresAt": "2026-10-07 20:27",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -830,13 +830,19 @@
         "text": "یک جبهه جدید جنگ علیه تهران در یمن شکل گرفته است. این موضوع نشان‌دهنده گسترش تنش‌ها در منطقه است. جزئیات بیشتری در متن ارائه نشده است.",
         "time": "20:20",
         "ts": 1791231602
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "وزیر نفت برکنار شده است. حکومت برای شرایط اضطراری آرایش ویژه‌ای گرفته است. این موضوع در برنامه‌ای با مهدی مهدوی‌آزاد مطرح شده است.",
+        "time": "20:26",
+        "ts": 1791231968
       }
     ],
-    "packId": "20261005-125",
-    "sequence": 125,
+    "packId": "20261005-126",
+    "sequence": 126,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "20:20"
+    "updatedAt": "20:27"
   },
   "verified": true
 }
