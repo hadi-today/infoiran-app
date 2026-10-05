@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-64 seq=64 exp=1791375462",
+      "advancedStatus": "pack_id=20261005-66 seq=66 exp=1791375813",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:17",
+      "lastChecked": "12:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 12:17",
+    "expiresAt": "2026-10-07 12:23",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,28 @@
         "text": "The official judiciary news agency reported the execution of Alireza Sepahi and Alireza Raeisi in Isfahan Central Prison. One night before the execution, Alireza Sepahi married his fiancée, Mahshad Keshani, in prison. More details were provided in an interview with Reza Akvanian.",
         "time": "12:16",
         "ts": 1791202608
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Raeisi, detained in December, was executed on Monday, October 4. His uncle reacted to the execution by releasing a video. This execution occurred after the disappearance and discovery of Ramin Raeisi's body.",
+        "time": "12:18",
+        "ts": 1791202717
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Prince Reza Pahlavi's office announced that the Islamic Republic executed Alireza Raeisi and Alireza Sepahi, detainees of the National Lion and Sun Revolution. Alireza Sepahi married Mahshad Keshani in prison, and a heart attack delayed the execution for a while. The office warned that government killings will not go unanswered and that those responsible will be held accountable.",
+        "time": "12:20",
+        "ts": 1791202808
       }
     ],
     "language": "en",
-    "packId": "20261005-64",
-    "sequence": 64,
+    "packId": "20261005-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:17"
+    "updatedAt": "12:23"
   },
   "verified": true
 }
