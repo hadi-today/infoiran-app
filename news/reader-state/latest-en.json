@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-90 seq=90 exp=1791386655",
+      "advancedStatus": "pack_id=20261005-91 seq=91 exp=1791386796",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:24",
+      "lastChecked": "15:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 15:24",
+    "expiresAt": "2026-10-07 15:26",
     "items": [
       {
         "channel": "iranintl",
@@ -931,14 +931,21 @@
         "text": "JD Vance, the US Vice President, stated that the US is reviewing its procedures following the Flydubai incident. He mentioned that no conclusive evidence has been found linking the Islamic Republic to the incident. These remarks were made on Monday, October 5.",
         "time": "15:23",
         "ts": 1791213799
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran International reported that the dismissal of the oil minister is a step to continue the main oil sales corruption network in the IRGC intelligence. This network, coordinated by a senior IRGC commander and his son, has connected to the Russian banking system. This information was published exclusively.",
+        "time": "15:25",
+        "ts": 1791213945
       }
     ],
     "language": "en",
-    "packId": "20261005-90",
-    "sequence": 90,
+    "packId": "20261005-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:24"
+    "updatedAt": "15:26"
   },
   "verified": true
 }
