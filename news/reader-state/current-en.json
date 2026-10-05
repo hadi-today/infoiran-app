@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-78 seq=78 exp=1791382330",
+      "advancedStatus": "pack_id=20261005-79 seq=79 exp=1791382590",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:12",
+      "lastChecked": "14:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 14:12",
+    "expiresAt": "2026-10-07 14:16",
     "items": [
       {
         "channel": "iranintl",
@@ -903,14 +903,21 @@
         "text": "Abbas Mousavi stated that tensions are increasing and all sectors of the country must be on alert. He called for full defensive readiness and strengthening the country's war posture. Mousavi also emphasized that the Islamic Republic insists on its conditions in negotiations with the United States.",
         "time": "14:11",
         "ts": 1791209475
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Zakani, the mayor of Tehran, unveiled the \"Zero Inflation\" plan aimed at keeping the prices of some goods fixed for six months. This plan was introduced amid record highs in the dollar price and increasing inflation pressure on people's daily lives. Farshad Motaghi analyzed this plan and its gap with people's real life in \"Peyvast.\"",
+        "time": "14:15",
+        "ts": 1791209727
       }
     ],
     "language": "en",
-    "packId": "20261005-78",
-    "sequence": 78,
+    "packId": "20261005-79",
+    "sequence": 79,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:12"
+    "updatedAt": "14:16"
   },
   "verified": true
 }
