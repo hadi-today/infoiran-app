@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-10 seq=10 exp=1791349651",
+      "advancedStatus": "pack_id=20261005-11 seq=11 exp=1791351057",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:07",
+      "lastChecked": "05:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 05:07",
+    "expiresAt": "2026-10-07 05:30",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Shahram Khaledi stated that the US can limit the presence of Islamic Republic representatives at UN meetings. He said if they stay beyond the allowed time, the US can expel them. This action is viewed as part of diplomatic pressure on the Islamic Republic.",
-        "time": "05:16",
-        "ts": 1791091013
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Abbas Golrou announced that the National Security and Foreign Policy Commission is reviewing the simultaneous naval and aerial blockade of Iran. He stated that the Islamic Republic has the necessary tools to counter this. Golrou emphasized that issues should be handled prudently, especially regarding the cancellation of Iran's flights by regional countries.",
-        "time": "05:21",
-        "ts": 1791091294
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -798,14 +784,21 @@
         "text": "The Australian government has extended financial sanctions related to counter-terrorism financing against four members of the IRGC. These individuals have been involved in attacks and killings outside Iran. The sanctioned individuals are Abdolreza Shahlaei, Mansour Arbabseir, Ali Gholam Shakouri, and Hamed Abdollahi.",
         "time": "05:06",
         "ts": 1791176806
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Bayat, a member of parliament, described Iran's armed forces' capabilities as unparalleled and stated that enemies have repeatedly experienced the country's defensive power. He added that enemy threats and Trump's boasts have no effect on the Iranian people's resolve. These statements may continue but will not change Iran's defensive realities.",
+        "time": "05:30",
+        "ts": 1791178209
       }
     ],
     "language": "en",
-    "packId": "20261005-10",
-    "sequence": 10,
+    "packId": "20261005-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:07"
+    "updatedAt": "05:30"
   },
   "verified": true
 }
