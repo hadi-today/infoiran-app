@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-23 seq=23 exp=1791357850",
+      "advancedStatus": "pack_id=20261005-24 seq=24 exp=1791358576",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:24",
+      "lastChecked": "07:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 07:24",
+    "expiresAt": "2026-10-07 07:36",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A young woman in Tehran was set on fire by her husband and died from severe burns. The husband fled the scene and is being pursued by the police.",
-        "time": "07:35",
-        "ts": 1791099310
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -840,14 +833,21 @@
         "text": "Mehdi Moslehi referred to the Kepler report stating that Middle East crude oil exports have risen above pre-war levels. Exporting countries and buyers have managed to maintain the flow of oil trade. The Islamic Republic has not been able to realize its claim to stop regional oil exports.",
         "time": "07:23",
         "ts": 1791184993
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Videos sent to Iran International show the poor condition of the boys' dormitory at the University of Zabol. Students have reported broken furniture and lockers, and the dormitory is dirty.",
+        "time": "07:35",
+        "ts": 1791185719
       }
     ],
     "language": "en",
-    "packId": "20261005-23",
-    "sequence": 23,
+    "packId": "20261005-24",
+    "sequence": 24,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:24"
+    "updatedAt": "07:36"
   },
   "verified": true
 }
