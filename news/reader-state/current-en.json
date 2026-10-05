@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-50 seq=50 exp=1791368622",
+      "advancedStatus": "pack_id=20261005-54 seq=54 exp=1791370362",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:23",
+      "lastChecked": "10:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 10:23",
+    "expiresAt": "2026-10-07 10:52",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The body of a newborn was found on the Siranband road near Buin Bridge in Baneh county. The identity of the newborn and the cause of death have not been determined yet. Investigations are ongoing.",
-        "time": "10:27",
-        "ts": 1791109652
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Akraminia, the army spokesperson, stated that the Islamic Republic Army intends to increase the speed and range of its missiles. He described the missiles used during the war as very good and said the enemy is located up to a thousand kilometers from Iran's coasts. He also added that good progress has been made in missile speed and targeting accuracy.",
-        "time": "10:31",
-        "ts": 1791109870
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +875,42 @@
         "text": "In an armed attack on the police patrol at Nokjoo station on the Bampur to Iranshahr route, two police officers were killed and one was injured. This incident was reported by Mahdi Nakhl Ahmadi, a journalist and political activist.",
         "time": "10:21",
         "ts": 1791195712
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The winners of the 2026 Nobel Prize in Physiology or Medicine were announced in Stockholm. The prize was awarded to Karl Deisseroth, Peter Hegemann, and Georg Nagel for discovering light-controlled ion channels and developing optogenetics. This method allows scientists to control the activity of nerve cells in the living brain using light.",
+        "time": "10:27",
+        "ts": 1791196028
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen in Tehran sent a video showing the slogan \"Long live the Shah\" written on a wall. He addresses supporters of the government, saying the slogan was erased but rewritten. This video was sent to Iran International.",
+        "time": "10:38",
+        "ts": 1791196681
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mai Sato, the UN special rapporteur on human rights in Iran, expressed concern about the execution sentence of Alireza Sepahi, a protester from December 2025. She criticized the torture of Sepahi's family and the fairness of the trial. The Islamic Republic's judiciary has not yet commented on the execution.",
+        "time": "10:42",
+        "ts": 1791196938
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The death sentences of Alireza Sepahi and Alireza Raeisi, two detainees from the December 2025 protests, were carried out on Monday morning, October 4. Previously, two other protesters in the Ali Khani Square case in Isfahan were executed. Mahshad Keshani, Alireza Sepahi's wife, was sentenced to five years in prison.",
+        "time": "10:50",
+        "ts": 1791197446
       }
     ],
     "language": "en",
-    "packId": "20261005-50",
-    "sequence": 50,
+    "packId": "20261005-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:23"
+    "updatedAt": "10:52"
   },
   "verified": true
 }
