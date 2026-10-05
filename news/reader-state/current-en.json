@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-69 seq=69 exp=1791377474",
+      "advancedStatus": "pack_id=20261005-70 seq=70 exp=1791377847",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:51",
+      "lastChecked": "12:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 12:51",
+    "expiresAt": "2026-10-07 12:57",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "A court session is being held in London's Royal Woolwich Court for three Iranians accused of cooperating with the Islamic Republic's intelligence service. The charges include planning violence against Iran International journalists. More details are provided in an interview with Tajeddin Soroush.",
         "time": "12:50",
         "ts": 1791204630
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The judiciary of the Islamic Republic executed Alireza Sepahi and Alireza Raeisi. Social media users tried to save them by widely sharing their images and names. News of a phone wedding between Alireza Sepahi and his fiancée Mahshad Keshani in prison was also circulated.",
+        "time": "12:56",
+        "ts": 1791204999
       }
     ],
     "language": "en",
-    "packId": "20261005-69",
-    "sequence": 69,
+    "packId": "20261005-70",
+    "sequence": 70,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:51"
+    "updatedAt": "12:57"
   },
   "verified": true
 }
