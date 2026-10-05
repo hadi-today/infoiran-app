@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-08 seq=8 exp=1791412165",
+      "advancedStatus": "pack_id=20261005-09 seq=9 exp=1791412833",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:29",
+      "lastChecked": "22:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 22:29",
+    "expiresAt": "2026-10-07 22:40",
     "items": [
       {
         "channel": "harana",
@@ -70,14 +70,21 @@
         "text": "A program with Kambiz Hosseini has released its audio version. The topic of the program is the execution of Alireza Sepahi and Alireza Raeisi. This news was published by Iran International.",
         "time": "22:29",
         "ts": 1791239342
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "On the third anniversary of October 7, Benjamin Netanyahu said that attack was the beginning of the Islamic Republic's comprehensive plan to destroy Israel through proxy forces, missile barrages, and nuclear efforts, and stressed that Tehran will eventually be destroyed.",
+        "time": "22:40",
+        "ts": 1791240008
       }
     ],
     "language": "en",
-    "packId": "20261005-08",
-    "sequence": 8,
+    "packId": "20261005-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:29"
+    "updatedAt": "22:40"
   },
   "verified": true
 }
