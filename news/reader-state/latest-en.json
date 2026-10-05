@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-124 seq=124 exp=1791403896",
+      "advancedStatus": "pack_id=20261005-125 seq=125 exp=1791404457",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:11",
+      "lastChecked": "20:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 20:11",
+    "expiresAt": "2026-10-07 20:20",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "Yemeni government forces announced a strategic offensive to retake Sanaa from the Houthis. These forces are supported by Saudi Arabia. They have also regained control of parts of the Bab al-Mandab Strait from the Houthis.",
         "time": "20:09",
         "ts": 1791230971
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A new front of war against Tehran has emerged in Yemen. This indicates an expansion of tensions in the region. No further details are provided in the text.",
+        "time": "20:20",
+        "ts": 1791231602
       }
     ],
     "language": "en",
-    "packId": "20261005-124",
-    "sequence": 124,
+    "packId": "20261005-125",
+    "sequence": 125,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:11"
+    "updatedAt": "20:20"
   },
   "verified": true
 }
