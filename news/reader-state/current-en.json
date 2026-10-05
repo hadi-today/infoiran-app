@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-83 seq=83 exp=1791383792",
+      "advancedStatus": "pack_id=20261005-84 seq=84 exp=1791385077",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:36",
+      "lastChecked": "14:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 14:36",
+    "expiresAt": "2026-10-07 14:57",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Bayan Salehian, a doctor residing in Urmia, was arrested by security forces eight days ago and transferred to Urmia prison. She remains in detention and legal uncertainty. Her arrest is reported to be related to her participation and statements in a virtual conversation.",
-        "time": "14:47",
-        "ts": 1791125226
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Israeli website Ynet reported that Hammam Al-Hammami, the Omani co-pilot suspected in the FlyDubai case, is expected to be sentenced to death after investigations in the UAE. The investigation focuses on Al-Hammami's alleged intent to hijack the plane and attack tall towers in Israel. Mossad agents and aviation experts from Israel, along with representatives from Saudi Arabia, Oman, and the US, are involved in the investigation.",
-        "time": "14:55",
-        "ts": 1791125744
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +903,21 @@
         "text": "A video shows a kilometer-long line of vehicles in Zahedan waiting for fuel. The footage is from the evening of Sunday, October 4. The images were released by Iran International.",
         "time": "14:35",
         "ts": 1791210938
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The governor of Faryab reported the death of a father and son due to a mine collapse. The incident occurred at 11 AM on Tuesday while working with a loader and excavator. Heavy rain and adverse weather conditions slowed down rescue operations.",
+        "time": "14:57",
+        "ts": 1791212221
       }
     ],
     "language": "en",
-    "packId": "20261005-83",
-    "sequence": 83,
+    "packId": "20261005-84",
+    "sequence": 84,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:36"
+    "updatedAt": "14:57"
   },
   "verified": true
 }
