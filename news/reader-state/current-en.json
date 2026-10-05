@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-87 seq=87 exp=1791385655",
+      "advancedStatus": "pack_id=20261005-88 seq=88 exp=1791385975",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:07",
+      "lastChecked": "15:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 15:07",
+    "expiresAt": "2026-10-07 15:12",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "Daniel Medvedev, the Russian tennis player, was disqualified from the China Open semifinal after hitting a ball that struck a spectator's eye. The incident occurred while Medvedev was losing, and the ball hit the left eye of a front-row spectator. Novak Djokovic expressed regret over the incident and said Medvedev did not intend to cause harm.",
         "time": "15:06",
         "ts": 1791212770
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Asian Football Confederation has requested additional documents regarding Yaser Asani's contract from the Iranian Football Federation. This request follows complaints from several clubs about Asani's contract status. AFC has also inquired about the notice sent by Asani and his communications with Esteghlal.",
+        "time": "15:12",
+        "ts": 1791213126
       }
     ],
     "language": "en",
-    "packId": "20261005-87",
-    "sequence": 87,
+    "packId": "20261005-88",
+    "sequence": 88,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:07"
+    "updatedAt": "15:12"
   },
   "verified": true
 }
