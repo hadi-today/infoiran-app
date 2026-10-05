@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-05 seq=5 exp=1791411597",
+      "advancedStatus": "pack_id=20261005-06 seq=6 exp=1791411771",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:19",
+      "lastChecked": "22:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 22:19",
+    "expiresAt": "2026-10-07 22:22",
     "items": [
       {
         "channel": "harana",
@@ -49,14 +49,21 @@
         "text": "Morad Vaisi, a senior analyst at Iran International, stated that the appointment of Mehrdad Akhlaghi as the new defense minister indicates a greater focus by the Islamic Republic on developing stronger and longer-range missiles. He said the Ministry of Defense will now resemble more of a missile ministry. This decision reflects the overarching policy of the remnants of the Islamic Republic.",
         "time": "22:19",
         "ts": 1791238775
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The FBI arrested a suspect cooperating with China at Los Angeles airport. The individual is accused of surveilling the son of the President of Taiwan. He was detained before boarding a flight to Shanghai on charges of acting as an unregistered foreign agent.",
+        "time": "22:22",
+        "ts": 1791238949
       }
     ],
     "language": "en",
-    "packId": "20261005-05",
-    "sequence": 5,
+    "packId": "20261005-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:19"
+    "updatedAt": "22:22"
   },
   "verified": true
 }
