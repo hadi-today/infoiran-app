@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-03 seq=3 exp=1791409645",
+      "advancedStatus": "pack_id=20261005-04 seq=4 exp=1791410447",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:47",
+      "lastChecked": "22:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 21:47",
+    "expiresAt": "2026-10-07 22:00",
     "items": [
       {
         "channel": "harana",
@@ -35,14 +35,21 @@
         "text": "The head of Iran's Central Bank attributed the currency crisis and rising dollar prices to an economic war. He stated that the US and Israel have targeted the currency market. These remarks came following the increase in the dollar price.",
         "time": "21:47",
         "ts": 1791236827
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Vaisi, a senior analyst at Iran International, stated that the missile capability of the Islamic Republic for massive attacks on Israel has decreased. After heavy bombings by the US and Israel, the missile capability of the Islamic Republic has significantly declined. Vaisi said the Islamic Republic is no longer able to launch 150 to 200 missiles simultaneously.",
+        "time": "22:00",
+        "ts": 1791237626
       }
     ],
     "language": "en",
-    "packId": "20261005-03",
-    "sequence": 3,
+    "packId": "20261005-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:47"
+    "updatedAt": "22:00"
   },
   "verified": true
 }
