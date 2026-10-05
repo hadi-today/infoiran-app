@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-82 seq=82 exp=1791383594",
+      "advancedStatus": "pack_id=20261005-83 seq=83 exp=1791383792",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:33",
+      "lastChecked": "14:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 14:33",
+    "expiresAt": "2026-10-07 14:36",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Israeli Prime Minister stated during a visit to the naval base that the maritime space has become an international battlefield. He added that enemies aim to threaten the maritime space in the Mediterranean and ports, and they will not allow this to happen. He also announced that Israel's sixth submarine has arrived and plans to acquire more equipment.",
-        "time": "14:31",
-        "ts": 1791124316
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A video circulated on social media shows a protester putting up a poster with the image of Prince Reza Pahlavi on the door of a Basij base in Sabzevar. This action has received attention online. The event took place in Sabzevar.",
-        "time": "14:35",
-        "ts": 1791124523
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -924,14 +910,21 @@
         "text": "The UK Maritime Trade Operations center received a report about an incident 11 nautical miles north of Khasab, Oman. A tanker entering the Strait of Hormuz was called by the IRGC and ordered to turn back. It was also reported that a liquefied petroleum gas tanker was hit by an unknown projectile.",
         "time": "14:31",
         "ts": 1791210660
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows a kilometer-long line of vehicles in Zahedan waiting for fuel. The footage is from the evening of Sunday, October 4. The images were released by Iran International.",
+        "time": "14:35",
+        "ts": 1791210938
       }
     ],
     "language": "en",
-    "packId": "20261005-82",
-    "sequence": 82,
+    "packId": "20261005-83",
+    "sequence": 83,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:33"
+    "updatedAt": "14:36"
   },
   "verified": true
 }
