@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-05 seq=5 exp=1791342241",
+      "advancedStatus": "pack_id=20261005-06 seq=6 exp=1791342445",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:04",
+      "lastChecked": "03:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 03:04",
+    "expiresAt": "2026-10-07 03:07",
     "items": [
       {
         "channel": "iranintl",
@@ -812,14 +812,21 @@
         "text": "Alireza Namvar Haghighi stated that the deployment of about three thousand American troops in Israel and reports of sending more forces and equipment indicate that the US is preparing for a new round of conflict with the Islamic Republic. He added that diplomatic negotiations have not succeeded and the Islamic Republic's conditions for reopening the Strait of Hormuz have not been accepted. Namvar Haghighi emphasized that without Tehran's strategic review, the Islamic Republic's diplomacy will not succeed.",
         "time": "03:03",
         "ts": 1791169397
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Pegah Bani Hashemi spoke about the phone marriage of Alireza Sepahi and Mahshad Keshani. She said the Islamic Republic accelerates executions in critical conditions. International pressure to stop the execution of protesters is important.",
+        "time": "03:06",
+        "ts": 1791169599
       }
     ],
     "language": "en",
-    "packId": "20261005-05",
-    "sequence": 5,
+    "packId": "20261005-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:04"
+    "updatedAt": "03:07"
   },
   "verified": true
 }
