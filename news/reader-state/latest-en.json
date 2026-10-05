@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-58 seq=58 exp=1791371322",
+      "advancedStatus": "pack_id=20261005-59 seq=59 exp=1791371518",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:08",
+      "lastChecked": "11:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 11:08",
+    "expiresAt": "2026-10-07 11:11",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The head of the Kamalan court announced an alternative sentence to imprisonment for a defendant. Instead of prison, the individual was sentenced to prepare and distribute 90 stationery packages to needy students. The sentence was executed today.",
-        "time": "11:09",
-        "ts": 1791112199
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -910,14 +903,21 @@
         "text": "Hassan Qashqavi, spokesperson for the National Security Commission of the Parliament, stated that the security of Iran and its neighbors is interconnected. He warned that if infrastructure is attacked, Iran will respond in kind. Qashqavi also emphasized that people are justified in defending the homeland and that the enemy aims to destroy Iran.",
         "time": "11:07",
         "ts": 1791198475
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ruhollah Rahimpour noted the increase of US military forces in Israel indicates serious preparation for renewed conflict. He added that the likelihood of conflict has risen due to stalled negotiations. He also stated that the main issue for the Islamic Republic is its resilience in case of war, which he considers low.",
+        "time": "11:10",
+        "ts": 1791198655
       }
     ],
     "language": "en",
-    "packId": "20261005-58",
-    "sequence": 58,
+    "packId": "20261005-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:08"
+    "updatedAt": "11:11"
   },
   "verified": true
 }
