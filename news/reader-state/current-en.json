@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-91 seq=91 exp=1791386796",
+      "advancedStatus": "pack_id=20261005-92 seq=92 exp=1791387202",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:26",
+      "lastChecked": "15:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 15:26",
+    "expiresAt": "2026-10-07 15:33",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Foreign Ministry spokesperson confirmed that Tehran rejected Washington's nuclear negotiation proposal. Meanwhile, Fox News reported that the 13th Marine Regiment of the US has been deployed to the region. This unit has a long history of US ground operations.",
-        "time": "15:28",
-        "ts": 1791127739
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A video shows a protester putting up a poster of Prince Reza Pahlavi on a wall in Khorramabad. The video was received by Iran International. This action took place during protests.",
-        "time": "15:31",
-        "ts": 1791127911
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -938,14 +924,21 @@
         "text": "Iran International reported that the dismissal of the oil minister is a step to continue the main oil sales corruption network in the IRGC intelligence. This network, coordinated by a senior IRGC commander and his son, has connected to the Russian banking system. This information was published exclusively.",
         "time": "15:25",
         "ts": 1791213945
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video sent to Iran International shows protesters in Semnan writing the slogan \"Long live the Shah\" on city walls. This action took place during protests. No further details have been provided.",
+        "time": "15:32",
+        "ts": 1791214347
       }
     ],
     "language": "en",
-    "packId": "20261005-91",
-    "sequence": 91,
+    "packId": "20261005-92",
+    "sequence": 92,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:26"
+    "updatedAt": "15:33"
   },
   "verified": true
 }
