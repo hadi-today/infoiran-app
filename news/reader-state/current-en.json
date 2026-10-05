@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-22 seq=22 exp=1791357142",
+      "advancedStatus": "pack_id=20261005-23 seq=23 exp=1791357850",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:12",
+      "lastChecked": "07:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 07:12",
+    "expiresAt": "2026-10-07 07:24",
     "items": [
       {
         "channel": "harana",
@@ -833,14 +833,21 @@
         "text": "The Football Federation's Appeal Committee rejected the protests of Sepahan and Mes Shahrbabak clubs against Yaser Asani's presence in Esteghlal's lineup. The disciplinary committee's ruling acquitting Esteghlal and this player was confirmed. Persepolis's complaint against Esteghlal and Asani remains open in the Appeal Committee.",
         "time": "07:11",
         "ts": 1791184298
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Moslehi referred to the Kepler report stating that Middle East crude oil exports have risen above pre-war levels. Exporting countries and buyers have managed to maintain the flow of oil trade. The Islamic Republic has not been able to realize its claim to stop regional oil exports.",
+        "time": "07:23",
+        "ts": 1791184993
       }
     ],
     "language": "en",
-    "packId": "20261005-22",
-    "sequence": 22,
+    "packId": "20261005-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:12"
+    "updatedAt": "07:24"
   },
   "verified": true
 }
