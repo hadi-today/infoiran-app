@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-79 seq=79 exp=1791382590",
+      "advancedStatus": "pack_id=20261005-80 seq=80 exp=1791382938",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:16",
+      "lastChecked": "14:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 14:16",
+    "expiresAt": "2026-10-07 14:22",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "Alireza Zakani, the mayor of Tehran, unveiled the \"Zero Inflation\" plan aimed at keeping the prices of some goods fixed for six months. This plan was introduced amid record highs in the dollar price and increasing inflation pressure on people's daily lives. Farshad Motaghi analyzed this plan and its gap with people's real life in \"Peyvast.\"",
         "time": "14:15",
         "ts": 1791209727
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Esmaeil Kowsari stated that the suspension of cooperation with the International Atomic Energy Agency was due to the agency's performance and reports. He accused Rafael Grossi and the agency inspectors of providing false reports about Iran's nuclear activities. Kowsari described Iran's nuclear activities as legal and warned that any miscalculation in dealing with Iran would result in a severe blow.",
+        "time": "14:21",
+        "ts": 1791210088
       }
     ],
     "language": "en",
-    "packId": "20261005-79",
-    "sequence": 79,
+    "packId": "20261005-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:16"
+    "updatedAt": "14:22"
   },
   "verified": true
 }
