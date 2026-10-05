@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-123 seq=123 exp=1791403773",
+      "advancedStatus": "pack_id=20261005-124 seq=124 exp=1791403896",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:09",
+      "lastChecked": "20:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 20:09",
+    "expiresAt": "2026-10-07 20:11",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,21 @@
         "text": "Trump has once again emphasized increasing the level of passage through the Strait of Hormuz. This was mentioned in the audio version of the program 24 with Fardad Farahzad. More details are provided in this program.",
         "time": "20:08",
         "ts": 1791230897
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Yemeni government forces announced a strategic offensive to retake Sanaa from the Houthis. These forces are supported by Saudi Arabia. They have also regained control of parts of the Bab al-Mandab Strait from the Houthis.",
+        "time": "20:09",
+        "ts": 1791230971
       }
     ],
     "language": "en",
-    "packId": "20261005-123",
-    "sequence": 123,
+    "packId": "20261005-124",
+    "sequence": 124,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:09"
+    "updatedAt": "20:11"
   },
   "verified": true
 }
