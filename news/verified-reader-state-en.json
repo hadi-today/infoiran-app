@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-43 seq=43 exp=1791365581",
+      "advancedStatus": "pack_id=20261005-44 seq=44 exp=1791365710",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:33",
+      "lastChecked": "09:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 09:33",
+    "expiresAt": "2026-10-07 09:35",
     "items": [
       {
         "channel": "harana",
@@ -889,14 +889,21 @@
         "text": "A citizen from Khorramabad addresses Benjamin Netanyahu in a video, saying they are waiting to celebrate Iran's freedom next year. He refers to Netanyahu's promise. The video was sent to Iran International.",
         "time": "09:32",
         "ts": 1791192730
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Messages and images from several universities indicate poor dormitory conditions and disorder in class schedules. Students at Zabol University reported dirty dormitories and missing personal belongings. Additionally, the presence of security and Basij forces has increased, with students being confronted under the pretext of coverage.",
+        "time": "09:33",
+        "ts": 1791192804
       }
     ],
     "language": "en",
-    "packId": "20261005-43",
-    "sequence": 43,
+    "packId": "20261005-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:33"
+    "updatedAt": "09:35"
   },
   "verified": true
 }
