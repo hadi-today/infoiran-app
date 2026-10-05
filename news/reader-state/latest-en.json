@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-25 seq=25 exp=1791358681",
+      "advancedStatus": "pack_id=20261005-26 seq=26 exp=1791359537",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:38",
+      "lastChecked": "07:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 07:38",
+    "expiresAt": "2026-10-07 07:52",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Nagoya Asian Games concluded with Japan setting a new record by winning 83 gold medals. Despite Japan's success, there were shortcomings in hosting the event. Somayeh Mehri, a reporter from Iran International, highlighted these issues.",
-        "time": "07:39",
-        "ts": 1791099557
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Supporters of the regime chanted slogans against officials at Ali Khamenei's grave. They shouted slogans such as \"Turning to inflation, they should compromise with the enemy\" and \"Economic corruptor, American soldier.\" The gathering took place at Ali Khamenei's grave.",
-        "time": "07:50",
-        "ts": 1791100206
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -847,14 +833,21 @@
         "text": "Mohammad Amin Aghamiri stated that Iran managed to disable all Starlink terminals in a controlled manner. He mentioned that other technologies are ready to be used if the Islamic Republic decides to do so. Aghamiri described Starlink as a military tool and announced readiness for appropriate action.",
         "time": "07:36",
         "ts": 1791185810
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abdolnaser Hemmati, the Governor of the Central Bank, stated that after failing in military war, the US and Israel have entered an economic war targeting the financial sector and currency market. The Central Bank acts within its legal authority to manage the currency market. He also said that enemies hoped to cause severe economic turmoil through rising liquidity and inflation, but they will not succeed.",
+        "time": "07:51",
+        "ts": 1791186679
       }
     ],
     "language": "en",
-    "packId": "20261005-25",
-    "sequence": 25,
+    "packId": "20261005-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:38"
+    "updatedAt": "07:52"
   },
   "verified": true
 }
