@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-38 seq=38 exp=1791363922",
+      "advancedStatus": "pack_id=20261005-40 seq=40 exp=1791364607",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:05",
+      "lastChecked": "09:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 09:05",
+    "expiresAt": "2026-10-07 09:16",
     "items": [
       {
         "channel": "iranintl",
@@ -868,14 +868,35 @@
         "text": "A group of defrauded customers of the OMP Finex exchange protested on Tuesday, October 5, in front of the Attorney General's building. They were protesting the non-payment of their claims. This protest was reported through videos received by Iran International.",
         "time": "09:04",
         "ts": 1791191074
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Behrouz Mohibi, a member of the Parliament's Budget and Planning Commission, criticized Iran's economic dependence on the US dollar, saying the money of an enemy country has become our master. He also stated that America's audacity stems from the belief that the spirit of revenge has weakened. The parliament member added that Iran is among the five richest countries in terms of resources.",
+        "time": "09:13",
+        "ts": 1791191638
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Benjamin Netanyahu said on the third anniversary of the October 7 attack that it marked the start of Iran's plan to destroy Israel. He described a threefold threat including proxy groups, deadly missiles, and a nuclear explosion. Netanyahu added that Israel has responded to these threats and established buffer zones.",
+        "time": "09:15",
+        "ts": 1791191730
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Lionel Messi is set to play his last official match for the Argentina national team against Benin early Wednesday. He missed the last two games but recently returned to training with the team. The players and coaching staff welcomed him back.",
+        "time": "09:16",
+        "ts": 1791191779
       }
     ],
     "language": "en",
-    "packId": "20261005-38",
-    "sequence": 38,
+    "packId": "20261005-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:05"
+    "updatedAt": "09:16"
   },
   "verified": true
 }
