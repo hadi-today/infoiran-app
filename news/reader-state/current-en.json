@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-01 seq=1 exp=1791408840",
+      "advancedStatus": "pack_id=20261005-02 seq=2 exp=1791409482",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:34",
+      "lastChecked": "21:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 21:34",
+    "expiresAt": "2026-10-07 21:44",
     "items": [
       {
         "channel": "harana",
@@ -21,14 +21,21 @@
         "text": "The status of 37 dismissed workers from the second phase project of Ilam Gas Refinery remains unclear after several weeks. Despite a final ruling by the labor office and a court order, these workers have not returned to work. The promised return to work has not yet been realized.",
         "time": "21:33",
         "ts": 1791236020
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Vaisi, a senior analyst at Iran International, said that the Islamic Republic's military power has mainly relied on four areas: proxy groups, drones, missiles, and naval forces using fast boats. He added that the Islamic Republic has suffered serious damage in three areas and only the missile domain remains, but not as before. He emphasized that the Islamic Republic has lost many of its cards.",
+        "time": "21:44",
+        "ts": 1791236664
       }
     ],
     "language": "en",
-    "packId": "20261005-01",
-    "sequence": 1,
+    "packId": "20261005-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:34"
+    "updatedAt": "21:44"
   },
   "verified": true
 }
