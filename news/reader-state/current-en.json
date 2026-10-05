@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-114 seq=114 exp=1791398279",
+      "advancedStatus": "pack_id=20261005-115 seq=115 exp=1791399748",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:37",
+      "lastChecked": "19:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 18:37",
+    "expiresAt": "2026-10-07 19:02",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Two people died while repairing a water motor and digging a well in Tuyserkan and Nahavand. Four workers were injured in Eshtehard, Kermanshah, and Ilam. Additionally, a fire at the Samen coal factory caused one injury.",
-        "time": "18:48",
-        "ts": 1791139680
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Abdolhossein Hemmati, secretary of the Energy Commission of the Parliament, stated that increased insecurity in the Strait of Hormuz raises the risk in the oil market and may lead to higher global oil prices. He said efforts are being made to push the price above $110 and that the regional conditions allow for price increases. Hemmati also warned that if Iran cannot export its oil, no other country will be allowed to export through this route.",
-        "time": "18:54",
-        "ts": 1791140065
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -952,14 +938,21 @@
         "text": "A video shows a group of female students in a school in Isfahan chanting 'Long live the Shah'. They tear images of Khomeini from their textbooks. This video was received by Iran International.",
         "time": "18:34",
         "ts": 1791225290
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Niusha Saremi mentioned in Titraval a major attack by Saudi Arabia and the Yemeni government to retake Sanaa. This indicates a new front in the war with Tehran. The audio version of this program has been released.",
+        "time": "19:01",
+        "ts": 1791226893
       }
     ],
     "language": "en",
-    "packId": "20261005-114",
-    "sequence": 114,
+    "packId": "20261005-115",
+    "sequence": 115,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:37"
+    "updatedAt": "19:02"
   },
   "verified": true
 }
