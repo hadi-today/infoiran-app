@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-119 seq=119 exp=1791401378",
+      "advancedStatus": "pack_id=20261005-120 seq=120 exp=1791401901",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:29",
+      "lastChecked": "19:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 19:29",
+    "expiresAt": "2026-10-07 19:38",
     "items": [
       {
         "channel": "iranintl",
@@ -931,14 +931,21 @@
         "text": "The Tehran Football Board issued initial sanctions for those involved in the clash between the youth teams of Esteghlal and Shahin. Nineteen players, coaches, and fans were banned from one month to one year, and Esteghlal club was banned from having fans for five matches. Financial fines ranging from 15 to 100 million tomans were also imposed on the offenders.",
         "time": "19:28",
         "ts": 1791228520
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The website Ynet reported on Monday, 13 Mehr that Shin Bet agents have gone to the UAE to interrogate Hamam al-Hamami, the Omani co-pilot of Flydubai. He is accused of attempting to hijack and crash flight FZ 1073, and stated his motive was revenge against Israel for the Gaza war. Israeli officials say he planned for months and intended to crash the plane at Ben Gurion Airport or into a US military facility in Jordan.",
+        "time": "19:37",
+        "ts": 1791229041
       }
     ],
     "language": "en",
-    "packId": "20261005-119",
-    "sequence": 119,
+    "packId": "20261005-120",
+    "sequence": 120,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:29"
+    "updatedAt": "19:38"
   },
   "verified": true
 }
