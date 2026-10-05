@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-55 seq=55 exp=1791370551",
+      "advancedStatus": "pack_id=20261005-56 seq=56 exp=1791370842",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:55",
+      "lastChecked": "11:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 10:55",
+    "expiresAt": "2026-10-07 11:00",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Khazarian described the excessive presence of the foreign minister in New York as creating a weak image of Iran. He called the diplomacy of the New York trip undignified and unwise. He also described the Strait of Hormuz as a key point in the global economy and a battlefield.",
-        "time": "10:57",
-        "ts": 1791111450
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +903,21 @@
         "text": "In the third week of the women's Premier League, players' families attended the matches at the stadium. This year, men were allowed to attend the stadium for the first time. Previously, matches were held only with female spectators.",
         "time": "10:54",
         "ts": 1791197691
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The UK Maritime Trade Operations reported that a tanker near 11 miles north of Khasab, Oman, was forced to change course by orders from the IRGC. The IRGC demanded the tanker to change its route and threatened to target it otherwise.",
+        "time": "10:59",
+        "ts": 1791197984
       }
     ],
     "language": "en",
-    "packId": "20261005-55",
-    "sequence": 55,
+    "packId": "20261005-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:55"
+    "updatedAt": "11:00"
   },
   "verified": true
 }
