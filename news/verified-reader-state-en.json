@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-07 seq=7 exp=1791344489",
+      "advancedStatus": "pack_id=20261005-08 seq=8 exp=1791346462",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:41",
+      "lastChecked": "04:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 03:41",
+    "expiresAt": "2026-10-07 04:14",
     "items": [
       {
         "channel": "iranintl",
@@ -791,14 +791,21 @@
         "text": "The National Emergency Organization announced that from the beginning until October 3rd, four people were killed and 579 injured in weather-related incidents. Two people died due to floods and two due to lightning. Additionally, one person is missing in the flood.",
         "time": "03:40",
         "ts": 1791171643
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Kayhan newspaper highlighted the differences between the behavior of Iranian police and Western police during student protests in France. Kayhan described Iranian police as being alongside the people and using a model of tolerance and dialogue. The newspaper criticized the actions of American and European police on university campuses.",
+        "time": "04:13",
+        "ts": 1791173620
       }
     ],
     "language": "en",
-    "packId": "20261005-07",
-    "sequence": 7,
+    "packId": "20261005-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:41"
+    "updatedAt": "04:14"
   },
   "verified": true
 }
