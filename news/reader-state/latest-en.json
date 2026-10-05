@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-61 seq=61 exp=1791373067",
+      "advancedStatus": "pack_id=20261005-62 seq=62 exp=1791373305",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:37",
+      "lastChecked": "11:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 11:37",
+    "expiresAt": "2026-10-07 11:41",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The court session for Saeed Masouri's new case was held on Saturday, 11 Mehr, at the second branch of the Revolutionary Court in Karaj. Saeed Masouri, a political prisoner, was tried in this session. His lawyer stated that the defense related to the case was presented.",
-        "time": "11:38",
-        "ts": 1791113924
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "Protesters in Mashhad distributed leaflets in memory of the martyrs of the national revolution. The leaflets stated that behind every name there is a human and a family. This act was done to remind people of hopes for a better future.",
         "time": "11:34",
         "ts": 1791200090
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Shina Ansari, head of the Environmental Protection Organization, reported that about 50% of organizational positions are vacant. In some provinces, the shortage of environmental rangers reaches 60%. She also emphasized the need to revise employee salary bases and use pollution levy revenues primarily to reduce pollution.",
+        "time": "11:40",
+        "ts": 1791200446
       }
     ],
     "language": "en",
-    "packId": "20261005-61",
-    "sequence": 61,
+    "packId": "20261005-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:37"
+    "updatedAt": "11:41"
   },
   "verified": true
 }
