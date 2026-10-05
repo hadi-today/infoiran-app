@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-48 seq=48 exp=1791367400",
+      "advancedStatus": "pack_id=20261005-49 seq=49 exp=1791367691",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:03",
+      "lastChecked": "10:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 10:03",
+    "expiresAt": "2026-10-07 10:08",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of Iranians living in Germany protested against the Islamic Republic on Saturday, October 3, in the cities of Nuremberg and Hamburg. Videos of these gatherings have been sent to Iran International.",
-        "time": "10:03",
-        "ts": 1791108238
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "A citizen sent a video showing armed agents of the Islamic Republic arresting a person in an alley of Phase 2 of Parand city. The video also reports gunfire. This incident was reported by Iran International.",
         "time": "10:01",
         "ts": 1791194518
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Fazeli stated that Iran is the fourth power in the world after the USA, China, and Russia. He added that analysts today acknowledge the emergence of this new power. Mojtaba Khamenei also described Iran as the first power in the world based on divine calculations.",
+        "time": "10:07",
+        "ts": 1791194831
       }
     ],
     "language": "en",
-    "packId": "20261005-48",
-    "sequence": 48,
+    "packId": "20261005-49",
+    "sequence": 49,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:03"
+    "updatedAt": "10:08"
   },
   "verified": true
 }
