@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-15 seq=15 exp=1791353910",
+      "advancedStatus": "pack_id=20261005-16 seq=16 exp=1791354034",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:18",
+      "lastChecked": "06:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 06:18",
+    "expiresAt": "2026-10-07 06:20",
     "items": [
       {
         "channel": "iranintl",
@@ -798,14 +798,21 @@
         "text": "Mehdi Taj, the head of the Football Federation, appointed Mohammadreza Sakat as the new head of the Professional Licensing Committee. Sakat was previously the CEO of Sepahan and has a record of extensive violations. This appointment was made despite the controversies regarding his past misconduct.",
         "time": "06:16",
         "ts": 1791180970
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "According to initial reports, a police patrol in Bampor County was attacked. Tasnim News Agency reported that two people have been killed in this incident so far. The incident occurred in Sistan and Baluchestan province.",
+        "time": "06:19",
+        "ts": 1791181184
       }
     ],
     "language": "en",
-    "packId": "20261005-15",
-    "sequence": 15,
+    "packId": "20261005-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:18"
+    "updatedAt": "06:20"
   },
   "verified": true
 }
