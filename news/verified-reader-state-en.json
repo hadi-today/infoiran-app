@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-13 seq=13 exp=1791414448",
+      "advancedStatus": "pack_id=20261005-14 seq=14 exp=1791417161",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:07",
+      "lastChecked": "23:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 23:07",
+    "expiresAt": "2026-10-07 23:52",
     "items": [
       {
         "channel": "harana",
@@ -105,14 +105,21 @@
         "text": "The member countries of the Multilateral Counterterrorism Forum condemned the terrorist actions and destructive infiltration by the Islamic Republic and its proxy forces in the Western Hemisphere. The forum includes the governments of the United States, Argentina, Canada, and several other countries. The statement refers to deadly plots, illegal fundraising, and political interference.",
         "time": "23:07",
         "ts": 1791241625
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Axios reported, citing US officials, that the US military moved 12 B-1 bombers from RAF Fairford in Britain. The move came after receiving intelligence about a possible drone attack by the Islamic Republic. Donald Trump confirmed the bombers were removed due to a security threat from Iran.",
+        "time": "23:52",
+        "ts": 1791244339
       }
     ],
     "language": "en",
-    "packId": "20261005-13",
-    "sequence": 13,
+    "packId": "20261005-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:07"
+    "updatedAt": "23:52"
   },
   "verified": true
 }
