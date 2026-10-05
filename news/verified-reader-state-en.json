@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-121 seq=121 exp=1791402255",
+      "advancedStatus": "pack_id=20261005-122 seq=122 exp=1791403335",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:44",
+      "lastChecked": "20:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 19:44",
+    "expiresAt": "2026-10-07 20:02",
     "items": [
       {
         "channel": "iranintl",
@@ -938,14 +938,21 @@
         "text": "Donald Trump stated he is always ready for direct talks with the Islamic Republic. He mentioned that the US faced a threat leading to the withdrawal of bombers from the Fairford base. Trump also held Iran responsible for the Flydubai flight incident.",
         "time": "19:43",
         "ts": 1791229389
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump accused Iran of being involved in a security incident near the RAF Fairford base in the UK. He stated that US aircraft were relocated due to a threat. Trump added that those responsible for the threat are known and will face serious consequences.",
+        "time": "20:01",
+        "ts": 1791230488
       }
     ],
     "language": "en",
-    "packId": "20261005-121",
-    "sequence": 121,
+    "packId": "20261005-122",
+    "sequence": 122,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:44"
+    "updatedAt": "20:02"
   },
   "verified": true
 }
