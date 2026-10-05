@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-09 seq=9 exp=1791349378",
+      "advancedStatus": "pack_id=20261005-10 seq=10 exp=1791349651",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:02",
+      "lastChecked": "05:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 05:02",
+    "expiresAt": "2026-10-07 05:07",
     "items": [
       {
         "channel": "iranintl",
@@ -791,14 +791,21 @@
         "text": "The Kepler report shows that Middle East oil exports have risen above pre-war levels. The US has reduced the IRGC's ability to disrupt the Strait of Hormuz through its attacks. Additionally, the increase in US forces and new military arrangements in the region indicate a possible quick return to military options.",
         "time": "05:02",
         "ts": 1791176535
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Australian government has extended financial sanctions related to counter-terrorism financing against four members of the IRGC. These individuals have been involved in attacks and killings outside Iran. The sanctioned individuals are Abdolreza Shahlaei, Mansour Arbabseir, Ali Gholam Shakouri, and Hamed Abdollahi.",
+        "time": "05:06",
+        "ts": 1791176806
       }
     ],
     "language": "en",
-    "packId": "20261005-09",
-    "sequence": 9,
+    "packId": "20261005-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:02"
+    "updatedAt": "05:07"
   },
   "verified": true
 }
