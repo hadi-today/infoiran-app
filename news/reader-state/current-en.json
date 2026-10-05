@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261005-37 seq=37 exp=1791363535",
+      "advancedStatus": "pack_id=20261005-38 seq=38 exp=1791363922",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:58",
+      "lastChecked": "09:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-05",
-    "expiresAt": "2026-10-07 08:58",
+    "expiresAt": "2026-10-07 09:05",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A video shows a protester in Babolsar writing slogans \"Long live the Shah\" and \"Pahlavi will return\" on public pathways. The video was received by Iran International. This act occurred during protests.",
-        "time": "09:02",
-        "ts": 1791104520
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -868,14 +861,21 @@
         "text": "Morteza Kazemian stated that after six months of ceasefire, relations between Iran and the US remain in a 'neither war nor peace' and highly unstable state. He said the increased economic and military pressure from the US is not a sign of agreement and a full-scale war is possible. He also warned that this situation could lead to increased livelihood pressures and a social explosion.",
         "time": "08:57",
         "ts": 1791190673
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of defrauded customers of the OMP Finex exchange protested on Tuesday, October 5, in front of the Attorney General's building. They were protesting the non-payment of their claims. This protest was reported through videos received by Iran International.",
+        "time": "09:04",
+        "ts": 1791191074
       }
     ],
     "language": "en",
-    "packId": "20261005-37",
-    "sequence": 37,
+    "packId": "20261005-38",
+    "sequence": 38,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:58"
+    "updatedAt": "09:05"
   },
   "verified": true
 }
