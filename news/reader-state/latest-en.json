@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-09 seq=9 exp=1791425932",
+      "advancedStatus": "pack_id=20261006-10 seq=10 exp=1791427011",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:18",
+      "lastChecked": "02:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 02:18",
+    "expiresAt": "2026-10-08 02:36",
     "items": [
       {
         "channel": "harana",
@@ -175,14 +175,21 @@
         "text": "On Monday, October 5, after a protest march against the housing crisis in Spain, clashes broke out between protesters and police in central Barcelona. Police prevented protesters from advancing towards the Barcelona Stock Exchange, and the clashes lasted for several hours. Security forces had a strong presence in the city center.",
         "time": "02:18",
         "ts": 1791253106
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "From December 2025 to October 2026, the Islamic Republic executed at least 70 political prisoners. Half of these individuals were connected to the December protests, and 194 others are under death sentences. This figure is a minimum estimate based on verified human rights reports.",
+        "time": "02:36",
+        "ts": 1791254191
       }
     ],
     "language": "en",
-    "packId": "20261006-09",
-    "sequence": 9,
+    "packId": "20261006-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:18"
+    "updatedAt": "02:36"
   },
   "verified": true
 }
