@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-16 seq=16 exp=1791438023",
+      "advancedStatus": "pack_id=20261006-17 seq=17 exp=1791438965",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:40",
+      "lastChecked": "05:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 05:40",
+    "expiresAt": "2026-10-08 05:56",
     "items": [
       {
         "channel": "harana",
@@ -245,14 +245,21 @@
         "text": "The expansion of Starlink and direct mobile satellite connection technology has challenged Iran's traditional tool of internet shutdown. Officials claim they have the ability to disrupt this network. They also mention diplomatic pressure and the possibility of power outages in future crises.",
         "time": "05:39",
         "ts": 1791265155
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "With intensified attacks against the Houthis and concerns about maritime security in Bab al-Mandab, the roles of Saudi Arabia, Turkey, and Pakistan in Yemen have increased. Ghassan Ashour stated that the entry of Turkish and Pakistani ground forces into Yemen would change the balance of the conflict. Control of the coast and radar equipment in Bab al-Mandab is very important.",
+        "time": "05:55",
+        "ts": 1791266143
       }
     ],
     "language": "en",
-    "packId": "20261006-16",
-    "sequence": 16,
+    "packId": "20261006-17",
+    "sequence": 17,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:40"
+    "updatedAt": "05:56"
   },
   "verified": true
 }
