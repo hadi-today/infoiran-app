@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-83 seq=83 exp=1791482760",
+      "advancedStatus": "pack_id=20261006-84 seq=84 exp=1791483630",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:06",
+      "lastChecked": "18:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 18:06",
+    "expiresAt": "2026-10-08 18:20",
     "items": [
       {
         "channel": "harana",
@@ -770,14 +770,21 @@
         "text": "Israeli fighter jets are on alert in the Flydubai incident. An attack plan on Fairford has also been mentioned. This topic was discussed in the Titrawal audio version with Niusha Saremi.",
         "time": "18:02",
         "ts": 1791309725
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Yahya Saree, spokesperson for the Houthi armed forces, claimed that Saudi Arabia carried out 66 air and missile attacks on civilian targets in several Yemeni provinces in the past 24 hours. These attacks were conducted with F-15 and Typhoon fighter jets and armed reconnaissance aircraft. The total number of attacks since the escalation of the conflict has reached 1,642.",
+        "time": "18:20",
+        "ts": 1791310802
       }
     ],
     "language": "en",
-    "packId": "20261006-83",
-    "sequence": 83,
+    "packId": "20261006-84",
+    "sequence": 84,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:06"
+    "updatedAt": "18:20"
   },
   "verified": true
 }
