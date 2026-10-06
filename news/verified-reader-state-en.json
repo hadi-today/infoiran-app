@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-46 seq=46 exp=1791462086",
+      "advancedStatus": "pack_id=20261006-47 seq=47 exp=1791462631",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:21",
+      "lastChecked": "12:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 12:21",
+    "expiresAt": "2026-10-08 12:30",
     "items": [
       {
         "channel": "harana",
@@ -490,14 +490,21 @@
         "text": "Yousef Monzavi was arrested after attending Branch 993 of the Criminal Enforcement Court in Mashhad. He was transferred to Vakilabad Prison in Mashhad to serve a one-year prison sentence. This occurred on the 12th of Mehr.",
         "time": "12:21",
         "ts": 1791289262
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Barzo Rezaei, a citizen of Kermanshah arrested in connection with the December 1404 protests, was sentenced to death by Branch 23 of the Tehran Revolutionary Court. He was charged with cooperating with hostile states. The death sentence has been communicated to his lawyer.",
+        "time": "12:30",
+        "ts": 1791289807
       }
     ],
     "language": "en",
-    "packId": "20261006-46",
-    "sequence": 46,
+    "packId": "20261006-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:21"
+    "updatedAt": "12:30"
   },
   "verified": true
 }
