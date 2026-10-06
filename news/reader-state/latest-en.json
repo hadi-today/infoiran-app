@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-07 seq=7 exp=1791493801",
+      "advancedStatus": "pack_id=20261006-08 seq=8 exp=1791494561",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:10",
+      "lastChecked": "21:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 21:10",
+    "expiresAt": "2026-10-08 21:22",
     "items": [
       {
         "channel": "iranintl",
@@ -77,14 +77,21 @@
         "text": "Donald Trump, the President of the United States, in a speech in Maryland, called the Islamic Republic the 'evil and bully of the Middle East' but said Iran's government is 'not so much of a bully anymore.' He emphasized that the job must be finished and the only question is which way to do it; the good way or the not-so-good way, and you will find out soon.",
         "time": "21:09",
         "ts": 1791320950
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump stated that the US operation against the Islamic Republic is progressing very well and the path to end the conflict will soon be determined. He said Iran's air and naval forces have been destroyed and its defense systems damaged. Trump also claimed that the Strait of Hormuz is under US naval control.",
+        "time": "21:21",
+        "ts": 1791321714
       }
     ],
     "language": "en",
-    "packId": "20261006-07",
-    "sequence": 7,
+    "packId": "20261006-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:10"
+    "updatedAt": "21:22"
   },
   "verified": true
 }
