@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-86 seq=86 exp=1791484349",
+      "advancedStatus": "pack_id=20261006-88 seq=88 exp=1791486218",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:32",
+      "lastChecked": "19:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 18:32",
+    "expiresAt": "2026-10-08 19:03",
     "items": [
       {
         "channel": "harana",
@@ -791,14 +791,35 @@
         "text": "Jamal Khodarahmi and Hirsh Navgaran, citizens of Sanandaj, were sentenced to a total of five years of suspended imprisonment. Jamal Khodarahmi was also sentenced to pay a fine. The sentence was issued by the judicial authority.",
         "time": "18:28",
         "ts": 1791311339
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Workers of North Drilling Company have reported delays in the payment of their wages and demands. Workers at the Mohammadabad CNG station have not received their salaries for five months, and workers at Marun Oil and Gas Industrial Complex No. 6 are facing three months of unpaid wages and non-payment of insurance premiums.",
+        "time": "18:33",
+        "ts": 1791311603
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen reported on October 6 about the scarcity of psychiatric drugs in Isfahan. These drugs are hard to find in pharmacies and are expensive even with social security insurance. They are also being sold on the black market.",
+        "time": "19:03",
+        "ts": 1791313392
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Mahdavi Azad said Sistan and Baluchestan is one of the most deprived regions in Iran. He added that the Islamic Republic views the province with a security perspective due to its Baluch and Sunni population. This security approach has intensified division and distrust in the province.",
+        "time": "19:03",
+        "ts": 1791313397
       }
     ],
     "language": "en",
-    "packId": "20261006-86",
-    "sequence": 86,
+    "packId": "20261006-88",
+    "sequence": 88,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:32"
+    "updatedAt": "19:03"
   },
   "verified": true
 }
