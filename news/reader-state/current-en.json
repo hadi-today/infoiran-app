@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-35 seq=35 exp=1791455145",
+      "advancedStatus": "pack_id=20261006-36 seq=36 exp=1791455417",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:25",
+      "lastChecked": "10:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 10:25",
+    "expiresAt": "2026-10-08 10:30",
     "items": [
       {
         "channel": "harana",
@@ -399,14 +399,21 @@
         "text": "Reports indicate the continuation of a military atmosphere and the establishment of checkpoints in cities. There have also been reports of gatherings and street disturbances by government supporters late at night. More details were provided by Leila Saadati.",
         "time": "10:25",
         "ts": 1791282323
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Francis Halzen, a Belgian physicist, won the 2026 Nobel Prize in Physics. He received the award for his key role in building the IceCube Observatory and discovering high-energy neutrinos of cosmic origin. This news was reported by Mehran Abbasian from Iran International.",
+        "time": "10:29",
+        "ts": 1791282594
       }
     ],
     "language": "en",
-    "packId": "20261006-35",
-    "sequence": 35,
+    "packId": "20261006-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:25"
+    "updatedAt": "10:30"
   },
   "verified": true
 }
