@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-15 seq=15 exp=1791437796",
+      "advancedStatus": "pack_id=20261006-16 seq=16 exp=1791438023",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:36",
+      "lastChecked": "05:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 05:36",
+    "expiresAt": "2026-10-08 05:40",
     "items": [
       {
         "channel": "harana",
@@ -217,14 +217,42 @@
         "text": "Economic and financial sanctions against Iran have expanded. These restrictions include banks, exchange offices, and financial networks related to Iran. Ali Dadpay described the situation as a major crisis.",
         "time": "05:36",
         "ts": 1791264974
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reza Goharzad, a journalist and political analyst, said that Iran is in a major economic squeeze. He added that China trusts its dealings with the US more than with the Islamic Republic. These remarks refer to Iran's economic situation and international relations.",
+        "time": "05:36",
+        "ts": 1791265011
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Karl Deisseroth, Peter Hegemann, and Georg Nagel jointly won the 2026 Nobel Prize in Physiology or Medicine. They received the prize for discovering light-sensitive ion channels and developing the optogenetics method. This method allows controlling neuron activity with light.",
+        "time": "05:37",
+        "ts": 1791265050
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Middle East war and energy market disruption have made fuel security the focus of the ASEAN meeting. Rising fuel prices have pressured transportation and regional industries. Development of fuel reserves and renewable energies is on the agenda.",
+        "time": "05:38",
+        "ts": 1791265085
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The expansion of Starlink and direct mobile satellite connection technology has challenged Iran's traditional tool of internet shutdown. Officials claim they have the ability to disrupt this network. They also mention diplomatic pressure and the possibility of power outages in future crises.",
+        "time": "05:39",
+        "ts": 1791265155
       }
     ],
     "language": "en",
-    "packId": "20261006-15",
-    "sequence": 15,
+    "packId": "20261006-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:36"
+    "updatedAt": "05:40"
   },
   "verified": true
 }
