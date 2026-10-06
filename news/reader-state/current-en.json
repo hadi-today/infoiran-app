@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-54 seq=54 exp=1791465751",
+      "advancedStatus": "pack_id=20261006-55 seq=55 exp=1791467581",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:22",
+      "lastChecked": "13:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 13:22",
+    "expiresAt": "2026-10-08 13:53",
     "items": [
       {
         "channel": "harana",
@@ -560,14 +560,28 @@
         "text": "In some boys' high schools, students have been pressured to participate in the Janfadaiyan exercise. School officials threatened them with expulsion and endangering their parents' jobs. This issue was reported by informed sources to Iran International.",
         "time": "13:22",
         "ts": 1791292924
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The head of the Student Affairs Organization announced the final verdict for 14 disciplinary cases of students related to last year's March protests. These cases involve protesting students. The final verdicts have been issued.",
+        "time": "13:52",
+        "ts": 1791294758
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Eskandar Momeni, Iran's Interior Minister, conveyed Masoud Pezeshkian's message to Tamim bin Hamad Al Thani, the Emir of Qatar. The Emir of Qatar shared opinions and suggestions about regional developments, which will be communicated to Pezeshkian after returning to Tehran. A joint working group was also agreed upon to follow up on decisions between the two ministries.",
+        "time": "13:52",
+        "ts": 1791294774
       }
     ],
     "language": "en",
-    "packId": "20261006-54",
-    "sequence": 54,
+    "packId": "20261006-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:22"
+    "updatedAt": "13:53"
   },
   "verified": true
 }
