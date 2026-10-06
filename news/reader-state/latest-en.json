@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-102 seq=102 exp=1791498098",
+      "advancedStatus": "pack_id=20261006-103 seq=103 exp=1791498704",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:21",
+      "lastChecked": "22:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 22:21",
+    "expiresAt": "2026-10-08 22:31",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The FBI arrested a suspect cooperating with China at Los Angeles airport. The individual is accused of surveilling the son of the President of Taiwan. He was detained before boarding a flight to Shanghai on charges of acting as an unregistered foreign agent.",
-        "time": "22:22",
-        "ts": 1791238949
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Heavy rain in Granollers, Catalonia caused flooding and waterlogging of streets. Vehicles were submerged up to half in water. Authorities reported two deaths and one person missing.",
-        "time": "22:24",
-        "ts": 1791239052
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A program with Kambiz Hosseini has released its audio version. The topic of the program is the execution of Alireza Sepahi and Alireza Raeisi. This news was published by Iran International.",
-        "time": "22:29",
-        "ts": 1791239342
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -875,14 +854,21 @@
         "text": "Scott Bassett, the US Treasury Secretary, commented on Iran's new oil minister on social media. He stated that Iran has not loaded any crude oil onto a ship since August 25. He questioned what the new oil minister is supposed to manage.",
         "time": "22:21",
         "ts": 1791325273
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Vaisi stated that the behavior of revolutionary people and the opposition is partly determined by the ruling government. He added that the Islamic Republic's criminal suppression methods have angered the people more. This plays a role in the process of the government's overthrow.",
+        "time": "22:31",
+        "ts": 1791325884
       }
     ],
     "language": "en",
-    "packId": "20261006-102",
-    "sequence": 102,
+    "packId": "20261006-103",
+    "sequence": 103,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:21"
+    "updatedAt": "22:31"
   },
   "verified": true
 }
