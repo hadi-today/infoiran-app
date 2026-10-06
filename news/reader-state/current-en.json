@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-58 seq=58 exp=1791468389",
+      "advancedStatus": "pack_id=20261006-59 seq=59 exp=1791469008",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:06",
+      "lastChecked": "14:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 14:06",
+    "expiresAt": "2026-10-08 14:16",
     "items": [
       {
         "channel": "harana",
@@ -595,14 +595,21 @@
         "text": "Independent Chinese refineries have increased purchases of crude oil from Iraq and Qatar for October and November due to reduced Iranian oil supply. Iran's oil imports to China in September were about half of last year's level, reaching the lowest since January 2023. Iran also did not export any crude oil in September.",
         "time": "14:06",
         "ts": 1791295561
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran's case has become central to US and Israeli foreign policy strategies after the October 7 terrorist attack. On the third anniversary of the event and amid increased US military presence in the region, many questions have arisen about the final outcome of the ongoing conflict in Iran. Hossein Aghaei discussed the fate of this war in the program \"Peyvast.\"",
+        "time": "14:16",
+        "ts": 1791296184
       }
     ],
     "language": "en",
-    "packId": "20261006-58",
-    "sequence": 58,
+    "packId": "20261006-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:06"
+    "updatedAt": "14:16"
   },
   "verified": true
 }
