@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-40 seq=40 exp=1791457708",
+      "advancedStatus": "pack_id=20261006-41 seq=41 exp=1791459229",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:08",
+      "lastChecked": "11:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 11:08",
+    "expiresAt": "2026-10-08 11:33",
     "items": [
       {
         "channel": "harana",
@@ -434,14 +434,21 @@
         "text": "Ali Hossein Ghazizadeh stated that the Strait of Hormuz option has been removed from US negotiations with the Islamic Republic. Trump no longer negotiates over the Strait of Hormuz. The Islamic Republic must demonstrate that it can stop the passage of oil tankers.",
         "time": "11:07",
         "ts": 1791284851
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen in a video sent to Iran International stated that the price of a 35-gram almond pack, a dark chocolate, a milk, and a small water has reached 640,000 tomans. This indicates a sharp increase in prices in Iran. The report highlights recent inflation in the country.",
+        "time": "11:33",
+        "ts": 1791286408
       }
     ],
     "language": "en",
-    "packId": "20261006-40",
-    "sequence": 40,
+    "packId": "20261006-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:08"
+    "updatedAt": "11:33"
   },
   "verified": true
 }
