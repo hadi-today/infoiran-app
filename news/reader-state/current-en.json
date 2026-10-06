@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-99 seq=99 exp=1791496623",
+      "advancedStatus": "pack_id=20261006-100 seq=100 exp=1791497061",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:57",
+      "lastChecked": "22:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 21:57",
+    "expiresAt": "2026-10-08 22:04",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Morad Vaisi, a senior analyst at Iran International, stated that the missile capability of the Islamic Republic for massive attacks on Israel has decreased. After heavy bombings by the US and Israel, the missile capability of the Islamic Republic has significantly declined. Vaisi said the Islamic Republic is no longer able to launch 150 to 200 missiles simultaneously.",
-        "time": "22:00",
-        "ts": 1791237626
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -868,14 +861,21 @@
         "text": "Donald Trump, the US President, in a speech in Maryland, called the Islamic Republic \"evil and a bully in the Middle East\" and stated that the Iranian government \"is no longer much of a bully.\" He emphasized that the US Navy ensures Tehran will never acquire nuclear weapons, and this issue \"is practically certain.\" Trump also claimed that Iran's air and naval forces have been destroyed, with 159 of their ships now at the bottom of the sea.",
         "time": "21:53",
         "ts": 1791323605
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "New reports have emerged about the possibility of a nuclear war during the Yom Kippur War. Moshe Dayan proposed using nuclear weapons to intimidate enemies. This proposal was opposed by ministers and completely rejected by Golda Meir.",
+        "time": "22:03",
+        "ts": 1791324239
       }
     ],
     "language": "en",
-    "packId": "20261006-99",
-    "sequence": 99,
+    "packId": "20261006-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:57"
+    "updatedAt": "22:04"
   },
   "verified": true
 }
