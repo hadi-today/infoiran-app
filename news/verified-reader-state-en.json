@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-65 seq=65 exp=1791472670",
+      "advancedStatus": "pack_id=20261006-66 seq=66 exp=1791472910",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:17",
+      "lastChecked": "15:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 15:17",
+    "expiresAt": "2026-10-08 15:21",
     "items": [
       {
         "channel": "harana",
@@ -644,14 +644,21 @@
         "text": "The Iranian Foreign Ministry summoned the French ambassador over the violent crackdown on student protests in France. The head of the Human Rights Department called for respect for peaceful assembly and prosecution of human rights violators. Reports include police entering classrooms, assaulting students and teachers, and detaining over five thousand people.",
         "time": "15:17",
         "ts": 1791299834
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Trump stated his intention to save the US, Israel, the Middle East, and the world from the problem of the Islamic Republic. He defended war, saying the goal is worth the cost. Meanwhile, Israel Hayom reported that the Israeli army is preparing to attack Iran.",
+        "time": "15:21",
+        "ts": 1791300081
       }
     ],
     "language": "en",
-    "packId": "20261006-65",
-    "sequence": 65,
+    "packId": "20261006-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:17"
+    "updatedAt": "15:21"
   },
   "verified": true
 }
