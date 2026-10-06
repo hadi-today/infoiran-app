@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-53 seq=53 exp=1791465135",
+      "advancedStatus": "pack_id=20261006-54 seq=54 exp=1791465751",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:12",
+      "lastChecked": "13:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 13:12",
+    "expiresAt": "2026-10-08 13:22",
     "items": [
       {
         "channel": "harana",
@@ -553,14 +553,21 @@
         "text": "CENTCOM denied reports of a US Navy MH-60R helicopter crash in the Red Sea. All US aircraft and military forces in the Middle East are safe. The status of all forces is accounted for.",
         "time": "13:09",
         "ts": 1791292151
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "In some boys' high schools, students have been pressured to participate in the Janfadaiyan exercise. School officials threatened them with expulsion and endangering their parents' jobs. This issue was reported by informed sources to Iran International.",
+        "time": "13:22",
+        "ts": 1791292924
       }
     ],
     "language": "en",
-    "packId": "20261006-53",
-    "sequence": 53,
+    "packId": "20261006-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:12"
+    "updatedAt": "13:22"
   },
   "verified": true
 }
