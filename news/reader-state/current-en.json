@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-71 seq=71 exp=1791477364",
+      "advancedStatus": "pack_id=20261006-72 seq=72 exp=1791477645",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:36",
+      "lastChecked": "16:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 16:36",
+    "expiresAt": "2026-10-08 16:40",
     "items": [
       {
         "channel": "harana",
@@ -686,14 +686,21 @@
         "text": "The deputy supervisor of public places at Tehran's police announced that cafes on Sanayi and Iranshahr streets were closed due to these streets becoming places for cruising and street vending.",
         "time": "16:35",
         "ts": 1791304540
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Reza Rezaei-Kochi, head of the Parliament's Civil Commission, called for the immediate removal of excessive regulations in cargo clearance and the establishment of unified management in ports and border terminals. He emphasized that executive agencies must supply essential goods as quickly as possible. The head of the Ports and Maritime Organization stated that maritime transport and transit operations have decreased by 45 percent.",
+        "time": "16:40",
+        "ts": 1791304824
       }
     ],
     "language": "en",
-    "packId": "20261006-71",
-    "sequence": 71,
+    "packId": "20261006-72",
+    "sequence": 72,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:36"
+    "updatedAt": "16:40"
   },
   "verified": true
 }
