@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-75 seq=75 exp=1791478976",
+      "advancedStatus": "pack_id=20261006-76 seq=76 exp=1791479562",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:02",
+      "lastChecked": "17:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 17:02",
+    "expiresAt": "2026-10-08 17:12",
     "items": [
       {
         "channel": "harana",
@@ -714,14 +714,21 @@
         "text": "A video shows heavy traffic in a street in Mashhad due to a government gathering and the presence of Basij forces. This event took place on Tuesday. Vehicle movement in the area has been disrupted.",
         "time": "17:02",
         "ts": 1791306151
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Prosecutors in London have accused three Iranian men of spying for the intelligence agencies of the Islamic Republic. The individuals are charged with monitoring Iran International journalists and taking photos and videos of related locations. The charges are based on the UK's National Security Act 2023.",
+        "time": "17:12",
+        "ts": 1791306732
       }
     ],
     "language": "en",
-    "packId": "20261006-75",
-    "sequence": 75,
+    "packId": "20261006-76",
+    "sequence": 76,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:02"
+    "updatedAt": "17:12"
   },
   "verified": true
 }
