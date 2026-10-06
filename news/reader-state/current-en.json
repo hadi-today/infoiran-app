@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-73 seq=73 exp=1791477867",
+      "advancedStatus": "pack_id=20261006-74 seq=74 exp=1791478346",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:44",
+      "lastChecked": "16:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 16:44",
+    "expiresAt": "2026-10-08 16:52",
     "items": [
       {
         "channel": "harana",
@@ -700,14 +700,21 @@
         "text": "The Janfadaian Isfahan exercise was held on October 1st, featuring men in plain clothes carrying cold weapons. The exercise aimed to demonstrate public readiness and capacities. Legal experts described the open carrying of cold weapons as a show of force.",
         "time": "16:42",
         "ts": 1791304945
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Mohsen Babaian, a prisoner arrested during the December 1404 protests, was sentenced to death by Branch 26 of the Tehran Revolutionary Court on charges of moharebeh. The sentence was issued by Judge Iman Afshari and was communicated to him yesterday. The news was reported by the HRANA news agency.",
+        "time": "16:52",
+        "ts": 1791305520
       }
     ],
     "language": "en",
-    "packId": "20261006-73",
-    "sequence": 73,
+    "packId": "20261006-74",
+    "sequence": 74,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:44"
+    "updatedAt": "16:52"
   },
   "verified": true
 }
