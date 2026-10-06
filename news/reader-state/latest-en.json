@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-05 seq=5 exp=1791423210",
+      "advancedStatus": "pack_id=20261006-06 seq=6 exp=1791424249",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:33",
+      "lastChecked": "01:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 01:33",
+    "expiresAt": "2026-10-08 01:50",
     "items": [
       {
         "channel": "harana",
@@ -147,14 +147,21 @@
         "text": "Bahrain's Ministry of Foreign Affairs condemned the attacks and threats by Houthi militias against the Red Sea and Bab al-Mandab in a letter to the UN Security Council. Bahrain called on the council to end these attacks. It also emphasized its support for clearing Yemen of terrorism and restoring its government.",
         "time": "01:33",
         "ts": 1791250383
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump, the US President, said Washington is \"crushing\" the Islamic Republic and stressed that Iran's government will not obtain nuclear weapons. He added that this crisis will end \"very soon\" and after that, oil prices will drop sharply. Trump also said the US Navy and Army performed \"amazingly\" during the blockade and now more oil is passing through the Strait of Hormuz than before the war began.",
+        "time": "01:50",
+        "ts": 1791251431
       }
     ],
     "language": "en",
-    "packId": "20261006-05",
-    "sequence": 5,
+    "packId": "20261006-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:33"
+    "updatedAt": "01:50"
   },
   "verified": true
 }
