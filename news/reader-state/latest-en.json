@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-61 seq=61 exp=1791470575",
+      "advancedStatus": "pack_id=20261006-63 seq=63 exp=1791471475",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:42",
+      "lastChecked": "14:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 14:42",
+    "expiresAt": "2026-10-08 14:57",
     "items": [
       {
         "channel": "harana",
@@ -623,14 +623,21 @@
         "text": "Alireza Sepahi and Alireza Raeisi, two defendants in the Aliakhani Square case in Isfahan, were executed in Dastgerd prison. Sepahi's family was only allowed to install a condolence banner with his name. The number of executions in this case has reached seven.",
         "time": "14:42",
         "ts": 1791297763
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mahan Mardani, a futsal player and goalkeeper for Shahrood University, was killed during the December 2025 protests in Qods city, Tehran. He died from two war bullets hitting his thigh bone at Fayyazbakhsh Hospital in Tehran. Mardani was a distinguished student and a cat lover.",
+        "time": "14:57",
+        "ts": 1791298653
       }
     ],
     "language": "en",
-    "packId": "20261006-61",
-    "sequence": 61,
+    "packId": "20261006-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:42"
+    "updatedAt": "14:57"
   },
   "verified": true
 }
