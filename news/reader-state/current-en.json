@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-66 seq=66 exp=1791472910",
+      "advancedStatus": "pack_id=20261006-69 seq=69 exp=1791475316",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:21",
+      "lastChecked": "16:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 15:21",
+    "expiresAt": "2026-10-08 16:01",
     "items": [
       {
         "channel": "harana",
@@ -651,14 +651,35 @@
         "text": "Trump stated his intention to save the US, Israel, the Middle East, and the world from the problem of the Islamic Republic. He defended war, saying the goal is worth the cost. Meanwhile, Israel Hayom reported that the Israeli army is preparing to attack Iran.",
         "time": "15:21",
         "ts": 1791300081
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "August Hanning, former head of Germany's foreign intelligence service, has been arrested on suspicion of espionage, obtaining state secrets, and attempting treason. Among the discovered documents are reports about the Islamic Republic's nuclear program. More details are provided in an interview with an Iran International reporter.",
+        "time": "15:38",
+        "ts": 1791301093
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Sanat Naft Abadan members were denied hotel access in Tehran due to outstanding financial demands, and the dining hall was not provided. The team's technical analysis meeting was canceled, and the training bus did not arrive. Additionally, the team could not use the training field due to unpaid rental fees.",
+        "time": "15:38",
+        "ts": 1791301139
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video has been released showing armed military forces present at a boys' school in Urmia. This school is located in the center of West Azerbaijan province. The news was reported by Iran International.",
+        "time": "16:01",
+        "ts": 1791302492
       }
     ],
     "language": "en",
-    "packId": "20261006-66",
-    "sequence": 66,
+    "packId": "20261006-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:21"
+    "updatedAt": "16:01"
   },
   "verified": true
 }
