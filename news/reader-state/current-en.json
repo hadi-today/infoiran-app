@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-103 seq=103 exp=1791498704",
+      "advancedStatus": "pack_id=20261006-104 seq=104 exp=1791499130",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:31",
+      "lastChecked": "22:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 22:31",
+    "expiresAt": "2026-10-08 22:38",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "Morad Vaisi stated that the behavior of revolutionary people and the opposition is partly determined by the ruling government. He added that the Islamic Republic's criminal suppression methods have angered the people more. This plays a role in the process of the government's overthrow.",
         "time": "22:31",
         "ts": 1791325884
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amin Nasser, CEO of Aramco, stated that global commercial oil reserves have fallen below six billion barrels, with most of it inaccessible. The International Energy Agency plans to release 100 million barrels of oil, but supplying it is challenging. Industry leaders expect market disruption to continue until next year.",
+        "time": "22:38",
+        "ts": 1791326311
       }
     ],
     "language": "en",
-    "packId": "20261006-103",
-    "sequence": 103,
+    "packId": "20261006-104",
+    "sequence": 104,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:31"
+    "updatedAt": "22:38"
   },
   "verified": true
 }
