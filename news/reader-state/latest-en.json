@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-14 seq=14 exp=1791436180",
+      "advancedStatus": "pack_id=20261006-15 seq=15 exp=1791437796",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:09",
+      "lastChecked": "05:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 05:09",
+    "expiresAt": "2026-10-08 05:36",
     "items": [
       {
         "channel": "harana",
@@ -210,14 +210,21 @@
         "text": "Ali Rafiei, head of Tehran's public places police, announced that serving hookah and live music performances in cafes are prohibited. Cafes must operate strictly within their licensed framework, and police will confront violations. Use of DJs and gambling-related activities are also banned.",
         "time": "05:09",
         "ts": 1791263351
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Economic and financial sanctions against Iran have expanded. These restrictions include banks, exchange offices, and financial networks related to Iran. Ali Dadpay described the situation as a major crisis.",
+        "time": "05:36",
+        "ts": 1791264974
       }
     ],
     "language": "en",
-    "packId": "20261006-14",
-    "sequence": 14,
+    "packId": "20261006-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:09"
+    "updatedAt": "05:36"
   },
   "verified": true
 }
