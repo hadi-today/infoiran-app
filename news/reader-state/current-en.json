@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-79 seq=79 exp=1791481334",
+      "advancedStatus": "pack_id=20261006-80 seq=80 exp=1791481845",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:42",
+      "lastChecked": "17:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 17:42",
+    "expiresAt": "2026-10-08 17:50",
     "items": [
       {
         "channel": "harana",
@@ -742,14 +742,21 @@
         "text": "Citizens in Iran report increasing pressure from inflation and difficulty in meeting basic living needs. Some have resorted to selling educational books to provide food for their children. Additionally, buying semi-rotten fruits has increased due to high prices.",
         "time": "17:41",
         "ts": 1791308508
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hosseinali Hajideligani called for the establishment of an independent deputy in the Central Bank to counter the currency war. He stated that the US has explicitly announced plans to devalue Iran's national currency. He also pointed to the need to revise the currency distribution mechanism and reduce the economy's dependence on the dollar.",
+        "time": "17:50",
+        "ts": 1791309021
       }
     ],
     "language": "en",
-    "packId": "20261006-79",
-    "sequence": 79,
+    "packId": "20261006-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:42"
+    "updatedAt": "17:50"
   },
   "verified": true
 }
