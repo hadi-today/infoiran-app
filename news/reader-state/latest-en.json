@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-77 seq=77 exp=1791480091",
+      "advancedStatus": "pack_id=20261006-78 seq=78 exp=1791480673",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:21",
+      "lastChecked": "17:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 17:21",
+    "expiresAt": "2026-10-08 17:31",
     "items": [
       {
         "channel": "harana",
@@ -728,14 +728,21 @@
         "text": "Donald Trump suggested the possibility of Tehran's role in the FlyDubai incident. Israel prepared its fighters after the co-pilot attack but refrained from shooting down the plane after it changed course to Saudi Arabia. In the UK, a person has been arrested in connection with the planned attack on the Fairford base.",
         "time": "17:21",
         "ts": 1791307265
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "IRNA news agency reported that an explosion sound was heard from the sea side in Qeshm Island. So far, no reports of impact or damage on the island have been announced. Local sources have not provided details about the explosion.",
+        "time": "17:30",
+        "ts": 1791307850
       }
     ],
     "language": "en",
-    "packId": "20261006-77",
-    "sequence": 77,
+    "packId": "20261006-78",
+    "sequence": 78,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:21"
+    "updatedAt": "17:31"
   },
   "verified": true
 }
