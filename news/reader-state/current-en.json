@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-36 seq=36 exp=1791455417",
+      "advancedStatus": "pack_id=20261006-37 seq=37 exp=1791455635",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:30",
+      "lastChecked": "10:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 10:30",
+    "expiresAt": "2026-10-08 10:33",
     "items": [
       {
         "channel": "harana",
@@ -406,14 +406,21 @@
         "text": "Francis Halzen, a Belgian physicist, won the 2026 Nobel Prize in Physics. He received the award for his key role in building the IceCube Observatory and discovering high-energy neutrinos of cosmic origin. This news was reported by Mehran Abbasian from Iran International.",
         "time": "10:29",
         "ts": 1791282594
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Shahrouz Sadidi, a 39-year-old resident of Sabzevar, was arrested on October 8 by the Intelligence Forces of the Sepah. He was transferred to Sabzevar prison and is held in solitary confinement. He faces charges of propaganda against the regime and has been issued a one-month temporary detention order.",
+        "time": "10:31",
+        "ts": 1791282686
       }
     ],
     "language": "en",
-    "packId": "20261006-36",
-    "sequence": 36,
+    "packId": "20261006-37",
+    "sequence": 37,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:30"
+    "updatedAt": "10:33"
   },
   "verified": true
 }
