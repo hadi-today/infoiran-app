@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-60 seq=60 exp=1791469420",
+      "advancedStatus": "pack_id=20261006-61 seq=61 exp=1791470575",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:23",
+      "lastChecked": "14:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 14:23",
+    "expiresAt": "2026-10-08 14:42",
     "items": [
       {
         "channel": "harana",
@@ -609,14 +609,28 @@
         "text": "The Israeli National Security Council warned about increased risks of attacks against Israelis and Jews abroad ahead of the third anniversary of the October 7 attack. The council advised citizens to avoid traveling to certain countries and areas with travel warnings. It also recommended avoiding gatherings and not sharing travel plans on social media.",
         "time": "14:23",
         "ts": 1791296599
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The judiciary spokesperson announced the formation of 476 cases and issuance of 163 indictments related to the two recent wars. Additionally, 250 cases involving 1,895 defendants accused of cooperating with Israel and hostile countries have been formed. So far, 70 indictments have been issued in this matter.",
+        "time": "14:42",
+        "ts": 1791297720
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Sepahi and Alireza Raeisi, two defendants in the Aliakhani Square case in Isfahan, were executed in Dastgerd prison. Sepahi's family was only allowed to install a condolence banner with his name. The number of executions in this case has reached seven.",
+        "time": "14:42",
+        "ts": 1791297763
       }
     ],
     "language": "en",
-    "packId": "20261006-60",
-    "sequence": 60,
+    "packId": "20261006-61",
+    "sequence": 61,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:23"
+    "updatedAt": "14:42"
   },
   "verified": true
 }
