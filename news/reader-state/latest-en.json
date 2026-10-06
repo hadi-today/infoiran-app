@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-04 seq=4 exp=1791422708",
+      "advancedStatus": "pack_id=20261006-05 seq=5 exp=1791423210",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:25",
+      "lastChecked": "01:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 01:25",
+    "expiresAt": "2026-10-08 01:33",
     "items": [
       {
         "channel": "harana",
@@ -140,14 +140,21 @@
         "text": "Three years after the October 7 attack on Israel, new details about Hamas's planning for the attack have been revealed. Yahya Sinwar believed the attack could lead to the destruction of Israel or disrupt normalization with Arab countries. These details are based on obtained documents and a report by an Iran International journalist.",
         "time": "01:24",
         "ts": 1791249890
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Bahrain's Ministry of Foreign Affairs condemned the attacks and threats by Houthi militias against the Red Sea and Bab al-Mandab in a letter to the UN Security Council. Bahrain called on the council to end these attacks. It also emphasized its support for clearing Yemen of terrorism and restoring its government.",
+        "time": "01:33",
+        "ts": 1791250383
       }
     ],
     "language": "en",
-    "packId": "20261006-04",
-    "sequence": 4,
+    "packId": "20261006-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:25"
+    "updatedAt": "01:33"
   },
   "verified": true
 }
