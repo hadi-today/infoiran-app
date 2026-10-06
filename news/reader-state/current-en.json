@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-98 seq=98 exp=1791496376",
+      "advancedStatus": "pack_id=20261006-99 seq=99 exp=1791496623",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:52",
+      "lastChecked": "21:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 21:52",
+    "expiresAt": "2026-10-08 21:57",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "Donald Trump said the US Navy has imposed one of the most effective and impenetrable blockades in history against Iran, and no ship can pass through it. He added that if a ship attempts to pass and carries oil, its cabin or rudder will be targeted, and if it has no oil, it will be sunk. Trump also said the Strait of Hormuz is now under US control and belongs to the US Navy.",
         "time": "21:52",
         "ts": 1791323569
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Donald Trump, the US President, in a speech in Maryland, called the Islamic Republic \"evil and a bully in the Middle East\" and stated that the Iranian government \"is no longer much of a bully.\" He emphasized that the US Navy ensures Tehran will never acquire nuclear weapons, and this issue \"is practically certain.\" Trump also claimed that Iran's air and naval forces have been destroyed, with 159 of their ships now at the bottom of the sea.",
+        "time": "21:53",
+        "ts": 1791323605
       }
     ],
     "language": "en",
-    "packId": "20261006-98",
-    "sequence": 98,
+    "packId": "20261006-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:52"
+    "updatedAt": "21:57"
   },
   "verified": true
 }
