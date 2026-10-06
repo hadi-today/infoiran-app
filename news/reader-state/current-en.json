@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-43 seq=43 exp=1791460842",
+      "advancedStatus": "pack_id=20261006-44 seq=44 exp=1791461294",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:00",
+      "lastChecked": "12:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 12:00",
+    "expiresAt": "2026-10-08 12:08",
     "items": [
       {
         "channel": "harana",
@@ -462,14 +462,28 @@
         "text": "The Saudi aviation authority confirmed attacks on Jazan and Najran airports, reporting three injuries and material damage. The GCC Secretary-General condemned the attacks. It was warned that targeting civilian facilities would escalate tensions.",
         "time": "12:00",
         "ts": 1791288020
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The second session of the trial of three Iranians accused of cooperating with the Islamic Republic's intelligence service is being held at the Royal Court of Woolwich in London. The UK prosecution stated that the defendants admitted to reconnaissance operations, including taking photos and videos and monitoring two journalists. This report was prepared by Tajeddin Soroush from Iran International.",
+        "time": "12:01",
+        "ts": 1791288061
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Nazanin Zahra Salehi, a 13-year-old child, was killed on January 8, 2026, in Kermanshah. A video shows her mother's distress after receiving her daughter's school report card. The mother shouts that she has just realized her daughter is gone.",
+        "time": "12:05",
+        "ts": 1791288300
       }
     ],
     "language": "en",
-    "packId": "20261006-43",
-    "sequence": 43,
+    "packId": "20261006-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:00"
+    "updatedAt": "12:08"
   },
   "verified": true
 }
