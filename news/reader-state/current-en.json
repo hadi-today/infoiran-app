@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-24 seq=24 exp=1791445047",
+      "advancedStatus": "pack_id=20261006-26 seq=26 exp=1791449828",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:37",
+      "lastChecked": "08:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 07:37",
+    "expiresAt": "2026-10-08 08:57",
     "items": [
       {
         "channel": "harana",
@@ -308,14 +308,42 @@
         "text": "The head of the Tehran food wholesalers union stated that the price increase of legumes and rice has not matched the sharp rise in the exchange rate due to abundant supply and reduced purchasing power. These items have seen a price increase of about 5 to 10 percent. He warned that if the exchange rate continues to rise, the prices of food and essential goods could increase further.",
         "time": "07:34",
         "ts": 1791272059
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Sepahi, a protester executed who was involved in the December protests and convicted in the Ali Khani Square case in Isfahan, was executed on Monday, October 5. A video showing him dancing and celebrating has been released. This news was reported by Iran International.",
+        "time": "08:53",
+        "ts": 1791276786
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows students in a school throwing shoes at pictures of the leaders of the Islamic Republic. The video was released by Iran International. The issue concerns student behavior in the school.",
+        "time": "08:53",
+        "ts": 1791276826
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Administrative Justice Court's Branch 45 annulled the Taekwondo Federation election held on May 11. This ruling was issued following complaints by two candidates against the Ministry of Sports and Youth. The ruling is not final, and the parties have 20 days to appeal.",
+        "time": "08:54",
+        "ts": 1791276840
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Ali Riyahi, a resident of Mahabad, was arrested by security forces in the city. He was transferred to an unknown location. This event occurred yesterday.",
+        "time": "08:54",
+        "ts": 1791276882
       }
     ],
     "language": "en",
-    "packId": "20261006-24",
-    "sequence": 24,
+    "packId": "20261006-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:37"
+    "updatedAt": "08:57"
   },
   "verified": true
 }
