@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-105 seq=105 exp=1791499395",
+      "advancedStatus": "pack_id=20261006-106 seq=106 exp=1791501100",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:43",
+      "lastChecked": "23:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,36 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 22:43",
+    "expiresAt": "2026-10-08 23:11",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump once again confirmed that dialogue between Tehran and Washington remains possible. He also stated that he personally believes the Islamic Republic was involved in the recent FlyDubai incident to Israel. This report was published by Samira Gharaei from Iran International.",
-        "time": "22:49",
-        "ts": 1791240549
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Educational protests in France have spread to universities. The Minister of Higher Education announced the closure or blockade of 30 to 40 university centers. Students have joined the protests, adding housing costs and living expenses to their demands.",
-        "time": "22:52",
-        "ts": 1791240743
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Arzoo from Tehran says her brother was killed. His body was not handed over to the family. They said he was buried in a certain place.",
-        "time": "23:02",
-        "ts": 1791241355
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The member countries of the Multilateral Counterterrorism Forum condemned the terrorist actions and destructive infiltration by the Islamic Republic and its proxy forces in the Western Hemisphere. The forum includes the governments of the United States, Argentina, Canada, and several other countries. The statement refers to deadly plots, illegal fundraising, and political interference.",
-        "time": "23:07",
-        "ts": 1791241625
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -868,14 +840,21 @@
         "text": "Despite the return of Middle East oil flow to pre-war conditions, the oil market remains unstable. Producers are seeking new pipelines. China has increased its contracts with Iraq and Qatar, putting heavy financial pressure on Iran.",
         "time": "22:41",
         "ts": 1791326478
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Kambiz Tavana stated that despite the increase in energy exports and transfers, maritime security in the Strait of Hormuz has not returned to pre-conflict conditions. Attacks continue and ships require military escort. One method of cargo transfer is ship-to-ship after passing through the Strait of Hormuz.",
+        "time": "23:11",
+        "ts": 1791328277
       }
     ],
     "language": "en",
-    "packId": "20261006-105",
-    "sequence": 105,
+    "packId": "20261006-106",
+    "sequence": 106,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:43"
+    "updatedAt": "23:11"
   },
   "verified": true
 }
