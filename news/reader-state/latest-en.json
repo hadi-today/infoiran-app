@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-29 seq=29 exp=1791451967",
+      "advancedStatus": "pack_id=20261006-30 seq=30 exp=1791452195",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:32",
+      "lastChecked": "09:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 09:32",
+    "expiresAt": "2026-10-08 09:36",
     "items": [
       {
         "channel": "harana",
@@ -357,14 +357,21 @@
         "text": "A video shows protesters writing a hopeful message on a wall in Mashhad. The text reads: \"A new day will come and Iran will shine again.\" This video was released by Iran International.",
         "time": "09:32",
         "ts": 1791279144
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reports have emerged about students in Iranian schools being forced to join the \"Janfada\" campaign. Government institutions such as the Revolutionary Guards and the Islamic Propaganda Organization pressure students to participate. Students face threats of expulsion and grade denial if they do not attend these programs.",
+        "time": "09:34",
+        "ts": 1791279253
       }
     ],
     "language": "en",
-    "packId": "20261006-29",
-    "sequence": 29,
+    "packId": "20261006-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:32"
+    "updatedAt": "09:36"
   },
   "verified": true
 }
