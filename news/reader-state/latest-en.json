@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-33 seq=33 exp=1791453725",
+      "advancedStatus": "pack_id=20261006-34 seq=34 exp=1791454869",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:02",
+      "lastChecked": "10:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 10:02",
+    "expiresAt": "2026-10-08 10:21",
     "items": [
       {
         "channel": "harana",
@@ -385,14 +385,21 @@
         "text": "Friends and classmates of Raha Bahlolipour commemorated her memory in the classroom. Raha Bahlolipour, a 23-year-old student at the University of Tehran, was killed on January 9, 2026, in Tehran. The video shows this memorial event.",
         "time": "10:01",
         "ts": 1791280904
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "German media reported a shooting at the Export Bank building in Hamburg. Several bullets hit the entrance door early Monday, October 5. The incident occurred in the city center.",
+        "time": "10:20",
+        "ts": 1791282048
       }
     ],
     "language": "en",
-    "packId": "20261006-33",
-    "sequence": 33,
+    "packId": "20261006-34",
+    "sequence": 34,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:02"
+    "updatedAt": "10:21"
   },
   "verified": true
 }
