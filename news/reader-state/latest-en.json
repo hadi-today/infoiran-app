@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-21 seq=21 exp=1791442857",
+      "advancedStatus": "pack_id=20261006-22 seq=22 exp=1791443936",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:00",
+      "lastChecked": "07:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 07:00",
+    "expiresAt": "2026-10-08 07:18",
     "items": [
       {
         "channel": "harana",
@@ -280,14 +280,21 @@
         "text": "A group of Iranians living in Germany gathered on Monday, October 5, in downtown Hanover. The gathering was held in memory of Alireza Sepahi and Alireza Raeisi, executed protesters. Videos of this gathering have been sent to Iran International.",
         "time": "06:57",
         "ts": 1791269828
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "On the evening of Sunday, October 4th, two citizens were killed due to gunfire by security forces in the Kozeh Square area of Zahedan. The incident occurred in the Zahedan shared market district. More details have been published by Harana News Agency.",
+        "time": "07:18",
+        "ts": 1791271110
       }
     ],
     "language": "en",
-    "packId": "20261006-21",
-    "sequence": 21,
+    "packId": "20261006-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:00"
+    "updatedAt": "07:18"
   },
   "verified": true
 }
