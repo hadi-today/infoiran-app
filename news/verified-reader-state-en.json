@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-93 seq=93 exp=1791488512",
+      "advancedStatus": "pack_id=20261006-95 seq=95 exp=1791489218",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:41",
+      "lastChecked": "19:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 19:41",
+    "expiresAt": "2026-10-08 19:53",
     "items": [
       {
         "channel": "harana",
@@ -840,14 +840,28 @@
         "text": "The audio version of the program 24 with Fardad Farahzad has been released. The program discusses the Islamic Republic's involvement in the plan to attack the Fairford airbase. This program was broadcast on Iran International.",
         "time": "19:39",
         "ts": 1791315577
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Cristiano Ronaldo stated that he decided to leave the Portugal national team camp after the coach did not fulfill their agreement. He emphasized that he is still ready to participate in the national team. Ronaldo also explained his support for the current coach and details about his playing schedule.",
+        "time": "19:46",
+        "ts": 1791315987
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump, the President of the United States, told reporters on Tuesday, 14 Mehr, at the White House that millions of barrels of oil have been transferred through the Strait of Hormuz in recent days, and oil transfer levels now sometimes exceed pre-war levels.",
+        "time": "19:53",
+        "ts": 1791316387
       }
     ],
     "language": "en",
-    "packId": "20261006-93",
-    "sequence": 93,
+    "packId": "20261006-95",
+    "sequence": 95,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:41"
+    "updatedAt": "19:53"
   },
   "verified": true
 }
