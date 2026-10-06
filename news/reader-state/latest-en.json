@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-12 seq=12 exp=1791430714",
+      "advancedStatus": "pack_id=20261006-13 seq=13 exp=1791435656",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:38",
+      "lastChecked": "05:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-06",
-    "expiresAt": "2026-10-08 03:38",
+    "expiresAt": "2026-10-08 05:00",
     "items": [
       {
         "channel": "harana",
@@ -196,14 +196,21 @@
         "text": "Donald Trump stated that he personally believes the Islamic Republic was involved in the recent Flydubai flight incident. Amir Hamidi considered this statement beyond a political opinion, linking it to civil aviation security. He added that if the role of the IRGC is proven, the US could increase pressure on Tehran through diplomatic, economic, intelligence, judicial, and counterterrorism tools.",
         "time": "03:35",
         "ts": 1791257741
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Akraminia, spokesperson for the Islamic Republic Army, announced that the Islamic Republic has a large reserve of new defensive and offensive equipment, including missiles and drones. He stated that these equipments were produced daily during the war and their production continues. He also added that the use of these equipments will be publicized at the appropriate time.",
+        "time": "05:00",
+        "ts": 1791262828
       }
     ],
     "language": "en",
-    "packId": "20261006-12",
-    "sequence": 12,
+    "packId": "20261006-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:38"
+    "updatedAt": "05:00"
   },
   "verified": true
 }
