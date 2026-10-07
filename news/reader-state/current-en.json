@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-04 seq=4 exp=1791533010",
+      "advancedStatus": "pack_id=20261007-06 seq=6 exp=1791534721",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:03",
+      "lastChecked": "08:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 08:03",
+    "expiresAt": "2026-10-09 08:32",
     "items": [
       {
         "channel": "iranintl",
@@ -140,14 +140,28 @@
         "text": "Financial Times reported that due to increased attacks by the Islamic Republic on ships, oil tanker captains receive a monthly salary of $100,000 and a $50,000 bonus per trip for passing through the Strait of Hormuz. Ship owners pay a 'danger allowance' to encourage sailors, and ordinary crew members receive four to six times their usual wages. Most ships pass through the strait at night with GPS signals turned off.",
         "time": "08:02",
         "ts": 1791360140
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Akbar Rashad announced that the Spiritual Health field has been designed as an official and scientific discipline. This field has been launched at the Imam Reza seminary. The level of this field is equivalent to a PhD.",
+        "time": "08:05",
+        "ts": 1791360348
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A shopkeeper stated that the price increase of the new chip batch is not limited to 70-gram packages. Other similar products have also become more expensive. This was reported in a video received by Iran International.",
+        "time": "08:31",
+        "ts": 1791361862
       }
     ],
     "language": "en",
-    "packId": "20261007-04",
-    "sequence": 4,
+    "packId": "20261007-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:03"
+    "updatedAt": "08:32"
   },
   "verified": true
 }
