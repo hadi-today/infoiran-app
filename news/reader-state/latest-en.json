@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-02 seq=2 exp=1791508860",
+      "advancedStatus": "pack_id=20261007-03 seq=3 exp=1791509101",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:21",
+      "lastChecked": "01:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 01:21",
+    "expiresAt": "2026-10-09 01:25",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "New satellite images show increased activity at the mine-clearing facility in northeast Tehran after the Israeli attack in March. Israel and the Institute for Science and International Security consider this facility linked to Iran's nuclear weapons efforts. This report was published by the Jerusalem Post.",
         "time": "01:20",
         "ts": 1791336042
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amir Hamidi stated that Reza Pahlavi's stance on the Islamic Republic's presence in Latin America links the Iran issue to the national security of regional countries. He added that the joint statement by the US and nine other countries regarding the Islamic Republic's activities could lead to judicial and police cooperation. The Islamic Republic's model in this region is multilayered, involving the Quds Force, Hezbollah, and front companies.",
+        "time": "01:21",
+        "ts": 1791336112
       }
     ],
     "language": "en",
-    "packId": "20261007-02",
-    "sequence": 2,
+    "packId": "20261007-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:21"
+    "updatedAt": "01:25"
   },
   "verified": true
 }
