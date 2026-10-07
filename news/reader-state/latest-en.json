@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-13 seq=13 exp=1791524614",
+      "advancedStatus": "pack_id=20261007-14 seq=14 exp=1791525063",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:43",
+      "lastChecked": "05:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 05:43",
+    "expiresAt": "2026-10-09 05:51",
     "items": [
       {
         "channel": "iranintl",
@@ -826,14 +826,21 @@
         "text": "The World Health Organization is investigating the death of an employee at the Anti-Plague Research Institute in Irkutsk, Russia. There are reports of his possible infection with pneumonic plague. Russian officials have denied any cases of plague in the region.",
         "time": "05:43",
         "ts": 1791351791
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A US official told the Associated Press that the threat against RAF Fairford in Britain, aimed at killing US forces and destroying US military aircraft, was linked to the Islamic Republic. Meanwhile, British police arrested a seventh suspect in the case.",
+        "time": "05:50",
+        "ts": 1791352242
       }
     ],
     "language": "en",
-    "packId": "20261007-13",
-    "sequence": 13,
+    "packId": "20261007-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:43"
+    "updatedAt": "05:51"
   },
   "verified": true
 }
