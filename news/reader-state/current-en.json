@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-75 seq=75 exp=1791582778",
+      "advancedStatus": "pack_id=20261007-76 seq=76 exp=1791583888",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:52",
+      "lastChecked": "22:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 21:52",
+    "expiresAt": "2026-10-09 22:11",
     "items": [
       {
         "channel": "iranintl",
@@ -588,14 +588,21 @@
         "text": "The World Bank in its latest forecast predicted that Iran's economy will shrink by more than seven and a half percent and the per capita income of each Iranian will decrease by more than eight percent. The bank also estimated Iran's annual inflation rate at 74 percent.",
         "time": "21:52",
         "ts": 1791409937
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ismail Baghaei, spokesperson for the Ministry of Foreign Affairs of the Islamic Republic, said Tehran has communicated its considerations and conditions for ending the war on all fronts and restoring security to the Persian Gulf and the Strait of Hormuz to the other side. The response to US proposals will also be provided through mediators.",
+        "time": "22:10",
+        "ts": 1791411041
       }
     ],
     "language": "en",
-    "packId": "20261007-75",
-    "sequence": 75,
+    "packId": "20261007-76",
+    "sequence": 76,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:52"
+    "updatedAt": "22:11"
   },
   "verified": true
 }
