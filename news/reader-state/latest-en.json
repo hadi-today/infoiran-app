@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-72 seq=72 exp=1791581444",
+      "advancedStatus": "pack_id=20261007-73 seq=73 exp=1791582047",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:30",
+      "lastChecked": "21:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 21:30",
+    "expiresAt": "2026-10-09 21:40",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump stated that the US Navy has imposed an effective and impenetrable blockade against Iran. He said the Strait of Hormuz is now under US Navy control and no ship can pass through the blockade. Trump also emphasized that the US does not need Iranian oil, but other countries depend on it.",
-        "time": "21:33",
-        "ts": 1791322421
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -581,14 +574,21 @@
         "text": "Morad Vaisi stated that the Islamic Republic of Iran has paid 200 million dollars to Hezbollah Lebanon. This amount equals 810 million tomans for each of the 50,000 Lebanese households. This action took place amid Iran's severe economic difficulties.",
         "time": "21:29",
         "ts": 1791408594
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Nader Ghazipour stated that Tractor club was gifted to Mohammad Reza Zanouzi. He said that Sepah Ashura, due to problems with the club, handed it over to Zanouzi. Ghazipour confirmed his role as an intermediary in this transfer.",
+        "time": "21:40",
+        "ts": 1791409202
       }
     ],
     "language": "en",
-    "packId": "20261007-72",
-    "sequence": 72,
+    "packId": "20261007-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:30"
+    "updatedAt": "21:40"
   },
   "verified": true
 }
