@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-35 seq=35 exp=1791547981",
+      "advancedStatus": "pack_id=20261007-36 seq=36 exp=1791548130",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:13",
+      "lastChecked": "12:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 12:13",
+    "expiresAt": "2026-10-09 12:15",
     "items": [
       {
         "channel": "iranintl",
@@ -357,14 +357,21 @@
         "text": "Mohammad Reza Naqdi announced that the range of the Islamic Republic's missiles will be increased according to battlefield needs. He stated that the limited range of weapons is due to policy, not technical reasons. He also said the Strait of Hormuz is closed and illegal routes there are being blocked.",
         "time": "12:12",
         "ts": 1791375133
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The deputy prosecutor of Shahr-e Kord announced the closure of three commercial units. One of these units was a cafe. The reason for closing the cafe was stated as enhancing moral security.",
+        "time": "12:14",
+        "ts": 1791375279
       }
     ],
     "language": "en",
-    "packId": "20261007-35",
-    "sequence": 35,
+    "packId": "20261007-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:13"
+    "updatedAt": "12:15"
   },
   "verified": true
 }
