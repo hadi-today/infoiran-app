@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-28 seq=28 exp=1791559896",
+      "advancedStatus": "pack_id=20261007-29 seq=29 exp=1791560033",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:31",
+      "lastChecked": "15:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 15:31",
+    "expiresAt": "2026-10-09 15:33",
     "items": [
       {
         "channel": "iranintl",
@@ -588,14 +588,21 @@
         "text": "A video shows a protester in Sabzevar burning a banner with the image of Ali Khamenei. The video was received by Iran International. This event took place in Sabzevar.",
         "time": "15:31",
         "ts": 1791387062
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Marco Rubio emphasized during his trip to Greece that Washington will not allow the Islamic Republic to obtain nuclear weapons. He also pointed to missed opportunities for agreement by the Islamic Republic. These remarks came after news about new nuclear activities in Iran.",
+        "time": "15:32",
+        "ts": 1791387166
       }
     ],
     "language": "en",
-    "packId": "20261007-28",
-    "sequence": 28,
+    "packId": "20261007-29",
+    "sequence": 29,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:31"
+    "updatedAt": "15:33"
   },
   "verified": true
 }
