@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-14 seq=14 exp=1791525063",
+      "advancedStatus": "pack_id=20261007-15 seq=15 exp=1791525321",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:51",
+      "lastChecked": "05:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 05:51",
+    "expiresAt": "2026-10-09 05:55",
     "items": [
       {
         "channel": "iranintl",
@@ -833,14 +833,28 @@
         "text": "A US official told the Associated Press that the threat against RAF Fairford in Britain, aimed at killing US forces and destroying US military aircraft, was linked to the Islamic Republic. Meanwhile, British police arrested a seventh suspect in the case.",
         "time": "05:50",
         "ts": 1791352242
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Yemeni government forces, supported by Saudi airstrikes, have retaken parts of the coasts around the Bab al-Mandab Strait from the Houthis. They advanced close to the city of Mocha. This operation aims to reclaim areas that the Houthis had captured last month.",
+        "time": "05:51",
+        "ts": 1791352279
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reza Goharzad said the rapid reconstruction of nuclear sites indicates that the Islamic Republic is seeking to revive its nuclear capability. He added that these actions could increase the likelihood of another Israeli attack on Iran. He also emphasized that the Islamic Republic, with a possible exit from the NPT, aims to repeat North Korea's pattern.",
+        "time": "05:51",
+        "ts": 1791352314
       }
     ],
     "language": "en",
-    "packId": "20261007-14",
-    "sequence": 14,
+    "packId": "20261007-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:51"
+    "updatedAt": "05:55"
   },
   "verified": true
 }
