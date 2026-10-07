@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-19 seq=19 exp=1791529357",
+      "advancedStatus": "pack_id=20261007-20 seq=20 exp=1791529918",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:02",
+      "lastChecked": "07:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 07:02",
+    "expiresAt": "2026-10-09 07:11",
     "items": [
       {
         "channel": "harana",
@@ -847,14 +847,21 @@
         "text": "Najmeh Amini, a 23-year-old woman, has been sentenced to death by the Sixth Branch of the Criminal Court One of Khorasan Razavi for blasphemy and insulting the Imams in cyberspace. She previously announced the death sentence in an audio file from Vakilabad Prison in Mashhad. Fars News Agency stated that no final verdict has been issued yet and the court of appeals has not commented on the case.",
         "time": "07:02",
         "ts": 1791356536
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Shirazi said that Hossein Shariatmadari's criticisms of Mohammad Bagher Ghalibaf reflect the Stability Front's concern about a possible secret agreement between Ghalibaf and the United States.",
+        "time": "07:11",
+        "ts": 1791357096
       }
     ],
     "language": "en",
-    "packId": "20261007-19",
-    "sequence": 19,
+    "packId": "20261007-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:02"
+    "updatedAt": "07:11"
   },
   "verified": true
 }
