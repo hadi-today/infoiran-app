@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-09 seq=9 exp=1791516049",
+      "advancedStatus": "pack_id=20261007-10 seq=10 exp=1791519862",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:20",
+      "lastChecked": "04:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 03:20",
+    "expiresAt": "2026-10-09 04:24",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Australian Financial Review reports that Hamam Al-Hammami frequented extremist mosques and visited extremist websites while in Australia. Australian intelligence services had a file on him. UAE officials are unhappy about not being informed before the attack, and New Zealand police confirmed that Al-Hammami spent some time in New Zealand.",
-        "time": "03:35",
-        "ts": 1791257705
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump stated that he personally believes the Islamic Republic was involved in the recent Flydubai flight incident. Amir Hamidi considered this statement beyond a political opinion, linking it to civil aviation security. He added that if the role of the IRGC is proven, the US could increase pressure on Tehran through diplomatic, economic, intelligence, judicial, and counterterrorism tools.",
-        "time": "03:35",
-        "ts": 1791257741
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -861,14 +847,21 @@
         "text": "South Korea has sent over 176,000 tons of petroleum products to Russia in two months. Ukraine considers this action contrary to Seoul's sanction policy and says it reduces fuel shortages caused by its attacks on Russian refineries. South Korea has emphasized enforcing export restrictions without explaining the shipments.",
         "time": "03:20",
         "ts": 1791343225
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Shariatmadari suggested that the seven-month closure of the parliament might have been indirectly imposed on the system. He interpreted the appointment of Qalibaf as head of the negotiation team as equivalent to the parliament's closure. Shariatmadari also pointed out the contradiction in Qalibaf's role in the negotiation team.",
+        "time": "04:24",
+        "ts": 1791347040
       }
     ],
     "language": "en",
-    "packId": "20261007-09",
-    "sequence": 9,
+    "packId": "20261007-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:20"
+    "updatedAt": "04:24"
   },
   "verified": true
 }
