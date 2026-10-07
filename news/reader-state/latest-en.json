@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-47 seq=47 exp=1791553302",
+      "advancedStatus": "pack_id=20261007-48 seq=48 exp=1791554029",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:41",
+      "lastChecked": "13:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 13:41",
+    "expiresAt": "2026-10-09 13:53",
     "items": [
       {
         "channel": "iranintl",
@@ -441,14 +441,21 @@
         "text": "Masoud Pezeshkian congratulated Vladimir Putin on his 74th birthday in a phone call. He emphasized the continuation and strengthening of bilateral cooperation between Iran and Russia. Pezeshkian considered the ongoing strategic cooperation to be in the interest of both countries.",
         "time": "13:40",
         "ts": 1791380453
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Majid Bahiraei, one of the detainees of the National Revolution in Nahavand, sent a message from prison. In his message, he said the honor of Iran and Iranians belongs to the children of Iran. This message was read from prison on August 19.",
+        "time": "13:53",
+        "ts": 1791381185
       }
     ],
     "language": "en",
-    "packId": "20261007-47",
-    "sequence": 47,
+    "packId": "20261007-48",
+    "sequence": 48,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:41"
+    "updatedAt": "13:53"
   },
   "verified": true
 }
