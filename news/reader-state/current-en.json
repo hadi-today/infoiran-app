@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-55 seq=55 exp=1791573594",
+      "advancedStatus": "pack_id=20261007-56 seq=56 exp=1791574490",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:19",
+      "lastChecked": "19:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 19:19",
+    "expiresAt": "2026-10-09 19:34",
     "items": [
       {
         "channel": "iranintl",
@@ -651,14 +651,21 @@
         "text": "Mokhtar Alboshoke, a political prisoner in Arak prison, has gone on hunger strike again since Tuesday, October 6. He started the strike in protest against the authorities' broken promises and obstruction regarding his transfer to Sheiban prison in Ahvaz. He is currently held in the quarantine ward of Arak prison.",
         "time": "19:19",
         "ts": 1791400769
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump spoke by phone with Benjamin Netanyahu on the third anniversary of the October 7 attack. Trump said the other side will pay a heavy price for what they did. He also stated that the war with the Islamic Republic will end very soon and in any form.",
+        "time": "19:34",
+        "ts": 1791401665
       }
     ],
     "language": "en",
-    "packId": "20261007-55",
-    "sequence": 55,
+    "packId": "20261007-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:19"
+    "updatedAt": "19:34"
   },
   "verified": true
 }
