@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-06 seq=6 exp=1791534721",
+      "advancedStatus": "pack_id=20261007-07 seq=7 exp=1791536483",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:32",
+      "lastChecked": "09:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 08:32",
+    "expiresAt": "2026-10-09 09:01",
     "items": [
       {
         "channel": "iranintl",
@@ -154,14 +154,28 @@
         "text": "A shopkeeper stated that the price increase of the new chip batch is not limited to 70-gram packages. Other similar products have also become more expensive. This was reported in a video received by Iran International.",
         "time": "08:31",
         "ts": 1791361862
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Marco Rubio, the US Secretary of State, said that the Islamic Republic has missed multiple opportunities for a nuclear agreement with the US. He emphasized that Iran will never acquire nuclear weapons and its military capability has diminished. He also stated that the Strait of Hormuz is open and Iran's economy is in a very dire situation.",
+        "time": "09:00",
+        "ts": 1791363633
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran International audiences report worsening living conditions for workers, teachers, and nurses. Issues include temporary contracts, partial salary payments, and insurance cuts. Rising dollar prices and inflation have reduced people's purchasing power.",
+        "time": "09:00",
+        "ts": 1791363643
       }
     ],
     "language": "en",
-    "packId": "20261007-06",
-    "sequence": 6,
+    "packId": "20261007-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:32"
+    "updatedAt": "09:01"
   },
   "verified": true
 }
