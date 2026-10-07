@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-37 seq=37 exp=1791567047",
+      "advancedStatus": "pack_id=20261007-39 seq=39 exp=1791568234",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:30",
+      "lastChecked": "17:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 17:30",
+    "expiresAt": "2026-10-09 17:50",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "IRNA news agency reported that an explosion sound was heard from the sea side in Qeshm Island. So far, no reports of impact or damage on the island have been announced. Local sources have not provided details about the explosion.",
-        "time": "17:30",
-        "ts": 1791307850
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Citizens in Iran report increasing pressure from inflation and difficulty in meeting basic living needs. Some have resorted to selling educational books to provide food for their children. Additionally, buying semi-rotten fruits has increased due to high prices.",
-        "time": "17:41",
-        "ts": 1791308508
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -588,14 +574,35 @@
         "text": "A citizen reported that the cost of issuing a new ID card has reached 970,000 tomans. This was reported in a video to Iran International. The fees for obtaining a new ID card have increased.",
         "time": "17:30",
         "ts": 1791394222
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Beiranvand, the goalkeeper of Tractor, attended a medical commission session in Tabriz due to having a tattoo. He has also undergone medical tests for exemption from military service due to a hand ligament injury and tendon pain. The final decision on his military service deferment will be made after the second medical commission session.",
+        "time": "17:43",
+        "ts": 1791394998
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Zahra Naqsineh, a lawyer and member of the East Azerbaijan Bar Association, was released from Tabriz prison on bail. The release took place on Wednesday, 15 Mehr, with a six billion toman bail. Harana News Agency reported this news.",
+        "time": "17:47",
+        "ts": 1791395221
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Dozens of employees in the movement unit of Raja Company were dismissed for not signing a new contract with unfair conditions. The new contract removes benefits such as hardship allowance, seniority base, work holidays, and mission rights. The dismissed employees worked in Tehran, Mashhad, Tabriz, and Isfahan.",
+        "time": "17:49",
+        "ts": 1791395342
       }
     ],
     "language": "en",
-    "packId": "20261007-37",
-    "sequence": 37,
+    "packId": "20261007-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:30"
+    "updatedAt": "17:50"
   },
   "verified": true
 }
