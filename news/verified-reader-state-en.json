@@ -1,27 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261006-110 seq=110 exp=1791503968",
+      "advancedStatus": "pack_id=20261007-01 seq=1 exp=1791507879",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:59",
+      "lastChecked": "01:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-10-06",
-    "expiresAt": "2026-10-08 23:59",
+    "date": "2026-10-07",
+    "expiresAt": "2026-10-09 01:04",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Trump stated that the war with the Islamic Republic will end soon and prices will decrease. He described the price increases as a small price to pay for global security. He also said that the US and its allies are saving the world from a major nuclear threat posed by the Islamic Republic.",
-        "time": "00:22",
-        "ts": 1791246122
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -868,14 +861,21 @@
         "text": "Germany's domestic intelligence agency says the Islamic Republic is seeking advanced missile technologies from Germany. Iran's missile system technology program includes ballistic missiles, cruise missiles, and drones. Iran is also pursuing CNC machines, vacuum pumps, and small explosion-proof engines made in Germany.",
         "time": "23:59",
         "ts": 1791331147
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Satellite images show significant activity has resumed at the Minzadehi site in northeast Tehran. This site is linked to nuclear weapons development and underwent extensive cleanup after an Israeli attack in March. The Israeli army targeted the site and stated that Iranian nuclear scientists had been visiting it before the attack.",
+        "time": "01:04",
+        "ts": 1791335060
       }
     ],
     "language": "en",
-    "packId": "20261006-110",
-    "sequence": 110,
+    "packId": "20261007-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:59"
+    "updatedAt": "01:04"
   },
   "verified": true
 }
