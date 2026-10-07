@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-09 seq=9 exp=1791536734",
+      "advancedStatus": "pack_id=20261007-10 seq=10 exp=1791537059",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:05",
+      "lastChecked": "09:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 09:05",
+    "expiresAt": "2026-10-09 09:10",
     "items": [
       {
         "channel": "iranintl",
@@ -175,14 +175,21 @@
         "text": "Turkey plans to send more air defense forces and equipment to Saudi Arabia in the coming weeks following intensified Houthi attacks. Ankara's focus is on countering drones and providing intelligence support. Turkey does not intend to intervene directly in the Yemen war.",
         "time": "09:03",
         "ts": 1791363821
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Qatari government has opposed a direct flight for Esteghlal team to Doha. Esteghlal must first travel to Najaf in Iraq and then take another flight to Doha. The match between Al-Gharafa and Esteghlal will be held on October 12.",
+        "time": "09:09",
+        "ts": 1791364195
       }
     ],
     "language": "en",
-    "packId": "20261007-09",
-    "sequence": 9,
+    "packId": "20261007-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:05"
+    "updatedAt": "09:10"
   },
   "verified": true
 }
