@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-07 seq=7 exp=1791536483",
+      "advancedStatus": "pack_id=20261007-09 seq=9 exp=1791536734",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:01",
+      "lastChecked": "09:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 09:01",
+    "expiresAt": "2026-10-09 09:05",
     "items": [
       {
         "channel": "iranintl",
@@ -168,14 +168,21 @@
         "text": "Iran International audiences report worsening living conditions for workers, teachers, and nurses. Issues include temporary contracts, partial salary payments, and insurance cuts. Rising dollar prices and inflation have reduced people's purchasing power.",
         "time": "09:00",
         "ts": 1791363643
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Turkey plans to send more air defense forces and equipment to Saudi Arabia in the coming weeks following intensified Houthi attacks. Ankara's focus is on countering drones and providing intelligence support. Turkey does not intend to intervene directly in the Yemen war.",
+        "time": "09:03",
+        "ts": 1791363821
       }
     ],
     "language": "en",
-    "packId": "20261007-07",
-    "sequence": 7,
+    "packId": "20261007-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:01"
+    "updatedAt": "09:05"
   },
   "verified": true
 }
