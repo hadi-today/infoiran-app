@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-21 seq=21 exp=1791530391",
+      "advancedStatus": "pack_id=20261007-22 seq=22 exp=1791530671",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:19",
+      "lastChecked": "07:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 07:19",
+    "expiresAt": "2026-10-09 07:24",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "On the third anniversary of Hamas's October 7 attack on Israel, CCTV footage shows parts of the attack. The footage includes Hamas vehicles and forces attacking a music festival and killing in residential areas. The report was prepared by Abtin Yazdanpanah for Iran International.",
         "time": "07:19",
         "ts": 1791357571
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The French Student Union reported 450,000 people protesting against school conditions and budget cuts. The Ministry of the Interior stated the number of protesters as 256,000. Approximately 1,800 high schools have been closed, shut down, or disrupted during the protests.",
+        "time": "07:22",
+        "ts": 1791357767
       }
     ],
     "language": "en",
-    "packId": "20261007-21",
-    "sequence": 21,
+    "packId": "20261007-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:19"
+    "updatedAt": "07:24"
   },
   "verified": true
 }
