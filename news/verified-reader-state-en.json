@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-24 seq=24 exp=1791544063",
+      "advancedStatus": "pack_id=20261007-25 seq=25 exp=1791545374",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:07",
+      "lastChecked": "11:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 11:07",
+    "expiresAt": "2026-10-09 11:29",
     "items": [
       {
         "channel": "iranintl",
@@ -280,14 +280,21 @@
         "text": "Marco Rubio has warned since 2015 about the risk of Iran following North Korea's path. The Islamic Republic is developing missiles and military capabilities to potentially acquire nuclear weapons. The US will continue military and political pressure on Tehran to prevent this.",
         "time": "11:06",
         "ts": 1791371200
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The 2026 Nobel Prize in Chemistry was awarded to Henri B. Kagan and Kensō Soai for their research on 'chirality' and how one mirror-image form of molecules becomes dominant in the chemistry of life.",
+        "time": "11:28",
+        "ts": 1791372518
       }
     ],
     "language": "en",
-    "packId": "20261007-24",
-    "sequence": 24,
+    "packId": "20261007-25",
+    "sequence": 25,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:07"
+    "updatedAt": "11:29"
   },
   "verified": true
 }
