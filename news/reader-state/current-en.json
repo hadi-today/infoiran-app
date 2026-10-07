@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-30 seq=30 exp=1791546262",
+      "advancedStatus": "pack_id=20261007-31 seq=31 exp=1791546507",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:44",
+      "lastChecked": "11:48",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 11:44",
+    "expiresAt": "2026-10-09 11:48",
     "items": [
       {
         "channel": "iranintl",
@@ -322,14 +322,21 @@
         "text": "Mikel Arteta signed a new contract with Arsenal until 2030. He described recent successes as just the beginning. His salary has increased in the new contract.",
         "time": "11:43",
         "ts": 1791373409
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Spain defeated Croatia with a spectacular comeback. England beat the Czech Republic 3-0 with Harry Kane's outstanding performance. Kane scored two goals, bringing his total international goals to 89 and tying the record with 125 international appearances.",
+        "time": "11:47",
+        "ts": 1791373656
       }
     ],
     "language": "en",
-    "packId": "20261007-30",
-    "sequence": 30,
+    "packId": "20261007-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:44"
+    "updatedAt": "11:48"
   },
   "verified": true
 }
