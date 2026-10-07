@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-49 seq=49 exp=1791554492",
+      "advancedStatus": "pack_id=20261007-50 seq=50 exp=1791555186",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:01",
+      "lastChecked": "14:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 14:01",
+    "expiresAt": "2026-10-09 14:13",
     "items": [
       {
         "channel": "iranintl",
@@ -455,14 +455,21 @@
         "text": "Jerusalem Post reported that senior Israeli defense officials warned members of the security cabinet on Sunday about the possibility of an Iranian miscalculation and missile fire toward Israel amid continued US pressure and Iran's worsening economic situation. The officials also said the ban on Iranian airline flights that began two weeks ago has increased the effectiveness of the siege. They said US actions have had significant consequences for Iran's economic situation, adding that the situation is deteriorating and getting worse every day.",
         "time": "14:00",
         "ts": 1791381635
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "On the third anniversary of the October 7, 2023 attack, a group of Iranians gathered in Brussels in front of the Israeli embassy. The gathering was held to commemorate the victims. Simultaneous memorial ceremonies are also taking place in various European cities.",
+        "time": "14:11",
+        "ts": 1791382311
       }
     ],
     "language": "en",
-    "packId": "20261007-49",
-    "sequence": 49,
+    "packId": "20261007-50",
+    "sequence": 50,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:01"
+    "updatedAt": "14:13"
   },
   "verified": true
 }
