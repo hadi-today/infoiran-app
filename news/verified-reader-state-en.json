@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-43 seq=43 exp=1791551994",
+      "advancedStatus": "pack_id=20261007-44 seq=44 exp=1791552108",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:19",
+      "lastChecked": "13:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 13:19",
+    "expiresAt": "2026-10-09 13:21",
     "items": [
       {
         "channel": "iranintl",
@@ -413,14 +413,21 @@
         "text": "Gideon Sa'ar, Israel's foreign minister, called the Islamic Republic and its affiliated forces a threat to Israel. He said a clock is set in Tehran counting down to Israel's destruction. He also warned that enemies still seek to destroy the country.",
         "time": "13:19",
         "ts": 1791379150
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hadi Abbasian, a detained protester in Shirvan, has been sentenced to death on charges of rebellion. His Instagram activities and videos of protests were cited in his case. In a video, he stated that he will not back down from his protest.",
+        "time": "13:20",
+        "ts": 1791379259
       }
     ],
     "language": "en",
-    "packId": "20261007-43",
-    "sequence": 43,
+    "packId": "20261007-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:19"
+    "updatedAt": "13:21"
   },
   "verified": true
 }
