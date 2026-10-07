@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-20 seq=20 exp=1791529918",
+      "advancedStatus": "pack_id=20261007-21 seq=21 exp=1791530391",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:11",
+      "lastChecked": "07:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 07:11",
+    "expiresAt": "2026-10-09 07:19",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "On the evening of Sunday, October 4th, two citizens were killed due to gunfire by security forces in the Kozeh Square area of Zahedan. The incident occurred in the Zahedan shared market district. More details have been published by Harana News Agency.",
-        "time": "07:18",
-        "ts": 1791271110
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -854,14 +847,28 @@
         "text": "Ali Shirazi said that Hossein Shariatmadari's criticisms of Mohammad Bagher Ghalibaf reflect the Stability Front's concern about a possible secret agreement between Ghalibaf and the United States.",
         "time": "07:11",
         "ts": 1791357096
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "On the third anniversary of the October 7 attacks, the Australian Prime Minister emphasized combating anti-Semitism and disarming Hamas. Hundreds gathered at Bondi Beach in Sydney to pay tribute to the victims. Iran International's reporter provided more details.",
+        "time": "07:19",
+        "ts": 1791357568
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "On the third anniversary of Hamas's October 7 attack on Israel, CCTV footage shows parts of the attack. The footage includes Hamas vehicles and forces attacking a music festival and killing in residential areas. The report was prepared by Abtin Yazdanpanah for Iran International.",
+        "time": "07:19",
+        "ts": 1791357571
       }
     ],
     "language": "en",
-    "packId": "20261007-20",
-    "sequence": 20,
+    "packId": "20261007-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:11"
+    "updatedAt": "07:19"
   },
   "verified": true
 }
