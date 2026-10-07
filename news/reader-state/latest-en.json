@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-10 seq=10 exp=1791519862",
+      "advancedStatus": "pack_id=20261007-11 seq=11 exp=1791523687",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:24",
+      "lastChecked": "05:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 04:24",
+    "expiresAt": "2026-10-09 05:28",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Akraminia, spokesperson for the Islamic Republic Army, announced that the Islamic Republic has a large reserve of new defensive and offensive equipment, including missiles and drones. He stated that these equipments were produced daily during the war and their production continues. He also added that the use of these equipments will be publicized at the appropriate time.",
-        "time": "05:00",
-        "ts": 1791262828
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Rafiei, head of Tehran's public places police, announced that serving hookah and live music performances in cafes are prohibited. Cafes must operate strictly within their licensed framework, and police will confront violations. Use of DJs and gambling-related activities are also banned.",
-        "time": "05:09",
-        "ts": 1791263351
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -854,14 +840,21 @@
         "text": "Hossein Shariatmadari suggested that the seven-month closure of the parliament might have been indirectly imposed on the system. He interpreted the appointment of Qalibaf as head of the negotiation team as equivalent to the parliament's closure. Shariatmadari also pointed out the contradiction in Qalibaf's role in the negotiation team.",
         "time": "04:24",
         "ts": 1791347040
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Yashar Soltani published documents indicating that Mojtaba Zolnouri is involved in illegal excavation for historical artifacts and treasure. He also stated that the spokesperson of the Stability Front's son-in-law is one of the oil recipients. Earlier, the head of the archaeology institute at Tehran University mentioned the presence of a parliament member in treasure hunting activities.",
+        "time": "05:27",
+        "ts": 1791350865
       }
     ],
     "language": "en",
-    "packId": "20261007-10",
-    "sequence": 10,
+    "packId": "20261007-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:24"
+    "updatedAt": "05:28"
   },
   "verified": true
 }
