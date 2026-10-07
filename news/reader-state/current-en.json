@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-37 seq=37 exp=1791548573",
+      "advancedStatus": "pack_id=20261007-38 seq=38 exp=1791548939",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:22",
+      "lastChecked": "12:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 12:22",
+    "expiresAt": "2026-10-09 12:28",
     "items": [
       {
         "channel": "iranintl",
@@ -371,14 +371,21 @@
         "text": "Ali Abdollahi, Chief of Staff of the Armed Forces of the Islamic Republic, stated on the anniversary of the October 7 attack that the heroism of the resistance front's martyrs will continue and will mark the end of Israel. He described the operation as beyond Israel's expectations and disruptive to the enemy's calculations. He also said the attack shifted the resistance front's strategy from defensive to offensive.",
         "time": "12:21",
         "ts": 1791375686
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Administrative Justice Court annulled the equestrian federation election held on Azar 5, 1404. The ruling was issued by branch 36, and the Ministry of Sports and Youth can appeal it. This election was the third assembly of the equestrian federation in three years.",
+        "time": "12:27",
+        "ts": 1791376072
       }
     ],
     "language": "en",
-    "packId": "20261007-37",
-    "sequence": 37,
+    "packId": "20261007-38",
+    "sequence": 38,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:22"
+    "updatedAt": "12:28"
   },
   "verified": true
 }
