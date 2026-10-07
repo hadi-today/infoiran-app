@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-12 seq=12 exp=1791538423",
+      "advancedStatus": "pack_id=20261007-13 seq=13 exp=1791538807",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:33",
+      "lastChecked": "09:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 09:33",
+    "expiresAt": "2026-10-09 09:40",
     "items": [
       {
         "channel": "iranintl",
@@ -196,14 +196,21 @@
         "text": "A student stated that Azad University of Rudehen criticizes female students' dress code instead of improving academic quality. The university charges high tuition fees. The student's voice was reprocessed with artificial intelligence for security.",
         "time": "09:32",
         "ts": 1791365569
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Following a shooting by military forces in Bandar Abbas, a fuel transporter vehicle overturned and caught fire. In this incident, a disabled fuel transporter lost his life.",
+        "time": "09:39",
+        "ts": 1791365954
       }
     ],
     "language": "en",
-    "packId": "20261007-12",
-    "sequence": 12,
+    "packId": "20261007-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:33"
+    "updatedAt": "09:40"
   },
   "verified": true
 }
