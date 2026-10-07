@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-11 seq=11 exp=1791523687",
+      "advancedStatus": "pack_id=20261007-12 seq=12 exp=1791524260",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:28",
+      "lastChecked": "05:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 05:28",
+    "expiresAt": "2026-10-09 05:37",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Economic and financial sanctions against Iran have expanded. These restrictions include banks, exchange offices, and financial networks related to Iran. Ali Dadpay described the situation as a major crisis.",
-        "time": "05:36",
-        "ts": 1791264974
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reza Goharzad, a journalist and political analyst, said that Iran is in a major economic squeeze. He added that China trusts its dealings with the US more than with the Islamic Republic. These remarks refer to Iran's economic situation and international relations.",
-        "time": "05:36",
-        "ts": 1791265011
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -847,14 +833,21 @@
         "text": "Yashar Soltani published documents indicating that Mojtaba Zolnouri is involved in illegal excavation for historical artifacts and treasure. He also stated that the spokesperson of the Stability Front's son-in-law is one of the oil recipients. Earlier, the head of the archaeology institute at Tehran University mentioned the presence of a parliament member in treasure hunting activities.",
         "time": "05:27",
         "ts": 1791350865
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Namvar Haghighi said Iran must make significant concessions, including uranium transfer and suspension of enrichment, to reach an agreement with the US. He also emphasized that Iran has lost the ability to make decisions and build consensus. If the agreement is not accepted, a full-scale conflict or prolonged war may occur.",
+        "time": "05:37",
+        "ts": 1791351439
       }
     ],
     "language": "en",
-    "packId": "20261007-11",
-    "sequence": 11,
+    "packId": "20261007-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:28"
+    "updatedAt": "05:37"
   },
   "verified": true
 }
