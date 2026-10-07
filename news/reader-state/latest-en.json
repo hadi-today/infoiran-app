@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-74 seq=74 exp=1791582530",
+      "advancedStatus": "pack_id=20261007-75 seq=75 exp=1791582778",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:48",
+      "lastChecked": "21:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 21:48",
+    "expiresAt": "2026-10-09 21:52",
     "items": [
       {
         "channel": "iranintl",
@@ -581,14 +581,21 @@
         "text": "Morad Vaisi, senior analyst at Iran International, commented on the difference in subsidy payments between Iran and Lebanon. He questioned why the Islamic Republic haggles over paying just one dollar more to Iranian people but easily gives much more to Lebanese families. He criticized this issue.",
         "time": "21:47",
         "ts": 1791409678
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The World Bank in its latest forecast predicted that Iran's economy will shrink by more than seven and a half percent and the per capita income of each Iranian will decrease by more than eight percent. The bank also estimated Iran's annual inflation rate at 74 percent.",
+        "time": "21:52",
+        "ts": 1791409937
       }
     ],
     "language": "en",
-    "packId": "20261007-74",
-    "sequence": 74,
+    "packId": "20261007-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:48"
+    "updatedAt": "21:52"
   },
   "verified": true
 }
