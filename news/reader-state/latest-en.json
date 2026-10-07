@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-45 seq=45 exp=1791570403",
+      "advancedStatus": "pack_id=20261007-46 seq=46 exp=1791570711",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:26",
+      "lastChecked": "18:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 18:26",
+    "expiresAt": "2026-10-09 18:31",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A staff member of the anti-plague institute in Siberia died under suspicious circumstances. About 200 people who had contact with him have been quarantined. Russian authorities have not confirmed plague infection, and the World Health Organization considers the risk of an outbreak low.",
-        "time": "18:27",
-        "ts": 1791311263
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Jamal Khodarahmi and Hirsh Navgaran, citizens of Sanandaj, were sentenced to a total of five years of suspended imprisonment. Jamal Khodarahmi was also sentenced to pay a fine. The sentence was issued by the judicial authority.",
-        "time": "18:28",
-        "ts": 1791311339
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -616,14 +602,28 @@
         "text": "The events of October 7 have influenced the Israeli elections. This impact is observed in the political atmosphere and voter decision-making. Analyses have examined these changes.",
         "time": "18:26",
         "ts": 1791397577
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A farmer in Lorestan reported fuel shortages and expensive tractor parts. He says he does not know how to continue farming. This situation has caused concern among farmers.",
+        "time": "18:30",
+        "ts": 1791397833
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iran International will air a program called \"Geography of the National Revolution\" about the protests during the 1404 National Revolution and their suppression. The program aims to document the protests and report on the killing of people. Citizens are invited to send information and videos about the suppression.",
+        "time": "18:31",
+        "ts": 1791397893
       }
     ],
     "language": "en",
-    "packId": "20261007-45",
-    "sequence": 45,
+    "packId": "20261007-46",
+    "sequence": 46,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:26"
+    "updatedAt": "18:31"
   },
   "verified": true
 }
