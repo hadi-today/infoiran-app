@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-63 seq=63 exp=1791576171",
+      "advancedStatus": "pack_id=20261007-64 seq=64 exp=1791576318",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:02",
+      "lastChecked": "20:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 20:02",
+    "expiresAt": "2026-10-09 20:05",
     "items": [
       {
         "channel": "iranintl",
@@ -588,14 +588,28 @@
         "text": "Iran's Foreign Ministry summoned the French ambassador over violent responses to student protests and human rights violations. The student protests in France began on September 17 and spread to other cities. French officials reported at least 190 students and 715 police officers injured.",
         "time": "20:01",
         "ts": 1791403305
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Farzin Nadimi stated that Israel decided after October 7 to contain threats before they escalate into crises. Israel is rebuilding its security doctrine by creating buffer zones and strengthening its air force. Israel aims to maintain and enhance its military superiority, not to become a regional hegemon.",
+        "time": "20:02",
+        "ts": 1791403342
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The UK Maritime Trade Operations reported that a tanker was attacked north of Qatar. Casualties have been reported in the attack. Authorities are investigating the incident and have warned ships to exercise caution.",
+        "time": "20:04",
+        "ts": 1791403461
       }
     ],
     "language": "en",
-    "packId": "20261007-63",
-    "sequence": 63,
+    "packId": "20261007-64",
+    "sequence": 64,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:02"
+    "updatedAt": "20:05"
   },
   "verified": true
 }
