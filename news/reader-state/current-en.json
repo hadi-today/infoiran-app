@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-25 seq=25 exp=1791545374",
+      "advancedStatus": "pack_id=20261007-26 seq=26 exp=1791545641",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:29",
+      "lastChecked": "11:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 11:29",
+    "expiresAt": "2026-10-09 11:34",
     "items": [
       {
         "channel": "iranintl",
@@ -287,14 +287,21 @@
         "text": "The 2026 Nobel Prize in Chemistry was awarded to Henri B. Kagan and Kensō Soai for their research on 'chirality' and how one mirror-image form of molecules becomes dominant in the chemistry of life.",
         "time": "11:28",
         "ts": 1791372518
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Araz Soleimani, a law student and barber from Chalus, was killed by suppressors on January 8. His mother fed pigeons on his birthday and said her son was \"of the lineage of flight.\" This video was published on social media.",
+        "time": "11:33",
+        "ts": 1791372798
       }
     ],
     "language": "en",
-    "packId": "20261007-25",
-    "sequence": 25,
+    "packId": "20261007-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:29"
+    "updatedAt": "11:34"
   },
   "verified": true
 }
