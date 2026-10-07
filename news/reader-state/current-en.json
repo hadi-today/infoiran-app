@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-42 seq=42 exp=1791551320",
+      "advancedStatus": "pack_id=20261007-43 seq=43 exp=1791551994",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:08",
+      "lastChecked": "13:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 13:08",
+    "expiresAt": "2026-10-09 13:19",
     "items": [
       {
         "channel": "iranintl",
@@ -406,14 +406,21 @@
         "text": "A report from the Parliament Research Center shows that urban poverty affects half of Tehran. This report was released amid increasing poverty in Iran and the government's ineffective plans. The assessment was provided by Arash Azarmi from Iran International.",
         "time": "13:07",
         "ts": 1791378455
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Gideon Sa'ar, Israel's foreign minister, called the Islamic Republic and its affiliated forces a threat to Israel. He said a clock is set in Tehran counting down to Israel's destruction. He also warned that enemies still seek to destroy the country.",
+        "time": "13:19",
+        "ts": 1791379150
       }
     ],
     "language": "en",
-    "packId": "20261007-42",
-    "sequence": 42,
+    "packId": "20261007-43",
+    "sequence": 43,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:08"
+    "updatedAt": "13:19"
   },
   "verified": true
 }
