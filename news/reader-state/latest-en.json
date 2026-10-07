@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-50 seq=50 exp=1791572000",
+      "advancedStatus": "pack_id=20261007-51 seq=51 exp=1791572438",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:53",
+      "lastChecked": "19:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 18:53",
+    "expiresAt": "2026-10-09 19:00",
     "items": [
       {
         "channel": "iranintl",
@@ -630,14 +630,21 @@
         "text": "Niusha Saremi discusses the latest nuclear tensions between Tehran and Washington in the audio version of Titrawol. The resumption of activity at the Tehran site has also been reported. This indicates new developments in the nuclear relations between the two countries.",
         "time": "18:49",
         "ts": 1791398994
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "On Tuesday, October 6, scholarship applicants gathered in front of the Ministry of Science in Tehran. At the same time, workers at Iran Brake in Rasht went on strike due to unpaid wages and insurance issues. Some laid-off workers of the factory also gathered in front of their workplace.",
+        "time": "19:00",
+        "ts": 1791399614
       }
     ],
     "language": "en",
-    "packId": "20261007-50",
-    "sequence": 50,
+    "packId": "20261007-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:53"
+    "updatedAt": "19:00"
   },
   "verified": true
 }
