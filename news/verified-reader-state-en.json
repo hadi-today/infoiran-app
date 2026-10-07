@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-10 seq=10 exp=1791537059",
+      "advancedStatus": "pack_id=20261007-11 seq=11 exp=1791537608",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:10",
+      "lastChecked": "09:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 09:10",
+    "expiresAt": "2026-10-09 09:20",
     "items": [
       {
         "channel": "iranintl",
@@ -182,14 +182,21 @@
         "text": "The Qatari government has opposed a direct flight for Esteghlal team to Doha. Esteghlal must first travel to Najaf in Iraq and then take another flight to Doha. The match between Al-Gharafa and Esteghlal will be held on October 12.",
         "time": "09:09",
         "ts": 1791364195
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Three years ago on October 7, Hamas attacked Israel, resulting in about 1,200 deaths and 251 hostages. The Nova music festival in a non-residential area was one of the first places targeted. This event was reported by Babak Es-haqi from Iran International.",
+        "time": "09:19",
+        "ts": 1791364758
       }
     ],
     "language": "en",
-    "packId": "20261007-10",
-    "sequence": 10,
+    "packId": "20261007-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:10"
+    "updatedAt": "09:20"
   },
   "verified": true
 }
