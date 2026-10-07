@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-39 seq=39 exp=1791549351",
+      "advancedStatus": "pack_id=20261007-40 seq=40 exp=1791550214",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:35",
+      "lastChecked": "12:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 12:35",
+    "expiresAt": "2026-10-09 12:50",
     "items": [
       {
         "channel": "iranintl",
@@ -385,14 +385,21 @@
         "text": "A number of Iranians living in Spain gathered on October 7 in front of the Israeli embassy in Madrid. They paid tribute to the victims of the October 7 attack. They also expressed their solidarity with the people of Israel.",
         "time": "12:35",
         "ts": 1791376509
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Kamil Mohammadi, a resident of Mashhad and nephew of Narges Mohammadi, was arrested by security forces on Thursday, 9 Mehr. After his arrest, he was taken to an interrogation center and then transferred to the Revolutionary Court and prison in Mashhad.",
+        "time": "12:49",
+        "ts": 1791377355
       }
     ],
     "language": "en",
-    "packId": "20261007-39",
-    "sequence": 39,
+    "packId": "20261007-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:35"
+    "updatedAt": "12:50"
   },
   "verified": true
 }
