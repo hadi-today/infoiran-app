@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-12 seq=12 exp=1791524260",
+      "advancedStatus": "pack_id=20261007-13 seq=13 exp=1791524614",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:37",
+      "lastChecked": "05:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 05:37",
+    "expiresAt": "2026-10-09 05:43",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Karl Deisseroth, Peter Hegemann, and Georg Nagel jointly won the 2026 Nobel Prize in Physiology or Medicine. They received the prize for discovering light-sensitive ion channels and developing the optogenetics method. This method allows controlling neuron activity with light.",
-        "time": "05:37",
-        "ts": 1791265050
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Middle East war and energy market disruption have made fuel security the focus of the ASEAN meeting. Rising fuel prices have pressured transportation and regional industries. Development of fuel reserves and renewable energies is on the agenda.",
-        "time": "05:38",
-        "ts": 1791265085
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The expansion of Starlink and direct mobile satellite connection technology has challenged Iran's traditional tool of internet shutdown. Officials claim they have the ability to disrupt this network. They also mention diplomatic pressure and the possibility of power outages in future crises.",
-        "time": "05:39",
-        "ts": 1791265155
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -840,14 +819,21 @@
         "text": "Alireza Namvar Haghighi said Iran must make significant concessions, including uranium transfer and suspension of enrichment, to reach an agreement with the US. He also emphasized that Iran has lost the ability to make decisions and build consensus. If the agreement is not accepted, a full-scale conflict or prolonged war may occur.",
         "time": "05:37",
         "ts": 1791351439
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The World Health Organization is investigating the death of an employee at the Anti-Plague Research Institute in Irkutsk, Russia. There are reports of his possible infection with pneumonic plague. Russian officials have denied any cases of plague in the region.",
+        "time": "05:43",
+        "ts": 1791351791
       }
     ],
     "language": "en",
-    "packId": "20261007-12",
-    "sequence": 12,
+    "packId": "20261007-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:37"
+    "updatedAt": "05:43"
   },
   "verified": true
 }
