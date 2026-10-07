@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261007-31 seq=31 exp=1791546507",
+      "advancedStatus": "pack_id=20261007-32 seq=32 exp=1791547083",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:48",
+      "lastChecked": "11:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-07",
-    "expiresAt": "2026-10-09 11:48",
+    "expiresAt": "2026-10-09 11:58",
     "items": [
       {
         "channel": "iranintl",
@@ -329,14 +329,21 @@
         "text": "Spain defeated Croatia with a spectacular comeback. England beat the Czech Republic 3-0 with Harry Kane's outstanding performance. Kane scored two goals, bringing his total international goals to 89 and tying the record with 125 international appearances.",
         "time": "11:47",
         "ts": 1791373656
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Russia launched one of its largest attacks on Ukraine, firing about 70 missiles and numerous drones. Volodymyr Zelensky stated that at least 11 people were killed and energy infrastructure was targeted. Ukraine responded by striking two oil facilities and a military training field in Russia.",
+        "time": "11:57",
+        "ts": 1791374234
       }
     ],
     "language": "en",
-    "packId": "20261007-31",
-    "sequence": 31,
+    "packId": "20261007-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:48"
+    "updatedAt": "11:58"
   },
   "verified": true
 }
