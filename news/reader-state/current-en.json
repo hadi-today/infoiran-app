@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261008-03 seq=3 exp=1791623756",
+      "advancedStatus": "pack_id=20261008-04 seq=4 exp=1791623942",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:15",
+      "lastChecked": "09:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-08",
-    "expiresAt": "2026-10-10 09:15",
+    "expiresAt": "2026-10-10 09:19",
     "items": [
       {
         "channel": "iranintl",
@@ -588,14 +588,21 @@
         "text": "The manager and journalist of the Vana News website were found guilty by the press court jury and the fifth branch of the criminal court one of Tehran province.",
         "time": "09:14",
         "ts": 1791450884
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Ehsan Sohrabi reported a shortage of insulin and difficulties for diabetic workers in accessing this medication. Patients have to visit multiple pharmacies and face quota limitations or pay out-of-pocket costs. He called for urgent action by the Ministry of Health to address this issue.",
+        "time": "09:16",
+        "ts": 1791450978
       }
     ],
     "language": "en",
-    "packId": "20261008-03",
-    "sequence": 3,
+    "packId": "20261008-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:15"
+    "updatedAt": "09:19"
   },
   "verified": true
 }
