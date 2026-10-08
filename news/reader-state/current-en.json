@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261008-09 seq=9 exp=1791669962",
+      "advancedStatus": "pack_id=20261008-10 seq=10 exp=1791670693",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:06",
+      "lastChecked": "22:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-08",
-    "expiresAt": "2026-10-10 22:06",
+    "expiresAt": "2026-10-10 22:18",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -98,14 +98,21 @@
         "text": "After the violent suppression of the national revolution in December, protests have continued in the form of tattoos on the bodies of protesters and families seeking justice. These tattoos include national symbols and images of protesters killed in December. The Islamic Republic has responded to this form of protest with violence.",
         "time": "22:05",
         "ts": 1791497139
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Axios reported, citing sources, that if military operations resume against Iran, attacks would include widespread bombing of energy, infrastructure, and nuclear targets. An Israeli official said the likelihood of resuming operations before the US midterm elections is not high, but will increase significantly afterwards. Trump's national security team also discussed the matter, and Tehran-Washington negotiations have made no progress.",
+        "time": "22:17",
+        "ts": 1791497872
       }
     ],
     "language": "en",
-    "packId": "20261008-09",
-    "sequence": 9,
+    "packId": "20261008-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:06"
+    "updatedAt": "22:18"
   },
   "verified": true
 }
