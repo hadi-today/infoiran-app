@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261008-04 seq=4 exp=1791623942",
+      "advancedStatus": "pack_id=20261008-05 seq=5 exp=1791624841",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:19",
+      "lastChecked": "09:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-08",
-    "expiresAt": "2026-10-10 09:19",
+    "expiresAt": "2026-10-10 09:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Three years ago on October 7, Hamas attacked Israel, resulting in about 1,200 deaths and 251 hostages. The Nova music festival in a non-residential area was one of the first places targeted. This event was reported by Babak Es-haqi from Iran International.",
-        "time": "09:19",
-        "ts": 1791364758
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A student stated that Azad University of Rudehen criticizes female students' dress code instead of improving academic quality. The university charges high tuition fees. The student's voice was reprocessed with artificial intelligence for security.",
-        "time": "09:32",
-        "ts": 1791365569
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -595,14 +581,28 @@
         "text": "Ehsan Sohrabi reported a shortage of insulin and difficulties for diabetic workers in accessing this medication. Patients have to visit multiple pharmacies and face quota limitations or pay out-of-pocket costs. He called for urgent action by the Ministry of Health to address this issue.",
         "time": "09:16",
         "ts": 1791450978
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Sir Alex Ferguson talked about death, health issues, and the possibility of not witnessing the opening of Manchester United's new stadium in his new book. He shared personal experiences following his wife's death and a brain hemorrhage. Ferguson expressed uncertainty about being alive to see the stadium's inauguration.",
+        "time": "09:33",
+        "ts": 1791451988
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "202 seasonal workers in Hamadan province were injured or killed while working. Among them, 198 were injured and four lost their lives. The incidents were caused by unsafe work environments and poor working conditions.",
+        "time": "09:33",
+        "ts": 1791452037
       }
     ],
     "language": "en",
-    "packId": "20261008-04",
-    "sequence": 4,
+    "packId": "20261008-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:19"
+    "updatedAt": "09:34"
   },
   "verified": true
 }
