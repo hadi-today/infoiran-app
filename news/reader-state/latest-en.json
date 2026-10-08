@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261008-30 seq=30 exp=1791640372",
+      "advancedStatus": "pack_id=20261008-31 seq=31 exp=1791640509",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:52",
+      "lastChecked": "13:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-08",
-    "expiresAt": "2026-10-10 13:52",
+    "expiresAt": "2026-10-10 13:55",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Majid Bahiraei, one of the detainees of the National Revolution in Nahavand, sent a message from prison. In his message, he said the honor of Iran and Iranians belongs to the children of Iran. This message was read from prison on August 19.",
-        "time": "13:53",
-        "ts": 1791381185
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -546,14 +539,21 @@
         "text": "Ali Shirazi referred to Masoud Pezeshkian's remarks, stating that today's social conditions differ from the 1980s and the government cannot rebuild the neighborhood-based surveillance model. He added that the emphasis of Islamic Republic officials on internal security and military training indicates the government's readiness to confront the people again. Efforts are also being made to create a climate of fear by showing the preparedness of supportive forces.",
         "time": "13:51",
         "ts": 1791467505
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Marco Rubio, the US Secretary of State, stated that the US has the capability to carry out any operation against Iran. He described the Ukraine war as very dangerous and warned about its potential deadlock. He also emphasized the need to strengthen NATO's defense capabilities and urged Portugal to purchase F-35 fighters.",
+        "time": "13:53",
+        "ts": 1791467632
       }
     ],
     "language": "en",
-    "packId": "20261008-30",
-    "sequence": 30,
+    "packId": "20261008-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:52"
+    "updatedAt": "13:55"
   },
   "verified": true
 }
