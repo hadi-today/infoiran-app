@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261008-11 seq=11 exp=1791670848",
+      "advancedStatus": "pack_id=20261008-12 seq=12 exp=1791670996",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:20",
+      "lastChecked": "22:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-08",
-    "expiresAt": "2026-10-10 22:20",
+    "expiresAt": "2026-10-10 22:23",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -112,14 +112,21 @@
         "text": "Shayan Samiei said that Donald Trump's contradictory messages about a possible attack on the Islamic Republic are part of Washington's effort to reduce the electoral costs of war. The US and Israel are acting cautiously but continue to pressure the Islamic Republic. Tehran may use proxy forces to change the equation, but any reckless action could have uncontrollable consequences.",
         "time": "22:18",
         "ts": 1791497908
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shahram Khaledi described Masoud Pezeshkian's trip to Turkmenistan as an effort to reduce the impact of the naval blockade. He said the capacity of Caspian Sea ports and rail routes is limited and cannot replace the main maritime routes. Additionally, Central Asian countries' relations with major powers limit Tehran's ability to bypass sanctions.",
+        "time": "22:21",
+        "ts": 1791498073
       }
     ],
     "language": "en",
-    "packId": "20261008-11",
-    "sequence": 11,
+    "packId": "20261008-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:20"
+    "updatedAt": "22:23"
   },
   "verified": true
 }
