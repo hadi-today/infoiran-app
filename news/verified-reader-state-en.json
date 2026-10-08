@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261008-12 seq=12 exp=1791670996",
+      "advancedStatus": "pack_id=20261008-13 seq=13 exp=1791672588",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:23",
+      "lastChecked": "22:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-08",
-    "expiresAt": "2026-10-10 22:23",
+    "expiresAt": "2026-10-10 22:49",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -119,14 +119,21 @@
         "text": "Shahram Khaledi described Masoud Pezeshkian's trip to Turkmenistan as an effort to reduce the impact of the naval blockade. He said the capacity of Caspian Sea ports and rail routes is limited and cannot replace the main maritime routes. Additionally, Central Asian countries' relations with major powers limit Tehran's ability to bypass sanctions.",
         "time": "22:21",
         "ts": 1791498073
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Channel 12 Israel reported that senior American officers informed Eyal Zamir that the White House and Pentagon have issued a readiness order for a large-scale attack on Iran. Zamir stated that such an operation could delay Israel's elections and face extensive missile retaliation from Tehran. Donald Trump has denied the possibility of an attack before the US elections.",
+        "time": "22:49",
+        "ts": 1791499769
       }
     ],
     "language": "en",
-    "packId": "20261008-12",
-    "sequence": 12,
+    "packId": "20261008-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:23"
+    "updatedAt": "22:49"
   },
   "verified": true
 }
