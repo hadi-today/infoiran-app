@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261008-32 seq=32 exp=1791641192",
+      "advancedStatus": "pack_id=20261008-33 seq=33 exp=1791641305",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:06",
+      "lastChecked": "14:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-08",
-    "expiresAt": "2026-10-10 14:06",
+    "expiresAt": "2026-10-10 14:08",
     "items": [
       {
         "channel": "iranintl",
@@ -546,14 +546,21 @@
         "text": "Two brothers named Ahmadreza Feyzi, 15, and Amirhossein Feyzi, 19, were killed in Fardis, Karaj. After honking their car in celebration, they were chased and shot at by Islamic Republic agents. Both brothers died in the shooting.",
         "time": "14:05",
         "ts": 1791468327
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Farnoush Faraji from Iran International provided details about the killing of two brothers aged 15 and 19 in Fardis, Karaj. The brothers were shot with 36 bullets on the evening of Esfand 9. This incident occurred simultaneously with citizens celebrating the death of Ali Khamenei.",
+        "time": "14:06",
+        "ts": 1791468402
       }
     ],
     "language": "en",
-    "packId": "20261008-32",
-    "sequence": 32,
+    "packId": "20261008-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:06"
+    "updatedAt": "14:08"
   },
   "verified": true
 }
