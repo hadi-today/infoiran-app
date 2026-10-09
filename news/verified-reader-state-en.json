@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-13 seq=13 exp=1791752495",
+      "advancedStatus": "pack_id=20261009-14 seq=14 exp=1791752671",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:01",
+      "lastChecked": "21:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 21:01",
+    "expiresAt": "2026-10-11 21:04",
     "items": [
       {
         "channel": "harana",
@@ -105,14 +105,21 @@
         "text": "Ahmad Gohari, a player of Sanat Naft Abadan, said that Saeed Daghighi, the former coach of Peykan, believed in magic. He stated that when the team lost, Daghighi said the team was bewitched. These remarks were made after the match against Persepolis.",
         "time": "21:00",
         "ts": 1791579652
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Fateh was injured on January 8, 2026, in Alvand, Qazvin province, by forces of the Islamic Republic and fell into a coma. He died after 10 days in the hospital. His mother is seen in a video expressing grief and condemning those who took him away.",
+        "time": "21:03",
+        "ts": 1791579825
       }
     ],
     "language": "en",
-    "packId": "20261009-13",
-    "sequence": 13,
+    "packId": "20261009-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:01"
+    "updatedAt": "21:04"
   },
   "verified": true
 }
