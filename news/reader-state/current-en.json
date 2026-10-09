@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-57 seq=57 exp=1791729008",
+      "advancedStatus": "pack_id=20261009-58 seq=58 exp=1791729224",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:30",
+      "lastChecked": "14:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 14:30",
+    "expiresAt": "2026-10-11 14:33",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -560,14 +560,28 @@
         "text": "The Saudi ambassador announced that the Bab al-Mandab Strait has been cleared of Houthi presence. Pro-government Yemeni forces have advanced in the area with Saudi air support. So far, there is no sign of ground troops from Turkey or Pakistan being sent to fight the Houthis.",
         "time": "14:29",
         "ts": 1791556181
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A Lebanese media network reported that details of the $200 million financial aid from the Islamic Republic to Hezbollah will soon be announced in a press conference. The head of Hezbollah's executive council will explain how the funds will be distributed. Reuters had previously reported that the aid was given for distribution among war victims.",
+        "time": "14:33",
+        "ts": 1791556388
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A roadside bomb exploded near a police vehicle in the Cheshmeh Ziarat area of Zahedan. Nosrat Eftekhari, the social deputy of the police in Sistan and Baluchestan province, was killed in the incident. The main perpetrator was killed while fleeing, and several police officers were injured.",
+        "time": "14:33",
+        "ts": 1791556400
       }
     ],
     "language": "en",
-    "packId": "20261009-57",
-    "sequence": 57,
+    "packId": "20261009-58",
+    "sequence": 58,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:30"
+    "updatedAt": "14:33"
   },
   "verified": true
 }
