@@ -1,19 +1,19 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261008-15 seq=15 exp=1791676158",
+      "advancedStatus": "pack_id=20261009-01 seq=1 exp=1791677244",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:49",
+      "lastChecked": "00:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-10-08",
-    "expiresAt": "2026-10-10 23:49",
+    "date": "2026-10-09",
+    "expiresAt": "2026-10-11 00:07",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -140,14 +140,21 @@
         "text": "Scott Bessent, US Treasury Secretary, said Washington is depriving Tehran's government of financial resources used for war in the region. The US Treasury Department imposed new sanctions under 'Operation Economic Exclusion' targeting Iran's shadow fleet. According to the department, most of the remaining network of this fleet has been effectively disabled.",
         "time": "23:48",
         "ts": 1791503337
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The office of Prince Reza Pahlavi warned about the risk of executing Hadi Abbasian, a protester sentenced to death from Shirvan. Abbasian denied charges of ties to Israel and terrorism and was sentenced to death. Since his arrest, he has been denied family visits and access to a lawyer.",
+        "time": "00:07",
+        "ts": 1791504423
       }
     ],
     "language": "en",
-    "packId": "20261008-15",
-    "sequence": 15,
+    "packId": "20261009-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:49"
+    "updatedAt": "00:07"
   },
   "verified": true
 }
