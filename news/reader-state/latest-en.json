@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-01 seq=1 exp=1791745268",
+      "advancedStatus": "pack_id=20261009-02 seq=2 exp=1791745369",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:01",
+      "lastChecked": "19:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 19:01",
+    "expiresAt": "2026-10-11 19:02",
     "items": [
       {
         "channel": "harana",
@@ -28,14 +28,21 @@
         "text": "A worker in Mashhad died after falling from the scaffolding of a building under construction. The incident occurred due to lack of safety and poor working conditions. More details are published by Harana News Agency.",
         "time": "19:00",
         "ts": 1791572448
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The mother of Amirhossein Emamjomeh placed 9 apples in a dish on the ninth month after his killing. She said she nurtured him in her womb for 9 months and now has lost him for 9 months. Amirhossein Emamjomeh was killed on January 8, 2026, in the Haft-Hoz area of Tehran.",
+        "time": "19:02",
+        "ts": 1791572530
       }
     ],
     "language": "en",
-    "packId": "20261009-01",
-    "sequence": 1,
+    "packId": "20261009-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:01"
+    "updatedAt": "19:02"
   },
   "verified": true
 }
