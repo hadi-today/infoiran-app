@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-03 seq=3 exp=1791682123",
+      "advancedStatus": "pack_id=20261009-04 seq=4 exp=1791682796",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:28",
+      "lastChecked": "01:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 01:28",
+    "expiresAt": "2026-10-11 01:39",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -161,14 +161,21 @@
         "text": "Penny Wong, Australia's foreign minister, expressed concern about the impact of attacks in Riyadh on oil prices and fuel costs in Australia. She called for a reduction in tensions and the continuation of negotiations between the US and Iran. Wong also emphasized the importance of reopening the Strait of Hormuz.",
         "time": "01:28",
         "ts": 1791509298
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Nine Southeast Asian countries along with Japan and Australia emphasized developing oil reserves and creating regional shared reserves. ASEAN countries aim to increase the share of renewable energy to 30% of primary energy supply by 2030. An initial agreement was also reached to accelerate the implementation of the ASEAN power grid.",
+        "time": "01:39",
+        "ts": 1791509977
       }
     ],
     "language": "en",
-    "packId": "20261009-03",
-    "sequence": 3,
+    "packId": "20261009-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:28"
+    "updatedAt": "01:39"
   },
   "verified": true
 }
