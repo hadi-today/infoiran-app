@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-07 seq=7 exp=1791689037",
+      "advancedStatus": "pack_id=20261009-08 seq=8 exp=1791689147",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:23",
+      "lastChecked": "03:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 03:23",
+    "expiresAt": "2026-10-11 03:25",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -189,14 +189,21 @@
         "text": "Sadegh Beigdeli stated that war and negotiation between the Islamic Republic and the US occur simultaneously. He considered a stable agreement between the two countries unlikely. Any potential agreement would be short-term and unstable.",
         "time": "03:22",
         "ts": 1791516131
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Miad Maleki stated that sanctions have always brought the Islamic Republic to the negotiating table. He added that sanctions on oil and petrochemical companies and pressure on exchange offices can increase economic pressure. These pressures push the Islamic Republic to negotiate to manage them.",
+        "time": "03:25",
+        "ts": 1791516327
       }
     ],
     "language": "en",
-    "packId": "20261009-07",
-    "sequence": 7,
+    "packId": "20261009-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:23"
+    "updatedAt": "03:25"
   },
   "verified": true
 }
