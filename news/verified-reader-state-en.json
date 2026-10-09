@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-66 seq=66 exp=1791732941",
+      "advancedStatus": "pack_id=20261009-67 seq=67 exp=1791733253",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:35",
+      "lastChecked": "15:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 15:35",
+    "expiresAt": "2026-10-11 15:40",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -630,14 +630,21 @@
         "text": "Iran International's audience reports the presence of government forces and special units in public places and schools in Tehran. The security atmosphere in Iranian cities has intensified. This report is based on an interview with Saba Heydarkhani.",
         "time": "15:31",
         "ts": 1791559910
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Yemeni Foreign Ministry called on the UN Security Council to take decisive action following Houthi attacks on King Khalid Airport and a Saudi airplane. These attacks resulted in three deaths and several injuries. Yemen considers Iran's support for the Houthis as the cause of the continuation of these attacks.",
+        "time": "15:40",
+        "ts": 1791560430
       }
     ],
     "language": "en",
-    "packId": "20261009-66",
-    "sequence": 66,
+    "packId": "20261009-67",
+    "sequence": 67,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:35"
+    "updatedAt": "15:40"
   },
   "verified": true
 }
