@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-12 seq=12 exp=1791749763",
+      "advancedStatus": "pack_id=20261009-13 seq=13 exp=1791752495",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:16",
+      "lastChecked": "21:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 20:16",
+    "expiresAt": "2026-10-11 21:01",
     "items": [
       {
         "channel": "harana",
@@ -98,14 +98,21 @@
         "text": "Donald Trump said that if Iran obtained nuclear weapons, it might target European countries after attacking Israel and other parts of the Middle East. He also stated that the Islamic Republic could target cities like Los Angeles and San Diego in the United States.",
         "time": "20:15",
         "ts": 1791576918
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Gohari, a player of Sanat Naft Abadan, said that Saeed Daghighi, the former coach of Peykan, believed in magic. He stated that when the team lost, Daghighi said the team was bewitched. These remarks were made after the match against Persepolis.",
+        "time": "21:00",
+        "ts": 1791579652
       }
     ],
     "language": "en",
-    "packId": "20261009-12",
-    "sequence": 12,
+    "packId": "20261009-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:16"
+    "updatedAt": "21:01"
   },
   "verified": true
 }
