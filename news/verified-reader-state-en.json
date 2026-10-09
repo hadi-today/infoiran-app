@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-21 seq=21 exp=1791754620",
+      "advancedStatus": "pack_id=20261009-22 seq=22 exp=1791756474",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:37",
+      "lastChecked": "22:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 21:37",
+    "expiresAt": "2026-10-11 22:07",
     "items": [
       {
         "channel": "harana",
@@ -168,14 +168,21 @@
         "text": "Shahad Alavi from Iran International stated that the Islamic Republic uses executions to counter legitimacy crises and create fear. In the past year, 2,003 people have been executed in Iran, with an increase in political prisoner executions. He emphasized that stopping executions requires the will of the international community, which has not yet been seen.",
         "time": "21:36",
         "ts": 1791581780
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Taghavi analyzed the Tractor vs Esteghlal match in the Hat-trick program. He said the first half was dominated by Esteghlal and the second half by Tractor. According to him, a draw was a fair result for both teams.",
+        "time": "22:07",
+        "ts": 1791583631
       }
     ],
     "language": "en",
-    "packId": "20261009-21",
-    "sequence": 21,
+    "packId": "20261009-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:37"
+    "updatedAt": "22:07"
   },
   "verified": true
 }
