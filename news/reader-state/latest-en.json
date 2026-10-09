@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-02 seq=2 exp=1791680778",
+      "advancedStatus": "pack_id=20261009-03 seq=3 exp=1791682123",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:06",
+      "lastChecked": "01:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 01:06",
+    "expiresAt": "2026-10-11 01:28",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -154,14 +154,21 @@
         "text": "CNN reported that in Iran, individuals used OpenAI models and fake identities to publish critical content about the US war against Iran in American media. OpenAI stated that about 12 outlets published nearly 100 articles under seven fake journalists' names and has blocked accounts involved. It is unclear who is behind these activities and whether there is any connection to the Iranian government.",
         "time": "01:05",
         "ts": 1791507956
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Penny Wong, Australia's foreign minister, expressed concern about the impact of attacks in Riyadh on oil prices and fuel costs in Australia. She called for a reduction in tensions and the continuation of negotiations between the US and Iran. Wong also emphasized the importance of reopening the Strait of Hormuz.",
+        "time": "01:28",
+        "ts": 1791509298
       }
     ],
     "language": "en",
-    "packId": "20261009-02",
-    "sequence": 2,
+    "packId": "20261009-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:06"
+    "updatedAt": "01:28"
   },
   "verified": true
 }
