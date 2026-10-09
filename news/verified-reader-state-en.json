@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-15 seq=15 exp=1791753362",
+      "advancedStatus": "pack_id=20261009-16 seq=16 exp=1791753454",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:16",
+      "lastChecked": "21:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 21:16",
+    "expiresAt": "2026-10-11 21:17",
     "items": [
       {
         "channel": "harana",
@@ -119,14 +119,28 @@
         "text": "Human rights activists reported that 2,003 people were executed in Iran over the past year. At least 69 of those executed faced political and security charges. The wave of executions is part of suppressing the December protests and aims to deter and intimidate society.",
         "time": "21:15",
         "ts": 1791580518
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Beiranvand criticized the managers of Tractor after the match against Esteghlal. His statements provoked a reaction from the club managers. Eventually, he was expelled from the Tractor team.",
+        "time": "21:16",
+        "ts": 1791580595
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The match between Tractor and Esteghlal in the eighth week of the Premier League ended in a 1-1 draw. The game had many controversies, and both teams needed three points but did not achieve them. Discussions about the match took place in the Hat-trick program.",
+        "time": "21:16",
+        "ts": 1791580600
       }
     ],
     "language": "en",
-    "packId": "20261009-15",
-    "sequence": 15,
+    "packId": "20261009-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:16"
+    "updatedAt": "21:17"
   },
   "verified": true
 }
