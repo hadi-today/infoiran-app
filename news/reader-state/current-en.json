@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-38 seq=38 exp=1791721905",
+      "advancedStatus": "pack_id=20261009-39 seq=39 exp=1791722074",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:31",
+      "lastChecked": "12:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 12:31",
+    "expiresAt": "2026-10-11 12:34",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -420,14 +420,28 @@
         "text": "Yemeni government forces have gained full control of the Bab al-Mandab Strait and Mayun Island after a clearing operation. With air support from the coalition, they have secured positions overlooking this important shipping route. Dozens of Houthi fighters were killed and some surrendered during the clashes.",
         "time": "12:31",
         "ts": 1791549080
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Three missile launch platforms used by the Houthis to attack Saudi Arabia have been destroyed. The Mecca Agreement can help train and equip Yemeni forces with the assistance of Turkey and Pakistan. It may take several weeks to months for these forces to reach optimal operational capability.",
+        "time": "12:33",
+        "ts": 1791549187
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "On the fourth anniversary of the deaths of Peyman Manbari, Yahya Rahimi, Dariush Alizadeh, and Mohammad Amini in the 2022 protests, families gathered at their graves in Sanandaj. The ceremony was held in their memory. The families commemorated them.",
+        "time": "12:34",
+        "ts": 1791549259
       }
     ],
     "language": "en",
-    "packId": "20261009-38",
-    "sequence": 38,
+    "packId": "20261009-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:31"
+    "updatedAt": "12:34"
   },
   "verified": true
 }
