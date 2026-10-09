@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-11 seq=11 exp=1791693081",
+      "advancedStatus": "pack_id=20261009-12 seq=12 exp=1791693315",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:31",
+      "lastChecked": "04:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 04:31",
+    "expiresAt": "2026-10-11 04:35",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -217,14 +217,21 @@
         "text": "As the US midterm elections approach, the war with the Islamic Republic has become a political challenge for Donald Trump's administration. A possible shift in the balance of power in Congress could affect political and budgetary support for continuing the war. This issue was raised in a report by Golareh Han on Iran International.",
         "time": "04:28",
         "ts": 1791520129
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Omid Memarian stated that the US demands concessions from Iran in the nuclear file. Tehran insists on releasing assets and lifting sanctions before fulfilling main commitments. The disagreement over the order of commitments has clouded the prospects for a meaningful agreement.",
+        "time": "04:32",
+        "ts": 1791520323
       }
     ],
     "language": "en",
-    "packId": "20261009-11",
-    "sequence": 11,
+    "packId": "20261009-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:31"
+    "updatedAt": "04:35"
   },
   "verified": true
 }
