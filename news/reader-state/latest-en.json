@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-31 seq=31 exp=1791718316",
+      "advancedStatus": "pack_id=20261009-32 seq=32 exp=1791718538",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:31",
+      "lastChecked": "11:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 11:31",
+    "expiresAt": "2026-10-11 11:35",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -371,14 +371,21 @@
         "text": "A citizen compared the value of Iranian currency to the euro in a video. He stated that the value of 2,468 Iranian rial coins is less than a 2-euro coin. This indicates a decrease in the value of Iranian currency.",
         "time": "11:31",
         "ts": 1791545494
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A board member of the Trade Union Associations of East Azerbaijan criticized the current wages as insufficient to cover workers' real living costs. Many workers have resorted to overtime and second or third jobs to make up for income shortfalls. He emphasized that wages should be determined based on the real living basket and purchasing power of workers.",
+        "time": "11:35",
+        "ts": 1791545711
       }
     ],
     "language": "en",
-    "packId": "20261009-31",
-    "sequence": 31,
+    "packId": "20261009-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:31"
+    "updatedAt": "11:35"
   },
   "verified": true
 }
