@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-46 seq=46 exp=1791723871",
+      "advancedStatus": "pack_id=20261009-47 seq=47 exp=1791723989",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:04",
+      "lastChecked": "13:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 13:04",
+    "expiresAt": "2026-10-11 13:06",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -483,14 +483,21 @@
         "text": "OpenAI has blocked accounts linked to an Iranian media infiltration operation. Nearly 100 articles about the Iran-US war were published using ChatGPT and fake journalist identities. These articles were posted or reposted on about 12 online media outlets in different countries.",
         "time": "13:01",
         "ts": 1791550912
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "An independent international organization reported that the Islamic Republic is moving towards an illegal economy to counter US sanctions. This report was released amid the intensification of the Trump administration's economic isolation campaign. An interview was conducted with Ahmad Samadi, a journalist from Iran International.",
+        "time": "13:06",
+        "ts": 1791551164
       }
     ],
     "language": "en",
-    "packId": "20261009-46",
-    "sequence": 46,
+    "packId": "20261009-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:04"
+    "updatedAt": "13:06"
   },
   "verified": true
 }
