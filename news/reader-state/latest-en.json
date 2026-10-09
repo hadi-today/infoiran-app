@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-14 seq=14 exp=1791707216",
+      "advancedStatus": "pack_id=20261009-15 seq=15 exp=1791707436",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:26",
+      "lastChecked": "08:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 08:26",
+    "expiresAt": "2026-10-11 08:30",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -238,14 +238,28 @@
         "text": "The Saudi Civil Aviation Authority announced that following two attacks on King Khalid International Airport, three citizens were killed and several injured. One of the Saudi airline's planes was damaged and one employee was killed. Airport operations returned to normal after the attacks.",
         "time": "08:26",
         "ts": 1791534393
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The head of the Kurdistan judiciary announced the arrest of a suspect accused of sexual harassment in Divandarreh. The individual was arrested following complaints from five people and transferred to prison.",
+        "time": "08:27",
+        "ts": 1791534435
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Malikeh Haghighat, a citizen of Gorgan, has been held in Gorgan prison for 80 days. Her legal case remains unresolved, and no court session has been held to address the charges against her. She faces accusations including propaganda against the regime.",
+        "time": "08:27",
+        "ts": 1791534448
       }
     ],
     "language": "en",
-    "packId": "20261009-14",
-    "sequence": 14,
+    "packId": "20261009-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:26"
+    "updatedAt": "08:30"
   },
   "verified": true
 }
