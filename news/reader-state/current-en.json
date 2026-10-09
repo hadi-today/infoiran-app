@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-17 seq=17 exp=1791753582",
+      "advancedStatus": "pack_id=20261009-18 seq=18 exp=1791753723",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:19",
+      "lastChecked": "21:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 21:19",
+    "expiresAt": "2026-10-11 21:22",
     "items": [
       {
         "channel": "harana",
@@ -140,14 +140,21 @@
         "text": "Arash Aramesh criticized Donald Trump's policy towards the Islamic Republic as unpredictable and lacking strategic coherence. He said Trump both increases pressure on the Islamic Republic and financially supports Tehran by buying fuel from Russia. Aramesh emphasized that US national security should not be sacrificed for electoral considerations.",
         "time": "21:19",
         "ts": 1791580744
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammed Al-Jaber, Saudi Arabia's ambassador to Yemen, stated that Bab al-Mandab has been cleared of Houthi terrorist militants. The spokesperson for Yemen's government forces confirmed that after securing Bab al-Mandab, southern forces launched an attack on a Houthi base in Dhubab. These forces are currently clearing the area.",
+        "time": "21:21",
+        "ts": 1791580883
       }
     ],
     "language": "en",
-    "packId": "20261009-17",
-    "sequence": 17,
+    "packId": "20261009-18",
+    "sequence": 18,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:19"
+    "updatedAt": "21:22"
   },
   "verified": true
 }
