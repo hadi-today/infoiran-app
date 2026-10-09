@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-85 seq=85 exp=1791743227",
+      "advancedStatus": "pack_id=20261009-86 seq=86 exp=1791743576",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:27",
+      "lastChecked": "18:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 18:27",
+    "expiresAt": "2026-10-11 18:32",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -777,14 +777,21 @@
         "text": "The Israeli army spokesperson announced that Israeli forces targeted Youssef Ali Al-Hassoun, a Syrian citizen, in an airstrike. Al-Hassoun was preparing attacks against Israel in southern Syria under the guidance of the Islamic Republic. The Israeli army stated it will continue to counter threats and remains committed to the agreement with Lebanon.",
         "time": "18:26",
         "ts": 1791570404
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US Deputy Treasury Secretary announced that Washington has sanctioned over 1,500 individuals and entities in Iran. Measures include restricting cryptocurrency flows to Iran to cut off financial resources of the Islamic Republic. Additionally, the volume of crude oil passing through the Strait of Hormuz has returned to pre-war levels.",
+        "time": "18:32",
+        "ts": 1791570753
       }
     ],
     "language": "en",
-    "packId": "20261009-85",
-    "sequence": 85,
+    "packId": "20261009-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:27"
+    "updatedAt": "18:32"
   },
   "verified": true
 }
