@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-75 seq=75 exp=1791739118",
+      "advancedStatus": "pack_id=20261009-76 seq=76 exp=1791739762",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:18",
+      "lastChecked": "17:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 17:18",
+    "expiresAt": "2026-10-11 17:29",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -693,14 +693,21 @@
         "text": "Reports indicate shortages of essential medicines such as insulin and fluoxetine in pharmacies. The cost of blood pressure and heart medications has significantly increased. Economic problems including unemployment, poverty, and rising prices of work tools have been reported in various cities.",
         "time": "17:18",
         "ts": 1791566298
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Human rights activists in Iran reported that 2,003 people were executed in the past year. At least 69 of those executed faced political and security charges. The organization has called for an immediate halt to executions.",
+        "time": "17:28",
+        "ts": 1791566939
       }
     ],
     "language": "en",
-    "packId": "20261009-75",
-    "sequence": 75,
+    "packId": "20261009-76",
+    "sequence": 76,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:18"
+    "updatedAt": "17:29"
   },
   "verified": true
 }
