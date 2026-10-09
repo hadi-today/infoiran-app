@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-83 seq=83 exp=1791742566",
+      "advancedStatus": "pack_id=20261009-84 seq=84 exp=1791742879",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:16",
+      "lastChecked": "18:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 18:16",
+    "expiresAt": "2026-10-11 18:21",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -763,14 +763,21 @@
         "text": "The US Central Command announced that its forces have so far forced 133 commercial ships to change course. The USS John Paul Jones destroyer is involved in supporting the naval blockade against Iran. The CENTCOM commander emphasized that the US military continues the blockade with full focus.",
         "time": "18:15",
         "ts": 1791569743
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Tartaar, Persepolis coach, complained about the poor quality of the stadium field after the match with Sanat Naft Abadan. He called for improvements to the field and repairs to Azadi Stadium. Tartaar emphasized that this stadium should not be excluded from the competition cycle.",
+        "time": "18:20",
+        "ts": 1791570057
       }
     ],
     "language": "en",
-    "packId": "20261009-83",
-    "sequence": 83,
+    "packId": "20261009-84",
+    "sequence": 84,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:16"
+    "updatedAt": "18:21"
   },
   "verified": true
 }
