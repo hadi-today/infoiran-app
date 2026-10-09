@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-08 seq=8 exp=1791747254",
+      "advancedStatus": "pack_id=20261009-09 seq=9 exp=1791747359",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:34",
+      "lastChecked": "19:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 19:34",
+    "expiresAt": "2026-10-11 19:35",
     "items": [
       {
         "channel": "harana",
@@ -77,14 +77,21 @@
         "text": "A group of Iranians residing in Malmo, Sweden, held a Mehregan celebration on Friday, October 9. The mother of Majid Adineh, a detainee from the December 2025 protests, attended the event. Majid Adineh was executed on August 22, 2026, in Qezel Hesar prison in Karaj.",
         "time": "19:33",
         "ts": 1791574410
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Taj stated that Amir Ghalenoei's contract with the national football team is 50 billion tomans annually until the World Cup. Taj denied the 90 billion tomans figure for the Asian Cup and said no specific amount was written in Ghalenoei's contract. Earlier, there was a report about Ghalenoei requesting 90 billion tomans as salary.",
+        "time": "19:35",
+        "ts": 1791574534
       }
     ],
     "language": "en",
-    "packId": "20261009-08",
-    "sequence": 8,
+    "packId": "20261009-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:34"
+    "updatedAt": "19:35"
   },
   "verified": true
 }
