@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-09 seq=9 exp=1791691388",
+      "advancedStatus": "pack_id=20261009-10 seq=10 exp=1791692815",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:03",
+      "lastChecked": "04:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 04:03",
+    "expiresAt": "2026-10-11 04:26",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -203,14 +203,21 @@
         "text": "OpenAI announced that nearly 100 articles were published in Iran using AI tools and fake identities. These articles, impersonating seven journalists, appeared in about 12 media outlets including Middle East Monitor. The content mainly criticized Washington's policies.",
         "time": "04:02",
         "ts": 1791518568
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iran war has prompted Asian countries to strengthen their oil reserves and connect power grids. ASEAN member countries emphasized preparedness for energy crises in a meeting in Manila. Japan and Australia also supported strengthening regional oil reserves.",
+        "time": "04:26",
+        "ts": 1791519996
       }
     ],
     "language": "en",
-    "packId": "20261009-09",
-    "sequence": 9,
+    "packId": "20261009-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:03"
+    "updatedAt": "04:26"
   },
   "verified": true
 }
