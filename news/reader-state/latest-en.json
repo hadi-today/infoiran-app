@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-78 seq=78 exp=1791740251",
+      "advancedStatus": "pack_id=20261009-79 seq=79 exp=1791740457",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:37",
+      "lastChecked": "17:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 17:37",
+    "expiresAt": "2026-10-11 17:40",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -714,14 +714,21 @@
         "text": "Saudi Arabia's Aramco has announced it will fully supply the crude oil requested by European refineries in November. This decision follows the resumption of the East-West pipeline operations. Previously, in October, Aramco did not deliver oil to European customers due to an attack on the pipeline.",
         "time": "17:33",
         "ts": 1791567229
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "UN experts have called for the immediate halt of all death penalty executions in Iran and expressed concern over violations of fair trial rights in these cases. They stated that the death penalty in Iran is not limited to security cases but also applies to various crimes including drug offenses and homosexual relations. This situation particularly endangers ethnic minorities, women, and vulnerable individuals.",
+        "time": "17:39",
+        "ts": 1791567541
       }
     ],
     "language": "en",
-    "packId": "20261009-78",
-    "sequence": 78,
+    "packId": "20261009-79",
+    "sequence": 79,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:37"
+    "updatedAt": "17:40"
   },
   "verified": true
 }
