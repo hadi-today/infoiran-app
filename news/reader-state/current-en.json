@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261009-22 seq=22 exp=1791756474",
+      "advancedStatus": "pack_id=20261009-23 seq=23 exp=1791756558",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:07",
+      "lastChecked": "22:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-09",
-    "expiresAt": "2026-10-11 22:07",
+    "expiresAt": "2026-10-11 22:09",
     "items": [
       {
         "channel": "harana",
@@ -175,14 +175,21 @@
         "text": "Mohammad Taghavi analyzed the Tractor vs Esteghlal match in the Hat-trick program. He said the first half was dominated by Esteghlal and the second half by Tractor. According to him, a draw was a fair result for both teams.",
         "time": "22:07",
         "ts": 1791583631
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The judiciary of the Islamic Republic has sentenced more than 10 specialized workers of Petropars in Howeyzeh to flogging and fines for demanding labor rights. These workers faced security and judicial actions after protesting dismissals and replacement with non-local forces. The Karun Human Rights Organization considers the flogging sentence a violation of human rights.",
+        "time": "22:08",
+        "ts": 1791583683
       }
     ],
     "language": "en",
-    "packId": "20261009-22",
-    "sequence": 22,
+    "packId": "20261009-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:07"
+    "updatedAt": "22:09"
   },
   "verified": true
 }
