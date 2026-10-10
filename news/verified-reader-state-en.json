@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-06 seq=6 exp=1791775886",
+      "advancedStatus": "pack_id=20261010-07 seq=7 exp=1791776985",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:31",
+      "lastChecked": "03:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 03:31",
+    "expiresAt": "2026-10-12 03:49",
     "items": [
       {
         "channel": "harana",
@@ -252,14 +252,21 @@
         "text": "The oil agreement between the US and Russia and the discovery of alternative energy routes have reduced the importance of the Strait of Hormuz as a leverage tool for the Islamic Republic. Increased attacks by the Islamic Republic on ships may be an attempt to compensate for this reduced pressure. If Tehran does not accept Washington's demands, the likelihood of US military action against Iran's nuclear targets increases.",
         "time": "03:30",
         "ts": 1791603044
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Houthi-affiliated media reported a missile attack on Saada city and the communication network of Al-Safra district. These two cities are in areas controlled by the group in northern Yemen. The Saudi-led coalition released images of Houthis fleeing during a clearing operation in Bab al-Mandeb.",
+        "time": "03:48",
+        "ts": 1791604139
       }
     ],
     "language": "en",
-    "packId": "20261010-06",
-    "sequence": 6,
+    "packId": "20261010-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:31"
+    "updatedAt": "03:49"
   },
   "verified": true
 }
