@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-08 seq=8 exp=1791777812",
+      "advancedStatus": "pack_id=20261010-09 seq=9 exp=1791778608",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:03",
+      "lastChecked": "04:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 04:03",
+    "expiresAt": "2026-10-12 04:16",
     "items": [
       {
         "channel": "harana",
@@ -266,14 +266,21 @@
         "text": "The Global Initiative Against Transnational Organized Crime reported that the Islamic Republic has increasingly relied on the illegal economy to counter US sanctions. The report mentions the expansion of poppy cultivation in Sistan and Baluchestan and the possible production of Captagon. It also highlights the IRGC's revenue from drug trafficking.",
         "time": "04:02",
         "ts": 1791604970
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Houshang Hasan-Yari stated that the number of missiles launched by the Islamic Republic has decreased. He emphasized that US and Israeli attacks have weakened the missile and drone capabilities of the Islamic Republic. There is also a possibility of resumption of military conflict among these parties.",
+        "time": "04:16",
+        "ts": 1791605761
       }
     ],
     "language": "en",
-    "packId": "20261010-08",
-    "sequence": 8,
+    "packId": "20261010-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:03"
+    "updatedAt": "04:16"
   },
   "verified": true
 }
