@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-79 seq=79 exp=1791825967",
+      "advancedStatus": "pack_id=20261010-80 seq=80 exp=1791826340",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:26",
+      "lastChecked": "17:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 17:26",
+    "expiresAt": "2026-10-12 17:32",
     "items": [
       {
         "channel": "harana",
@@ -777,14 +777,21 @@
         "text": "Donald Trump responded to a question about whether the recent attack on Riyadh airport would change his decision on attacking Iran by saying, \"We will see.\" He had previously stated he would not attack Iran before the midterm elections. These remarks were in reaction to the recent attack in Saudi Arabia.",
         "time": "17:25",
         "ts": 1791653119
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of Iranians residing in Finland held a protest gathering in Helsinki. The gathering took place on October 10. They expressed their support for Prince Reza Pahlavi.",
+        "time": "17:31",
+        "ts": 1791653492
       }
     ],
     "language": "en",
-    "packId": "20261010-79",
-    "sequence": 79,
+    "packId": "20261010-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:26"
+    "updatedAt": "17:32"
   },
   "verified": true
 }
