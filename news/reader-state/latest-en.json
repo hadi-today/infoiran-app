@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-36 seq=36 exp=1791799461",
+      "advancedStatus": "pack_id=20261010-37 seq=37 exp=1791800281",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:04",
+      "lastChecked": "10:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 10:04",
+    "expiresAt": "2026-10-12 10:18",
     "items": [
       {
         "channel": "harana",
@@ -462,14 +462,21 @@
         "text": "Messages sent to Iran International indicate an increased presence of government forces and the establishment of checkpoints in public places. Videos have been released showing street military training for government supporters and a parade of the so-called 'Jan-Fada' forces. These details were provided by Mohsen Mahimini, a member of Iran International's editorial team.",
         "time": "10:03",
         "ts": 1791626590
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fazlollah Ranjbar, the representative of Kermanshah, stated that if the US attacks again, the Islamic Republic will leave its defensive stance. He emphasized that US interests worldwide must be targeted and no concessions should be made. These remarks were made in an interview with Mellat News Agency.",
+        "time": "10:17",
+        "ts": 1791627425
       }
     ],
     "language": "en",
-    "packId": "20261010-36",
-    "sequence": 36,
+    "packId": "20261010-37",
+    "sequence": 37,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:04"
+    "updatedAt": "10:18"
   },
   "verified": true
 }
