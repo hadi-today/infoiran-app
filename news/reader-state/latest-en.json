@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-108 seq=108 exp=1791844184",
+      "advancedStatus": "pack_id=20261010-109 seq=109 exp=1791844284",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:29",
+      "lastChecked": "22:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 22:29",
+    "expiresAt": "2026-10-12 22:31",
     "items": [
       {
         "channel": "iranintl",
@@ -819,14 +819,21 @@
         "text": "The audio version of the program 'Politics' with Murad Vaisi has been released. This episode covers the simulation of an attack on the Islamic Republic in Iraqi airspace. The program was broadcast on Iran International.",
         "time": "22:28",
         "ts": 1791671339
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Vaisi, a senior analyst at Iran International, believes the Islamic Republic is leading Iran towards a fifth war. He referenced previous wars involving Iran and warned that this new war would harm the country's infrastructure and people. He also stated that the Islamic Republic will not cease its warmongering.",
+        "time": "22:30",
+        "ts": 1791671412
       }
     ],
     "language": "en",
-    "packId": "20261010-108",
-    "sequence": 108,
+    "packId": "20261010-109",
+    "sequence": 109,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:29"
+    "updatedAt": "22:31"
   },
   "verified": true
 }
