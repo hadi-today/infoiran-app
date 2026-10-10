@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-28 seq=28 exp=1791795839",
+      "advancedStatus": "pack_id=20261010-29 seq=29 exp=1791796307",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:03",
+      "lastChecked": "09:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 09:03",
+    "expiresAt": "2026-10-12 09:11",
     "items": [
       {
         "channel": "harana",
@@ -406,14 +406,21 @@
         "text": "Hossein Aghaei said the Moscow-Washington agreement indicates that Russia and the US are seeking to restore their relations. Russia may reduce its intelligence and satellite support for the Islamic Republic in exchange for concessions from the US. Aghaei added that Putin is not trying to save the Islamic Republic and acts based on his own interests.",
         "time": "09:03",
         "ts": 1791622988
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abulfazl Khezrian, a member of the National Security and Foreign Policy Commission, suggested that Trump might take new military action against Iran to prevent the consequences of a possible Republican defeat in the midterm elections. He said this action could occur between mid-November and mid-January. This period is before the new US Congress convenes.",
+        "time": "09:10",
+        "ts": 1791623457
       }
     ],
     "language": "en",
-    "packId": "20261010-28",
-    "sequence": 28,
+    "packId": "20261010-29",
+    "sequence": 29,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:03"
+    "updatedAt": "09:11"
   },
   "verified": true
 }
