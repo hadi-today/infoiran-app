@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-107 seq=107 exp=1791843642",
+      "advancedStatus": "pack_id=20261010-108 seq=108 exp=1791844184",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:20",
+      "lastChecked": "22:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 22:20",
+    "expiresAt": "2026-10-12 22:29",
     "items": [
       {
         "channel": "iranintl",
@@ -812,14 +812,21 @@
         "text": "The UK Maritime Trade Operations reported an incident in the Strait of Hormuz. An unknown projectile hit an oil tanker, causing a fire. The crew is safe, and the extent of damage is currently unknown.",
         "time": "22:19",
         "ts": 1791670780
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The audio version of the program 'Politics' with Murad Vaisi has been released. This episode covers the simulation of an attack on the Islamic Republic in Iraqi airspace. The program was broadcast on Iran International.",
+        "time": "22:28",
+        "ts": 1791671339
       }
     ],
     "language": "en",
-    "packId": "20261010-107",
-    "sequence": 107,
+    "packId": "20261010-108",
+    "sequence": 108,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:20"
+    "updatedAt": "22:29"
   },
   "verified": true
 }
