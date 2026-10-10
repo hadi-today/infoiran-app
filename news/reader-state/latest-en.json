@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-68 seq=68 exp=1791818480",
+      "advancedStatus": "pack_id=20261010-69 seq=69 exp=1791819206",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:21",
+      "lastChecked": "15:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 15:21",
+    "expiresAt": "2026-10-12 15:33",
     "items": [
       {
         "channel": "harana",
@@ -693,14 +693,21 @@
         "text": "The fourth annual run and walk event for seeking justice for the victims of flight PS752 was held in Toronto. The event commemorated the 176 victims of the flight. Families of the victims invited people to participate in the event.",
         "time": "15:20",
         "ts": 1791645634
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Agence France-Presse reported, citing a hospital source in Riyadh, that dozens were injured in a Houthi attack on Riyadh airport. At least five of the injured are in intensive care. Most of the injured and those in intensive care are Saudi nationals.",
+        "time": "15:32",
+        "ts": 1791646349
       }
     ],
     "language": "en",
-    "packId": "20261010-68",
-    "sequence": 68,
+    "packId": "20261010-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:21"
+    "updatedAt": "15:33"
   },
   "verified": true
 }
