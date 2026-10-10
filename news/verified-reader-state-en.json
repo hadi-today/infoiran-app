@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-73 seq=73 exp=1791822305",
+      "advancedStatus": "pack_id=20261010-74 seq=74 exp=1791822824",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:25",
+      "lastChecked": "16:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 16:25",
+    "expiresAt": "2026-10-12 16:33",
     "items": [
       {
         "channel": "harana",
@@ -735,14 +735,21 @@
         "text": "A conference organized by Amnesty International is being held in Lund, Sweden, on the International Day Against the Death Penalty. The conference discusses the increase in executions in Iran and the situation of political prisoners. Human rights activists are exploring ways to combat the death penalty.",
         "time": "16:23",
         "ts": 1791649422
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "On the afternoon of October 10, a loud explosion was heard at Riyadh International Airport, leading to partial evacuation. Reports indicate the airport was targeted by Yemeni Houthi missile attacks, injuring dozens. All incoming flights to Riyadh have been canceled or diverted, and Saudi authorities have not yet confirmed the attack.",
+        "time": "16:32",
+        "ts": 1791649976
       }
     ],
     "language": "en",
-    "packId": "20261010-73",
-    "sequence": 73,
+    "packId": "20261010-74",
+    "sequence": 74,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:25"
+    "updatedAt": "16:33"
   },
   "verified": true
 }
