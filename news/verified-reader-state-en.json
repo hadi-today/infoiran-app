@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-15 seq=15 exp=1791788718",
+      "advancedStatus": "pack_id=20261010-16 seq=16 exp=1791788817",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:05",
+      "lastChecked": "07:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 07:05",
+    "expiresAt": "2026-10-12 07:06",
     "items": [
       {
         "channel": "harana",
@@ -315,14 +315,21 @@
         "text": "Shahram Khaledi said Donald Trump is seeking an opportunity to force the Islamic Republic to accept his demands. He also stated that Russia is moving in a path detrimental to the Islamic Republic. These remarks concern international relations and regional policies.",
         "time": "07:04",
         "ts": 1791615878
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mahshad Keshani, a political prisoner and wife of Alireza Sepahi, is under intense interrogation in Dolatabad prison in Isfahan, and her contact with the outside has been cut off. The families of Keshani and Sepahi are also under pressure to deny their marriage. The head of the women's section of Dolatabad prison has been accused of putting pressure on Keshani.",
+        "time": "07:05",
+        "ts": 1791615923
       }
     ],
     "language": "en",
-    "packId": "20261010-15",
-    "sequence": 15,
+    "packId": "20261010-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:05"
+    "updatedAt": "07:06"
   },
   "verified": true
 }
