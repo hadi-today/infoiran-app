@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-39 seq=39 exp=1791801108",
+      "advancedStatus": "pack_id=20261010-40 seq=40 exp=1791804482",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:31",
+      "lastChecked": "11:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 10:31",
+    "expiresAt": "2026-10-12 11:28",
     "items": [
       {
         "channel": "harana",
@@ -483,14 +483,28 @@
         "text": "Hossein Farahi was killed on January 8, 2026, in Piroozi Street, Tehran. His mother was seen crying beside his photo in a video shared on social media, saying she will wait for him forever. Hossein Farahi was 32 years old.",
         "time": "10:30",
         "ts": 1791628259
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Wall Street Journal reported on the activity of 21 accounts linked to Babak Zanjani's network based on a document from Binance. The US Treasury Secretary stated that Washington plans to identify and seize one billion dollars worth of cryptocurrency linked to Tehran by the end of the week. This move aims to cut off the Islamic Republic's financial access.",
+        "time": "11:27",
+        "ts": 1791631637
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump called the Nobel Peace Prize decision unfair. He said the prize should have been given to him as the representative of the American people. These remarks were made in an interview with an Iran International reporter.",
+        "time": "11:27",
+        "ts": 1791631677
       }
     ],
     "language": "en",
-    "packId": "20261010-39",
-    "sequence": 39,
+    "packId": "20261010-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:31"
+    "updatedAt": "11:28"
   },
   "verified": true
 }
