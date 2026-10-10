@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-17 seq=17 exp=1791789075",
+      "advancedStatus": "pack_id=20261010-18 seq=18 exp=1791789953",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:11",
+      "lastChecked": "07:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 07:11",
+    "expiresAt": "2026-10-12 07:25",
     "items": [
       {
         "channel": "harana",
@@ -329,14 +329,21 @@
         "text": "The fourth part of the documentary series 'Commanders of the Massacre' titled 'Families Under the Boot of Suppression' will be aired on Saturday at 17:45 and 21:45 Tehran time. This documentary will be broadcast on Iran International.",
         "time": "07:10",
         "ts": 1791616224
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ruhollah Rahimpour stated that if the resistances of the US and the Islamic Republic continue, the likelihood of a large-scale war resuming is higher. He pointed to the diplomatic deadlock between the two countries. Even if negotiations resume, the chance of reaching an agreement is close to zero.",
+        "time": "07:24",
+        "ts": 1791617097
       }
     ],
     "language": "en",
-    "packId": "20261010-17",
-    "sequence": 17,
+    "packId": "20261010-18",
+    "sequence": 18,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:11"
+    "updatedAt": "07:25"
   },
   "verified": true
 }
