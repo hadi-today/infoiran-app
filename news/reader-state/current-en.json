@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-106 seq=106 exp=1791843540",
+      "advancedStatus": "pack_id=20261010-107 seq=107 exp=1791843642",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:19",
+      "lastChecked": "22:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 22:19",
+    "expiresAt": "2026-10-12 22:20",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,21 @@
         "text": "Morad Veisi announced that 10 kilograms of gold went missing in the public warehouses company in Tehran, which is under the pension fund. This happened while the pension funds have not paid retirees' arrears. Veisi suggested the possibility of involvement of pension fund managers in this theft.",
         "time": "22:18",
         "ts": 1791670700
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The UK Maritime Trade Operations reported an incident in the Strait of Hormuz. An unknown projectile hit an oil tanker, causing a fire. The crew is safe, and the extent of damage is currently unknown.",
+        "time": "22:19",
+        "ts": 1791670780
       }
     ],
     "language": "en",
-    "packId": "20261010-106",
-    "sequence": 106,
+    "packId": "20261010-107",
+    "sequence": 107,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:19"
+    "updatedAt": "22:20"
   },
   "verified": true
 }
