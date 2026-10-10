@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-05 seq=5 exp=1791775225",
+      "advancedStatus": "pack_id=20261010-06 seq=6 exp=1791775886",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:20",
+      "lastChecked": "03:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 03:20",
+    "expiresAt": "2026-10-12 03:31",
     "items": [
       {
         "channel": "harana",
@@ -245,14 +245,21 @@
         "text": "Donald Trump stated that if the Islamic Republic had acquired nuclear weapons, it might have targeted beyond Israel and other Middle Eastern countries, Europe, and American cities including Los Angeles and San Diego.",
         "time": "03:19",
         "ts": 1791602378
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The oil agreement between the US and Russia and the discovery of alternative energy routes have reduced the importance of the Strait of Hormuz as a leverage tool for the Islamic Republic. Increased attacks by the Islamic Republic on ships may be an attempt to compensate for this reduced pressure. If Tehran does not accept Washington's demands, the likelihood of US military action against Iran's nuclear targets increases.",
+        "time": "03:30",
+        "ts": 1791603044
       }
     ],
     "language": "en",
-    "packId": "20261010-05",
-    "sequence": 5,
+    "packId": "20261010-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:20"
+    "updatedAt": "03:31"
   },
   "verified": true
 }
