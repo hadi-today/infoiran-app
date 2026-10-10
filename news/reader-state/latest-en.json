@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-92 seq=92 exp=1791831911",
+      "advancedStatus": "pack_id=20261010-93 seq=93 exp=1791832246",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:05",
+      "lastChecked": "19:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 19:05",
+    "expiresAt": "2026-10-12 19:10",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "In the past week, combating illegal hunting, air pollution, water resource depletion, and land subsidence were the main environmental issues in Iran. The report is based on 68 news items published by media and local authorities. It also includes wildlife rescue and actions against environmental offenders.",
-        "time": "19:06",
-        "ts": 1791572795
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Alireza Beiranvand, the goalkeeper of Tractor team, was expelled from the team's camp due to his criticism of the club's managers and his interview against them. The Tractor club announced that this decision was made by Javad Nekounam due to false statements and creating controversy. Beiranvand was handed over to the club's disciplinary committee.",
-        "time": "19:08",
-        "ts": 1791572894
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump announced that the US has full control over the Strait of Hormuz and has agreed with Russia to supply millions of tons of diesel to the global market. According to him, Russia will immediately supply over 300,000 tons of diesel and deliver another 500,000 tons in November. This move will quickly reduce diesel prices.",
-        "time": "19:09",
-        "ts": 1791572994
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -847,14 +826,21 @@
         "text": "Ali Birami's birthday was held at his gravesite with family and close ones present. Ali Birami, 24, was killed during the protests on January 9 in Nazarabad, Alborz. The video was shared on social media.",
         "time": "19:04",
         "ts": 1791659065
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Saket Elhami, head coach of Peykan, responded in a press conference after the game against Shams Azar that he was not aware when he slapped Hojjat Ahmadi and it was not intentional. He described Hojjat Ahmadi as a kind-hearted boy and said the action was just a way of saying 'well done.' Elhami also mentioned that he said 'well done' to a couple of other players in the same way.",
+        "time": "19:10",
+        "ts": 1791659402
       }
     ],
     "language": "en",
-    "packId": "20261010-92",
-    "sequence": 92,
+    "packId": "20261010-93",
+    "sequence": 93,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:05"
+    "updatedAt": "19:10"
   },
   "verified": true
 }
