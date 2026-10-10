@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-30 seq=30 exp=1791797037",
+      "advancedStatus": "pack_id=20261010-31 seq=31 exp=1791797139",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:23",
+      "lastChecked": "09:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 09:23",
+    "expiresAt": "2026-10-12 09:25",
     "items": [
       {
         "channel": "harana",
@@ -420,14 +420,21 @@
         "text": "Mehdi Taj announced negotiations with Yahya Golmohammadi for the head coach position of Iran's under-23 team, stating the agreement is close. He said the new coach will be announced soon to start preparing the team for the Los Angeles Olympics. Taj also mentioned he did not have direct negotiations with Afshin Ghotbi.",
         "time": "09:22",
         "ts": 1791624177
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mahmoud Amiri-Moghaddam, director of the Iran Human Rights organization, reported an increase in executions in Iran on the International Day Against the Death Penalty. He stated that the Islamic Republic uses executions to create fear and maintain power. He also noted that raising the political cost of executions could slow down the execution process.",
+        "time": "09:24",
+        "ts": 1791624291
       }
     ],
     "language": "en",
-    "packId": "20261010-30",
-    "sequence": 30,
+    "packId": "20261010-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:23"
+    "updatedAt": "09:25"
   },
   "verified": true
 }
