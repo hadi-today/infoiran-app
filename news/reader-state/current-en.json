@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-53 seq=53 exp=1791809904",
+      "advancedStatus": "pack_id=20261010-54 seq=54 exp=1791810488",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:58",
+      "lastChecked": "13:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 12:58",
+    "expiresAt": "2026-10-12 13:08",
     "items": [
       {
         "channel": "harana",
@@ -588,14 +588,21 @@
         "text": "The President of Lebanon welcomed Trump's decision to lift the 41-year restriction on direct flights between the US and Lebanon. This restriction was imposed in 1985 after a plane hijacking. Lifting the restrictions does not mean immediate resumption of flights and requires procedural steps and necessary permits.",
         "time": "12:57",
         "ts": 1791637052
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The dispatch of Iranian pilgrims to Umrah has been delayed due to unresolved flight status and lack of pilgrimage currency. The Hajj and Pilgrimage Organization has prepared the arrangements but the start of flights depends on technical approvals and flight schedules. The government has not yet allocated the required currency for the trips.",
+        "time": "13:06",
+        "ts": 1791637619
       }
     ],
     "language": "en",
-    "packId": "20261010-53",
-    "sequence": 53,
+    "packId": "20261010-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:58"
+    "updatedAt": "13:08"
   },
   "verified": true
 }
