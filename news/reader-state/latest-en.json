@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-59 seq=59 exp=1791813862",
+      "advancedStatus": "pack_id=20261010-60 seq=60 exp=1791814333",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:04",
+      "lastChecked": "14:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 14:04",
+    "expiresAt": "2026-10-12 14:12",
     "items": [
       {
         "channel": "harana",
@@ -630,14 +630,21 @@
         "text": "Mohsen Araki criticized Mohammad Jafar Ghaempanah for attending the Saudi embassy celebration in Tehran. He stated that one cannot speak of supporting the oppressed while remaining silent about the oppression of the Yemeni people. Araki called for serious attention from officials to this issue.",
         "time": "14:03",
         "ts": 1791641013
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Sadrozadeh commented on the intense clashes around Bab al-Mandab. He said if the forces supporting the Yemeni government secure control of the strait, Taiz, and parts of the Red Sea coast, the balance of power will shift against the Houthis. He emphasized that the battle is ongoing and neither side has achieved a decisive victory.",
+        "time": "14:11",
+        "ts": 1791641487
       }
     ],
     "language": "en",
-    "packId": "20261010-59",
-    "sequence": 59,
+    "packId": "20261010-60",
+    "sequence": 60,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:04"
+    "updatedAt": "14:12"
   },
   "verified": true
 }
