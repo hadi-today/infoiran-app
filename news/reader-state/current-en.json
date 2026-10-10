@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-47 seq=47 exp=1791807587",
+      "advancedStatus": "pack_id=20261010-49 seq=49 exp=1791808071",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:19",
+      "lastChecked": "12:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 12:19",
+    "expiresAt": "2026-10-12 12:27",
     "items": [
       {
         "channel": "harana",
@@ -539,14 +539,28 @@
         "text": "The Yemeni government has requested the UN and Security Council to fully enforce the arms embargo against the Houthis. This request is due to the Houthis' use of Iranian-made weapons and a missile attack on Aden airport. The Yemeni government had previously warned about the threat posed by these weapons.",
         "time": "12:17",
         "ts": 1791634678
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump stated that despite preventing Iran from acquiring nuclear weapons and returning Israeli hostages, neither he nor the US received the Nobel Peace Prize. He also mentioned victory in the Venezuela conflict and the arrest of its dictator. Trump expressed surprise at not receiving the Nobel Peace Prize.",
+        "time": "12:25",
+        "ts": 1791635138
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Nosrat Eftekhari, the social and cultural deputy commander of police in Sistan and Baluchestan, was killed in a roadside bomb explosion on the Cheshmeh Ziarat road in Zahedan. This incident occurred amid ongoing armed clashes in the province. An interview was conducted with Mehdi Nakhl Ahmadi regarding the matter.",
+        "time": "12:26",
+        "ts": 1791635182
       }
     ],
     "language": "en",
-    "packId": "20261010-47",
-    "sequence": 47,
+    "packId": "20261010-49",
+    "sequence": 49,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:19"
+    "updatedAt": "12:27"
   },
   "verified": true
 }
