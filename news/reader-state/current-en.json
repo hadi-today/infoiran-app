@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-38 seq=38 exp=1791800899",
+      "advancedStatus": "pack_id=20261010-39 seq=39 exp=1791801108",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:28",
+      "lastChecked": "10:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 10:28",
+    "expiresAt": "2026-10-12 10:31",
     "items": [
       {
         "channel": "harana",
@@ -476,14 +476,21 @@
         "text": "Mohammad Javad Zarif stated that part of the Islamic Republic's foreign policy is threat-based and ambassadors in Syria, Iraq, and Afghanistan mainly represent security institutions. Mohammad Javad Akbarin reacted to these remarks, calling them contradictory. This issue was raised in a video released on social media.",
         "time": "10:27",
         "ts": 1791628051
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Farahi was killed on January 8, 2026, in Piroozi Street, Tehran. His mother was seen crying beside his photo in a video shared on social media, saying she will wait for him forever. Hossein Farahi was 32 years old.",
+        "time": "10:30",
+        "ts": 1791628259
       }
     ],
     "language": "en",
-    "packId": "20261010-38",
-    "sequence": 38,
+    "packId": "20261010-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:28"
+    "updatedAt": "10:31"
   },
   "verified": true
 }
