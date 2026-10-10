@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-76 seq=76 exp=1791825048",
+      "advancedStatus": "pack_id=20261010-77 seq=77 exp=1791825154",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:10",
+      "lastChecked": "17:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 17:10",
+    "expiresAt": "2026-10-12 17:12",
     "items": [
       {
         "channel": "harana",
@@ -756,14 +756,21 @@
         "text": "The disciplinary committee of the Portuguese Football Federation has temporarily suspended Cristiano Ronaldo due to leaving the national team camp. The case is being handled urgently, but the final punishment has not yet been determined. Ronaldo left the national team camp after being benched in the match against Norway, and now a non-automatic suspension has also been applied to him.",
         "time": "17:10",
         "ts": 1791652203
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The IRGC Navy announced that a supertanker carrying crude oil attempting to exit through an unauthorized route in the Strait of Hormuz suffered a severe explosion due to hitting a naval mine. The tanker had turned off its navigation and positioning systems. The IRGC Navy warned that a severe fire is the fate of any tanker violating the security and regulations of the Strait of Hormuz.",
+        "time": "17:11",
+        "ts": 1791652289
       }
     ],
     "language": "en",
-    "packId": "20261010-76",
-    "sequence": 76,
+    "packId": "20261010-77",
+    "sequence": 77,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:10"
+    "updatedAt": "17:12"
   },
   "verified": true
 }
