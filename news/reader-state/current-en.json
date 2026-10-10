@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-110 seq=110 exp=1791844590",
+      "advancedStatus": "pack_id=20261010-111 seq=111 exp=1791844684",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:36",
+      "lastChecked": "22:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 22:36",
+    "expiresAt": "2026-10-12 22:38",
     "items": [
       {
         "channel": "iranintl",
@@ -826,14 +826,21 @@
         "text": "Kambiz Tavana said that the Houthi attacks on Saudi Arabia, including targeting a civilian airport, may push Riyadh to a more serious response or forming a new coalition. Donald Trump emphasized that if Tehran acts, the US will respond quickly and strongly. It is still unclear whether the US will have a direct military presence against the Houthis.",
         "time": "22:35",
         "ts": 1791671747
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amirhossein Mirasmaeili said the intensification of Houthi attacks on Saudi Arabia could change Donald Trump's calculations about responding to the Islamic Republic. He added that Iran uses proxy groups to increase the cost of potential attacks, but this strategy may backfire. Regional support for Riyadh indicates further isolation of the Islamic Republic.",
+        "time": "22:36",
+        "ts": 1791671819
       }
     ],
     "language": "en",
-    "packId": "20261010-110",
-    "sequence": 110,
+    "packId": "20261010-111",
+    "sequence": 111,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:36"
+    "updatedAt": "22:38"
   },
   "verified": true
 }
