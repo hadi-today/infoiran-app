@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-11 seq=11 exp=1791784084",
+      "advancedStatus": "pack_id=20261010-12 seq=12 exp=1791787014",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:48",
+      "lastChecked": "06:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 05:48",
+    "expiresAt": "2026-10-12 06:36",
     "items": [
       {
         "channel": "harana",
@@ -287,14 +287,28 @@
         "text": "Bloomberg reported, citing a Western official, that Russia is supplying missiles to Iran. The Islamic Republic has maintained its missile and drone production facilities and has significant ballistic missile stockpiles. It is also reported that Iran has added newly made Russian weapons to its arsenal.",
         "time": "05:47",
         "ts": 1791611239
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen criticized the price increase of the Rectol ointment in a video sent to Iran International. He asked what is happening to the people. The video reflects concerns about rising drug prices.",
+        "time": "06:36",
+        "ts": 1791614172
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The situation in Karaj and Tehran has become highly secure, with law enforcement controlling young people. In Tehran's District 18, military forces have occupied part of a schoolyard. Additionally, armed police officers visited a school in Semnan and behaved threateningly.",
+        "time": "06:36",
+        "ts": 1791614177
       }
     ],
     "language": "en",
-    "packId": "20261010-11",
-    "sequence": 11,
+    "packId": "20261010-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:48"
+    "updatedAt": "06:36"
   },
   "verified": true
 }
