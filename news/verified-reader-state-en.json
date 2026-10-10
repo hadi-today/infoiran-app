@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-18 seq=18 exp=1791789953",
+      "advancedStatus": "pack_id=20261010-19 seq=19 exp=1791790072",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:25",
+      "lastChecked": "07:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 07:25",
+    "expiresAt": "2026-10-12 07:27",
     "items": [
       {
         "channel": "harana",
@@ -336,14 +336,21 @@
         "text": "Ruhollah Rahimpour stated that if the resistances of the US and the Islamic Republic continue, the likelihood of a large-scale war resuming is higher. He pointed to the diplomatic deadlock between the two countries. Even if negotiations resume, the chance of reaching an agreement is close to zero.",
         "time": "07:24",
         "ts": 1791617097
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Turkish government condemned the Houthi attacks on two international airports in Saudi Arabia. Ankara emphasized its support for Riyadh. This stance coincides with the expansion of defense cooperation between the two countries under the Mecca Agreement.",
+        "time": "07:26",
+        "ts": 1791617205
       }
     ],
     "language": "en",
-    "packId": "20261010-18",
-    "sequence": 18,
+    "packId": "20261010-19",
+    "sequence": 19,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:25"
+    "updatedAt": "07:27"
   },
   "verified": true
 }
