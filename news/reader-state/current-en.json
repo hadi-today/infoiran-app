@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-69 seq=69 exp=1791819206",
+      "advancedStatus": "pack_id=20261010-70 seq=70 exp=1791820416",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:33",
+      "lastChecked": "15:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 15:33",
+    "expiresAt": "2026-10-12 15:53",
     "items": [
       {
         "channel": "harana",
@@ -700,14 +700,21 @@
         "text": "Agence France-Presse reported, citing a hospital source in Riyadh, that dozens were injured in a Houthi attack on Riyadh airport. At least five of the injured are in intensive care. Most of the injured and those in intensive care are Saudi nationals.",
         "time": "15:32",
         "ts": 1791646349
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The IRGC Ground Forces announced the deployment of commandos to the western borders. The commander of the Army Ground Forces stated that 50 combat and support units have been stationed at the borders. These actions come as Trump did not rule out the possibility of war before the elections.",
+        "time": "15:52",
+        "ts": 1791647569
       }
     ],
     "language": "en",
-    "packId": "20261010-69",
-    "sequence": 69,
+    "packId": "20261010-70",
+    "sequence": 70,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:33"
+    "updatedAt": "15:53"
   },
   "verified": true
 }
