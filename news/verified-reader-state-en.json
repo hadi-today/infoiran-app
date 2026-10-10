@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-91 seq=91 exp=1791831776",
+      "advancedStatus": "pack_id=20261010-92 seq=92 exp=1791831911",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:02",
+      "lastChecked": "19:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 19:02",
+    "expiresAt": "2026-10-12 19:05",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The mother of Amirhossein Emamjomeh placed 9 apples in a dish on the ninth month after his killing. She said she nurtured him in her womb for 9 months and now has lost him for 9 months. Amirhossein Emamjomeh was killed on January 8, 2026, in the Haft-Hoz area of Tehran.",
-        "time": "19:02",
-        "ts": 1791572530
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -847,14 +840,21 @@
         "text": "The Saudi Civil Aviation Authority announced that the King Khalid International Airport in Riyadh has ceased operations following an attack. Donald Trump stated he is aware of the attack and will make a decision regarding it. The exact number of injured and the extent of damage have not yet been disclosed.",
         "time": "19:02",
         "ts": 1791658926
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Birami's birthday was held at his gravesite with family and close ones present. Ali Birami, 24, was killed during the protests on January 9 in Nazarabad, Alborz. The video was shared on social media.",
+        "time": "19:04",
+        "ts": 1791659065
       }
     ],
     "language": "en",
-    "packId": "20261010-91",
-    "sequence": 91,
+    "packId": "20261010-92",
+    "sequence": 92,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:02"
+    "updatedAt": "19:05"
   },
   "verified": true
 }
