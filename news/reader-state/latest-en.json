@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-23 seq=23 exp=1791791480",
+      "advancedStatus": "pack_id=20261010-24 seq=24 exp=1791791583",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:51",
+      "lastChecked": "07:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 07:51",
+    "expiresAt": "2026-10-12 07:53",
     "items": [
       {
         "channel": "harana",
@@ -371,14 +371,21 @@
         "text": "The head of the Crisis Management Organization announced full preparedness to deal with the potential impacts of El Niño in Iran. People have been urged to pay attention to warnings to reduce damages. Multiple rainfall systems are expected to affect northern, western regions and the Zagros mountains.",
         "time": "07:50",
         "ts": 1791618635
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Tractor football team traveled to Oman for the Asian Elite League. Alireza Beiranvand was expelled from the team due to an interview against club managers and was not allowed to travel. He is also banned from leaving the country due to his military service status.",
+        "time": "07:51",
+        "ts": 1791618686
       }
     ],
     "language": "en",
-    "packId": "20261010-23",
-    "sequence": 23,
+    "packId": "20261010-24",
+    "sequence": 24,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:51"
+    "updatedAt": "07:53"
   },
   "verified": true
 }
