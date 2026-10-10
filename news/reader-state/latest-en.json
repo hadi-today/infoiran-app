@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-16 seq=16 exp=1791788817",
+      "advancedStatus": "pack_id=20261010-17 seq=17 exp=1791789075",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:06",
+      "lastChecked": "07:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 07:06",
+    "expiresAt": "2026-10-12 07:11",
     "items": [
       {
         "channel": "harana",
@@ -322,14 +322,21 @@
         "text": "Mahshad Keshani, a political prisoner and wife of Alireza Sepahi, is under intense interrogation in Dolatabad prison in Isfahan, and her contact with the outside has been cut off. The families of Keshani and Sepahi are also under pressure to deny their marriage. The head of the women's section of Dolatabad prison has been accused of putting pressure on Keshani.",
         "time": "07:05",
         "ts": 1791615923
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The fourth part of the documentary series 'Commanders of the Massacre' titled 'Families Under the Boot of Suppression' will be aired on Saturday at 17:45 and 21:45 Tehran time. This documentary will be broadcast on Iran International.",
+        "time": "07:10",
+        "ts": 1791616224
       }
     ],
     "language": "en",
-    "packId": "20261010-16",
-    "sequence": 16,
+    "packId": "20261010-17",
+    "sequence": 17,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:06"
+    "updatedAt": "07:11"
   },
   "verified": true
 }
