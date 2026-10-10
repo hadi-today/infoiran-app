@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-85 seq=85 exp=1791828570",
+      "advancedStatus": "pack_id=20261010-87 seq=87 exp=1791829278",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:09",
+      "lastChecked": "18:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 18:09",
+    "expiresAt": "2026-10-12 18:21",
     "items": [
       {
         "channel": "harana",
@@ -819,14 +819,28 @@
         "text": "Putin delivered a message from Tehran to Trump. New signs of US readiness for an attack have been observed. This was discussed in the audio version of Titrawol with Niusha Saremi.",
         "time": "18:08",
         "ts": 1791655726
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Israeli Channel 12 reported that senior US military officials told the Israeli army chief that they have orders to prepare for a possible large-scale attack on Iran within the next three weeks.",
+        "time": "18:19",
+        "ts": 1791656350
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Three workers died in separate incidents in Piranshahr, drilling rig 93 Fath, and a sawmill workshop in Mamuniyeh. Two of the deceased were seasonal and contract workers. These incidents resulted in the death of these individuals.",
+        "time": "18:19",
+        "ts": 1791656399
       }
     ],
     "language": "en",
-    "packId": "20261010-85",
-    "sequence": 85,
+    "packId": "20261010-87",
+    "sequence": 87,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:09"
+    "updatedAt": "18:21"
   },
   "verified": true
 }
