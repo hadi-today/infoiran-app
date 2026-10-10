@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-105 seq=105 exp=1791843451",
+      "advancedStatus": "pack_id=20261010-106 seq=106 exp=1791843540",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:17",
+      "lastChecked": "22:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 22:17",
+    "expiresAt": "2026-10-12 22:19",
     "items": [
       {
         "channel": "iranintl",
@@ -798,14 +798,21 @@
         "text": "The Saudi Civil Aviation Authority announced that at least 12 people were killed and 309 injured in an attack on Riyadh airport. This is the third attack this week on King Khalid Airport, and the airport's operations were temporarily suspended. Western governments have urged their citizens to stay away from the airport and surrounding areas.",
         "time": "22:17",
         "ts": 1791670624
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Veisi announced that 10 kilograms of gold went missing in the public warehouses company in Tehran, which is under the pension fund. This happened while the pension funds have not paid retirees' arrears. Veisi suggested the possibility of involvement of pension fund managers in this theft.",
+        "time": "22:18",
+        "ts": 1791670700
       }
     ],
     "language": "en",
-    "packId": "20261010-105",
-    "sequence": 105,
+    "packId": "20261010-106",
+    "sequence": 106,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:17"
+    "updatedAt": "22:19"
   },
   "verified": true
 }
