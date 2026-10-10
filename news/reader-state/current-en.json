@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-01 seq=1 exp=1791764682",
+      "advancedStatus": "pack_id=20261010-02 seq=2 exp=1791765564",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:24",
+      "lastChecked": "00:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 00:24",
+    "expiresAt": "2026-10-12 00:39",
     "items": [
       {
         "channel": "harana",
@@ -217,14 +217,21 @@
         "text": "Donald Trump, the former US President, has asked the Supreme Court to reopen his lawsuit against Hillary Clinton, his Democratic rival in the 2016 presidential election. Trump has accused Clinton of conspiring to manipulate the outcome of the 2016 election by linking his campaign to Russia. He filed this lawsuit in 2022 against Clinton, James Comey, and several others.",
         "time": "00:23",
         "ts": 1791591839
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Zelensky described Trump's decision to lift sanctions on Russia and allow diesel exports as unfair and dishonest. He called the move a gift to Putin and said the US did not mention any diesel agreement in recent talks. He also stated that Ukrainian negotiators were informed of Trump's intention to talk with Putin one hour before Trump's announcement.",
+        "time": "00:38",
+        "ts": 1791592712
       }
     ],
     "language": "en",
-    "packId": "20261010-01",
-    "sequence": 1,
+    "packId": "20261010-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:24"
+    "updatedAt": "00:39"
   },
   "verified": true
 }
