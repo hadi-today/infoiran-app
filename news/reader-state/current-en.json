@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-29 seq=29 exp=1791796307",
+      "advancedStatus": "pack_id=20261010-30 seq=30 exp=1791797037",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:11",
+      "lastChecked": "09:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 09:11",
+    "expiresAt": "2026-10-12 09:23",
     "items": [
       {
         "channel": "harana",
@@ -413,14 +413,21 @@
         "text": "Abulfazl Khezrian, a member of the National Security and Foreign Policy Commission, suggested that Trump might take new military action against Iran to prevent the consequences of a possible Republican defeat in the midterm elections. He said this action could occur between mid-November and mid-January. This period is before the new US Congress convenes.",
         "time": "09:10",
         "ts": 1791623457
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Taj announced negotiations with Yahya Golmohammadi for the head coach position of Iran's under-23 team, stating the agreement is close. He said the new coach will be announced soon to start preparing the team for the Los Angeles Olympics. Taj also mentioned he did not have direct negotiations with Afshin Ghotbi.",
+        "time": "09:22",
+        "ts": 1791624177
       }
     ],
     "language": "en",
-    "packId": "20261010-29",
-    "sequence": 29,
+    "packId": "20261010-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:11"
+    "updatedAt": "09:23"
   },
   "verified": true
 }
