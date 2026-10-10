@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-74 seq=74 exp=1791822824",
+      "advancedStatus": "pack_id=20261010-75 seq=75 exp=1791824503",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:33",
+      "lastChecked": "17:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 16:33",
+    "expiresAt": "2026-10-12 17:01",
     "items": [
       {
         "channel": "harana",
@@ -742,14 +742,21 @@
         "text": "On the afternoon of October 10, a loud explosion was heard at Riyadh International Airport, leading to partial evacuation. Reports indicate the airport was targeted by Yemeni Houthi missile attacks, injuring dozens. All incoming flights to Riyadh have been canceled or diverted, and Saudi authorities have not yet confirmed the attack.",
         "time": "16:32",
         "ts": 1791649976
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump stated that he has just been informed about the explosion at Riyadh airport and will make a decision about it. He also said that a decision will be made regarding joining Saudi Arabia's attacks against the Houthis and that they act quickly. Trump will also review the issue of Iran and the attacks.",
+        "time": "17:00",
+        "ts": 1791651654
       }
     ],
     "language": "en",
-    "packId": "20261010-74",
-    "sequence": 74,
+    "packId": "20261010-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:33"
+    "updatedAt": "17:01"
   },
   "verified": true
 }
