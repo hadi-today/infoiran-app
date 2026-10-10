@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-09 seq=9 exp=1791778608",
+      "advancedStatus": "pack_id=20261010-10 seq=10 exp=1791778709",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:16",
+      "lastChecked": "04:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 04:16",
+    "expiresAt": "2026-10-12 04:18",
     "items": [
       {
         "channel": "harana",
@@ -273,14 +273,21 @@
         "text": "Houshang Hasan-Yari stated that the number of missiles launched by the Islamic Republic has decreased. He emphasized that US and Israeli attacks have weakened the missile and drone capabilities of the Islamic Republic. There is also a possibility of resumption of military conflict among these parties.",
         "time": "04:16",
         "ts": 1791605761
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The 78th Frankfurt International Book Fair is being held with the participation of thousands of publishers, authors, and cultural activists. This year, the absence of the Islamic Republic and the unveiling of a book about the justice-seeking of Ukrainian flight victims are notable topics. The report is by Mehdi Tehrani for Iran International.",
+        "time": "04:17",
+        "ts": 1791605835
       }
     ],
     "language": "en",
-    "packId": "20261010-09",
-    "sequence": 9,
+    "packId": "20261010-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:16"
+    "updatedAt": "04:18"
   },
   "verified": true
 }
