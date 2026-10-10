@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-07 seq=7 exp=1791776985",
+      "advancedStatus": "pack_id=20261010-08 seq=8 exp=1791777812",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:49",
+      "lastChecked": "04:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 03:49",
+    "expiresAt": "2026-10-12 04:03",
     "items": [
       {
         "channel": "harana",
@@ -259,14 +259,21 @@
         "text": "Houthi-affiliated media reported a missile attack on Saada city and the communication network of Al-Safra district. These two cities are in areas controlled by the group in northern Yemen. The Saudi-led coalition released images of Houthis fleeing during a clearing operation in Bab al-Mandeb.",
         "time": "03:48",
         "ts": 1791604139
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Global Initiative Against Transnational Organized Crime reported that the Islamic Republic has increasingly relied on the illegal economy to counter US sanctions. The report mentions the expansion of poppy cultivation in Sistan and Baluchestan and the possible production of Captagon. It also highlights the IRGC's revenue from drug trafficking.",
+        "time": "04:02",
+        "ts": 1791604970
       }
     ],
     "language": "en",
-    "packId": "20261010-07",
-    "sequence": 7,
+    "packId": "20261010-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:49"
+    "updatedAt": "04:03"
   },
   "verified": true
 }
