@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-41 seq=41 exp=1791804608",
+      "advancedStatus": "pack_id=20261010-42 seq=42 exp=1791804833",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:30",
+      "lastChecked": "11:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 11:30",
+    "expiresAt": "2026-10-12 11:33",
     "items": [
       {
         "channel": "harana",
@@ -497,14 +497,21 @@
         "text": "Donald Trump called the Nobel Peace Prize decision unfair. He said the prize should have been given to him as the representative of the American people. These remarks were made in an interview with an Iran International reporter.",
         "time": "11:27",
         "ts": 1791631677
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of victims of the Housing Cooperative Company of Municipality Employees in District One of Islamshahr gathered on Saturday in front of the judiciary and prosecutor's office of Islamshahr. They demanded the delivery of lands for which they had made payments since the late 2010s but have not yet received. The protest was held due to the non-delivery of these lands.",
+        "time": "11:33",
+        "ts": 1791631983
       }
     ],
     "language": "en",
-    "packId": "20261010-41",
-    "sequence": 41,
+    "packId": "20261010-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:30"
+    "updatedAt": "11:33"
   },
   "verified": true
 }
