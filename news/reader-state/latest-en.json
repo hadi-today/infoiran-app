@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-22 seq=22 exp=1791791259",
+      "advancedStatus": "pack_id=20261010-23 seq=23 exp=1791791480",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:47",
+      "lastChecked": "07:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 07:47",
+    "expiresAt": "2026-10-12 07:51",
     "items": [
       {
         "channel": "harana",
@@ -364,14 +364,21 @@
         "text": "The French government announced that more than three thousand substitute teachers will be sent to high schools by next Tuesday. This measure is in response to student protests and teacher shortages. However, protest groups have stated that the demonstrations will continue.",
         "time": "07:46",
         "ts": 1791618408
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The head of the Crisis Management Organization announced full preparedness to deal with the potential impacts of El Niño in Iran. People have been urged to pay attention to warnings to reduce damages. Multiple rainfall systems are expected to affect northern, western regions and the Zagros mountains.",
+        "time": "07:50",
+        "ts": 1791618635
       }
     ],
     "language": "en",
-    "packId": "20261010-22",
-    "sequence": 22,
+    "packId": "20261010-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:47"
+    "updatedAt": "07:51"
   },
   "verified": true
 }
