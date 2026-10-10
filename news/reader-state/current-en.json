@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-61 seq=61 exp=1791815141",
+      "advancedStatus": "pack_id=20261010-62 seq=62 exp=1791815464",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:25",
+      "lastChecked": "14:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 14:25",
+    "expiresAt": "2026-10-12 14:31",
     "items": [
       {
         "channel": "harana",
@@ -644,14 +644,28 @@
         "text": "King Khalid International Airport in Riyadh was attacked again and evacuated. Flights at the airport have been suspended. This attack occurred two days after a previous attack by the Houthis on the same airport.",
         "time": "14:24",
         "ts": 1791642297
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "During the orchestral performance of \"Arash\" at Spinas Hall in Tehran, the audience booed Esmail Baghayi, the spokesperson of the Ministry of Foreign Affairs. This incident occurred on the evening of Friday, October 9. The audience reacted negatively to Baghayi's remarks during this cultural event.",
+        "time": "14:30",
+        "ts": 1791642607
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amnesty International reported that after the unlawful killing of protesters, Iranian authorities launched a campaign to suppress their families. The report addresses the repression and cruelty against the families of those killed in the Women, Life, Freedom uprising. The full documentary is available on YouTube.",
+        "time": "14:30",
+        "ts": 1791642645
       }
     ],
     "language": "en",
-    "packId": "20261010-61",
-    "sequence": 61,
+    "packId": "20261010-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:25"
+    "updatedAt": "14:31"
   },
   "verified": true
 }
