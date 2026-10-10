@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-19 seq=19 exp=1791790072",
+      "advancedStatus": "pack_id=20261010-20 seq=20 exp=1791790394",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:27",
+      "lastChecked": "07:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 07:27",
+    "expiresAt": "2026-10-12 07:33",
     "items": [
       {
         "channel": "harana",
@@ -343,14 +343,21 @@
         "text": "The Turkish government condemned the Houthi attacks on two international airports in Saudi Arabia. Ankara emphasized its support for Riyadh. This stance coincides with the expansion of defense cooperation between the two countries under the Mecca Agreement.",
         "time": "07:26",
         "ts": 1791617205
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video circulated on social media shows a couple supporting the government organizing a car convoy for their wedding in Tehran. The convoy includes armored vehicles carrying a mounted artillery gun on the street. This event has attracted public attention.",
+        "time": "07:32",
+        "ts": 1791617551
       }
     ],
     "language": "en",
-    "packId": "20261010-19",
-    "sequence": 19,
+    "packId": "20261010-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:27"
+    "updatedAt": "07:33"
   },
   "verified": true
 }
