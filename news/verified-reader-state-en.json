@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-67 seq=67 exp=1791818311",
+      "advancedStatus": "pack_id=20261010-68 seq=68 exp=1791818480",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:18",
+      "lastChecked": "15:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 15:18",
+    "expiresAt": "2026-10-12 15:21",
     "items": [
       {
         "channel": "harana",
@@ -686,14 +686,21 @@
         "text": "Farshad Rezaei, a citizen from Divandareh, was arrested by security forces on Tuesday, October 6. He was transferred to a detention center in Sanandaj.",
         "time": "15:17",
         "ts": 1791645460
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The fourth annual run and walk event for seeking justice for the victims of flight PS752 was held in Toronto. The event commemorated the 176 victims of the flight. Families of the victims invited people to participate in the event.",
+        "time": "15:20",
+        "ts": 1791645634
       }
     ],
     "language": "en",
-    "packId": "20261010-67",
-    "sequence": 67,
+    "packId": "20261010-68",
+    "sequence": 68,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:18"
+    "updatedAt": "15:21"
   },
   "verified": true
 }
