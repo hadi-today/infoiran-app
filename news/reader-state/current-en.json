@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261010-81 seq=81 exp=1791826694",
+      "advancedStatus": "pack_id=20261010-82 seq=82 exp=1791826847",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:38",
+      "lastChecked": "17:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-10",
-    "expiresAt": "2026-10-12 17:38",
+    "expiresAt": "2026-10-12 17:40",
     "items": [
       {
         "channel": "harana",
@@ -791,14 +791,21 @@
         "text": "Vahid Yazdanian, Deputy for National Information Network Development, stated that in case of renewed war or unrest, internet shutdown is possible but the extent is unclear. He also mentioned that the government's and president's role in this area may become more prominent. Earlier, the Deputy Legal Minister said the country can manage crises without internet shutdown.",
         "time": "17:37",
         "ts": 1791653845
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Nejat Bahrami said that the Islamic Republic and its affiliated media have tried to portray Marco Rubio's remarks about the Achaemenid attack on Greece as a sign of US opposition to Iranian civilization. He added that Rubio has distinguished between the Iranian people and civilization on one hand and the Islamic Republic on the other in past years.",
+        "time": "17:40",
+        "ts": 1791654000
       }
     ],
     "language": "en",
-    "packId": "20261010-81",
-    "sequence": 81,
+    "packId": "20261010-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:38"
+    "updatedAt": "17:40"
   },
   "verified": true
 }
