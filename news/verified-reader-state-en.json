@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-67 seq=67 exp=1791896845",
+      "advancedStatus": "pack_id=20261011-68 seq=68 exp=1791896979",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:07",
+      "lastChecked": "13:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 13:07",
+    "expiresAt": "2026-10-13 13:09",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The dispatch of Iranian pilgrims to Umrah has been delayed due to unresolved flight status and lack of pilgrimage currency. The Hajj and Pilgrimage Organization has prepared the arrangements but the start of flights depends on technical approvals and flight schedules. The government has not yet allocated the required currency for the trips.",
-        "time": "13:06",
-        "ts": 1791637619
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "The president of the University of Tehran announced the expulsion of two students and warnings and reprimands for several others due to flag burning in protests after December 2025. The president of Isfahan University of Technology also stated that disciplinary rulings were issued for about 30 students related to protests in February and March 2026. This information was provided in an interview with Mehdi Tajik.",
         "time": "13:05",
         "ts": 1791723938
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mike Waltz, the US ambassador to the United Nations, stated that Donald Trump will end Iran's efforts to acquire nuclear weapons. He spoke about Iran's nuclear program on X and Fox News. Waltz said that a country solely pursuing nuclear power does not enrich uranium to weapons-grade levels nor build its facilities under granite rock.",
+        "time": "13:08",
+        "ts": 1791724093
       }
     ],
     "language": "en",
-    "packId": "20261011-67",
-    "sequence": 67,
+    "packId": "20261011-68",
+    "sequence": 68,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:07"
+    "updatedAt": "13:09"
   },
   "verified": true
 }
