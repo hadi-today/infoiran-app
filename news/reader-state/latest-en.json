@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-68 seq=68 exp=1791896979",
+      "advancedStatus": "pack_id=20261011-69 seq=69 exp=1791897804",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:09",
+      "lastChecked": "13:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 13:09",
+    "expiresAt": "2026-10-13 13:23",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The execution sentence of a suspect accused of killing a police officer in Damghan was carried out. The execution took place early morning on Saturday, October 10. More details are published by Harana News Agency.",
-        "time": "13:14",
-        "ts": 1791638073
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "Mike Waltz, the US ambassador to the United Nations, stated that Donald Trump will end Iran's efforts to acquire nuclear weapons. He spoke about Iran's nuclear program on X and Fox News. Waltz said that a country solely pursuing nuclear power does not enrich uranium to weapons-grade levels nor build its facilities under granite rock.",
         "time": "13:08",
         "ts": 1791724093
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "On the eve of Farah Pahlavi's 88th birthday, an event will be held in Hamburg with members of the Iranian community. The ceremony is organized by the Pahlavi Centennial Foundation in coordination with Farah Pahlavi's office. Simultaneous events will take place in several other European cities.",
+        "time": "13:22",
+        "ts": 1791724961
       }
     ],
     "language": "en",
-    "packId": "20261011-68",
-    "sequence": 68,
+    "packId": "20261011-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:09"
+    "updatedAt": "13:23"
   },
   "verified": true
 }
