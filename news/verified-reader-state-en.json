@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-86 seq=86 exp=1791905293",
+      "advancedStatus": "pack_id=20261011-87 seq=87 exp=1791905666",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:28",
+      "lastChecked": "15:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 15:28",
+    "expiresAt": "2026-10-13 15:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Agence France-Presse reported, citing a hospital source in Riyadh, that dozens were injured in a Houthi attack on Riyadh airport. At least five of the injured are in intensive care. Most of the injured and those in intensive care are Saudi nationals.",
-        "time": "15:32",
-        "ts": 1791646349
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -959,14 +952,21 @@
         "text": "In an attack by the Houthis on King Khalid Airport in Riyadh, 12 people including an American citizen were killed. Simultaneously, the IRGC reported an explosion of a giant oil tanker in the Persian Gulf. These incidents have escalated tensions.",
         "time": "15:26",
         "ts": 1791732402
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows students tearing and burning images of Khomeini from their textbooks. They also chant the slogan \"Long live the Shah.\" This video was published by Iran International.",
+        "time": "15:33",
+        "ts": 1791732815
       }
     ],
     "language": "en",
-    "packId": "20261011-86",
-    "sequence": 86,
+    "packId": "20261011-87",
+    "sequence": 87,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:28"
+    "updatedAt": "15:34"
   },
   "verified": true
 }
