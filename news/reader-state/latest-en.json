@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-82 seq=82 exp=1791903812",
+      "advancedStatus": "pack_id=20261011-83 seq=83 exp=1791904262",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:03",
+      "lastChecked": "15:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 15:03",
+    "expiresAt": "2026-10-13 15:11",
     "items": [
       {
         "channel": "harana",
@@ -938,14 +938,21 @@
         "text": "A memorial birthday ceremony for Behbud Hassanzadeh was held with the presence of his family and close ones at his grave. Behbud Hassanzadeh, 36 years old, was killed on the evening of January 8, 2026, in the city of Qaemiyeh. The ceremony was held in his memory.",
         "time": "15:02",
         "ts": 1791730952
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Namvar Haghighi stated that comparing the current situation of the Islamic Republic to the fall of the Berlin Wall is not accurate. He considers the collapse of the Soviet Union a closer historical example for Iran. This example involves economic crisis, power structure conflicts, and public protests.",
+        "time": "15:09",
+        "ts": 1791731379
       }
     ],
     "language": "en",
-    "packId": "20261011-82",
-    "sequence": 82,
+    "packId": "20261011-83",
+    "sequence": 83,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:03"
+    "updatedAt": "15:11"
   },
   "verified": true
 }
