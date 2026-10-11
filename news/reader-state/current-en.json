@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-123 seq=123 exp=1791928408",
+      "advancedStatus": "pack_id=20261011-124 seq=124 exp=1791928508",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:53",
+      "lastChecked": "21:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 21:53",
+    "expiresAt": "2026-10-13 21:55",
     "items": [
       {
         "channel": "vahid online",
@@ -973,14 +973,21 @@
         "text": "Sepahan football team defeated Fajr Sepasi 6-1 in the eighth week of the Premier League. This was one of the highest-scoring matches of the league. With this victory, Sepahan reached 13 points and ranked fourth.",
         "time": "21:52",
         "ts": 1791755564
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reza Pahlavi condemned the Houthi attacks on Saudi Arabia and held the Islamic Republic responsible. He stated that if the Islamic Republic is overthrown, the region will achieve peace. He also mentioned that Saudi-Iran relations will be restored.",
+        "time": "21:53",
+        "ts": 1791755639
       }
     ],
     "language": "en",
-    "packId": "20261011-123",
-    "sequence": 123,
+    "packId": "20261011-124",
+    "sequence": 124,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:53"
+    "updatedAt": "21:55"
   },
   "verified": true
 }
