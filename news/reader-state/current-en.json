@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-22 seq=22 exp=1791877863",
+      "advancedStatus": "pack_id=20261011-23 seq=23 exp=1791878316",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:51",
+      "lastChecked": "07:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 07:51",
+    "expiresAt": "2026-10-13 07:58",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The head of the Crisis Management Organization announced full preparedness to deal with the potential impacts of El Niño in Iran. People have been urged to pay attention to warnings to reduce damages. Multiple rainfall systems are expected to affect northern, western regions and the Zagros mountains.",
-        "time": "07:50",
-        "ts": 1791618635
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Tractor football team traveled to Oman for the Asian Elite League. Alireza Beiranvand was expelled from the team due to an interview against club managers and was not allowed to travel. He is also banned from leaving the country due to his military service status.",
-        "time": "07:51",
-        "ts": 1791618686
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Scott Bessent, the US Treasury Secretary, stated that Washington intends to identify and seize one billion dollars of cryptocurrency linked to the Islamic Republic by the end of the week. He also announced the expansion of financial and transportation restrictions against Iran. This news was reported by Ahmad Samadi, a journalist from Iran International.",
-        "time": "07:55",
-        "ts": 1791618927
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -819,14 +798,21 @@
         "text": "Vinicius Junior faces a three-match suspension for his red card against Villarreal, which could be reduced to two matches. If confirmed, he will miss the games against Sevilla and Barcelona. Jose Mourinho avoided the post-match press conference to prevent further sanctions on his team.",
         "time": "07:50",
         "ts": 1791705022
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ursula von der Leyen described the Houthi attack on Riyadh airport as the deadliest attack by the group so far. She expressed Europe's solidarity with Saudi Arabia and warned that these attacks destabilize vital global centers. The attacks push the region towards increased violence.",
+        "time": "07:57",
+        "ts": 1791705470
       }
     ],
     "language": "en",
-    "packId": "20261011-22",
-    "sequence": 22,
+    "packId": "20261011-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:51"
+    "updatedAt": "07:58"
   },
   "verified": true
 }
