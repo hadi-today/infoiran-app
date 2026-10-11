@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-52 seq=52 exp=1791891273",
+      "advancedStatus": "pack_id=20261011-53 seq=53 exp=1791891566",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:34",
+      "lastChecked": "11:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 11:34",
+    "expiresAt": "2026-10-13 11:39",
     "items": [
       {
         "channel": "iranintl",
@@ -896,14 +896,21 @@
         "text": "Mahtab Gholizadeh reported that about eight thousand trucks are stopped at the Bazargan border, and drivers at the Rimdan border wait up to 25 days. The long truck delays have reduced fleet capacity and increased import costs. The cost of transporting goods from Turkish ports to Iran has risen from $1,500 to $8,000 in less than two months.",
         "time": "11:33",
         "ts": 1791718419
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The director general of education in West Azerbaijan announced a shortage of three thousand teachers and ten thousand classrooms in the province. He also stated that the share of skill-based education should reach 50 percent. Achieving this requires a 12 percent improvement in the coming years.",
+        "time": "11:38",
+        "ts": 1791718713
       }
     ],
     "language": "en",
-    "packId": "20261011-52",
-    "sequence": 52,
+    "packId": "20261011-53",
+    "sequence": 53,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:34"
+    "updatedAt": "11:39"
   },
   "verified": true
 }
