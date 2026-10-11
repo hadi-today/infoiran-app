@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-37 seq=37 exp=1791882569",
+      "advancedStatus": "pack_id=20261011-38 seq=38 exp=1791882925",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:09",
+      "lastChecked": "09:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 09:09",
+    "expiresAt": "2026-10-13 09:15",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Abulfazl Khezrian, a member of the National Security and Foreign Policy Commission, suggested that Trump might take new military action against Iran to prevent the consequences of a possible Republican defeat in the midterm elections. He said this action could occur between mid-November and mid-January. This period is before the new US Congress convenes.",
-        "time": "09:10",
-        "ts": 1791623457
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "Mohammad Javad Akbarin said the Houthis have reached their limit due to losing controlled areas and reduced financial and military support from the Islamic Republic. He added that the Islamic Republic may move towards a preemptive attack to activate regional fronts. These statements indicate a change in the Islamic Republic's strategy.",
         "time": "09:08",
         "ts": 1791709702
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Italian defense minister stated that Rome's support for Ukraine is based on law and respect for international rights. He warned that this issue should not become a source of domestic political disputes. He also warned about security threats such as cyberattacks and the use of drones against Italy.",
+        "time": "09:14",
+        "ts": 1791710071
       }
     ],
     "language": "en",
-    "packId": "20261011-37",
-    "sequence": 37,
+    "packId": "20261011-38",
+    "sequence": 38,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:09"
+    "updatedAt": "09:15"
   },
   "verified": true
 }
