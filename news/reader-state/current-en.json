@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-15 seq=15 exp=1791873034",
+      "advancedStatus": "pack_id=20261011-16 seq=16 exp=1791873132",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:30",
+      "lastChecked": "06:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 06:30",
+    "expiresAt": "2026-10-13 06:32",
     "items": [
       {
         "channel": "iranintl",
@@ -847,14 +847,21 @@
         "text": "Ali Taherkhani, 31 years old, was killed on January 8, 2026, in Takestan. His family showed distress at his grave during his birthday ceremony. Videos of this ceremony have been sent to Iran International.",
         "time": "06:29",
         "ts": 1791700190
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The CEO of Tehran Water and Wastewater Company stated that high consumers decreased from 65% to 47% and low consumers from 5% to 3%. Additionally, good consumers increased from 29% to 50%. He mentioned the paradox of reduced consumption leading to reduced revenue for water companies.",
+        "time": "06:30",
+        "ts": 1791700235
       }
     ],
     "language": "en",
-    "packId": "20261011-15",
-    "sequence": 15,
+    "packId": "20261011-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:30"
+    "updatedAt": "06:32"
   },
   "verified": true
 }
