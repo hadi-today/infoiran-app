@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-66 seq=66 exp=1791896718",
+      "advancedStatus": "pack_id=20261011-67 seq=67 exp=1791896845",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:05",
+      "lastChecked": "13:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 13:05",
+    "expiresAt": "2026-10-13 13:07",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "Reza Shoja Mazraji, a teacher residing in Sarakhs, was sentenced to four years, one month, and seventeen days in prison by the Fourth Branch of the Revolutionary Court in Mashhad.",
         "time": "13:04",
         "ts": 1791723858
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The president of the University of Tehran announced the expulsion of two students and warnings and reprimands for several others due to flag burning in protests after December 2025. The president of Isfahan University of Technology also stated that disciplinary rulings were issued for about 30 students related to protests in February and March 2026. This information was provided in an interview with Mehdi Tajik.",
+        "time": "13:05",
+        "ts": 1791723938
       }
     ],
     "language": "en",
-    "packId": "20261011-66",
-    "sequence": 66,
+    "packId": "20261011-67",
+    "sequence": 67,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:05"
+    "updatedAt": "13:07"
   },
   "verified": true
 }
