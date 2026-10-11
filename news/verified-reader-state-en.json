@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-40 seq=40 exp=1791883138",
+      "advancedStatus": "pack_id=20261011-41 seq=41 exp=1791883343",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:18",
+      "lastChecked": "09:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 09:18",
+    "expiresAt": "2026-10-13 09:22",
     "items": [
       {
         "channel": "iranintl",
@@ -903,14 +903,21 @@
         "text": "A sudden flood occurred on Sunday, October 11, along the Budhi Gandaki River in Nepal, damaging buildings. Muddy waters have flooded surrounding areas. No casualties have been reported so far.",
         "time": "09:17",
         "ts": 1791710270
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Houthis warned airlines and passengers about using Saudi airports and airspace. They stated that areas except Mecca and Medina are at risk of attack. The Houthi spokesperson held Saudi Arabia responsible for the consequences of unsuccessful interception attempts.",
+        "time": "09:21",
+        "ts": 1791710493
       }
     ],
     "language": "en",
-    "packId": "20261011-40",
-    "sequence": 40,
+    "packId": "20261011-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:18"
+    "updatedAt": "09:22"
   },
   "verified": true
 }
