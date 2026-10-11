@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-41 seq=41 exp=1791883343",
+      "advancedStatus": "pack_id=20261011-42 seq=42 exp=1791883616",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:22",
+      "lastChecked": "09:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 09:22",
+    "expiresAt": "2026-10-13 09:26",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mehdi Taj announced negotiations with Yahya Golmohammadi for the head coach position of Iran's under-23 team, stating the agreement is close. He said the new coach will be announced soon to start preparing the team for the Los Angeles Olympics. Taj also mentioned he did not have direct negotiations with Afshin Ghotbi.",
-        "time": "09:22",
-        "ts": 1791624177
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mahmoud Amiri-Moghaddam, director of the Iran Human Rights organization, reported an increase in executions in Iran on the International Day Against the Death Penalty. He stated that the Islamic Republic uses executions to create fear and maintain power. He also noted that raising the political cost of executions could slow down the execution process.",
-        "time": "09:24",
-        "ts": 1791624291
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -910,14 +896,21 @@
         "text": "The Houthis warned airlines and passengers about using Saudi airports and airspace. They stated that areas except Mecca and Medina are at risk of attack. The Houthi spokesperson held Saudi Arabia responsible for the consequences of unsuccessful interception attempts.",
         "time": "09:21",
         "ts": 1791710493
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Behrouz Kamalvandi, spokesperson for the Atomic Energy Organization, said that the Islamic Republic will achieve its interests either through diplomacy or on the battlefield.",
+        "time": "09:26",
+        "ts": 1791710769
       }
     ],
     "language": "en",
-    "packId": "20261011-41",
-    "sequence": 41,
+    "packId": "20261011-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:22"
+    "updatedAt": "09:26"
   },
   "verified": true
 }
