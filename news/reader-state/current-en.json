@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-69 seq=69 exp=1791897804",
+      "advancedStatus": "pack_id=20261011-70 seq=70 exp=1791898128",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:23",
+      "lastChecked": "13:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 13:23",
+    "expiresAt": "2026-10-13 13:28",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "On the eve of Farah Pahlavi's 88th birthday, an event will be held in Hamburg with members of the Iranian community. The ceremony is organized by the Pahlavi Centennial Foundation in coordination with Farah Pahlavi's office. Simultaneous events will take place in several other European cities.",
         "time": "13:22",
         "ts": 1791724961
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Saba Alaleh, a social psychoanalyst, identified factors such as poverty, unemployment, and educational deprivation as contributing to child marriage in Iran. She stated that this issue is not solely the result of individual or family decisions. Some families view early marriage as a way to solve economic and social problems.",
+        "time": "13:27",
+        "ts": 1791725274
       }
     ],
     "language": "en",
-    "packId": "20261011-69",
-    "sequence": 69,
+    "packId": "20261011-70",
+    "sequence": 70,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:23"
+    "updatedAt": "13:28"
   },
   "verified": true
 }
