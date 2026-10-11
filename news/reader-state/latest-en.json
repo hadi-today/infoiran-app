@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-29 seq=29 exp=1791880020",
+      "advancedStatus": "pack_id=20261011-30 seq=30 exp=1791880177",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:27",
+      "lastChecked": "08:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 08:27",
+    "expiresAt": "2026-10-13 08:29",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Lida Aleksani, a Christian citizen residing in Tehran, was summoned on Thursday, 16 Mehr, to serve an eight-year prison sentence. She was called to the enforcement branch of the General and Revolutionary Prosecutor's Office of Tehran. The summons was issued through an official notification.",
-        "time": "08:26",
-        "ts": 1791620798
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -847,14 +840,21 @@
         "text": "Hossein Alizadeh stated that behind-the-scenes negotiations between Iran and the US continue. Masoud Pezeshkian met with Vladimir Putin and conveyed Tehran's proposals to Donald Trump. Tehran is ready to be flexible regarding the storage and amount of enriched uranium and to entrust part of it to Russia.",
         "time": "08:25",
         "ts": 1791707129
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iranian-American community in Richmond, with local and state officials present, unveiled a memorial plaque for four Iranians killed during the protests on January 8 and 9. Four cypress trees were planted in Virginia in memory of these victims. They were killed while helping people.",
+        "time": "08:28",
+        "ts": 1791707301
       }
     ],
     "language": "en",
-    "packId": "20261011-29",
-    "sequence": 29,
+    "packId": "20261011-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:27"
+    "updatedAt": "08:29"
   },
   "verified": true
 }
