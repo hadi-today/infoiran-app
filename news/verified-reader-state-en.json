@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-81 seq=81 exp=1791902496",
+      "advancedStatus": "pack_id=20261011-82 seq=82 exp=1791903812",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:41",
+      "lastChecked": "15:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 14:41",
+    "expiresAt": "2026-10-13 15:03",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "In a Bundesliga match, Augsburg took the lead against Bayern Munich within the first eight seconds due to a mistake by Manuel Neuer. Rubin Flahau scored the fastest goal in Bundesliga history using this error. This goal broke the previous record held by Karim Bellarabi and Kevin Volland.",
-        "time": "14:50",
-        "ts": 1791643801
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "During the match between Peykan and Shams Azar, Peykan's coach Saket Elhami slapped his player Hojjat Ahmadi at halftime. This incident occurred in front of players, spectators, and television cameras. Images of this event were released by the Islamic Republic of Iran Broadcasting.",
-        "time": "14:52",
-        "ts": 1791643949
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -945,14 +931,21 @@
         "text": "Mohsen Rezaei stated that Americans use five or six small vessels to transfer oil to larger tankers in the Strait of Hormuz. He said Iran targets five or six of these vessels every night. Rezaei also emphasized that the Strait of Hormuz is under the control of the Islamic Republic.",
         "time": "14:40",
         "ts": 1791729623
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A memorial birthday ceremony for Behbud Hassanzadeh was held with the presence of his family and close ones at his grave. Behbud Hassanzadeh, 36 years old, was killed on the evening of January 8, 2026, in the city of Qaemiyeh. The ceremony was held in his memory.",
+        "time": "15:02",
+        "ts": 1791730952
       }
     ],
     "language": "en",
-    "packId": "20261011-81",
-    "sequence": 81,
+    "packId": "20261011-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:41"
+    "updatedAt": "15:03"
   },
   "verified": true
 }
