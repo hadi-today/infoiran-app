@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-31 seq=31 exp=1791880288",
+      "advancedStatus": "pack_id=20261011-32 seq=32 exp=1791880496",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:31",
+      "lastChecked": "08:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 08:31",
+    "expiresAt": "2026-10-13 08:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen in a video sent to Iran International stated that the average price increase of ready-made soup over two years has been more than 400 percent. He also mentioned that the cost of making homemade soup has become expensive.",
-        "time": "08:33",
-        "ts": 1791621220
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "Israeli Channel 11 reported that Israel is considering an independent attack scenario on Iran following the acceleration of Iran's missile and drone capabilities reconstruction. An Israeli official assessed the likelihood of such an attack before the elections as low. This was discussed in an interview with Babak Es-haqi.",
         "time": "08:30",
         "ts": 1791707410
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows a protester in Damghan writing on a wall the phrase \"Blood cannot be washed away with anything.\" The person is also chanting \"Long live Iran, long live the Shah.\" This video was received by Iran International.",
+        "time": "08:34",
+        "ts": 1791707645
       }
     ],
     "language": "en",
-    "packId": "20261011-31",
-    "sequence": 31,
+    "packId": "20261011-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:31"
+    "updatedAt": "08:34"
   },
   "verified": true
 }
