@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-57 seq=57 exp=1791893531",
+      "advancedStatus": "pack_id=20261011-58 seq=58 exp=1791893663",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:12",
+      "lastChecked": "12:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 12:12",
+    "expiresAt": "2026-10-13 12:14",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "Lionel Messi scored two goals in his first game after retiring from the Argentina national team. Inter Miami defeated DC United with a big score, helped by Messi and Luis Suarez. Messi leads the MLS scoring chart with 23 goals.",
         "time": "12:09",
         "ts": 1791720586
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Esteghlal football team used a government protocol RJ aircraft for their trip to Doha. This aircraft is exempt from flight restrictions, and the club managed to secure it through its managerial connections. This move is described as a way to bypass flight restrictions caused by sanctions.",
+        "time": "12:13",
+        "ts": 1791720815
       }
     ],
     "language": "en",
-    "packId": "20261011-57",
-    "sequence": 57,
+    "packId": "20261011-58",
+    "sequence": 58,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:12"
+    "updatedAt": "12:14"
   },
   "verified": true
 }
