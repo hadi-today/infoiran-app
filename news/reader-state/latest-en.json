@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-13 seq=13 exp=1791871049",
+      "advancedStatus": "pack_id=20261011-14 seq=14 exp=1791871554",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:57",
+      "lastChecked": "06:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 05:57",
+    "expiresAt": "2026-10-13 06:05",
     "items": [
       {
         "channel": "iranintl",
@@ -833,14 +833,21 @@
         "text": "Mehdi Taghiani, a member of parliament, proposed securing 30 to 40 billion dollars in foreign resources. These funds could be used to manage the currency market and control inflation. He stated that this amount is feasible to obtain from economies like China and Russia.",
         "time": "05:56",
         "ts": 1791698200
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Khorasan newspaper, close to Mohammad Bagher Ghalibaf, wrote that by examining the developments of the past week, one can easily understand that a decision for the next war has been made in Washington and Tel Aviv. The newspaper also wrote that Tehran, with its history of interaction with Americans, knows that exchanging messages is very unlikely to have a tangible effect at least until after the next conflict.",
+        "time": "06:04",
+        "ts": 1791698670
       }
     ],
     "language": "en",
-    "packId": "20261011-13",
-    "sequence": 13,
+    "packId": "20261011-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:57"
+    "updatedAt": "06:05"
   },
   "verified": true
 }
