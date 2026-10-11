@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-128 seq=128 exp=1791931218",
+      "advancedStatus": "pack_id=20261011-129 seq=129 exp=1791931497",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:40",
+      "lastChecked": "22:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 22:40",
+    "expiresAt": "2026-10-13 22:44",
     "items": [
       {
         "channel": "iranintl",
@@ -952,14 +952,21 @@
         "text": "The football teams Tractor and Gol Gohar first traveled to Iraq and then to Muscat for the Elite League and AFC Champions League matches. The Esteghlal team also traveled to Doha with an RJ aircraft belonging to the government protocol of the Islamic Republic. This report was presented by Raha Pourbakhsh in the Hat-trick program.",
         "time": "22:37",
         "ts": 1791758277
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Pakistan, Saudi Arabia, Turkey, and Egypt condemned the attacks by Iran-backed Houthis on Saudi Arabia in a joint statement. They called for an immediate halt to these attacks and held the Houthis responsible for the consequences. The statement was issued following missile attacks on King Khalid International Airport in Riyadh.",
+        "time": "22:44",
+        "ts": 1791758651
       }
     ],
     "language": "en",
-    "packId": "20261011-128",
-    "sequence": 128,
+    "packId": "20261011-129",
+    "sequence": 129,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:40"
+    "updatedAt": "22:44"
   },
   "verified": true
 }
