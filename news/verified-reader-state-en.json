@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-101 seq=101 exp=1791913441",
+      "advancedStatus": "pack_id=20261011-102 seq=102 exp=1791913573",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:44",
+      "lastChecked": "17:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 17:44",
+    "expiresAt": "2026-10-13 17:46",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "Parisa Pakbaz, a citizen of Yasuj, was summoned and interrogated for several hours by the intelligence office on Sunday, October 11. Her mobile phone was confiscated by the agents. This news was reported by HRANA news agency.",
         "time": "17:42",
         "ts": 1791740575
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Manchester City defeated Liverpool 3-0 at Anfield in the sixth week of the Premier League. This was their first match after being sanctioned for financial regulation violations. The club has appealed the ruling and is awaiting the final penalty decision.",
+        "time": "17:44",
+        "ts": 1791740679
       }
     ],
     "language": "en",
-    "packId": "20261011-101",
-    "sequence": 101,
+    "packId": "20261011-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:44"
+    "updatedAt": "17:46"
   },
   "verified": true
 }
