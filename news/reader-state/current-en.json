@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-05 seq=5 exp=1791859237",
+      "advancedStatus": "pack_id=20261011-06 seq=6 exp=1791862961",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:40",
+      "lastChecked": "03:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 02:40",
+    "expiresAt": "2026-10-13 03:42",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump stated that if the Islamic Republic had acquired nuclear weapons, it might have targeted beyond Israel and other Middle Eastern countries, Europe, and American cities including Los Angeles and San Diego.",
-        "time": "03:19",
-        "ts": 1791602378
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The oil agreement between the US and Russia and the discovery of alternative energy routes have reduced the importance of the Strait of Hormuz as a leverage tool for the Islamic Republic. Increased attacks by the Islamic Republic on ships may be an attempt to compensate for this reduced pressure. If Tehran does not accept Washington's demands, the likelihood of US military action against Iran's nuclear targets increases.",
-        "time": "03:30",
-        "ts": 1791603044
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -826,14 +812,21 @@
         "text": "Mike Huckabee, the US ambassador to Israel, identified the Islamic Republic as responsible for recent Houthi attacks on Saudi Arabia. He said Tehran's financial and training support has empowered the Houthis. Washington's goal is to contain attacks by groups supported by the Islamic Republic.",
         "time": "02:39",
         "ts": 1791686399
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shahram Khaledi said the main priority for the US is the Islamic Republic. He added that the US might only intervene with limited and targeted attacks in the conflicts between the Saudi coalition and the Houthis. These remarks concern Washington's policy in the region.",
+        "time": "03:41",
+        "ts": 1791690106
       }
     ],
     "language": "en",
-    "packId": "20261011-05",
-    "sequence": 5,
+    "packId": "20261011-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:40"
+    "updatedAt": "03:42"
   },
   "verified": true
 }
