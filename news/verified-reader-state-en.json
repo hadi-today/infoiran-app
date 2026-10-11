@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-30 seq=30 exp=1791880177",
+      "advancedStatus": "pack_id=20261011-31 seq=31 exp=1791880288",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:29",
+      "lastChecked": "08:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 08:29",
+    "expiresAt": "2026-10-13 08:31",
     "items": [
       {
         "channel": "iranintl",
@@ -847,14 +847,21 @@
         "text": "The Iranian-American community in Richmond, with local and state officials present, unveiled a memorial plaque for four Iranians killed during the protests on January 8 and 9. Four cypress trees were planted in Virginia in memory of these victims. They were killed while helping people.",
         "time": "08:28",
         "ts": 1791707301
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Israeli Channel 11 reported that Israel is considering an independent attack scenario on Iran following the acceleration of Iran's missile and drone capabilities reconstruction. An Israeli official assessed the likelihood of such an attack before the elections as low. This was discussed in an interview with Babak Es-haqi.",
+        "time": "08:30",
+        "ts": 1791707410
       }
     ],
     "language": "en",
-    "packId": "20261011-30",
-    "sequence": 30,
+    "packId": "20261011-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:29"
+    "updatedAt": "08:31"
   },
   "verified": true
 }
