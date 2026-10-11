@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-14 seq=14 exp=1791871554",
+      "advancedStatus": "pack_id=20261011-15 seq=15 exp=1791873034",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:05",
+      "lastChecked": "06:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 06:05",
+    "expiresAt": "2026-10-13 06:30",
     "items": [
       {
         "channel": "iranintl",
@@ -840,14 +840,21 @@
         "text": "Khorasan newspaper, close to Mohammad Bagher Ghalibaf, wrote that by examining the developments of the past week, one can easily understand that a decision for the next war has been made in Washington and Tel Aviv. The newspaper also wrote that Tehran, with its history of interaction with Americans, knows that exchanging messages is very unlikely to have a tangible effect at least until after the next conflict.",
         "time": "06:04",
         "ts": 1791698670
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Taherkhani, 31 years old, was killed on January 8, 2026, in Takestan. His family showed distress at his grave during his birthday ceremony. Videos of this ceremony have been sent to Iran International.",
+        "time": "06:29",
+        "ts": 1791700190
       }
     ],
     "language": "en",
-    "packId": "20261011-14",
-    "sequence": 14,
+    "packId": "20261011-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:05"
+    "updatedAt": "06:30"
   },
   "verified": true
 }
