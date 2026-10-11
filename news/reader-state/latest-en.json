@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-122 seq=122 exp=1791927259",
+      "advancedStatus": "pack_id=20261011-123 seq=123 exp=1791928408",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:34",
+      "lastChecked": "21:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-11",
-    "expiresAt": "2026-10-13 21:34",
+    "expiresAt": "2026-10-13 21:53",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "According to Aram News, US and Israeli warplanes conducted an attack drill over Iraqi airspace targeting the Islamic Republic. An Israeli F-35 refueled mid-air with the help of US KC-46 tankers. This exercise was likely aimed at attacking military and nuclear facilities.",
-        "time": "21:47",
-        "ts": 1791668871
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -973,14 +966,21 @@
         "text": "Saudi Arabia has expanded its energy cooperation with Syria, Qatar, Kuwait, and Egypt. The Central Bank of Syria issued the first banking letter of credit to facilitate oil product transactions with Aramco. The Saudi energy minister signed three memorandums of understanding with Qatar, Kuwait, and Egypt.",
         "time": "21:33",
         "ts": 1791754413
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Sepahan football team defeated Fajr Sepasi 6-1 in the eighth week of the Premier League. This was one of the highest-scoring matches of the league. With this victory, Sepahan reached 13 points and ranked fourth.",
+        "time": "21:52",
+        "ts": 1791755564
       }
     ],
     "language": "en",
-    "packId": "20261011-122",
-    "sequence": 122,
+    "packId": "20261011-123",
+    "sequence": 123,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:34"
+    "updatedAt": "21:53"
   },
   "verified": true
 }
