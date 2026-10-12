@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-05 seq=5 exp=1791970543",
+      "advancedStatus": "pack_id=20261012-06 seq=6 exp=1791971199",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:35",
+      "lastChecked": "09:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 09:35",
+    "expiresAt": "2026-10-14 09:46",
     "items": [
       {
         "channel": "iranintl",
@@ -56,14 +56,21 @@
         "text": "Majid Ibn al-Reza, acting Minister of Defense, warned about the dangers of civilizational confrontation and playing with fire. He emphasized that Iran's armed forces are ready to respond and that the US should not play with fire. Ibn al-Reza stated that a civilizational assault cannot force the Iranian nation to retreat.",
         "time": "09:33",
         "ts": 1791797629
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The judiciary of the Islamic Republic announced the execution of Omar Dorostaran, a member of the Jaish al-Adl group. He was accused of supporting attacks on military bases in Rask and Chabahar counties in Farvardin 1403. The judiciary did not provide any explanation about the trial proceedings.",
+        "time": "09:46",
+        "ts": 1791798376
       }
     ],
     "language": "en",
-    "packId": "20261012-05",
-    "sequence": 5,
+    "packId": "20261012-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:35"
+    "updatedAt": "09:46"
   },
   "verified": true
 }
