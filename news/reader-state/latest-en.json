@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-48 seq=48 exp=1791990196",
+      "advancedStatus": "pack_id=20261012-49 seq=49 exp=1791990458",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:03",
+      "lastChecked": "15:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 15:03",
+    "expiresAt": "2026-10-14 15:07",
     "items": [
       {
         "channel": "iranintl",
@@ -385,14 +385,28 @@
         "text": "The UK sanctioned two Iranian citizens, Ruhollah Bazghandi and Shahram Alireza Tamorzadeh Jacki, on charges of espionage and planning attacks. Bazghandi is accused of planning espionage and attacks against individuals outside Iran. Tamorzadeh Jacki is accused of supporting threatening activities abroad.",
         "time": "15:02",
         "ts": 1791817367
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The government announced that about 40 million people will be eligible for increased credit on the ration card. Reports indicate disruptions in the implementation of this plan. The resources for the ration card plan will be provided from the increase in the official exchange rate.",
+        "time": "15:04",
+        "ts": 1791817451
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Amin Kholasehshar, 23 years old, was killed on January 8, 2026, in Fardis. His mother said to Pezeshkian that her son was not a terrorist and only wanted to live. She also stated that her other son, Arsalan, ended his life due to grief over losing Mohammad Amin.",
+        "time": "15:04",
+        "ts": 1791817456
       }
     ],
     "language": "en",
-    "packId": "20261012-48",
-    "sequence": 48,
+    "packId": "20261012-49",
+    "sequence": 49,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:03"
+    "updatedAt": "15:07"
   },
   "verified": true
 }
