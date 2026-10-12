@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-11 seq=11 exp=1791972241",
+      "advancedStatus": "pack_id=20261012-12 seq=12 exp=1791972364",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:04",
+      "lastChecked": "10:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 10:04",
+    "expiresAt": "2026-10-14 10:06",
     "items": [
       {
         "channel": "iranintl",
@@ -98,14 +98,28 @@
         "text": "The Judiciary Media Center announced the execution of Omar Dorostaran, a security suspect from Rask county. He was identified as a member of an opposition group against the regime. The execution took place today, Monday, October 12.",
         "time": "10:03",
         "ts": 1791799420
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Hossein Ghazizadeh spoke about the Islamic Republic's threats against AI centers and US infrastructure in the region. He said these threats may cause costs but do not provide sufficient deterrence to make the US abandon confronting the nuclear program. The US prefers sanctions to take effect in the short term and is not in a hurry for military conflict unless Tehran crosses red lines.",
+        "time": "10:04",
+        "ts": 1791799498
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows Arnika Dabag's father visiting her grave on International Day of the Girl. Arnika Dabag, a 15-year-old teenager, was killed on January 9, 2026, in Gorgan. The video was released by Iran International.",
+        "time": "10:05",
+        "ts": 1791799502
       }
     ],
     "language": "en",
-    "packId": "20261012-11",
-    "sequence": 11,
+    "packId": "20261012-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:04"
+    "updatedAt": "10:06"
   },
   "verified": true
 }
