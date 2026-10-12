@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-39 seq=39 exp=1791985931",
+      "advancedStatus": "pack_id=20261012-40 seq=40 exp=1791986140",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:52",
+      "lastChecked": "13:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 13:52",
+    "expiresAt": "2026-10-14 13:55",
     "items": [
       {
         "channel": "iranintl",
@@ -322,14 +322,21 @@
         "text": "Students at Bu-Ali University in Hamedan held a protest on Tuesday, October 12, against food poisoning and poor food quality. They chanted slogans such as \"Students die, but do not accept humiliation.\" This event was captured in videos received by Iran International.",
         "time": "13:51",
         "ts": 1791813113
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Yahya Rahim Safavi stated that intelligent management of the Strait of Hormuz against the US naval blockade is the main strategy of the Islamic Republic. He described the Strait as an inseparable part of Iran's territorial waters and said restricting passage there is both a right and duty of the armed forces. He also called it a strategic chokepoint in the global energy network.",
+        "time": "13:52",
+        "ts": 1791813160
       }
     ],
     "language": "en",
-    "packId": "20261012-39",
-    "sequence": 39,
+    "packId": "20261012-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:52"
+    "updatedAt": "13:55"
   },
   "verified": true
 }
