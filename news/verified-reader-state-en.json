@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-75 seq=75 exp=1792000966",
+      "advancedStatus": "pack_id=20261012-76 seq=76 exp=1792001202",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:02",
+      "lastChecked": "18:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 18:02",
+    "expiresAt": "2026-10-14 18:06",
     "items": [
       {
         "channel": "iranintl",
@@ -595,14 +595,35 @@
         "text": "Tractor football team drew 0-0 against Al Shamal in their second match in the Asian Elite League. The match was held in Oman due to the ban on Iranian teams hosting in Asia. Tractor had lost their previous game 1-0 to Shabab Al Ahli.",
         "time": "18:02",
         "ts": 1791828141
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A prisoner was executed in Khorramabad prison. Two convicts in Tehran and Jiroft were spared execution after the victims' families pardoned them, and the Jiroft prisoner was released after 10 years in prison. Additionally, a murder case in Hamedan was settled through reconciliation.",
+        "time": "18:03",
+        "ts": 1791828224
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A memorial birthday ceremony for Alireza Nouri was held at his gravesite with family and close friends present. Alireza Nouri, 29 years old, was killed on the evening of January 9, 2026, in Qazvin. This video was released by Iran International.",
+        "time": "18:05",
+        "ts": 1791828340
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Nechirvan Barzani announced that with the start of the war between the US and the Islamic Republic, the Kurdistan Region's border with Iran was closed and forces were deployed. He said that Iranian Kurdish opposition groups were warned not to attack Iran. Additionally, two unidentified drones targeted the Freedom Camp of Iranian Kurdish opposition groups east of Erbil.",
+        "time": "18:05",
+        "ts": 1791828353
       }
     ],
     "language": "en",
-    "packId": "20261012-75",
-    "sequence": 75,
+    "packId": "20261012-76",
+    "sequence": 76,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:02"
+    "updatedAt": "18:06"
   },
   "verified": true
 }
