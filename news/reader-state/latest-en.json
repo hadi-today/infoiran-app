@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-55 seq=55 exp=1792014659",
+      "advancedStatus": "pack_id=20261012-56 seq=56 exp=1792014985",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:50",
+      "lastChecked": "21:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 21:50",
+    "expiresAt": "2026-10-14 21:56",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Sepahan football team defeated Fajr Sepasi 6-1 in the eighth week of the Premier League. This was one of the highest-scoring matches of the league. With this victory, Sepahan reached 13 points and ranked fourth.",
-        "time": "21:52",
-        "ts": 1791755564
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Reza Pahlavi condemned the Houthi attacks on Saudi Arabia and held the Islamic Republic responsible. He stated that if the Islamic Republic is overthrown, the region will achieve peace. He also mentioned that Saudi-Iran relations will be restored.",
-        "time": "21:53",
-        "ts": 1791755639
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -469,14 +455,21 @@
         "text": "Morad Vaisi, a senior analyst at Iran International, spoke about the major crime in Dey month, highlighting that some young couples lost one partner at the start of their married life. These stories are among the most painful narratives about the destruction of their dreams. The survivors of the martyrs face this harsh reality.",
         "time": "21:50",
         "ts": 1791841803
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Kurdistan Democratic Party of Iran announced that drones of the Islamic Republic targeted the Azadi camp in Kuyeh on Monday noon. The attack caused no casualties but resulted in material damage. The reports were published by Rudaw network.",
+        "time": "21:55",
+        "ts": 1791842144
       }
     ],
     "language": "en",
-    "packId": "20261012-55",
-    "sequence": 55,
+    "packId": "20261012-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:50"
+    "updatedAt": "21:56"
   },
   "verified": true
 }
