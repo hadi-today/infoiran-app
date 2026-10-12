@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-38 seq=38 exp=1791969227",
+      "advancedStatus": "pack_id=20261012-39 seq=39 exp=1791969578",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:13",
+      "lastChecked": "09:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 09:13",
+    "expiresAt": "2026-10-14 09:19",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Italian defense minister stated that Rome's support for Ukraine is based on law and respect for international rights. He warned that this issue should not become a source of domestic political disputes. He also warned about security threats such as cyberattacks and the use of drones against Italy.",
-        "time": "09:14",
-        "ts": 1791710071
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Morteza Nemati, a PhD graduate in geography, was summoned to the General and Revolutionary Prosecutor's Office of Abdanan County. He must appear within five days to defend against charges of propaganda against the Islamic Republic system. The summons was issued on October 10th.",
-        "time": "09:16",
-        "ts": 1791710160
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A sudden flood occurred on Sunday, October 11, along the Budhi Gandaki River in Nepal, damaging buildings. Muddy waters have flooded surrounding areas. No casualties have been reported so far.",
-        "time": "09:17",
-        "ts": 1791710270
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -966,14 +945,21 @@
         "text": "Masoud Pezeshkian spoke about the killing of students during the war. Morteza Kazemian responded, noting that the largest political massacre occurred during his government. He and other Islamic Republic officials did not mention the December massacre and lack the moral authority for such statements.",
         "time": "09:12",
         "ts": 1791796371
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Yesterday, a minibus carrying seasonal workers collided with a car on the Piranshahr to Mirabad road. The accident resulted in injuries to five workers. No further details about the incident have been reported.",
+        "time": "09:18",
+        "ts": 1791796724
       }
     ],
     "language": "en",
-    "packId": "20261012-38",
-    "sequence": 38,
+    "packId": "20261012-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:13"
+    "updatedAt": "09:19"
   },
   "verified": true
 }
