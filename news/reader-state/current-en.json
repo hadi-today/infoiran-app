@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-33 seq=33 exp=1791983089",
+      "advancedStatus": "pack_id=20261012-34 seq=34 exp=1791983433",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:04",
+      "lastChecked": "13:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 13:04",
+    "expiresAt": "2026-10-14 13:10",
     "items": [
       {
         "channel": "iranintl",
@@ -273,14 +273,21 @@
         "text": "The mother of Abolfazl Zare joined the campaign \"9 apples, 9 months of separation\" by placing 9 apples in a dish on the ninth month of her son's death. She said, \"I neither forgive nor forget.\" Abolfazl Zare, 18 years old, was killed on January 9, 2026, in Isfahan.",
         "time": "13:04",
         "ts": 1791810266
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Following attacks by Iran-backed Houthis on Riyadh airport, several international airlines have canceled or suspended flights to Saudi Arabia. Air France-KLM has extended the suspension of Riyadh flights until November 30. Lufthansa group and other airlines have also canceled or suspended flights until specified dates.",
+        "time": "13:10",
+        "ts": 1791810613
       }
     ],
     "language": "en",
-    "packId": "20261012-33",
-    "sequence": 33,
+    "packId": "20261012-34",
+    "sequence": 34,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:04"
+    "updatedAt": "13:10"
   },
   "verified": true
 }
