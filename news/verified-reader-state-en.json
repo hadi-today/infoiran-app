@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-08 seq=8 exp=1791971610",
+      "advancedStatus": "pack_id=20261012-09 seq=9 exp=1791971747",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:53",
+      "lastChecked": "09:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 09:53",
+    "expiresAt": "2026-10-14 09:55",
     "items": [
       {
         "channel": "iranintl",
@@ -77,14 +77,21 @@
         "text": "A 33-year-old young man reports severe economic problems and currency devaluation in Iran. He complains about increased theft and insecurity, high inflation, and the social security's failure to pay unemployment insurance. He also points to rising prices of daily goods and declining purchasing power.",
         "time": "09:53",
         "ts": 1791798787
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Retired telecommunications workers in Khuzestan held a protest march in Ahvaz today. They demanded the implementation of regulation 89/24 and attention to their demands. The protesters objected to the supplementary insurance situation and the arbitrary increase in insurance premiums.",
+        "time": "09:55",
+        "ts": 1791798925
       }
     ],
     "language": "en",
-    "packId": "20261012-08",
-    "sequence": 8,
+    "packId": "20261012-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:53"
+    "updatedAt": "09:55"
   },
   "verified": true
 }
