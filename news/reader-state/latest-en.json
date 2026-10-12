@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-76 seq=76 exp=1792001202",
+      "advancedStatus": "pack_id=20261012-77 seq=77 exp=1792001876",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:06",
+      "lastChecked": "18:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 18:06",
+    "expiresAt": "2026-10-14 18:17",
     "items": [
       {
         "channel": "iranintl",
@@ -616,14 +616,21 @@
         "text": "Nechirvan Barzani announced that with the start of the war between the US and the Islamic Republic, the Kurdistan Region's border with Iran was closed and forces were deployed. He said that Iranian Kurdish opposition groups were warned not to attack Iran. Additionally, two unidentified drones targeted the Freedom Camp of Iranian Kurdish opposition groups east of Erbil.",
         "time": "18:05",
         "ts": 1791828353
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Adineh Moradali Beigi, the wife of Mahmoud Beheshti Langaroudi, has been summoned to the third investigative branch of Langaroud Prosecutor's Office. She is accused of propaganda against the regime. Mahmoud Beheshti Langaroudi has also been summoned and charged with a similar accusation.",
+        "time": "18:17",
+        "ts": 1791829051
       }
     ],
     "language": "en",
-    "packId": "20261012-76",
-    "sequence": 76,
+    "packId": "20261012-77",
+    "sequence": 77,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:06"
+    "updatedAt": "18:17"
   },
   "verified": true
 }
