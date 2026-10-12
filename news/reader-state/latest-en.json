@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-10 seq=10 exp=1791972059",
+      "advancedStatus": "pack_id=20261012-11 seq=11 exp=1791972241",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:00",
+      "lastChecked": "10:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 10:00",
+    "expiresAt": "2026-10-14 10:04",
     "items": [
       {
         "channel": "iranintl",
@@ -91,14 +91,21 @@
         "text": "The Israeli Prime Minister discussed the possibility of a military attack on Iran in a meeting with security officials. The Israeli army is preparing for three scenarios: an independent attack, joint operations with the US, and responding to a potential Iranian attack. More details are available in an interview with an Iran International reporter.",
         "time": "10:00",
         "ts": 1791799236
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The Judiciary Media Center announced the execution of Omar Dorostaran, a security suspect from Rask county. He was identified as a member of an opposition group against the regime. The execution took place today, Monday, October 12.",
+        "time": "10:03",
+        "ts": 1791799420
       }
     ],
     "language": "en",
-    "packId": "20261012-10",
-    "sequence": 10,
+    "packId": "20261012-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:00"
+    "updatedAt": "10:04"
   },
   "verified": true
 }
