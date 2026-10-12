@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-50 seq=50 exp=1791990917",
+      "advancedStatus": "pack_id=20261012-51 seq=51 exp=1791991107",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:15",
+      "lastChecked": "15:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 15:15",
+    "expiresAt": "2026-10-14 15:18",
     "items": [
       {
         "channel": "iranintl",
@@ -406,14 +406,21 @@
         "text": "Andy Burnham stated that the incident at Fairford Air Base was likely coordinated by Iran and ordered by the IRGC. The UK will impose additional sanctions against the Islamic Republic in response to this incident. Two Iranian citizens were added to the UK's sanctions list for hostile activities.",
         "time": "15:14",
         "ts": 1791818091
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The birthday ceremony of Pedram Khalooei, a 15-year-old football player, was held at his burial site. Pedram was killed by the suppressive forces of the Islamic Republic during the Iranian National Revolution. He was supposed to participate in the selection tests of Sepahan Academy.",
+        "time": "15:17",
+        "ts": 1791818278
       }
     ],
     "language": "en",
-    "packId": "20261012-50",
-    "sequence": 50,
+    "packId": "20261012-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:15"
+    "updatedAt": "15:18"
   },
   "verified": true
 }
