@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-64 seq=64 exp=1792018308",
+      "advancedStatus": "pack_id=20261012-65 seq=65 exp=1792018886",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:51",
+      "lastChecked": "23:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 22:51",
+    "expiresAt": "2026-10-14 23:01",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Amir Giti from Iran International said that the Islamic Republic's threats against US data centers and artificial intelligence could increase US security agencies' sensitivity towards Iranian students and specialists. He also pointed to tensions in the Strait of Hormuz and Houthi attacks, indicating the Islamic Republic's efforts to change regional dynamics. Giti added that the Islamic Republic has not been able to export its oil through the Strait of Hormuz.",
-        "time": "22:55",
-        "ts": 1791759335
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -483,14 +476,21 @@
         "text": "The Wall Street Journal reported that internet-connected surveillance cameras can be used with AI to monitor military movements and assist attacks. Mehdi Saremi-Far said these cameras played a role similar to pagers in Israeli attacks on Hezbollah during attacks on the Islamic Republic by Israel and the US. He also added that limiting internet access can increase infrastructure vulnerability and does not necessarily prevent cyber operations.",
         "time": "22:51",
         "ts": 1791845470
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The General Authority of Civil Aviation of Saudi Arabia announced the extension of the suspension of activities at King Khalid International Airport in Riyadh. The suspension is necessary to complete safety inspections and ensure the operational readiness of the airport facilities. The date for resuming activities has not been announced.",
+        "time": "23:00",
+        "ts": 1791846044
       }
     ],
     "language": "en",
-    "packId": "20261012-64",
-    "sequence": 64,
+    "packId": "20261012-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:51"
+    "updatedAt": "23:01"
   },
   "verified": true
 }
