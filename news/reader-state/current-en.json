@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-53 seq=53 exp=1792014186",
+      "advancedStatus": "pack_id=20261012-54 seq=54 exp=1792014562",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:43",
+      "lastChecked": "21:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 21:43",
+    "expiresAt": "2026-10-14 21:49",
     "items": [
       {
         "channel": "iranintl",
@@ -455,14 +455,21 @@
         "text": "Morad Vaisi, a senior analyst at Iran International, described the January massacre as the largest street killing in Iran's history. He stated that this massacre extended to hospital assaults and continued repression in prisons with increased executions. The families of the disappeared also continue to face harassment by the Islamic Republic.",
         "time": "21:42",
         "ts": 1791841345
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Bloomberg reported that with increased attacks by the Islamic Republic around the Strait of Hormuz, at least 10 supertankers and several Suezmax tankers have changed course or stopped. This situation could disrupt oil transfer near Fujairah and regional exports. The reduction in receiving tankers may slow down the oil transfer process.",
+        "time": "21:48",
+        "ts": 1791841727
       }
     ],
     "language": "en",
-    "packId": "20261012-53",
-    "sequence": 53,
+    "packId": "20261012-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:43"
+    "updatedAt": "21:49"
   },
   "verified": true
 }
