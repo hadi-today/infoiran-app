@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-43 seq=43 exp=1791987359",
+      "advancedStatus": "pack_id=20261012-44 seq=44 exp=1791987891",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:15",
+      "lastChecked": "14:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 14:15",
+    "expiresAt": "2026-10-14 14:24",
     "items": [
       {
         "channel": "iranintl",
@@ -350,14 +350,21 @@
         "text": "Farhad Bashiri emphasized the need to address the rights of armed forces personnel and retirees in a meeting reviewing the defense minister nominee's plans. He called for clarification of funding sources for these demands and the use of asset monetization to finance the defense ministry. He also stressed the need to revise defense programs and strengthen air defense.",
         "time": "14:14",
         "ts": 1791814446
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mojtaba Amani, former ambassador of the Islamic Republic in Beirut, described the incident leading to the deaths of Ebrahim Raisi and Hossein Amir-Abdollahian as suspicious. The incident occurred in Farvardin 1403, coinciding with the escalation of war by Israel. Hassan Nasrallah also considered these events to be divine wisdom.",
+        "time": "14:24",
+        "ts": 1791815072
       }
     ],
     "language": "en",
-    "packId": "20261012-43",
-    "sequence": 43,
+    "packId": "20261012-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:15"
+    "updatedAt": "14:24"
   },
   "verified": true
 }
