@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-19 seq=19 exp=1791976011",
+      "advancedStatus": "pack_id=20261012-20 seq=20 exp=1791976208",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:06",
+      "lastChecked": "11:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 11:06",
+    "expiresAt": "2026-10-14 11:10",
     "items": [
       {
         "channel": "iranintl",
@@ -161,14 +161,21 @@
         "text": "The mother of Soda Akramifard said on International Girls' Day that her daughter's wish was for freedom in Iran and the return of Prince Reza Pahlavi. She stated that she will continue her daughter's path. Soda Akramifard, a 16-year-old teenager, was killed on January 9, 2026, in Marlik Malard.",
         "time": "11:04",
         "ts": 1791803051
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amnesty International reported that after the killing of protesters in the Woman, Life, Freedom uprising, Iranian authorities harass the families of the victims. This harassment is considered part of crimes against humanity. The Amnesty International report is described as unprecedented.",
+        "time": "11:07",
+        "ts": 1791803221
       }
     ],
     "language": "en",
-    "packId": "20261012-19",
-    "sequence": 19,
+    "packId": "20261012-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:06"
+    "updatedAt": "11:10"
   },
   "verified": true
 }
