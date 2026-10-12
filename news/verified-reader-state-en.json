@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-68 seq=68 exp=1791998142",
+      "advancedStatus": "pack_id=20261012-69 seq=69 exp=1791998365",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:15",
+      "lastChecked": "17:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 17:15",
+    "expiresAt": "2026-10-14 17:19",
     "items": [
       {
         "channel": "iranintl",
@@ -532,14 +532,28 @@
         "text": "On the early morning of Tuesday, October 12, the execution of a non-political prisoner was carried out in Hamedan prison. The identity of the prisoner was confirmed as Mehdi Mirzaei. This news was reported by the HRANA news agency.",
         "time": "17:15",
         "ts": 1791825317
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The UK Prime Minister stated that the attack on RAF Fairford was likely coordinated by Iran and directed by the Islamic Revolutionary Guard Corps. The UK has threatened to respond using all its powers and impose further sanctions on Iran. Additionally, the Iranian ambassador in London has been summoned to the Foreign Office.",
+        "time": "17:15",
+        "ts": 1791825356
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Farzin Nadimi said information about the IRGC plan in the UK is limited. The UK Prime Minister's statements and sanctions on two related individuals indicate a serious threat. This issue may lead to increased security measures in Europe.",
+        "time": "17:19",
+        "ts": 1791825562
       }
     ],
     "language": "en",
-    "packId": "20261012-68",
-    "sequence": 68,
+    "packId": "20261012-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:15"
+    "updatedAt": "17:19"
   },
   "verified": true
 }
