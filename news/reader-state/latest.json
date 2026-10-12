@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-10 seq=10 exp=1791972059",
+      "advancedStatus": "pack_id=20261012-11 seq=11 exp=1791972241",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:00",
+      "lastChecked": "10:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 10:00",
+    "expiresAt": "2026-10-14 10:04",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -80,13 +80,19 @@
         "text": "نخست‌وزیر اسرائیل در نشستی با مقام‌های امنیتی احتمال حمله نظامی به جمهوری اسلامی را بررسی کرد. ارتش اسرائیل برای سه سناریو شامل حمله مستقل، عملیات مشترک با آمریکا و پاسخ به حمله احتمالی ایران آماده می‌شود. جزئیات بیشتر در گفت‌وگو با خبرنگار ایران‌اینترنشنال ارائه شده است.",
         "time": "10:00",
         "ts": 1791799236
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "text": "مرکز رسانه قوه قضاییه از اجرای حکم اعدام عمر درستاران، متهم امنیتی اهل شهرستان راسک، خبر داد. وی به عنوان یکی از عناصر گروه‌های مخالف نظام معرفی شده است. این حکم امروز دوشنبه ۲۰ مهرماه اجرا شده است.",
+        "time": "10:03",
+        "ts": 1791799420
       }
     ],
-    "packId": "20261012-10",
-    "sequence": 10,
+    "packId": "20261012-11",
+    "sequence": 11,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "10:00"
+    "updatedAt": "10:04"
   },
   "verified": true
 }
