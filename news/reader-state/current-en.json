@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-17 seq=17 exp=1791961305",
+      "advancedStatus": "pack_id=20261012-18 seq=18 exp=1791961574",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:01",
+      "lastChecked": "07:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 07:01",
+    "expiresAt": "2026-10-14 07:06",
     "items": [
       {
         "channel": "iranintl",
@@ -959,14 +959,21 @@
         "text": "A group of Iranians residing in the UK held the Mehregan festival in Birmingham on Sunday, October 11. During the event, the names of the immortal figures of the national revolution were recited. This news is based on a video received by Iran International.",
         "time": "07:00",
         "ts": 1791788454
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Since August 6, the supplementary insurance for drivers, provided by Bimeh Dey, has been cut off due to government debt, and no one is responding. Teachers and students report economic difficulties and lack of facilities. Many businesses are closing due to inflation and reduced purchasing power.",
+        "time": "07:05",
+        "ts": 1791788722
       }
     ],
     "language": "en",
-    "packId": "20261012-17",
-    "sequence": 17,
+    "packId": "20261012-18",
+    "sequence": 18,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:01"
+    "updatedAt": "07:06"
   },
   "verified": true
 }
