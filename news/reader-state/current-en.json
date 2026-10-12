@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-35 seq=35 exp=1791984079",
+      "advancedStatus": "pack_id=20261012-36 seq=36 exp=1791984287",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:21",
+      "lastChecked": "13:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 13:21",
+    "expiresAt": "2026-10-14 13:24",
     "items": [
       {
         "channel": "iranintl",
@@ -287,14 +287,28 @@
         "text": "The second week of the trial of three Iranians accused of security actions against Iran International journalists is underway in Woolwich court, London. Prosecutors stated that the Islamic Republic had hired these individuals to monitor and threaten the journalists. More details are provided in an interview with Tajeddin Soroush.",
         "time": "13:20",
         "ts": 1791811257
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Official sources in Beirut have received warnings about a possible plan attributed to the Islamic Republic to target Joseph Aoun and Nawaf Salam. This news was reported by Mi Farhat, a journalist from Iran International.",
+        "time": "13:21",
+        "ts": 1791811294
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Chelsea club and the Spanish Football Federation offer free egg freezing services to female players. This move has been welcomed by FIFPro but concerns exist about pressure on women to delay motherhood. Some athletes have also expressed worries about the motives of sports organizations.",
+        "time": "13:24",
+        "ts": 1791811446
       }
     ],
     "language": "en",
-    "packId": "20261012-35",
-    "sequence": 35,
+    "packId": "20261012-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:21"
+    "updatedAt": "13:24"
   },
   "verified": true
 }
