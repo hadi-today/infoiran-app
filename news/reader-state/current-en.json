@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-13 seq=13 exp=1791973183",
+      "advancedStatus": "pack_id=20261012-14 seq=14 exp=1791973995",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:19",
+      "lastChecked": "10:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 10:19",
+    "expiresAt": "2026-10-14 10:33",
     "items": [
       {
         "channel": "iranintl",
@@ -119,14 +119,28 @@
         "text": "Amin Nasser, CEO of Aramco, stated that the global crude oil supply is severely limited and replenishing oil reserves may take up to two years. Aramco is exploring additional export routes and expanding storage capacity. The company also plans to increase gas production capacity by 80% by 2030.",
         "time": "10:19",
         "ts": 1791800364
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Families of martyrs who lost their daughters during the Iranian national revolution commemorated them on International Day of the Girl. They also spoke about their daughters' bravery in the December protests and continuing their path. This was discussed in an interview with Farnoush Faraji.",
+        "time": "10:32",
+        "ts": 1791801168
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of retirees gathered in Ahvaz and Kermanshah on Monday, October 12, to protest economic hardships. They chanted slogans against injustice. The protest was held due to living condition issues.",
+        "time": "10:32",
+        "ts": 1791801174
       }
     ],
     "language": "en",
-    "packId": "20261012-13",
-    "sequence": 13,
+    "packId": "20261012-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:19"
+    "updatedAt": "10:33"
   },
   "verified": true
 }
