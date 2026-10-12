@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-12 seq=12 exp=1791959190",
+      "advancedStatus": "pack_id=20261012-13 seq=13 exp=1791959868",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:26",
+      "lastChecked": "06:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 06:26",
+    "expiresAt": "2026-10-14 06:37",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Taherkhani, 31 years old, was killed on January 8, 2026, in Takestan. His family showed distress at his grave during his birthday ceremony. Videos of this ceremony have been sent to Iran International.",
-        "time": "06:29",
-        "ts": 1791700190
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The CEO of Tehran Water and Wastewater Company stated that high consumers decreased from 65% to 47% and low consumers from 5% to 3%. Additionally, good consumers increased from 29% to 50%. He mentioned the paradox of reduced consumption leading to reduced revenue for water companies.",
-        "time": "06:30",
-        "ts": 1791700235
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -952,14 +938,21 @@
         "text": "Japan's Ministry of Defense announced that a Russian military reconnaissance aircraft violated Japan's claimed airspace on Friday, October 9. The aircraft flew over disputed islands between the two countries. Japanese fighters took off to intercept the Russian plane.",
         "time": "06:25",
         "ts": 1791786347
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Masoud Pezeshkian stated at the university reopening ceremony that if he is martyred, better people will come to defend the country. He also said that selling gasoline at 1500 tomans is impossible and a sudden price increase would disrupt society. Pezeshkian emphasized that he would accept any correct guidance shown to him.",
+        "time": "06:36",
+        "ts": 1791787019
       }
     ],
     "language": "en",
-    "packId": "20261012-12",
-    "sequence": 12,
+    "packId": "20261012-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:26"
+    "updatedAt": "06:37"
   },
   "verified": true
 }
