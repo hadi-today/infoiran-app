@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-01 seq=1 exp=1791969886",
+      "advancedStatus": "pack_id=20261012-02 seq=2 exp=1791970073",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:24",
+      "lastChecked": "09:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 09:24",
+    "expiresAt": "2026-10-14 09:27",
     "items": [
       {
         "channel": "iranintl",
@@ -28,14 +28,21 @@
         "text": "Alireza Beiranvand must be conscripted for military service on the first of Aban. His medical requests, including shoulder injury and referral to the neurology and psychiatry commission, were reviewed but not approved. The location and manner of his service are not yet determined and will be announced in the coming days.",
         "time": "09:24",
         "ts": 1791797079
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Yesterday, a minibus carrying seasonal workers collided with a car on the Piranshahr to Mirabad route. This accident resulted in injuries to five workers. More details are published by Harana News Agency.",
+        "time": "09:25",
+        "ts": 1791797124
       }
     ],
     "language": "en",
-    "packId": "20261012-01",
-    "sequence": 1,
+    "packId": "20261012-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:24"
+    "updatedAt": "09:27"
   },
   "verified": true
 }
