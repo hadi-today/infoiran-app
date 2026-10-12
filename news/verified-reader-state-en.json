@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-45 seq=45 exp=1792009468",
+      "advancedStatus": "pack_id=20261012-46 seq=46 exp=1792010082",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:24",
+      "lastChecked": "20:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 20:24",
+    "expiresAt": "2026-10-14 20:34",
     "items": [
       {
         "channel": "iranintl",
@@ -448,14 +448,21 @@
         "text": "Esteghlal football team won 2-1 against Al-Gharafa Qatar in their second match of the Asian Elite League. Goals for Esteghlal were scored by Yaser Asani and Hossein Goodarzi. The victory was marked by Asani's superb goal and Habib Farabbasi's consecutive saves.",
         "time": "20:23",
         "ts": 1791836604
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The match between Al-Nassr Saudi Arabia and Neftchi Uzbekistan in the Asian Champions League was delayed by one hour due to a security alert about a missile threat. Saudi authorities intercepted and destroyed a ballistic missile launched by the Houthis towards Riyadh. After the security was confirmed, players returned to the field and the game continued.",
+        "time": "20:33",
+        "ts": 1791837236
       }
     ],
     "language": "en",
-    "packId": "20261012-45",
-    "sequence": 45,
+    "packId": "20261012-46",
+    "sequence": 46,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:24"
+    "updatedAt": "20:34"
   },
   "verified": true
 }
