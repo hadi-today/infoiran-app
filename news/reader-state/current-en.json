@@ -1,34 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261011-131 seq=131 exp=1791932766",
+      "advancedStatus": "pack_id=20261012-01 seq=1 exp=1791936779",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:06",
+      "lastChecked": "00:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-10-11",
-    "expiresAt": "2026-10-13 23:06",
+    "date": "2026-10-12",
+    "expiresAt": "2026-10-14 00:12",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump stated that the US has prevented the Islamic Republic from acquiring nuclear weapons. He said Tehran will likely try harder to harm the US before the elections. Trump also spoke about Iran's military capabilities and the possible renaming of the Strait of Hormuz.",
-        "time": "23:31",
-        "ts": 1791675100
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Saudi-led military coalition attributed the attack on King Khalid International Airport in Riyadh on Saturday, October 10, to Yemeni Houthis. The coalition described the attack as a war crime and promised a decisive response. No further details about the nature of the response have been announced.",
-        "time": "00:03",
-        "ts": 1791677039
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -973,14 +959,21 @@
         "text": "Ghassan Ashour said that with the expansion of the Islamic Republic's confrontation from Israel to the United States, the importance of the Houthis for Tehran has increased. The Houthis can disrupt the oil and gas transit route from Bab al-Mandab. The Islamic Republic can use this threat to pressure global energy markets without accepting direct responsibility.",
         "time": "23:05",
         "ts": 1791759924
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Gina Romero, the UN special rapporteur on freedom of peaceful assembly, announced she will join the 'No to Execution Tuesdays' hunger strike on Tuesday, October 13. She called for a halt to executions and independent monitoring of prisoners at risk of execution. Romero also highlighted political executions in Iran and human rights violations in protesters' cases.",
+        "time": "00:12",
+        "ts": 1791763930
       }
     ],
     "language": "en",
-    "packId": "20261011-131",
-    "sequence": 131,
+    "packId": "20261012-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:06"
+    "updatedAt": "00:12"
   },
   "verified": true
 }
