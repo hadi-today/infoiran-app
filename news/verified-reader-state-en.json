@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-41 seq=41 exp=1791986478",
+      "advancedStatus": "pack_id=20261012-43 seq=43 exp=1791987359",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:01",
+      "lastChecked": "14:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 14:01",
+    "expiresAt": "2026-10-14 14:15",
     "items": [
       {
         "channel": "iranintl",
@@ -336,14 +336,28 @@
         "text": "Belgian tennis player Zizou Bergs defeated Carlos Alcaraz, a seven-time Grand Slam champion, in two sets in the third round of the Shanghai Masters. This defeat secured Alexander Zverev's top ranking in the year-end ATP rankings. Prior to this tournament, Alcaraz had defended his title at the Japan Open.",
         "time": "14:00",
         "ts": 1791813658
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "At least 63 armed incidents were recorded in Sistan and Baluchestan and Kerman provinces from April 1 to October 10, 2026. These events resulted in at least 94 deaths and 33 injuries, with violence escalating to the use of heavier equipment. The main conflict centers are Zahedan, Saravan, Iranshahr, and Rask.",
+        "time": "14:12",
+        "ts": 1791814358
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Farhad Bashiri emphasized the need to address the rights of armed forces personnel and retirees in a meeting reviewing the defense minister nominee's plans. He called for clarification of funding sources for these demands and the use of asset monetization to finance the defense ministry. He also stressed the need to revise defense programs and strengthen air defense.",
+        "time": "14:14",
+        "ts": 1791814446
       }
     ],
     "language": "en",
-    "packId": "20261012-41",
-    "sequence": 41,
+    "packId": "20261012-43",
+    "sequence": 43,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:01"
+    "updatedAt": "14:15"
   },
   "verified": true
 }
