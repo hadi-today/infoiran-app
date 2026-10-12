@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-57 seq=57 exp=1792015289",
+      "advancedStatus": "pack_id=20261012-58 seq=58 exp=1792016177",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:01",
+      "lastChecked": "22:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 22:01",
+    "expiresAt": "2026-10-14 22:16",
     "items": [
       {
         "channel": "iranintl",
@@ -469,14 +469,21 @@
         "text": "Morad Veysi, senior analyst at Iran International, said that the families of the martyrs want to achieve the goal of overthrowing the Islamic Republic. He added that these individuals were the best children of Iran who sacrificed their lives for freedom. He also noted that they loved life.",
         "time": "22:00",
         "ts": 1791842443
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ivar Farhadi stated that the incident at the Fairford base should not be seen merely as a security event in the UK because the base is used by American forces. The UK Prime Minister's announcement of the IRGC's role and support from foreign ministers could lead to increased sanctions and joint counterterrorism cooperation. These actions will increase international pressure on the Islamic Republic.",
+        "time": "22:15",
+        "ts": 1791843330
       }
     ],
     "language": "en",
-    "packId": "20261012-57",
-    "sequence": 57,
+    "packId": "20261012-58",
+    "sequence": 58,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:01"
+    "updatedAt": "22:16"
   },
   "verified": true
 }
