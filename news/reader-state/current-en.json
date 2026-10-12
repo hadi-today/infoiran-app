@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-04 seq=4 exp=1791951902",
+      "advancedStatus": "pack_id=20261012-05 seq=5 exp=1791952071",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:25",
+      "lastChecked": "04:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 04:25",
+    "expiresAt": "2026-10-14 04:27",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "A group of Iranians living in Calgary protested in front of the city hall against executions in Iran and the verdicts in the Ali Khani Square case in Isfahan. They also commemorated the 88th birthday of Empress Farah Pahlavi and expressed support for the people inside Iran and Prince Reza Pahlavi. This report was published by Sepidar Valian from Iran International.",
         "time": "04:23",
         "ts": 1791779032
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Nadari said that the war is ahead and will not end soon. He added that the response to the revenge for the leader's blood has not been sufficient but they are moving in that direction. Nadari also stated that the reaction will be sufficient when full deterrence is achieved.",
+        "time": "04:27",
+        "ts": 1791779230
       }
     ],
     "language": "en",
-    "packId": "20261012-04",
-    "sequence": 4,
+    "packId": "20261012-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:25"
+    "updatedAt": "04:27"
   },
   "verified": true
 }
