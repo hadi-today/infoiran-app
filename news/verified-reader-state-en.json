@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-60 seq=60 exp=1792016879",
+      "advancedStatus": "pack_id=20261012-61 seq=61 exp=1792017397",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:27",
+      "lastChecked": "22:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 22:27",
+    "expiresAt": "2026-10-14 22:36",
     "items": [
       {
         "channel": "iranintl",
@@ -476,14 +476,21 @@
         "text": "Gina Romero, the UN special rapporteur, started a 24-hour hunger strike. She announced this action in solidarity with the people of Iran and joining the campaign of Tuesdays against executions. Romero called for a halt to executions and independent monitoring of prisoners.",
         "time": "22:27",
         "ts": 1791844039
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Vahidi, the commander of the IRGC, stated that no extra-regional power has the right to intervene in the Strait of Hormuz and the Persian Gulf. He expressed this position on the social network X. Vahidi rejected hegemonic presence and threats in these areas.",
+        "time": "22:35",
+        "ts": 1791844552
       }
     ],
     "language": "en",
-    "packId": "20261012-60",
-    "sequence": 60,
+    "packId": "20261012-61",
+    "sequence": 61,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:27"
+    "updatedAt": "22:36"
   },
   "verified": true
 }
