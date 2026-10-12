@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-25 seq=25 exp=1791979272",
+      "advancedStatus": "pack_id=20261012-26 seq=26 exp=1791979455",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:01",
+      "lastChecked": "12:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 12:01",
+    "expiresAt": "2026-10-14 12:04",
     "items": [
       {
         "channel": "iranintl",
@@ -210,14 +210,21 @@
         "text": "Mohammad Reza Aref, deputy to Masoud Pezeshkian, emphasized that Iran is an ancient civilization that defends its identity. He warned that the science and technology front is advancing rapidly and enemies will receive a stronger response if they make a mistake. He also criticized the dependence of some Islamic countries' rulers on the West.",
         "time": "12:00",
         "ts": 1791806450
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Nigel Farage announced that if his party wins the 2029 election, granting asylum to all applicants will be banned for five years. New applications will be automatically rejected and applicants will be returned. He also plans to cancel legal resettlement routes for refugees but exempts Ukrainians.",
+        "time": "12:02",
+        "ts": 1791806544
       }
     ],
     "language": "en",
-    "packId": "20261012-25",
-    "sequence": 25,
+    "packId": "20261012-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:01"
+    "updatedAt": "12:04"
   },
   "verified": true
 }
