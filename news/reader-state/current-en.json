@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-65 seq=65 exp=1791996762",
+      "advancedStatus": "pack_id=20261012-66 seq=66 exp=1791996990",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:52",
+      "lastChecked": "16:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 16:52",
+    "expiresAt": "2026-10-14 16:56",
     "items": [
       {
         "channel": "iranintl",
@@ -511,14 +511,21 @@
         "text": "Ali Mousavi, the Iranian ambassador to the UK, denied any role of Tehran in the incident at the Fairford airbase. He asked the UK government to provide evidence and emphasized readiness for cooperation between the two countries. Mousavi also stated that Iran's condemnation of military attacks against it does not imply involvement in the Fairford incident.",
         "time": "16:52",
         "ts": 1791823939
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Andy Burnham, the UK Prime Minister, stated in Parliament that the Islamic Republic is responsible for the attack on the Farforod base, which was directed by the IRGC. The US, Australia, Canada, and several other countries issued a joint statement warning that any threats or harm to individuals on their soil by the Islamic Republic are unacceptable. The statement refers to the Islamic Republic's attempts to threaten and intimidate.",
+        "time": "16:54",
+        "ts": 1791824082
       }
     ],
     "language": "en",
-    "packId": "20261012-65",
-    "sequence": 65,
+    "packId": "20261012-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:52"
+    "updatedAt": "16:56"
   },
   "verified": true
 }
