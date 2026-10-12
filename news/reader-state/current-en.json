@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-12 seq=12 exp=1791972364",
+      "advancedStatus": "pack_id=20261012-13 seq=13 exp=1791973183",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:06",
+      "lastChecked": "10:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 10:06",
+    "expiresAt": "2026-10-14 10:19",
     "items": [
       {
         "channel": "iranintl",
@@ -112,14 +112,21 @@
         "text": "A video shows Arnika Dabag's father visiting her grave on International Day of the Girl. Arnika Dabag, a 15-year-old teenager, was killed on January 9, 2026, in Gorgan. The video was released by Iran International.",
         "time": "10:05",
         "ts": 1791799502
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amin Nasser, CEO of Aramco, stated that the global crude oil supply is severely limited and replenishing oil reserves may take up to two years. Aramco is exploring additional export routes and expanding storage capacity. The company also plans to increase gas production capacity by 80% by 2030.",
+        "time": "10:19",
+        "ts": 1791800364
       }
     ],
     "language": "en",
-    "packId": "20261012-12",
-    "sequence": 12,
+    "packId": "20261012-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:06"
+    "updatedAt": "10:19"
   },
   "verified": true
 }
