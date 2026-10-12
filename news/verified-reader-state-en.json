@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-67 seq=67 exp=1791997295",
+      "advancedStatus": "pack_id=20261012-68 seq=68 exp=1791998142",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:01",
+      "lastChecked": "17:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 17:01",
+    "expiresAt": "2026-10-14 17:15",
     "items": [
       {
         "channel": "iranintl",
@@ -525,14 +525,21 @@
         "text": "A public flogging sentence was carried out for a defendant in a case of assault and committing an indecent act by force in Taybad. This action was taken despite the International Covenant on Civil and Political Rights explicitly prohibiting humiliating punishments such as flogging. The execution of this sentence has sparked reactions.",
         "time": "16:58",
         "ts": 1791824297
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "On the early morning of Tuesday, October 12, the execution of a non-political prisoner was carried out in Hamedan prison. The identity of the prisoner was confirmed as Mehdi Mirzaei. This news was reported by the HRANA news agency.",
+        "time": "17:15",
+        "ts": 1791825317
       }
     ],
     "language": "en",
-    "packId": "20261012-67",
-    "sequence": 67,
+    "packId": "20261012-68",
+    "sequence": 68,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:01"
+    "updatedAt": "17:15"
   },
   "verified": true
 }
