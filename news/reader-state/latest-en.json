@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261012-71 seq=71 exp=1791999947",
+      "advancedStatus": "pack_id=20261012-72 seq=72 exp=1792000238",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:45",
+      "lastChecked": "17:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-12",
-    "expiresAt": "2026-10-14 17:45",
+    "expiresAt": "2026-10-14 17:50",
     "items": [
       {
         "channel": "iranintl",
@@ -560,14 +560,21 @@
         "text": "Foreign ministers of 28 countries, including the US and UK, issued a joint statement condemning Iran's hostile activities abroad. The statement followed the UK Prime Minister's announcement about the IRGC's role in the Fairford base incident. The countries warned that any threats or harm to individuals on their soil will face legal action.",
         "time": "17:45",
         "ts": 1791827123
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Daily wage workers at the Iran Shahr Burn and Accident Hospital reported that their wages have not been paid for nearly two months. The promised seven-day payment was not fulfilled. Their follow-ups have also gone unanswered.",
+        "time": "17:50",
+        "ts": 1791827414
       }
     ],
     "language": "en",
-    "packId": "20261012-71",
-    "sequence": 71,
+    "packId": "20261012-72",
+    "sequence": 72,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:45"
+    "updatedAt": "17:50"
   },
   "verified": true
 }
