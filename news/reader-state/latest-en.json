@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-13 seq=13 exp=1792037976",
+      "advancedStatus": "pack_id=20261013-14 seq=14 exp=1792038267",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:19",
+      "lastChecked": "04:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 04:19",
+    "expiresAt": "2026-10-15 04:24",
     "items": [
       {
         "channel": "iranintl",
@@ -567,14 +567,21 @@
         "text": "Aydin Panahi stated that this winter, the Islamic Republic will face greater gas shortages and fuel supply limitations for power plants. Reduced gas injection into old oil fields may decrease Iran's oil production capacity. This situation will lead to increased air pollution and more pressure on people and industries.",
         "time": "04:18",
         "ts": 1791865120
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Sadegh Beigdelie says that the continuation of the siege and the possibility of reimposing sanctions are tools used by the Trump administration to force the Islamic Republic to accept an agreement. He believes the factions' disagreement is about how the agreement is structured and the share of power and economic resources afterward. The principle of negotiation itself is not disputed.",
+        "time": "04:23",
+        "ts": 1791865421
       }
     ],
     "language": "en",
-    "packId": "20261013-13",
-    "sequence": 13,
+    "packId": "20261013-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:19"
+    "updatedAt": "04:24"
   },
   "verified": true
 }
