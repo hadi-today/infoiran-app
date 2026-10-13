@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-54 seq=54 exp=1792068174",
+      "advancedStatus": "pack_id=20261013-55 seq=55 exp=1792068277",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:42",
+      "lastChecked": "12:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 12:42",
+    "expiresAt": "2026-10-15 12:44",
     "items": [
       {
         "channel": "iranintl",
@@ -609,14 +609,28 @@
         "text": "The head of the judiciary in Isfahan province announced that Amir Salar Davoodi, a lawyer, was arrested for releasing an audio file of the marriage of Alireza Sepahi and Mahshad Keshani. The audio file was described as false by the judiciary head. Davoodi is accused of publishing content that caused public disturbance.",
         "time": "12:41",
         "ts": 1791895309
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The Wall Street Journal, citing informed sources, reported that some Iranian officials have mentioned the possibility of a ground attack on neighboring countries if US attacks resume. This was discussed in talks with regional officials. No further details were provided.",
+        "time": "12:43",
+        "ts": 1791895402
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Amnesty International stated that the Islamic Republic uses executions as a tool to intimidate people. The organization referred to the execution of five protesters in December 1404. It also emphasized that some of these individuals were tortured and denied access to a lawyer.",
+        "time": "12:44",
+        "ts": 1791895459
       }
     ],
     "language": "en",
-    "packId": "20261013-54",
-    "sequence": 54,
+    "packId": "20261013-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:42"
+    "updatedAt": "12:44"
   },
   "verified": true
 }
