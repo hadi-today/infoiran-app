@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-36 seq=36 exp=1792056667",
+      "advancedStatus": "pack_id=20261013-37 seq=37 exp=1792057589",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:31",
+      "lastChecked": "09:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 09:31",
+    "expiresAt": "2026-10-15 09:46",
     "items": [
       {
         "channel": "iranintl",
@@ -476,14 +476,21 @@
         "text": "Messages received by Iran International indicate rising food prices and business recession. Unemployment insurance payments are also not being made. This issue was reported by Leila Saadati.",
         "time": "09:30",
         "ts": 1791883821
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Esteghlal club criticized the coverage of their victory against Al-Gharafa on Iranian state TV, calling it unfair and unprofessional. The club expressed dissatisfaction with the focus on issues like Yaser Asani's contract and the direct flight to Qatar instead of the victory itself. They warned that if this approach continues, they will reconsider their media interactions with the state broadcaster.",
+        "time": "09:45",
+        "ts": 1791884736
       }
     ],
     "language": "en",
-    "packId": "20261013-36",
-    "sequence": 36,
+    "packId": "20261013-37",
+    "sequence": 37,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:31"
+    "updatedAt": "09:46"
   },
   "verified": true
 }
