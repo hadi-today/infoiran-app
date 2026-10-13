@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-10 seq=10 exp=1792081904",
+      "advancedStatus": "pack_id=20261013-11 seq=11 exp=1792083262",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:31",
+      "lastChecked": "16:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 16:31",
+    "expiresAt": "2026-10-15 16:54",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The mother of Hamidreza Hosseinipour lit a candle in the campaign \"One Candle, One Name, One Memory\" to commemorate her son. She expressed pride in her son and wished he could see Iran's freedom. Hamidreza Hosseinipour was killed on January 8, 2026, in the Keshan neighborhood of Shiraz.",
-        "time": "16:34",
-        "ts": 1791822889
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ed Miliband, the UK Foreign Secretary, summoned Ali Mousavi, Iran's ambassador in London, following the incident at the Fairford airbase. The UK Prime Minister attributed the incident to the IRGC and announced new sanctions against Iran. Two Iranian citizens were added to the UK's sanctions list for hostile activities.",
-        "time": "16:42",
-        "ts": 1791823332
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Mousavi, the Iranian ambassador to the UK, denied any role of Tehran in the incident at the Fairford airbase. He asked the UK government to provide evidence and emphasized readiness for cooperation between the two countries. Mousavi also stated that Iran's condemnation of military attacks against it does not imply involvement in the Fairford incident.",
-        "time": "16:52",
-        "ts": 1791823939
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -364,14 +343,28 @@
         "text": "New research shows that reducing consumption of ultra-processed foods along with regular exercise reduces the risk of type 2 diabetes by up to 50 percent. This change also improves brain and mental health. Nutrition experts recommend gradually replacing packaged snacks with natural foods.",
         "time": "16:31",
         "ts": 1791909076
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Milad Balsini, a Turk activist, has been detained for 57 days after being summoned to Branch 15 of the Tabriz Public and Revolutionary Prosecutor's Office. There is still no information about his place of detention or the status of his case. This has been confirmed by a source close to Balsini's family.",
+        "time": "16:53",
+        "ts": 1791910430
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Moheydi Azad, the Attorney General, announced that all judicial units have been instructed to monitor lawyers' adherence to hijab. In case of violation, disciplinary action and disqualification of lawyers will be pursued. Lawyers are also required to warn individuals who violate the rules.",
+        "time": "16:54",
+        "ts": 1791910447
       }
     ],
     "language": "en",
-    "packId": "20261013-10",
-    "sequence": 10,
+    "packId": "20261013-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:31"
+    "updatedAt": "16:54"
   },
   "verified": true
 }
