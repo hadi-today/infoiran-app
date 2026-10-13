@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-10 seq=10 exp=1792037323",
+      "advancedStatus": "pack_id=20261013-11 seq=11 exp=1792037592",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:08",
+      "lastChecked": "04:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 04:08",
+    "expiresAt": "2026-10-15 04:13",
     "items": [
       {
         "channel": "iranintl",
@@ -546,14 +546,28 @@
         "text": "Ahmad Batabi identified three main vulnerabilities of the Islamic Republic's security system: weak hardware and software, lack of equipment updates, and human infiltration. He also stated that Israel's access to advanced cybersecurity and artificial intelligence technologies has created a significant difference in capabilities between the two sides.",
         "time": "04:07",
         "ts": 1791864477
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Deutsche Welle reported, citing two senior defected members of special forces and the Ministry of Intelligence, that kidnapping and assassination operations against opponents inside and outside Iran were planned in a secret place called 'Dakhmeh'. This report was published by Ali Hassanpour, a journalist from Iran International.",
+        "time": "04:12",
+        "ts": 1791864750
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Kamyar Behrang says the dispute between Masoud Pezeshkian and Saeed Jalili over negotiations is part of an internal conflict within the Islamic Republic to determine Ali Khamenei's legacy. Both factions try to attribute responsibility for Khamenei's policies to him while absolving themselves of the consequences. The people of Iran bear the cost of this conflict through shrinking livelihoods.",
+        "time": "04:12",
+        "ts": 1791864755
       }
     ],
     "language": "en",
-    "packId": "20261013-10",
-    "sequence": 10,
+    "packId": "20261013-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:08"
+    "updatedAt": "04:13"
   },
   "verified": true
 }
