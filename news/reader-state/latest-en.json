@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-08 seq=8 exp=1792080911",
+      "advancedStatus": "pack_id=20261013-09 seq=9 exp=1792081479",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:15",
+      "lastChecked": "16:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 16:15",
+    "expiresAt": "2026-10-15 16:24",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The police in Sistan and Baluchestan denied an armed attack on a police station in Rask. However, videos released by an armed group indicate the attack occurred, though this has not been independently confirmed. Mehdi Nakhl Ahmadi states that attacks against government forces continue in Sistan and Baluchestan, and the government is creating security narratives to justify its failures.",
-        "time": "16:22",
-        "ts": 1791822165
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -357,14 +350,21 @@
         "text": "The Israeli Prime Minister stated during a visit to the West Bank border that the Israeli army is prepared for any scenario. He emphasized that the Israeli army will maintain control of the area and no Arab army will be stationed west of the Jordan River. Netanyahu also said that from the Jordan River to the sea, the land belongs to Israel and its control will remain with them.",
         "time": "16:14",
         "ts": 1791908093
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump stated that the Houthis, after a period of silence, have likely resumed their activities under Iran's orders and are attacking Saudi Arabia. He said the Houthis are trying to raise oil prices before the US elections. Trump also described Iran as a declining country with the worst economy in the world.",
+        "time": "16:24",
+        "ts": 1791908652
       }
     ],
     "language": "en",
-    "packId": "20261013-08",
-    "sequence": 8,
+    "packId": "20261013-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:15"
+    "updatedAt": "16:24"
   },
   "verified": true
 }
