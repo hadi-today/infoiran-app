@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-38 seq=38 exp=1792058544",
+      "advancedStatus": "pack_id=20261013-39 seq=39 exp=1792058694",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:02",
+      "lastChecked": "10:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 10:02",
+    "expiresAt": "2026-10-15 10:04",
     "items": [
       {
         "channel": "iranintl",
@@ -490,14 +490,21 @@
         "text": "Reza Sepahvand, spokesperson for the Energy Commission of the Parliament, stated that the US has intervened in the cryptocurrencies of the Islamic Republic and seized some amounts. He called the seizure theft and said the seized resources belonged to individuals, institutions, and the government. He also explained that the names of trusts are not disclosed to bypass sanctions and economic blockade.",
         "time": "10:01",
         "ts": 1791885672
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A retiree reported issues with supplementary insurance coverage. Basij forces are fully covered and present in the streets of Mashhad, setting up checkpoints. In Karaj, there are disputes about the amount of ration cards and the salaries of county employees.",
+        "time": "10:02",
+        "ts": 1791885765
       }
     ],
     "language": "en",
-    "packId": "20261013-38",
-    "sequence": 38,
+    "packId": "20261013-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:02"
+    "updatedAt": "10:04"
   },
   "verified": true
 }
