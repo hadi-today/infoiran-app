@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-06 seq=6 exp=1792080344",
+      "advancedStatus": "pack_id=20261013-07 seq=7 exp=1792080592",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:05",
+      "lastChecked": "16:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 16:05",
+    "expiresAt": "2026-10-15 16:09",
     "items": [
       {
         "channel": "iranintl",
@@ -357,14 +357,21 @@
         "text": "A citizen reported severe drug price increases in Iran in a video to Iran International. He said that to survive, one must not get sick because they cannot afford medicine. This issue has raised concerns about access to medication.",
         "time": "16:05",
         "ts": 1791907526
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Parviz Sarvari, deputy chairman of Tehran City Council, criticized Mohammad Javad Zarif and Hossein Marashi's stance on tactical retreat during the council meeting. He stated that retreat at this historical juncture means signing the document of Iran's destruction. Sarvari emphasized maintaining power and deterrence as key factors for the country's survival.",
+        "time": "16:09",
+        "ts": 1791907771
       }
     ],
     "language": "en",
-    "packId": "20261013-06",
-    "sequence": 6,
+    "packId": "20261013-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:05"
+    "updatedAt": "16:09"
   },
   "verified": true
 }
