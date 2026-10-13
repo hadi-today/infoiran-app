@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-43 seq=43 exp=1792062244",
+      "advancedStatus": "pack_id=20261013-44 seq=44 exp=1792062828",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:04",
+      "lastChecked": "11:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 11:04",
+    "expiresAt": "2026-10-15 11:13",
     "items": [
       {
         "channel": "iranintl",
@@ -525,14 +525,21 @@
         "text": "A group of retired telecommunications workers in Tehran gathered on Monday, October 12, to protest their livelihood problems in front of the Yeganeh telecommunications complex. They chanted the slogan \"Don't say we don't have it anymore, we are tired of this slogan.\" The protest highlights the retirees' livelihood issues.",
         "time": "11:01",
         "ts": 1791889301
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Benjamin Netanyahu is trying, with US mediation, to gain Saudi Arabia's approval for Israel's participation in military operations against the Houthis in Yemen. This was reported by Haaretz newspaper. More details are provided in an interview with Babak Es-haqi.",
+        "time": "11:13",
+        "ts": 1791889984
       }
     ],
     "language": "en",
-    "packId": "20261013-43",
-    "sequence": 43,
+    "packId": "20261013-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:04"
+    "updatedAt": "11:13"
   },
   "verified": true
 }
