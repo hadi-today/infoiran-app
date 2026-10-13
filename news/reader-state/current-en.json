@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-04 seq=4 exp=1792030530",
+      "advancedStatus": "pack_id=20261013-05 seq=5 exp=1792030876",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:15",
+      "lastChecked": "02:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 02:15",
+    "expiresAt": "2026-10-15 02:21",
     "items": [
       {
         "channel": "iranintl",
@@ -511,14 +511,21 @@
         "text": "Donald Trump stated that the Islamic Republic of Iran currently lacks a clear leader and senior officials, causing difficulties for the US in identifying negotiation counterparts. He said no one wants to be president of Iran and Washington does not know who to negotiate with. Trump also mentioned that the US may have overreacted in dealing with Iranian leaders.",
         "time": "02:14",
         "ts": 1791857685
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammed al-Bukhaiti from the Houthis warned that if the US intervenes in the aggression against Yemen, it will face a swift and painful response. He also warned workers at Saudi oil facilities and airports that these locations have become legitimate targets. These statements were made in an interview with Agence France-Presse.",
+        "time": "02:20",
+        "ts": 1791858036
       }
     ],
     "language": "en",
-    "packId": "20261013-04",
-    "sequence": 4,
+    "packId": "20261013-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:15"
+    "updatedAt": "02:21"
   },
   "verified": true
 }
