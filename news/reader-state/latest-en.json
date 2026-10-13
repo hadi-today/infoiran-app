@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-09 seq=9 exp=1792081479",
+      "advancedStatus": "pack_id=20261013-10 seq=10 exp=1792081904",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:24",
+      "lastChecked": "16:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 16:24",
+    "expiresAt": "2026-10-15 16:31",
     "items": [
       {
         "channel": "iranintl",
@@ -357,14 +357,21 @@
         "text": "Donald Trump stated that the Houthis, after a period of silence, have likely resumed their activities under Iran's orders and are attacking Saudi Arabia. He said the Houthis are trying to raise oil prices before the US elections. Trump also described Iran as a declining country with the worst economy in the world.",
         "time": "16:24",
         "ts": 1791908652
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "New research shows that reducing consumption of ultra-processed foods along with regular exercise reduces the risk of type 2 diabetes by up to 50 percent. This change also improves brain and mental health. Nutrition experts recommend gradually replacing packaged snacks with natural foods.",
+        "time": "16:31",
+        "ts": 1791909076
       }
     ],
     "language": "en",
-    "packId": "20261013-09",
-    "sequence": 9,
+    "packId": "20261013-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:24"
+    "updatedAt": "16:31"
   },
   "verified": true
 }
