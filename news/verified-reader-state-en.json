@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-63 seq=63 exp=1792071246",
+      "advancedStatus": "pack_id=20261013-64 seq=64 exp=1792071991",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:34",
+      "lastChecked": "13:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 13:34",
+    "expiresAt": "2026-10-15 13:46",
     "items": [
       {
         "channel": "iranintl",
@@ -686,14 +686,21 @@
         "text": "Hojatollah Abdolmaleki, the labor minister of Ebrahim Raisi's government, made statements about Iran's economic problems. These statements received widespread reactions on social media, with humorous and critical responses from the public. Adel Borang from Iran International reported on this issue.",
         "time": "13:30",
         "ts": 1791898207
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Yahya Sari, the military spokesperson for the Houthis, stated that Saudi Arabia's Aramco oil facilities are legitimate targets for the group. He urged employees and citizens to stay away from these facilities and evacuate areas around Aramco, King Khalid Airport, and Riyadh refinery if Saudi Arabia attacks. Previous warnings about airports and airspace were also reiterated.",
+        "time": "13:45",
+        "ts": 1791899125
       }
     ],
     "language": "en",
-    "packId": "20261013-63",
-    "sequence": 63,
+    "packId": "20261013-64",
+    "sequence": 64,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:34"
+    "updatedAt": "13:46"
   },
   "verified": true
 }
