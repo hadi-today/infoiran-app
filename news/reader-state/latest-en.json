@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-20 seq=20 exp=1792088412",
+      "advancedStatus": "pack_id=20261013-21 seq=21 exp=1792088771",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:20",
+      "lastChecked": "18:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 18:20",
+    "expiresAt": "2026-10-15 18:26",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Azad Rahmati, a citizen from Baneh, was released on Monday, October 12, after posting bail.",
-        "time": "18:20",
-        "ts": 1791829232
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Kaja Kallas described the Houthi attacks on Riyadh airport as horrific terrorist acts and said attacks on civilian infrastructure are unjustifiable. She emphasized the importance of escorting ships in the Red Sea and stated that the Aspides naval mission requires at least 10 ships. More than 60 countries have committed to opposing levies on international shipping routes.",
-        "time": "18:22",
-        "ts": 1791829350
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -308,14 +294,21 @@
         "text": "Mehdi Mahdavi-Azad described the joint statement of 30 countries against Iran's extraterritorial actions as a political warning. The statement emphasizes that any hostile action by Iran on their soil will face a strong response. Recent cases in the UK also highlight Western concerns about Iran's extraterritorial activities.",
         "time": "18:19",
         "ts": 1791915574
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Tehran has warned the region about ground attacks. Trump announced an imminent decision. These news were published in the audio version of Titrawal with Niusha Saremi.",
+        "time": "18:25",
+        "ts": 1791915908
       }
     ],
     "language": "en",
-    "packId": "20261013-20",
-    "sequence": 20,
+    "packId": "20261013-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:20"
+    "updatedAt": "18:26"
   },
   "verified": true
 }
