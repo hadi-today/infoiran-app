@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-50 seq=50 exp=1792066292",
+      "advancedStatus": "pack_id=20261013-51 seq=51 exp=1792066991",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:11",
+      "lastChecked": "12:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 12:11",
+    "expiresAt": "2026-10-15 12:23",
     "items": [
       {
         "channel": "iranintl",
@@ -574,14 +574,21 @@
         "text": "Friedrich Merz, the German Chancellor, warned the Islamic Republic officials and Houthis to end destabilizing actions in the region. He called for Tehran to return to the negotiating table and to permanently open the Strait of Hormuz. He also emphasized that Iran must stop its military nuclear program.",
         "time": "12:10",
         "ts": 1791893442
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Rwanda has signed a 10-year contract to host Formula One races called the Grand Prix of Africa starting in early 2030. The event will take place at the new Bugesera circuit near Kigali. The Formula One president called the deal historic, and Rwanda's president said it will boost economic development and tourism.",
+        "time": "12:22",
+        "ts": 1791894131
       }
     ],
     "language": "en",
-    "packId": "20261013-50",
-    "sequence": 50,
+    "packId": "20261013-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:11"
+    "updatedAt": "12:23"
   },
   "verified": true
 }
