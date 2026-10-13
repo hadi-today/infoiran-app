@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-28 seq=28 exp=1792052250",
+      "advancedStatus": "pack_id=20261013-29 seq=29 exp=1792052374",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:17",
+      "lastChecked": "08:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 08:17",
+    "expiresAt": "2026-10-15 08:19",
     "items": [
       {
         "channel": "iranintl",
@@ -490,14 +490,21 @@
         "text": "The execution sentence of a prisoner convicted of killing a traffic police officer was carried out in Minab prison. The sentence had been previously issued. The execution took place in Minab prison.",
         "time": "08:16",
         "ts": 1791879399
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fatemeh Mohajerani, the government spokesperson, stated that during the ongoing war, they sometimes have to reduce internet speed. This measure is due to the importance of databases and internet-based services. The reduction in internet speed is to protect the country's assets.",
+        "time": "08:18",
+        "ts": 1791879527
       }
     ],
     "language": "en",
-    "packId": "20261013-28",
-    "sequence": 28,
+    "packId": "20261013-29",
+    "sequence": 29,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:17"
+    "updatedAt": "08:19"
   },
   "verified": true
 }
