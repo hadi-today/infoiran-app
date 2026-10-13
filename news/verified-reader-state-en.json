@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-44 seq=44 exp=1792062828",
+      "advancedStatus": "pack_id=20261013-45 seq=45 exp=1792063384",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:13",
+      "lastChecked": "11:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 11:13",
+    "expiresAt": "2026-10-15 11:23",
     "items": [
       {
         "channel": "iranintl",
@@ -532,14 +532,21 @@
         "text": "Benjamin Netanyahu is trying, with US mediation, to gain Saudi Arabia's approval for Israel's participation in military operations against the Houthis in Yemen. This was reported by Haaretz newspaper. More details are provided in an interview with Babak Es-haqi.",
         "time": "11:13",
         "ts": 1791889984
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Michael Jordan's signed jersey from the Last Dance season was sold for $14 million, breaking the record for the most expensive basketball memorabilia. Jordan wore this jersey in the second game of the 1998 NBA Finals. The purchase was made by Ron Fairman in a private deal.",
+        "time": "11:22",
+        "ts": 1791890539
       }
     ],
     "language": "en",
-    "packId": "20261013-44",
-    "sequence": 44,
+    "packId": "20261013-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:13"
+    "updatedAt": "11:23"
   },
   "verified": true
 }
