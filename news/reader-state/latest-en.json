@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-84 seq=84 exp=1792095909",
+      "advancedStatus": "pack_id=20261013-85 seq=85 exp=1792096218",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:25",
+      "lastChecked": "20:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 20:25",
+    "expiresAt": "2026-10-15 20:30",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,21 @@
         "text": "The number of countries signing the statement about the Islamic Republic's role in the Farford base incident has increased to 34. This cooperation could be the beginning of a broader coalition against the Islamic Republic. British officials' tone regarding the role of the Revolutionary Guards in this case has become noticeably harsher.",
         "time": "20:24",
         "ts": 1791923065
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Amin Aghamiri stated that the Islamic Republic has several systems to cut off Starlink satellite terminals. He said Starlink is used in wars for command, drone guidance, and espionage, making it a potential military target. These remarks contrast with the deputy communications minister's claim that the only way to cut Starlink is to cut power to the entire region.",
+        "time": "20:29",
+        "ts": 1791923373
       }
     ],
     "language": "en",
-    "packId": "20261013-84",
-    "sequence": 84,
+    "packId": "20261013-85",
+    "sequence": 85,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:25"
+    "updatedAt": "20:30"
   },
   "verified": true
 }
