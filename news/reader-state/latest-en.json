@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-58 seq=58 exp=1792069541",
+      "advancedStatus": "pack_id=20261013-59 seq=59 exp=1792069902",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:05",
+      "lastChecked": "13:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 13:05",
+    "expiresAt": "2026-10-15 13:11",
     "items": [
       {
         "channel": "iranintl",
@@ -644,14 +644,21 @@
         "text": "Two Baloch human rights media reported the killing of several Fatimiyoun forces in clashes with armed individuals in the Chah Ahmad area of Taftan county. The clashes lasted more than seven hours, and military forces targeted the area with mortars and drones. Media affiliated with the IRGC also reported the killing of armed individuals, but exact casualty numbers remain unconfirmed.",
         "time": "13:04",
         "ts": 1791896696
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Fatemeh Mohajerani, the government spokesperson, announced that 40 million people are eligible for a 500,000 toman increase in electronic ration credit. These include low-income individuals and households supported by welfare organizations. Meanwhile, reports of disruptions in the household registration process have emerged.",
+        "time": "13:10",
+        "ts": 1791897051
       }
     ],
     "language": "en",
-    "packId": "20261013-58",
-    "sequence": 58,
+    "packId": "20261013-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:05"
+    "updatedAt": "13:11"
   },
   "verified": true
 }
