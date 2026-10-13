@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-05 seq=5 exp=1792079931",
+      "advancedStatus": "pack_id=20261013-06 seq=6 exp=1792080344",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:58",
+      "lastChecked": "16:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 15:58",
+    "expiresAt": "2026-10-15 16:05",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Human rights activists welcomed the swift removal of the 'Adam and Eve' app by Google and Meta. The app introduced 13-year-old girls as marriage options. Google removed the app on October 9 due to policy violations.",
-        "time": "15:59",
-        "ts": 1791820748
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The UK Foreign Office released a joint statement from 29 countries including the US regarding Iran's role in the incident at the Fairford airbase. The statement condemns Iran's violent actions and confirms the IRGC's readiness for hostile activities abroad. It also references recent attacks in Europe and emphasizes legal prosecution.",
-        "time": "16:01",
-        "ts": 1791820910
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -364,14 +350,21 @@
         "text": "Today, victims of the Etimad Iranian Credit Cooperative and Fajr Bahman Company gathered in front of Mashhad court. They demanded resolution of financial cases and the return of their assets. The protesters also called for speeding up the case review process.",
         "time": "15:57",
         "ts": 1791907032
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen reported severe drug price increases in Iran in a video to Iran International. He said that to survive, one must not get sick because they cannot afford medicine. This issue has raised concerns about access to medication.",
+        "time": "16:05",
+        "ts": 1791907526
       }
     ],
     "language": "en",
-    "packId": "20261013-05",
-    "sequence": 5,
+    "packId": "20261013-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:58"
+    "updatedAt": "16:05"
   },
   "verified": true
 }
