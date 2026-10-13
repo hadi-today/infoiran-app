@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-90 seq=90 exp=1792099508",
+      "advancedStatus": "pack_id=20261013-91 seq=91 exp=1792100061",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:25",
+      "lastChecked": "21:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 21:25",
+    "expiresAt": "2026-10-15 21:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mukhtar Alboshoka, an Ahwazi Arab political prisoner, is in critical condition on the eighth day of his hunger strike. He has been transferred to Arak prison and has not yet been returned to Sheiban prison. The Karun Human Rights Organization has warned about the risk to his life.",
-        "time": "21:32",
-        "ts": 1791840725
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -805,14 +798,21 @@
         "text": "The US Central Command rejected the claim by the IRGC Navy commander about controlling the Strait of Hormuz. CENTCOM stated that US forces and regional partners clearly control the strait. It also mentioned that the US helped Gulf countries in transporting crude oil through the strait.",
         "time": "21:24",
         "ts": 1791926664
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of political prisoners in various prisons of the Islamic Republic sent a message on the birthday of Empress Farah Pahlavi, calling her a symbol of Iranian culture and art. They expressed hope that one day her birthday celebration will be held in a free and prosperous Iran.",
+        "time": "21:33",
+        "ts": 1791927219
       }
     ],
     "language": "en",
-    "packId": "20261013-90",
-    "sequence": 90,
+    "packId": "20261013-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:25"
+    "updatedAt": "21:34"
   },
   "verified": true
 }
