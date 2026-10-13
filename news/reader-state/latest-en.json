@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261013-23 seq=23 exp=1792089397",
+      "advancedStatus": "pack_id=20261013-24 seq=24 exp=1792090531",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:36",
+      "lastChecked": "18:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-13",
-    "expiresAt": "2026-10-15 18:36",
+    "expiresAt": "2026-10-15 18:55",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Two Afghan workers died from gas poisoning while digging a well in Tel-Gohak village, Kazeroon. Their bodies were recovered after 15 hours of firefighting operations from a depth of 80 meters.",
-        "time": "18:40",
-        "ts": 1791830414
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Kazem Gharibabadi stated that Iran is finalizing its response and will announce its final position after completing consultations. He also said Iran's readiness to defend itself is not less than its readiness to negotiate. Gharibabadi added that the US has violated its commitments under the Islamabad agreement.",
-        "time": "18:41",
-        "ts": 1791830460
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -315,14 +301,21 @@
         "text": "Mohammad Reza Naqdi stated that American commanders have not even considered a preliminary ground attack on Iran because they lack the capability. He added that if the US launches a ground attack, it will suffer heavy losses and be forced to surrender. Naqdi also said that the American fleet has been wandering for seven months and has fled from starting a war.",
         "time": "18:31",
         "ts": 1791916317
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Vortexa group reported that the US blockade reduced Iran's maritime crude oil exports to zero in October. Iran's oil exports were about 230,000 barrels per day at the beginning of September, dropping to zero in the second week and remaining unchanged until October 5. Additionally, Iran's liquefied gas exports decreased by 48 percent.",
+        "time": "18:54",
+        "ts": 1791917698
       }
     ],
     "language": "en",
-    "packId": "20261013-23",
-    "sequence": 23,
+    "packId": "20261013-24",
+    "sequence": 24,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:36"
+    "updatedAt": "18:55"
   },
   "verified": true
 }
