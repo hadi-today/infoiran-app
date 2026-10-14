@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-29 seq=29 exp=1792184596",
+      "advancedStatus": "pack_id=20261014-30 seq=30 exp=1792184688",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:03",
+      "lastChecked": "21:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 21:03",
+    "expiresAt": "2026-10-16 21:04",
     "items": [
       {
         "channel": "iranintl",
@@ -322,14 +322,21 @@
         "text": "A citizen reported in a video to Iran International that they bought a small cake the size of a palm for 70,000 tomans. They also mentioned that the corner of the cake was moldy. This highlights the issue of rising prices and product quality.",
         "time": "21:02",
         "ts": 1792011753
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Real Madrid defeated AS Roma 4-3 in the second week of the UEFA Champions League. Goals for Real were scored by Mbappe, Spie, Andric, and Rudiger. Real was trailing 3-1 until the 84th minute but equalized and then won in the last five minutes.",
+        "time": "21:03",
+        "ts": 1792011798
       }
     ],
     "language": "en",
-    "packId": "20261014-29",
-    "sequence": 29,
+    "packId": "20261014-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:03"
+    "updatedAt": "21:04"
   },
   "verified": true
 }
