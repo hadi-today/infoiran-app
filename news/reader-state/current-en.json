@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-78 seq=78 exp=1792173469",
+      "advancedStatus": "pack_id=20261014-79 seq=79 exp=1792173977",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:57",
+      "lastChecked": "18:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 17:57",
+    "expiresAt": "2026-10-16 18:06",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Iran's Foreign Ministry summoned the British ambassador over allegations of Iran's involvement in the incident at the Fairford airbase. The director-general of Western Europe at the Foreign Ministry denied the accusation and requested evidence. The number of countries signing a joint statement on Iran's role in the incident has increased to 34.",
-        "time": "17:59",
-        "ts": 1791914358
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -777,14 +770,21 @@
         "text": "Iraqi Prime Minister Ali Al-Zaidi emphasized in a meeting with Mohammed bin Salman that Iraq will not allow its territory to be used for attacks against Saudi Arabia or other regional countries. He also condemned the attack on King Khalid International Airport and harm to civilians. This meeting followed a drone attack on a Saudi oil pipeline, which Iraq acknowledged responsibility for after investigations.",
         "time": "17:56",
         "ts": 1792000560
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Emmanuel Macron, the President of France, will travel to Kuwait, the UAE, Bahrain, and Qatar from October 19 to 21. He will meet with the leaders of these countries during his visit. The discussions will focus on the situation in the Strait of Hormuz and its impact on energy prices.",
+        "time": "18:05",
+        "ts": 1792001138
       }
     ],
     "language": "en",
-    "packId": "20261014-78",
-    "sequence": 78,
+    "packId": "20261014-79",
+    "sequence": 79,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:57"
+    "updatedAt": "18:06"
   },
   "verified": true
 }
