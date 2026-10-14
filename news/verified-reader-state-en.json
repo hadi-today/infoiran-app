@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-30 seq=30 exp=1792150439",
+      "advancedStatus": "pack_id=20261014-31 seq=31 exp=1792150945",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:33",
+      "lastChecked": "11:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 11:33",
+    "expiresAt": "2026-10-16 11:42",
     "items": [
       {
         "channel": "iranintl",
@@ -553,14 +553,28 @@
         "text": "The Telegraph newspaper criticized the mild reaction of the British Prime Minister to the threats from the Islamic Republic. The newspaper described Britain's response to threats against the Fairford base as weak and ineffective. An interview with Tajeddin Soroush was conducted by Iran International.",
         "time": "11:33",
         "ts": 1791977604
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "State media reported the killing of two members of the Islamic Republic's military forces in armed attacks in Mehrestan county. Afsaneh Aghila, commander of one of the women's Basij units, was shot and killed in front of her home. This incident took place in southern Sistan and Baluchestan.",
+        "time": "11:41",
+        "ts": 1791978113
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Videos have been released showing the burial site of Alireza Raeisi, a 21-year-old executed protester. Local people found his burial site in the deserts of Anarak, Isfahan province, and informed his family. Security forces did not disclose the exact burial location to the family.",
+        "time": "11:41",
+        "ts": 1791978119
       }
     ],
     "language": "en",
-    "packId": "20261014-30",
-    "sequence": 30,
+    "packId": "20261014-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:33"
+    "updatedAt": "11:42"
   },
   "verified": true
 }
