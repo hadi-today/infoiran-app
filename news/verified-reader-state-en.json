@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-01 seq=1 exp=1792110855",
+      "advancedStatus": "pack_id=20261014-02 seq=2 exp=1792111133",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:34",
+      "lastChecked": "00:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 00:34",
+    "expiresAt": "2026-10-16 00:38",
     "items": [
       {
         "channel": "iranintl",
@@ -315,14 +315,21 @@
         "text": "A video on social media shows Meysam Zarei's son taking his sports championship cup to his father's grave and talking to him. Meysam Zarei, 39 years old, was killed on January 9, 2026, in Rasht. This event has attracted the attention of users.",
         "time": "00:33",
         "ts": 1791938036
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Egypt has announced its readiness to provide any assistance to Saudi Arabia. Analysts doubt whether Egypt's direct involvement can stop the Houthi attacks. The US remains uncertain about entering the conflict but supports the Saudi-led coalition.",
+        "time": "00:34",
+        "ts": 1791938077
       }
     ],
     "language": "en",
-    "packId": "20261014-01",
-    "sequence": 1,
+    "packId": "20261014-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:34"
+    "updatedAt": "00:38"
   },
   "verified": true
 }
