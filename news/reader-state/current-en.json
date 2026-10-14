@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-08 seq=8 exp=1792122765",
+      "advancedStatus": "pack_id=20261014-09 seq=9 exp=1792123039",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:52",
+      "lastChecked": "03:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 03:52",
+    "expiresAt": "2026-10-16 03:57",
     "items": [
       {
         "channel": "iranintl",
@@ -371,14 +371,21 @@
         "text": "Reza Arab, a political analyst, says that after the recent war, the US is pursuing economic and military pressure on the Islamic Republic. The US aims to weaken the air capabilities and regional leverage of the Islamic Republic. These measures are preparing for a new round of pressures.",
         "time": "03:48",
         "ts": 1791949727
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Vatican announced that Pope Leo was diagnosed with lung cancer after surgery to remove part of his right lung. Doctors removed the lower part of his right lung to eliminate cancerous tissue, and he is resting in the hospital. His public engagements are canceled until October 20, and his trip to South America is uncertain.",
+        "time": "03:55",
+        "ts": 1791950151
       }
     ],
     "language": "en",
-    "packId": "20261014-08",
-    "sequence": 8,
+    "packId": "20261014-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:52"
+    "updatedAt": "03:57"
   },
   "verified": true
 }
