@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-34 seq=34 exp=1792187066",
+      "advancedStatus": "pack_id=20261014-35 seq=35 exp=1792187344",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:44",
+      "lastChecked": "21:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 21:44",
+    "expiresAt": "2026-10-16 21:49",
     "items": [
       {
         "channel": "iranintl",
@@ -322,14 +322,21 @@
         "text": "Morad Veisi discussed new statements by the head of Tehran's emergency services about the bombing of Khamenei's office and the condition of Mojtaba Khamenei. These statements have raised doubts and speculations about whether Mojtaba is alive or dead. Questions have been raised about his physical condition and whereabouts.",
         "time": "21:43",
         "ts": 1792014224
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "US forces destroyed a dhow linked to the Islamic Republic in the Sea of Oman on Tuesday, October 6. According to the US, the dhow was engaged in identifying and targeting US Navy ships, and its crew was safely evacuated before its destruction. The US also accused the IRGC of targeting thousands of civilian mariners and US Navy warships in the region over the past seven months.",
+        "time": "21:48",
+        "ts": 1792014501
       }
     ],
     "language": "en",
-    "packId": "20261014-34",
-    "sequence": 34,
+    "packId": "20261014-35",
+    "sequence": 35,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:44"
+    "updatedAt": "21:49"
   },
   "verified": true
 }
