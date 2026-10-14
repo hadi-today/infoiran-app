@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-12 seq=12 exp=1792123964",
+      "advancedStatus": "pack_id=20261014-13 seq=13 exp=1792124443",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:12",
+      "lastChecked": "04:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 04:12",
+    "expiresAt": "2026-10-16 04:20",
     "items": [
       {
         "channel": "iranintl",
@@ -399,14 +399,21 @@
         "text": "The film \"The Friend's House is Here\" depicts the lives of young Iranian artists working under restrictions. A version of the film was secretly taken out of Iran and won an award at the Sundance Festival in the USA. The film was screened at the London Film Festival.",
         "time": "04:12",
         "ts": 1791951149
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shahram Khaledi says the Islamic Republic increasingly uses historical and national symbols of Iran. This change occurs as the revolutionary ideology of the regime no longer has its former mobilizing power. This indicates a shift in the regime's methods of mobilizing its forces.",
+        "time": "04:20",
+        "ts": 1791951625
       }
     ],
     "language": "en",
-    "packId": "20261014-12",
-    "sequence": 12,
+    "packId": "20261014-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:12"
+    "updatedAt": "04:20"
   },
   "verified": true
 }
