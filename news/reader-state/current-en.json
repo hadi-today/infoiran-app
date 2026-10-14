@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-06 seq=6 exp=1792136968",
+      "advancedStatus": "pack_id=20261014-07 seq=7 exp=1792137169",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:49",
+      "lastChecked": "07:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 07:49",
+    "expiresAt": "2026-10-16 07:52",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Amir Ghalenoei explained the status of the national football team and the football federation board meeting in a televised interview. He criticized the lack of questions from board members and denied promising a championship. Ghalenoei also stated that he adheres to disciplinary and technical principles regarding the exclusion of Mehdi Qaedi from the national team.",
-        "time": "07:49",
-        "ts": 1791877753
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -609,14 +602,21 @@
         "text": "Alisina Mostafavi, a prisoner accused of waging war, was executed in Kerman. The sentence was carried out after confirmation by the Supreme Court. The execution took place on Wednesday, October 14.",
         "time": "07:48",
         "ts": 1791964110
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Vatican announced that the surgery of Pope Leo XIV was successful. Examination of lung tissues confirmed his lung cancer diagnosis. The Pope regained consciousness after the operation and returned to his room.",
+        "time": "07:52",
+        "ts": 1791964327
       }
     ],
     "language": "en",
-    "packId": "20261014-06",
-    "sequence": 6,
+    "packId": "20261014-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:49"
+    "updatedAt": "07:52"
   },
   "verified": true
 }
