@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-38 seq=38 exp=1792189410",
+      "advancedStatus": "pack_id=20261014-39 seq=39 exp=1792189654",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:23",
+      "lastChecked": "22:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 22:23",
+    "expiresAt": "2026-10-16 22:27",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A ballistic missile struck the administrative tower of the Aramco complex in Dhahran, Saudi Arabia. The top three floors of the tower were damaged and a fire broke out. Aramco has not yet issued an official response to the incident.",
-        "time": "22:26",
-        "ts": 1791930362
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -343,14 +336,21 @@
         "text": "Amir Giti said the Islamic Republic hopes that a Democratic victory in the US midterm elections would reduce pressure. However, the experience of the Biden administration shows that Democratic policies towards Tehran can also be tough. He added that even if Democrats take control of Congress, US foreign policy towards Iran will not necessarily change.",
         "time": "22:22",
         "ts": 1792016565
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Moslehi stated that despite attacks on several ships in the past 24 hours, Brent oil prices increased by only about 38 cents. He said the market's reaction to the tensions was less than the Islamic Republic expected. Moslehi also emphasized that the Islamic Republic cannot raise oil prices to its desired level by threatening the Strait of Hormuz.",
+        "time": "22:26",
+        "ts": 1792016811
       }
     ],
     "language": "en",
-    "packId": "20261014-38",
-    "sequence": 38,
+    "packId": "20261014-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:23"
+    "updatedAt": "22:27"
   },
   "verified": true
 }
