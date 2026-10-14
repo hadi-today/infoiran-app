@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-11 seq=11 exp=1792123567",
+      "advancedStatus": "pack_id=20261014-12 seq=12 exp=1792123964",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:06",
+      "lastChecked": "04:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 04:06",
+    "expiresAt": "2026-10-16 04:12",
     "items": [
       {
         "channel": "iranintl",
@@ -392,14 +392,21 @@
         "text": "Masoud Nourmohammadi stated that Taraneh Rahimi, a twin prisoner in Isfahan, has been deprived of food by prison authorities. This action was taken in response to her family's information dissemination outside Iran. Taraneh Rahimi has been sentenced to death.",
         "time": "04:02",
         "ts": 1791950545
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The film \"The Friend's House is Here\" depicts the lives of young Iranian artists working under restrictions. A version of the film was secretly taken out of Iran and won an award at the Sundance Festival in the USA. The film was screened at the London Film Festival.",
+        "time": "04:12",
+        "ts": 1791951149
       }
     ],
     "language": "en",
-    "packId": "20261014-11",
-    "sequence": 11,
+    "packId": "20261014-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:06"
+    "updatedAt": "04:12"
   },
   "verified": true
 }
