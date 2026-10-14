@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-65 seq=65 exp=1792167875",
+      "advancedStatus": "pack_id=20261014-67 seq=67 exp=1792168524",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:24",
+      "lastChecked": "16:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 16:24",
+    "expiresAt": "2026-10-16 16:35",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump stated that the Houthis, after a period of silence, have likely resumed their activities under Iran's orders and are attacking Saudi Arabia. He said the Houthis are trying to raise oil prices before the US elections. Trump also described Iran as a declining country with the worst economy in the world.",
-        "time": "16:24",
-        "ts": 1791908652
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "New research shows that reducing consumption of ultra-processed foods along with regular exercise reduces the risk of type 2 diabetes by up to 50 percent. This change also improves brain and mental health. Nutrition experts recommend gradually replacing packaged snacks with natural foods.",
-        "time": "16:31",
-        "ts": 1791909076
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -735,14 +721,28 @@
         "text": "An Iranian citizen sent a video to Iran International congratulating Empress Farah Pahlavi's birthday. He invited Iranians abroad to attend an event in Frankfurt on November 7. This day coincides with the awarding of the German Freedom Prize to Prince Reza Pahlavi.",
         "time": "16:23",
         "ts": 1791995021
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Branch 15 of Tehran Revolutionary Court has reissued the death sentence for political prisoner Varisheh Moradi. Her lawyers stated that the Supreme Court investigations have not been conducted. Moradi was sentenced on charges of membership in a rebellious group.",
+        "time": "16:28",
+        "ts": 1791995323
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Saeed Golsorkhi's mother joined the '9 apples, 9 months of separation' campaign. She said one apple is in memory of her son who was killed on January 12, 2026, in Shahroud. Saeed Golsorkhi was killed by officers at the age of 31.",
+        "time": "16:32",
+        "ts": 1791995564
       }
     ],
     "language": "en",
-    "packId": "20261014-65",
-    "sequence": 65,
+    "packId": "20261014-67",
+    "sequence": 67,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:24"
+    "updatedAt": "16:35"
   },
   "verified": true
 }
