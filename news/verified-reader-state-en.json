@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-15 seq=15 exp=1792139578",
+      "advancedStatus": "pack_id=20261014-16 seq=16 exp=1792140278",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:32",
+      "lastChecked": "08:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 08:32",
+    "expiresAt": "2026-10-16 08:44",
     "items": [
       {
         "channel": "iranintl",
@@ -644,14 +644,21 @@
         "text": "A video on social media shows Alireza Sepahi's sister mourning at his grave in Kashan at night. Alireza Sepahi was the accused in the Ali Khani Square case in Isfahan. He was executed early morning on Tuesday, October 5, at Dastgerd prison in Isfahan.",
         "time": "08:32",
         "ts": 1791966734
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The human rights group Hal-Wash released a video on Tuesday, October 13, showing the flight path of a missile in the sky over Dashtiari, Chabahar. Local witnesses confirmed the missile was fired from military positions around Chabahar. The video was published alongside reports of extensive movement of weapons, drones, and missiles by the Islamic Republic and escalating clashes in Sistan and Baluchestan province.",
+        "time": "08:43",
+        "ts": 1791967425
       }
     ],
     "language": "en",
-    "packId": "20261014-15",
-    "sequence": 15,
+    "packId": "20261014-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:32"
+    "updatedAt": "08:44"
   },
   "verified": true
 }
