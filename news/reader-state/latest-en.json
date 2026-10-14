@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-14 seq=14 exp=1792125082",
+      "advancedStatus": "pack_id=20261014-15 seq=15 exp=1792125349",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:31",
+      "lastChecked": "04:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 04:31",
+    "expiresAt": "2026-10-16 04:35",
     "items": [
       {
         "channel": "iranintl",
@@ -413,14 +413,21 @@
         "text": "Navid Mohibi says the Islamic Republic and Houthis are escalating tensions to pressure Washington and Riyadh. He mentioned the possibility of intensified conflicts. The US and Israel may deliver severe blows to the Islamic Republic.",
         "time": "04:30",
         "ts": 1791952259
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump announced that extensive exploration of oil, gas, and minerals in Greenland will soon begin. He stated that the island's oil reserves are greater than many other regions in the world. Trump also emphasized Greenland's strategic and defensive importance for the US and Europe.",
+        "time": "04:33",
+        "ts": 1791952402
       }
     ],
     "language": "en",
-    "packId": "20261014-14",
-    "sequence": 14,
+    "packId": "20261014-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:31"
+    "updatedAt": "04:35"
   },
   "verified": true
 }
