@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-44 seq=44 exp=1792156913",
+      "advancedStatus": "pack_id=20261014-45 seq=45 exp=1792157153",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:21",
+      "lastChecked": "13:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 13:21",
+    "expiresAt": "2026-10-16 13:25",
     "items": [
       {
         "channel": "iranintl",
@@ -672,14 +672,21 @@
         "text": "The executive deputy of Pezeshkian, referring to the scope of sanctions and the US naval blockade, stated that it must be assumed that oil can no longer be sold and the economy must be run without oil.",
         "time": "13:20",
         "ts": 1791984010
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Shirazi stated that hardline supporters of Khamenei have targeted Hassan Rouhani due to his government's negotiations with the US. They consider Rouhani as a possible option for compromise with Washington. This issue was raised at a gathering of regime supporters.",
+        "time": "13:23",
+        "ts": 1791984184
       }
     ],
     "language": "en",
-    "packId": "20261014-44",
-    "sequence": 44,
+    "packId": "20261014-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:21"
+    "updatedAt": "13:25"
   },
   "verified": true
 }
