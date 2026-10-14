@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-20 seq=20 exp=1792179216",
+      "advancedStatus": "pack_id=20261014-21 seq=21 exp=1792179316",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:33",
+      "lastChecked": "19:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 19:33",
+    "expiresAt": "2026-10-16 19:35",
     "items": [
       {
         "channel": "iranintl",
@@ -322,14 +322,21 @@
         "text": "An audio version of Cheshmandaz has been released about the countdown to a renewed attack by the US and Israel.",
         "time": "19:32",
         "ts": 1792006370
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Asiyeh Ramazani's daughter said in a video that her mother was killed on January 9, 2026, in Tehran during a protest. The killer did not dare to look into her eyes and shot her from behind. These statements were shared on social media.",
+        "time": "19:34",
+        "ts": 1792006446
       }
     ],
     "language": "en",
-    "packId": "20261014-20",
-    "sequence": 20,
+    "packId": "20261014-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:33"
+    "updatedAt": "19:35"
   },
   "verified": true
 }
