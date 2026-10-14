@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-03 seq=3 exp=1792136387",
+      "advancedStatus": "pack_id=20261014-04 seq=4 exp=1792136757",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:39",
+      "lastChecked": "07:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 07:39",
+    "expiresAt": "2026-10-16 07:45",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Foreign ministers of 32 countries led by the UK condemned cyberattacks, sabotage, and violent actions attributed to the Islamic Republic abroad. They supported London's assessment of the IRGC's role in a possible bombing plot at the Ferford base. This news was reported by Alireza Mohibi.",
-        "time": "07:40",
-        "ts": 1791877223
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Morteza Kazemian says Trump's remarks about targeting leaders of the Islamic Republic are threats and humiliation, indicating Washington seeks a diplomatic agreement with Tehran. The Islamic Republic is simultaneously strengthening its military and security capabilities. These measures aim to counter internal protests and prevent widespread social uprisings.",
-        "time": "07:44",
-        "ts": 1791877493
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -609,14 +595,21 @@
         "text": "The judiciary of the Islamic Republic executed the death sentence of political prisoner Ali-Sina Mostafavi. He was accused of two shootings in Kerman and was also present in the protests of December 2025. Reports indicate that forced confessions were obtained from Mostafavi.",
         "time": "07:38",
         "ts": 1791963496
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Tasnim news agency reported that a drone attack on a fishing boat near Sirik injured three people. Tasnim stated that the attack was carried out by the United States. The exact details of the incident have not yet been officially announced.",
+        "time": "07:45",
+        "ts": 1791963917
       }
     ],
     "language": "en",
-    "packId": "20261014-03",
-    "sequence": 3,
+    "packId": "20261014-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:39"
+    "updatedAt": "07:45"
   },
   "verified": true
 }
