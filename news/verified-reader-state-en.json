@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-39 seq=39 exp=1792189654",
+      "advancedStatus": "pack_id=20261014-40 seq=40 exp=1792189827",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:27",
+      "lastChecked": "22:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 22:27",
+    "expiresAt": "2026-10-16 22:30",
     "items": [
       {
         "channel": "iranintl",
@@ -343,14 +343,21 @@
         "text": "Mehdi Moslehi stated that despite attacks on several ships in the past 24 hours, Brent oil prices increased by only about 38 cents. He said the market's reaction to the tensions was less than the Islamic Republic expected. Moslehi also emphasized that the Islamic Republic cannot raise oil prices to its desired level by threatening the Strait of Hormuz.",
         "time": "22:26",
         "ts": 1792016811
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The head of Hezbollah's executive council in Lebanon announced that the group will provide cash assistance to families affected by the war. Reuters reported that Hezbollah received 200 million dollars from the Islamic Republic to aid war victims in Lebanon. Informed sources said intermediaries charged a 20% commission for transferring the money.",
+        "time": "22:29",
+        "ts": 1792016983
       }
     ],
     "language": "en",
-    "packId": "20261014-39",
-    "sequence": 39,
+    "packId": "20261014-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:27"
+    "updatedAt": "22:30"
   },
   "verified": true
 }
