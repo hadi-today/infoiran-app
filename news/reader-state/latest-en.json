@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-06 seq=6 exp=1792122203",
+      "advancedStatus": "pack_id=20261014-07 seq=7 exp=1792122478",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:43",
+      "lastChecked": "03:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 03:43",
+    "expiresAt": "2026-10-16 03:47",
     "items": [
       {
         "channel": "iranintl",
@@ -350,14 +350,28 @@
         "text": "The Institute for the Study of War stated that Iran is targeting commercial ships in the Strait of Hormuz and surrounding areas to disrupt energy transfer. Tehran has increased its threats against ships and aims to strengthen control over this waterway. It is also likely that Iran is developing its anti-ship missile capabilities.",
         "time": "03:43",
         "ts": 1791949382
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump has recently referred to Iran and the end of war in his speeches. He spoke about the military achievements of the US and emphasized that the military option in Washington has become more serious. Kambiz Tavana interpreted this as a sign of the increasing seriousness of the military option.",
+        "time": "03:45",
+        "ts": 1791949547
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Eyal Zamir, Chief of Staff of the Israeli Army, pledged to implement the lessons of the October 7 attack and strengthen the army. He emphasized the need to update the security doctrine and preemptively destroy enemy capabilities. Zamir also stressed increasing troop numbers and preventing future threats against Israel.",
+        "time": "03:47",
+        "ts": 1791949625
       }
     ],
     "language": "en",
-    "packId": "20261014-06",
-    "sequence": 6,
+    "packId": "20261014-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:43"
+    "updatedAt": "03:47"
   },
   "verified": true
 }
