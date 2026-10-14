@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-52 seq=52 exp=1792161548",
+      "advancedStatus": "pack_id=20261014-53 seq=53 exp=1792161913",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:39",
+      "lastChecked": "14:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 14:39",
+    "expiresAt": "2026-10-16 14:45",
     "items": [
       {
         "channel": "iranintl",
@@ -693,14 +693,21 @@
         "text": "Tehran is experiencing severe GPS service disruptions, making it difficult for Snapp drivers to work. People complain about increased economic restrictions and difficulties in receiving salaries and unemployment insurance. Additionally, in Ardabil, faculty members of Mohaghegh University left classes, leaving students without classes.",
         "time": "14:37",
         "ts": 1791988672
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Eyal Zamir, Chief of Staff of the Israeli army, stated that the army is highly prepared to launch a broad offensive operation against any party targeting Israeli citizens. He mentioned increased security alerts and the likelihood of intensified clashes. Israeli forces are ready to counter surprise attacks, and the 98th Division has been deployed in the West Bank.",
+        "time": "14:44",
+        "ts": 1791989079
       }
     ],
     "language": "en",
-    "packId": "20261014-52",
-    "sequence": 52,
+    "packId": "20261014-53",
+    "sequence": 53,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:39"
+    "updatedAt": "14:45"
   },
   "verified": true
 }
