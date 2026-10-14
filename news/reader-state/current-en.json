@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-68 seq=68 exp=1792168844",
+      "advancedStatus": "pack_id=20261014-69 seq=69 exp=1792169884",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:40",
+      "lastChecked": "16:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 16:40",
+    "expiresAt": "2026-10-16 16:58",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Milad Balsini, a Turk activist, has been detained for 57 days after being summoned to Branch 15 of the Tabriz Public and Revolutionary Prosecutor's Office. There is still no information about his place of detention or the status of his case. This has been confirmed by a source close to Balsini's family.",
-        "time": "16:53",
-        "ts": 1791910430
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Moheydi Azad, the Attorney General, announced that all judicial units have been instructed to monitor lawyers' adherence to hijab. In case of violation, disciplinary action and disqualification of lawyers will be pursued. Lawyers are also required to warn individuals who violate the rules.",
-        "time": "16:54",
-        "ts": 1791910447
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -742,14 +728,21 @@
         "text": "Volodymyr Zelensky said it is painful when Donald Trump takes a side other than Ukraine in the Ukraine-Russia war. These remarks came after Trump said Zelensky should be replaced. Zelensky also stated that if Trump is in the middle, he should stay in the middle.",
         "time": "16:40",
         "ts": 1791996017
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The deputy police commander announced that efforts to combat arms and ammunition smuggling at all borders are being pursued seriously. He urged those who have unknowingly acquired weapons to voluntarily surrender them. This measure aims to prevent potential issues and police monitoring.",
+        "time": "16:57",
+        "ts": 1791997060
       }
     ],
     "language": "en",
-    "packId": "20261014-68",
-    "sequence": 68,
+    "packId": "20261014-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:40"
+    "updatedAt": "16:58"
   },
   "verified": true
 }
