@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-50 seq=50 exp=1792161014",
+      "advancedStatus": "pack_id=20261014-51 seq=51 exp=1792161271",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:30",
+      "lastChecked": "14:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 14:30",
+    "expiresAt": "2026-10-16 14:34",
     "items": [
       {
         "channel": "iranintl",
@@ -665,14 +665,21 @@
         "text": "Mohammad Jafar Qaempanah, executive deputy of Masoud Pezeshkian, stated in a meeting in Tabriz that there are two views on negotiation, but the system does not accept this dichotomy. Final decisions on important issues, including missile strikes and negotiations, are made by the Supreme National Security Council and the Supreme Leader. He emphasized that missiles will be launched if ordered by the leader, and negotiations will occur if deemed appropriate.",
         "time": "14:29",
         "ts": 1791988180
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A legal case has been filed against Saeed Shakiba, a blogger and satirist, in Tehran's prosecutor's office. The case concerns a humorous video mimicking the voice of Ayatollah Ali Khamenei, the second leader of the Islamic Republic, accused of being insulting. The case is based on the publication of offensive and abusive content.",
+        "time": "14:34",
+        "ts": 1791988445
       }
     ],
     "language": "en",
-    "packId": "20261014-50",
-    "sequence": 50,
+    "packId": "20261014-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:30"
+    "updatedAt": "14:34"
   },
   "verified": true
 }
