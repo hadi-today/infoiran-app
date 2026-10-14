@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-24 seq=24 exp=1792180597",
+      "advancedStatus": "pack_id=20261014-25 seq=25 exp=1792181249",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:56",
+      "lastChecked": "20:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 19:56",
+    "expiresAt": "2026-10-16 20:07",
     "items": [
       {
         "channel": "iranintl",
@@ -350,14 +350,21 @@
         "text": "CENTCOM announced that US forces destroyed a boat linked to the Islamic Republic on October 6 in the Sea of Oman. The crew safely exited the boat before its destruction, and efforts to return them continue. The IRGC has targeted thousands of civilian mariners in the region over the past seven months.",
         "time": "19:55",
         "ts": 1792007753
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Pep Guardiola went to the Etihad Stadium on Wednesday to watch Manchester City's match against Paris Saint-Germain in the Champions League. It was City's first home game since the club was found guilty of breaching financial regulations. Guardiola sat in the directors' box alongside Khaldoon Al Mubarak and Nasser Al-Khelaifi.",
+        "time": "20:06",
+        "ts": 1792008406
       }
     ],
     "language": "en",
-    "packId": "20261014-24",
-    "sequence": 24,
+    "packId": "20261014-25",
+    "sequence": 25,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:56"
+    "updatedAt": "20:07"
   },
   "verified": true
 }
