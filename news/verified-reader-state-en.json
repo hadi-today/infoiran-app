@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-10 seq=10 exp=1792123301",
+      "advancedStatus": "pack_id=20261014-11 seq=11 exp=1792123567",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:01",
+      "lastChecked": "04:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 04:01",
+    "expiresAt": "2026-10-16 04:06",
     "items": [
       {
         "channel": "iranintl",
@@ -385,14 +385,21 @@
         "text": "Shayan Samiei reported the reconstruction of the assassination structure in the IRGC and the reuse of old figures. He sees this trend as a sign of the shrinking circle of trust in the Islamic Republic's leadership. He also emphasized that the regime still considers assassination of opponents as a tool for repression.",
         "time": "03:57",
         "ts": 1791950255
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Masoud Nourmohammadi stated that Taraneh Rahimi, a twin prisoner in Isfahan, has been deprived of food by prison authorities. This action was taken in response to her family's information dissemination outside Iran. Taraneh Rahimi has been sentenced to death.",
+        "time": "04:02",
+        "ts": 1791950545
       }
     ],
     "language": "en",
-    "packId": "20261014-10",
-    "sequence": 10,
+    "packId": "20261014-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:01"
+    "updatedAt": "04:06"
   },
   "verified": true
 }
