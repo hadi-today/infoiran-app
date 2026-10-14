@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-10 seq=10 exp=1792123301",
+      "advancedStatus": "pack_id=20261014-11 seq=11 exp=1792123567",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:01",
+      "lastChecked": "04:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 04:01",
+    "expiresAt": "2026-10-16 04:06",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -332,13 +332,19 @@
         "text": "شایان سمیعی از بازسازی ساختار ترور در سپاه پاسداران و استفاده دوباره از چهره‌های قدیمی خبر داد. او این روند را نشانه محدود شدن حلقه اعتماد در فرماندهی جمهوری اسلامی دانست. همچنین تاکید کرد که حکومت همچنان ترور مخالفان را ابزاری برای سرکوب می‌داند.",
         "time": "03:57",
         "ts": 1791950255
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "مسعود نورمحمدی اعلام کرد که ترانه رحیمی، زندانی دوقلوی اصفهانی، توسط مسئولان زندان از دریافت غذا محروم شده است. این اقدام به دلیل اطلاع‌رسانی خانواده‌اش در خارج از ایران صورت گرفته است. ترانه رحیمی به اعدام محکوم شده است.",
+        "time": "04:02",
+        "ts": 1791950545
       }
     ],
-    "packId": "20261014-10",
-    "sequence": 10,
+    "packId": "20261014-11",
+    "sequence": 11,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "04:01"
+    "updatedAt": "04:06"
   },
   "verified": true
 }
