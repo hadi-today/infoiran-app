@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-40 seq=40 exp=1792189827",
+      "advancedStatus": "pack_id=20261014-41 seq=41 exp=1792190100",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:30",
+      "lastChecked": "22:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 22:30",
+    "expiresAt": "2026-10-16 22:35",
     "items": [
       {
         "channel": "iranintl",
@@ -350,14 +350,21 @@
         "text": "The head of Hezbollah's executive council in Lebanon announced that the group will provide cash assistance to families affected by the war. Reuters reported that Hezbollah received 200 million dollars from the Islamic Republic to aid war victims in Lebanon. Informed sources said intermediaries charged a 20% commission for transferring the money.",
         "time": "22:29",
         "ts": 1792016983
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Russian Foreign Ministry announced that Sergei Lavrov and Wang Yi discussed the war with the Islamic Republic, Ukraine, relations with the US, and bilateral cooperation. The meeting took place on the sidelines of the Conference on Interaction and Confidence-Building Measures in Asia in Azerbaijan. The two ministers welcomed the development of comprehensive partnership and strategic cooperation between Moscow and Beijing.",
+        "time": "22:34",
+        "ts": 1792017261
       }
     ],
     "language": "en",
-    "packId": "20261014-40",
-    "sequence": 40,
+    "packId": "20261014-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:30"
+    "updatedAt": "22:35"
   },
   "verified": true
 }
