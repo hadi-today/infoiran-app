@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-79 seq=79 exp=1792173977",
+      "advancedStatus": "pack_id=20261014-80 seq=80 exp=1792174486",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:06",
+      "lastChecked": "18:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 18:06",
+    "expiresAt": "2026-10-16 18:14",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen sent a video showing severe decline and emptiness in Tehran's fruit and vegetable market on Monday, October 12. The video was sent to Iran International. The market's condition on this day indicates reduced activity.",
-        "time": "18:05",
-        "ts": 1791914740
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Workers at the Float Glass Factory in Takestan reported unpaid wages for three months and unpaid insurance premiums for eight months. Unemployment insurance recipients in Tehran have also protested the non-payment of their October benefits. These issues were reported on the 21st of the current month.",
-        "time": "18:11",
-        "ts": 1791915084
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -777,14 +763,21 @@
         "text": "Emmanuel Macron, the President of France, will travel to Kuwait, the UAE, Bahrain, and Qatar from October 19 to 21. He will meet with the leaders of these countries during his visit. The discussions will focus on the situation in the Strait of Hormuz and its impact on energy prices.",
         "time": "18:05",
         "ts": 1792001138
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Netanyahu warned about Tehran's movements. He stated that they will overthrow the Iranian government. This was mentioned in the audio version of Titraval with Niusha Saremi.",
+        "time": "18:14",
+        "ts": 1792001656
       }
     ],
     "language": "en",
-    "packId": "20261014-79",
-    "sequence": 79,
+    "packId": "20261014-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:06"
+    "updatedAt": "18:14"
   },
   "verified": true
 }
