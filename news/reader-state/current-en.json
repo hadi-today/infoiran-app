@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-35 seq=35 exp=1792187344",
+      "advancedStatus": "pack_id=20261014-36 seq=36 exp=1792187817",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:49",
+      "lastChecked": "21:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 21:49",
+    "expiresAt": "2026-10-16 21:56",
     "items": [
       {
         "channel": "iranintl",
@@ -329,14 +329,21 @@
         "text": "US forces destroyed a dhow linked to the Islamic Republic in the Sea of Oman on Tuesday, October 6. According to the US, the dhow was engaged in identifying and targeting US Navy ships, and its crew was safely evacuated before its destruction. The US also accused the IRGC of targeting thousands of civilian mariners and US Navy warships in the region over the past seven months.",
         "time": "21:48",
         "ts": 1792014501
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Vaisi, a senior analyst at Iran International, said that the accounts of Islamic Republic officials about Mojtaba's injury differ. None agree on the injured areas of Mojtaba. He added that if Mojtaba is alive, he is more injured than reported.",
+        "time": "21:56",
+        "ts": 1792014974
       }
     ],
     "language": "en",
-    "packId": "20261014-35",
-    "sequence": 35,
+    "packId": "20261014-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:49"
+    "updatedAt": "21:56"
   },
   "verified": true
 }
