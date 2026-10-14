@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-02 seq=2 exp=1792111133",
+      "advancedStatus": "pack_id=20261014-03 seq=3 exp=1792113134",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:38",
+      "lastChecked": "01:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 00:38",
+    "expiresAt": "2026-10-16 01:12",
     "items": [
       {
         "channel": "iranintl",
@@ -322,14 +322,21 @@
         "text": "Egypt has announced its readiness to provide any assistance to Saudi Arabia. Analysts doubt whether Egypt's direct involvement can stop the Houthi attacks. The US remains uncertain about entering the conflict but supports the Saudi-led coalition.",
         "time": "00:34",
         "ts": 1791938077
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Faramarz Tofighi, a former member of the Supreme Labor Council, announced that the cost-of-living basket for a worker household has reached 91.3 million tomans. He added that this calculation was based on figures from the Statistical Center of Iran and shows a significant gap between the minimum wage and the actual cost of living.",
+        "time": "01:11",
+        "ts": 1791940312
       }
     ],
     "language": "en",
-    "packId": "20261014-02",
-    "sequence": 2,
+    "packId": "20261014-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:38"
+    "updatedAt": "01:12"
   },
   "verified": true
 }
