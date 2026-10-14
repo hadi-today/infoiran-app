@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-32 seq=32 exp=1792185480",
+      "advancedStatus": "pack_id=20261014-33 seq=33 exp=1792185852",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:18",
+      "lastChecked": "21:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 21:18",
+    "expiresAt": "2026-10-16 21:24",
     "items": [
       {
         "channel": "iranintl",
@@ -322,14 +322,21 @@
         "text": "Benjamin Netanyahu stated that Israel will overthrow the Iranian government and eliminate Hamas and Hezbollah within two years. He opposes a preemptive strike before the elections but warned that any attack from Tehran will be met with a painful response. The Israeli Chief of Staff also announced readiness for a large-scale offensive operation.",
         "time": "21:17",
         "ts": 1792012641
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ukraine announced that the speed restrictions on Starlink satellite internet have disrupted its military operations. Volodymyr Zelensky stated that the US threatened to limit information exchange if Kyiv opposes a ceasefire. Meanwhile, Donald Trump hopes for increased Russian diesel exports to reduce global fuel prices.",
+        "time": "21:23",
+        "ts": 1792013013
       }
     ],
     "language": "en",
-    "packId": "20261014-32",
-    "sequence": 32,
+    "packId": "20261014-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:18"
+    "updatedAt": "21:24"
   },
   "verified": true
 }
