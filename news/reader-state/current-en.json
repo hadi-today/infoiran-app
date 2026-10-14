@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-73 seq=73 exp=1792171241",
+      "advancedStatus": "pack_id=20261014-74 seq=74 exp=1792172008",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:20",
+      "lastChecked": "17:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 17:20",
+    "expiresAt": "2026-10-16 17:33",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Benjamin Netanyahu proposed to Donald Trump last week to start a large-scale military operation against Iran. Netanyahu cited Iran's new nuclear activities as the reason for this proposal. The Israeli army and CENTCOM are on high alert.",
-        "time": "17:25",
-        "ts": 1791912330
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Alireza Namvar Haghighi says the Islamic Republic is escalating tensions to reduce the chance of surprise and increase costs for the US and regional countries. Tehran aims to reach a better position for an agreement or force the US to retreat. This calculation could lead to attacks on infrastructure and increased domestic dissatisfaction.",
-        "time": "17:28",
-        "ts": 1791912486
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "At least four protest gatherings were held, including one in Mashhad by victims of the Iranian Trust Credit Cooperative and Fajr Bahman Company. Protests by retired telecommunications workers were also reported in Bijar, Hamedan, and Tehran. These gatherings focused on financial, welfare, and insurance demands.",
-        "time": "17:29",
-        "ts": 1791912559
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -756,14 +735,21 @@
         "text": "The head of North Khorasan University of Medical Sciences announced a shortage of 242 nurses in the province's medical centers. Despite an increase of 66 nursing staff compared to last year, the current number is still insufficient. The nurse-to-active-bed ratio is about one, and the shortage may affect the quality of care.",
         "time": "17:20",
         "ts": 1791998415
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Today, the execution of a man accused of killing his wife, Mansoureh Ghadiri Javid, was carried out. Mansoureh Ghadiri Javid was a journalist and researcher. This sentence had been previously issued.",
+        "time": "17:32",
+        "ts": 1791999177
       }
     ],
     "language": "en",
-    "packId": "20261014-73",
-    "sequence": 73,
+    "packId": "20261014-74",
+    "sequence": 74,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:20"
+    "updatedAt": "17:33"
   },
   "verified": true
 }
