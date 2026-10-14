@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-26 seq=26 exp=1792182980",
+      "advancedStatus": "pack_id=20261014-27 seq=27 exp=1792183659",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:36",
+      "lastChecked": "20:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 20:36",
+    "expiresAt": "2026-10-16 20:47",
     "items": [
       {
         "channel": "iranintl",
@@ -301,14 +301,21 @@
         "text": "A video shows that the Toos power plant in Mashhad caused pollution by burning mazut on Wednesday, October 14. The video was received by Iran International. The issue of pollution caused by mazut burning at this power plant has been raised.",
         "time": "20:35",
         "ts": 1792010139
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Branch 15 of Tehran Revolutionary Court confirmed the death sentence of Varisheh Moradi despite the Supreme Court's request to review investigation flaws. Her lawyers stated they have 20 days to appeal to the Supreme Court. Varisheh Moradi was sentenced for membership in a rebellious group and is currently imprisoned in Evin Prison.",
+        "time": "20:46",
+        "ts": 1792010816
       }
     ],
     "language": "en",
-    "packId": "20261014-26",
-    "sequence": 26,
+    "packId": "20261014-27",
+    "sequence": 27,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:36"
+    "updatedAt": "20:47"
   },
   "verified": true
 }
