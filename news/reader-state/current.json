@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-11 seq=11 exp=1792137700",
+      "advancedStatus": "pack_id=20261014-12 seq=12 exp=1792137806",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:01",
+      "lastChecked": "08:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 08:01",
+    "expiresAt": "2026-10-16 08:03",
     "items": [
       {
         "channel": "خبرگزاری هرانا",
@@ -548,13 +548,19 @@
         "text": "اندیشکده پروژه جنوب جهانی چین از افزایش نفوذ سپاه پاسداران در تجارت نفت ایران و کاهش نقش شرکت ملی نفت خبر داد. شبکه‌های وابسته به سپاه با دور زدن تحریم‌ها درآمدزایی می‌کنند و پالایشگاه‌های مستقل چین خریداران اصلی نفت ایران شده‌اند. این خریداران ممکن است در صورت یافتن نفت ارزان‌تر به کشورهای دیگر مراجعه کنند.",
         "time": "08:00",
         "ts": 1791964836
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "گروه موسیقی پالت تور کنسرت‌های خود در ایران را به دلیل مخالفت برخی شهرها با حضور نوازنده زن لغو کرد. این گروه اعلام کرد تنها زمانی اجرا خواهند داشت که همه اعضا بتوانند روی صحنه حاضر باشند. اعضای پالت به محدودیت‌های پیش روی زنان نوازنده اعتراض کردند.",
+        "time": "08:02",
+        "ts": 1791964927
       }
     ],
-    "packId": "20261014-11",
-    "sequence": 11,
+    "packId": "20261014-12",
+    "sequence": 12,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "08:01"
+    "updatedAt": "08:03"
   },
   "verified": true
 }
