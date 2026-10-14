@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-03 seq=3 exp=1792113134",
+      "advancedStatus": "pack_id=20261014-04 seq=4 exp=1792113701",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:12",
+      "lastChecked": "01:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 01:12",
+    "expiresAt": "2026-10-16 01:21",
     "items": [
       {
         "channel": "iranintl",
@@ -329,14 +329,21 @@
         "text": "Faramarz Tofighi, a former member of the Supreme Labor Council, announced that the cost-of-living basket for a worker household has reached 91.3 million tomans. He added that this calculation was based on figures from the Statistical Center of Iran and shows a significant gap between the minimum wage and the actual cost of living.",
         "time": "01:11",
         "ts": 1791940312
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump called the Islamic Republic the world's largest state sponsor of terrorism and said Tehran was two weeks away from acquiring nuclear weapons. He criticized Barack Obama's policies and claimed to have eliminated the nuclear threat from Iran. Trump also stated that the control of the Strait of Hormuz is in the hands of the United States.",
+        "time": "01:21",
+        "ts": 1791940881
       }
     ],
     "language": "en",
-    "packId": "20261014-03",
-    "sequence": 3,
+    "packId": "20261014-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:12"
+    "updatedAt": "01:21"
   },
   "verified": true
 }
