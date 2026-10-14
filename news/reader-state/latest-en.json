@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-77 seq=77 exp=1792173116",
+      "advancedStatus": "pack_id=20261014-78 seq=78 exp=1792173469",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:51",
+      "lastChecked": "17:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 17:51",
+    "expiresAt": "2026-10-16 17:57",
     "items": [
       {
         "channel": "iranintl",
@@ -763,14 +763,28 @@
         "text": "Amir Mahmoud Davoudinejad, public relations manager of Lorestan Football Board, insulted journalists during Mehdi Tartar's press conference after the Persepolis vs. Khaybar Khorramabad match, causing a verbal altercation.",
         "time": "17:48",
         "ts": 1792000136
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The disciplinary committee of the Spanish Football Federation suspended Vinicius Junior for four matches due to pulling Nathan Saliba's hair and protesting to the referee. He will miss matches against Sevilla, Barcelona, Racing, and Valencia. The suspension includes two matches for violent conduct and two matches for protesting to the referee.",
+        "time": "17:52",
+        "ts": 1792000341
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iraqi Prime Minister Ali Al-Zaidi emphasized in a meeting with Mohammed bin Salman that Iraq will not allow its territory to be used for attacks against Saudi Arabia or other regional countries. He also condemned the attack on King Khalid International Airport and harm to civilians. This meeting followed a drone attack on a Saudi oil pipeline, which Iraq acknowledged responsibility for after investigations.",
+        "time": "17:56",
+        "ts": 1792000560
       }
     ],
     "language": "en",
-    "packId": "20261014-77",
-    "sequence": 77,
+    "packId": "20261014-78",
+    "sequence": 78,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:51"
+    "updatedAt": "17:57"
   },
   "verified": true
 }
