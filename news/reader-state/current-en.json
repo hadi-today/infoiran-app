@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-10 seq=10 exp=1792137580",
+      "advancedStatus": "pack_id=20261014-11 seq=11 exp=1792137700",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:59",
+      "lastChecked": "08:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 07:59",
+    "expiresAt": "2026-10-16 08:01",
     "items": [
       {
         "channel": "harana",
@@ -623,14 +623,28 @@
         "text": "Mohammad Javad Akbarin from Iran International stated that the Yemeni army and the Arab coalition have the upper hand in areas controlled by the Houthis. Houthi attacks on Saudi Arabia have intensified. The Houthis have also been able to import missile equipment from China and assemble it inside Yemen.",
         "time": "07:58",
         "ts": 1791964734
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Alavi, an economist, warned about rising living costs and insufficient wages for workers. He said that continuing this situation could transfer poverty to the next generation and have social consequences. He also mentioned the possibility of public uprisings if economic, social, and political problems persist.",
+        "time": "07:59",
+        "ts": 1791964787
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The China Global South Project think tank reported an increase in the influence of the IRGC in Iran's oil trade and a decrease in the role of the National Iranian Oil Company. Networks affiliated with the IRGC generate revenue by circumventing sanctions, and independent Chinese refineries have become the main buyers of Iranian oil. These buyers may turn to other countries if they find cheaper oil.",
+        "time": "08:00",
+        "ts": 1791964836
       }
     ],
     "language": "en",
-    "packId": "20261014-10",
-    "sequence": 10,
+    "packId": "20261014-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:59"
+    "updatedAt": "08:01"
   },
   "verified": true
 }
