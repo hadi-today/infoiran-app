@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-46 seq=46 exp=1792157404",
+      "advancedStatus": "pack_id=20261014-47 seq=47 exp=1792157644",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:30",
+      "lastChecked": "13:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 13:30",
+    "expiresAt": "2026-10-16 13:34",
     "items": [
       {
         "channel": "iranintl",
@@ -686,14 +686,21 @@
         "text": "The second week of hearings for three Iranian defendants accused of gathering information and harming Iran International journalists is underway at Woolwich Court in London. Mostafa Sepahvand, one of the defendants, denied collecting information for a foreign country and spoke of being tortured by British police. He also cursed the Islamic Republic and mentioned having suicidal thoughts.",
         "time": "13:27",
         "ts": 1791984461
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen criticized the 45-day delay of the OMP Finex exchange in rial settlement. He said that the promise to activate the user support fund and send him a message was made but has not been fulfilled.",
+        "time": "13:32",
+        "ts": 1791984728
       }
     ],
     "language": "en",
-    "packId": "20261014-46",
-    "sequence": 46,
+    "packId": "20261014-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:30"
+    "updatedAt": "13:34"
   },
   "verified": true
 }
