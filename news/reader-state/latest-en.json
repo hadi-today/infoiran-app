@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-70 seq=70 exp=1792170129",
+      "advancedStatus": "pack_id=20261014-71 seq=71 exp=1792170367",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:02",
+      "lastChecked": "17:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 17:02",
+    "expiresAt": "2026-10-16 17:06",
     "items": [
       {
         "channel": "iranintl",
@@ -742,14 +742,21 @@
         "text": "The bulk carrier Cape Dao, flying the flag of Antigua and Barbuda, sank near the Strait of Hormuz. The ship had been hit by a projectile on October 1. Earlier, the container ship GFS Pride also caught fire and sank after an attack.",
         "time": "17:01",
         "ts": 1791997309
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alisina Mostafavi, a mountaineer and tar player, was executed on Wednesday, October 14. The judiciary labeled him a member of the 'Eternal Guard' and responsible for organizing two armed operations. Reports indicate he was forced to confess under torture.",
+        "time": "17:03",
+        "ts": 1791997418
       }
     ],
     "language": "en",
-    "packId": "20261014-70",
-    "sequence": 70,
+    "packId": "20261014-71",
+    "sequence": 71,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:02"
+    "updatedAt": "17:06"
   },
   "verified": true
 }
