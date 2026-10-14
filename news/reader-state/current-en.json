@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-11 seq=11 exp=1792137700",
+      "advancedStatus": "pack_id=20261014-12 seq=12 exp=1792137806",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:01",
+      "lastChecked": "08:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 08:01",
+    "expiresAt": "2026-10-16 08:03",
     "items": [
       {
         "channel": "harana",
@@ -637,14 +637,21 @@
         "text": "The China Global South Project think tank reported an increase in the influence of the IRGC in Iran's oil trade and a decrease in the role of the National Iranian Oil Company. Networks affiliated with the IRGC generate revenue by circumventing sanctions, and independent Chinese refineries have become the main buyers of Iranian oil. These buyers may turn to other countries if they find cheaper oil.",
         "time": "08:00",
         "ts": 1791964836
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Pallet music group canceled their concert tour in Iran due to opposition in some cities to the presence of a female musician. The group stated they will only perform when all members can be on stage. The members protested the restrictions faced by female musicians.",
+        "time": "08:02",
+        "ts": 1791964927
       }
     ],
     "language": "en",
-    "packId": "20261014-11",
-    "sequence": 11,
+    "packId": "20261014-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:01"
+    "updatedAt": "08:03"
   },
   "verified": true
 }
