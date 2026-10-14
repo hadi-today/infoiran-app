@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-04 seq=4 exp=1792113701",
+      "advancedStatus": "pack_id=20261014-05 seq=5 exp=1792117016",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:21",
+      "lastChecked": "02:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 01:21",
+    "expiresAt": "2026-10-16 02:16",
     "items": [
       {
         "channel": "iranintl",
@@ -336,14 +336,21 @@
         "text": "Donald Trump called the Islamic Republic the world's largest state sponsor of terrorism and said Tehran was two weeks away from acquiring nuclear weapons. He criticized Barack Obama's policies and claimed to have eliminated the nuclear threat from Iran. Trump also stated that the control of the Strait of Hormuz is in the hands of the United States.",
         "time": "01:21",
         "ts": 1791940881
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Islamic Republic has adopted new tactics to target ships in the Strait of Hormuz. The aim of these changes is to keep oil prices high and influence the US midterm elections. Tehran intends to expand its operations to the Sea of Oman and farther waters.",
+        "time": "02:16",
+        "ts": 1791944197
       }
     ],
     "language": "en",
-    "packId": "20261014-04",
-    "sequence": 4,
+    "packId": "20261014-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:21"
+    "updatedAt": "02:16"
   },
   "verified": true
 }
