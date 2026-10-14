@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261014-31 seq=31 exp=1792185013",
+      "advancedStatus": "pack_id=20261014-32 seq=32 exp=1792185480",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:10",
+      "lastChecked": "21:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-14",
-    "expiresAt": "2026-10-16 21:10",
+    "expiresAt": "2026-10-16 21:18",
     "items": [
       {
         "channel": "iranintl",
@@ -315,14 +315,21 @@
         "text": "Paris Saint-Germain defeated Manchester City 4-2 in the second week of the UEFA Champions League. PSG's goals were scored by Desiree Doue, Ousmane Dembele, Vitinha, and Akliouch. Erling Haaland scored two goals for Manchester City, and Pep Guardiola was a special spectator at the match.",
         "time": "21:09",
         "ts": 1792012169
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Benjamin Netanyahu stated that Israel will overthrow the Iranian government and eliminate Hamas and Hezbollah within two years. He opposes a preemptive strike before the elections but warned that any attack from Tehran will be met with a painful response. The Israeli Chief of Staff also announced readiness for a large-scale offensive operation.",
+        "time": "21:17",
+        "ts": 1792012641
       }
     ],
     "language": "en",
-    "packId": "20261014-31",
-    "sequence": 31,
+    "packId": "20261014-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:10"
+    "updatedAt": "21:18"
   },
   "verified": true
 }
