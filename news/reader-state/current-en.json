@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-06 seq=6 exp=1792241302",
+      "advancedStatus": "pack_id=20261015-07 seq=7 exp=1792241673",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:48",
+      "lastChecked": "12:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 12:48",
+    "expiresAt": "2026-10-17 12:54",
     "items": [
       {
         "channel": "harana",
@@ -497,14 +497,21 @@
         "text": "Babak Moradi Far was summoned to Tehran Security Prosecutor's Office to serve a 30-month prison sentence. He was convicted of charges including conspiracy to disrupt security and propaganda against the regime. Moradi Far had previously been arrested in November 2022 and January 2026.",
         "time": "12:47",
         "ts": 1792068460
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Yaser Taheri, a member of the Mazandaran Central Clergy Society and imam of Imam Hassan Askari Mosque, was killed at his home on Thursday, October 15. He was killed with a cold weapon, and judicial investigations are ongoing at the crime scene. The cause and further details will be announced after forensic examinations.",
+        "time": "12:53",
+        "ts": 1792068787
       }
     ],
     "language": "en",
-    "packId": "20261015-06",
-    "sequence": 6,
+    "packId": "20261015-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:48"
+    "updatedAt": "12:54"
   },
   "verified": true
 }
