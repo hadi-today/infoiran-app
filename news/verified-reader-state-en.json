@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-05 seq=5 exp=1792239759",
+      "advancedStatus": "pack_id=20261015-06 seq=6 exp=1792241302",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:22",
+      "lastChecked": "12:48",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,36 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 12:22",
+    "expiresAt": "2026-10-17 12:48",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of Iranians living in Germany protested against executions in Iran on Tuesday, October 13, in Hanover. They expressed their support for Prince Reza Pahlavi. A video of this protest was sent to Iran International.",
-        "time": "12:33",
-        "ts": 1791981225
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ramazan Sharif, advisor to the commander of the IRGC, stated that there is no prospect for American victory in the war and that the US will accept the Islamic Republic's conditions. He added that American facilities around Iran are out of operation and their bases are unusable. Regarding the killing of Ali Khamenei in the 40-day war, he said the enemies took a great risk and will pay a heavy price.",
-        "time": "12:37",
-        "ts": 1791981432
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "CENTCOM announced that Special Unit 99 of the US Air Force Central Command provides new drone and communication capabilities to operational forces in the Middle East. This special unit operates as a laboratory for innovative ideas in the region. The goal is to enhance combat effectiveness on the battlefield.",
-        "time": "12:43",
-        "ts": 1791981831
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Young job seekers from the city of Har in Shush held a protest in front of the Sugarcane Development and Related Industries Company in Ahvaz. The protesters demanded job opportunities at the Haft-Tappeh complex. These young people face unemployment and difficulties in covering living expenses.",
-        "time": "12:44",
-        "ts": 1791981883
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -518,14 +490,21 @@
         "text": "The Hamburg High Court convicted two suspects of espionage and planning terrorist operations in Germany and sentenced them to prison. Ali Hassan Sarvari was sentenced to eight years and six months, and Tavab Mohseni to four years and six months in prison. They had spied on prominent figures of the German Jewish community under the orders of the Quds Force of the IRGC.",
         "time": "12:20",
         "ts": 1792066824
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Babak Moradi Far was summoned to Tehran Security Prosecutor's Office to serve a 30-month prison sentence. He was convicted of charges including conspiracy to disrupt security and propaganda against the regime. Moradi Far had previously been arrested in November 2022 and January 2026.",
+        "time": "12:47",
+        "ts": 1792068460
       }
     ],
     "language": "en",
-    "packId": "20261015-05",
-    "sequence": 5,
+    "packId": "20261015-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:22"
+    "updatedAt": "12:48"
   },
   "verified": true
 }
