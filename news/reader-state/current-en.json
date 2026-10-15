@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-32 seq=32 exp=1792256161",
+      "advancedStatus": "pack_id=20261015-33 seq=33 exp=1792256528",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:56",
+      "lastChecked": "17:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 16:56",
+    "expiresAt": "2026-10-17 17:02",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The deputy police commander announced that efforts to combat arms and ammunition smuggling at all borders are being pursued seriously. He urged those who have unknowingly acquired weapons to voluntarily surrender them. This measure aims to prevent potential issues and police monitoring.",
-        "time": "16:57",
-        "ts": 1791997060
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -455,14 +448,21 @@
         "text": "Ali Tajernia explained that there was no governmental connection or favoritism in using the presidential aircraft for the trip to Qatar. They explored various options and rented the plane after confirming feasibility and paid the cost. He also requested the federation to announce the final verdict on Yaser Asani's case promptly.",
         "time": "16:55",
         "ts": 1792083338
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US Treasury Department added 16 individuals and 10 entities linked to Iran to its OFAC sanctions list on Thursday, October 15. The sanctioned individuals are all Iranian, and the targeted entities include banks, exchange offices, and companies in Iran, Iraq, and Hong Kong. OFAC also sanctioned the International Development Bank for Investment and Finance in Iraq and simultaneously issued a license to wind down transactions with this bank.",
+        "time": "16:58",
+        "ts": 1792083498
       }
     ],
     "language": "en",
-    "packId": "20261015-32",
-    "sequence": 32,
+    "packId": "20261015-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:56"
+    "updatedAt": "17:02"
   },
   "verified": true
 }
