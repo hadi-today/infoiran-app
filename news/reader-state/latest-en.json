@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-21 seq=21 exp=1792222284",
+      "advancedStatus": "pack_id=20261015-22 seq=22 exp=1792222392",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:31",
+      "lastChecked": "07:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 07:31",
+    "expiresAt": "2026-10-17 07:33",
     "items": [
       {
         "channel": "iranintl",
@@ -511,14 +511,21 @@
         "text": "Wheat farmers in Iran have started the new planting season but have not yet received part of the payment for last year's crop. The dollar value of their claims has decreased, while official prices of some types of bread have nearly doubled. This situation has increased economic pressure on both producers and consumers.",
         "time": "07:30",
         "ts": 1792049442
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen reported paying 800,000 tomans for four antibiotics and anesthesia for tooth pain. He stated that costs have increased and visiting a doctor now requires about one million tomans. This indicates a rise in medical treatment expenses.",
+        "time": "07:32",
+        "ts": 1792049549
       }
     ],
     "language": "en",
-    "packId": "20261015-21",
-    "sequence": 21,
+    "packId": "20261015-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:31"
+    "updatedAt": "07:33"
   },
   "verified": true
 }
