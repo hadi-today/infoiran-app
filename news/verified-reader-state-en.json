@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-35 seq=35 exp=1792257836",
+      "advancedStatus": "pack_id=20261015-36 seq=36 exp=1792258251",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:23",
+      "lastChecked": "17:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 17:23",
+    "expiresAt": "2026-10-17 17:30",
     "items": [
       {
         "channel": "harana",
@@ -441,14 +441,21 @@
         "text": "Iran International audiences report worsening living conditions for female heads of households. Rising living costs and unemployment have made meeting daily needs more difficult. Limited access to government support has increased economic pressure.",
         "time": "17:23",
         "ts": 1792085014
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Keyvan Saket commemorated Ali-Sina Mostafavi, his student and executed protester, by sharing a video of performing the piece \"Afsos\" on the tar instrument. Mostafavi was a 38-year-old tar player and mountaineer from Bam. He was executed on the morning of October 14, 2026, in Kerman Central Prison.",
+        "time": "17:30",
+        "ts": 1792085421
       }
     ],
     "language": "en",
-    "packId": "20261015-35",
-    "sequence": 35,
+    "packId": "20261015-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:23"
+    "updatedAt": "17:30"
   },
   "verified": true
 }
