@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-35 seq=35 exp=1792228630",
+      "advancedStatus": "pack_id=20261015-36 seq=36 exp=1792228806",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:17",
+      "lastChecked": "09:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 09:17",
+    "expiresAt": "2026-10-17 09:20",
     "items": [
       {
         "channel": "iranintl",
@@ -490,14 +490,21 @@
         "text": "A number of Iranians living in Germany gathered on Wednesday, October 14, in the main square of Hamburg. The gathering was held to commemorate the birthday of Empress Farah Pahlavi. A video of the event has been released.",
         "time": "09:16",
         "ts": 1792055790
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammadreza Ahangar died on January 8 during protests in Sadeghieh, Tehran, after being shot by a sniper from suppression forces. This event occurred during protests against the regime. His memory remains as a symbol for freedom seekers.",
+        "time": "09:19",
+        "ts": 1792055965
       }
     ],
     "language": "en",
-    "packId": "20261015-35",
-    "sequence": 35,
+    "packId": "20261015-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:17"
+    "updatedAt": "09:20"
   },
   "verified": true
 }
