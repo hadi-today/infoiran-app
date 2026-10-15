@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-38 seq=38 exp=1792229194",
+      "advancedStatus": "pack_id=20261015-39 seq=39 exp=1792229434",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:26",
+      "lastChecked": "09:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 09:26",
+    "expiresAt": "2026-10-17 09:30",
     "items": [
       {
         "channel": "iranintl",
@@ -511,14 +511,21 @@
         "text": "Morteza Kazemian referred to Donald Trump's statements about the request of Islamic Republic officials for guarantees to protect their lives. He said these remarks could indicate the US's effort to reach an agreement with some actors within the Islamic Republic's power structure. The goal of this effort is to end the crisis.",
         "time": "09:25",
         "ts": 1792056348
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Aghaei from Iran International discussed the possibility of a military conflict between Iran and the US. He said Washington's targets could include nuclear and missile facilities, air defense systems, and command centers of the Islamic Republic. The fate of the war depends largely on Donald Trump's decision to either find a way for Iran to exit the conflict or to pursue regime change.",
+        "time": "09:29",
+        "ts": 1792056586
       }
     ],
     "language": "en",
-    "packId": "20261015-38",
-    "sequence": 38,
+    "packId": "20261015-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:26"
+    "updatedAt": "09:30"
   },
   "verified": true
 }
