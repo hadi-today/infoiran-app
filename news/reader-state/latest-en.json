@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-03 seq=3 exp=1792202483",
+      "advancedStatus": "pack_id=20261015-04 seq=4 exp=1792203780",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:01",
+      "lastChecked": "02:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 02:01",
+    "expiresAt": "2026-10-17 02:23",
     "items": [
       {
         "channel": "iranintl",
@@ -385,14 +385,21 @@
         "text": "Tehran Prosecutor's Office has filed a case against Saeed Shakiba, a voice actor and blogger, after he posted a video imitating Ali Khamenei's voice. His Instagram page was also taken down by judicial order due to criminal content. Details of the charges and his current status have not been disclosed.",
         "time": "02:00",
         "ts": 1792029643
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump, the US President, stated in Kalispell, Montana, that the war with the Islamic Republic would end \"very soon,\" after which oil prices would sharply decrease. He claimed that the Islamic Republic no longer has a navy or air force, its army is damaged, and its first and second-tier leaders have been killed. Trump identified the goal of US military actions as preventing the Islamic Republic from acquiring nuclear weapons.",
+        "time": "02:22",
+        "ts": 1792030943
       }
     ],
     "language": "en",
-    "packId": "20261015-03",
-    "sequence": 3,
+    "packId": "20261015-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:01"
+    "updatedAt": "02:23"
   },
   "verified": true
 }
