@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-11 seq=11 exp=1792209589",
+      "advancedStatus": "pack_id=20261015-12 seq=12 exp=1792210601",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:59",
+      "lastChecked": "04:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 03:59",
+    "expiresAt": "2026-10-17 04:16",
     "items": [
       {
         "channel": "iranintl",
@@ -441,14 +441,21 @@
         "text": "The Wall Street Journal reported that the US Space Force has used electronic warfare systems to support operations in Iran and Venezuela. These include the 'Meadowlands' system to disrupt enemy satellite communications and the 'Bounty Hunter' to identify threats, deployed over the past year. The Islamic Republic has also repeatedly targeted US satellite communication equipment.",
         "time": "03:59",
         "ts": 1792036743
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shahram Khaledi says Israel is on full alert despite Netanyahu's emphasis on avoiding a preemptive strike. Tel Aviv is concerned about the possibility of a miscalculation by the Islamic Republic. This issue is one of Israel's main concerns.",
+        "time": "04:16",
+        "ts": 1792037760
       }
     ],
     "language": "en",
-    "packId": "20261015-11",
-    "sequence": 11,
+    "packId": "20261015-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:59"
+    "updatedAt": "04:16"
   },
   "verified": true
 }
