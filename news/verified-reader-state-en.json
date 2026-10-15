@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-12 seq=12 exp=1792210601",
+      "advancedStatus": "pack_id=20261015-13 seq=13 exp=1792210709",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:16",
+      "lastChecked": "04:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 04:16",
+    "expiresAt": "2026-10-17 04:18",
     "items": [
       {
         "channel": "iranintl",
@@ -448,14 +448,21 @@
         "text": "Shahram Khaledi says Israel is on full alert despite Netanyahu's emphasis on avoiding a preemptive strike. Tel Aviv is concerned about the possibility of a miscalculation by the Islamic Republic. This issue is one of Israel's main concerns.",
         "time": "04:16",
         "ts": 1792037760
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Bijan Kian, a national security expert, commented on Trump's statements about refraining from targeting Islamic Republic leaders. He said Trump's statements should not be considered his final decision. He also mentioned that Trump may not reveal all decisions publicly to manage perceptions and control economic consequences of the war.",
+        "time": "04:17",
+        "ts": 1792037867
       }
     ],
     "language": "en",
-    "packId": "20261015-12",
-    "sequence": 12,
+    "packId": "20261015-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:16"
+    "updatedAt": "04:18"
   },
   "verified": true
 }
