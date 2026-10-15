@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-05 seq=5 exp=1792207679",
+      "advancedStatus": "pack_id=20261015-06 seq=6 exp=1792207799",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:27",
+      "lastChecked": "03:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 03:27",
+    "expiresAt": "2026-10-17 03:29",
     "items": [
       {
         "channel": "iranintl",
@@ -399,14 +399,21 @@
         "text": "The Hamburg State Supreme Court has begun hearing the case of the Nord Stream gas pipeline explosion. The defendants' lawyers requested the case to be closed, arguing that the explosion does not necessarily constitute a war crime. This report was prepared by Ahmad Samadi from Iran International.",
         "time": "03:27",
         "ts": 1792034839
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Al-Zaidi, the Prime Minister of Iraq, intends to review and sever the ties of about 50,000 Popular Mobilization Forces members with armed groups. The Iraqi government and the Coordination Framework coalition have agreed to continue paying these forces. The goal is to gradually bring the Popular Mobilization Forces under government control without direct confrontation with the group commanders.",
+        "time": "03:29",
+        "ts": 1792034960
       }
     ],
     "language": "en",
-    "packId": "20261015-05",
-    "sequence": 5,
+    "packId": "20261015-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:27"
+    "updatedAt": "03:29"
   },
   "verified": true
 }
