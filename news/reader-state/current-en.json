@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-57 seq=57 exp=1792279441",
+      "advancedStatus": "pack_id=20261015-58 seq=58 exp=1792281094",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:24",
+      "lastChecked": "23:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 23:24",
+    "expiresAt": "2026-10-17 23:51",
     "items": [
       {
         "channel": "iranintl",
@@ -483,14 +483,21 @@
         "text": "The UN Security Council condemned the increasing attacks by Yemen's Houthis against Saudi Arabia and emphasized Saudi Arabia's right to self-defense. The council members called on the Houthis to stop attacks on civilians and infrastructure. They also expressed concern about the humanitarian impact and regional security consequences of the ongoing conflict.",
         "time": "23:23",
         "ts": 1792106622
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reports have emerged about sexual harassment of female nurses at Imam Ali Hospital in Zahedan. Sadegh Miri, a Basij member and laboratory staff, is trying to deny the testimonies. Job insecurity and systematic harassment have caused severe psychological insecurity among the nurses.",
+        "time": "23:51",
+        "ts": 1792108273
       }
     ],
     "language": "en",
-    "packId": "20261015-57",
-    "sequence": 57,
+    "packId": "20261015-58",
+    "sequence": 58,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:24"
+    "updatedAt": "23:51"
   },
   "verified": true
 }
