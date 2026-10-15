@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-22 seq=22 exp=1792222392",
+      "advancedStatus": "pack_id=20261015-23 seq=23 exp=1792222710",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:33",
+      "lastChecked": "07:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 07:33",
+    "expiresAt": "2026-10-17 07:38",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The head of the Health and Treatment Commission of the Parliament warned about shortages of medical equipment and consumables in some public hospitals. Patients are required to bring their own sheets, blankets, and clothes when admitted. Additionally, rising drug prices and insufficient funding for special disease funds have raised concerns.",
-        "time": "07:37",
-        "ts": 1791963423
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -518,14 +511,28 @@
         "text": "A citizen reported paying 800,000 tomans for four antibiotics and anesthesia for tooth pain. He stated that costs have increased and visiting a doctor now requires about one million tomans. This indicates a rise in medical treatment expenses.",
         "time": "07:32",
         "ts": 1792049549
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The public and revolutionary prosecutor of Kerman province announced the arrest of members of a group accused of security activities by the Intelligence Corps agents. The charges include propaganda activities. These arrests took place in Kerman.",
+        "time": "07:37",
+        "ts": 1792049872
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The French newspaper L'Equipe published an analytical report on how parents should appropriately interact with their children after sports defeats. Psychologists warn that humiliating phrases harm the child's spirit. Christophe Bernelle considers such behaviors emotional abuse and emphasizes that maintaining the joy of sports is important for the child's personality development.",
+        "time": "07:38",
+        "ts": 1792049890
       }
     ],
     "language": "en",
-    "packId": "20261015-22",
-    "sequence": 22,
+    "packId": "20261015-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:33"
+    "updatedAt": "07:38"
   },
   "verified": true
 }
