@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-33 seq=33 exp=1792256528",
+      "advancedStatus": "pack_id=20261015-34 seq=34 exp=1792256667",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:02",
+      "lastChecked": "17:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 17:02",
+    "expiresAt": "2026-10-17 17:04",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The bulk carrier Cape Dao, flying the flag of Antigua and Barbuda, sank near the Strait of Hormuz. The ship had been hit by a projectile on October 1. Earlier, the container ship GFS Pride also caught fire and sank after an attack.",
-        "time": "17:01",
-        "ts": 1791997309
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -455,14 +448,21 @@
         "text": "The US Treasury Department added 16 individuals and 10 entities linked to Iran to its OFAC sanctions list on Thursday, October 15. The sanctioned individuals are all Iranian, and the targeted entities include banks, exchange offices, and companies in Iran, Iraq, and Hong Kong. OFAC also sanctioned the International Development Bank for Investment and Finance in Iraq and simultaneously issued a license to wind down transactions with this bank.",
         "time": "16:58",
         "ts": 1792083498
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A welfare store employee reported non-payment of salary and insurance and difficulties in treating their sick child. Students in Tehran lack specialized teachers, and a retiree from Mashhad complained about income decile changes due to inflation. Criticisms were also raised about the political situation and human rights in the Islamic Republic.",
+        "time": "17:03",
+        "ts": 1792083804
       }
     ],
     "language": "en",
-    "packId": "20261015-33",
-    "sequence": 33,
+    "packId": "20261015-34",
+    "sequence": 34,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:02"
+    "updatedAt": "17:04"
   },
   "verified": true
 }
