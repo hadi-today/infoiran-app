@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-25 seq=25 exp=1792223513",
+      "advancedStatus": "pack_id=20261015-26 seq=26 exp=1792223622",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:51",
+      "lastChecked": "07:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 07:51",
+    "expiresAt": "2026-10-17 07:53",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Vatican announced that the surgery of Pope Leo XIV was successful. Examination of lung tissues confirmed his lung cancer diagnosis. The Pope regained consciousness after the operation and returned to his room.",
-        "time": "07:52",
-        "ts": 1791964327
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -504,14 +497,21 @@
         "text": "Hossein Alizadeh says the meeting between the Israeli president and the presidents of Azerbaijan and Bahrain at the Asia-Africa security summit is of special importance. He noted that Israel and Bahrain's relations continue based on the Abraham Accords. Alizadeh described Israel's diplomacy around Iran as active.",
         "time": "07:51",
         "ts": 1792050669
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Rouhollah Rahimpour said Donald Trump is trying to convince public opinion, global energy markets, and the Islamic Republic that the timing of the war's end is in America's hands. He added that developments are proceeding according to the White House's plans and desires.",
+        "time": "07:52",
+        "ts": 1792050779
       }
     ],
     "language": "en",
-    "packId": "20261015-25",
-    "sequence": 25,
+    "packId": "20261015-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:51"
+    "updatedAt": "07:53"
   },
   "verified": true
 }
