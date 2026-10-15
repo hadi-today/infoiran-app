@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-44 seq=44 exp=1792232705",
+      "advancedStatus": "pack_id=20261015-45 seq=45 exp=1792233098",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:25",
+      "lastChecked": "10:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 10:25",
+    "expiresAt": "2026-10-17 10:31",
     "items": [
       {
         "channel": "iranintl",
@@ -553,14 +553,21 @@
         "text": "FIFA and the Saudi Electronic Sports Federation postponed the final stage of the FIFA global esports competition in Jeddah. This decision was made following recent Houthi attacks and an assessment of regional developments. No new date for the competition has been announced yet.",
         "time": "10:24",
         "ts": 1792059865
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The head of the country's emergency organization stated that about 3,000 ambulances are worn out and need to be renewed. The renovation of this fleet depends on the participation of the governorates. In Hamadan, 16 ambulances have been purchased in the past month, and the purchase of four more is underway.",
+        "time": "10:30",
+        "ts": 1792060227
       }
     ],
     "language": "en",
-    "packId": "20261015-44",
-    "sequence": 44,
+    "packId": "20261015-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:25"
+    "updatedAt": "10:31"
   },
   "verified": true
 }
