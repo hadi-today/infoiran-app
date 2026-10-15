@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-20 seq=20 exp=1792221273",
+      "advancedStatus": "pack_id=20261015-21 seq=21 exp=1792222284",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:14",
+      "lastChecked": "07:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 07:14",
+    "expiresAt": "2026-10-17 07:31",
     "items": [
       {
         "channel": "iranintl",
@@ -504,14 +504,21 @@
         "text": "Jose Mourinho, Real Madrid's coach, criticized the timing of Vinicius Junior's four-match suspension. This suspension will cause Vinicius to miss the crucial match against Barcelona. Mourinho described the behavior of Spanish football authorities as shameless.",
         "time": "07:13",
         "ts": 1792048426
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Wheat farmers in Iran have started the new planting season but have not yet received part of the payment for last year's crop. The dollar value of their claims has decreased, while official prices of some types of bread have nearly doubled. This situation has increased economic pressure on both producers and consumers.",
+        "time": "07:30",
+        "ts": 1792049442
       }
     ],
     "language": "en",
-    "packId": "20261015-20",
-    "sequence": 20,
+    "packId": "20261015-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:14"
+    "updatedAt": "07:31"
   },
   "verified": true
 }
