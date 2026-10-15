@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-15 seq=15 exp=1792245931",
+      "advancedStatus": "pack_id=20261015-16 seq=16 exp=1792246039",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:05",
+      "lastChecked": "14:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 14:05",
+    "expiresAt": "2026-10-17 14:07",
     "items": [
       {
         "channel": "harana",
@@ -483,14 +483,21 @@
         "text": "The Saudi-led coalition announced that the Houthis targeted Riyadh airport 20 times in October, resulting in 17 deaths. Attacks from October 7 to 11 on King Khalid International Airport caused 333 injuries. The Houthis also attempted to attack dozens of airports, oil facilities, and ports in Saudi Arabia.",
         "time": "14:01",
         "ts": 1792072865
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Saeed Shakiba, a voice actor and satirist, faced legal action and had his Instagram page blocked after posting a video imitating Ali Khamenei's voice. Some users praised his talent and expressed concern for his fate. Adela Borang from Iran International reported on these reactions.",
+        "time": "14:05",
+        "ts": 1792073138
       }
     ],
     "language": "en",
-    "packId": "20261015-15",
-    "sequence": 15,
+    "packId": "20261015-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:05"
+    "updatedAt": "14:07"
   },
   "verified": true
 }
