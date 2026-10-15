@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-07 seq=7 exp=1792241673",
+      "advancedStatus": "pack_id=20261015-08 seq=8 exp=1792241913",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:54",
+      "lastChecked": "12:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 12:54",
+    "expiresAt": "2026-10-17 12:58",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Forough Ram, a Bahá'í citizen residing in Zahedan, was transferred to Zahedan prison to serve a one-year sentence. She was convicted due to posting stories about the December 1404 protests. During the trial, her lawyer was not allowed to enter the court session.",
-        "time": "12:53",
-        "ts": 1791982438
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Kepler data analysis company announced that Chinese refineries have increased crude oil purchases from the Middle East. Since mid-September, Chinese buyers have purchased at least 80 million barrels of Saudi crude oil. This increased demand may prevent further declines in Dubai crude oil prices.",
-        "time": "12:57",
-        "ts": 1791982623
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -504,14 +490,21 @@
         "text": "Yaser Taheri, a member of the Mazandaran Central Clergy Society and imam of Imam Hassan Askari Mosque, was killed at his home on Thursday, October 15. He was killed with a cold weapon, and judicial investigations are ongoing at the crime scene. The cause and further details will be announced after forensic examinations.",
         "time": "12:53",
         "ts": 1792068787
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The spokesperson of the IRGC stated that the attack on three oil tankers on July 5, 2025, was not unauthorized and was coordinated with higher authorities. These attacks were described as a decisive response to the US breach of agreement. The attacks on the violator ships occurred after the signing of the Islamabad agreement.",
+        "time": "12:57",
+        "ts": 1792069073
       }
     ],
     "language": "en",
-    "packId": "20261015-07",
-    "sequence": 7,
+    "packId": "20261015-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:54"
+    "updatedAt": "12:58"
   },
   "verified": true
 }
