@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-09 seq=9 exp=1792242304",
+      "advancedStatus": "pack_id=20261015-11 seq=11 exp=1792242833",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:05",
+      "lastChecked": "13:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 13:05",
+    "expiresAt": "2026-10-17 13:13",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Officials in Sistan and Baluchestan reported the killing of Afsaneh Aghila, a female Basij commander, and Mohammad Ali Shahriari, a police officer, in two separate attacks in Mehrestan county. Afsaneh Aghila was shot dead in front of her home, and Mohammad Ali Shahriari was killed in an attack on a police vehicle. These incidents occurred on Wednesday, October 14.",
-        "time": "13:08",
-        "ts": 1791983284
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "The Hormozgan governorate confirmed that three people were injured in an incident involving an unidentified drone in the waters of Sirik. A fishing vessel was targeted and the injured were transferred to the shore. It was also reported that the IRGC uses unarmed lookouts on boats to identify targets.",
-        "time": "13:08",
-        "ts": 1791983332
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "The Israeli Prime Minister stated that an attack on Iran before the elections is not suitable for Israel. He announced that if re-elected, he will destroy Hamas, Hezbollah, and the Iranian regime. Times of Israel noted past efforts by Israel and the US to downplay the possibility of an attack on Iran.",
-        "time": "13:10",
-        "ts": 1791983425
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -511,14 +490,28 @@
         "text": "The Navy announced that patrol teams identified a tanker on fire in the restricted area east of the Strait of Hormuz. The tanker had turned off its tracking systems. Another tanker with similar conditions caught fire the day before.",
         "time": "13:03",
         "ts": 1792069389
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Abbas Lasani, a Turk activist imprisoned in Evin Prison, has been deprived of specialized medical care. The prison's medical officer ordered his transfer to the hospital for an MRI and specialist examination. However, Niri, the supervising prosecutor of Evin Prison, opposed this transfer.",
+        "time": "13:05",
+        "ts": 1792069516
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Benjamin Netanyahu will hold a security meeting on Thursday evening, October 15, with heads of Israeli security agencies. The meeting will address concerns about the revival of Tehran's nuclear program and preparedness for various scenarios. The Chief of Staff, Mossad head, Shin Bet head, and Defense Minister will attend the session.",
+        "time": "13:13",
+        "ts": 1792069993
       }
     ],
     "language": "en",
-    "packId": "20261015-09",
-    "sequence": 9,
+    "packId": "20261015-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:05"
+    "updatedAt": "13:13"
   },
   "verified": true
 }
