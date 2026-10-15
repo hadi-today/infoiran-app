@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-41 seq=41 exp=1792268675",
+      "advancedStatus": "pack_id=20261015-42 seq=42 exp=1792269062",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:24",
+      "lastChecked": "20:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 20:24",
+    "expiresAt": "2026-10-17 20:31",
     "items": [
       {
         "channel": "iranintl",
@@ -371,14 +371,21 @@
         "text": "Behnam Ben Taleblu said there are signs of readiness by the US and Iran to escalate tensions after the elections. The likelihood of completely avoiding military conflict is low, but the end of the war is uncertain. Iran's attacks on infrastructure may create a consensus against Tehran, though a definitive military coalition is not certain.",
         "time": "20:22",
         "ts": 1792095726
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Benjamin Netanyahu, ahead of the Israeli elections, released a video claiming his government saved Israel from destruction by the Islamic Republic. The Israeli defense minister described Netanyahu's policy towards the Islamic Republic as aggressive and proactive. These statements were made in discussions with Israeli affairs analysts.",
+        "time": "20:30",
+        "ts": 1792096241
       }
     ],
     "language": "en",
-    "packId": "20261015-41",
-    "sequence": 41,
+    "packId": "20261015-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:24"
+    "updatedAt": "20:31"
   },
   "verified": true
 }
