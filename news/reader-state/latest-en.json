@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-06 seq=6 exp=1792207799",
+      "advancedStatus": "pack_id=20261015-07 seq=7 exp=1792207954",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:29",
+      "lastChecked": "03:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 03:29",
+    "expiresAt": "2026-10-17 03:32",
     "items": [
       {
         "channel": "iranintl",
@@ -406,14 +406,21 @@
         "text": "Ali Al-Zaidi, the Prime Minister of Iraq, intends to review and sever the ties of about 50,000 Popular Mobilization Forces members with armed groups. The Iraqi government and the Coordination Framework coalition have agreed to continue paying these forces. The goal is to gradually bring the Popular Mobilization Forces under government control without direct confrontation with the group commanders.",
         "time": "03:29",
         "ts": 1792034960
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Two senior Iranian officials told Reuters that Tehran has adopted new tactics for attacking ships in regional waters. Reuters reported that Tehran aims to influence the US midterm elections by raising oil prices. More details were provided by Amir Giti, a member of the Iran International editorial team.",
+        "time": "03:31",
+        "ts": 1792035110
       }
     ],
     "language": "en",
-    "packId": "20261015-06",
-    "sequence": 6,
+    "packId": "20261015-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:29"
+    "updatedAt": "03:32"
   },
   "verified": true
 }
