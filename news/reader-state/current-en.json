@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-24 seq=24 exp=1792251451",
+      "advancedStatus": "pack_id=20261015-25 seq=25 exp=1792252383",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:37",
+      "lastChecked": "15:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 15:37",
+    "expiresAt": "2026-10-17 15:53",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The match between Persepolis and Kheybar Khorramabad in the seventh week of the Premier League ended in a goalless draw. The game was held at Takhti Stadium in Khorramabad, and Persepolis reached the top of the table with 17 points. Tiwi Bifuma missed a key scoring chance, and Kheybar's goalkeeper Mohammadreza Dinarvand had an outstanding performance.",
-        "time": "15:37",
-        "ts": 1791992229
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A letter has been sent to production companies announcing that gas supply to industrial towns will soon be cut off, and factories must find alternative fuel. In areas like Pakdasht and Khuzestan, there are educational problems including lack of textbooks and specialized teachers. Additionally, power outages in Gohardasht have caused damage to household appliances.",
-        "time": "15:37",
-        "ts": 1791992270
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -469,14 +455,21 @@
         "text": "Houthis fired several missiles at the presidential palace complex in Aden on Thursday, killing two security forces. The prime minister and ministers present at the palace were unharmed. Witnesses reported hearing four explosions around the palace.",
         "time": "15:37",
         "ts": 1792078627
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump stated that he promised Iranian officials not to kill other leaders of the regime. Some Iran International audience members reacted to these remarks. More details were provided in an interview with Mohsen Mahyemini.",
+        "time": "15:52",
+        "ts": 1792079554
       }
     ],
     "language": "en",
-    "packId": "20261015-24",
-    "sequence": 24,
+    "packId": "20261015-25",
+    "sequence": 25,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:37"
+    "updatedAt": "15:53"
   },
   "verified": true
 }
