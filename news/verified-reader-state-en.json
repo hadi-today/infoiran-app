@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-22 seq=22 exp=1792249531",
+      "advancedStatus": "pack_id=20261015-23 seq=23 exp=1792249710",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:05",
+      "lastChecked": "15:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 15:05",
+    "expiresAt": "2026-10-17 15:08",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "CENTCOM rejected the Iranian ambassador's claims about threatening behavior by American forces towards Iranian sailors. CENTCOM stated that Iran is the only country attacking civilian sailors in the region's waters. Commercial ship traffic through the Strait of Hormuz continues under the protection of American forces and regional partners.",
-        "time": "15:04",
-        "ts": 1791990258
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of spectators remained outside the doors of Takhti Stadium in Khorramabad and were not allowed to enter by the officers. The officers dispersed the spectators using stun guns and batons. This was reported to Iran International by a witness.",
-        "time": "15:06",
-        "ts": 1791990366
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -490,14 +476,21 @@
         "text": "Twelve days before the Israeli election, the competition between Benjamin Netanyahu, Gadi Eizenkot, and Naftali Bennett has intensified. Polls show that neither bloc has reached the 61 seats needed for a majority government. The election outcome depends on the parties' ability to form a coalition.",
         "time": "15:03",
         "ts": 1792076585
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Moloud Hajizadeh pointed to rising inflation and basic costs in Iran and said the government must reconsider its budget priorities. He emphasized that the costs of ideological and military institutions should be reduced. This is not happening in the current structure of the Islamic Republic.",
+        "time": "15:08",
+        "ts": 1792076887
       }
     ],
     "language": "en",
-    "packId": "20261015-22",
-    "sequence": 22,
+    "packId": "20261015-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:05"
+    "updatedAt": "15:08"
   },
   "verified": true
 }
