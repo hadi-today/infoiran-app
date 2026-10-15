@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-53 seq=53 exp=1792275614",
+      "advancedStatus": "pack_id=20261015-54 seq=54 exp=1792276106",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:20",
+      "lastChecked": "22:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 22:20",
+    "expiresAt": "2026-10-17 22:28",
     "items": [
       {
         "channel": "iranintl",
@@ -455,14 +455,21 @@
         "text": "La Liga condemned offensive chants by fans against Vinicius Junior and Real Madrid in two different matches. Real Sociedad fans chanted against Vinicius even though he was not present in the game. Spanish football authorities are considering stricter measures, including possible partial stadium closures.",
         "time": "22:15",
         "ts": 1792102520
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US Treasury Department has warned about potential misuse of religious charities and funds such as Khums and Zakat. This is part of Washington's efforts to restrict financial networks linked to the Islamic Republic. Additionally, a return to normal relations between the US and Iran may take years.",
+        "time": "22:28",
+        "ts": 1792103288
       }
     ],
     "language": "en",
-    "packId": "20261015-53",
-    "sequence": 53,
+    "packId": "20261015-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:20"
+    "updatedAt": "22:28"
   },
   "verified": true
 }
