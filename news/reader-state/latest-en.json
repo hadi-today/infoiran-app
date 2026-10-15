@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-04 seq=4 exp=1792239390",
+      "advancedStatus": "pack_id=20261015-05 seq=5 exp=1792239759",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:16",
+      "lastChecked": "12:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 12:16",
+    "expiresAt": "2026-10-17 12:22",
     "items": [
       {
         "channel": "iranintl",
@@ -497,14 +497,35 @@
         "text": "Officials in Alkmaar, Netherlands, banned Israeli Hapoel team fans from attending the Europa League match due to security concerns. The Israeli Foreign Ministry condemned the decision as contrary to the spirit of sports. The Israeli ambassador requested limited fan attendance, but the municipality rejected it.",
         "time": "12:16",
         "ts": 1792066583
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A worker at the Khak Kashi mine in Ardakan county died today due to a collapse. The incident occurred at his workplace. No further details about the accident have been released.",
+        "time": "12:18",
+        "ts": 1792066682
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US is considering using the 'Mother of All Bombs' in potential attacks on Iran's energy infrastructure and nuclear facilities. Donald Trump has ordered the preparation of more plans for attacks on Iranian targets. One possible target is the underground nuclear facility Kalang Gazla near Natanz.",
+        "time": "12:18",
+        "ts": 1792066701
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Hamburg High Court convicted two suspects of espionage and planning terrorist operations in Germany and sentenced them to prison. Ali Hassan Sarvari was sentenced to eight years and six months, and Tavab Mohseni to four years and six months in prison. They had spied on prominent figures of the German Jewish community under the orders of the Quds Force of the IRGC.",
+        "time": "12:20",
+        "ts": 1792066824
       }
     ],
     "language": "en",
-    "packId": "20261015-04",
-    "sequence": 4,
+    "packId": "20261015-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:16"
+    "updatedAt": "12:22"
   },
   "verified": true
 }
