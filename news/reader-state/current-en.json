@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261015-01 seq=1 exp=1792196562",
+      "advancedStatus": "pack_id=20261015-02 seq=2 exp=1792197696",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:22",
+      "lastChecked": "00:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-15",
-    "expiresAt": "2026-10-17 00:22",
+    "expiresAt": "2026-10-17 00:41",
     "items": [
       {
         "channel": "iranintl",
@@ -371,14 +371,21 @@
         "text": "Eric Daherty announced that the social network X has removed over 13,000 accounts linked to foreign influence operations by Iran, Russia, and China. These accounts aimed to influence the US midterm elections. X's safety team identified these accounts through preventive investigations.",
         "time": "00:21",
         "ts": 1792023718
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Al-Amin, a prominent Shia cleric in Lebanon, stated that the majority of Shia in the country support Hezbollah handing over its weapons to the Lebanese government. He called for strengthening the government's position and establishing sovereignty throughout Lebanon. Al-Amin is a critic of Hezbollah and Iranian influence and emphasizes the monopoly of weapons by official institutions.",
+        "time": "00:40",
+        "ts": 1792024859
       }
     ],
     "language": "en",
-    "packId": "20261015-01",
-    "sequence": 1,
+    "packId": "20261015-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:22"
+    "updatedAt": "00:41"
   },
   "verified": true
 }
