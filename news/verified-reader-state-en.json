@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-12 seq=12 exp=1792294726",
+      "advancedStatus": "pack_id=20261016-13 seq=13 exp=1792295014",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:38",
+      "lastChecked": "03:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 03:38",
+    "expiresAt": "2026-10-18 03:43",
     "items": [
       {
         "channel": "iranintl",
@@ -574,14 +574,21 @@
         "text": "The Trump administration is considering lifting sanctions on certain oil tankers known as the 'shadow fleet' that carry oil from sanctioned countries. The aim is to reduce maritime transportation costs, which have reached historic highs. Meanwhile, escalating conflicts in the region have supported oil prices.",
         "time": "03:35",
         "ts": 1792121731
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Claudia Tenney and Yassamin Ansari, US representatives, introduced a bipartisan bill called 'Iran' on Thursday to enhance Iranians' access to free internet. The bill requires the US government to regularly review and report on the internet freedom strategy for Iran and calls for examining technologies such as VPNs and satellite communications. It also expands cybersecurity training for journalists and activists.",
+        "time": "03:43",
+        "ts": 1792122181
       }
     ],
     "language": "en",
-    "packId": "20261016-12",
-    "sequence": 12,
+    "packId": "20261016-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:38"
+    "updatedAt": "03:43"
   },
   "verified": true
 }
