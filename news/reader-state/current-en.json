@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-17 seq=17 exp=1792296523",
+      "advancedStatus": "pack_id=20261016-18 seq=18 exp=1792296818",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:08",
+      "lastChecked": "04:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 04:08",
+    "expiresAt": "2026-10-18 04:13",
     "items": [
       {
         "channel": "iranintl",
@@ -616,14 +616,21 @@
         "text": "Farah Pahlavi expressed gratitude for the congratulatory messages on her birthday. She hopes for the final victory of light over darkness and the end of Iran's years of decline. She also highlighted the kindness and solidarity of the people.",
         "time": "04:08",
         "ts": 1792123705
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Erfan Ghaneifard said Israel's warning to the Islamic Republic and Hezbollah is mainly an effort for deterrence and to remind of the cost of any action against Israel. He considers the main risk to be Tehran's miscalculation and the assumption that Israel's will to act is reduced due to elections.",
+        "time": "04:11",
+        "ts": 1792123872
       }
     ],
     "language": "en",
-    "packId": "20261016-17",
-    "sequence": 17,
+    "packId": "20261016-18",
+    "sequence": 18,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:08"
+    "updatedAt": "04:13"
   },
   "verified": true
 }
