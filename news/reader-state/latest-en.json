@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-73 seq=73 exp=1792339817",
+      "advancedStatus": "pack_id=20261016-74 seq=74 exp=1792340034",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:10",
+      "lastChecked": "16:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 16:10",
+    "expiresAt": "2026-10-18 16:13",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "At least 300 students from Takab county were sent to the Rahian Noor camps in the western operational areas. This action violates Iran's commitments under the Convention on the Rights of the Child and the prohibition of using children in military activities. This issue was reported by Harana News Agency.",
-        "time": "16:10",
-        "ts": 1792080640
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "CNN reported that amid tensions in the Strait of Hormuz, the US military has prepared new plans for a possible attack on Iran's energy infrastructure and nuclear sites. These plans include the use of the powerful non-nuclear bomb known as the 'Mother of All Bombs' against the underground site of Kuh-e-Kalang. The report was made by Samira Gharaei from Iran International.",
-        "time": "16:11",
-        "ts": 1792080678
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -819,14 +805,28 @@
         "text": "Seyed Ahmad Mostafanejad, a citizen from Piranshahr, was arrested after being summoned by the IRGC intelligence in the city. He was transferred to an unknown location. This event occurred on Wednesday, October 14.",
         "time": "16:09",
         "ts": 1792166990
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amir Mohammad Rostampour withdrew from the World Youth Boxing Championships due to refusing to fight an Israeli opponent. He has two bronze medals in Asian age group championships. The Iranian Boxing Federation announced this matter.",
+        "time": "16:11",
+        "ts": 1792167104
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Armed Hezbollah members besieged an Iranian drug warehouse in Beirut on Friday, October 16. This occurred during security forces' attempt to seize spoiled drugs. After the army reinforcements arrived, the armed Hezbollah members withdrew.",
+        "time": "16:12",
+        "ts": 1792167149
       }
     ],
     "language": "en",
-    "packId": "20261016-73",
-    "sequence": 73,
+    "packId": "20261016-74",
+    "sequence": 74,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:10"
+    "updatedAt": "16:13"
   },
   "verified": true
 }
