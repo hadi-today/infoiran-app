@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-84 seq=84 exp=1792347106",
+      "advancedStatus": "pack_id=20261016-85 seq=85 exp=1792347977",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:11",
+      "lastChecked": "18:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 18:11",
+    "expiresAt": "2026-10-18 18:26",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Scott Bessent, US Treasury Secretary, said the economic siege on Iran is tightening and the Treasury will not back down until Iran's treasury is empty. The US Treasury announced on Thursday that it disrupted an Iraqi bank that was helping Iran infiltrate the international financial system. The bank also supported Iran's proxy militias.",
-        "time": "18:23",
-        "ts": 1792088583
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The US Central Command rejected the IRGC's report about the MV GFS Pride container ship hitting a mine. CENTCOM stated that the ship was hit by an IRGC projectile. Commercial ship traffic in the Strait of Hormuz continues.",
-        "time": "18:23",
-        "ts": 1792088631
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -840,14 +826,21 @@
         "text": "Donald Trump said the issue of normalizing relations between Israel and Saudi Arabia within the Abraham Accords has been raised again. He expressed a positive view on Saudi Arabia joining these accords. Trump also expressed confidence about Israel's assistance to Saudi Arabia in confronting the Houthis.",
         "time": "18:11",
         "ts": 1792174277
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Brad Cooper, CENTCOM commander, stated that US actions have blocked $25 billion of Iranian oil exports and increased economic pressure on the Islamic Republic and the IRGC. CENTCOM also helped block nearly $350 million in cryptocurrency assets linked to Iran. The pressures have affected Iran's ability to pay salaries to employees and paramilitary forces.",
+        "time": "18:25",
+        "ts": 1792175148
       }
     ],
     "language": "en",
-    "packId": "20261016-84",
-    "sequence": 84,
+    "packId": "20261016-85",
+    "sequence": 85,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:11"
+    "updatedAt": "18:26"
   },
   "verified": true
 }
