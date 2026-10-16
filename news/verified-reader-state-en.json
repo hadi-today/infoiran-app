@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-34 seq=34 exp=1792315314",
+      "advancedStatus": "pack_id=20261016-35 seq=35 exp=1792315955",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:21",
+      "lastChecked": "09:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 09:21",
+    "expiresAt": "2026-10-18 09:32",
     "items": [
       {
         "channel": "iranintl",
@@ -770,14 +770,21 @@
         "text": "Citizens have criticized the costs of government gatherings and allocation of resources to supporters of the Islamic Republic in messages to Iran International. These criticisms come amid rising inflation and economic difficulties for the people. More details were provided by Leila Saadati.",
         "time": "09:19",
         "ts": 1792142399
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ebrahim Azizi, head of the National Security Commission of the Parliament, rejected Trump's threat about using the 'mother of bombs.' He emphasized that the Islamic Republic will respond decisively to any action against national interests and security. The armed forces are prepared to confront any mistaken action by the US.",
+        "time": "09:32",
+        "ts": 1792143130
       }
     ],
     "language": "en",
-    "packId": "20261016-34",
-    "sequence": 34,
+    "packId": "20261016-35",
+    "sequence": 35,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:21"
+    "updatedAt": "09:32"
   },
   "verified": true
 }
