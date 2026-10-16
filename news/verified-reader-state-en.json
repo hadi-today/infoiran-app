@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-01 seq=1 exp=1792281646",
+      "advancedStatus": "pack_id=20261016-02 seq=2 exp=1792284431",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:00",
+      "lastChecked": "00:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 00:00",
+    "expiresAt": "2026-10-18 00:47",
     "items": [
       {
         "channel": "iranintl",
@@ -497,14 +497,21 @@
         "text": "Mohamed Salah scored a goal and provided an assist in Trabzonspor's 4-2 win against KuPS. Trabzonspor won the match 4-2. Salah has scored 8 goals and made 3 assists in 9 games this season.",
         "time": "00:00",
         "ts": 1792108825
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mostafa Sepahvand stated in a London court that a person claiming to be a Revolutionary Guard officer threatened him and his mother with death. After the threats, his car window was broken and his house was broken into. The prosecution says Sepahvand and two others spied for the Iranian intelligence agency.",
+        "time": "00:46",
+        "ts": 1792111612
       }
     ],
     "language": "en",
-    "packId": "20261016-01",
-    "sequence": 1,
+    "packId": "20261016-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:00"
+    "updatedAt": "00:47"
   },
   "verified": true
 }
