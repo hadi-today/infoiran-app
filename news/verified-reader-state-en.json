@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-75 seq=75 exp=1792341647",
+      "advancedStatus": "pack_id=20261016-76 seq=76 exp=1792342489",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:40",
+      "lastChecked": "16:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 16:40",
+    "expiresAt": "2026-10-18 16:54",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,21 @@
         "text": "The International Maritime Organization reported 113 maritime incidents in the Strait of Hormuz and the Middle East as of October 14. The mine clearance operation in the Strait of Hormuz has not yet been carried out and will resume after the conflicts end. The organization is also involved in negotiations to resume ship traffic.",
         "time": "16:40",
         "ts": 1792168820
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Electric vehicle sales in Canada have increased by 55 percent. The share of fully electric models has reached seven percent of the market. Experts say this growth is not enough to achieve the 75 percent target by 2035.",
+        "time": "16:54",
+        "ts": 1792169668
       }
     ],
     "language": "en",
-    "packId": "20261016-75",
-    "sequence": 75,
+    "packId": "20261016-76",
+    "sequence": 76,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:40"
+    "updatedAt": "16:54"
   },
   "verified": true
 }
