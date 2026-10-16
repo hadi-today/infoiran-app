@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-98 seq=98 exp=1792362863",
+      "advancedStatus": "pack_id=20261016-99 seq=99 exp=1792363594",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:34",
+      "lastChecked": "22:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 22:34",
+    "expiresAt": "2026-10-18 22:46",
     "items": [
       {
         "channel": "iranintl",
@@ -826,14 +826,21 @@
         "text": "A shipment containing 780 kilograms of C-4 and TNT explosives was seized last week in Lebanon. The explosives were intended for use in explosive drones against Israeli forces. The seizure highlights the dispute between Hezbollah and the Lebanese government over disarmament.",
         "time": "22:34",
         "ts": 1792190041
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Benjamin Netanyahu warned that any attack by the Islamic Republic of Iran on Israel would be a big mistake. He said Israel can attack Iran alone or with the United States. Netanyahu emphasized that there is no option other than overthrowing the Islamic Republic in Iran.",
+        "time": "22:46",
+        "ts": 1792190773
       }
     ],
     "language": "en",
-    "packId": "20261016-98",
-    "sequence": 98,
+    "packId": "20261016-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:34"
+    "updatedAt": "22:46"
   },
   "verified": true
 }
