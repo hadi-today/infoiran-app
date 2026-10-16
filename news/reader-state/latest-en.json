@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-49 seq=49 exp=1792325261",
+      "advancedStatus": "pack_id=20261016-50 seq=50 exp=1792325554",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:07",
+      "lastChecked": "12:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 12:07",
+    "expiresAt": "2026-10-18 12:12",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,21 @@
         "text": "Alisina Mostafavi, a mountaineer and tar player, was executed on 22 Mehr 1405. A video showing his daughter mourning at his gravestone has been shared on social media. This news was reported by Iran International.",
         "time": "12:07",
         "ts": 1792152432
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Saudi authorities released footage of attacks on Abha, Jazan, and Najran airports. The Saudi-led coalition reported that the attacks on Abha airport caused three deaths and 28 injuries. The coalition spokesperson stated that the Houthis attempted to target dozens of centers including airports.",
+        "time": "12:12",
+        "ts": 1792152730
       }
     ],
     "language": "en",
-    "packId": "20261016-49",
-    "sequence": 49,
+    "packId": "20261016-50",
+    "sequence": 50,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:07"
+    "updatedAt": "12:12"
   },
   "verified": true
 }
