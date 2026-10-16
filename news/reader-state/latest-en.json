@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-69 seq=69 exp=1792337024",
+      "advancedStatus": "pack_id=20261016-70 seq=70 exp=1792337259",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:23",
+      "lastChecked": "15:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 15:23",
+    "expiresAt": "2026-10-18 15:27",
     "items": [
       {
         "channel": "iranintl",
@@ -826,14 +826,21 @@
         "text": "Donald Trump stated that he does not intend to send ground troops to Iran or use nuclear weapons against the Islamic Republic. He also said the US is negotiating with Russia and China about nuclear disarmament. These remarks were made in an interview with Newsmax.",
         "time": "15:23",
         "ts": 1792164206
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "During the suppression of the national revolution in Semnan province, government forces deployed snipers and armed agents in religious sites and student centers. These forces were present in the office of the Friday prayer leader, student dormitories, and the broadcasting organization. The purpose of this deployment was to shoot at protesting people.",
+        "time": "15:25",
+        "ts": 1792164344
       }
     ],
     "language": "en",
-    "packId": "20261016-69",
-    "sequence": 69,
+    "packId": "20261016-70",
+    "sequence": 70,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:23"
+    "updatedAt": "15:27"
   },
   "verified": true
 }
