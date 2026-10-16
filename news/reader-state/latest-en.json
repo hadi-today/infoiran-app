@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-55 seq=55 exp=1792330038",
+      "advancedStatus": "pack_id=20261016-56 seq=56 exp=1792330602",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:27",
+      "lastChecked": "13:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 13:27",
+    "expiresAt": "2026-10-18 13:36",
     "items": [
       {
         "channel": "iranintl",
@@ -812,14 +812,21 @@
         "text": "The Persepolis women's football team secured their fourth consecutive win by defeating Palayesh Gaz Ilam 2-0. The goals were scored by Zahra Ghanbari and Mohaddeseh Zolfi. Persepolis remains at the top of the table and is preparing for the first women's football derby.",
         "time": "13:26",
         "ts": 1792157165
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A kebab restaurant in the Sattarkhan neighborhood of Tehran was demolished due to customers not observing Islamic hijab. The incident involved police and municipal officers. The customer's voice in the video was reproduced using artificial intelligence for security reasons.",
+        "time": "13:36",
+        "ts": 1792157773
       }
     ],
     "language": "en",
-    "packId": "20261016-55",
-    "sequence": 55,
+    "packId": "20261016-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:27"
+    "updatedAt": "13:36"
   },
   "verified": true
 }
