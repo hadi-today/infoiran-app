@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-25 seq=25 exp=1792307332",
+      "advancedStatus": "pack_id=20261016-26 seq=26 exp=1792311001",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:08",
+      "lastChecked": "08:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 07:08",
+    "expiresAt": "2026-10-18 08:10",
     "items": [
       {
         "channel": "iranintl",
@@ -679,14 +679,21 @@
         "text": "The organizing committee of the 2027 Asian Cup announced that preparations are continuing as planned. The tournament will be held from January 7 to February 5, 2027. Despite recent attacks on Riyadh airport causing concerns, the schedule remains unchanged.",
         "time": "07:07",
         "ts": 1792134475
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Peyman Ghadiri, a protester of the National Revolution in Dey month, died after being shot in the head by government agents and falling into a coma for about nine months. The agents raided his home in Qarchak on the night of January 9 and shot him at close range in the head. Ghadiri's child was also arrested the same night to pressure the family.",
+        "time": "08:09",
+        "ts": 1792138174
       }
     ],
     "language": "en",
-    "packId": "20261016-25",
-    "sequence": 25,
+    "packId": "20261016-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:08"
+    "updatedAt": "08:10"
   },
   "verified": true
 }
