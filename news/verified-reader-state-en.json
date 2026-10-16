@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-39 seq=39 exp=1792318617",
+      "advancedStatus": "pack_id=20261016-40 seq=40 exp=1792319530",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:16",
+      "lastChecked": "10:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 10:16",
+    "expiresAt": "2026-10-18 10:32",
     "items": [
       {
         "channel": "iranintl",
@@ -812,14 +812,21 @@
         "text": "Some Iran International viewers reported increased security measures in schools and the presence of individuals promoting against Prince Reza Pahlavi. Names of protesting students are recorded, and bags are searched in some schools. There are also reports of dress code enforcement, camera installation, audio recording, and body searches.",
         "time": "10:16",
         "ts": 1792145794
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Nabih Berri, Speaker of the Lebanese Parliament, met with Saeed Khatibzadeh, Iran's Deputy Foreign Minister, to discuss developments in Lebanon and Tehran-Beirut relations. The meeting took place at the Parliament headquarters. Tofiq Samadi, Iran's chargé d'affaires in Lebanon, was also present.",
+        "time": "10:31",
+        "ts": 1792146707
       }
     ],
     "language": "en",
-    "packId": "20261016-39",
-    "sequence": 39,
+    "packId": "20261016-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:16"
+    "updatedAt": "10:32"
   },
   "verified": true
 }
