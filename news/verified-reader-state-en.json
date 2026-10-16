@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-14 seq=14 exp=1792295356",
+      "advancedStatus": "pack_id=20261016-15 seq=15 exp=1792295648",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:49",
+      "lastChecked": "03:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 03:49",
+    "expiresAt": "2026-10-18 03:54",
     "items": [
       {
         "channel": "iranintl",
@@ -588,14 +588,28 @@
         "text": "Mehdi Saremi-Far said that the Islamic Republic's claims about the war and the Strait of Hormuz are not only for domestic consumption. Some of these claims are republished on misinformation networks outside Iran. The main goal of these narratives is to influence public opinion and the political atmosphere in the US and other countries.",
         "time": "03:48",
         "ts": 1792122536
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amir Hamidi said that continuing the reconstruction of Iran's missile capabilities could increase the political cost for Donald Trump to accept a limited agreement. He added that the US seeks an agreement that reduces nuclear and missile threats. The US aims to prevent the rebuilding of Tehran's military power.",
+        "time": "03:51",
+        "ts": 1792122700
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump said the US might attack Iran's nuclear facilities, including Kuh-e Kolang Gazla. He discussed the possible use of the GBU-43 bomb but did not confirm it. Trump stated that Washington's goal is to prevent Iran from obtaining nuclear weapons and that negotiations are ongoing between the two sides.",
+        "time": "03:52",
+        "ts": 1792122778
       }
     ],
     "language": "en",
-    "packId": "20261016-14",
-    "sequence": 14,
+    "packId": "20261016-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:49"
+    "updatedAt": "03:54"
   },
   "verified": true
 }
