@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-10 seq=10 exp=1792294146",
+      "advancedStatus": "pack_id=20261016-11 seq=11 exp=1792294435",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:29",
+      "lastChecked": "03:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 03:29",
+    "expiresAt": "2026-10-18 03:33",
     "items": [
       {
         "channel": "iranintl",
@@ -560,14 +560,21 @@
         "text": "CNN reported that the US military is considering the possible use of its most powerful non-nuclear weapon in future attacks against the Islamic Republic. This news was reported by Samira Gharaei, a journalist from Iran International.",
         "time": "03:28",
         "ts": 1792121327
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Hamburg High Court convicted Ali Hassan Sarvari and Tavab Mohseni of spying for the Quds Force and involvement in planning terrorist attacks. They had monitored prominent individuals in Berlin and gathered information about them. This report was published by Ahmad Samadi from Iran International.",
+        "time": "03:32",
+        "ts": 1792121522
       }
     ],
     "language": "en",
-    "packId": "20261016-10",
-    "sequence": 10,
+    "packId": "20261016-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:29"
+    "updatedAt": "03:33"
   },
   "verified": true
 }
