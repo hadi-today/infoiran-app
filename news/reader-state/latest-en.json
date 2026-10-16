@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-04 seq=4 exp=1792286986",
+      "advancedStatus": "pack_id=20261016-05 seq=5 exp=1792287782",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:29",
+      "lastChecked": "01:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 01:29",
+    "expiresAt": "2026-10-18 01:43",
     "items": [
       {
         "channel": "iranintl",
@@ -518,14 +518,21 @@
         "text": "Donald Trump, the US President, stated in an interview with Newsmax that he does not consider sending US ground forces to Iran and will not use nuclear weapons against the country.",
         "time": "01:29",
         "ts": 1792114166
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Donald Trump said in an interview with Newsmax that the 'mother of all bombs' is not nuclear, just a very large bomb similar to a small nuclear bomb. He emphasized that he would not use nuclear weapons and that the US is the world's largest nuclear power. Earlier reports had indicated possible plans to use this bomb against Iranian military sites.",
+        "time": "01:42",
+        "ts": 1792114962
       }
     ],
     "language": "en",
-    "packId": "20261016-04",
-    "sequence": 4,
+    "packId": "20261016-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:29"
+    "updatedAt": "01:43"
   },
   "verified": true
 }
