@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-41 seq=41 exp=1792319995",
+      "advancedStatus": "pack_id=20261016-42 seq=42 exp=1792320706",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:39",
+      "lastChecked": "10:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 10:39",
+    "expiresAt": "2026-10-18 10:51",
     "items": [
       {
         "channel": "iranintl",
@@ -826,14 +826,21 @@
         "text": "Bank Keshavarzi has deducted the full salaries of all employees for October due to taxes and has not deposited any money. The reason given is to compensate for lower taxes paid in previous years. This issue has caused dissatisfaction among the employees.",
         "time": "10:39",
         "ts": 1792147170
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A woman in Qom was sentenced to 50 lashes for kissing and hugging a man in a café. The sentence was issued based on her husband's complaint and a video of the physical interaction. The accused denied the charges.",
+        "time": "10:51",
+        "ts": 1792147882
       }
     ],
     "language": "en",
-    "packId": "20261016-41",
-    "sequence": 41,
+    "packId": "20261016-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:39"
+    "updatedAt": "10:51"
   },
   "verified": true
 }
