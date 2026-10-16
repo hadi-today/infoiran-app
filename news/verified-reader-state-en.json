@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-48 seq=48 exp=1792324144",
+      "advancedStatus": "pack_id=20261016-49 seq=49 exp=1792325261",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:49",
+      "lastChecked": "12:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 11:49",
+    "expiresAt": "2026-10-18 12:07",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen sent a video to Iran International criticizing the long simultaneous power and water outages in the heat of Chabahar. He stated that this situation is not the right of the people. This issue has caused public dissatisfaction.",
-        "time": "12:01",
-        "ts": 1792065663
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "Masoud Pezeshkian, on the sidelines of the summit of the 17th Conference of the Parties to the Convention on Biological Diversity and in a meeting with the Prime Minister of Georgia, said the Islamic Republic is not seeking nuclear weapons and that destructive propaganda against Iran is a lie. He added that Iran has always been ready for dialogue but will not submit to force. Pezeshkian also called US sanctions and attacks in recent months unjustifiable and inhumane.",
         "time": "11:48",
         "ts": 1792151320
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alisina Mostafavi, a mountaineer and tar player, was executed on 22 Mehr 1405. A video showing his daughter mourning at his gravestone has been shared on social media. This news was reported by Iran International.",
+        "time": "12:07",
+        "ts": 1792152432
       }
     ],
     "language": "en",
-    "packId": "20261016-48",
-    "sequence": 48,
+    "packId": "20261016-49",
+    "sequence": 49,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:49"
+    "updatedAt": "12:07"
   },
   "verified": true
 }
