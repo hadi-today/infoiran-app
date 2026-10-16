@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-19 seq=19 exp=1792297171",
+      "advancedStatus": "pack_id=20261016-20 seq=20 exp=1792297587",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:19",
+      "lastChecked": "04:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 04:19",
+    "expiresAt": "2026-10-18 04:26",
     "items": [
       {
         "channel": "iranintl",
@@ -630,14 +630,21 @@
         "text": "Farzin Nadimi said that Donald Trump's recent statements aim to pressure the Islamic Republic to change its behavior and move towards negotiations with the US. He also explained the deterrent message of these statements regarding the Strait of Hormuz and possible US military options.",
         "time": "04:19",
         "ts": 1792124350
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Omid Memarian said Trump's remarks about negotiating more easily with Putin than Zelensky indicate a shift in the US approach. The previous goal was to increase economic pressure on Russia. Now, the pressure is more on Ukraine to accept Washington's terms.",
+        "time": "04:26",
+        "ts": 1792124768
       }
     ],
     "language": "en",
-    "packId": "20261016-19",
-    "sequence": 19,
+    "packId": "20261016-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:19"
+    "updatedAt": "04:26"
   },
   "verified": true
 }
