@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-02 seq=2 exp=1792284431",
+      "advancedStatus": "pack_id=20261016-03 seq=3 exp=1792284982",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:47",
+      "lastChecked": "00:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 00:47",
+    "expiresAt": "2026-10-18 00:56",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -434,13 +434,19 @@
         "text": "مصطفی سپه‌وند در دادگاه لندن گفت فردی که خود را افسر سپاه معرفی کرده بود، او و مادرش را تهدید به مرگ کرد. پس از تهدیدها، شیشه خودرویش شکسته و خانه‌اش مورد تعرض قرار گرفت. دادستانی می‌گوید سپه‌وند و دو نفر دیگر برای دستگاه اطلاعاتی جمهوری اسلامی جاسوسی کرده‌اند.",
         "time": "00:46",
         "ts": 1792111612
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "رویترز گزارش داد که دستور محدود کردن سامانه ماهواره‌ای استارشیلد برای ارتش اوکراین از داخل کاخ سفید صادر شده است. مدیران ارشد وزارت دفاع آمریکا پیامی برای کاهش سرعت خدمات استارشیلد دریافت کردند. مقام‌های اوکراینی گفتند این محدودیت هدایت پهپادها را مختل کرده است.",
+        "time": "00:55",
+        "ts": 1792112158
       }
     ],
-    "packId": "20261016-02",
-    "sequence": 2,
+    "packId": "20261016-03",
+    "sequence": 3,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "00:47"
+    "updatedAt": "00:56"
   },
   "verified": true
 }
