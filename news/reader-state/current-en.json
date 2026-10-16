@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-78 seq=78 exp=1792343497",
+      "advancedStatus": "pack_id=20261016-79 seq=79 exp=1792344217",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:11",
+      "lastChecked": "17:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 17:11",
+    "expiresAt": "2026-10-18 17:23",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,21 @@
         "text": "Javidnam Ahmadi Khosravani, a 21-year-old basketball player and student at Sharif University of Technology, was shot dead on the evening of Thursday, January 8, 2026. His sister posted a video expressing her longing for her brother and family and lamented the denial of the right to mourn. Ahmadi Khosravani was the top player in the Tehran basketball league in 2025.",
         "time": "17:11",
         "ts": 1792170667
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Less than three weeks remain until the US midterm elections, with intense competition between Republicans and Democrats for control of Congress. Economy, living costs, and the war with the Islamic Republic are the main concerns of voters. The election results could affect Donald Trump's power in the remaining two years of his presidency.",
+        "time": "17:23",
+        "ts": 1792171388
       }
     ],
     "language": "en",
-    "packId": "20261016-78",
-    "sequence": 78,
+    "packId": "20261016-79",
+    "sequence": 79,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:11"
+    "updatedAt": "17:23"
   },
   "verified": true
 }
