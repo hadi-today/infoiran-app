@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-70 seq=70 exp=1792337259",
+      "advancedStatus": "pack_id=20261016-71 seq=71 exp=1792337914",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:27",
+      "lastChecked": "15:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 15:27",
+    "expiresAt": "2026-10-18 15:38",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Houthis fired several missiles at the presidential palace complex in Aden on Thursday, killing two security forces. The prime minister and ministers present at the palace were unharmed. Witnesses reported hearing four explosions around the palace.",
-        "time": "15:37",
-        "ts": 1792078627
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -833,14 +826,21 @@
         "text": "During the suppression of the national revolution in Semnan province, government forces deployed snipers and armed agents in religious sites and student centers. These forces were present in the office of the Friday prayer leader, student dormitories, and the broadcasting organization. The purpose of this deployment was to shoot at protesting people.",
         "time": "15:25",
         "ts": 1792164344
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Benjamin Netanyahu stated that Israel has eliminated Yahya Sinwar and other leaders of Hamas and Hezbollah through continued military operations. He said that if the war had stopped, Sinwar would not have been killed. Netanyahu attributed the killing of these leaders to the advance in Rafah and control of the Gaza border area.",
+        "time": "15:38",
+        "ts": 1792165087
       }
     ],
     "language": "en",
-    "packId": "20261016-70",
-    "sequence": 70,
+    "packId": "20261016-71",
+    "sequence": 71,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:27"
+    "updatedAt": "15:38"
   },
   "verified": true
 }
