@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-08 seq=8 exp=1792292300",
+      "advancedStatus": "pack_id=20261016-09 seq=9 exp=1792293011",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:58",
+      "lastChecked": "03:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 02:58",
+    "expiresAt": "2026-10-18 03:10",
     "items": [
       {
         "channel": "iranintl",
@@ -546,14 +546,21 @@
         "text": "A 16-year-old teenager opened fire at Silver Rail Elementary School in Bend, Oregon, killing three children and a teacher and injuring two others. The attacker entered the school by shooting locked doors and was found dead after being pursued by someone on site. The governor of Oregon thanked the person who intervened to prevent further casualties.",
         "time": "02:58",
         "ts": 1792119480
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Johannes Kongsnes Natland, a 19-year-old Norwegian, was convicted of conspiracy to murder in the UK on behalf of the Foxtrot gang. He agreed in March 2025 to kill someone for 25,000 euros but was arrested two days after arriving in the UK. The court found him guilty and his sentence will be issued on Friday.",
+        "time": "03:09",
+        "ts": 1792120190
       }
     ],
     "language": "en",
-    "packId": "20261016-08",
-    "sequence": 8,
+    "packId": "20261016-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:58"
+    "updatedAt": "03:10"
   },
   "verified": true
 }
