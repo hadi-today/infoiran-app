@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-63 seq=63 exp=1792334454",
+      "advancedStatus": "pack_id=20261016-64 seq=64 exp=1792334675",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:40",
+      "lastChecked": "14:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 14:40",
+    "expiresAt": "2026-10-18 14:44",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,21 @@
         "text": "Tensions between the Islamic Republic of Iran and Lebanon have escalated due to Beirut's refusal to accept the credentials of the Tehran-appointed ambassador. Abbas Araghchi contacted Joseph Aoun, and Saeed Khatibzadeh traveled to Beirut. These developments have attracted attention.",
         "time": "14:40",
         "ts": 1792161631
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Bagherzadeh, commander of the Missing Persons Search Committee, said that the statements of Qatari officials about the status of Iranian pilots were not convincing. The issue is being pursued through the Ministry of Interior and the International Committee of the Red Cross. A second expert team has been dispatched to continue the investigations.",
+        "time": "14:41",
+        "ts": 1792161667
       }
     ],
     "language": "en",
-    "packId": "20261016-63",
-    "sequence": 63,
+    "packId": "20261016-64",
+    "sequence": 64,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:40"
+    "updatedAt": "14:44"
   },
   "verified": true
 }
