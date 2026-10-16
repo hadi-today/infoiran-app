@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-45 seq=45 exp=1792321632",
+      "advancedStatus": "pack_id=20261016-46 seq=46 exp=1792322579",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:07",
+      "lastChecked": "11:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 11:07",
+    "expiresAt": "2026-10-18 11:22",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "Ali Shirazi stated that the IRGC held a drill to distribute 313,000 livelihood and dowry packages. These aids are not given to ordinary people but are reserved for supporters of the regime. The Islamic Republic aims to maintain the support of its backers amid economic pressure.",
         "time": "11:05",
         "ts": 1792148728
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The nursing director of Mashhad University of Medical Sciences reported a shortage of about 2,500 nurses in the city. Hiring enough staff, improving salaries and benefits, and providing welfare facilities are essential to reduce nurse burnout. Nurses also face mandatory overtime, which increases their job stress.",
+        "time": "11:22",
+        "ts": 1792149759
       }
     ],
     "language": "en",
-    "packId": "20261016-45",
-    "sequence": 45,
+    "packId": "20261016-46",
+    "sequence": 46,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:07"
+    "updatedAt": "11:22"
   },
   "verified": true
 }
