@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-60 seq=60 exp=1792332630",
+      "advancedStatus": "pack_id=20261016-61 seq=61 exp=1792333893",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:10",
+      "lastChecked": "14:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 14:10",
+    "expiresAt": "2026-10-18 14:31",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Bloomberg reported that the US has told International Energy Agency member countries that current plans to release emergency oil reserves are insufficient. US officials have not yet made a formal proposal but are informally negotiating to release at least 100 million more barrels of oil. This issue was raised at the International Energy Agency meeting in Paris.",
-        "time": "14:17",
-        "ts": 1792073854
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The price of a vital drug for patients with primary immunodeficiency has increased from 120,000 to 6,300,000 tomans. This increase has made treatment costs difficult for many families. The method of supplying this drug and government support have faced criticism and questions.",
-        "time": "14:26",
-        "ts": 1792074363
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The final hearing for Artin Ghazanfari's charges, a Bahá'í citizen, was held on Tuesday, 7 Mehr, at Branch 15 of Tehran Revolutionary Court. Artin Ghazanfari attended the session with his lawyer and defended himself. The session was presided over by Judge Abolghasem Salavati.",
-        "time": "14:27",
-        "ts": 1792074448
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -819,14 +798,21 @@
         "text": "Forough Kanani referred to the Hamburg court ruling against two agents linked to the IRGC. She said European countries are now seeing the consequences of their appeasement policy with the Islamic Republic. She also emphasized that Iranians abroad had warned for years about the threat of terrorist actions.",
         "time": "14:10",
         "ts": 1792159802
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The commander of the Missing Persons Search Committee said that Qatar's explanations about the fate of the Iranian pilots were not convincing. A second team will be sent to Qatar to investigate the matter. The International Committee of the Red Cross is also following up on the issue.",
+        "time": "14:31",
+        "ts": 1792161066
       }
     ],
     "language": "en",
-    "packId": "20261016-60",
-    "sequence": 60,
+    "packId": "20261016-61",
+    "sequence": 61,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:10"
+    "updatedAt": "14:31"
   },
   "verified": true
 }
