@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-67 seq=67 exp=1792336232",
+      "advancedStatus": "pack_id=20261016-69 seq=69 exp=1792337024",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:10",
+      "lastChecked": "15:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 15:10",
+    "expiresAt": "2026-10-18 15:23",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,35 @@
         "text": "The Tehran Fire Department reported a fire in the shopping and café area of the Enghelab Sports Complex. The incident occurred on the afternoon of Friday, October 16. The cause and any casualties have not yet been announced.",
         "time": "15:10",
         "ts": 1792163406
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Police entered a high school in Saint-Denis, France, to arrest a teenager, causing protests from teachers and students. The third round of negotiations with the Minister of Education ended without agreement. Disputes over the October 17 demonstration in Paris continue.",
+        "time": "15:17",
+        "ts": 1792163835
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A young Norwegian was sentenced to 20 years in prison for a murder conspiracy ordered by the Islamic Republic. In Germany, two agents linked to the IRGC were sentenced to a total of 13 years in prison. The trial of three Iranian nationals accused of espionage and planning attacks on Iran International journalists in London continues.",
+        "time": "15:23",
+        "ts": 1792164199
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump stated that he does not intend to send ground troops to Iran or use nuclear weapons against the Islamic Republic. He also said the US is negotiating with Russia and China about nuclear disarmament. These remarks were made in an interview with Newsmax.",
+        "time": "15:23",
+        "ts": 1792164206
       }
     ],
     "language": "en",
-    "packId": "20261016-67",
-    "sequence": 67,
+    "packId": "20261016-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:10"
+    "updatedAt": "15:23"
   },
   "verified": true
 }
