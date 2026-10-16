@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261016-80 seq=80 exp=1792345266",
+      "advancedStatus": "pack_id=20261016-81 seq=81 exp=1792345502",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:41",
+      "lastChecked": "17:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-16",
-    "expiresAt": "2026-10-18 17:41",
+    "expiresAt": "2026-10-18 17:45",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,21 @@
         "text": "Ali Kayali, a commander allied with Bashar al-Assad and the main suspect in the killing of 248 civilians in Syria, was abducted near Beirut by Syrian and Turkish intelligence agents and transferred to Syria. The operation was reportedly coordinated with Lebanese authorities, but a Lebanese security official denied their knowledge. The official Syrian news agency confirmed Kayali's arrest.",
         "time": "17:40",
         "ts": 1792172441
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Elon Musk unveiled the new version of the Tesla Roadster after nearly 9 years of waiting at the SpaceX test site. The car accelerates from zero to 100 km/h in less than one second and can lift off the ground using compressed air engines. Official production of this joint Tesla and SpaceX product will begin in 2028.",
+        "time": "17:44",
+        "ts": 1792172679
       }
     ],
     "language": "en",
-    "packId": "20261016-80",
-    "sequence": 80,
+    "packId": "20261016-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:41"
+    "updatedAt": "17:45"
   },
   "verified": true
 }
