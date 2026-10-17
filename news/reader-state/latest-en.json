@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261017-22 seq=22 exp=1792399522",
+      "advancedStatus": "pack_id=20261017-23 seq=23 exp=1792400315",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:45",
+      "lastChecked": "08:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-17",
-    "expiresAt": "2026-10-19 08:45",
+    "expiresAt": "2026-10-19 08:58",
     "items": [
       {
         "channel": "iranintl",
@@ -749,14 +749,21 @@
         "text": "Alireza Malekzadeh, a political prisoner in Tehran Grand Prison, was sentenced to 15 years in prison. The sentence was issued by Branch 26 of the Tehran Revolutionary Court headed by Judge Iman Afshari. His charge was sending images and coordinates of locations.",
         "time": "08:44",
         "ts": 1792226695
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Majid Parsa, the director general of Tehran's education department, announced that homeschooling centers are illegal. Identified centers will face legal action and be referred to relevant authorities. Some of these centers have been sealed.",
+        "time": "08:58",
+        "ts": 1792227490
       }
     ],
     "language": "en",
-    "packId": "20261017-22",
-    "sequence": 22,
+    "packId": "20261017-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:45"
+    "updatedAt": "08:58"
   },
   "verified": true
 }
