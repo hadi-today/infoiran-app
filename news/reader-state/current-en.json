@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261017-09 seq=9 exp=1792383514",
+      "advancedStatus": "pack_id=20261017-10 seq=10 exp=1792383957",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:18",
+      "lastChecked": "04:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-17",
-    "expiresAt": "2026-10-19 04:18",
+    "expiresAt": "2026-10-19 04:25",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Farzin Nadimi said that Donald Trump's recent statements aim to pressure the Islamic Republic to change its behavior and move towards negotiations with the US. He also explained the deterrent message of these statements regarding the Strait of Hormuz and possible US military options.",
-        "time": "04:19",
-        "ts": 1792124350
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -749,14 +742,21 @@
         "text": "EU leaders emphasized continuing pressure on Moscow at the Brussels meeting. Ursula von der Leyen announced preparations for the 22nd sanctions package. Volodymyr Zelensky requested 70 billion euros in aid for the next year.",
         "time": "04:13",
         "ts": 1792210439
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Omid Memarian said that the US goal is not only to destroy Iran's military and nuclear facilities. Washington wants to change the Islamic Republic officials' calculation about the cost of continuing resistance. The US tries to convey that resistance is possible but may come at the cost of the Islamic Republic's destruction.",
+        "time": "04:25",
+        "ts": 1792211137
       }
     ],
     "language": "en",
-    "packId": "20261017-09",
-    "sequence": 9,
+    "packId": "20261017-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:18"
+    "updatedAt": "04:25"
   },
   "verified": true
 }
