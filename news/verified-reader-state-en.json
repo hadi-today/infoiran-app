@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261017-61 seq=61 exp=1792447234",
+      "advancedStatus": "pack_id=20261017-62 seq=62 exp=1792447821",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:00",
+      "lastChecked": "22:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-17",
-    "expiresAt": "2026-10-19 22:00",
+    "expiresAt": "2026-10-19 22:10",
     "items": [
-      {
-        "channel": "ایران اینترنشنال",
-        "language": "en",
-        "text": "Donald Trump, the US president, said at a campaign rally in Dalton, Georgia, that the war with the Islamic Republic will end 'very, very soon' and stressed that Iran will never obtain a nuclear weapon. He noted that before the military operations, the US economy was in very good condition. Trump added that he was compelled to act to prevent Iran from acquiring nuclear weapons.",
-        "time": "22:09",
-        "ts": 1792188591
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -546,14 +539,21 @@
         "text": "Benjamin Netanyahu reiterated his commitment to overthrowing the Islamic Republic. He described this goal as an unfinished mission that must be completed. Netanyahu considered the Islamic Republic a threat to Israel that must be overthrown.",
         "time": "22:00",
         "ts": 1792274412
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The German Foreign Ministry stated it will respond to Tehran's actions. This stance came after two individuals linked to the Quds Force were sentenced to 13 years in prison. Details of possible measures have not yet been announced.",
+        "time": "22:09",
+        "ts": 1792274995
       }
     ],
     "language": "en",
-    "packId": "20261017-61",
-    "sequence": 61,
+    "packId": "20261017-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:00"
+    "updatedAt": "22:10"
   },
   "verified": true
 }
