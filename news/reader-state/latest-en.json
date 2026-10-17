@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261017-29 seq=29 exp=1792403339",
+      "advancedStatus": "pack_id=20261017-30 seq=30 exp=1792403575",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:48",
+      "lastChecked": "09:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-17",
-    "expiresAt": "2026-10-19 09:48",
+    "expiresAt": "2026-10-19 09:52",
     "items": [
       {
         "channel": "iranintl",
@@ -756,14 +756,21 @@
         "text": "The family of Alireza Raeisi, an executed protester, was able to visit his grave for the first time. Security forces did not inform the family of the exact burial location on the day of the execution. Raeisi was executed in connection with the December protests in Isfahan.",
         "time": "09:48",
         "ts": 1792230514
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Sheikh, the executive deputy of the army, said at the inauguration of Abdolrahim Mousavi Highway that the father of bombs is the Iranian nation. This statement was made in response to Trump's threat to use the mother of bombs. He made this remark on the sidelines of the ceremony.",
+        "time": "09:52",
+        "ts": 1792230753
       }
     ],
     "language": "en",
-    "packId": "20261017-29",
-    "sequence": 29,
+    "packId": "20261017-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:48"
+    "updatedAt": "09:52"
   },
   "verified": true
 }
