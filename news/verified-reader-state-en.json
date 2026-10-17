@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261017-52 seq=52 exp=1792416288",
+      "advancedStatus": "pack_id=20261017-53 seq=53 exp=1792416746",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:24",
+      "lastChecked": "13:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-17",
-    "expiresAt": "2026-10-19 13:24",
+    "expiresAt": "2026-10-19 13:32",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Denmark criticized the actions of the Islamic Republic at the UN Security Council meeting. It called for an immediate halt to attacks against regional countries. Denmark also demanded the prevention of threats to freedom of navigation in the Strait of Hormuz.",
-        "time": "13:22",
-        "ts": 1792156975
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Persepolis women's football team secured their fourth consecutive win by defeating Palayesh Gaz Ilam 2-0. The goals were scored by Zahra Ghanbari and Mohaddeseh Zolfi. Persepolis remains at the top of the table and is preparing for the first women's football derby.",
-        "time": "13:26",
-        "ts": 1792157165
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -784,14 +770,21 @@
         "text": "Pakistan has temporarily closed the Taftan passenger crossing at the Iran border. This measure is part of coordinated security efforts between Tehran and Islamabad to combat smuggling and armed groups. Additionally, Iran's exports to Pakistan have been temporarily halted due to banking sanctions.",
         "time": "13:21",
         "ts": 1792243276
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Theo Franken, Belgium's Minister of Defense, announced that Prince Reza Pahlavi will speak about the Middle East at the Royal Military Academy of Belgium on Friday, November 6. This event provides an opportunity to better understand the geopolitical complexities of the Middle East. The Minister of Defense will welcome Reza Pahlavi at the academy.",
+        "time": "13:31",
+        "ts": 1792243916
       }
     ],
     "language": "en",
-    "packId": "20261017-52",
-    "sequence": 52,
+    "packId": "20261017-53",
+    "sequence": 53,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:24"
+    "updatedAt": "13:32"
   },
   "verified": true
 }
