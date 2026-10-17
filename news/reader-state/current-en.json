@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261017-62 seq=62 exp=1792447821",
+      "advancedStatus": "pack_id=20261017-63 seq=63 exp=1792448123",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:10",
+      "lastChecked": "22:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-17",
-    "expiresAt": "2026-10-19 22:10",
+    "expiresAt": "2026-10-19 22:15",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "On the evening of October 16, two missiles struck Aden International Airport in Yemen. Passengers of a plane were evacuated to Cairo while another plane was en route to Aden. Aden police identified Iran-backed Houthis as responsible for the attack.",
-        "time": "22:10",
-        "ts": 1792188636
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Brad Cooper stated that US actions have so far prevented the export of at least 25 billion dollars of Iranian crude oil. Nearly 350 million dollars in cryptocurrency assets related to the Islamic Republic have also been blocked. Economic pressures have affected the Islamic Republic's ability to pay security forces' salaries.",
-        "time": "22:11",
-        "ts": 1792188674
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Kambiz Tavana stated that the US military presence in the region is not only for military operations but also to exert economic pressure and limit the financial resources of the Islamic Republic. He added that Trump's remarks about the imminent end of the war may be based on assessments of the impact of sanctions. The US is considering continuing economic pressure without escalating military operations.",
-        "time": "22:14",
-        "ts": 1792188850
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -546,14 +525,21 @@
         "text": "The German Foreign Ministry stated it will respond to Tehran's actions. This stance came after two individuals linked to the Quds Force were sentenced to 13 years in prison. Details of possible measures have not yet been announced.",
         "time": "22:09",
         "ts": 1792274995
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Vaisi, a senior analyst at Iran International, said that Iranian officials claim Israel killed Ebrahim Raisi. He added that Israel largely determines or changes senior officials in Iran. He also said Israel changes the names of Tehran's streets, and the city council only installs the new signs.",
+        "time": "22:14",
+        "ts": 1792275259
       }
     ],
     "language": "en",
-    "packId": "20261017-62",
-    "sequence": 62,
+    "packId": "20261017-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:10"
+    "updatedAt": "22:15"
   },
   "verified": true
 }
