@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261017-15 seq=15 exp=1792393757",
+      "advancedStatus": "pack_id=20261017-16 seq=16 exp=1792395209",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:09",
+      "lastChecked": "07:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-17",
-    "expiresAt": "2026-10-19 07:09",
+    "expiresAt": "2026-10-19 07:33",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The organizing committee of the 2027 Asian Cup announced that preparations are continuing as planned. The tournament will be held from January 7 to February 5, 2027. Despite recent attacks on Riyadh airport causing concerns, the schedule remains unchanged.",
-        "time": "07:07",
-        "ts": 1792134475
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -742,14 +735,21 @@
         "text": "Masoud Pezeshkian stated at the inauguration ceremony of educational projects that every capable person can take on greater responsibilities. He emphasized that managers should not hinder the talents of others and that education is a right for all children. He also stressed the need to improve education quality and transform teaching methods.",
         "time": "07:07",
         "ts": 1792220847
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A minibus carrying workers from the Mahabad sugar factory collided with a Nissan pickup on the Mahabad to Miandoab road. One worker died and 12 others were injured in the accident. The incident resulted in casualties and injuries.",
+        "time": "07:33",
+        "ts": 1792222387
       }
     ],
     "language": "en",
-    "packId": "20261017-15",
-    "sequence": 15,
+    "packId": "20261017-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:09"
+    "updatedAt": "07:33"
   },
   "verified": true
 }
