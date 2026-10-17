@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261017-63 seq=63 exp=1792448123",
+      "advancedStatus": "pack_id=20261017-64 seq=64 exp=1792449369",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:15",
+      "lastChecked": "22:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-17",
-    "expiresAt": "2026-10-19 22:15",
+    "expiresAt": "2026-10-19 22:36",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The UK Foreign Office has advised its citizens to avoid non-essential travel to Saudi Arabia. This warning covers the entire country except for areas with a higher alert. It also recommends avoiding King Khalid International Airport until its security is assured.",
-        "time": "22:14",
-        "ts": 1792188892
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A shipment containing 780 kilograms of C-4 and TNT explosives was seized last week in Lebanon. The explosives were intended for use in explosive drones against Israeli forces. The seizure highlights the dispute between Hezbollah and the Lebanese government over disarmament.",
-        "time": "22:34",
-        "ts": 1792190041
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -532,14 +518,21 @@
         "text": "Morad Vaisi, a senior analyst at Iran International, said that Iranian officials claim Israel killed Ebrahim Raisi. He added that Israel largely determines or changes senior officials in Iran. He also said Israel changes the names of Tehran's streets, and the city council only installs the new signs.",
         "time": "22:14",
         "ts": 1792275259
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Morad Veysi stated that subsidies were deposited for 11 million people with an additional 400,000 tomans. Initially, the payment was planned for 44 million people but was gradually reduced to about 10 million. He said the government is reneging on subsidy payments.",
+        "time": "22:35",
+        "ts": 1792276545
       }
     ],
     "language": "en",
-    "packId": "20261017-63",
-    "sequence": 63,
+    "packId": "20261017-64",
+    "sequence": 64,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:15"
+    "updatedAt": "22:36"
   },
   "verified": true
 }
