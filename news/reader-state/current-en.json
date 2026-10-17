@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261017-53 seq=53 exp=1792416746",
+      "advancedStatus": "pack_id=20261017-54 seq=54 exp=1792417001",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:32",
+      "lastChecked": "13:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-17",
-    "expiresAt": "2026-10-19 13:32",
+    "expiresAt": "2026-10-19 13:36",
     "items": [
       {
         "channel": "iranintl",
@@ -777,14 +777,21 @@
         "text": "Theo Franken, Belgium's Minister of Defense, announced that Prince Reza Pahlavi will speak about the Middle East at the Royal Military Academy of Belgium on Friday, November 6. This event provides an opportunity to better understand the geopolitical complexities of the Middle East. The Minister of Defense will welcome Reza Pahlavi at the academy.",
         "time": "13:31",
         "ts": 1792243916
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Mokhtar Vaezi, a labor activist and employee of Tehran's electricity distribution company, was suspended due to an interview about workers' livelihood and job issues. He has been pressured to return to work and threatened with dismissal. He refused to record an apology video and sign a commitment.",
+        "time": "13:35",
+        "ts": 1792244137
       }
     ],
     "language": "en",
-    "packId": "20261017-53",
-    "sequence": 53,
+    "packId": "20261017-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:32"
+    "updatedAt": "13:36"
   },
   "verified": true
 }
