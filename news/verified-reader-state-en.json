@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261017-68 seq=68 exp=1792453559",
+      "advancedStatus": "pack_id=20261017-69 seq=69 exp=1792454162",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:45",
+      "lastChecked": "23:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-17",
-    "expiresAt": "2026-10-19 23:45",
+    "expiresAt": "2026-10-19 23:56",
     "items": [
       {
         "channel": "iranintl",
@@ -546,14 +546,21 @@
         "text": "On Saturday, October 16, various cities in France witnessed widespread protests against rising living costs and declining public services, which in some areas led to violence and arson. Between 550,000 and 800,000 people participated in the protests, and about 400 were arrested. Government officials blamed the violence on the far left and promised to prosecute those responsible.",
         "time": "23:45",
         "ts": 1792280739
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Armed groups in Iraq face financial difficulties due to US sanctions, but payments to Hashd al-Shaabi forces continue. The CENTCOM commander stated that some groups have stopped paying salaries and are sending funds to Tehran. Additionally, an explosion occurred at a Hashd al-Shaabi base in eastern Baghdad.",
+        "time": "23:55",
+        "ts": 1792281341
       }
     ],
     "language": "en",
-    "packId": "20261017-68",
-    "sequence": 68,
+    "packId": "20261017-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:45"
+    "updatedAt": "23:56"
   },
   "verified": true
 }
