@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261017-46 seq=46 exp=1792414946",
+      "advancedStatus": "pack_id=20261017-48 seq=48 exp=1792415373",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:02",
+      "lastChecked": "13:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-17",
-    "expiresAt": "2026-10-19 13:02",
+    "expiresAt": "2026-10-19 13:09",
     "items": [
       {
         "channel": "harana",
@@ -742,14 +742,28 @@
         "text": "Two young Iranians born in Sweden spoke at a protest in Stockholm about raising awareness in Swedish society regarding the repression of the Iranian people. They emphasized continuing support for Iranians' struggle for freedom. The interview was conducted by Mehran Abbassian, a reporter for Iran International.",
         "time": "12:59",
         "ts": 1792241970
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Kazem Alinejad Baranlu, a political prisoner in Evin prison, has started a dry hunger strike due to deprivation of medical services and essential medications. His physical condition is concerning, and he suffers from heart and kidney problems. He has stated that he will continue the hunger strike until his medical demands are addressed.",
+        "time": "13:04",
+        "ts": 1792242284
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of Iranians living in Stockholm marched in the Swedish capital on Saturday, 25 Mehr. The march was held in memory of the immortal figures of the national revolution. A video of this event was received by Iran International.",
+        "time": "13:09",
+        "ts": 1792242544
       }
     ],
     "language": "en",
-    "packId": "20261017-46",
-    "sequence": 46,
+    "packId": "20261017-48",
+    "sequence": 48,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:02"
+    "updatedAt": "13:09"
   },
   "verified": true
 }
