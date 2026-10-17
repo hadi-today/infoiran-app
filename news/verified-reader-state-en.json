@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261017-40 seq=40 exp=1792411845",
+      "advancedStatus": "pack_id=20261017-41 seq=41 exp=1792412404",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:10",
+      "lastChecked": "12:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-17",
-    "expiresAt": "2026-10-19 12:10",
+    "expiresAt": "2026-10-19 12:20",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Saudi authorities released footage of attacks on Abha, Jazan, and Najran airports. The Saudi-led coalition reported that the attacks on Abha airport caused three deaths and 28 injuries. The coalition spokesperson stated that the Houthis attempted to target dozens of centers including airports.",
-        "time": "12:12",
-        "ts": 1792152730
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -721,14 +714,21 @@
         "text": "The governor of Lenjan reported a shortage of 400 personnel in the county's education department. Twenty schools in Fouladshahr operate in two shifts, indicating a lack of capacity and educational staff. Additionally, educational, cultural, and sports facilities in Fouladshahr are below provincial and national averages.",
         "time": "12:10",
         "ts": 1792239019
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Iranians residing in Sweden held a protest gathering in Stockholm, demanding practical support from European officials for the people of Iran. They also called for the closure of the Islamic Republic's embassy in Sweden. Participants carried images of those killed in the protests.",
+        "time": "12:19",
+        "ts": 1792239577
       }
     ],
     "language": "en",
-    "packId": "20261017-40",
-    "sequence": 40,
+    "packId": "20261017-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:10"
+    "updatedAt": "12:20"
   },
   "verified": true
 }
