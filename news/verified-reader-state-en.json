@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-07 seq=7 exp=1792467690",
+      "advancedStatus": "pack_id=20261018-08 seq=8 exp=1792467962",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:41",
+      "lastChecked": "03:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 03:41",
+    "expiresAt": "2026-10-20 03:46",
     "items": [
       {
         "channel": "iranintl",
@@ -574,14 +574,28 @@
         "text": "A group of Iranians living in Washington gathered in front of the former embassy of the Islamic Republic. They commemorated the recent victims and those executed. They also protested the ongoing wave of executions in Iran.",
         "time": "03:41",
         "ts": 1792294867
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Nejatian, head of the Nursing Organization, stated that Iran faces a shortage of at least 100,000 nurses. The nurse-to-hospital-bed ratio in the country has reached one. This issue affects the quality of healthcare in Iran.",
+        "time": "03:43",
+        "ts": 1792294999
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Farzin Karbasi stated that the Iraqi government lacks sufficient power to control armed groups close to the Islamic Republic. He warned that these groups could become active again if tensions escalate. These remarks refer to the security situation in Iraq.",
+        "time": "03:45",
+        "ts": 1792295131
       }
     ],
     "language": "en",
-    "packId": "20261018-07",
-    "sequence": 7,
+    "packId": "20261018-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:41"
+    "updatedAt": "03:46"
   },
   "verified": true
 }
