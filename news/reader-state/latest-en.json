@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-15 seq=15 exp=1792470549",
+      "advancedStatus": "pack_id=20261018-16 seq=16 exp=1792471174",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:29",
+      "lastChecked": "04:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 04:29",
+    "expiresAt": "2026-10-20 04:39",
     "items": [
       {
         "channel": "iranintl",
@@ -588,14 +588,21 @@
         "text": "Hossein Shariatmadari responded to Trump's remarks about the possible use of the 'mother of bombs' and stated that the Islamic Republic will respond to enemy attacks. He threatened that the infrastructure of the US and its allies will be targeted by Iranian missiles. Additionally, US military personnel and nuclear facilities of allied countries were declared targets by Iran.",
         "time": "04:26",
         "ts": 1792297617
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The UK Maritime Trade Organization reported that two projectiles hit a tugboat near the port of Khorfakkan, UAE. The tugboat was damaged but continued its course. One person sustained minor injuries in the incident.",
+        "time": "04:39",
+        "ts": 1792298356
       }
     ],
     "language": "en",
-    "packId": "20261018-15",
-    "sequence": 15,
+    "packId": "20261018-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:29"
+    "updatedAt": "04:39"
   },
   "verified": true
 }
