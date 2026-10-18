@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-102 seq=102 exp=1792530365",
+      "advancedStatus": "pack_id=20261018-103 seq=103 exp=1792530725",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:06",
+      "lastChecked": "21:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 21:06",
+    "expiresAt": "2026-10-20 21:12",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,35 @@
         "text": "The Israeli Prime Minister thanked Trump for his unconditional support for his re-election and said the cooperation between the two countries to counter the threat of the Islamic Republic continues. He stated that the immediate threat of Tehran obtaining a nuclear bomb has been eliminated, but their joint mission is not yet complete. Netanyahu emphasized that this cooperation is vital for Israel's survival and linked it to the election outcome.",
         "time": "21:05",
         "ts": 1792357546
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "At 00:29, two explosion sounds were reported in Konarak. Multiple messages confirm this incident. The source of this news is Vahid Online.",
+        "time": "21:06",
+        "ts": 1792357588
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Hamzeh Darvish, a Sunni prisoner, is being held in Suite 35 of Qezelhesar Prison in Karaj after his transfer. After 23 days without phone contact, he made a brief call to his family but remains deprived of regular visits and calls. Hamzeh ended his hunger strike after one week.",
+        "time": "21:07",
+        "ts": 1792357635
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abbas Araghchi, Iran's foreign minister, stated that Benjamin Netanyahu is dragging the US into another war without considering the consequences. He warned the US that Iran is stronger than before and ready to respond. These remarks were made in reaction to Donald Trump's threats.",
+        "time": "21:08",
+        "ts": 1792357715
       }
     ],
     "language": "en",
-    "packId": "20261018-102",
-    "sequence": 102,
+    "packId": "20261018-103",
+    "sequence": 103,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:06"
+    "updatedAt": "21:12"
   },
   "verified": true
 }
