@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-48 seq=48 exp=1792501148",
+      "advancedStatus": "pack_id=20261018-50 seq=50 exp=1792501614",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:59",
+      "lastChecked": "13:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 12:59",
+    "expiresAt": "2026-10-20 13:06",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Two young Iranians born in Sweden spoke at a protest in Stockholm about raising awareness in Swedish society regarding the repression of the Iranian people. They emphasized continuing support for Iranians' struggle for freedom. The interview was conducted by Mehran Abbassian, a reporter for Iran International.",
-        "time": "12:59",
-        "ts": 1792241970
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -553,14 +546,28 @@
         "text": "The head of Tehran's City Council's Urban Development Commission announced that over 60% of the capital's taxis are worn out and have reached the end of their useful life. These taxis face issues such as low safety, high pollution, and poor service quality. Additionally, the increase in car prices and drivers' livelihood problems were highlighted.",
         "time": "12:58",
         "ts": 1792328327
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Nadri stated that the Islamic Republic has targeted Bahrain and Kuwait in recent months, but the UAE is exempt from this rule. He called for stronger action against the UAE and warned that Iran's maritime and air blockade may continue and a land blockade might begin. Nadri also said that after Iran's airspace was closed, UAE flights to various global destinations should not continue.",
+        "time": "13:00",
+        "ts": 1792328402
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump wrote on Truth Social about the unrest in France, saying borders should be closed and control regained. He stated that France is burning and migration of hateful people has destroyed the country.",
+        "time": "13:03",
+        "ts": 1792328620
       }
     ],
     "language": "en",
-    "packId": "20261018-48",
-    "sequence": 48,
+    "packId": "20261018-50",
+    "sequence": 50,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:59"
+    "updatedAt": "13:06"
   },
   "verified": true
 }
