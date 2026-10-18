@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-37 seq=37 exp=1792493438",
+      "advancedStatus": "pack_id=20261018-38 seq=38 exp=1792495256",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:50",
+      "lastChecked": "11:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 10:50",
+    "expiresAt": "2026-10-20 11:20",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Amir Mohammad Hatami was killed during protests in Shahin Shahr, Isfahan, on January 8, 2026. His mother joined the campaign \"9 apples, 9 months apart\" at his grave. She said that 9 months of waiting turned into a lifetime of eternal waiting.",
-        "time": "11:00",
-        "ts": 1792234807
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mahnaz Zakaei will be the central referee for the first women's football derby between Esteghlal and Persepolis. The match will take place on Friday, 1 Aban 1405, during the fifth week of the women's Premier League. This is also the second women's football match in Iran to be held with video assistant referees.",
-        "time": "11:00",
-        "ts": 1792234854
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Citizens have reported shortages and high prices of medicine and medical equipment. Some have stated that expired medicines are returned to factories and then sent back to pharmacies with new expiration dates. This issue was raised by Mohsen Mahimini on Iran International.",
-        "time": "11:04",
-        "ts": 1792235096
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -546,14 +525,21 @@
         "text": "The head of the Iranian Psychiatric Association reported a widespread shortage of psychiatric drugs in the country. Both imported and domestically produced drugs such as venlafaxine and sertraline have become scarce. These shortages have forced patients to change or stop treatment, increasing the risk of disease relapse.",
         "time": "10:50",
         "ts": 1792320616
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abbas Moqtadaei stated that countries hosting Americans and Israelis in the region are not qualified to comment on regional security unless they compensate for the damages caused. He added that Saudi Arabia should return to the path emphasized by the Quran and avoid discord among Muslims. Moqtadaei also emphasized that Saudi Arabia has made mistakes trusting the US and Israel and needs to reconsider.",
+        "time": "11:20",
+        "ts": 1792322432
       }
     ],
     "language": "en",
-    "packId": "20261018-37",
-    "sequence": 37,
+    "packId": "20261018-38",
+    "sequence": 38,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:50"
+    "updatedAt": "11:20"
   },
   "verified": true
 }
