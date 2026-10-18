@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-53 seq=53 exp=1792502607",
+      "advancedStatus": "pack_id=20261018-54 seq=54 exp=1792503145",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:23",
+      "lastChecked": "13:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 13:23",
+    "expiresAt": "2026-10-20 13:32",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Pakistan has temporarily closed the Taftan passenger crossing at the Iran border. This measure is part of coordinated security efforts between Tehran and Islamabad to combat smuggling and armed groups. Additionally, Iran's exports to Pakistan have been temporarily halted due to banking sanctions.",
-        "time": "13:21",
-        "ts": 1792243276
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Theo Franken, Belgium's Minister of Defense, announced that Prince Reza Pahlavi will speak about the Middle East at the Royal Military Academy of Belgium on Friday, November 6. This event provides an opportunity to better understand the geopolitical complexities of the Middle East. The Minister of Defense will welcome Reza Pahlavi at the academy.",
-        "time": "13:31",
-        "ts": 1792243916
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -539,14 +525,21 @@
         "text": "Sina Parvizi, a citizen of Kamyaran, was summoned to the intelligence office and after several hours of interrogation, he was released on bail.",
         "time": "13:20",
         "ts": 1792329637
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of Iranians residing in Sweden held a protest in Malmö on Sunday, October 18. The protest was against executions by the Islamic Republic. A video of this gathering was received by Iran International.",
+        "time": "13:32",
+        "ts": 1792330322
       }
     ],
     "language": "en",
-    "packId": "20261018-53",
-    "sequence": 53,
+    "packId": "20261018-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:23"
+    "updatedAt": "13:32"
   },
   "verified": true
 }
