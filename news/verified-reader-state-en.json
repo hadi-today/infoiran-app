@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-46 seq=46 exp=1792500300",
+      "advancedStatus": "pack_id=20261018-47 seq=47 exp=1792500735",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:45",
+      "lastChecked": "12:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 12:45",
+    "expiresAt": "2026-10-20 12:52",
     "items": [
       {
         "channel": "iranintl",
@@ -546,14 +546,21 @@
         "text": "During the first six months of the current year, 13 workers died in Khorasan Razavi province. These incidents occurred due to lack of workplace safety and poor working conditions. This statistic was reported by Harana News Agency.",
         "time": "12:44",
         "ts": 1792327473
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli Ministry of Foreign Affairs stated that Hamas demands 10,000 shekels from Gaza merchants for each truck and threatens those who refuse to pay. The son of one merchant has been detained, and merchants have stopped coordinating truck entries out of fear. Hamas disrupts the supply of goods in Gaza to finance its operations.",
+        "time": "12:51",
+        "ts": 1792327913
       }
     ],
     "language": "en",
-    "packId": "20261018-46",
-    "sequence": 46,
+    "packId": "20261018-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:45"
+    "updatedAt": "12:52"
   },
   "verified": true
 }
