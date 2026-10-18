@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-83 seq=83 exp=1792513922",
+      "advancedStatus": "pack_id=20261018-84 seq=84 exp=1792514399",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:32",
+      "lastChecked": "16:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 16:32",
+    "expiresAt": "2026-10-20 16:39",
     "items": [
       {
         "channel": "iranintl",
@@ -770,14 +770,21 @@
         "text": "Sepahan football team drew 0-0 against Shams Azar in the ninth week of the Premier League. Aria Yousefi was sent off in the 32nd minute, and Sepahan played with 10 men for over 60 minutes. With this draw, Sepahan reached 17 points and temporarily moved up to second place in the standings.",
         "time": "16:31",
         "ts": 1792341100
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Benjamin Netanyahu announced Israel's new national security doctrine emphasizing preemptive strikes and increased weapons production. He stated that the war following the October 7, 2023 attack repelled a nuclear threat against Israel. Netanyahu also highlighted the need to revise security principles and the opportunities for new alliances.",
+        "time": "16:39",
+        "ts": 1792341574
       }
     ],
     "language": "en",
-    "packId": "20261018-83",
-    "sequence": 83,
+    "packId": "20261018-84",
+    "sequence": 84,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:32"
+    "updatedAt": "16:39"
   },
   "verified": true
 }
