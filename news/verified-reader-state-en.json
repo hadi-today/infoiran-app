@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-09 seq=9 exp=1792519647",
+      "advancedStatus": "pack_id=20261018-11 seq=11 exp=1792519945",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:07",
+      "lastChecked": "18:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 18:07",
+    "expiresAt": "2026-10-20 18:12",
     "items": [
       {
         "channel": "iranintl",
@@ -98,14 +98,28 @@
         "text": "The Gulf Cooperation Council condemned the attacks by the Houthis on Saudi Arabia and missile and drone attacks by the Islamic Republic and its proxy forces. The council expressed full solidarity with Saudi Arabia and affirmed the right to individual and collective defense. The statement emphasized that an attack on any member is an attack on all members.",
         "time": "18:06",
         "ts": 1792346801
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Tariq Metri, Lebanon's Deputy Prime Minister, announced that the country has asked the Islamic Republic to appoint a new ambassador in Beirut. He also said the ban on Iranian planes landing in Beirut was to prevent an Israeli attack. No progress has been made regarding the monopoly of weapons by the Lebanese government.",
+        "time": "18:09",
+        "ts": 1792346959
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Niusha Saremi mentioned Trump's unconditional support for Netanyahu in the audio version of Titrawal. This support coincided with an ultimatum to the Islamic Republic. The topic was discussed in the Titrawal program.",
+        "time": "18:11",
+        "ts": 1792347104
       }
     ],
     "language": "en",
-    "packId": "20261018-09",
-    "sequence": 9,
+    "packId": "20261018-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:07"
+    "updatedAt": "18:12"
   },
   "verified": true
 }
