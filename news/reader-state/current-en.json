@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-40 seq=40 exp=1792496184",
+      "advancedStatus": "pack_id=20261018-41 seq=41 exp=1792496399",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:36",
+      "lastChecked": "11:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 11:36",
+    "expiresAt": "2026-10-20 11:39",
     "items": [
       {
         "channel": "harana",
@@ -546,14 +546,21 @@
         "text": "Setareh Ghorbani explained the educational problems in France, including budget cuts, teacher shortages, and increased class sizes. She said these issues are linked to the economic situation of families. She also emphasized that unequal access to educational facilities contradicts the principle of equality.",
         "time": "11:35",
         "ts": 1792323357
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ahmad Nadari, a member of the parliament's presidium, reported attacks on Bahrain and Kuwait in recent months and said the UAE is different. He called for stronger actions to break the naval and air blockade. Nadari also mentioned the closure of Najaf airport and the insecurity of regional airports.",
+        "time": "11:37",
+        "ts": 1792323472
       }
     ],
     "language": "en",
-    "packId": "20261018-40",
-    "sequence": 40,
+    "packId": "20261018-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:36"
+    "updatedAt": "11:39"
   },
   "verified": true
 }
