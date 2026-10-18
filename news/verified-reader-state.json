@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-71 seq=71 exp=1792509271",
+      "advancedStatus": "pack_id=20261018-72 seq=72 exp=1792509490",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:14",
+      "lastChecked": "15:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 15:14",
+    "expiresAt": "2026-10-20 15:18",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -584,13 +584,19 @@
         "text": "دونالد ترامپ حمایت کامل خود را از بنیامین نتانیاهو برای نخست‌وزیری مجدد اعلام کرد. او جمهوری اسلامی را تهدیدی علیه اسرائیل و آمریکا خواند و هشدار داد که اگر ایران مسیر خود را تغییر ندهد، آمریکا به تنهایی اقدام خواهد کرد. ترامپ نتانیاهو را شریک بزرگ برای صلح معرفی کرد.",
         "time": "15:10",
         "ts": 1792336254
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "بنیامین نتانیاهو از حمایت کامل دونالد ترامپ در انتخابات اسرائیل تشکر کرد. او این موضوع را در شبکه ایکس اعلام کرد. نتانیاهو تاکید کرد که با همکاری هم ماموریت را به پایان خواهند رساند.",
+        "time": "15:17",
+        "ts": 1792336631
       }
     ],
-    "packId": "20261018-71",
-    "sequence": 71,
+    "packId": "20261018-72",
+    "sequence": 72,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "15:14"
+    "updatedAt": "15:18"
   },
   "verified": true
 }
