@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-35 seq=35 exp=1792492201",
+      "advancedStatus": "pack_id=20261018-36 seq=36 exp=1792492412",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:30",
+      "lastChecked": "10:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 10:30",
+    "expiresAt": "2026-10-20 10:33",
     "items": [
       {
         "channel": "harana",
@@ -546,14 +546,21 @@
         "text": "Alireza Raeisi, a 21-year-old protester, was executed in Dastgerd prison in Isfahan. His eternal resting place is in the deserts of Anarak near the village of Eshin. His family was not informed of the exact burial location due to concerns about public gatherings.",
         "time": "10:28",
         "ts": 1792319334
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reports indicate a shortage of insulin in pharmacies and the black market. The cost of living, including food and education, has increased significantly. There are also issues with renewing residency cards involving high fees.",
+        "time": "10:30",
+        "ts": 1792319442
       }
     ],
     "language": "en",
-    "packId": "20261018-35",
-    "sequence": 35,
+    "packId": "20261018-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:30"
+    "updatedAt": "10:33"
   },
   "verified": true
 }
