@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-56 seq=56 exp=1792503580",
+      "advancedStatus": "pack_id=20261018-57 seq=57 exp=1792503790",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:39",
+      "lastChecked": "13:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 13:39",
+    "expiresAt": "2026-10-20 13:43",
     "items": [
       {
         "channel": "iranintl",
@@ -553,14 +553,28 @@
         "text": "Tesla unveiled flying car technology, which received mixed reactions in Iran. Some technology enthusiasts welcomed the event, while some government media downplayed it. This issue has reignited discussions about Iran's gap with global technological developments.",
         "time": "13:38",
         "ts": 1792330722
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Iran's foreign minister announced that Iran's proposal to reopen the Strait of Hormuz within seven days remains valid. Iran has presented a seven-point plan to the US and is awaiting Washington's response. If Tehran's conditions are accepted, the Strait will reopen on the sixth day and negotiations will begin on the seventh.",
+        "time": "13:40",
+        "ts": 1792330800
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Since last year, salaries of employees and workers have increased by 20%, while essential goods prices have risen over 400%. In some areas like Chabahar, stores refuse to provide goods due to unpaid government debts. Issues such as lack of cooling systems in schools and unpaid contractor workers' wages have also been reported.",
+        "time": "13:41",
+        "ts": 1792330883
       }
     ],
     "language": "en",
-    "packId": "20261018-56",
-    "sequence": 56,
+    "packId": "20261018-57",
+    "sequence": 57,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:39"
+    "updatedAt": "13:43"
   },
   "verified": true
 }
