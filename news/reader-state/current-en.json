@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-30 seq=30 exp=1792489209",
+      "advancedStatus": "pack_id=20261018-31 seq=31 exp=1792489434",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:40",
+      "lastChecked": "09:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 09:40",
+    "expiresAt": "2026-10-20 09:43",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Tehran Football Association has reduced or suspended the suspensions of youth players from Esteghlal and Shahin teams. This decision aims to correct behavior and provide another chance for the youths. Previously, a severe clash in their match led to suspensions for 19 individuals.",
-        "time": "09:38",
-        "ts": 1792229892
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The deputy of Kermanshah University of Medical Sciences denied the infection of a dentistry student with plague. No cases of plague have been reported in Kermanshah province or Iran so far. No further details about the source of this news have been provided.",
-        "time": "09:38",
-        "ts": 1792229938
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -560,14 +546,21 @@
         "text": "Today, Sunday, 26 Mehr, social security retirees held a protest gathering in Kermanshah. They demanded attention to their medical and livelihood problems. The gathering was held to express their demands.",
         "time": "09:37",
         "ts": 1792316276
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Jalal Ejadi, a sociology professor, described the widespread protests in France as a reflection of public distrust in the government and economic difficulties. He noted the simultaneity of these protests with similar discontent in Italy. This has raised concerns about the spread of protest movements across Europe.",
+        "time": "09:40",
+        "ts": 1792316413
       }
     ],
     "language": "en",
-    "packId": "20261018-30",
-    "sequence": 30,
+    "packId": "20261018-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:40"
+    "updatedAt": "09:43"
   },
   "verified": true
 }
