@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-39 seq=39 exp=1792495467",
+      "advancedStatus": "pack_id=20261018-40 seq=40 exp=1792496184",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:24",
+      "lastChecked": "11:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 11:24",
+    "expiresAt": "2026-10-20 11:36",
     "items": [
       {
         "channel": "harana",
@@ -539,14 +539,21 @@
         "text": "Mehdi Maskinnavaz, a political prisoner in Lakaan prison in Rasht, has been deprived of proper medical treatment despite needing knee surgery and suffering from skin burns. His treatment has been halted for over two years, and prison officials have classified his condition as non-emergency. He suffers from severe back disc and knee pain and has not been transferred to an outside hospital.",
         "time": "11:21",
         "ts": 1792322510
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Setareh Ghorbani explained the educational problems in France, including budget cuts, teacher shortages, and increased class sizes. She said these issues are linked to the economic situation of families. She also emphasized that unequal access to educational facilities contradicts the principle of equality.",
+        "time": "11:35",
+        "ts": 1792323357
       }
     ],
     "language": "en",
-    "packId": "20261018-39",
-    "sequence": 39,
+    "packId": "20261018-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:24"
+    "updatedAt": "11:36"
   },
   "verified": true
 }
