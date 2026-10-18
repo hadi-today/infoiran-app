@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-68 seq=68 exp=1792508536",
+      "advancedStatus": "pack_id=20261018-69 seq=69 exp=1792508753",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:02",
+      "lastChecked": "15:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 15:02",
+    "expiresAt": "2026-10-20 15:05",
     "items": [
       {
         "channel": "iranintl",
@@ -658,14 +658,21 @@
         "text": "Scott Bessant stated that the recent inflation increase in the US is due to an energy supply shock. He said that with the end of the conflict with Iran, energy prices will decrease. He also noted that core inflation had decreased for four consecutive months.",
         "time": "15:01",
         "ts": 1792335661
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen in a video to Iran International says that gasoline prices have increased and it was promised that the money would go to people's livelihoods. However, the prices of goods are rising every day. He claims the government is sending Iranian people's money to Lebanon.",
+        "time": "15:03",
+        "ts": 1792335804
       }
     ],
     "language": "en",
-    "packId": "20261018-68",
-    "sequence": 68,
+    "packId": "20261018-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:02"
+    "updatedAt": "15:05"
   },
   "verified": true
 }
