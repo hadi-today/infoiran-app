@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-104 seq=104 exp=1792532475",
+      "advancedStatus": "pack_id=20261018-105 seq=105 exp=1792532828",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:41",
+      "lastChecked": "21:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 21:41",
+    "expiresAt": "2026-10-20 21:47",
     "items": [
       {
         "channel": "iranintl",
@@ -882,14 +882,28 @@
         "text": "Videos published on social media show the destruction of cafes on the coastal boulevard of Khorramshahr along the Karun River. Corniche Cafe, Livan Cafe, and Strawberry Cafe are among the destroyed places.",
         "time": "21:40",
         "ts": 1792359656
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The match between Malavan and Tractor in the ninth week of the Iranian Premier League was canceled due to fans' chants. Accounts of the reasons and the final decision are contradictory. Mazdak Mirzaei interviewed Mohammad Taghavi on the Hat-trick program.",
+        "time": "21:46",
+        "ts": 1792360009
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Tractor football players left the field after fans' chants and pre-match tensions. The match at Sirous Ghaeqran Stadium in Anzali was not held. This incident led to the cancellation of the game.",
+        "time": "21:46",
+        "ts": 1792360013
       }
     ],
     "language": "en",
-    "packId": "20261018-104",
-    "sequence": 104,
+    "packId": "20261018-105",
+    "sequence": 105,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:41"
+    "updatedAt": "21:47"
   },
   "verified": true
 }
