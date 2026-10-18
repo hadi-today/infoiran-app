@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-44 seq=44 exp=1792498429",
+      "advancedStatus": "pack_id=20261018-45 seq=45 exp=1792498658",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:13",
+      "lastChecked": "12:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 12:13",
+    "expiresAt": "2026-10-20 12:17",
     "items": [
       {
         "channel": "iranintl",
@@ -560,14 +560,21 @@
         "text": "The Iranian Foreign Ministry spokesperson confirmed the closure of all border crossings between Iran and Pakistan. The naval blockade has halted Iran's maritime trade. Iranian officials have turned to land borders to compensate for this situation.",
         "time": "12:11",
         "ts": 1792325503
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The Ministry of Science has cut ties with Farzad Kolbali, an adjunct lecturer at the University of Tehran. His classes have been canceled and he is banned from entering the university. This decision was made due to his publication of offensive content on social media.",
+        "time": "12:14",
+        "ts": 1792325652
       }
     ],
     "language": "en",
-    "packId": "20261018-44",
-    "sequence": 44,
+    "packId": "20261018-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:13"
+    "updatedAt": "12:17"
   },
   "verified": true
 }
