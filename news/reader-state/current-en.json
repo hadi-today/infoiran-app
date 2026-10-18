@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-05 seq=5 exp=1792463546",
+      "advancedStatus": "pack_id=20261018-06 seq=6 exp=1792465541",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:32",
+      "lastChecked": "03:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 02:32",
+    "expiresAt": "2026-10-20 03:05",
     "items": [
       {
         "channel": "iranintl",
@@ -567,14 +567,21 @@
         "text": "Marco Rubio, the US Secretary of State, stated that Washington agrees with the UK's assessment of the Islamic Republic's role in the attack plan on the Ferford base. The UK government accused the Revolutionary Guards of involvement in this plan. The Islamic Republic has denied these allegations.",
         "time": "02:32",
         "ts": 1792290724
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Afrah Al-Zouba, Yemen's foreign minister, rejected Iran's proposal to mediate in the Yemen war. She accused Iran of supporting the Houthis and violating Yemen's sovereignty. Al-Zouba called on the international community to stop Iran's interventions and cut off financial resources to the Houthis.",
+        "time": "03:05",
+        "ts": 1792292722
       }
     ],
     "language": "en",
-    "packId": "20261018-05",
-    "sequence": 5,
+    "packId": "20261018-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:32"
+    "updatedAt": "03:05"
   },
   "verified": true
 }
