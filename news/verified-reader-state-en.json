@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-50 seq=50 exp=1792501614",
+      "advancedStatus": "pack_id=20261018-51 seq=51 exp=1792501855",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:06",
+      "lastChecked": "13:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 13:06",
+    "expiresAt": "2026-10-20 13:10",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Kazem Alinejad Baranlu, a political prisoner in Evin prison, has started a dry hunger strike due to deprivation of medical services and essential medications. His physical condition is concerning, and he suffers from heart and kidney problems. He has stated that he will continue the hunger strike until his medical demands are addressed.",
-        "time": "13:04",
-        "ts": 1792242284
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -560,14 +553,21 @@
         "text": "Donald Trump wrote on Truth Social about the unrest in France, saying borders should be closed and control regained. He stated that France is burning and migration of hateful people has destroyed the country.",
         "time": "13:03",
         "ts": 1792328620
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Saro Sadeghzadeh, a 17-year-old teenager from Baneh, was arrested by intelligence officers. He was transferred to a security detention center in Sanandaj. This event occurred yesterday.",
+        "time": "13:07",
+        "ts": 1792328837
       }
     ],
     "language": "en",
-    "packId": "20261018-50",
-    "sequence": 50,
+    "packId": "20261018-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:06"
+    "updatedAt": "13:10"
   },
   "verified": true
 }
