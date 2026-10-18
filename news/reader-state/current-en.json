@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-74 seq=74 exp=1792510510",
+      "advancedStatus": "pack_id=20261018-75 seq=75 exp=1792510948",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:35",
+      "lastChecked": "15:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 15:35",
+    "expiresAt": "2026-10-20 15:42",
     "items": [
       {
         "channel": "iranintl",
@@ -700,14 +700,21 @@
         "text": "A group of Iranians residing in the UK in Birmingham commemorated the birthday of Empress Farah Pahlavi on Sunday, October 18. A video of the event was sent to Iran International.",
         "time": "15:34",
         "ts": 1792337687
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Joint Maritime Information Center announced that a tugboat near Khorfakan was targeted by two unidentified projectiles. Despite damage, the vessel continued on its course. The center also confirmed attacks by the Revolutionary Guard against commercial ships in the Strait of Hormuz.",
+        "time": "15:42",
+        "ts": 1792338124
       }
     ],
     "language": "en",
-    "packId": "20261018-74",
-    "sequence": 74,
+    "packId": "20261018-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:35"
+    "updatedAt": "15:42"
   },
   "verified": true
 }
