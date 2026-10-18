@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-05 seq=5 exp=1792518468",
+      "advancedStatus": "pack_id=20261018-07 seq=7 exp=1792519174",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:47",
+      "lastChecked": "17:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 17:47",
+    "expiresAt": "2026-10-20 17:59",
     "items": [
       {
         "channel": "iranintl",
@@ -70,14 +70,28 @@
         "text": "Hamidreza Haji Babaei, the deputy speaker of the parliament, spoke about American bombs and Iran's missile program. He said Iran has plans for all types of American bombs. He also stated that if the US brings 'mother bombs,' Iran will respond with 'father missiles.'",
         "time": "17:47",
         "ts": 1792345629
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Thousands of Iranian trucks have stopped at the Pakistan border. The reason for the stoppage is not specified. This issue has caused transportation problems.",
+        "time": "17:57",
+        "ts": 1792346231
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A Malavan fan said the cause of tension at Sirous Ghayeghran Stadium was a controversial move by Shoja Khalilzadeh during warm-up. Shoja repeated the same gesture as before, placing his hand on his groin. This caused the stadium atmosphere to become chaotic.",
+        "time": "17:58",
+        "ts": 1792346336
       }
     ],
     "language": "en",
-    "packId": "20261018-05",
-    "sequence": 5,
+    "packId": "20261018-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:47"
+    "updatedAt": "17:59"
   },
   "verified": true
 }
