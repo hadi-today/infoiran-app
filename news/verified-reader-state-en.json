@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-98 seq=98 exp=1792522116",
+      "advancedStatus": "pack_id=20261018-99 seq=99 exp=1792522223",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:48",
+      "lastChecked": "18:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 18:48",
+    "expiresAt": "2026-10-20 18:50",
     "items": [
       {
         "channel": "iranintl",
@@ -889,14 +889,21 @@
         "text": "On October 17 and 18, two workers died in Gorgan and Rasht. Additionally, two workers were injured in Kangan and Tehran. The incidents involved a vehicle collision, falling from a building, a workshop fire, and a hand caught in an industrial meat grinder.",
         "time": "18:44",
         "ts": 1792349051
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mehdi Mahdavi-Azad stated in the program \"Cheshmandaz\" that continuing the Islamic Republic's nuclear policy increases the risk of a third world war. He noted that acquiring nuclear weapons does not necessarily prevent war or the collapse of governments. Mahdavi-Azad described the nuclear program as a tool for maintaining power by part of the regime.",
+        "time": "18:50",
+        "ts": 1792349402
       }
     ],
     "language": "en",
-    "packId": "20261018-98",
-    "sequence": 98,
+    "packId": "20261018-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:48"
+    "updatedAt": "18:50"
   },
   "verified": true
 }
