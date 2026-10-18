@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-41 seq=41 exp=1792496399",
+      "advancedStatus": "pack_id=20261018-42 seq=42 exp=1792497725",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:39",
+      "lastChecked": "12:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 11:39",
+    "expiresAt": "2026-10-20 12:02",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Masoumeh Nasaji, a 64-year-old political prisoner, continues to be held in Evin prison despite multiple illnesses and medical confirmation of her inability to endure the sentence. Her family reports obstruction by officials in stopping the execution of her sentence. Her health condition is poor, including heart disease, asthma, and joint pain.",
-        "time": "11:37",
-        "ts": 1792237076
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -553,14 +546,21 @@
         "text": "Ahmad Nadari, a member of the parliament's presidium, reported attacks on Bahrain and Kuwait in recent months and said the UAE is different. He called for stronger actions to break the naval and air blockade. Nadari also mentioned the closure of Najaf airport and the insecurity of regional airports.",
         "time": "11:37",
         "ts": 1792323472
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of retirees in Rasht gathered on Sunday, October 18, to protest economic difficulties. They chanted slogans demanding the cancellation of death sentences. This gathering was reported based on videos received by Iran International.",
+        "time": "12:01",
+        "ts": 1792324902
       }
     ],
     "language": "en",
-    "packId": "20261018-41",
-    "sequence": 41,
+    "packId": "20261018-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:39"
+    "updatedAt": "12:02"
   },
   "verified": true
 }
