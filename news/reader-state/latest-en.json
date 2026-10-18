@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-12 seq=12 exp=1792520146",
+      "advancedStatus": "pack_id=20261018-15 seq=15 exp=1792520984",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:15",
+      "lastChecked": "18:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 18:15",
+    "expiresAt": "2026-10-20 18:29",
     "items": [
       {
         "channel": "iranintl",
@@ -119,14 +119,35 @@
         "text": "Egypt and the UAE have entered a regional war against Tehran's proxy forces. These developments indicate escalating tensions in the region. No further details are provided in the text.",
         "time": "18:15",
         "ts": 1792347313
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Chris Wright, the US Energy Secretary, spoke with CNN about the Trump administration's policies toward Iran and the country's security situation. He mentioned that 30 to 40 thousand people were killed in Iran before the conflicts and commented on gasoline prices, expressing dissatisfaction but noting a positive trend in price reduction. Wright also explained that the suspension of sanctions related to Lindsey Graham's proposed law is not a cancellation of sanctions.",
+        "time": "18:16",
+        "ts": 1792347360
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump announced that he supports Benjamin Netanyahu because he has a good relationship with him. He said they will continue their successful cooperation if Netanyahu is re-elected. Trump also expressed doubt about cooperating with another leader in Israel.",
+        "time": "18:28",
+        "ts": 1792348081
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Khodadad Azizi, head of the Tractor team, called for the football federation to take action against Malavan fans due to ethnic slogans that led to the cancellation of the match. He stated the match will be held in Tabriz and warned that if no action is taken, Tractor fans will handle it themselves. Azizi is banned from stadiums for four months due to insulting Omid Alishah.",
+        "time": "18:28",
+        "ts": 1792348122
       }
     ],
     "language": "en",
-    "packId": "20261018-12",
-    "sequence": 12,
+    "packId": "20261018-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:15"
+    "updatedAt": "18:29"
   },
   "verified": true
 }
