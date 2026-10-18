@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-14 seq=14 exp=1792470279",
+      "advancedStatus": "pack_id=20261018-15 seq=15 exp=1792470549",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:24",
+      "lastChecked": "04:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 04:24",
+    "expiresAt": "2026-10-20 04:29",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Omid Memarian said that the US goal is not only to destroy Iran's military and nuclear facilities. Washington wants to change the Islamic Republic officials' calculation about the cost of continuing resistance. The US tries to convey that resistance is possible but may come at the cost of the Islamic Republic's destruction.",
-        "time": "04:25",
-        "ts": 1792211137
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -588,14 +581,21 @@
         "text": "Ghassan Ashour said that the decrease in Iraq's oil revenues and the limitation of financial resources for armed groups could intensify conflicts among these groups. Part of the financial resources allocated to the Popular Mobilization Forces was given to commanders and senior politicians. Additionally, some of these resources were transferred through the Quds Force to groups close to the Islamic Republic in other countries.",
         "time": "04:20",
         "ts": 1792297225
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hossein Shariatmadari responded to Trump's remarks about the possible use of the 'mother of bombs' and stated that the Islamic Republic will respond to enemy attacks. He threatened that the infrastructure of the US and its allies will be targeted by Iranian missiles. Additionally, US military personnel and nuclear facilities of allied countries were declared targets by Iran.",
+        "time": "04:26",
+        "ts": 1792297617
       }
     ],
     "language": "en",
-    "packId": "20261018-14",
-    "sequence": 14,
+    "packId": "20261018-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:24"
+    "updatedAt": "04:29"
   },
   "verified": true
 }
