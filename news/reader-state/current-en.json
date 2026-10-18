@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-02 seq=2 exp=1792518003",
+      "advancedStatus": "pack_id=20261018-03 seq=3 exp=1792518153",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:40",
+      "lastChecked": "17:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 17:40",
+    "expiresAt": "2026-10-20 17:42",
     "items": [
       {
         "channel": "iranintl",
@@ -42,14 +42,28 @@
         "text": "Donald Trump expressed full and unconditional support for Benjamin Netanyahu in the Israeli prime ministerial election. Trump described the Islamic Republic of Iran as a serious threat and warned that if behavior does not change, they will finish the job soon. Netanyahu thanked Trump for his support and said they will complete the mission together.",
         "time": "17:39",
         "ts": 1792345178
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Mokhtar Al-Boshokeh was transferred from solitary confinement to the general ward in Arak prison but continues his hunger strike and faces health issues. Hamzeh Savari Lofte has also started a hunger strike in support of him and is experiencing low blood pressure. Both political prisoners are held in Arak and Qezelhesar prisons.",
+        "time": "17:40",
+        "ts": 1792345244
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "An 800-year-old historic plane tree in the village of Zaglik, Ahar County, was cut down. The tree was registered as a national heritage site and was cut for selling wood and funding the construction of a restroom. A legal case has been filed and the loader used has been confiscated.",
+        "time": "17:41",
+        "ts": 1792345275
       }
     ],
     "language": "en",
-    "packId": "20261018-02",
-    "sequence": 2,
+    "packId": "20261018-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:40"
+    "updatedAt": "17:42"
   },
   "verified": true
 }
