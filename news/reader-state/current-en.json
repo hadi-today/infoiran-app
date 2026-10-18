@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-69 seq=69 exp=1792508753",
+      "advancedStatus": "pack_id=20261018-71 seq=71 exp=1792509271",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:05",
+      "lastChecked": "15:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 15:05",
+    "expiresAt": "2026-10-20 15:14",
     "items": [
       {
         "channel": "iranintl",
@@ -665,14 +665,28 @@
         "text": "A citizen in a video to Iran International says that gasoline prices have increased and it was promised that the money would go to people's livelihoods. However, the prices of goods are rising every day. He claims the government is sending Iranian people's money to Lebanon.",
         "time": "15:03",
         "ts": 1792335804
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Saeed Bashirtash announced that the Belgian Minister of Defense invited Prince Reza Pahlavi to speak at the Royal Military Academy. The Belgian government considers Reza Pahlavi as the representative of the Iranian people. This invitation indicates his increasing international legitimacy.",
+        "time": "15:10",
+        "ts": 1792336207
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump expressed full support for Benjamin Netanyahu's re-election as prime minister. He described the Islamic Republic as a threat to Israel and the US and warned that if Iran does not change its course, the US will act alone. Trump called Netanyahu a great partner for peace.",
+        "time": "15:10",
+        "ts": 1792336254
       }
     ],
     "language": "en",
-    "packId": "20261018-69",
-    "sequence": 69,
+    "packId": "20261018-71",
+    "sequence": 71,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:05"
+    "updatedAt": "15:14"
   },
   "verified": true
 }
