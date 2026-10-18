@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-51 seq=51 exp=1792501855",
+      "advancedStatus": "pack_id=20261018-52 seq=52 exp=1792502393",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:10",
+      "lastChecked": "13:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,36 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 13:10",
+    "expiresAt": "2026-10-20 13:19",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of Iranians living in Stockholm marched in the Swedish capital on Saturday, 25 Mehr. The march was held in memory of the immortal figures of the national revolution. A video of this event was received by Iran International.",
-        "time": "13:09",
-        "ts": 1792242544
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Shahram Khaledi stated that the US aims for full transparency of the nuclear program and ending enrichment as a major achievement in the war with the Islamic Republic. He added that limiting missile capabilities and controlling proxy forces are also likely US objectives.",
-        "time": "13:12",
-        "ts": 1792242745
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "The Ilam provincial intelligence department announced the arrest of 11 people in Malekshahi county. They are accused of participating in the December protests, having ties with the US and Israel, shooting at security forces, and damaging public property. The agency labeled the detainees as \"mercenaries\" and the protests as a \"coup.\"",
-        "time": "13:13",
-        "ts": 1792242835
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Donald Trump stated that the US is aware of all actions by Iranian officials and hears all their words. He said the US holds a very strong position against Iran and that some leaders of the Islamic Republic have been eliminated. Trump also spoke sarcastically about the situation of the Iranian presidency.",
-        "time": "13:16",
-        "ts": 1792242963
-      },
       {
         "channel": "vahid online",
         "language": "en",
@@ -560,14 +532,21 @@
         "text": "Saro Sadeghzadeh, a 17-year-old teenager from Baneh, was arrested by intelligence officers. He was transferred to a security detention center in Sanandaj. This event occurred yesterday.",
         "time": "13:07",
         "ts": 1792328837
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Reza Naqdi, senior advisor to the commander of the IRGC, stated during the Jan Fadaian exercise that the missile capabilities of the armed forces threaten all enemy assets in the region. He added that in case of a miscalculation, the infrastructure and investments of the aggressors would be within operational range. Their security would be directly endangered.",
+        "time": "13:19",
+        "ts": 1792329550
       }
     ],
     "language": "en",
-    "packId": "20261018-51",
-    "sequence": 51,
+    "packId": "20261018-52",
+    "sequence": 52,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:10"
+    "updatedAt": "13:19"
   },
   "verified": true
 }
