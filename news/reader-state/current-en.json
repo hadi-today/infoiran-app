@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-19 seq=19 exp=1792480195",
+      "advancedStatus": "pack_id=20261018-20 seq=20 exp=1792481370",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:09",
+      "lastChecked": "07:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 07:09",
+    "expiresAt": "2026-10-20 07:29",
     "items": [
       {
         "channel": "harana",
@@ -581,14 +581,21 @@
         "text": "Masoud Pezeshkian stated in the defense minister nominee's qualification session that Iran has not attacked any country in the past two centuries and does not intend to attack any. He emphasized that Iran will stand powerfully against any attack. The government also supports the nominee's plans to improve the living conditions of the armed forces.",
         "time": "07:09",
         "ts": 1792307374
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abbas Araghchi met with Ali Falih Al-Zaydi and Hakan Fidan in Baghdad. The discussions focused on stopping the war and preventing the spread of regional conflicts. Respect for sovereignty and territorial integrity of countries was also emphasized.",
+        "time": "07:29",
+        "ts": 1792308549
       }
     ],
     "language": "en",
-    "packId": "20261018-19",
-    "sequence": 19,
+    "packId": "20261018-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:09"
+    "updatedAt": "07:29"
   },
   "verified": true
 }
