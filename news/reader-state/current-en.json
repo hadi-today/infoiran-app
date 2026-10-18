@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-09 seq=9 exp=1792468237",
+      "advancedStatus": "pack_id=20261018-10 seq=10 exp=1792468513",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:50",
+      "lastChecked": "03:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 03:50",
+    "expiresAt": "2026-10-20 03:55",
     "items": [
       {
         "channel": "iranintl",
@@ -588,14 +588,21 @@
         "text": "Farzin Nadimi stated that extensive military attacks alone cannot prevent the reconstruction of Iran's nuclear program. He emphasized that as long as the technical knowledge and ability to manufacture centrifuge parts remain, complete destruction of the nuclear program is not assured.",
         "time": "03:47",
         "ts": 1792295263
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reuters reported that the Islamic Republic has helped increase the Houthis' military capabilities against Saudi Arabia by providing money, weapons, and training. The Revolutionary Guards and Hezbollah have transferred technical knowledge and training in missile and drone production to the Houthis. The Houthis have also used artificial intelligence to develop software and missile designs.",
+        "time": "03:52",
+        "ts": 1792295532
       }
     ],
     "language": "en",
-    "packId": "20261018-09",
-    "sequence": 9,
+    "packId": "20261018-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:50"
+    "updatedAt": "03:55"
   },
   "verified": true
 }
