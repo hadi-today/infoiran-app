@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-13 seq=13 exp=1792470010",
+      "advancedStatus": "pack_id=20261018-14 seq=14 exp=1792470279",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:20",
+      "lastChecked": "04:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 04:20",
+    "expiresAt": "2026-10-20 04:24",
     "items": [
       {
         "channel": "iranintl",
@@ -581,14 +581,21 @@
         "text": "The Russian Federal Security Service has arrested a Japanese journalist on charges of collecting military information for Japan's intelligence agency. This issue has increased tensions between Moscow and Tokyo. The charge has not yet been proven in court.",
         "time": "04:19",
         "ts": 1792297191
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ghassan Ashour said that the decrease in Iraq's oil revenues and the limitation of financial resources for armed groups could intensify conflicts among these groups. Part of the financial resources allocated to the Popular Mobilization Forces was given to commanders and senior politicians. Additionally, some of these resources were transferred through the Quds Force to groups close to the Islamic Republic in other countries.",
+        "time": "04:20",
+        "ts": 1792297225
       }
     ],
     "language": "en",
-    "packId": "20261018-13",
-    "sequence": 13,
+    "packId": "20261018-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:20"
+    "updatedAt": "04:24"
   },
   "verified": true
 }
