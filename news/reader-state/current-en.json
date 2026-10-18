@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-33 seq=33 exp=1792490206",
+      "advancedStatus": "pack_id=20261018-34 seq=34 exp=1792491987",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:56",
+      "lastChecked": "10:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 09:56",
+    "expiresAt": "2026-10-20 10:26",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Iranian embassy in Berlin declared that the accusations in the Hamburg court ruling regarding Tehran's connection to two security suspects are baseless. The embassy completely denied any involvement in the case. This official stance was announced in response to Reuters news agency.",
-        "time": "10:00",
-        "ts": 1792231246
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "On the birthday of Empress Farah Pahlavi, a picture of her was installed on a street in central Tehran. Previously, images of Prince Reza Pahlavi had also been installed in the streets. This was reported to Iran International by a citizen.",
-        "time": "10:02",
-        "ts": 1792231351
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -553,14 +539,21 @@
         "text": "Mahshar Parandin, a Christian convert imprisoned in Evin, was granted medical leave. The leave lasts for 10 days and was issued with a pay slip. This event was reported on October 17, 2026.",
         "time": "09:56",
         "ts": 1792317385
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Widespread protests continue in France and Italy in response to rising living costs and decreased purchasing power. Clashes between protesters and police have occurred, with some cities experiencing fires and looting. The French interior minister estimated about 550,000 participants in the marches.",
+        "time": "10:26",
+        "ts": 1792319164
       }
     ],
     "language": "en",
-    "packId": "20261018-33",
-    "sequence": 33,
+    "packId": "20261018-34",
+    "sequence": 34,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:56"
+    "updatedAt": "10:26"
   },
   "verified": true
 }
