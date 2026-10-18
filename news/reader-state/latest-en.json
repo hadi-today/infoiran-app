@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261018-36 seq=36 exp=1792492412",
+      "advancedStatus": "pack_id=20261018-37 seq=37 exp=1792493438",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:33",
+      "lastChecked": "10:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-18",
-    "expiresAt": "2026-10-20 10:33",
+    "expiresAt": "2026-10-20 10:50",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Mohammad Javad Mohammadzadeh Tavassani, a student from Rudsar, was sentenced to six months in prison and 20 lashes. This sentence was issued by the Lahijan Criminal Court. Another part of his case is being reviewed by the Rasht Revolutionary Court, and no verdict has been issued yet.",
-        "time": "10:38",
-        "ts": 1792233520
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Assembly of Experts issued a statement calling for combating the normalization of unveiled behavior and strict enforcement of the law. They described hijab as a religious duty and legal responsibility and urged officials to develop a comprehensive plan against forces weakening the family. They also called on the armed forces to respond decisively and unexpectedly to threats against the Islamic Republic.",
-        "time": "10:49",
-        "ts": 1792234162
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -553,14 +539,21 @@
         "text": "Reports indicate a shortage of insulin in pharmacies and the black market. The cost of living, including food and education, has increased significantly. There are also issues with renewing residency cards involving high fees.",
         "time": "10:30",
         "ts": 1792319442
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The head of the Iranian Psychiatric Association reported a widespread shortage of psychiatric drugs in the country. Both imported and domestically produced drugs such as venlafaxine and sertraline have become scarce. These shortages have forced patients to change or stop treatment, increasing the risk of disease relapse.",
+        "time": "10:50",
+        "ts": 1792320616
       }
     ],
     "language": "en",
-    "packId": "20261018-36",
-    "sequence": 36,
+    "packId": "20261018-37",
+    "sequence": 37,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:33"
+    "updatedAt": "10:50"
   },
   "verified": true
 }
