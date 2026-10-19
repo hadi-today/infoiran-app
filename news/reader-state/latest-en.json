@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-05 seq=5 exp=1792559818",
+      "advancedStatus": "pack_id=20261019-06 seq=6 exp=1792560189",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:16",
+      "lastChecked": "05:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 05:16",
+    "expiresAt": "2026-10-21 05:23",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,21 @@
         "text": "Mohammad Rashidi, a member of the parliament's board, said that the main goal of US pressures is to create a negative outlook on Iran's economic future. He added that the Americans aimed to quickly see the effects of the pressures through repeated claims and deadlines. Additionally, the US tries to create worry and anxiety in society by exaggerating the pressures.",
         "time": "05:16",
         "ts": 1792387000
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Abbas Araghchi reacted to Macron's remarks about the impact of fuel prices caused by the Iran war on protests in France, accusing Macron of creating the conditions for this situation. He said Macron assured the US president of support for crimes against Iranians. Araghchi added that the French people demand fundamental changes, including guarantees for freedom of assembly.",
+        "time": "05:22",
+        "ts": 1792387367
       }
     ],
     "language": "en",
-    "packId": "20261019-05",
-    "sequence": 5,
+    "packId": "20261019-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:16"
+    "updatedAt": "05:23"
   },
   "verified": true
 }
