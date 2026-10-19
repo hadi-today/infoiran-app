@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-02 seq=2 exp=1792545685",
+      "advancedStatus": "pack_id=20261019-03 seq=3 exp=1792548473",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:21",
+      "lastChecked": "02:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 01:21",
+    "expiresAt": "2026-10-21 02:07",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Abbas Araghchi met with Iraqi Prime Minister Ali Falih Al-Zaydi in Baghdad. The meeting focused on the Tehran-Washington agreement to stop the war and diplomatic efforts for regional security. Al-Zaydi emphasized resolving disputes through dialogue.",
-        "time": "01:37",
-        "ts": 1792287458
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "JD Vance, the US Vice President, said the US has achieved a decisive victory by destroying Iran's nuclear program. He emphasized that the war must continue to prevent the Islamic Republic from rebuilding its nuclear capabilities. Vance also stated that the presence of the US Navy in the Strait of Hormuz has maintained oil flow and prevented a sharp increase in fuel prices.",
-        "time": "01:49",
-        "ts": 1792288171
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "JD Vance, the US Vice President, defended the Trump administration's strategy regarding the war with Iran, stating that if the US leaves the region, gasoline prices will rise. He also said the US has achieved some victories and seeks Iran's commitment not to rebuild its nuclear program. Vance acknowledged mistakes in troop deployment and announced changes in military tactics to counter drones.",
-        "time": "01:53",
-        "ts": 1792288408
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -896,14 +875,21 @@
         "text": "The virtual US embassy in Iran warned that the Islamic Republic and its supporting groups may target American interests and centers. It urged American citizens to leave Iran and prepare for flight cancellations and travel disruptions. It also advised avoiding large gatherings.",
         "time": "01:21",
         "ts": 1792372861
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Gulf countries have continued investing in the natural gas sector despite increased defense and reconstruction costs. Since early 2026, projects worth about 50 billion dollars have been approved. Saudi Arabia, Qatar, and the UAE are among the leading investors.",
+        "time": "02:07",
+        "ts": 1792375655
       }
     ],
     "language": "en",
-    "packId": "20261019-02",
-    "sequence": 2,
+    "packId": "20261019-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:21"
+    "updatedAt": "02:07"
   },
   "verified": true
 }
