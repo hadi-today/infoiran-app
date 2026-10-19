@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-12 seq=12 exp=1792565497",
+      "advancedStatus": "pack_id=20261019-13 seq=13 exp=1792565757",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:51",
+      "lastChecked": "06:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 06:51",
+    "expiresAt": "2026-10-21 06:55",
     "items": [
       {
         "channel": "iranintl",
@@ -840,14 +840,21 @@
         "text": "Iranians living in Calgary, Canada, held a protest against executions by the Islamic Republic. The gathering took place in front of the city hall. They demanded to raise the voice of the Iranian people to the international community.",
         "time": "06:51",
         "ts": 1792392674
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "People report issues such as drug shortages, unpaid wages and benefits, and rising living and rent costs. Some oil workers and retired telecommunications employees complain about not receiving their dues. Daily expenses like meat, travel, and even fruit have significantly decreased.",
+        "time": "06:52",
+        "ts": 1792392745
       }
     ],
     "language": "en",
-    "packId": "20261019-12",
-    "sequence": 12,
+    "packId": "20261019-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:51"
+    "updatedAt": "06:55"
   },
   "verified": true
 }
