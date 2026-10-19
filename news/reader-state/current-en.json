@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-23 seq=23 exp=1792570736",
+      "advancedStatus": "pack_id=20261019-24 seq=24 exp=1792570990",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:18",
+      "lastChecked": "08:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 08:18",
+    "expiresAt": "2026-10-21 08:23",
     "items": [
       {
         "channel": "iranintl",
@@ -875,14 +875,21 @@
         "text": "An Austrian passenger plane en route from Tel Aviv to Vienna made an emergency landing at Sofia airport due to a bomb threat. All 57 passengers were safely evacuated. Security investigations into the source of the threat are ongoing.",
         "time": "08:18",
         "ts": 1792397894
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mostafa Khoshcheshm, a political analyst from IRIB, stated that Europe could be targeted by missile attacks if necessary. He also mentioned that the Islamic Republic might have more bombs. These remarks were published by Iran International.",
+        "time": "08:22",
+        "ts": 1792398148
       }
     ],
     "language": "en",
-    "packId": "20261019-23",
-    "sequence": 23,
+    "packId": "20261019-24",
+    "sequence": 24,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:18"
+    "updatedAt": "08:23"
   },
   "verified": true
 }
