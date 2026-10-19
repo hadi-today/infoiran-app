@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-45 seq=45 exp=1792581137",
+      "advancedStatus": "pack_id=20261019-46 seq=46 exp=1792581359",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:12",
+      "lastChecked": "11:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 11:12",
+    "expiresAt": "2026-10-21 11:15",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "The German Foreign Ministry summoned the Iranian ambassador following a Hamburg court ruling against two suspects accused of spying for the Islamic Republic. The two were convicted of planning attacks on two prominent Jewish and pro-Israel figures and sentenced to a total of 13 years in prison. More details are available in an interview with an Iran International reporter.",
         "time": "11:11",
         "ts": 1792408294
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Amnesty International has examined the repression network and command structure of the Islamic Republic during the \"Woman, Life, Freedom\" uprising in a detailed report. Morteza Kazemian explains the pillars of repression and the consequences of the deaths of dozens of security and military officials. The report investigates crimes against humanity.",
+        "time": "11:15",
+        "ts": 1792408516
       }
     ],
     "language": "en",
-    "packId": "20261019-45",
-    "sequence": 45,
+    "packId": "20261019-46",
+    "sequence": 46,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:12"
+    "updatedAt": "11:15"
   },
   "verified": true
 }
