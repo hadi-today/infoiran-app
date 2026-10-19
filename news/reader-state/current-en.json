@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-35 seq=35 exp=1792575874",
+      "advancedStatus": "pack_id=20261019-36 seq=36 exp=1792576628",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:44",
+      "lastChecked": "09:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 09:44",
+    "expiresAt": "2026-10-21 09:57",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump stated that the US military operation in the region will soon end and gasoline prices will decrease afterward. He said American forces have destroyed the nuclear capability of the Islamic Republic. Washington is also taking measures to prevent the reconstruction of this capability.",
-        "time": "09:45",
-        "ts": 1792316715
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Mahshar Parandin, a Christian convert imprisoned in Evin, was granted medical leave. The leave lasts for 10 days and was issued with a pay slip. This event was reported on October 17, 2026.",
-        "time": "09:56",
-        "ts": 1792317385
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -896,14 +882,21 @@
         "text": "The head of traffic engineering at Tehran's traffic police announced that out of 349 accident-prone points in the capital, 175 remain unsecured. Some of these points have not been addressed for years. Accident-prone points on highways require urgent attention due to traffic conditions.",
         "time": "09:43",
         "ts": 1792402987
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Gideon Sa'ar, Israel's foreign minister, responded to Abbas Araghchi's remarks about the protests in France, saying the Iranian foreign minister is happy about the unrest in France. He also referred to Iran's internal repression and executions. Araghchi had earlier called for guarantees of freedom of assembly in France.",
+        "time": "09:56",
+        "ts": 1792403787
       }
     ],
     "language": "en",
-    "packId": "20261019-35",
-    "sequence": 35,
+    "packId": "20261019-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:44"
+    "updatedAt": "09:57"
   },
   "verified": true
 }
