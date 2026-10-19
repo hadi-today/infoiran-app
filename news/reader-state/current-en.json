@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-29 seq=29 exp=1792574136",
+      "advancedStatus": "pack_id=20261019-30 seq=30 exp=1792574242",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:15",
+      "lastChecked": "09:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 09:15",
+    "expiresAt": "2026-10-21 09:17",
     "items": [
       {
         "channel": "iranintl",
@@ -889,14 +889,21 @@
         "text": "Marco Rubio, the US Secretary of State, said in an interview that Hezbollah is 100% backed by Iran and Shiite militias in Iraq are supported by the Islamic Republic. He added that Iran has directly attacked several regional countries and is the main supporter of the Houthis. Rubio emphasized that to resolve instability in the Middle East, the root cause must be identified and confronted.",
         "time": "09:14",
         "ts": 1792401291
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A group of retired telecommunications workers in Kurdistan province held a protest today. They protested against the insurance situation and the performance of the Executive Headquarters of Imam's Directive and the Cooperative Foundation of the IRGC in the telecommunications company. The protest was held in response to the current conditions.",
+        "time": "09:15",
+        "ts": 1792401342
       }
     ],
     "language": "en",
-    "packId": "20261019-29",
-    "sequence": 29,
+    "packId": "20261019-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:15"
+    "updatedAt": "09:17"
   },
   "verified": true
 }
