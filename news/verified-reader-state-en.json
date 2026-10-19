@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-26 seq=26 exp=1792572594",
+      "advancedStatus": "pack_id=20261019-27 seq=27 exp=1792573127",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:49",
+      "lastChecked": "08:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 08:49",
+    "expiresAt": "2026-10-21 08:58",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A man was arrested in Qods County on charges of assaulting a 33-year-old woman. He is accused of poisoning the woman with a drink to render her unconscious and then assaulting her. The incident was uncovered by police officers and the suspect was arrested.",
-        "time": "08:55",
-        "ts": 1792313746
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "Hadi Khanari-Nejad was elected as the president of the Gymnastics Federation with 35 out of 38 votes. Initially, five candidates were qualified, but three withdrew. Habib Nozohouri also withdrew before presenting his program, and the election continued with a single candidate.",
         "time": "08:49",
         "ts": 1792399752
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Marco Rubio called the Islamic Republic the main cause of instability in the Middle East. He said Donald Trump destroyed much of Iran's military capability. He also stated that US sanctions reduce the Islamic Republic's financial resources.",
+        "time": "08:58",
+        "ts": 1792400288
       }
     ],
     "language": "en",
-    "packId": "20261019-26",
-    "sequence": 26,
+    "packId": "20261019-27",
+    "sequence": 27,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:49"
+    "updatedAt": "08:58"
   },
   "verified": true
 }
