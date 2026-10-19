@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-44 seq=44 exp=1792580580",
+      "advancedStatus": "pack_id=20261019-45 seq=45 exp=1792581137",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:03",
+      "lastChecked": "11:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 11:03",
+    "expiresAt": "2026-10-21 11:12",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "A group of victims of the Pishgaman cooperative company in Yazd gathered in front of the company's office on Monday, October 19. They protested due to months of uncertainty and unclear profits and capital. The gathering was held to express dissatisfaction with the company's situation.",
         "time": "11:02",
         "ts": 1792407737
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The German Foreign Ministry summoned the Iranian ambassador following a Hamburg court ruling against two suspects accused of spying for the Islamic Republic. The two were convicted of planning attacks on two prominent Jewish and pro-Israel figures and sentenced to a total of 13 years in prison. More details are available in an interview with an Iran International reporter.",
+        "time": "11:11",
+        "ts": 1792408294
       }
     ],
     "language": "en",
-    "packId": "20261019-44",
-    "sequence": 44,
+    "packId": "20261019-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:03"
+    "updatedAt": "11:12"
   },
   "verified": true
 }
