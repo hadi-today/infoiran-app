@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-42 seq=42 exp=1792579747",
+      "advancedStatus": "pack_id=20261019-43 seq=43 exp=1792580223",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:49",
+      "lastChecked": "10:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 10:49",
+    "expiresAt": "2026-10-21 10:57",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "The head of the Iranian Psychiatric Association reported a widespread shortage of psychiatric drugs in the country. Both imported and domestically produced drugs such as venlafaxine and sertraline have become scarce. These shortages have forced patients to change or stop treatment, increasing the risk of disease relapse.",
-        "time": "10:50",
-        "ts": 1792320616
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +903,21 @@
         "text": "A citizen in Rudsar was arrested for writing posts on social media, which the police described as insulting martyrs and disturbing public opinion.",
         "time": "10:48",
         "ts": 1792406905
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Ali Abbasi, the police commander of Masjed Soleyman, announced the arrest of a person who injured a doctor with a cold weapon. The incident occurred last night in a medical clinic. The motive of the accused was stated to be previous disputes.",
+        "time": "10:56",
+        "ts": 1792407380
       }
     ],
     "language": "en",
-    "packId": "20261019-42",
-    "sequence": 42,
+    "packId": "20261019-43",
+    "sequence": 43,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:49"
+    "updatedAt": "10:57"
   },
   "verified": true
 }
