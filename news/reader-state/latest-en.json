@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-53 seq=53 exp=1792585434",
+      "advancedStatus": "pack_id=20261019-54 seq=54 exp=1792586246",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:23",
+      "lastChecked": "12:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 12:23",
+    "expiresAt": "2026-10-21 12:37",
     "items": [
       {
         "channel": "harana",
@@ -924,14 +924,28 @@
         "text": "A missile attack by the Houthis on a military training camp in Shabwah province killed at least 18 people. A projectile hit a residential area in Najran, Saudi Arabia, injuring six. Houthi media reported 9 deaths in a Saudi airstrike on Saada.",
         "time": "12:22",
         "ts": 1792412567
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Reza Akbari Adel and Mohammad Esmaeili Alafi, two lawyers from the East Azerbaijan Bar Association, were arrested after being summoned to the Tabriz Prosecutor's Office. They have been transferred to an unknown location, and authorities have not provided information about the reasons for their arrest. This arrest occurred on October 18.",
+        "time": "12:36",
+        "ts": 1792413400
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Iranian national freestyle wrestling team under 23 years old won the world championship in Las Vegas with four gold, one silver, and four bronze medals. The team scored 180 points, ranking above Russia and the USA. This report was provided by Mehdi Rostampour.",
+        "time": "12:36",
+        "ts": 1792413419
       }
     ],
     "language": "en",
-    "packId": "20261019-53",
-    "sequence": 53,
+    "packId": "20261019-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:23"
+    "updatedAt": "12:37"
   },
   "verified": true
 }
