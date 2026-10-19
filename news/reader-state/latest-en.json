@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-15 seq=15 exp=1792567584",
+      "advancedStatus": "pack_id=20261019-16 seq=16 exp=1792568425",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:26",
+      "lastChecked": "07:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 07:26",
+    "expiresAt": "2026-10-21 07:40",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Abbas Araghchi met with Ali Falih Al-Zaydi and Hakan Fidan in Baghdad. The discussions focused on stopping the war and preventing the spread of regional conflicts. Respect for sovereignty and territorial integrity of countries was also emphasized.",
-        "time": "07:29",
-        "ts": 1792308549
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Amirparsa Eshkboos, 22 years old, was killed in Haft-Hoz, Tehran. His mother placed 9 apples to symbolize 9 months of pregnancy and separation from her son. The family found his body at Al-Ghadir Hospital.",
-        "time": "07:35",
-        "ts": 1792308903
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -847,14 +833,21 @@
         "text": "Citizens have received text messages threatening legal action and monitoring their activities on social media. The sender cited the Islamic Penal Code, stating that the citizen's actions in approving and spreading criminal content are under investigation. These messages were sent from the number of the Intelligence Organization of FARAJA.",
         "time": "07:25",
         "ts": 1792394744
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Asia Times wrote that the war between the US and the Islamic Republic and the Middle East oil crisis have entered a new phase of competition between Washington and Beijing. This situation may weaken Trump's position ahead of the midterm elections. Additionally, increasing instability in the region could threaten China's interests and Xi Jinping's plans.",
+        "time": "07:39",
+        "ts": 1792395583
       }
     ],
     "language": "en",
-    "packId": "20261019-15",
-    "sequence": 15,
+    "packId": "20261019-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:26"
+    "updatedAt": "07:40"
   },
   "verified": true
 }
