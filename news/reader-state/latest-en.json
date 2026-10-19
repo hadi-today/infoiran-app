@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-40 seq=40 exp=1792578725",
+      "advancedStatus": "pack_id=20261019-41 seq=41 exp=1792579585",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:32",
+      "lastChecked": "10:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 10:32",
+    "expiresAt": "2026-10-21 10:46",
     "items": [
       {
         "channel": "harana",
@@ -896,14 +896,21 @@
         "text": "Mohsen Moloudpour, a citizen from Oshnavieh, was arrested by security forces on Saturday, October 17. His detention location is unknown. This news was reported by Harana News Agency.",
         "time": "10:31",
         "ts": 1792405884
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Reports have emerged about bribery among judges in Kermanshah and rising prices of motor oil. There are also issues with salary payments at the Khuzestan oil company and dissatisfaction with the ration card system in Tehran. People complain about inflation, poor internet quality, and healthcare difficulties.",
+        "time": "10:45",
+        "ts": 1792406743
       }
     ],
     "language": "en",
-    "packId": "20261019-40",
-    "sequence": 40,
+    "packId": "20261019-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:32"
+    "updatedAt": "10:46"
   },
   "verified": true
 }
