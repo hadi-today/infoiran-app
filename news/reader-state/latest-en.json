@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-08 seq=8 exp=1792563394",
+      "advancedStatus": "pack_id=20261019-09 seq=9 exp=1792563653",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:16",
+      "lastChecked": "06:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 06:16",
+    "expiresAt": "2026-10-21 06:20",
     "items": [
       {
         "channel": "iranintl",
@@ -826,14 +826,21 @@
         "text": "The Israeli army announced that in attacks in the Gaza Strip, a Hamas cell commander and two members of its military wing were killed. These individuals were involved in planning attacks against Israel and rebuilding Hamas's military capabilities. The airstrikes took place in the Al-Daraj, Al-Tuffah, and Jabalia areas.",
         "time": "06:16",
         "ts": 1792390573
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli Prime Minister described Iran's nuclear program as the greatest threat to Israel. He warned that a single nuclear bomb could kill hundreds of thousands in Israel. This issue is cited as one of the reasons for a military attack on Iran.",
+        "time": "06:20",
+        "ts": 1792390834
       }
     ],
     "language": "en",
-    "packId": "20261019-08",
-    "sequence": 8,
+    "packId": "20261019-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:16"
+    "updatedAt": "06:20"
   },
   "verified": true
 }
