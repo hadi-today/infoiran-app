@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-09 seq=9 exp=1792563653",
+      "advancedStatus": "pack_id=20261019-10 seq=10 exp=1792564116",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:20",
+      "lastChecked": "06:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 06:20",
+    "expiresAt": "2026-10-21 06:28",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Shirazi stated that no pressure tools have been able to deter the nation from confronting the US and Israel. He added that the enemy could not withstand the people's steadfastness. The Islamic Republic has also implemented a new system for managing shipping and energy transit in the Persian Gulf without US intervention.",
-        "time": "06:24",
-        "ts": 1792304655
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -833,14 +826,21 @@
         "text": "The Israeli Prime Minister described Iran's nuclear program as the greatest threat to Israel. He warned that a single nuclear bomb could kill hundreds of thousands in Israel. This issue is cited as one of the reasons for a military attack on Iran.",
         "time": "06:20",
         "ts": 1792390834
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The director of the Kerman Standards Office announced criminal charges against 23 unsafe elevators. These elevators did not comply with safety requirements or failed to address reported defects. Municipalities are not allowed to issue completion certificates for elevators without standard approval.",
+        "time": "06:28",
+        "ts": 1792391296
       }
     ],
     "language": "en",
-    "packId": "20261019-09",
-    "sequence": 9,
+    "packId": "20261019-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:20"
+    "updatedAt": "06:28"
   },
   "verified": true
 }
