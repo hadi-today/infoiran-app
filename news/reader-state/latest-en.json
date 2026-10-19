@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-37 seq=37 exp=1792576920",
+      "advancedStatus": "pack_id=20261019-38 seq=38 exp=1792577644",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:02",
+      "lastChecked": "10:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 10:02",
+    "expiresAt": "2026-10-21 10:14",
     "items": [
       {
         "channel": "iranintl",
@@ -896,14 +896,21 @@
         "text": "A video shows the first presence of the missing family of Alireza Raeisi at his grave in the deserts of Anarak, Isfahan province. Alireza Raeisi, cousin of Ramin Raeisi, was one of the killed protesters in December protests in Isfahan. He was executed on October 5, 2026, along with Alireza Sepahi.",
         "time": "10:01",
         "ts": 1792404079
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "During the protests on October 17 in Grenoble, France, a group of protesters hijacked a small tourist train and moved it through the city center streets. The protesters then abandoned the train towards the police forces. This incident was reported during the protests.",
+        "time": "10:13",
+        "ts": 1792404801
       }
     ],
     "language": "en",
-    "packId": "20261019-37",
-    "sequence": 37,
+    "packId": "20261019-38",
+    "sequence": 38,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:02"
+    "updatedAt": "10:14"
   },
   "verified": true
 }
