@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-78 seq=78 exp=1792595425",
+      "advancedStatus": "pack_id=20261019-79 seq=79 exp=1792595558",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:10",
+      "lastChecked": "15:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 15:10",
+    "expiresAt": "2026-10-21 15:12",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Saeed Bashirtash announced that the Belgian Minister of Defense invited Prince Reza Pahlavi to speak at the Royal Military Academy. The Belgian government considers Reza Pahlavi as the representative of the Iranian people. This invitation indicates his increasing international legitimacy.",
-        "time": "15:10",
-        "ts": 1792336207
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Donald Trump expressed full support for Benjamin Netanyahu's re-election as prime minister. He described the Islamic Republic as a threat to Israel and the US and warned that if Iran does not change its course, the US will act alone. Trump called Netanyahu a great partner for peace.",
-        "time": "15:10",
-        "ts": 1792336254
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -924,14 +910,21 @@
         "text": "Vahid Vidafer, a resident of Tabriz, remains detained in Tabriz prison without a clear status after 75 days. He was arrested on August 5. The reason for his arrest was liking a post on Benjamin Netanyahu's page.",
         "time": "15:09",
         "ts": 1792422578
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Sheikh Saud bin Abdulrahman Al Thani announced that Qatar will soon establish a defense equipment production center domestically. Qatar is cooperating with regional partners and the US, UK, and France to develop its domestic defense capabilities. The country will also invest in companies active in the defense sector.",
+        "time": "15:11",
+        "ts": 1792422673
       }
     ],
     "language": "en",
-    "packId": "20261019-78",
-    "sequence": 78,
+    "packId": "20261019-79",
+    "sequence": 79,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:10"
+    "updatedAt": "15:12"
   },
   "verified": true
 }
