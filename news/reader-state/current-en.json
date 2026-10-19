@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-52 seq=52 exp=1792585325",
+      "advancedStatus": "pack_id=20261019-53 seq=53 exp=1792585434",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:22",
+      "lastChecked": "12:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 12:22",
+    "expiresAt": "2026-10-21 12:23",
     "items": [
       {
         "channel": "harana",
@@ -917,14 +917,21 @@
         "text": "The 70th London International Film Festival was held from October 7 to 18. In this edition, 251 works from 88 countries were screened. Six Iranian films addressing themes such as protest, censorship, and migration participated in the festival.",
         "time": "12:21",
         "ts": 1792412479
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A missile attack by the Houthis on a military training camp in Shabwah province killed at least 18 people. A projectile hit a residential area in Najran, Saudi Arabia, injuring six. Houthi media reported 9 deaths in a Saudi airstrike on Saada.",
+        "time": "12:22",
+        "ts": 1792412567
       }
     ],
     "language": "en",
-    "packId": "20261019-52",
-    "sequence": 52,
+    "packId": "20261019-53",
+    "sequence": 53,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:22"
+    "updatedAt": "12:23"
   },
   "verified": true
 }
