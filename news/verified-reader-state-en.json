@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-43 seq=43 exp=1792580223",
+      "advancedStatus": "pack_id=20261019-44 seq=44 exp=1792580580",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:57",
+      "lastChecked": "11:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 10:57",
+    "expiresAt": "2026-10-21 11:03",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "Ali Abbasi, the police commander of Masjed Soleyman, announced the arrest of a person who injured a doctor with a cold weapon. The incident occurred last night in a medical clinic. The motive of the accused was stated to be previous disputes.",
         "time": "10:56",
         "ts": 1792407380
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A group of victims of the Pishgaman cooperative company in Yazd gathered in front of the company's office on Monday, October 19. They protested due to months of uncertainty and unclear profits and capital. The gathering was held to express dissatisfaction with the company's situation.",
+        "time": "11:02",
+        "ts": 1792407737
       }
     ],
     "language": "en",
-    "packId": "20261019-43",
-    "sequence": 43,
+    "packId": "20261019-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:57"
+    "updatedAt": "11:03"
   },
   "verified": true
 }
