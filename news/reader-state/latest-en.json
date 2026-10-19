@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-41 seq=41 exp=1792579585",
+      "advancedStatus": "pack_id=20261019-42 seq=42 exp=1792579747",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:46",
+      "lastChecked": "10:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 10:46",
+    "expiresAt": "2026-10-21 10:49",
     "items": [
       {
         "channel": "harana",
@@ -903,14 +903,21 @@
         "text": "Reports have emerged about bribery among judges in Kermanshah and rising prices of motor oil. There are also issues with salary payments at the Khuzestan oil company and dissatisfaction with the ration card system in Tehran. People complain about inflation, poor internet quality, and healthcare difficulties.",
         "time": "10:45",
         "ts": 1792406743
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A citizen in Rudsar was arrested for writing posts on social media, which the police described as insulting martyrs and disturbing public opinion.",
+        "time": "10:48",
+        "ts": 1792406905
       }
     ],
     "language": "en",
-    "packId": "20261019-41",
-    "sequence": 41,
+    "packId": "20261019-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:46"
+    "updatedAt": "10:49"
   },
   "verified": true
 }
