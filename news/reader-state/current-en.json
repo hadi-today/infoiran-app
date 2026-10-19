@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-62 seq=62 exp=1792589362",
+      "advancedStatus": "pack_id=20261019-63 seq=63 exp=1792589555",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:29",
+      "lastChecked": "13:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 13:29",
+    "expiresAt": "2026-10-21 13:32",
     "items": [
       {
         "channel": "iranintl",
@@ -945,14 +945,21 @@
         "text": "A couple was sitting on a cafe terrace near the Arc de Triomphe in Paris amid ongoing unrest. The unrest followed the joining of students, labor unions, and Yellow Vest movement members in protests against price increases. Flames from a burning trash can were visible in the background.",
         "time": "13:27",
         "ts": 1792416479
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "France is once again experiencing street unrest, which reminds Iranians of the 1979 revolution. These developments refer to the coalition of leftists and Islamists and its consequences for Iran. Adaleh Borang has commented on social media users' reactions to this issue.",
+        "time": "13:31",
+        "ts": 1792416713
       }
     ],
     "language": "en",
-    "packId": "20261019-62",
-    "sequence": 62,
+    "packId": "20261019-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:29"
+    "updatedAt": "13:32"
   },
   "verified": true
 }
