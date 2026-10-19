@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-20 seq=20 exp=1792569721",
+      "advancedStatus": "pack_id=20261019-21 seq=21 exp=1792569825",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:02",
+      "lastChecked": "08:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 08:02",
+    "expiresAt": "2026-10-21 08:03",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -740,13 +740,25 @@
         "text": "محمد مخبر گفت مجتبی خامنه‌ای در حکمرانی و مسائل نظامی تسلط دارد. او افزود جانشینی مجتبی خامنه‌ای آرامش را به کشور بازگردانده است. مخبر آینده کشور را درخشان دانست.",
         "time": "08:01",
         "ts": 1792396880
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "text": "امین قدوسیان، شهروند شهرستان راسک، شش روز است که توسط ماموران اداره اطلاعات در چابهار بازداشت شده است. تاکنون از محل نگهداری وی اطلاعی در دست نیست.",
+        "time": "08:03",
+        "ts": 1792396982
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "یک شهروند اعلام کرده در مدرسه دبیری چالدران در استان آذربایجان‌غربی در بسته شده است. رئیس آموزش و پرورش گفته درِ مدرسه به روی پیش‌دبستانی‌ها باز نمی‌شود چون قرارداد بسته نشده است.",
+        "time": "08:03",
+        "ts": 1792397003
       }
     ],
-    "packId": "20261019-20",
-    "sequence": 20,
+    "packId": "20261019-21",
+    "sequence": 21,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "08:02"
+    "updatedAt": "08:03"
   },
   "verified": true
 }
