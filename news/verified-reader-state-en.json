@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-06 seq=6 exp=1792560189",
+      "advancedStatus": "pack_id=20261019-07 seq=7 exp=1792562870",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:23",
+      "lastChecked": "06:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 05:23",
+    "expiresAt": "2026-10-21 06:07",
     "items": [
       {
         "channel": "iranintl",
@@ -812,14 +812,21 @@
         "text": "Abbas Araghchi reacted to Macron's remarks about the impact of fuel prices caused by the Iran war on protests in France, accusing Macron of creating the conditions for this situation. He said Macron assured the US president of support for crimes against Iranians. Araghchi added that the French people demand fundamental changes, including guarantees for freedom of assembly.",
         "time": "05:22",
         "ts": 1792387367
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The president of the University of Tehran announced the formation of a working group to address student dress code issues. This group invites students confidentially and tries to resolve matters without referring them to the disciplinary council. The university also strictly deals with tobacco use on campus.",
+        "time": "06:07",
+        "ts": 1792390051
       }
     ],
     "language": "en",
-    "packId": "20261019-06",
-    "sequence": 6,
+    "packId": "20261019-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:23"
+    "updatedAt": "06:07"
   },
   "verified": true
 }
