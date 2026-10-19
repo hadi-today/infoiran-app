@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261019-07 seq=7 exp=1792562870",
+      "advancedStatus": "pack_id=20261019-08 seq=8 exp=1792563394",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:07",
+      "lastChecked": "06:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-19",
-    "expiresAt": "2026-10-21 06:07",
+    "expiresAt": "2026-10-21 06:16",
     "items": [
       {
         "channel": "iranintl",
@@ -819,14 +819,21 @@
         "text": "The president of the University of Tehran announced the formation of a working group to address student dress code issues. This group invites students confidentially and tries to resolve matters without referring them to the disciplinary council. The university also strictly deals with tobacco use on campus.",
         "time": "06:07",
         "ts": 1792390051
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli army announced that in attacks in the Gaza Strip, a Hamas cell commander and two members of its military wing were killed. These individuals were involved in planning attacks against Israel and rebuilding Hamas's military capabilities. The airstrikes took place in the Al-Daraj, Al-Tuffah, and Jabalia areas.",
+        "time": "06:16",
+        "ts": 1792390573
       }
     ],
     "language": "en",
-    "packId": "20261019-07",
-    "sequence": 7,
+    "packId": "20261019-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:07"
+    "updatedAt": "06:16"
   },
   "verified": true
 }
