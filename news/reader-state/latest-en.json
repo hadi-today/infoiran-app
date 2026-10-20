@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261020-06 seq=6 exp=1792690835",
+      "advancedStatus": "pack_id=20261020-07 seq=7 exp=1792691448",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:40",
+      "lastChecked": "17:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-20",
-    "expiresAt": "2026-10-22 17:40",
+    "expiresAt": "2026-10-22 17:50",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Masoud Pezeshkian, head of the Islamic Republic government, met with Sergey Lavrov, Russian foreign minister, in Tehran. They discussed bilateral relations and regional and international developments. They also explored ways to strengthen cooperation between Tehran and Moscow.",
-        "time": "17:42",
-        "ts": 1792431741
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -903,14 +896,21 @@
         "text": "Ali Abdollahi, Chief of Staff of the Armed Forces, stated that if the enemy makes another mistake, the armed forces will neutralize the enemy's advanced equipment using inexpensive but effective tools. He emphasized that this approach will be disturbing and costly for the enemy. The armed forces will also firmly confront any aggressor according to the path set by the leaders of the Islamic Republic.",
         "time": "17:39",
         "ts": 1792517990
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Contract workers of Iran Telecommunication reported unpaid salary differences for April, years of service, and remaining leave for 2024 and 2025. Drivers at the South Pars complex complained about unpaid wages and night shift benefits. Retirees in Shahr-e Rey also demanded payment of their May dues.",
+        "time": "17:50",
+        "ts": 1792518606
       }
     ],
     "language": "en",
-    "packId": "20261020-06",
-    "sequence": 6,
+    "packId": "20261020-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:40"
+    "updatedAt": "17:50"
   },
   "verified": true
 }
