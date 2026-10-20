@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261020-04 seq=4 exp=1792689129",
+      "advancedStatus": "pack_id=20261020-05 seq=5 exp=1792689469",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:12",
+      "lastChecked": "17:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-20",
-    "expiresAt": "2026-10-22 17:12",
+    "expiresAt": "2026-10-22 17:17",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "Five workers were injured in three work accidents in Nazarabad, Ardabil, and Rasht. Three miners suffered gas poisoning in a sewage well. Two construction workers were injured due to a fall.",
         "time": "17:11",
         "ts": 1792516283
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Behnam Taleblu stated that the Islamic Republic is preparing for another round of military attacks. This comes as Russian and Pakistani officials have traveled to Tehran. He also said that if the goal of the US and Israel is only to increase military pressure, this strategy will fail.",
+        "time": "17:17",
+        "ts": 1792516626
       }
     ],
     "language": "en",
-    "packId": "20261020-04",
-    "sequence": 4,
+    "packId": "20261020-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:12"
+    "updatedAt": "17:17"
   },
   "verified": true
 }
