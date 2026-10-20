@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261020-12 seq=12 exp=1792695526",
+      "advancedStatus": "pack_id=20261020-13 seq=13 exp=1792695665",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:58",
+      "lastChecked": "19:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-20",
-    "expiresAt": "2026-10-22 18:58",
+    "expiresAt": "2026-10-22 19:01",
     "items": [
       {
         "channel": "iranintl",
@@ -854,14 +854,21 @@
         "text": "The US is deploying the aircraft carrier Theodore Roosevelt and the 13th Marine Unit to the Middle East, sending about 10,000 additional troops. The carrier will arrive by November 30 and will be the third US aircraft carrier in the region. This move comes as Trump considers escalating attacks on Iran.",
         "time": "18:57",
         "ts": 1792522675
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Borussia Dortmund won against Sabah Azerbaijan in the third week of the Champions League. Fenerbahce Turkey drew with Slavia Prague despite a two-goal lead. This result increased pressure on Fenerbahce's coach.",
+        "time": "18:59",
+        "ts": 1792522762
       }
     ],
     "language": "en",
-    "packId": "20261020-12",
-    "sequence": 12,
+    "packId": "20261020-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:58"
+    "updatedAt": "19:01"
   },
   "verified": true
 }
