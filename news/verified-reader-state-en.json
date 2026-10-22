@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261022-24 seq=24 exp=1792865398",
+      "advancedStatus": "pack_id=20261022-25 seq=25 exp=1792866062",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:09",
+      "lastChecked": "18:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-22",
-    "expiresAt": "2026-10-24 18:09",
+    "expiresAt": "2026-10-24 18:21",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mehdi Mahdavi Azad stated that with the intensification of sanctions and Iran's isolation, the income of smuggling networks affiliated with the IRGC increases. He warned that this situation will lead to increased poverty and social divides. He also described the Islamic Republic's policies as an effort to maintain power at the cost of destroying Iran's economy and society.",
-        "time": "18:17",
-        "ts": 1792606627
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -847,14 +840,21 @@
         "text": "Benjamin Netanyahu sent a message to the people of Iran, acknowledging the hopes of Iranians worldwide for freedom. He emphasized his support for the freedom and rights of the Iranian people and cooperation with Donald Trump for a future of security, freedom, and peace. Netanyahu also expressed hope that children in Tehran and Jerusalem will grow up in peace.",
         "time": "18:09",
         "ts": 1792692554
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Patrick Clawson says sanctions have reduced the Islamic Republic's oil sales to nearly zero. He warns that the country will face a severe economic and energy crisis in the coming months. A harsh winter is expected as the government must meet the economic and energy needs of the people.",
+        "time": "18:20",
+        "ts": 1792693218
       }
     ],
     "language": "en",
-    "packId": "20261022-24",
-    "sequence": 24,
+    "packId": "20261022-25",
+    "sequence": 25,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:09"
+    "updatedAt": "18:21"
   },
   "verified": true
 }
