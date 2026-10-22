@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261022-04 seq=4 exp=1792857604",
+      "advancedStatus": "pack_id=20261022-05 seq=5 exp=1792857885",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:00",
+      "lastChecked": "16:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-22",
-    "expiresAt": "2026-10-24 16:00",
+    "expiresAt": "2026-10-24 16:04",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Administrative Justice Court annulled the Taekwondo Federation elections. The IRGC did not confirm Hadi Saei's qualifications. The Ministry of Intelligence reported an ongoing legal case against him.",
-        "time": "15:59",
-        "ts": 1792598399
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A group of Iranians living in Spain gathered on Wednesday, October 21, in front of the Islamic Republic's embassy in Madrid. They protested against executions in Iran. The video was released by Iran International.",
-        "time": "16:03",
-        "ts": 1792598637
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -854,14 +840,21 @@
         "text": "Donald Trump stated that the Islamic Republic is trying to raise oil prices before the US midterm elections. He claimed Iran spreads fake news about attacks and mines and kills protesters. Trump also emphasized that Iran will never have nuclear weapons.",
         "time": "15:59",
         "ts": 1792684757
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Videos received by Iran International show a large oil leak on the coast of Qeshm. The leak is caused by targeted ships in the Persian Gulf. These videos are from Thursday, October 22.",
+        "time": "16:04",
+        "ts": 1792685040
       }
     ],
     "language": "en",
-    "packId": "20261022-04",
-    "sequence": 4,
+    "packId": "20261022-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:00"
+    "updatedAt": "16:04"
   },
   "verified": true
 }
