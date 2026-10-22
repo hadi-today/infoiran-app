@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261022-43 seq=43 exp=1792880084",
+      "advancedStatus": "pack_id=20261022-44 seq=44 exp=1792880747",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:14",
+      "lastChecked": "22:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-22",
-    "expiresAt": "2026-10-24 22:14",
+    "expiresAt": "2026-10-24 22:25",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Kurdistan Human Rights Network reported the large-scale deployment of IRGC forces and military convoys to the cities of Sanandaj, Kamyaran, Sarvabad, Marivan, and Baneh. The deployed forces are equipped with heavy and semi-heavy weapons. Additionally, hundreds of special IRGC forces have been stationed around the villages near the Shaho mountain range in Kamyaran.",
-        "time": "22:20",
-        "ts": 1792621234
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -833,14 +826,21 @@
         "text": "Donald Trump said Elon Musk restored Ukraine's access to Starlink. Restrictions on the military version of Starlink had disrupted Ukrainian drone missions. Senator Richard Blumenthal announced the start of an investigation into the reduced performance of Starlink.",
         "time": "22:14",
         "ts": 1792707240
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Kiani discussed Mohammad Reza Shah Pahlavi's view of Iranian monarchy in the program 16 \"Fereydoun.\" He attributed the slogans \"Long live the king\" and \"Pahlavi will return\" to the fact that Mohammad Reza Shah did not establish his throne on the blood of the Iranian people. This topic was raised in a part of the program.",
+        "time": "22:25",
+        "ts": 1792707905
       }
     ],
     "language": "en",
-    "packId": "20261022-43",
-    "sequence": 43,
+    "packId": "20261022-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:14"
+    "updatedAt": "22:25"
   },
   "verified": true
 }
