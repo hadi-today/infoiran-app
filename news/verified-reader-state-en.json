@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261022-09 seq=9 exp=1792859542",
+      "advancedStatus": "pack_id=20261022-10 seq=10 exp=1792860170",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:32",
+      "lastChecked": "16:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-22",
-    "expiresAt": "2026-10-24 16:32",
+    "expiresAt": "2026-10-24 16:42",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "A member of the Assembly of Experts stated that Ali Khamenei's will has not been found after the bombing. The will was being revised and has no identical copy. The file and the computer containing it were destroyed in the bombing.",
-        "time": "16:31",
-        "ts": 1792600295
-      },
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Benjamin Netanyahu accused Iran of attempting to redevelop nuclear weapons. He stated that the only way to eliminate this threat is to overthrow the Iranian government. Netanyahu has instructed the military and security agencies to act to remove this threat.",
-        "time": "16:33",
-        "ts": 1792600390
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -861,14 +847,21 @@
         "text": "The mother of Maedeh Moradi Kian announced that the photo and inscription on her daughter's grave have been removed. Maedeh, 22 years old, was killed on January 9, 2026, in Qaemshahr. Her mother reported this in a video and expressed pride in her daughter.",
         "time": "16:31",
         "ts": 1792686691
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "In Iran, women face legal and social restrictions due to the lack of a clear procedure for issuing motorcycle licenses. This ban has become a social and political issue limiting women's independence. The report examines the roots of this ban and women's resistance.",
+        "time": "16:42",
+        "ts": 1792687323
       }
     ],
     "language": "en",
-    "packId": "20261022-09",
-    "sequence": 9,
+    "packId": "20261022-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:32"
+    "updatedAt": "16:42"
   },
   "verified": true
 }
