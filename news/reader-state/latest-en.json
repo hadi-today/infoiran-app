@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261022-19 seq=19 exp=1792864087",
+      "advancedStatus": "pack_id=20261022-20 seq=20 exp=1792864224",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:48",
+      "lastChecked": "17:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-22",
-    "expiresAt": "2026-10-24 17:48",
+    "expiresAt": "2026-10-24 17:50",
     "items": [
       {
         "channel": "harana",
@@ -854,14 +854,21 @@
         "text": "Shirvan Soleimannejad, a citizen of Urmia, was arrested by intelligence forces on Monday, October 19. He was transferred to an unknown location. There has been no news about his condition so far.",
         "time": "17:47",
         "ts": 1792691240
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Saeed Fattahi, head of the football organization of Esteghlal club, stated that after Tractor club's criticism, more restrictions have been imposed on Iranian airplanes. These restrictions have forced clubs to use larger and more expensive planes. Tractor club also criticized the high costs of government flights and mentioned the possibility of canceling the match with Al Ain.",
+        "time": "17:48",
+        "ts": 1792691319
       }
     ],
     "language": "en",
-    "packId": "20261022-19",
-    "sequence": 19,
+    "packId": "20261022-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:48"
+    "updatedAt": "17:50"
   },
   "verified": true
 }
