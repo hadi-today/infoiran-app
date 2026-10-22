@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261022-03 seq=3 exp=1792857227",
+      "advancedStatus": "pack_id=20261022-04 seq=4 exp=1792857604",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:53",
+      "lastChecked": "16:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-22",
-    "expiresAt": "2026-10-24 15:53",
+    "expiresAt": "2026-10-24 16:00",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Bagher Ghalibaf, the Speaker of the Parliament, met with Mojtaba Khamenei. The meeting reviewed military, economic, and cognitive developments in the war and emphasized strengthening the country's power and cooperation between the government and parliament to solve economic problems. Reports on the activities of parliament members were also presented.",
-        "time": "15:56",
-        "ts": 1792598182
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "On Wednesday, October 21, several Basij and Sepah members came to Talash School in Mobarakeh and gave speeches to the students. They did not allow students to attend classes and handed out name tags to them. Similar actions involving martyrdom tags were reported in girls' schools in Karaj and Gohardasht.",
-        "time": "15:57",
-        "ts": 1792598232
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -861,14 +847,21 @@
         "text": "Tractor football team defeated Sanat Naft Abadan 3-0 in the tenth week of the Premier League. All three goals were scored in the last half hour of the match. With this win, Tractor reached 20 points and ranked second in the standings.",
         "time": "15:53",
         "ts": 1792684381
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump stated that the Islamic Republic is trying to raise oil prices before the US midterm elections. He claimed Iran spreads fake news about attacks and mines and kills protesters. Trump also emphasized that Iran will never have nuclear weapons.",
+        "time": "15:59",
+        "ts": 1792684757
       }
     ],
     "language": "en",
-    "packId": "20261022-03",
-    "sequence": 3,
+    "packId": "20261022-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:53"
+    "updatedAt": "16:00"
   },
   "verified": true
 }
