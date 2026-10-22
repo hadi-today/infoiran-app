@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261022-20 seq=20 exp=1792864224",
+      "advancedStatus": "pack_id=20261022-21 seq=21 exp=1792864534",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:50",
+      "lastChecked": "17:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-22",
-    "expiresAt": "2026-10-24 17:50",
+    "expiresAt": "2026-10-24 17:55",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Two prisoners sentenced for drug-related crimes were executed in Shahrud prison. One prisoner in Ilam was spared execution after 15 years through mediation by elders. Additionally, 22 prisoners sentenced to death in West Azerbaijan were released through reconciliation in the first half of this year.",
-        "time": "17:50",
-        "ts": 1792605000
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Abbas Araghchi stated that the Islamic Republic is ready to continue diplomacy if it sees sincere evidence of the US's willingness to build trust. He warned that if the US prefers war, it will face a strategic defeat. Araghchi also highlighted the risks of escalating tensions in the region and said there is little hope for progress under current conditions.",
-        "time": "17:52",
-        "ts": 1792605156
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -861,14 +847,21 @@
         "text": "Saeed Fattahi, head of the football organization of Esteghlal club, stated that after Tractor club's criticism, more restrictions have been imposed on Iranian airplanes. These restrictions have forced clubs to use larger and more expensive planes. Tractor club also criticized the high costs of government flights and mentioned the possibility of canceling the match with Al Ain.",
         "time": "17:48",
         "ts": 1792691319
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The representative of Sari and Miandorud in the parliament reported that more than 1.7 million workers in the country have become unemployed since the start of the 12-day war.",
+        "time": "17:54",
+        "ts": 1792691690
       }
     ],
     "language": "en",
-    "packId": "20261022-20",
-    "sequence": 20,
+    "packId": "20261022-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:50"
+    "updatedAt": "17:55"
   },
   "verified": true
 }
