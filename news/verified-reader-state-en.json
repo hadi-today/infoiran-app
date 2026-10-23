@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-15 seq=15 exp=1792911197",
+      "advancedStatus": "pack_id=20261023-16 seq=16 exp=1792911354",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:53",
+      "lastChecked": "06:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 06:53",
+    "expiresAt": "2026-10-25 06:55",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,21 @@
         "text": "The home of Bruno Fernandes, Manchester United captain, was targeted in a burglary in the Cheshire area. Fernandes' family was not at home during the incident. Several other players have previously been victims of burglaries in the same area.",
         "time": "06:52",
         "ts": 1792738352
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A double-job teacher criticized his low salary in a video sent to Iran International. In the video, he mentioned the protest casualties and said he wished to become immortalized. These statements were made in a video.",
+        "time": "06:55",
+        "ts": 1792738507
       }
     ],
     "language": "en",
-    "packId": "20261023-15",
-    "sequence": 15,
+    "packId": "20261023-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:53"
+    "updatedAt": "06:55"
   },
   "verified": true
 }
