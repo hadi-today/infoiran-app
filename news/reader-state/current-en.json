@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-11 seq=11 exp=1792901418",
+      "advancedStatus": "pack_id=20261023-12 seq=12 exp=1792903834",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:10",
+      "lastChecked": "04:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 04:10",
+    "expiresAt": "2026-10-25 04:50",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Tensions between North and South Korea have risen with a warning from Kim Yo-jong about propaganda and military actions at the border. Seoul has stated it will respond firmly to any provocative actions by Pyongyang. The commander of the US Eighth Army emphasized the readiness of US forces in South Korea.",
-        "time": "04:19",
-        "ts": 1792642760
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Navy of the IRGC discovered and attacked four illegal ships transferring oil cargo in the Persian Gulf. Three other illegal ships collided with mines west of the Strait of Hormuz and were damaged. The IRGC warned that continued US provocations would escalate confrontations to the bases of the aggressors in the region.",
-        "time": "04:31",
-        "ts": 1792643475
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -826,14 +812,21 @@
         "text": "Mohammad Oliaifard stated that the Islamic Republic tries to prevent the pursuit of truth about the killing of protesters through arrests and various pressures. He added that these pressures prevent the mourning of families from becoming a public demand and a basis for social solidarity.",
         "time": "04:09",
         "ts": 1792728576
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Siamak Aram stated that the government is escalating the crisis to control the internal atmosphere and increase pressure on the opposing side. He described this approach as disregarding Iran's national interests and people's security. There is a possibility of a new round of military confrontation between the Islamic Republic, the US, and Israel.",
+        "time": "04:49",
+        "ts": 1792730990
       }
     ],
     "language": "en",
-    "packId": "20261023-11",
-    "sequence": 11,
+    "packId": "20261023-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:10"
+    "updatedAt": "04:50"
   },
   "verified": true
 }
