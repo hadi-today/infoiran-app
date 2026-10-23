@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-04 seq=4 exp=1792897189",
+      "advancedStatus": "pack_id=20261023-05 seq=5 exp=1792897828",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:59",
+      "lastChecked": "03:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 02:59",
+    "expiresAt": "2026-10-25 03:10",
     "items": [
       {
         "channel": "iranintl",
@@ -812,14 +812,21 @@
         "text": "Donald Trump is considering multi-day attacks on Iran after the November 3 midterm elections but has not made a final decision. Potential targets include nuclear facilities, missile and drone capabilities, and energy infrastructure. Some advisors believe more attacks could force concessions, while others warn of adverse outcomes.",
         "time": "02:59",
         "ts": 1792724346
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The UAE Ministry of Climate Change and Environment announced an oil spill from a tanker has polluted the shores of Umm Al Quwain, leading to a temporary closure of the beaches. Cleanup and containment operations have begun. The cause and amount of the oil spill remain unknown.",
+        "time": "03:09",
+        "ts": 1792724981
       }
     ],
     "language": "en",
-    "packId": "20261023-04",
-    "sequence": 4,
+    "packId": "20261023-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:59"
+    "updatedAt": "03:10"
   },
   "verified": true
 }
