@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-29 seq=29 exp=1792945682",
+      "advancedStatus": "pack_id=20261023-30 seq=30 exp=1792946050",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:28",
+      "lastChecked": "16:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 16:28",
+    "expiresAt": "2026-10-25 16:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The mother of Maedeh Moradi Kian announced that the photo and inscription on her daughter's grave have been removed. Maedeh, 22 years old, was killed on January 9, 2026, in Qaemshahr. Her mother reported this in a video and expressed pride in her daughter.",
-        "time": "16:31",
-        "ts": 1792686691
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -931,14 +924,21 @@
         "text": "Vincent Kompany, Bayern Munich's coach, was taken to the hospital by ambulance after experiencing a physical problem at the club's training center. He had been suffering from a severe viral infection and fainted during training. The exact details of his condition have not yet been officially announced.",
         "time": "16:05",
         "ts": 1792771527
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mike Waltz denied the statements attributed to him in the Financial Times report and called for a correction. He said the US Navy can continue the maritime blockade but did not comment on hypothetical scenarios. The decision on continuing the blockade and diplomacy is up to Donald Trump.",
+        "time": "16:33",
+        "ts": 1792773208
       }
     ],
     "language": "en",
-    "packId": "20261023-29",
-    "sequence": 29,
+    "packId": "20261023-30",
+    "sequence": 30,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:28"
+    "updatedAt": "16:34"
   },
   "verified": true
 }
