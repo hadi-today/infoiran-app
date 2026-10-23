@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-18 seq=18 exp=1792912186",
+      "advancedStatus": "pack_id=20261023-19 seq=19 exp=1792912320",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:09",
+      "lastChecked": "07:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 07:09",
+    "expiresAt": "2026-10-25 07:12",
     "items": [
       {
         "channel": "iranintl",
@@ -819,14 +819,21 @@
         "text": "Mike Waltz, the US ambassador to the United Nations, said Washington can continue the blockade of Iranian ports for a long time. He emphasized that the US will not achieve its strategic goals until a meaningful agreement on uranium enrichment is reached. The US also called for ending long-term peacekeeping missions in some countries.",
         "time": "07:09",
         "ts": 1792739345
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Rouhollah Rahimpour said there is no sign of the Islamic Republic's readiness for serious negotiations about the nuclear program and 60% enriched uranium. He added that if a war starts, military pressure might force the Islamic Republic to negotiate. Currently, reaching a nuclear agreement seems out of reach.",
+        "time": "07:11",
+        "ts": 1792739461
       }
     ],
     "language": "en",
-    "packId": "20261023-18",
-    "sequence": 18,
+    "packId": "20261023-19",
+    "sequence": 19,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:09"
+    "updatedAt": "07:12"
   },
   "verified": true
 }
