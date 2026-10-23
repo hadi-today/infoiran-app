@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-67 seq=67 exp=1792969665",
+      "advancedStatus": "pack_id=20261023-68 seq=68 exp=1792970309",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:07",
+      "lastChecked": "23:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 23:07",
+    "expiresAt": "2026-10-25 23:18",
     "items": [
       {
         "channel": "iranintl",
@@ -903,14 +903,21 @@
         "text": "A vehicle carrying rebar lost control in Azimieh neighborhood of Karaj and its fuel tank exploded and caught fire after hitting a curb. The incident occurred on the evening of Friday, Aban 1. No report on the extent of damage has been released yet.",
         "time": "23:07",
         "ts": 1792796856
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Israeli parliamentary elections will be held on the 27th of October. These elections could lead to the continuation of Benjamin Netanyahu's premiership or the formation of a new government. Netanyahu needs the support of the parliamentary majority to form a government.",
+        "time": "23:18",
+        "ts": 1792797495
       }
     ],
     "language": "en",
-    "packId": "20261023-67",
-    "sequence": 67,
+    "packId": "20261023-68",
+    "sequence": 68,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:07"
+    "updatedAt": "23:18"
   },
   "verified": true
 }
