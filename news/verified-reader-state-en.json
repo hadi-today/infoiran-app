@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-49 seq=49 exp=1792955151",
+      "advancedStatus": "pack_id=20261023-50 seq=50 exp=1792955828",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:05",
+      "lastChecked": "19:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 19:05",
+    "expiresAt": "2026-10-25 19:17",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "Donald Trump said he has no knowledge about a possible attack on Iran. Tom Barrack, the US ambassador to Turkey, had previously confirmed the possibility of an attack on Iran over the weekend. Barrack also stated that the immediate nuclear threat from Iran has almost been resolved.",
         "time": "19:05",
         "ts": 1792782341
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Mai Sato, the UN special rapporteur on human rights in Iran, has called on governments and organizations to submit documentation of human rights violations from September 2026 onward. Her next report will focus on issues such as cross-border repression of opponents, threats to families, women's rights, and the consequences of detention and execution. These documents will be submitted to the Human Rights Council for the report preparation.",
+        "time": "19:16",
+        "ts": 1792783017
       }
     ],
     "language": "en",
-    "packId": "20261023-49",
-    "sequence": 49,
+    "packId": "20261023-50",
+    "sequence": 50,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:05"
+    "updatedAt": "19:17"
   },
   "verified": true
 }
