@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-03 seq=3 exp=1792895631",
+      "advancedStatus": "pack_id=20261023-04 seq=4 exp=1792897189",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:33",
+      "lastChecked": "02:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 02:33",
+    "expiresAt": "2026-10-25 02:59",
     "items": [
       {
         "channel": "iranintl",
@@ -805,14 +805,21 @@
         "text": "Donald Trump stated in his campaign speech that the conflict with Iran will end soon. He added that after this, oil and gasoline prices will decrease. These remarks were made during the Republican campaign.",
         "time": "02:33",
         "ts": 1792722785
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump is considering multi-day attacks on Iran after the November 3 midterm elections but has not made a final decision. Potential targets include nuclear facilities, missile and drone capabilities, and energy infrastructure. Some advisors believe more attacks could force concessions, while others warn of adverse outcomes.",
+        "time": "02:59",
+        "ts": 1792724346
       }
     ],
     "language": "en",
-    "packId": "20261023-03",
-    "sequence": 3,
+    "packId": "20261023-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:33"
+    "updatedAt": "02:59"
   },
   "verified": true
 }
