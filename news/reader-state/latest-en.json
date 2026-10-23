@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-33 seq=33 exp=1792946907",
+      "advancedStatus": "pack_id=20261023-34 seq=34 exp=1792947045",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:48",
+      "lastChecked": "16:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 16:48",
+    "expiresAt": "2026-10-25 16:50",
     "items": [
       {
         "channel": "iranintl",
@@ -938,14 +938,21 @@
         "text": "Babak Es'haqi, a reporter from Iran International, interviewed Sami Abu Shehadeh, the leader of the Balad party from the Joint Arab List. The interview took place ahead of the Israeli parliamentary elections.",
         "time": "16:47",
         "ts": 1792774062
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Families of political prisoners executed in 1988 were prevented from entering Khavaran cemetery today and left their flowers behind closed gates. They held a ceremony at the site to honor the victims. The 1988 executions remain a significant political and human rights challenge in Iran.",
+        "time": "16:48",
+        "ts": 1792774137
       }
     ],
     "language": "en",
-    "packId": "20261023-33",
-    "sequence": 33,
+    "packId": "20261023-34",
+    "sequence": 34,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:48"
+    "updatedAt": "16:50"
   },
   "verified": true
 }
