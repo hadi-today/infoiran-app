@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-53 seq=53 exp=1792957681",
+      "advancedStatus": "pack_id=20261023-54 seq=54 exp=1792958981",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:48",
+      "lastChecked": "20:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 19:48",
+    "expiresAt": "2026-10-25 20:09",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A video shows a student releasing balloons in front of the Faculty of Engineering in Tehran. The balloons have the phrase \"Students are not afraid\" written on them. This video was sent to Iran International.",
-        "time": "20:01",
-        "ts": 1792699268
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -917,14 +910,21 @@
         "text": "Donald Trump stated that another operation similar to 'Epic Fury' against the Islamic Republic might take place. He said if Tehran is wise, it will start serious negotiations, but he doubts this will happen. Trump criticized the Obama-era nuclear deal as one of the worst and predicted that oil prices will soon drop sharply.",
         "time": "19:47",
         "ts": 1792784870
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "Johan Wadephul, Germany's foreign minister, announced that Germany, along with France and Britain, is ready to negotiate with the Islamic Republic of Iran to prevent it from acquiring nuclear weapons. These statements were made after a meeting of eight European and regional countries in Istanbul. Wadephul emphasized that Tehran must show serious readiness for a diplomatic and sustainable solution.",
+        "time": "20:09",
+        "ts": 1792786173
       }
     ],
     "language": "en",
-    "packId": "20261023-53",
-    "sequence": 53,
+    "packId": "20261023-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:48"
+    "updatedAt": "20:09"
   },
   "verified": true
 }
