@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-48 seq=48 exp=1792954826",
+      "advancedStatus": "pack_id=20261023-49 seq=49 exp=1792955151",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:00",
+      "lastChecked": "19:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 19:00",
+    "expiresAt": "2026-10-25 19:05",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen sent a video showing a long line of cars in Torghabeh. In the video, he protests against the officials of the Islamic Republic. The video was sent to Iran International on Thursday, October 22.",
-        "time": "19:01",
-        "ts": 1792695677
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +903,21 @@
         "text": "The foreign ministers of Saudi Arabia, Turkey, Egypt, and Pakistan called for the swift and complete resumption of safe and unobstructed passage through the Strait of Hormuz. They stated that the conflict between the US and Israel with Iran should be resolved only through dialogue and diplomacy. They also rejected any restrictions disrupting legal shipping.",
         "time": "19:00",
         "ts": 1792782016
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump said he has no knowledge about a possible attack on Iran. Tom Barrack, the US ambassador to Turkey, had previously confirmed the possibility of an attack on Iran over the weekend. Barrack also stated that the immediate nuclear threat from Iran has almost been resolved.",
+        "time": "19:05",
+        "ts": 1792782341
       }
     ],
     "language": "en",
-    "packId": "20261023-48",
-    "sequence": 48,
+    "packId": "20261023-49",
+    "sequence": 49,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:00"
+    "updatedAt": "19:05"
   },
   "verified": true
 }
