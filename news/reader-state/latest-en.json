@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-21 seq=21 exp=1792914403",
+      "advancedStatus": "pack_id=20261023-22 seq=22 exp=1792914711",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:46",
+      "lastChecked": "07:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 07:46",
+    "expiresAt": "2026-10-25 07:51",
     "items": [
       {
         "channel": "harana",
@@ -812,14 +812,21 @@
         "text": "Hassan Mostafaei, a citizen from Baneh, was released on bail.",
         "time": "07:45",
         "ts": 1792741558
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Two Palestinians carried out an armed attack at the Yehuda junction in the southern West Bank, injuring five Israelis. The Israeli army killed both attackers and surrounded the area. The army chief said the quick action of the forces prevented a larger-scale attack.",
+        "time": "07:51",
+        "ts": 1792741868
       }
     ],
     "language": "en",
-    "packId": "20261023-21",
-    "sequence": 21,
+    "packId": "20261023-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:46"
+    "updatedAt": "07:51"
   },
   "verified": true
 }
