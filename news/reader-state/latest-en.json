@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-38 seq=38 exp=1792948374",
+      "advancedStatus": "pack_id=20261023-40 seq=40 exp=1792949194",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:12",
+      "lastChecked": "17:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 17:12",
+    "expiresAt": "2026-10-25 17:26",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Jerusalem Post reported that the Israeli military intelligence, through US mediation, provides special information to Saudi Arabia to assist in operations against the Houthis. This cooperation aligns with Israel's national interests and political directives. Saudi Arabia is conducting extensive attacks on Houthi targets to weaken their military capabilities.",
-        "time": "17:15",
-        "ts": 1792689303
-      },
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "In work-related incidents in Hamedan, Boukan, and Arak, one worker died and three others were injured. An official reported the death of 21 workers and injury of 349 others in the first six months of this year in Hamedan. These statistics relate to work-related accidents.",
-        "time": "17:17",
-        "ts": 1792689456
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -952,14 +938,21 @@
         "text": "The head of the European Union delegation to the United Nations stated that the Iranian government should never acquire nuclear weapons and expressed concern over Tehran's lack of cooperation with the International Atomic Energy Agency. He called for strengthening the agency's safeguards system and supporting its technical and independent activities. He also warned about nuclear security risks in Ukraine and North Korea's weapons programs.",
         "time": "17:12",
         "ts": 1792775525
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Two senior Iranian security officials told Reuters that Tehran has plans to attack submarine communication cables in the Persian Gulf if the US and Israel attack again. The goal is to prevent cable repairs and cause prolonged communication disruptions. The location and method of the attacks were not disclosed.",
+        "time": "17:16",
+        "ts": 1792775812
       }
     ],
     "language": "en",
-    "packId": "20261023-38",
-    "sequence": 38,
+    "packId": "20261023-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:12"
+    "updatedAt": "17:26"
   },
   "verified": true
 }
