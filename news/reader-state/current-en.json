@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-08 seq=8 exp=1792899644",
+      "advancedStatus": "pack_id=20261023-09 seq=9 exp=1792899851",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:40",
+      "lastChecked": "03:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 03:40",
+    "expiresAt": "2026-10-25 03:44",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Hossein Ghazian said economic pressure in Iran has weakened trust and social cohesion. He added that the middle class has lost its position due to inability to cover living expenses and cultural consumption. This has reduced the social and political role of this class.",
-        "time": "03:42",
-        "ts": 1792640553
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -826,14 +819,21 @@
         "text": "A handwriting attributed to Mojtaba Khamenei has been published alongside requests to change the fatwa banning nuclear bomb production. This highlights internal disagreements within the Islamic Republic regarding nuclear policy and dealing with the US and Israel. Kamyar Behrang stated that the Islamic Republic aims to use the nuclear threat for leverage without building or testing a bomb.",
         "time": "03:40",
         "ts": 1792726809
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Safura and Maryam Ayni, the aunts of Soda Akramifard, a 16-year-old girl killed during the Iranian National Revolution, have been arrested. Pegah Bani Hashemi explains the legal aspects of these arrests and the families being kept uninformed. The responsibility of those ordering and carrying out these actions is also discussed.",
+        "time": "03:43",
+        "ts": 1792727009
       }
     ],
     "language": "en",
-    "packId": "20261023-08",
-    "sequence": 8,
+    "packId": "20261023-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:40"
+    "updatedAt": "03:44"
   },
   "verified": true
 }
