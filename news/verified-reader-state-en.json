@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-10 seq=10 exp=1792900898",
+      "advancedStatus": "pack_id=20261023-11 seq=11 exp=1792901418",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:01",
+      "lastChecked": "04:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 04:01",
+    "expiresAt": "2026-10-25 04:10",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The death sentence has been issued for Ilya Ben-Rashid, a protester arrested during the December protests. The death sentence for Manouchehr Fallah, a political prisoner, has also been confirmed by the Supreme Court. Human rights organizations have warned about these sentences.",
-        "time": "04:06",
-        "ts": 1792642004
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -826,14 +819,21 @@
         "text": "Samira Eini expressed concern about the arrest of her sisters, Safora and Maryam Eini. The two sisters have been detained by the security agencies of the Islamic Republic. The family is unaware of the reasons and conditions of their detention.",
         "time": "04:00",
         "ts": 1792728053
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Oliaifard stated that the Islamic Republic tries to prevent the pursuit of truth about the killing of protesters through arrests and various pressures. He added that these pressures prevent the mourning of families from becoming a public demand and a basis for social solidarity.",
+        "time": "04:09",
+        "ts": 1792728576
       }
     ],
     "language": "en",
-    "packId": "20261023-10",
-    "sequence": 10,
+    "packId": "20261023-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:01"
+    "updatedAt": "04:10"
   },
   "verified": true
 }
