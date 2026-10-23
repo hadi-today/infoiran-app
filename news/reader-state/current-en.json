@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-31 seq=31 exp=1792946201",
+      "advancedStatus": "pack_id=20261023-32 seq=32 exp=1792946523",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:36",
+      "lastChecked": "16:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 16:36",
+    "expiresAt": "2026-10-25 16:42",
     "items": [
       {
         "channel": "harana",
@@ -938,14 +938,21 @@
         "text": "Alireza Nouri's mother mourned at his grave and vowed to take revenge, saying the blood will not remain on the ground. Alireza Nouri was killed by Islamic Republic agents during the protests on January 9, 2026, in Qazvin. This video was shared on social media.",
         "time": "16:34",
         "ts": 1792773284
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Norway's Ministry of Foreign Affairs updated its official travel warning for Iran, urging its citizens to avoid traveling there. The ministry described the security situation in Iran and the region as tense and unpredictable. It also advised those currently in Iran to leave the country as soon as possible.",
+        "time": "16:41",
+        "ts": 1792773675
       }
     ],
     "language": "en",
-    "packId": "20261023-31",
-    "sequence": 31,
+    "packId": "20261023-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:36"
+    "updatedAt": "16:42"
   },
   "verified": true
 }
