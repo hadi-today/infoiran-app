@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-01 seq=1 exp=1792886997",
+      "advancedStatus": "pack_id=20261023-02 seq=2 exp=1792888112",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:09",
+      "lastChecked": "00:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 00:09",
+    "expiresAt": "2026-10-25 00:28",
     "items": [
       {
         "channel": "vahid online",
@@ -826,14 +826,21 @@
         "text": "Amin Nasser, CEO of Aramco, stated that Saudi Arabia aims to expand its strategic oil reserves outside its borders. The goal is to enhance the ability to cope with potential supply disruptions and strengthen energy security. Details about the negotiating countries and reserve volumes were not disclosed.",
         "time": "00:09",
         "ts": 1792714145
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US State Department on Thursday welcomed the end of the third round of political reconciliation talks between Venezuela's 2015 National Assembly and the interim government. The department said this process continues to strengthen democratic institutions and paves the way for free, fair, and credible elections. The spokesperson also called for the immediate release of all political prisoners in Venezuela.",
+        "time": "00:27",
+        "ts": 1792715268
       }
     ],
     "language": "en",
-    "packId": "20261023-01",
-    "sequence": 1,
+    "packId": "20261023-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:09"
+    "updatedAt": "00:28"
   },
   "verified": true
 }
