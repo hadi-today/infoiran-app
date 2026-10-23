@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-25 seq=25 exp=1792915960",
+      "advancedStatus": "pack_id=20261023-26 seq=26 exp=1792916420",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:12",
+      "lastChecked": "08:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 08:12",
+    "expiresAt": "2026-10-25 08:20",
     "items": [
       {
         "channel": "iranintl",
@@ -819,14 +819,21 @@
         "text": "Ali Farhadi, spokesperson for the Ministry of Education, denied the issuance of plaques for students. He warned that school principals should not raise issues that cause concern among families. The Ministry of Education described this action as playing with the students' mental peace.",
         "time": "08:11",
         "ts": 1792743117
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Hamrah Aval and Irancell have increased their call, SMS, and internet package tariffs by up to 40 percent. These changes have been implemented since the early hours of Friday, the first of Aban. The tariff increase also includes fixed internet services such as TD-LTE and fiber optic (FTTx).",
+        "time": "08:19",
+        "ts": 1792743576
       }
     ],
     "language": "en",
-    "packId": "20261023-25",
-    "sequence": 25,
+    "packId": "20261023-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:12"
+    "updatedAt": "08:20"
   },
   "verified": true
 }
