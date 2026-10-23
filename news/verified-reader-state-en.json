@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-30 seq=30 exp=1792946050",
+      "advancedStatus": "pack_id=20261023-31 seq=31 exp=1792946201",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:34",
+      "lastChecked": "16:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 16:34",
+    "expiresAt": "2026-10-25 16:36",
     "items": [
       {
         "channel": "harana",
@@ -931,14 +931,21 @@
         "text": "Mike Waltz denied the statements attributed to him in the Financial Times report and called for a correction. He said the US Navy can continue the maritime blockade but did not comment on hypothetical scenarios. The decision on continuing the blockade and diplomacy is up to Donald Trump.",
         "time": "16:33",
         "ts": 1792773208
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Nouri's mother mourned at his grave and vowed to take revenge, saying the blood will not remain on the ground. Alireza Nouri was killed by Islamic Republic agents during the protests on January 9, 2026, in Qazvin. This video was shared on social media.",
+        "time": "16:34",
+        "ts": 1792773284
       }
     ],
     "language": "en",
-    "packId": "20261023-30",
-    "sequence": 30,
+    "packId": "20261023-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:34"
+    "updatedAt": "16:36"
   },
   "verified": true
 }
