@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-56 seq=56 exp=1792963187",
+      "advancedStatus": "pack_id=20261023-57 seq=57 exp=1792963314",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:19",
+      "lastChecked": "21:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 21:19",
+    "expiresAt": "2026-10-25 21:21",
     "items": [
       {
         "channel": "iranintl",
@@ -903,14 +903,21 @@
         "text": "Esteghlal football team drew 1-1 against Chadormalu Ardakan in the tenth week of the Premier League. It seemed that Esteghlal players were more tired than ever. Mozdek Mirzaei discussed this issue in the Hattrick program.",
         "time": "21:19",
         "ts": 1792790378
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Mohammad Taghavi stated in the Hattrick program that Esteghlal had a weak defense in the match against Chadormalu. He noted that in previous games this season, Esteghlal's defense was strong. The Chadormalu team, coached by Sohrab Bakhtiarizadeh, criticized Esteghlal's defensive performance in this match.",
+        "time": "21:20",
+        "ts": 1792790453
       }
     ],
     "language": "en",
-    "packId": "20261023-56",
-    "sequence": 56,
+    "packId": "20261023-57",
+    "sequence": 57,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:19"
+    "updatedAt": "21:21"
   },
   "verified": true
 }
