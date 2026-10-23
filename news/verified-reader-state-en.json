@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-65 seq=65 exp=1792968916",
+      "advancedStatus": "pack_id=20261023-66 seq=66 exp=1792969517",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:55",
+      "lastChecked": "23:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 22:55",
+    "expiresAt": "2026-10-25 23:05",
     "items": [
       {
         "channel": "iranintl",
@@ -889,14 +889,21 @@
         "text": "Scott Bessent, the US Treasury Secretary, announced that oil exports from the Persian Gulf have surpassed pre-conflict levels. He emphasized that Iran's threats have not stopped the flow of energy to global markets. Oil exports in the region are increasing strongly.",
         "time": "22:55",
         "ts": 1792796103
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Leila Morvati said European countries seek a deal similar to the JCPOA with Iran, but Trump demands the complete end of Tehran's nuclear program. She added that the Istanbul meeting was ineffective due to the absence of main parties and lack of a clear roadmap. Morvati believes current mediation efforts to prevent renewed military conflict have a bleak outlook.",
+        "time": "23:05",
+        "ts": 1792796706
       }
     ],
     "language": "en",
-    "packId": "20261023-65",
-    "sequence": 65,
+    "packId": "20261023-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:55"
+    "updatedAt": "23:05"
   },
   "verified": true
 }
