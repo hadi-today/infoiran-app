@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-26 seq=26 exp=1792916420",
+      "advancedStatus": "pack_id=20261023-27 seq=27 exp=1792917241",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:20",
+      "lastChecked": "08:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 08:20",
+    "expiresAt": "2026-10-25 08:34",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The price of the US dollar in Iran's free market surpassed 273,000 tomans on Thursday, October 30. At the same time, the prices of the euro and pound also increased, reaching approximately 307,000 tomans and 366,000 tomans respectively. Additionally, the price of each new design coin (Emami) exceeded 275 million tomans.",
-        "time": "08:25",
-        "ts": 1792657559
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -826,14 +819,21 @@
         "text": "Hamrah Aval and Irancell have increased their call, SMS, and internet package tariffs by up to 40 percent. These changes have been implemented since the early hours of Friday, the first of Aban. The tariff increase also includes fixed internet services such as TD-LTE and fiber optic (FTTx).",
         "time": "08:19",
         "ts": 1792743576
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Hadi Jalali, a teacher and political prisoner in Jiroft prison, has gone on a hunger strike protesting his detention conditions and lack of access to his medications. This action was taken due to his poor detention conditions. Hadi Jalali is a resident of Kerman.",
+        "time": "08:33",
+        "ts": 1792744399
       }
     ],
     "language": "en",
-    "packId": "20261023-26",
-    "sequence": 26,
+    "packId": "20261023-27",
+    "sequence": 27,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:20"
+    "updatedAt": "08:34"
   },
   "verified": true
 }
