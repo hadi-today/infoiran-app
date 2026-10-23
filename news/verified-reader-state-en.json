@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-22 seq=22 exp=1792914711",
+      "advancedStatus": "pack_id=20261023-23 seq=23 exp=1792915344",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:51",
+      "lastChecked": "08:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 07:51",
+    "expiresAt": "2026-10-25 08:02",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "An abandoned newborn was found in one of the streets of Yasuj city.",
-        "time": "07:59",
-        "ts": 1792655982
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -819,14 +812,21 @@
         "text": "Two Palestinians carried out an armed attack at the Yehuda junction in the southern West Bank, injuring five Israelis. The Israeli army killed both attackers and surrounded the area. The army chief said the quick action of the forces prevented a larger-scale attack.",
         "time": "07:51",
         "ts": 1792741868
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A citizen in a video addressed the officials of the Islamic Republic, demanding their resignation. He said they have destroyed the youth of the people. He also stated that death is better than living under their rule.",
+        "time": "08:01",
+        "ts": 1792742499
       }
     ],
     "language": "en",
-    "packId": "20261023-22",
-    "sequence": 22,
+    "packId": "20261023-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:51"
+    "updatedAt": "08:02"
   },
   "verified": true
 }
