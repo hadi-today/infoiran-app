@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-60 seq=60 exp=1792965040",
+      "advancedStatus": "pack_id=20261023-61 seq=61 exp=1792965311",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:50",
+      "lastChecked": "21:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 21:50",
+    "expiresAt": "2026-10-25 21:55",
     "items": [
       {
         "channel": "iranintl",
@@ -910,14 +910,21 @@
         "text": "Behnam Taleblu, senior director of the Iran program at the Foundation for Defense of Democracies, said the Islamic Republic's ability to build nuclear weapons depends on the fate of enriched uranium reserves after the 2025 attacks. According to him, if Tehran has hidden reserves, it is technically possible to advance the weapons program, although he personally does not believe such reserves exist.",
         "time": "21:50",
         "ts": 1792792233
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Esteghlal football team, despite a decent performance this season, faces issues such as a closed transfer window and the termination of Yaser Asani's contract. Additionally, a cooperation agreement with the National Sports Academy of Serbia has been signed. These topics were discussed in an interview between Mazdak Mirzaei and Raha Pourbakhsh.",
+        "time": "21:54",
+        "ts": 1792792496
       }
     ],
     "language": "en",
-    "packId": "20261023-60",
-    "sequence": 60,
+    "packId": "20261023-61",
+    "sequence": 61,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:50"
+    "updatedAt": "21:55"
   },
   "verified": true
 }
