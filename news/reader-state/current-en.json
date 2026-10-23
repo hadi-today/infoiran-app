@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-55 seq=55 exp=1792962054",
+      "advancedStatus": "pack_id=20261023-56 seq=56 exp=1792963187",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:00",
+      "lastChecked": "21:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 21:00",
+    "expiresAt": "2026-10-25 21:19",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The twelfth court session for three Iranians accused of gathering information to attack Iran International journalists was held in London. The accused collected information under pressure from the Iranian security apparatus to harm journalists. A witness from Iran International emphasized that the lack of a deterrent political and diplomatic response from the UK has allowed these threats to continue.",
-        "time": "21:11",
-        "ts": 1792703496
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Jamshid Barzegar said that with increased coordination between the US and Israel, the likelihood of military action to change the government in Iran has become more serious. He added that the Islamic Republic has failed to use the Strait of Hormuz as leverage and is itself harmed by oil export restrictions. Government officials are worried about the consequences of a new war and continue with verbal threats and buying time.",
-        "time": "21:13",
-        "ts": 1792703618
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +896,21 @@
         "text": "Donald Trump said Washington can end the war with the Islamic Republic very quickly. He mentioned the possibility of carrying out operations similar to 'Epic Fury.' Trump emphasized that Tehran can prevent another US attack by reaching an agreement.",
         "time": "21:00",
         "ts": 1792789244
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Esteghlal football team drew 1-1 against Chadormalu Ardakan in the tenth week of the Premier League. It seemed that Esteghlal players were more tired than ever. Mozdek Mirzaei discussed this issue in the Hattrick program.",
+        "time": "21:19",
+        "ts": 1792790378
       }
     ],
     "language": "en",
-    "packId": "20261023-55",
-    "sequence": 55,
+    "packId": "20261023-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:00"
+    "updatedAt": "21:19"
   },
   "verified": true
 }
