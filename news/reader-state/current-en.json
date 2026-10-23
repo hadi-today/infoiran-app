@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-42 seq=42 exp=1792950263",
+      "advancedStatus": "pack_id=20261023-43 seq=43 exp=1792950832",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:44",
+      "lastChecked": "17:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 17:44",
+    "expiresAt": "2026-10-25 17:53",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Shirvan Soleimannejad, a citizen of Urmia, was arrested by intelligence forces on Monday, October 19. He was transferred to an unknown location. There has been no news about his condition so far.",
-        "time": "17:47",
-        "ts": 1792691240
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Saeed Fattahi, head of the football organization of Esteghlal club, stated that after Tractor club's criticism, more restrictions have been imposed on Iranian airplanes. These restrictions have forced clubs to use larger and more expensive planes. Tractor club also criticized the high costs of government flights and mentioned the possibility of canceling the match with Al Ain.",
-        "time": "17:48",
-        "ts": 1792691319
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -945,14 +931,21 @@
         "text": "Al Nassr football team achieved their fourth consecutive win in the Saudi league by defeating Al Faisaly in the eleventh week. Cristiano Ronaldo scored in this match, bringing his professional career goals to 982. Abdullah Al-Hamdan also scored his third goal of the season.",
         "time": "17:42",
         "ts": 1792777376
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "France and the UAE have resumed talks to develop an upgraded version of the Rafale fighter jet after a pause earlier this year. Abu Dhabi's financial participation could reduce the pressure on France's defense budget. The UAE is likely to condition its involvement on receiving technology or partial production transfer.",
+        "time": "17:53",
+        "ts": 1792777987
       }
     ],
     "language": "en",
-    "packId": "20261023-42",
-    "sequence": 42,
+    "packId": "20261023-43",
+    "sequence": 43,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:44"
+    "updatedAt": "17:53"
   },
   "verified": true
 }
