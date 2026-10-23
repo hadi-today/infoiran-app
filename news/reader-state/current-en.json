@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-69 seq=69 exp=1792970456",
+      "advancedStatus": "pack_id=20261023-70 seq=70 exp=1792971374",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:20",
+      "lastChecked": "23:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 23:20",
+    "expiresAt": "2026-10-25 23:36",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "The Yemeni government army announced that in the past 24 hours, it carried out 1,392 attacks against Houthi positions as part of Operation Fajr Yemen. The army spokesperson said about 620 Houthi forces have left the battlefield and nearly 190 military vehicles and equipment were destroyed or damaged. Government forces advanced in the Al-Qurouj front in Taiz province, but these figures have not been independently verified.",
         "time": "23:20",
         "ts": 1792797646
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Wall Street Journal reported that Iraq and Pakistan are restricting Iran's access to land trade routes by closing some border crossings. This intensifies the economic pressure from the US naval blockade and airline sanctions. According to the newspaper, the new restrictions deepen Iran's economic isolation.",
+        "time": "23:36",
+        "ts": 1792798560
       }
     ],
     "language": "en",
-    "packId": "20261023-69",
-    "sequence": 69,
+    "packId": "20261023-70",
+    "sequence": 70,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:20"
+    "updatedAt": "23:36"
   },
   "verified": true
 }
