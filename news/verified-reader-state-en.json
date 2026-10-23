@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261023-61 seq=61 exp=1792965311",
+      "advancedStatus": "pack_id=20261023-62 seq=62 exp=1792965602",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:55",
+      "lastChecked": "22:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-23",
-    "expiresAt": "2026-10-25 21:55",
+    "expiresAt": "2026-10-25 22:00",
     "items": [
       {
         "channel": "iranintl",
@@ -917,14 +917,21 @@
         "text": "The Esteghlal football team, despite a decent performance this season, faces issues such as a closed transfer window and the termination of Yaser Asani's contract. Additionally, a cooperation agreement with the National Sports Academy of Serbia has been signed. These topics were discussed in an interview between Mazdak Mirzaei and Raha Pourbakhsh.",
         "time": "21:54",
         "ts": 1792792496
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Jaber Rajabi analyzed recent military developments in the Gulf countries as prompting a review of defense policies. He mentioned the possibility of Saudi Arabia moving closer to the US and Israel and the formation of new alliances. He also warned that in case of a new war, attacks by groups affiliated with the Islamic Republic from Iraq may increase.",
+        "time": "21:59",
+        "ts": 1792792790
       }
     ],
     "language": "en",
-    "packId": "20261023-61",
-    "sequence": 61,
+    "packId": "20261023-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:55"
+    "updatedAt": "22:00"
   },
   "verified": true
 }
