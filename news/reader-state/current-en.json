@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261024-46 seq=46 exp=1793012691",
+      "advancedStatus": "pack_id=20261024-47 seq=47 exp=1793012851",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:04",
+      "lastChecked": "11:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-24",
-    "expiresAt": "2026-10-26 11:04",
+    "expiresAt": "2026-10-26 11:07",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Itamar Ben-Gvir called for the dissolution of the Palestinian Authority and restrictions on Palestinian movement in the West Bank. Two Palestinians were killed and several injured in a shooting near Hebron. The Israeli army killed two suspects and continues its search operation.",
-        "time": "11:06",
-        "ts": 1792753574
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Sasan Ghandehari, an Iranian-born billionaire, previously had a business partnership with Astan Quds Razavi. Between 2013 and 2016, he was the main investor in a fiber optic network project in Iran. This project was carried out in cooperation with Astan Quds Razavi.",
-        "time": "11:07",
-        "ts": 1792753642
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -903,14 +889,21 @@
         "text": "A video shows Arasto Salimian's mother holding his shirt and saying her life stopped after his death. Arasto Salimian was killed on January 8, 2026, in Chalus. He was 27 years old.",
         "time": "11:04",
         "ts": 1792839880
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "The police commander of Kashan announced the closure of four commercial units in the city. The reason for the closure was stated as non-compliance with relevant laws and regulations. This action took place in Kashan.",
+        "time": "11:07",
+        "ts": 1792840042
       }
     ],
     "language": "en",
-    "packId": "20261024-46",
-    "sequence": 46,
+    "packId": "20261024-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:04"
+    "updatedAt": "11:07"
   },
   "verified": true
 }
