@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261024-61 seq=61 exp=1793022244",
+      "advancedStatus": "pack_id=20261024-62 seq=62 exp=1793022740",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:44",
+      "lastChecked": "13:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-24",
-    "expiresAt": "2026-10-26 13:44",
+    "expiresAt": "2026-10-26 13:52",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A citizen criticized inflation and rising prices of consumer goods and food in a video sent to Iran International. He also protested the flag-waving by supporters of the government.",
-        "time": "13:46",
-        "ts": 1792763167
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Laurent Nuñez, France's interior minister, announced that the shooting on Friday in the city of Trapp was a terrorist act. One person was killed and three were injured in the incident. The terrorism prosecution investigation is ongoing.",
-        "time": "13:48",
-        "ts": 1792763292
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -833,14 +819,21 @@
         "text": "Jose Mourinho emphasized before El Clasico that recent results of Real Madrid and Barcelona do not affect tomorrow's match. He said this game is not a real test and Real Madrid will win trophies with him. Mourinho believes opinions about the teams' chances have not changed.",
         "time": "13:21",
         "ts": 1792848086
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Gholamhossein Mohseni-Eje'i stated that the country is not prepared for wartime conditions. He emphasized that actions and support are not aligned with wartime status. He also said that institutions should not operate as they do in peacetime.",
+        "time": "13:52",
+        "ts": 1792849928
       }
     ],
     "language": "en",
-    "packId": "20261024-61",
-    "sequence": 61,
+    "packId": "20261024-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:44"
+    "updatedAt": "13:52"
   },
   "verified": true
 }
