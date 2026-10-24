@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261024-45 seq=45 exp=1793012487",
+      "advancedStatus": "pack_id=20261024-46 seq=46 exp=1793012691",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:01",
+      "lastChecked": "11:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-24",
-    "expiresAt": "2026-10-26 11:01",
+    "expiresAt": "2026-10-26 11:04",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Ebrahim Salimi, nursing director of Ilam University of Medical Sciences, reported a shortage of staff in the university's medical centers. To reach the national standard for nurse-to-bed ratio, hiring 682 nursing staff is essential. Additionally, about 180 more assistant nurses are needed.",
-        "time": "11:02",
-        "ts": 1792753332
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -903,14 +896,21 @@
         "text": "In Lahijan, a man killed his ex-wife. The remains of the woman were discovered about two months after the murder, and the suspect confessed. The motive was stated as previous disputes and conflicts.",
         "time": "11:01",
         "ts": 1792839660
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "A video shows Arasto Salimian's mother holding his shirt and saying her life stopped after his death. Arasto Salimian was killed on January 8, 2026, in Chalus. He was 27 years old.",
+        "time": "11:04",
+        "ts": 1792839880
       }
     ],
     "language": "en",
-    "packId": "20261024-45",
-    "sequence": 45,
+    "packId": "20261024-46",
+    "sequence": 46,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:01"
+    "updatedAt": "11:04"
   },
   "verified": true
 }
