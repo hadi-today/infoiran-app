@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261024-64 seq=64 exp=1793023446",
+      "advancedStatus": "pack_id=20261024-65 seq=65 exp=1793023975",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:04",
+      "lastChecked": "14:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-24",
-    "expiresAt": "2026-10-26 14:04",
+    "expiresAt": "2026-10-26 14:12",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Lufthansa airline group announced the postponement of its planned resumption of flights to Dubai until the 4th of Azar. This decision was announced on the 1st of Aban without a stated reason for the delay. Previously, flights were scheduled to gradually resume from early Aban.",
-        "time": "14:05",
-        "ts": 1792764306
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -840,14 +833,21 @@
         "text": "The birthday of Alireza Sadian Ghafarkhi was commemorated in Farrokhshahr, Chaharmahal and Bakhtiari province. He was killed by agents on January 8, 2026, at the age of 22. The ceremony was held at his grave.",
         "time": "14:03",
         "ts": 1792850633
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The US updated travel advisories for several Gulf and Middle Eastern countries due to increased risk of Houthi attacks. Iraq and Lebanon were placed at level four, \"do not travel,\" while Qatar, Saudi Arabia, UAE, and Israel were placed at level three, \"reconsider travel.\" These changes follow increased likelihood of armed Houthi attacks and targeting of US officials in the region.",
+        "time": "14:12",
+        "ts": 1792851166
       }
     ],
     "language": "en",
-    "packId": "20261024-64",
-    "sequence": 64,
+    "packId": "20261024-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:04"
+    "updatedAt": "14:12"
   },
   "verified": true
 }
