@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261024-94 seq=94 exp=1793044426",
+      "advancedStatus": "pack_id=20261024-95 seq=95 exp=1793044710",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:53",
+      "lastChecked": "19:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-24",
-    "expiresAt": "2026-10-26 19:53",
+    "expiresAt": "2026-10-26 19:58",
     "items": [
       {
         "channel": "vahid online",
@@ -840,14 +840,21 @@
         "text": "Ebrahim Azizi, head of the National Security Commission of the Parliament, published a map of Israel's strategic infrastructures and warned that any action against Iran's national security would lead to the depopulation of Israeli territories in less than an hour. He previously stated that any attack on Iran has a cost, and the US and Israel are well aware of this.",
         "time": "19:53",
         "ts": 1792871618
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Komala Party of Iranian Kurdistan Workers announced that the IRGC attacked their headquarters in Alana Valley near Erbil with a suicide drone. The attack caused financial damage but no casualties. Reuters also reported a drone attack on a camp of a Kurdish group opposing the Islamic Republic in northeast Erbil.",
+        "time": "19:58",
+        "ts": 1792871899
       }
     ],
     "language": "en",
-    "packId": "20261024-94",
-    "sequence": 94,
+    "packId": "20261024-95",
+    "sequence": 95,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:53"
+    "updatedAt": "19:58"
   },
   "verified": true
 }
