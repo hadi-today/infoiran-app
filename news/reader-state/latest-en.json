@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261024-68 seq=68 exp=1793026180",
+      "advancedStatus": "pack_id=20261024-69 seq=69 exp=1793026338",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:49",
+      "lastChecked": "14:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-24",
-    "expiresAt": "2026-10-26 14:49",
+    "expiresAt": "2026-10-26 14:52",
     "items": [
       {
         "channel": "iranintl",
@@ -812,14 +812,21 @@
         "text": "Mobile internet package tariffs increased by 40% from the beginning of Aban. Citizens criticized the price increase despite low quality and internet outages. This issue was discussed in an interview with Baharan Azadi.",
         "time": "14:48",
         "ts": 1792853335
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "171 activists and political prisoners issued a statement supporting Prince Reza Pahlavi. Some signatories remain imprisoned while others face pressure from the Islamic Republic. The statement may help unify opposition forces against the government.",
+        "time": "14:52",
+        "ts": 1792853520
       }
     ],
     "language": "en",
-    "packId": "20261024-68",
-    "sequence": 68,
+    "packId": "20261024-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:49"
+    "updatedAt": "14:52"
   },
   "verified": true
 }
