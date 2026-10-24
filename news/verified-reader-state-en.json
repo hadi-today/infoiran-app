@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261024-19 seq=19 exp=1793001891",
+      "advancedStatus": "pack_id=20261024-20 seq=20 exp=1793002538",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:04",
+      "lastChecked": "08:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-24",
-    "expiresAt": "2026-10-26 08:04",
+    "expiresAt": "2026-10-26 08:15",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A citizen in Azna was arrested in connection with the December 1404 protests. The arrest was carried out by the Intelligence Forces of the IRGC. Further details have not been released.",
-        "time": "08:08",
-        "ts": 1792742880
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Ali Farhadi, spokesperson for the Ministry of Education, denied the issuance of plaques for students. He warned that school principals should not raise issues that cause concern among families. The Ministry of Education described this action as playing with the students' mental peace.",
-        "time": "08:11",
-        "ts": 1792743117
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -910,14 +896,21 @@
         "text": "Masoud Pezeshkian emphasized that the duty of officials is to implement justice and rights, stating that people are dissatisfied because they do not see justice but observe officials' conflicts. He added that fighting leads nowhere and called for officials to act more correctly and efficiently. Pezeshkian also stressed that a person's actions reveal the truth and correctness of their work.",
         "time": "08:04",
         "ts": 1792829075
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "Ehsan Arbab, a blogger, was arrested for publishing content on social media. A video of his forced confession has been released, but the conditions under which it was recorded are unclear. In the video, he expresses regret.",
+        "time": "08:15",
+        "ts": 1792829731
       }
     ],
     "language": "en",
-    "packId": "20261024-19",
-    "sequence": 19,
+    "packId": "20261024-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:04"
+    "updatedAt": "08:15"
   },
   "verified": true
 }
