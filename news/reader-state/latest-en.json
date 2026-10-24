@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261024-04 seq=4 exp=1792984761",
+      "advancedStatus": "pack_id=20261024-05 seq=5 exp=1792985248",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:19",
+      "lastChecked": "03:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-24",
-    "expiresAt": "2026-10-26 03:19",
+    "expiresAt": "2026-10-26 03:27",
     "items": [
       {
         "channel": "iranintl",
@@ -924,14 +924,21 @@
         "text": "Donald Trump mentioned the possibility of an operation similar to 'Epic Fury' against the Islamic Republic. He said Tehran could prevent another attack through an agreement. Trump expressed doubt that Iranian officials would start serious negotiations.",
         "time": "03:19",
         "ts": 1792811950
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Shayan Samiei does not rule out the possibility of an attack on the Islamic Republic before the US midterm elections or Israeli elections. The Islamic Republic is trying to show military superiority by displaying power and claiming to have laid mines in the Strait of Hormuz. The US is also sending a clear message of readiness for military confrontation by strengthening its forces and military equipment in the region.",
+        "time": "03:27",
+        "ts": 1792812438
       }
     ],
     "language": "en",
-    "packId": "20261024-04",
-    "sequence": 4,
+    "packId": "20261024-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:19"
+    "updatedAt": "03:27"
   },
   "verified": true
 }
