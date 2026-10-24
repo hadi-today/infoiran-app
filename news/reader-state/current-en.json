@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261024-99 seq=99 exp=1793046658",
+      "advancedStatus": "pack_id=20261024-100 seq=100 exp=1793046814",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:30",
+      "lastChecked": "20:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-24",
-    "expiresAt": "2026-10-26 20:30",
+    "expiresAt": "2026-10-26 20:33",
     "items": [
       {
         "channel": "iranintl",
@@ -861,14 +861,21 @@
         "text": "An audio version of the suspicious government narrative about Mojtaba Khamenei and his father's will has been released. This narrative refers to a controversial topic. More details are provided in this audio version.",
         "time": "20:30",
         "ts": 1792873850
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Political analyst Iman Aghayari, pointing to the strengthening of US military equipment in the region, said it seems the likelihood of large-scale military action against the Islamic Republic is greater than an agreement. He added that Washington might refrain from an attack if the Islamic Republic backs down at the last moment.",
+        "time": "20:33",
+        "ts": 1792874005
       }
     ],
     "language": "en",
-    "packId": "20261024-99",
-    "sequence": 99,
+    "packId": "20261024-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:30"
+    "updatedAt": "20:33"
   },
   "verified": true
 }
