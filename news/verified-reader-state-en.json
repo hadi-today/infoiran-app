@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261024-83 seq=83 exp=1793036040",
+      "advancedStatus": "pack_id=20261024-84 seq=84 exp=1793036289",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:34",
+      "lastChecked": "17:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-24",
-    "expiresAt": "2026-10-26 17:34",
+    "expiresAt": "2026-10-26 17:38",
     "items": [
       {
         "channel": "harana",
@@ -812,14 +812,21 @@
         "text": "There is a possibility of a renewed attack by the US and Israel on Iran. This topic was mentioned in a news report by Iran International. No further details have been provided.",
         "time": "17:33",
         "ts": 1792863232
+      },
+      {
+        "channel": "harana",
+        "language": "en",
+        "text": "A defendant in Tehran was sentenced to death. The death sentence of a woman in Tehran was overturned by the Supreme Court and her case will be re-examined. A man in Fars province was spared execution after the victim's family pardoned him.",
+        "time": "17:37",
+        "ts": 1792863443
       }
     ],
     "language": "en",
-    "packId": "20261024-83",
-    "sequence": 83,
+    "packId": "20261024-84",
+    "sequence": 84,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:34"
+    "updatedAt": "17:38"
   },
   "verified": true
 }
