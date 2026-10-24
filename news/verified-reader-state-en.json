@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261024-73 seq=73 exp=1793031481",
+      "advancedStatus": "pack_id=20261024-74 seq=74 exp=1793031740",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:18",
+      "lastChecked": "16:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-24",
-    "expiresAt": "2026-10-26 16:18",
+    "expiresAt": "2026-10-26 16:22",
     "items": [
       {
         "channel": "iranintl",
@@ -812,14 +812,21 @@
         "text": "Yahya Sari, the military spokesman for the Houthis, announced that the group targeted several airports, an airbase, and oil facilities in Saudi Arabia in seven missile and drone operations. King Khalid Airport in Riyadh was attacked in two stages. The attacks will continue until the attacks stop and the siege is lifted.",
         "time": "16:16",
         "ts": 1792858573
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Arsenal defeated Everton 2-0 in the eighth week of the Premier League with goals from Azri Konsa and Gabriel. This victory brought Arsenal to 21 points, equal with Manchester City at the top of the table. Manchester City lost to Aston Villa earlier the same day.",
+        "time": "16:22",
+        "ts": 1792858931
       }
     ],
     "language": "en",
-    "packId": "20261024-73",
-    "sequence": 73,
+    "packId": "20261024-74",
+    "sequence": 74,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:18"
+    "updatedAt": "16:22"
   },
   "verified": true
 }
