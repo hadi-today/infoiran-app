@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261024-16 seq=16 exp=1793001564",
+      "advancedStatus": "pack_id=20261024-17 seq=17 exp=1793001681",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:59",
+      "lastChecked": "08:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-24",
-    "expiresAt": "2026-10-26 07:59",
+    "expiresAt": "2026-10-26 08:01",
     "items": [
       {
         "channel": "iranintl",
@@ -896,14 +896,21 @@
         "text": "A senior Israeli official stated that Israel and the United States are prepared for a new operation against the Islamic Republic. The final attack plan has not yet been approved. This news was announced by Israel's Channel 11.",
         "time": "07:59",
         "ts": 1792828757
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Oil pollution on the coast of Qeshm on the first of Aban has raised concerns about damage to the marine environment and aquatic life. This pollution could cause long-term damage to the southern coasts of Iran. Compensating for these damages may take years.",
+        "time": "08:00",
+        "ts": 1792828852
       }
     ],
     "language": "en",
-    "packId": "20261024-16",
-    "sequence": 16,
+    "packId": "20261024-17",
+    "sequence": 17,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:59"
+    "updatedAt": "08:01"
   },
   "verified": true
 }
