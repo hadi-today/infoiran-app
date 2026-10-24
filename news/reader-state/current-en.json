@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261024-23 seq=23 exp=1793005363",
+      "advancedStatus": "pack_id=20261024-24 seq=24 exp=1793005497",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:02",
+      "lastChecked": "09:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-24",
-    "expiresAt": "2026-10-26 09:02",
+    "expiresAt": "2026-10-26 09:04",
     "items": [
       {
         "channel": "iranintl",
@@ -889,14 +889,21 @@
         "text": "The head of water resources in Rabat Karim and Baharestan counties announced that the land subsidence rate in parts of the Tehran-Karaj plain has reached 20 to 30 centimeters per year. About one thousand illegal wells are active in these two counties, and the groundwater aquifers have lost their water-bearing capacity. He warned that subsidence could threaten vital infrastructure in the region.",
         "time": "09:02",
         "ts": 1792832556
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Islamic Republic is increasing the number of surveillance cameras in the city of Astara. The stated purpose of this action is to continue suppressing citizens. This was reported by a viewer of Iran International.",
+        "time": "09:04",
+        "ts": 1792832690
       }
     ],
     "language": "en",
-    "packId": "20261024-23",
-    "sequence": 23,
+    "packId": "20261024-24",
+    "sequence": 24,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:02"
+    "updatedAt": "09:04"
   },
   "verified": true
 }
