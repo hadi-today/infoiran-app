@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261024-01 seq=1 exp=1792978407",
+      "advancedStatus": "pack_id=20261024-02 seq=2 exp=1792980096",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:33",
+      "lastChecked": "02:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-24",
-    "expiresAt": "2026-10-26 01:33",
+    "expiresAt": "2026-10-26 02:01",
     "items": [
       {
         "channel": "vahid online",
@@ -924,14 +924,21 @@
         "text": "According to reports from University of Tehran students, security officers' confrontations with students, especially female students, have intensified at the start of the new academic year. Officers have increased pressure through threats, humiliation, confiscation of student cards, and preventing some students from entering. There are also reports of physical confrontation with a student at the entrance of 16 Azar Street.",
         "time": "01:33",
         "ts": 1792805599
+      },
+      {
+        "channel": "vahid online",
+        "language": "en",
+        "text": "The US Director of National Intelligence warned in a memo about significant progress in Iran's plans to assassinate American officials and citizens in the Middle East and some other regions. He proposed lowering the classification level of these documents to inform more at-risk personnel. Concurrently, the US State Department ordered a reduction of diplomatic staff and the departure of families and non-essential employees from embassies and consulates in several regional countries.",
+        "time": "02:01",
+        "ts": 1792807287
       }
     ],
     "language": "en",
-    "packId": "20261024-01",
-    "sequence": 1,
+    "packId": "20261024-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:33"
+    "updatedAt": "02:01"
   },
   "verified": true
 }
