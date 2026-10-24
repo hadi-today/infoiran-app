@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261024-40 seq=40 exp=1793011791",
+      "advancedStatus": "pack_id=20261024-41 seq=41 exp=1793011903",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:49",
+      "lastChecked": "10:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-24",
-    "expiresAt": "2026-10-26 10:49",
+    "expiresAt": "2026-10-26 10:51",
     "items": [
       {
         "channel": "iranintl",
@@ -889,14 +889,21 @@
         "text": "The Wall Street Journal, citing informed American officials, reported that US warships in the Middle East are preparing for a possible escalation of conflicts to be ready if President Trump decides to launch a new round of attacks against Iran in the coming weeks. During a rare visit to the aircraft carrier George Washington and a guided-missile destroyer in the Arabian Sea, flight operations and extensive resupply of ammunition including long-range land-attack missiles and bunker-buster bombs were observed. The carrier's captain said, 'We are always ready.'",
         "time": "10:50",
         "ts": 1792839015
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Alireza Beiranvand, the national football goalkeeper, will begin his military service with Fajr Sepasi Shiraz football team from the first of Aban. He cannot play for the team until mid-season due to the closed transfer window. Previous attempts to serve in the Nirou-ye Zamini team were unsuccessful.",
+        "time": "10:51",
+        "ts": 1792839107
       }
     ],
     "language": "en",
-    "packId": "20261024-40",
-    "sequence": 40,
+    "packId": "20261024-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:49"
+    "updatedAt": "10:51"
   },
   "verified": true
 }
