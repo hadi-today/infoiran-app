@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261024-80 seq=80 exp=1793035414",
+      "advancedStatus": "pack_id=20261024-81 seq=81 exp=1793035553",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:23",
+      "lastChecked": "17:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-24",
-    "expiresAt": "2026-10-26 17:23",
+    "expiresAt": "2026-10-26 17:25",
     "items": [
       {
         "channel": "harana",
@@ -791,14 +791,28 @@
         "text": "Iranian official media reported a meeting between Gholamhossein Mohseni-Eje'i and Mojtaba Khamenei. The meeting emphasized increasing social capital through justice expansion and fighting corruption. It also stressed addressing officials' negligence and combating violations.",
         "time": "17:23",
         "ts": 1792862606
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Saudi Civil Defense announced that remnants of two ballistic missiles fired by the Houthis fell in several locations in Mecca and Medina after being intercepted. The missiles were launched towards Mecca and Medina. Parts of the missiles fell in various areas including Wadi Al-Maghamis and Jeddah.",
+        "time": "17:25",
+        "ts": 1792862719
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "The Stability Front has called for the Islamic Republic to withdraw from the Nuclear Non-Proliferation Treaty (NPT) and to stop cooperation beyond safeguard commitments. The group also demands a reorganization of the country's defense and military doctrine as soon as possible. They have communicated this request to the members of parliament and the Supreme National Security Council.",
+        "time": "17:26",
+        "ts": 1792862768
       }
     ],
     "language": "en",
-    "packId": "20261024-80",
-    "sequence": 80,
+    "packId": "20261024-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:23"
+    "updatedAt": "17:25"
   },
   "verified": true
 }
