@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261024-18 seq=18 exp=1793001785",
+      "advancedStatus": "pack_id=20261024-19 seq=19 exp=1793001891",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:03",
+      "lastChecked": "08:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-24",
-    "expiresAt": "2026-10-26 08:03",
+    "expiresAt": "2026-10-26 08:04",
     "items": [
       {
         "channel": "harana",
@@ -903,14 +903,21 @@
         "text": "Foreign ministers from several European and regional countries emphasized the need to resolve the crisis with the Islamic Republic through diplomacy at the Istanbul meeting. They warned about the consequences of escalating tensions for maritime security, supply chains, and energy markets. They also condemned the Houthi attacks on Saudi Arabia and the Red Sea.",
         "time": "08:02",
         "ts": 1792828926
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Masoud Pezeshkian emphasized that the duty of officials is to implement justice and rights, stating that people are dissatisfied because they do not see justice but observe officials' conflicts. He added that fighting leads nowhere and called for officials to act more correctly and efficiently. Pezeshkian also stressed that a person's actions reveal the truth and correctness of their work.",
+        "time": "08:04",
+        "ts": 1792829075
       }
     ],
     "language": "en",
-    "packId": "20261024-18",
-    "sequence": 18,
+    "packId": "20261024-19",
+    "sequence": 19,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:03"
+    "updatedAt": "08:04"
   },
   "verified": true
 }
