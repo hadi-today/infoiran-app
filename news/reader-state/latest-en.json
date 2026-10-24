@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261024-06 seq=6 exp=1792987632",
+      "advancedStatus": "pack_id=20261024-07 seq=7 exp=1792988575",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:07",
+      "lastChecked": "04:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-24",
-    "expiresAt": "2026-10-26 04:07",
+    "expiresAt": "2026-10-26 04:22",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Mohammad Oliaifard stated that the Islamic Republic tries to prevent the pursuit of truth about the killing of protesters through arrests and various pressures. He added that these pressures prevent the mourning of families from becoming a public demand and a basis for social solidarity.",
-        "time": "04:09",
-        "ts": 1792728576
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -903,14 +896,21 @@
         "text": "Kambiz Tavana from Iran International said that US warnings about the Islamic Republic's plans to attack American citizens and personnel have increased. Meanwhile, European countries are trying to mediate and continue diplomacy. The naval blockade in southern Iran also continues, and pressure on Tehran remains.",
         "time": "04:07",
         "ts": 1792814824
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Ali Mamouri, advisor to the former Iraqi prime minister, said restrictions on Iran’s trade routes and US pressure have challenged Baghdad to maintain balance in its regional relations. According to him, while Iraq depends on imports from Iran, it also strives to preserve ties with the US and other neighboring countries, as aligning with one side could have political and economic consequences for the country.",
+        "time": "04:22",
+        "ts": 1792815767
       }
     ],
     "language": "en",
-    "packId": "20261024-06",
-    "sequence": 6,
+    "packId": "20261024-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:07"
+    "updatedAt": "04:22"
   },
   "verified": true
 }
