@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261024-74 seq=74 exp=1793031740",
+      "advancedStatus": "pack_id=20261024-75 seq=75 exp=1793031864",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:22",
+      "lastChecked": "16:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-24",
-    "expiresAt": "2026-10-26 16:22",
+    "expiresAt": "2026-10-26 16:24",
     "items": [
       {
         "channel": "iranintl",
@@ -819,14 +819,21 @@
         "text": "Arsenal defeated Everton 2-0 in the eighth week of the Premier League with goals from Azri Konsa and Gabriel. This victory brought Arsenal to 21 points, equal with Manchester City at the top of the table. Manchester City lost to Aston Villa earlier the same day.",
         "time": "16:22",
         "ts": 1792858931
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Oston Urunov, the Uzbek player of Persepolis, missed the week 10 league match against Foolad due to a hamstring injury. He was injured in the first half of the game against Mes Shahr-e Babak and was substituted. The Persepolis coaching staff stated that Urunov did not receive medical clearance to participate in the match.",
+        "time": "16:22",
+        "ts": 1792858976
       }
     ],
     "language": "en",
-    "packId": "20261024-74",
-    "sequence": 74,
+    "packId": "20261024-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:22"
+    "updatedAt": "16:24"
   },
   "verified": true
 }
