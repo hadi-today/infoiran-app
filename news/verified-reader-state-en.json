@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261024-38 seq=38 exp=1793010030",
+      "advancedStatus": "pack_id=20261024-39 seq=39 exp=1793011690",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:20",
+      "lastChecked": "10:48",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-24",
-    "expiresAt": "2026-10-26 10:20",
+    "expiresAt": "2026-10-26 10:48",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A poll by the Times of Israel shows that both the pro-Netanyahu and opposition blocs have 51 seats each, falling short of the 61-seat majority. The Yesh Atid party leads with 23 seats, followed by Likud with 21 seats. These results complicate the formation of the government.",
-        "time": "10:26",
-        "ts": 1792751201
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Hamidreza Hajibabaei responded to Donald Trump's threat about using the 'mother of bombs' by warning that Iran's armed forces will use the 'father of missiles' against US positions. He called Trump's threats a bluff and said the Iranian people are ready to confront them. These remarks were made in an interview with IRNA.",
-        "time": "10:29",
-        "ts": 1792751365
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Eyal Zamir, Chief of Staff of the Israeli Army, stated that Israeli forces prevented a major terrorist operation during a clash with two armed individuals in the West Bank on Friday. Benjamin Netanyahu ordered the siege of Hebron and a complete blockade of entry and exit to the West Bank. A widespread wave of arrests against Hamas terrorists has also begun.",
-        "time": "10:46",
-        "ts": 1792752372
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -896,14 +875,21 @@
         "text": "Two environmental offenders who assaulted a forest ranger in Neka county were arrested. The incident occurred in one of the forest areas. The perpetrators are being prosecuted.",
         "time": "10:19",
         "ts": 1792837194
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Recent polls show that neither of the two main factions in Israel can secure a parliamentary majority. Both Netanyahu's coalition and the opposition bloc are expected to fail. These results were released before the general elections.",
+        "time": "10:48",
+        "ts": 1792838911
       }
     ],
     "language": "en",
-    "packId": "20261024-38",
-    "sequence": 38,
+    "packId": "20261024-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:20"
+    "updatedAt": "10:48"
   },
   "verified": true
 }
