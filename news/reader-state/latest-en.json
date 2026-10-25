@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261025-02 seq=2 exp=1793076073",
+      "advancedStatus": "pack_id=20261025-03 seq=3 exp=1793076195",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:41",
+      "lastChecked": "04:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-25",
-    "expiresAt": "2026-10-27 04:41",
+    "expiresAt": "2026-10-27 04:43",
     "items": [
       {
         "channel": "iranintl",
@@ -798,14 +798,21 @@
         "text": "The Israeli army announced a military exercise involving several brigades and the air force starting on November 3rd. This exercise is part of the 2026 training program aimed at increasing troop readiness. The army warned of extensive movements of security forces in the central and northern command areas but assured there is no cause for concern.",
         "time": "04:40",
         "ts": 1792903244
+      },
+      {
+        "channel": "iranintl",
+        "language": "en",
+        "text": "Donald Trump raised the possibility of military action against the Islamic Republic. He said Washington might have to finish off the Iranian regime. This would happen unless Tehran reaches an agreement with the US.",
+        "time": "04:43",
+        "ts": 1792903387
       }
     ],
     "language": "en",
-    "packId": "20261025-02",
-    "sequence": 2,
+    "packId": "20261025-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:41"
+    "updatedAt": "04:43"
   },
   "verified": true
 }
