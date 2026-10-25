@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261025-74 seq=74 exp=1793031527",
+      "advancedStatus": "pack_id=20261025-75 seq=75 exp=1793031915",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:18",
+      "lastChecked": "16:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-25",
-    "expiresAt": "2026-10-26 16:18",
+    "expiresAt": "2026-10-26 16:25",
     "items": [
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Arsenal defeated Everton 2-0 in the eighth week of the Premier League with goals from Azri Konsa and Gabriel. This victory brought Arsenal to 21 points, equal with Manchester City at the top of the table. Manchester City lost to Aston Villa earlier the same day.",
-        "time": "16:22",
-        "ts": 1792858931
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Oston Urunov, the Uzbek player of Persepolis, missed the week 10 league match against Foolad due to a hamstring injury. He was injured in the first half of the game against Mes Shahr-e Babak and was substituted. The Persepolis coaching staff stated that Urunov did not receive medical clearance to participate in the match.",
-        "time": "16:22",
-        "ts": 1792858976
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -833,14 +819,21 @@
         "text": "A video shows that a citizen has cooked sholeh zard in memory of the immortal figures of the Iranian National Revolution and is distributing packages bearing their names among the people.",
         "time": "16:03",
         "ts": 1792944192
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Shayan Samiei, a national security expert, said the trip of the Qatari mediation delegation to Tehran coordinated with the US may reduce the risk of immediate conflict but does not mean the crisis is resolved. He added that the Islamic Republic, while maintaining hardline positions and welcoming mediation, seeks to buy time and reduce external pressures.",
+        "time": "16:19",
+        "ts": 1792945183
       }
     ],
     "language": "en",
-    "packId": "20261025-74",
-    "sequence": 74,
+    "packId": "20261025-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:18"
+    "updatedAt": "16:25"
   },
   "verified": true
 }
