@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261025-11 seq=11 exp=1792999206",
+      "advancedStatus": "pack_id=20261025-12 seq=12 exp=1793000433",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:20",
+      "lastChecked": "07:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-25",
-    "expiresAt": "2026-10-26 07:20",
+    "expiresAt": "2026-10-26 07:40",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "Saeed Hasani, a Bahá'í citizen residing in Shiraz, has been held in Adelabad prison without a clear legal status for 124 days. No court session has been held to review his case so far. Authorities have not provided clear responses to his family's inquiries.",
-        "time": "07:30",
-        "ts": 1792827031
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -833,14 +826,21 @@
         "text": "According to videos and reports received, a group of drivers in Karaj went on strike on Sunday, 3 Aban, due to diesel shortage. They said that every day after waiting in long lines, it is unclear whether they receive diesel or not.",
         "time": "07:17",
         "ts": 1792912642
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "language": "en",
+        "text": "On Sunday, 3 Aban, a number of retired steel industry workers held a protest in front of the Ministry of Cooperatives, Labor, and Social Welfare in Tehran. Their demands include implementation of salary equalization, removal of salary caps, non-merger of the steel industry pension fund with the national pension fund, and resolution of healthcare service issues.",
+        "time": "07:38",
+        "ts": 1792913886
       }
     ],
     "language": "en",
-    "packId": "20261025-11",
-    "sequence": 11,
+    "packId": "20261025-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:20"
+    "updatedAt": "07:40"
   },
   "verified": true
 }
