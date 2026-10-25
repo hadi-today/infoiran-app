@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261025-81 seq=81 exp=1793034733",
+      "advancedStatus": "pack_id=20261025-82 seq=82 exp=1793035827",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:12",
+      "lastChecked": "17:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-25",
-    "expiresAt": "2026-10-26 17:12",
+    "expiresAt": "2026-10-26 17:30",
     "items": [
-      {
-        "channel": "vahid online",
-        "language": "en",
-        "text": "Iranian official media reported a meeting between Gholamhossein Mohseni-Eje'i and Mojtaba Khamenei. The meeting emphasized increasing social capital through justice expansion and fighting corruption. It also stressed addressing officials' negligence and combating violations.",
-        "time": "17:23",
-        "ts": 1792862606
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "Saudi Civil Defense announced that remnants of two ballistic missiles fired by the Houthis fell in several locations in Mecca and Medina after being intercepted. The missiles were launched towards Mecca and Medina. Parts of the missiles fell in various areas including Wadi Al-Maghamis and Jeddah.",
-        "time": "17:25",
-        "ts": 1792862719
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "The Stability Front has called for the Islamic Republic to withdraw from the Nuclear Non-Proliferation Treaty (NPT) and to stop cooperation beyond safeguard commitments. The group also demands a reorganization of the country's defense and military doctrine as soon as possible. They have communicated this request to the members of parliament and the Supreme National Security Council.",
-        "time": "17:26",
-        "ts": 1792862768
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -847,14 +826,21 @@
         "text": "Yadollah Javani, the political deputy of the IRGC, said that Americans can no longer return to the Persian Gulf, Strait of Hormuz, the Sea of Oman, and their bases. He added that the circle of avengers is not limited to one group but includes freedom seekers worldwide and resistance forces, each of whom will strive for vengeance in their own way.",
         "time": "17:08",
         "ts": 1792948086
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "language": "en",
+        "text": "A member of Tehran City Council said that workers at recycling booths in districts 5, 21, and 22 of Tehran have three months of unpaid wages and benefits. Additionally, some service workers of the Waste Management Organization have been dismissed for one month. About 15 seasonal workers at the Aq Dareh gold mine have not had their contracts renewed, and workers at Azadi Stadium have protested again over unpaid wages for three months.",
+        "time": "17:26",
+        "ts": 1792949213
       }
     ],
     "language": "en",
-    "packId": "20261025-81",
-    "sequence": 81,
+    "packId": "20261025-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:12"
+    "updatedAt": "17:30"
   },
   "verified": true
 }
