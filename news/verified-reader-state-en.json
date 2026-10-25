@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261025-15 seq=15 exp=1793003139",
+      "advancedStatus": "pack_id=20261025-16 seq=16 exp=1793003280",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:25",
+      "lastChecked": "08:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-25",
-    "expiresAt": "2026-10-26 08:25",
+    "expiresAt": "2026-10-26 08:28",
     "items": [
       {
         "channel": "harana",
@@ -791,14 +791,21 @@
         "text": "Abbas Araghchi, the Foreign Minister of the Islamic Republic, said that the country's policies will remain unchanged whether a war occurs or not. He added that the Islamic Republic and regional countries should live together in peace and tranquility without foreign interference. Araghchi also stated that Tehran is ready to cooperate with regional countries, especially the Gulf states, to reach a common understanding about a new regional security structure.",
         "time": "08:23",
         "ts": 1792916632
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Ruhollah Rahimpour, a journalist and political analyst, mentioned the possibility of the resumption of attacks by the US and Israel against the Islamic Republic and said even limited operations could lead to a longer conflict. He added that the Islamic Republic, with its missile and drone capabilities, can damage shipping and energy and communication infrastructures, but the ability to cause disruption does not necessarily mean the ability to win a war.",
+        "time": "08:25",
+        "ts": 1792916717
       }
     ],
     "language": "en",
-    "packId": "20261025-15",
-    "sequence": 15,
+    "packId": "20261025-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:25"
+    "updatedAt": "08:28"
   },
   "verified": true
 }
