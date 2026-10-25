@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261025-61 seq=61 exp=1793025123",
+      "advancedStatus": "pack_id=20261025-62 seq=62 exp=1793025214",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:32",
+      "lastChecked": "14:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-25",
-    "expiresAt": "2026-10-26 14:32",
+    "expiresAt": "2026-10-26 14:33",
     "items": [
       {
         "channel": "harana",
@@ -847,14 +847,21 @@
         "text": "This year's Nobel Prize in Economics was awarded to Robert Hall and Michael Woodford. Their research shows that the outcome of economic policies depends on the expectations of households and firms about the future and the credibility of central bank promises. Mohammad Mashinchian explains the achievements of these two economists in simple terms on the program \"Chortakeh\".",
         "time": "14:26",
         "ts": 1792938399
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "language": "en",
+        "text": "A defendant in Zahedan was sentenced by Branch 105 of the Criminal Court Two to 70 lashes and one year imprisonment. The sentence is related to a case of insulting emergency staff during duty and damaging a government ambulance.",
+        "time": "14:31",
+        "ts": 1792938689
       }
     ],
     "language": "en",
-    "packId": "20261025-61",
-    "sequence": 61,
+    "packId": "20261025-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:32"
+    "updatedAt": "14:33"
   },
   "verified": true
 }
