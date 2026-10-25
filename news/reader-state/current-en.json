@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261025-110 seq=110 exp=1793055416",
+      "advancedStatus": "pack_id=20261025-111 seq=111 exp=1793055495",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:56",
+      "lastChecked": "22:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-25",
-    "expiresAt": "2026-10-26 22:56",
+    "expiresAt": "2026-10-26 22:58",
     "items": [
       {
         "channel": "iranintl",
@@ -798,14 +798,21 @@
         "text": "The Kurdpa news agency reported that Rojan Ebrahimi, a 20-year-old mixed martial arts athlete from Saqqez, attempted suicide following repeated summons, threats, and pressure from the intelligence agency to cooperate in identifying and capturing political activists outside Iran. She survived after five days hospitalized. She was arrested on 11 Mehr 1405 and was temporarily released on bail.",
         "time": "22:42",
         "ts": 1792968168
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Benjamin Netanyahu, Prime Minister of Israel, warned the Islamic Republic and its allies on Sunday, 3 Aban, about attempts to disrupt the Israeli elections. He said there is intelligence indicating that the Islamic Republic and its proxy forces might create disruptions in the election process through attacks.",
+        "time": "22:47",
+        "ts": 1792968470
       }
     ],
     "language": "en",
-    "packId": "20261025-110",
-    "sequence": 110,
+    "packId": "20261025-111",
+    "sequence": 111,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:56"
+    "updatedAt": "22:58"
   },
   "verified": true
 }
