@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261025-80 seq=80 exp=1793034625",
+      "advancedStatus": "pack_id=20261025-81 seq=81 exp=1793034733",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:10",
+      "lastChecked": "17:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-25",
-    "expiresAt": "2026-10-26 17:10",
+    "expiresAt": "2026-10-26 17:12",
     "items": [
       {
         "channel": "vahid online",
@@ -835,6 +835,13 @@
         "ts": 1792947339
       },
       {
+        "channel": "وحید آنلاین",
+        "language": "en",
+        "text": "Benjamin Netanyahu, Prime Minister of Israel, warned on Sunday, 3 Aban 1405, that Iran or its allied forces might carry out attacks against Israel in the coming days. Netanyahu said intelligence signs indicate that Iran and its affiliated forces might try to disrupt the election process through attacks. This warning was issued two days before the Israeli elections.",
+        "time": "17:02",
+        "ts": 1792947748
+      },
+      {
         "channel": "ایران اینترنشنال",
         "language": "en",
         "text": "Yadollah Javani, the political deputy of the IRGC, said that Americans can no longer return to the Persian Gulf, Strait of Hormuz, the Sea of Oman, and their bases. He added that the circle of avengers is not limited to one group but includes freedom seekers worldwide and resistance forces, each of whom will strive for vengeance in their own way.",
@@ -843,11 +850,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261025-80",
-    "sequence": 80,
+    "packId": "20261025-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:10"
+    "updatedAt": "17:12"
   },
   "verified": true
 }
