@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261025-46 seq=46 exp=1793017083",
+      "advancedStatus": "pack_id=20261025-47 seq=47 exp=1793017209",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:18",
+      "lastChecked": "12:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-25",
-    "expiresAt": "2026-10-26 12:18",
+    "expiresAt": "2026-10-26 12:20",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "A teacher in Dehbakri district of Bam was suspended for assaulting a student. The teacher has been referred to the disciplinary board. A judicial case has also been filed regarding the incident.",
-        "time": "12:19",
-        "ts": 1792844384
-      },
       {
         "channel": "iranintl",
         "language": "en",
@@ -805,14 +798,28 @@
         "text": "Thibaut Courtois, the Belgian goalkeeper of Real Madrid, missed the crucial Sunday match against Barcelona in El Clasico due to influenza. Real Madrid club announced that Courtois was excluded from the team's player list due to illness. Andriy Lunin is expected to be Real Madrid's main goalkeeper in this match.",
         "time": "12:11",
         "ts": 1792930277
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Iranian media reported that the Iranian national judo team lost the opportunity to participate in the Abu Dhabi Grand Slam due to the UAE not issuing visas for the team members. The team had previously registered for the competition and was scheduled to compete on the 7th and 8th of Aban, but despite coordination, visas were not issued and the team's dispatch was canceled. The Abu Dhabi Grand Slam is an important judo competition that can affect athletes' Olympic ranking points, and previously Kuwait also did not issue visas for the Iranian national paddle team members.",
+        "time": "12:11",
+        "ts": 1792930277
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "The Judiciary Media Center announced the indictment of Saeed Shakiba, a voice actor, blogger, and satirist, on charges of \"deliberate support of Israel in cyberspace, insult, and propagandistic activity against the Islamic Republic system through blackening and support for Pahlavi.\" Shakiba had previously been arrested following the release of a video imitating Ali Khamenei's voice. The judiciary had announced on Wednesday, 22 Mehr, the opening of a case against this artist in Tehran's prosecutor's office.",
+        "time": "12:14",
+        "ts": 1792930456
       }
     ],
     "language": "en",
-    "packId": "20261025-46",
-    "sequence": 46,
+    "packId": "20261025-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:18"
+    "updatedAt": "12:20"
   },
   "verified": true
 }
