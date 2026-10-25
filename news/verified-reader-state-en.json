@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261025-91 seq=91 exp=1793041839",
+      "advancedStatus": "pack_id=20261025-92 seq=92 exp=1793041975",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:10",
+      "lastChecked": "19:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-25",
-    "expiresAt": "2026-10-26 19:10",
+    "expiresAt": "2026-10-26 19:12",
     "items": [
       {
         "channel": "iranintl",
@@ -784,14 +784,21 @@
         "text": "A video received by Iran International on Sunday, 3 Aban, shows protesters writing the slogan \"Long live the Shah\" on a bus seat in Shiraz.",
         "time": "19:02",
         "ts": 1792954944
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "language": "en",
+        "text": "Today, Sunday, October 25, 2026, a number of retirees from the country's steel industries gathered in front of the Ministry of Cooperatives, Labor, and Social Welfare in Tehran, and a group of Isfahan steel retirees gathered in front of the governorate building in that city. Also, Social Security retirees in Shush, Rasht, Ahvaz, and Tehran held rallies, demanding the implementation of relevant laws, an increase in pensions, and an improvement in their medical conditions. In another event, a group of nomads from Izeh county gathered in recent days at the county's Nomadic Affairs Department building to protest the elimination of their flour quota.",
+        "time": "19:03",
+        "ts": 1792954985
       }
     ],
     "language": "en",
-    "packId": "20261025-91",
-    "sequence": 91,
+    "packId": "20261025-92",
+    "sequence": 92,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:10"
+    "updatedAt": "19:12"
   },
   "verified": true
 }
