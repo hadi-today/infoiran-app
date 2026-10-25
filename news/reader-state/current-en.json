@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261025-07 seq=7 exp=1792995131",
+      "advancedStatus": "pack_id=20261025-08 seq=8 exp=1792998326",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:12",
+      "lastChecked": "07:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-25",
-    "expiresAt": "2026-10-26 06:12",
+    "expiresAt": "2026-10-26 07:05",
     "items": [
-      {
-        "channel": "harana",
-        "language": "en",
-        "text": "In Mehr 1405, 66 deaths due to lack of safety at work and 288 cases of worker injuries were recorded. Additionally, 53 gatherings and 13 worker and union strikes were reported. These statistics reflect various violations of workers' rights.",
-        "time": "06:49",
-        "ts": 1792824591
-      },
-      {
-        "channel": "iranintl",
-        "language": "en",
-        "text": "A schoolgirl said in a video to Iran International that the heavy cost of school supplies has become difficult for her father to afford. She added that the Islamic Republic causes them to lose interest in studying and stop attending school.",
-        "time": "07:03",
-        "ts": 1792825381
-      },
       {
         "channel": "harana",
         "language": "en",
@@ -819,14 +805,21 @@
         "text": "The head of the Psychology Organization warned about increasing social and economic pressures on families. He described the rates of marriage, divorce, and childbirth as concerning and said people cannot afford psychological services. Increased social stress may lead to consequences such as higher marriage age and the spread of addiction.",
         "time": "06:12",
         "ts": 1792908722
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Abbas Araghchi, the Foreign Minister of the Islamic Republic, said that US bases in the region have become the main cause of insecurity for host countries and that the decisive action of Iranian armed forces has shattered foreign security calculations. He added that the region must move toward zero foreign military presence and that the Islamic Republic's strategy remains unchanged, based on endogenous security without foreign interference. Araghchi also described recent developments and the 40-day war as a turning point in geopolitical history and said reliance on extra-regional powers has brought no security to host countries.",
+        "time": "07:03",
+        "ts": 1792911820
       }
     ],
     "language": "en",
-    "packId": "20261025-07",
-    "sequence": 7,
+    "packId": "20261025-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:12"
+    "updatedAt": "07:05"
   },
   "verified": true
 }
