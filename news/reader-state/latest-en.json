@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261025-18 seq=18 exp=1793003723",
+      "advancedStatus": "pack_id=20261025-19 seq=19 exp=1793003813",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:35",
+      "lastChecked": "08:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-25",
-    "expiresAt": "2026-10-26 08:35",
+    "expiresAt": "2026-10-26 08:36",
     "items": [
       {
         "channel": "harana",
@@ -805,14 +805,21 @@
         "text": "Military expert Hooshang Hossein-Yari outlined possible scenarios for an attack on the Islamic Republic, referencing the deployment of American forces and military equipment in the region. According to him, these scenarios could range from limited attacks on radars and air defense to widespread strikes on military and economic targets and a naval blockade. Hossein-Yari also stressed the role of American air superiority and firepower in any possible conflict.",
         "time": "08:31",
         "ts": 1792917079
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Hakan Fidan, Turkey's foreign minister, consulted with his Qatari counterpart about the security of the Persian Gulf and regional negotiations and warned that any new attack on the Islamic Republic could lead to increased tensions in the region.",
+        "time": "08:33",
+        "ts": 1792917201
       }
     ],
     "language": "en",
-    "packId": "20261025-18",
-    "sequence": 18,
+    "packId": "20261025-19",
+    "sequence": 19,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:35"
+    "updatedAt": "08:36"
   },
   "verified": true
 }
