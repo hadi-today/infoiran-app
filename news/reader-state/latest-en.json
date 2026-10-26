@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261026-19 seq=19 exp=1793088496",
+      "advancedStatus": "pack_id=20261026-20 seq=20 exp=1793088956",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:08",
+      "lastChecked": "08:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-26",
-    "expiresAt": "2026-10-27 08:08",
+    "expiresAt": "2026-10-27 08:15",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -833,14 +833,21 @@
         "text": "A citizen sent a video to Iran International on the evening of Sunday, 3 Aban, showing the nighttime harassment of government protesters against the people of Shiraz.",
         "time": "08:02",
         "ts": 1793001722
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "A video of forced confession by Ehsan Arbab, a blogger, was published on his Instagram page. He calls his activities \"propaganda against the regime,\" \"insulting the leadership,\" and supporting protests, and expresses regret for them. No information has been released about Ehsan Arbab's place of detention, official charges, or case status.",
+        "time": "08:13",
+        "ts": 1793002419
       }
     ],
     "language": "en",
-    "packId": "20261026-19",
-    "sequence": 19,
+    "packId": "20261026-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:08"
+    "updatedAt": "08:15"
   },
   "verified": true
 }
