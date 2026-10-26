@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261026-92 seq=92 exp=1793124868",
+      "advancedStatus": "pack_id=20261026-93 seq=93 exp=1793124901",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:14",
+      "lastChecked": "18:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-26",
-    "expiresAt": "2026-10-27 18:14",
+    "expiresAt": "2026-10-27 18:15",
     "items": [
       {
         "channel": "HRANA",
@@ -791,14 +791,21 @@
         "text": "Mehdi Mahdavi-Azad said senior military and security officials from Pakistan, Saudi Arabia, and Turkey simultaneously arrived in Tehran on Monday to hold closed-door talks with officials of the Islamic Republic. He added that this trip took place amid Houthi attacks on Saudi Arabia and increased military tensions between the Islamic Republic and the United States.",
         "time": "18:05",
         "ts": 1793037909
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Alireza Dabir, head of the Wrestling Federation, said in an interview with IRIB about a clash with the organizers of the World Wrestling Championships: \"The thugs and politicians know what I did.\" He claimed that the clash that occurred beside the mat yesterday caused referees to behave differently towards Iranian wrestlers on the last day of the Greco-Roman competition.",
+        "time": "18:05",
+        "ts": 1793037925
       }
     ],
     "language": "en",
-    "packId": "20261026-92",
-    "sequence": 92,
+    "packId": "20261026-93",
+    "sequence": 93,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:14"
+    "updatedAt": "18:15"
   },
   "verified": true
 }
