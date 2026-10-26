@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261026-38 seq=38 exp=1793101352",
+      "advancedStatus": "pack_id=20261026-39 seq=39 exp=1793101841",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:42",
+      "lastChecked": "11:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-26",
-    "expiresAt": "2026-10-27 11:42",
+    "expiresAt": "2026-10-27 11:50",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -756,14 +756,21 @@
         "text": "Nearly a year has passed since the death of Sina Ghaemi, a well-known Iranian sports coach. His family recently commemorated his first birthday anniversary in his absence. Sina Ghaemi died in a car accident in Nigeria last Dey month.",
         "time": "11:37",
         "ts": 1793014657
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "language": "en",
+        "text": "The detention order for 12 citizens linked to the 'Qaleh Chenan' case has been extended. These individuals face charges including 'waging war against God' and 'rebellion.' The hearing originally scheduled for the 1st of Aban has been postponed for one month.",
+        "time": "11:47",
+        "ts": 1793015225
       }
     ],
     "language": "en",
-    "packId": "20261026-38",
-    "sequence": 38,
+    "packId": "20261026-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:42"
+    "updatedAt": "11:50"
   },
   "verified": true
 }
