@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261026-43 seq=43 exp=1793103124",
+      "advancedStatus": "pack_id=20261026-44 seq=44 exp=1793103201",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:12",
+      "lastChecked": "12:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-26",
-    "expiresAt": "2026-10-27 12:12",
+    "expiresAt": "2026-10-27 12:13",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -770,14 +770,21 @@
         "text": "The Deputy Secretary of Iran's Supreme National Security Council confirmed the visit of senior officials from Pakistan, Saudi Arabia, and Turkey to Tehran on 4 Aban for a joint meeting and regional coordination. Khalid bin Salman, Asim Munir, and Ibrahim Kalin will participate in this meeting with Mohsen Rezaei. This visit was previously reported by Reuters.",
         "time": "12:05",
         "ts": 1793016328
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "language": "en",
+        "text": "Ali Haji, a teachers' union activist in Jolfa, was summoned and interrogated by the intelligence department of Jolfa on 25 Mehr. The summons was related to his activities on social media.",
+        "time": "12:10",
+        "ts": 1793016606
       }
     ],
     "language": "en",
-    "packId": "20261026-43",
-    "sequence": 43,
+    "packId": "20261026-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:12"
+    "updatedAt": "12:13"
   },
   "verified": true
 }
