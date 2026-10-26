@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261026-94 seq=94 exp=1793124934",
+      "advancedStatus": "pack_id=20261026-95 seq=95 exp=1793124967",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:15",
+      "lastChecked": "18:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-26",
-    "expiresAt": "2026-10-27 18:15",
+    "expiresAt": "2026-10-27 18:16",
     "items": [
       {
         "channel": "HRANA",
@@ -805,14 +805,21 @@
         "text": "The Saudi Ministry of Foreign Affairs announced that the visit of Khalid bin Salman, the country's Defense Minister, and representatives of the member countries of the Makkah Joint Defense Pact to Tehran was aimed at reducing tensions and supporting diplomatic solutions. This visit is part of ongoing efforts to encourage dialogue and achieve diplomatic solutions. It also supports the mediation efforts of Qatar and Pakistan.",
         "time": "18:08",
         "ts": 1793038100
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Tractor football team lost 2-1 to Al Ain UAE in the third week of the Asian Elite League. Rabia scored at the 21st minute and Hossein Rahimi at the 70th minute for Al Ain, while Helilovic scored at the 55th minute for Tractor. Tractor stands twelfth in the West Asia table with only one point.",
+        "time": "18:14",
+        "ts": 1793038440
       }
     ],
     "language": "en",
-    "packId": "20261026-94",
-    "sequence": 94,
+    "packId": "20261026-95",
+    "sequence": 95,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:15"
+    "updatedAt": "18:16"
   },
   "verified": true
 }
