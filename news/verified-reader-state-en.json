@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261026-04 seq=4 exp=1793065211",
+      "advancedStatus": "pack_id=20261026-05 seq=5 exp=1793071544",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:40",
+      "lastChecked": "03:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-26",
-    "expiresAt": "2026-10-27 01:40",
+    "expiresAt": "2026-10-27 03:25",
     "items": [
       {
         "channel": "iranintl",
@@ -819,14 +819,21 @@
         "text": "The Associated Press reported that amid rising concerns about a new round of war between the US, Israel, and the Islamic Republic, some residents of Tehran have started buying and stockpiling food, medicine, and essential items, while some are preparing to leave Tehran for safer cities in the north. The price of rice has increased by more than 60% and beef by more than 150%, with reports of medicine shortages. Meanwhile, the US has strengthened its military presence in the region and the possibility of renewed attacks remains.",
         "time": "01:34",
         "ts": 1792978448
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Two sources told Reuters that senior officials from Saudi Arabia, Turkey, and Pakistan, member countries of the \"Makkah Pact,\" are expected to meet with Iranian officials in Tehran on Monday, 4 Aban, to discuss regional coordination. According to these sources, Prince Khalid bin Salman, Saudi Arabia's Defense Minister, and Asim Munir, Pakistan's Army Chief, will represent their countries. The report did not mention the name of the Turkish representative.",
+        "time": "03:21",
+        "ts": 1792984876
       }
     ],
     "language": "en",
-    "packId": "20261026-04",
-    "sequence": 4,
+    "packId": "20261026-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:40"
+    "updatedAt": "03:25"
   },
   "verified": true
 }
