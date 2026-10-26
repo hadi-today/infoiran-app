@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261026-51 seq=51 exp=1793104940",
+      "advancedStatus": "pack_id=20261026-52 seq=52 exp=1793105285",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:42",
+      "lastChecked": "12:48",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-26",
-    "expiresAt": "2026-10-27 12:42",
+    "expiresAt": "2026-10-27 12:48",
     "items": [
-      {
-        "channel": "خبرگزاری هرانا",
-        "language": "en",
-        "text": "A ranger in the protected area of Kalebid in Malayer was injured during a mission due to shooting by illegal hunters with a pellet gun.",
-        "time": "12:46",
-        "ts": 1792932370
-      },
       {
         "channel": "ایران اینترنشنال",
         "language": "en",
@@ -812,14 +805,21 @@
         "text": "Alam Azizi, a citizen from Qasr-e Qand and one of the detainees of the December 1404 protests, remains in judicial uncertainty and is being held in Zahedan prison despite more than 9 months having passed since his arrest.",
         "time": "12:40",
         "ts": 1793018459
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Tehran's prosecutor announced charges against the organizers of the \"Art Fair Tehran\" art exhibition for not observing \"legal and religious standards.\" The ticket sales website and the organizer's social media account were blocked, and the accused were summoned to provide explanations. The fifth edition of this exhibition was held from October 20 to November 1 at the Iran Mall International Exhibition Center.",
+        "time": "12:42",
+        "ts": 1793018526
       }
     ],
     "language": "en",
-    "packId": "20261026-51",
-    "sequence": 51,
+    "packId": "20261026-52",
+    "sequence": 52,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:42"
+    "updatedAt": "12:48"
   },
   "verified": true
 }
