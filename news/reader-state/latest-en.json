@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261026-99 seq=99 exp=1793128191",
+      "advancedStatus": "pack_id=20261026-100 seq=100 exp=1793129222",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:09",
+      "lastChecked": "19:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-26",
-    "expiresAt": "2026-10-27 19:09",
+    "expiresAt": "2026-10-27 19:27",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Two days after Netanyahu's order to Mossad to overthrow the Islamic Republic, the former head of Mossad revealed that Israeli spies have not been arrested in Iran and are still active in Tehran. Barnia also spoke about the details of deceiving the Islamic Republic's intelligence organizations to protect Mossad spies.",
-        "time": "19:21",
-        "ts": 1792956081
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Asieh Amini, a social issues analyst, said Masoud Pezeshkian reduces the political demands of the December protesters to \"social harms,\" while the people demand the overthrow of the Islamic Republic. She emphasized that the government, instead of responding to the killing of protesters, attributes the problems to the people and foreign agents.",
-        "time": "19:21",
-        "ts": 1792956085
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Iran International has released an audio version of Trump's plan to \"finish off the Islamic Republic.\"",
-        "time": "19:22",
-        "ts": 1792956168
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -812,14 +791,21 @@
         "text": "A citizen sent a video to Iran International showing the Caspian Sea coast near the village of Mirud Babolsar in Mazandaran province, which is full of garbage.",
         "time": "19:03",
         "ts": 1793041385
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The 2026 Ballon d'Or ceremony will be held in London in a few hours with the presence of football stars; this ceremony has returned to London after 70 years.",
+        "time": "19:24",
+        "ts": 1793042660
       }
     ],
     "language": "en",
-    "packId": "20261026-99",
-    "sequence": 99,
+    "packId": "20261026-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:09"
+    "updatedAt": "19:27"
   },
   "verified": true
 }
