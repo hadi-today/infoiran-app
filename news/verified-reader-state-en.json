@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261026-89 seq=89 exp=1793124327",
+      "advancedStatus": "pack_id=20261026-90 seq=90 exp=1793124360",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:05",
+      "lastChecked": "18:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-26",
-    "expiresAt": "2026-10-27 18:05",
+    "expiresAt": "2026-10-27 18:06",
     "items": [
       {
         "channel": "HRANA",
@@ -770,14 +770,21 @@
         "text": "The New York Times reported that the US Army trained Apache attack helicopter pilots in Germany to intercept and shoot down drones similar to Iran-made Shahed drones. The exercise aimed to test the effectiveness of Apache helicopters against drone threats in new wars. Shahed drones, despite their low speed, have managed to bypass US air defense systems and have caused nearly all US casualties so far in the war with Iran.",
         "time": "17:56",
         "ts": 1793037406
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Scott Bessent, the US Treasury Secretary, in an exclusive interview with Iran International, referring to the policy of 'economic exclusion' of Iran, said the economy of the Islamic Republic will shrink by more than 25 percent from March 2026 to March 2027.",
+        "time": "18:03",
+        "ts": 1793037819
       }
     ],
     "language": "en",
-    "packId": "20261026-89",
-    "sequence": 89,
+    "packId": "20261026-90",
+    "sequence": 90,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:05"
+    "updatedAt": "18:06"
   },
   "verified": true
 }
