@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261026-104 seq=104 exp=1793131997",
+      "advancedStatus": "pack_id=20261026-105 seq=105 exp=1793132069",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:13",
+      "lastChecked": "20:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-26",
-    "expiresAt": "2026-10-27 20:13",
+    "expiresAt": "2026-10-27 20:14",
     "items": [
       {
         "channel": "Iran International",
@@ -791,14 +791,21 @@
         "text": "Morteza Nemati, a suspended professor from Chamran University of Ahvaz, said that after multiple cases were filed against him in the past three years and he had repeatedly gone to court, a new case was recently filed against him for sympathizing with the family of the martyr Alireza Saidi, who was killed in the protests of Dey 1404.",
         "time": "20:04",
         "ts": 1793045042
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Scott Busent, the US Treasury Secretary, said the US actions target the Iranian government, not the people, and that the US stands in full solidarity with the Iranian people. He added that as the economic situation in Iran worsens, the government's fear of the Iranian people increases. Busent also stated that the US wants to see a day when Iran flourishes again.",
+        "time": "20:04",
+        "ts": 1793045080
       }
     ],
     "language": "en",
-    "packId": "20261026-104",
-    "sequence": 104,
+    "packId": "20261026-105",
+    "sequence": 105,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:13"
+    "updatedAt": "20:14"
   },
   "verified": true
 }
