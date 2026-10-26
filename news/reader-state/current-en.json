@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261026-113 seq=113 exp=1793136931",
+      "advancedStatus": "pack_id=20261026-114 seq=114 exp=1793136983",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:35",
+      "lastChecked": "21:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-26",
-    "expiresAt": "2026-10-27 21:35",
+    "expiresAt": "2026-10-27 21:36",
     "items": [
       {
         "channel": "Iran International",
@@ -805,14 +805,21 @@
         "text": "Scott Bessent, the US Treasury Secretary, advised the people of Iran not to pay taxes and to prepare for a possible shortage of heating fuel and gasoline in winter. He said the Islamic Republic cannot meet the people's needs and emphasized that the US government and military stand with the people of Iran. Bessent also reported an intensification of economic pressure on the Islamic Republic in the next eight weeks and confirmed that six European banks have been asked to provide information about financial activities related to Iran.",
         "time": "21:28",
         "ts": 1793050101
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Farzin Nadimi said Israel's military doctrine has fundamentally changed after the October 7 attacks. He added that Israel now seeks to eliminate threats preemptively before they materialize. Nadimi also said if Eisenkot wins the elections, the new government might prioritize rebuilding military capabilities, but escalating threats from Tehran could keep direct confrontation policy in place.",
+        "time": "21:31",
+        "ts": 1793050266
       }
     ],
     "language": "en",
-    "packId": "20261026-113",
-    "sequence": 113,
+    "packId": "20261026-114",
+    "sequence": 114,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:35"
+    "updatedAt": "21:36"
   },
   "verified": true
 }
