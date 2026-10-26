@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261026-108 seq=108 exp=1793134865",
+      "advancedStatus": "pack_id=20261026-109 seq=109 exp=1793135480",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:01",
+      "lastChecked": "21:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-26",
-    "expiresAt": "2026-10-27 21:01",
+    "expiresAt": "2026-10-27 21:11",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Abbas Aragchi, the Islamic Republic's foreign minister, said that almost all US bases in the region have been damaged and more than 80 American planes and fighter jets, mostly on the ground, were targeted by Islamic Republic missiles. He added that Tehran's policy remains to ensure regional security without the presence of foreign forces.",
-        "time": "21:11",
-        "ts": 1792962675
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -784,14 +777,21 @@
         "text": "Fereshteh Pezeshk said Donald Trump's support for Benjamin Netanyahu does not mean that US policy depends on Netanyahu remaining prime minister. She added that military and security cooperation between Israel and the US against the Islamic Republic will continue even if the Israeli government changes. Pezeshk predicted that tensions could lead to more serious conflicts in the coming months.",
         "time": "20:56",
         "ts": 1793048207
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A citizen sent a video to Iran International showing the burning of the Islamic Republic flag in a city in Khuzestan province on the occasion of Mohammad Reza Shah Pahlavi's birthday.",
+        "time": "21:05",
+        "ts": 1793048705
       }
     ],
     "language": "en",
-    "packId": "20261026-108",
-    "sequence": 108,
+    "packId": "20261026-109",
+    "sequence": 109,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:01"
+    "updatedAt": "21:11"
   },
   "verified": true
 }
