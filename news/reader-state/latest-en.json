@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261026-15 seq=15 exp=1793086827",
+      "advancedStatus": "pack_id=20261026-16 seq=16 exp=1793087243",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:40",
+      "lastChecked": "07:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-26",
-    "expiresAt": "2026-10-27 07:40",
+    "expiresAt": "2026-10-27 07:47",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -819,14 +819,21 @@
         "text": "The Tehran prosecutor filed charges against the organizers of the Tehran Art Fair exhibition and a judicial case was opened. These individuals have been summoned to the prosecutor's office for what was described as \"non-compliance with legal and religious regulations.\"",
         "time": "07:34",
         "ts": 1793000068
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "language": "en",
+        "text": "Reza Teyj, a citizen from Badreh, was released yesterday on bail.",
+        "time": "07:46",
+        "ts": 1793000771
       }
     ],
     "language": "en",
-    "packId": "20261026-15",
-    "sequence": 15,
+    "packId": "20261026-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:40"
+    "updatedAt": "07:47"
   },
   "verified": true
 }
