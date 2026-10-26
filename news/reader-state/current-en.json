@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261026-12 seq=12 exp=1793085831",
+      "advancedStatus": "pack_id=20261026-13 seq=13 exp=1793086270",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:23",
+      "lastChecked": "07:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-26",
-    "expiresAt": "2026-10-27 07:23",
+    "expiresAt": "2026-10-27 07:31",
     "items": [
       {
         "channel": "خبرگزاری هرانا",
@@ -805,14 +805,21 @@
         "text": "Iranians living in Calgary, Canada, continued their weekly gatherings by assembling in front of the city hall building to protest the death sentences of political prisoners. Sepidar Valian, a reporter for Iran International, reports.",
         "time": "07:21",
         "ts": 1792999274
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Alireza Beiranvand, the goalkeeper of Tractor, went to Fars province to start his military service and will join the training sessions of Fajr Sepasi Shiraz after completing administrative procedures. He left Tehran at 5 AM on Monday, 4 Aban, and reported to his military unit at Abadeh barracks. Due to the closed transfer window, Beiranvand cannot participate in official matches for Fajr Sepasi yet and must wait until the mid-season transfer window to be registered on the team roster.",
+        "time": "07:25",
+        "ts": 1792999541
       }
     ],
     "language": "en",
-    "packId": "20261026-12",
-    "sequence": 12,
+    "packId": "20261026-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:23"
+    "updatedAt": "07:31"
   },
   "verified": true
 }
