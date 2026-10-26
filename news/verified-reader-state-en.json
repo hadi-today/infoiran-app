@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261026-79 seq=79 exp=1793118055",
+      "advancedStatus": "pack_id=20261026-80 seq=80 exp=1793118089",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:20",
+      "lastChecked": "16:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-26",
-    "expiresAt": "2026-10-27 16:20",
+    "expiresAt": "2026-10-27 16:21",
     "items": [
       {
         "channel": "خبرگزاری هرانا",
@@ -798,14 +798,21 @@
         "text": "The Director General of School Renovation in Qom announced that the province needs to build about 100 schools including 1100 classrooms to reach the national average of educational space per capita, and about 20% of educational spaces need to be demolished and rebuilt. He also said that due to the construction of more than 90,000 housing units and population growth, about two thousand more classrooms are needed to meet the required educational space.",
         "time": "16:13",
         "ts": 1793031190
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "language": "en",
+        "text": "Scott Bessent, the US Treasury Secretary, in an exclusive interview with Iran International, urged Iranians to stop paying taxes and to stockpile fuel before winter arrives. He predicted that Iran's economy will shrink by more than 25 percent by March 2027.",
+        "time": "16:15",
+        "ts": 1793031307
       }
     ],
     "language": "en",
-    "packId": "20261026-79",
-    "sequence": 79,
+    "packId": "20261026-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:20"
+    "updatedAt": "16:21"
   },
   "verified": true
 }
