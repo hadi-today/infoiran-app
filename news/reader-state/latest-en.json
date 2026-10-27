@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261027-30 seq=30 exp=1793176688",
+      "advancedStatus": "pack_id=20261027-31 seq=31 exp=1793177052",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:38",
+      "lastChecked": "08:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-27",
-    "expiresAt": "2026-10-28 08:38",
+    "expiresAt": "2026-10-28 08:44",
     "items": [
       {
         "channel": "Iran International",
@@ -882,14 +882,21 @@
         "text": "Masoud Shabanzadeh, head of Mes Shahrbabak football team, confirmed the resignation of coach Ghasem Shahba and denied his dismissal. He said two candidates are being considered to replace Shahba. Mes Shahrbabak is at the bottom of the Iranian Premier League table with 5 draws, 5 losses, and no wins.",
         "time": "08:17",
         "ts": 1793089077
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Qadir Hasanzadeh, the director general of Golestan Environmental Protection, announced that the province needs 1,038 rangers but currently only 129 rangers, about 12% of the required force, are protecting them. He said Golestan province, with about 346,000 hectares of natural areas under management, faces a serious shortage of human resources in environmental protection.",
+        "time": "08:33",
+        "ts": 1793089993
       }
     ],
     "language": "en",
-    "packId": "20261027-30",
-    "sequence": 30,
+    "packId": "20261027-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:38"
+    "updatedAt": "08:44"
   },
   "verified": true
 }
