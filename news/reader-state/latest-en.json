@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261027-146 seq=146 exp=1793231521",
+      "advancedStatus": "pack_id=20261027-147 seq=147 exp=1793231636",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:52",
+      "lastChecked": "23:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-27",
-    "expiresAt": "2026-10-28 23:52",
+    "expiresAt": "2026-10-28 23:53",
     "items": [
       {
         "channel": "Iran International",
@@ -875,14 +875,21 @@
         "text": "In today's Israeli parliamentary elections, Benjamin Netanyahu faced Gadi Eisenkot, the former Chief of Staff of the Israeli army. Eisenkot has gained more support in polls in recent months. His party has become one of the main rivals of the Likud party.",
         "time": "23:42",
         "ts": 1793144529
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Reuters reported that Pete Hegseth, the US Secretary of Defense, is expected to face questions about Washington's commitment to its obligations in the Indo-Pacific region during his meeting with counterparts from Southeast Asian countries in the Philippines on Wednesday, 6 Aban. The Iran war has pressured US military readiness and tensions between the Philippines and China in the South China Sea have increased. Analysts said Southeast Asian countries may use the meeting with Hegseth to clarify US goals in the Iran war and its impact on Washington's commitments in the region.",
+        "time": "23:52",
+        "ts": 1793145126
       }
     ],
     "language": "en",
-    "packId": "20261027-146",
-    "sequence": 146,
+    "packId": "20261027-147",
+    "sequence": 147,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:52"
+    "updatedAt": "23:53"
   },
   "verified": true
 }
