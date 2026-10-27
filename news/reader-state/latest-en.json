@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261027-72 seq=72 exp=1793193230",
+      "advancedStatus": "pack_id=20261027-73 seq=73 exp=1793194726",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:13",
+      "lastChecked": "13:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-27",
-    "expiresAt": "2026-10-28 13:13",
+    "expiresAt": "2026-10-28 13:38",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "The price of each kilogram of chicken has risen from about 280,000 tomans to 350,000 tomans within one week. ILNA reports that the minimum daily wage of workers is only enough to buy a small one-and-a-half-kilogram chicken. Labor activist Faramarz Tofighi estimates that the cost of the minimum subsistence basket for worker households may have reached 100 million tomans by the end of Mehr.",
-        "time": "13:25",
-        "ts": 1793021104
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -882,14 +875,21 @@
         "text": "The Football Federation's Appeal Committee rejected Persepolis club's appeal regarding the complaint against Esteghlal over Yaser Asani's presence in their lineup. The committee confirmed the disciplinary committee's ruling acquitting Esteghlal and the player. Persepolis claims Asani had terminated his contract with Esteghlal before the season started.",
         "time": "12:54",
         "ts": 1793105680
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Prince Reza Pahlavi called on Iranians in a video message to declare readiness to join the \"National Cooperation Campaign to Save Iran.\" He described this period as an opportunity for regime change and urged military, law enforcement, and security forces to join the people. He also spoke about plans for the post-Islamic Republic era, emphasizing maintaining security, fundamental freedoms, and meeting citizens' essential needs.",
+        "time": "13:03",
+        "ts": 1793106217
       }
     ],
     "language": "en",
-    "packId": "20261027-72",
-    "sequence": 72,
+    "packId": "20261027-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:13"
+    "updatedAt": "13:38"
   },
   "verified": true
 }
