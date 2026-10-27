@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261027-115 seq=115 exp=1793211277",
+      "advancedStatus": "pack_id=20261027-116 seq=116 exp=1793211309",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:14",
+      "lastChecked": "18:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-27",
-    "expiresAt": "2026-10-28 18:14",
+    "expiresAt": "2026-10-28 18:15",
     "items": [
       {
         "channel": "HRANA",
@@ -854,14 +854,21 @@
         "text": "Tamim bin Hamad Al Thani, Emir of Qatar, said in a meeting with Vladimir Putin that the Middle East is going through difficult conditions due to tensions between Tehran and Washington. The meeting was held at the Kremlin Palace. Putin stated that Russia is ready to make every effort to resolve the complex situation in the Middle East and highlighted Qatar's role as a mediator in Gulf region crises.",
         "time": "18:03",
         "ts": 1793124222
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Voting is underway in Israel's first parliamentary elections since the Hamas attack on October 7. According to official statistics, turnout has reached the highest level in half a century. Benjamin Netanyahu, with public support from Donald Trump, has urged his supporters to prevent rivals from winning by voting in large numbers.",
+        "time": "18:03",
+        "ts": 1793124232
       }
     ],
     "language": "en",
-    "packId": "20261027-115",
-    "sequence": 115,
+    "packId": "20261027-116",
+    "sequence": 116,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:14"
+    "updatedAt": "18:15"
   },
   "verified": true
 }
