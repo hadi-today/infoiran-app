@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261027-101 seq=101 exp=1793205101",
+      "advancedStatus": "pack_id=20261027-102 seq=102 exp=1793205132",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:31",
+      "lastChecked": "16:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-27",
-    "expiresAt": "2026-10-28 16:31",
+    "expiresAt": "2026-10-28 16:32",
     "items": [
       {
         "channel": "Iran International",
@@ -861,14 +861,21 @@
         "text": "Iran International has obtained exclusive information and documents indicating that the coup of the IRGC intelligence oil sales network was completed with the return of Ali Akbar Pour-Ebrahim. He is the IRGC's appointed figure responsible for 11 billion dollars of stolen trust funds from oil sales.",
         "time": "16:03",
         "ts": 1793117032
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The website Halvash reported on Tuesday, 5 Aban, that following an attack by individuals on the relief unit headquarters and police station 11 in Khash county, several military personnel were killed and parts of the main streets of the city were blocked. The Mizan news agency, affiliated with the judiciary of the Islamic Republic, quoted the head of Khash police as saying that two armed individuals fired at the relief unit headquarters in this county and then fled the scene. The Mizan report did not mention any possible casualties from this attack.",
+        "time": "16:20",
+        "ts": 1793118000
       }
     ],
     "language": "en",
-    "packId": "20261027-101",
-    "sequence": 101,
+    "packId": "20261027-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:31"
+    "updatedAt": "16:32"
   },
   "verified": true
 }
