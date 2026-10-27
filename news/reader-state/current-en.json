@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261027-127 seq=127 exp=1793215768",
+      "advancedStatus": "pack_id=20261027-128 seq=128 exp=1793216090",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:29",
+      "lastChecked": "19:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-27",
-    "expiresAt": "2026-10-28 19:29",
+    "expiresAt": "2026-10-28 19:34",
     "items": [
       {
         "channel": "Iran International",
@@ -821,6 +821,13 @@
         "ts": 1793122440
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "A young woman in Tehran was targeted with acid attack on her car after rejecting a marriage proposal from a man she had previously been in contact with. The man threatened that if she refuses marriage, he will throw acid on her face. A case has been filed at Tehran's criminal court and investigations to arrest the suspect are ongoing.",
+        "time": "17:48",
+        "ts": 1793123295
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Tamim bin Hamad Al Thani, Emir of Qatar, said in a meeting with Vladimir Putin that the Middle East is going through difficult conditions due to tensions between Tehran and Washington. The meeting was held at the Kremlin Palace. Putin stated that Russia is ready to make every effort to resolve the complex situation in the Middle East and highlighted Qatar's role as a mediator in Gulf region crises.",
@@ -899,11 +906,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261027-127",
-    "sequence": 127,
+    "packId": "20261027-128",
+    "sequence": 128,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:29"
+    "updatedAt": "19:34"
   },
   "verified": true
 }
