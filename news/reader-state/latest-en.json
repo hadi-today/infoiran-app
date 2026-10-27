@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261027-81 seq=81 exp=1793197625",
+      "advancedStatus": "pack_id=20261027-82 seq=82 exp=1793197893",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:27",
+      "lastChecked": "14:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-27",
-    "expiresAt": "2026-10-28 14:27",
+    "expiresAt": "2026-10-28 14:31",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The Supreme National Security Council of the Islamic Republic of Iran has instructed the media not to provide analysis either in support of or against the \"Mecca Agreement.\" This directive was issued simultaneously with the visit of senior defense and security officials from Pakistan, Saudi Arabia, and Turkey to Tehran. The Tehran meeting will discuss regional security, the consequences of US and Israeli military attacks on Iran, and aid to the people of Palestine and Lebanon.",
-        "time": "14:30",
-        "ts": 1793025053
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -868,14 +861,21 @@
         "text": "Tehran Prosecutor's Office announced on Tuesday, 5 Aban, the arrest of a female sports blogger and the issuance of an arrest warrant for one of the organizers of the Fitex Tehran exhibition on charges of \"behavior against norms and law\". The blogger was arrested for publishing images and videos that, according to the prosecutor's office, hurt public sentiment and also \"propaganda against the regime.\" An arrest warrant was also issued for another organizer involved in the design and planning of the event.",
         "time": "13:55",
         "ts": 1793109354
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Maryam Jalal Hosseini, a political prisoner, returned to Kachouyi Prison in Karaj on Tuesday, 5 Aban, after completing a ten-day leave. This was reported by the HRANA news agency.",
+        "time": "14:05",
+        "ts": 1793109931
       }
     ],
     "language": "en",
-    "packId": "20261027-81",
-    "sequence": 81,
+    "packId": "20261027-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:27"
+    "updatedAt": "14:31"
   },
   "verified": true
 }
