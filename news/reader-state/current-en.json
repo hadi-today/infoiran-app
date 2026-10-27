@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261027-06 seq=6 exp=1793151459",
+      "advancedStatus": "pack_id=20261027-07 seq=7 exp=1793154509",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:37",
+      "lastChecked": "02:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-27",
-    "expiresAt": "2026-10-28 01:37",
+    "expiresAt": "2026-10-28 02:28",
     "items": [
       {
         "channel": "Iran International",
@@ -847,14 +847,21 @@
         "text": "Donald Trump said in a speech in Mississippi that a short ceasefire was established in the war with the Islamic Republic, which he considered a waste of time. He added that this ceasefire allowed some ships to enter and that oil prices are now lower.",
         "time": "01:31",
         "ts": 1793064712
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Israel's parliamentary elections will be held on Tuesday, October 27, the country's first elections since the Hamas attack on October 7, 2023. Benjamin Netanyahu's continued presence in power faces competition from centrist rivals in these elections. The final vote count is likely to be completed by October 30, and the official results will be announced on November 4, 2026.",
+        "time": "02:24",
+        "ts": 1793067847
       }
     ],
     "language": "en",
-    "packId": "20261027-06",
-    "sequence": 6,
+    "packId": "20261027-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:37"
+    "updatedAt": "02:28"
   },
   "verified": true
 }
