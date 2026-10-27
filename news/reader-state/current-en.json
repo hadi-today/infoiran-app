@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261027-03 seq=3 exp=1793148558",
+      "advancedStatus": "pack_id=20261027-04 seq=4 exp=1793149331",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:49",
+      "lastChecked": "01:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-27",
-    "expiresAt": "2026-10-28 00:49",
+    "expiresAt": "2026-10-28 01:02",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Donald Trump said he ended eight wars and intends to resolve two more. He also said he prevented the nuclear threat from the Islamic Republic, which he said could have had very dangerous consequences. Trump added he expected to receive the Nobel Peace Prize last year and criticized the award being given to Barack Obama.",
-        "time": "00:59",
-        "ts": 1792976356
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Donald Trump said the increase in fuel prices due to the war with the Islamic Republic was an acceptable price to prevent Tehran from obtaining nuclear weapons. He also said the US has achieved a great victory and now more oil passes through the Strait of Hormuz. Trump also claimed that the Islamic Republic has killed more than 75,000 protesters in the past 9 months, but provided no independent evidence for this claim.",
-        "time": "01:00",
-        "ts": 1792976455
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -847,14 +833,21 @@
         "text": "Israel Hayom newspaper reported, citing diplomatic sources in Gulf countries, that Khalid bin Salman, Saudi Arabia's defense minister, traveled to Tehran aiming to reach a ceasefire with Yemen's Houthis. The proposal includes Saudi Arabia paying $1 billion to the Houthis via Tehran in exchange for stopping attacks. Saudi Arabia's Foreign Ministry described the trip as part of efforts to reduce tensions and support diplomatic mediation.",
         "time": "00:46",
         "ts": 1793061971
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The New York Times, citing two informed diplomats, wrote that Qatar is drafting a plan for a five-day agreement between the Islamic Republic and the United States, which includes reopening the Strait of Hormuz, lifting the blockade of Iranian ports, and obtaining a nuclear concession from Tehran. The main obstacle to the agreement is disagreement over the timing of the commitments. Mediators are also trying to convince the Islamic Republic to give a concession on its nuclear program in the first phase of the agreement.",
+        "time": "00:58",
+        "ts": 1793062721
       }
     ],
     "language": "en",
-    "packId": "20261027-03",
-    "sequence": 3,
+    "packId": "20261027-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:49"
+    "updatedAt": "01:02"
   },
   "verified": true
 }
