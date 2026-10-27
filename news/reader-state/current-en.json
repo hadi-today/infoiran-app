@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261027-15 seq=15 exp=1793161593",
+      "advancedStatus": "pack_id=20261027-16 seq=16 exp=1793162431",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:26",
+      "lastChecked": "04:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-27",
-    "expiresAt": "2026-10-28 04:26",
+    "expiresAt": "2026-10-28 04:40",
     "items": [
       {
         "channel": "Iran International",
@@ -875,14 +875,21 @@
         "text": "Asia-Pacific media have covered the Israeli parliamentary elections focusing on the competition between Benjamin Netanyahu and Gadi Eizenkot, the government's performance, and the country's political future. Meanwhile, media in India, Malaysia, and Hong Kong have addressed the threat from the Islamic Republic, Donald Trump's support for Netanyahu, and the regional consequences of the elections.",
         "time": "04:15",
         "ts": 1793074510
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Shayan Samiei, a national security expert, said the Islamic Republic has been weakened after military strikes but still has the ability to create crises in the region. He stated that any agreement between the US and the Islamic Republic to end the crisis must include stopping Tehran's financial and arms support for its affiliated armed groups and controlling the routes of weapon transfers.",
+        "time": "04:30",
+        "ts": 1793075402
       }
     ],
     "language": "en",
-    "packId": "20261027-15",
-    "sequence": 15,
+    "packId": "20261027-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:26"
+    "updatedAt": "04:40"
   },
   "verified": true
 }
