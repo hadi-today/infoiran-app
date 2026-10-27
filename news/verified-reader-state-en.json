@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261027-102 seq=102 exp=1793205132",
+      "advancedStatus": "pack_id=20261027-103 seq=103 exp=1793206024",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:32",
+      "lastChecked": "16:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-27",
-    "expiresAt": "2026-10-28 16:32",
+    "expiresAt": "2026-10-28 16:47",
     "items": [
       {
         "channel": "Iran International",
@@ -863,6 +863,13 @@
         "ts": 1793117032
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Reza Mostafaei, a 26-year-old disabled resident of Dehdasht, was released from Dehdasht prison on bail. This news was confirmed to HRANA by a source close to his family. His release took place on Sunday, 3 Aban [2026-10-25].",
+        "time": "16:06",
+        "ts": 1793117183
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "The website Halvash reported on Tuesday, 5 Aban, that following an attack by individuals on the relief unit headquarters and police station 11 in Khash county, several military personnel were killed and parts of the main streets of the city were blocked. The Mizan news agency, affiliated with the judiciary of the Islamic Republic, quoted the head of Khash police as saying that two armed individuals fired at the relief unit headquarters in this county and then fled the scene. The Mizan report did not mention any possible casualties from this attack.",
@@ -871,11 +878,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261027-102",
-    "sequence": 102,
+    "packId": "20261027-103",
+    "sequence": 103,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:32"
+    "updatedAt": "16:47"
   },
   "verified": true
 }
