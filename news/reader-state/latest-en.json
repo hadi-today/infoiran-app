@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261027-58 seq=58 exp=1793186538",
+      "advancedStatus": "pack_id=20261027-59 seq=59 exp=1793186593",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:22",
+      "lastChecked": "11:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-27",
-    "expiresAt": "2026-10-28 11:22",
+    "expiresAt": "2026-10-28 11:23",
     "items": [
       {
         "channel": "Iran International",
@@ -959,14 +959,21 @@
         "text": "A citizen sent a video to Iran International saying that the cost of his car's oil service, including oil and air filters, has reached about 7.5 million tomans.",
         "time": "11:02",
         "ts": 1793098931
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The UK prosecution announced that two men have been prosecuted near the RAF Fairford base in southwest England. The UK counter-terrorism police say one of the suspects is suspected of cooperating with the intelligence agency of the Islamic Republic. This information was announced as part of ongoing investigations into the security incident in the area.",
+        "time": "11:15",
+        "ts": 1793099712
       }
     ],
     "language": "en",
-    "packId": "20261027-58",
-    "sequence": 58,
+    "packId": "20261027-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:22"
+    "updatedAt": "11:23"
   },
   "verified": true
 }
