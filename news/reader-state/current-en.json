@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261027-50 seq=50 exp=1793183066",
+      "advancedStatus": "pack_id=20261027-51 seq=51 exp=1793183283",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:24",
+      "lastChecked": "10:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-27",
-    "expiresAt": "2026-10-28 10:24",
+    "expiresAt": "2026-10-28 10:28",
     "items": [
       {
         "channel": "Iran International",
@@ -912,6 +912,13 @@
         "ts": 1793094738
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Hojjat (Yaser) Moghadam, a resident of Birjand, was arrested on Sunday, 3 Aban, while commuting on a street by agents of the Intelligence Department and transferred to an unknown location. According to HRANA news agency, he faces charges of propaganda against the regime and disturbing public opinion.",
+        "time": "10:01",
+        "ts": 1793095277
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Alireza Beiranvand, the national team goalkeeper, officially joined Fajr Sepasi club to serve his military duty and became a student of Mehdi Rajabzadeh. Due to the closed transfer window, Beiranvand cannot play in matches for Fajr Sepasi and must wait until the mid-season transfer window opens to be registered on the team list. On Monday, 4 Aban, he reported to his military unit at Abadeh barracks and received the necessary equipment for the training period.",
@@ -941,11 +948,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261027-50",
-    "sequence": 50,
+    "packId": "20261027-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:24"
+    "updatedAt": "10:28"
   },
   "verified": true
 }
