@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261027-110 seq=110 exp=1793208207",
+      "advancedStatus": "pack_id=20261027-111 seq=111 exp=1793209128",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:23",
+      "lastChecked": "17:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-27",
-    "expiresAt": "2026-10-28 17:23",
+    "expiresAt": "2026-10-28 17:38",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "A number of workers on the Chabahar–Zahedan railway project reported not receiving two months of their wages, and about 20 of them were dismissed after a strike. Employees and retirees of the oil industry in Khuzestan have complained about disruptions in receiving medical services.",
-        "time": "17:36",
-        "ts": 1793036198
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "Meir Javdanfar said that Naftali Bennett pursued a direct confrontation policy with the Islamic Republic through the 'Octopus Doctrine' instead of focusing solely on its proxy forces. He added that Bennett managed to maintain Israel's relations with the US and Europe and prevented internal divisions. Javdanfar also criticized Netanyahu's policies and said Israel needs national cohesion, a strong economy, and greater participation of Haredi citizens in the army to effectively confront the Islamic Republic.",
         "time": "17:18",
         "ts": 1793121490
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The death sentences of two prisoners previously convicted of murder and rape were carried out in the prisons of Shahr-e Kord and Kashan. Also, the death sentence of a couple residing in Kashmar in the case of the murder of a girl they had adopted was confirmed by the Supreme Court.",
+        "time": "17:18",
+        "ts": 1793121538
       }
     ],
     "language": "en",
-    "packId": "20261027-110",
-    "sequence": 110,
+    "packId": "20261027-111",
+    "sequence": 111,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:23"
+    "updatedAt": "17:38"
   },
   "verified": true
 }
