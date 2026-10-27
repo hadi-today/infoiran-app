@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261027-01 seq=1 exp=1793147022",
+      "advancedStatus": "pack_id=20261027-02 seq=2 exp=1793147762",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:23",
+      "lastChecked": "00:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-27",
-    "expiresAt": "2026-10-28 00:23",
+    "expiresAt": "2026-10-28 00:36",
     "items": [
       {
         "channel": "Iran International",
@@ -833,14 +833,21 @@
         "text": "Ahead of the Israeli parliamentary elections, Benjamin Netanyahu faces rivals who support continued pressure on the Islamic Republic but differ on how to confront it. Netanyahu has stated that confronting the nuclear and missile programs of the Islamic Republic and overthrowing the Iranian government are among his goals. Gadi Eizenkot, Naftali Bennett, and Itamar Ben-Gvir each have different views on military confrontation or pressure against the Islamic Republic.",
         "time": "00:13",
         "ts": 1793060025
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Maariv newspaper reported, citing Israeli military sources, that tension has increased between the country's political officials and the Chief of Staff of the army, along with several senior military commanders. The army commanders have opposed overt Israeli Air Force flights in some Middle Eastern areas and warned that these flights could escalate security tensions. They are also concerned about the impact of these tensions on the parliamentary elections scheduled for next Tuesday.",
+        "time": "00:34",
+        "ts": 1793061263
       }
     ],
     "language": "en",
-    "packId": "20261027-01",
-    "sequence": 1,
+    "packId": "20261027-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:23"
+    "updatedAt": "00:36"
   },
   "verified": true
 }
