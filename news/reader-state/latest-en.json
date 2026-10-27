@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261027-36 seq=36 exp=1793178489",
+      "advancedStatus": "pack_id=20261027-37 seq=37 exp=1793179514",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:08",
+      "lastChecked": "09:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-27",
-    "expiresAt": "2026-10-28 09:08",
+    "expiresAt": "2026-10-28 09:25",
     "items": [
       {
         "channel": "Iran International",
@@ -898,6 +898,13 @@
         "ts": 1793091402
       },
       {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A citizen sent a video to Iran International saying that the Tamarchin border in Azerbaijan province, which is the northwestern border of Iran with Iraq, has been closed.",
+        "time": "09:01",
+        "ts": 1793091699
+      },
+      {
         "channel": "HRANA",
         "language": "en",
         "text": "A group of workers from Khosheh Saba Agro-Industry Company, who have been transferred to Mahan Investment Company, gathered on Tuesday, 4 Aban, at their workplace in Khoda Afarin County to protest the non-payment of their several years of overdue claims. These protesting workers demand full payment of their salaries and other overdue claims, which have not been paid despite repeated follow-ups.",
@@ -906,11 +913,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261027-36",
-    "sequence": 36,
+    "packId": "20261027-37",
+    "sequence": 37,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:08"
+    "updatedAt": "09:25"
   },
   "verified": true
 }
