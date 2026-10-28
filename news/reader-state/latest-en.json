@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261028-84 seq=84 exp=1793295041",
+      "advancedStatus": "pack_id=20261028-85 seq=85 exp=1793295106",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:30",
+      "lastChecked": "17:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-28",
-    "expiresAt": "2026-10-29 17:30",
+    "expiresAt": "2026-10-29 17:31",
     "items": [
       {
         "channel": "HRANA",
@@ -812,14 +812,21 @@
         "text": "Persepolis women's football team defeated Esteghlal 2-1 in the first derby of the Iranian Women's Premier League and won this historic match. The match had various controversies; male spectators and journalists were banned from entering the stadium, and both clubs were not allowed to broadcast the match live.",
         "time": "17:17",
         "ts": 1793207825
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "Reuters reported on Wednesday, 6 Aban that Qatari mediators presented a new draft agreement to Iran to end the war with the United States and Israel, but a senior Islamic Republic official said Doha only proposed \"unacceptable\" ideas and they cannot be considered an \"offer.\" An informed official said the draft includes a seven-day timeline for confidence-building, and Iran's response is expected by the end of the week.",
+        "time": "17:28",
+        "ts": 1793208507
       }
     ],
     "language": "en",
-    "packId": "20261028-84",
-    "sequence": 84,
+    "packId": "20261028-85",
+    "sequence": 85,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:30"
+    "updatedAt": "17:31"
   },
   "verified": true
 }
