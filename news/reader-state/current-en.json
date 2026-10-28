@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261028-52 seq=52 exp=1793280143",
+      "advancedStatus": "pack_id=20261028-53 seq=53 exp=1793280204",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:22",
+      "lastChecked": "13:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-28",
-    "expiresAt": "2026-10-29 13:22",
+    "expiresAt": "2026-10-29 13:23",
     "items": [
       {
         "channel": "HRANA",
@@ -777,14 +777,28 @@
         "text": "Kuwait's Foreign Ministry announced on Wednesday, 6 Aban, that it summoned Mohammad Toutounji, the ambassador of the Islamic Republic in the country, and delivered a protest note to him. The ministry stated that the statement by the Iranian embassy contained \"clear interference\" in Kuwait's internal affairs and an affront to the sovereignty and independence of Kuwait's judiciary. Kuwait's Deputy Foreign Minister condemned any interference in the rulings issued by the country's courts and called on the Islamic Republic to adhere to international laws, the UN Charter, the principle of non-interference in internal affairs, and the Vienna Convention on diplomatic relations.",
         "time": "12:41",
         "ts": 1793191260
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Messages received by Iran International indicate audience anger over the increase in internet prices. Some have said they have limited their presence on social networks to reduce costs, and others say they have to pay more due to the need for internet.",
+        "time": "12:48",
+        "ts": 1793191695
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Esmail Kowsari, a member of the Parliament's National Security Commission, said Mojtaba Khamenei has \"fully regained his health\" and now receives reports and plans from officials of the three branches of government. He added that Khamenei secretly attends some public gatherings and observes them closely.",
+        "time": "12:53",
+        "ts": 1793192006
       }
     ],
     "language": "en",
-    "packId": "20261028-52",
-    "sequence": 52,
+    "packId": "20261028-53",
+    "sequence": 53,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:22"
+    "updatedAt": "13:23"
   },
   "verified": true
 }
