@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261028-101 seq=101 exp=1793300923",
+      "advancedStatus": "pack_id=20261028-102 seq=102 exp=1793301472",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:08",
+      "lastChecked": "19:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-28",
-    "expiresAt": "2026-10-29 19:08",
+    "expiresAt": "2026-10-29 19:17",
     "items": [
       {
         "channel": "HRANA",
@@ -779,6 +779,13 @@
         "ts": 1793210007
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "A report states that the execution of a prisoner convicted of intentional murder in a group fight case was carried out in Kashan prison in Khordad. Also, three prisoners sentenced to death in Dargaz, Nishapur, and Dandi were released after the victims' families pardoned them. The General Directorate of Prisons in Isfahan province announced that 27 death penalty cases were settled in the first half of the current year.",
+        "time": "18:10",
+        "ts": 1793211029
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Mehdi Mahdavi-Azad said on the program \"Cheshmandaz\" that despite decades of propaganda and huge expenses to create hatred against Israel, the Islamic Republic has not achieved its goal. He also referred to the sympathy of Iranians with the people of Israel after the October 7 attack and their sensitivity to developments in that country.",
@@ -808,11 +815,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261028-101",
-    "sequence": 101,
+    "packId": "20261028-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:08"
+    "updatedAt": "19:17"
   },
   "verified": true
 }
