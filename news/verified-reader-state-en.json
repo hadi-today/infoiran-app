@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261028-53 seq=53 exp=1793280204",
+      "advancedStatus": "pack_id=20261028-54 seq=54 exp=1793280259",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:23",
+      "lastChecked": "13:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-28",
-    "expiresAt": "2026-10-29 13:23",
+    "expiresAt": "2026-10-29 13:24",
     "items": [
       {
         "channel": "HRANA",
@@ -791,14 +791,21 @@
         "text": "Esmail Kowsari, a member of the Parliament's National Security Commission, said Mojtaba Khamenei has \"fully regained his health\" and now receives reports and plans from officials of the three branches of government. He added that Khamenei secretly attends some public gatherings and observes them closely.",
         "time": "12:53",
         "ts": 1793192006
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "As the vote count in the Israeli elections continues, some Iranian users are concerned about the consequences of the result, and some have posted humorous reactions supporting Benjamin Netanyahu. A group has also written that after Netanyahu, support should be given to Trump.",
+        "time": "12:59",
+        "ts": 1793192340
       }
     ],
     "language": "en",
-    "packId": "20261028-53",
-    "sequence": 53,
+    "packId": "20261028-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:23"
+    "updatedAt": "13:24"
   },
   "verified": true
 }
