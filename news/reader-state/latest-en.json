@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261028-23 seq=23 exp=1793261727",
+      "advancedStatus": "pack_id=20261028-24 seq=24 exp=1793261860",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:15",
+      "lastChecked": "08:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-28",
-    "expiresAt": "2026-10-29 08:15",
+    "expiresAt": "2026-10-29 08:17",
     "items": [
       {
         "channel": "Iran International",
@@ -847,14 +847,21 @@
         "text": "With over 57% of the votes counted in the Israeli parliamentary elections, the coalition supporting Benjamin Netanyahu has won 55 seats and the opposition coalition 49 seats. Two mainly Arab parties have won a total of 16 seats. No coalition has reached a parliamentary majority.",
         "time": "07:54",
         "ts": 1793174079
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Arsenal was eliminated from the EFL Cup after losing on penalties to Fleetwood Town, a fourth-tier English football team. The defeat was accompanied by the sending off of 16-year-old Arsenal player Max Dowman and a sharp reaction from Mikel Arteta. Dowman was sent off with a straight red card after receiving a heavy tackle, and Arteta spoke angrily to him as he left the field.",
+        "time": "08:13",
+        "ts": 1793175230
       }
     ],
     "language": "en",
-    "packId": "20261028-23",
-    "sequence": 23,
+    "packId": "20261028-24",
+    "sequence": 24,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:15"
+    "updatedAt": "08:17"
   },
   "verified": true
 }
