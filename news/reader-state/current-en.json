@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261028-14 seq=14 exp=1793251482",
+      "advancedStatus": "pack_id=20261028-15 seq=15 exp=1793253217",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:24",
+      "lastChecked": "05:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-28",
-    "expiresAt": "2026-10-29 05:24",
+    "expiresAt": "2026-10-29 05:53",
     "items": [
       {
         "channel": "Iran International",
@@ -861,14 +861,21 @@
         "text": "Mohammad Qaedi, an international relations instructor, said that the pressure from the midterm congressional elections and rising energy prices could affect Donald Trump's decisions regarding the Islamic Republic. He stated that Trump might, after the elections, push Tehran to accept a deal either through negotiation or increased military pressure. Qaedi also considered the acceptance of zero percent enrichment by the Islamic Republic as a factor facilitating the agreement, but he assessed this scenario as very unlikely.",
         "time": "04:23",
         "ts": 1793161396
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Donald Trump said Iran wanted to make a deal but may be waiting for elections, and elections will not help them. He added that their military power has been crushed and their financial resources severely weakened. Trump also said Iran's inflation rate is now 340 percent.",
+        "time": "04:54",
+        "ts": 1793163262
       }
     ],
     "language": "en",
-    "packId": "20261028-14",
-    "sequence": 14,
+    "packId": "20261028-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:24"
+    "updatedAt": "05:53"
   },
   "verified": true
 }
