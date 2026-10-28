@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261028-42 seq=42 exp=1793272433",
+      "advancedStatus": "pack_id=20261028-43 seq=43 exp=1793272500",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:13",
+      "lastChecked": "11:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-28",
-    "expiresAt": "2026-10-29 11:13",
+    "expiresAt": "2026-10-29 11:15",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -682,17 +682,23 @@
         "ts": 1793182985
       },
       {
+        "channel": "خبرگزاری هرانا",
+        "text": "در پی تیراندازی نیروهای نظامی در محور کهنوج، یک خودروی سوختبر واژگون شد و راننده آن جان خود را از دست داد.",
+        "time": "10:27",
+        "ts": 1793183278
+      },
+      {
         "channel": "ایران اینترنشنال",
         "text": "علی الزیدی، نخست‌وزیر عراق، برای دیدار رسمی با احمد الشرع، رئیس‌جمهوری سوریه، به دمشق سفر کرد. محورهای گفت‌وگوی دو طرف شامل گسترش روابط اقتصادی، مقابله با تروریسم و تقویت امنیت مرزهای مشترک است.",
         "time": "10:38",
         "ts": 1793183919
       }
     ],
-    "packId": "20261028-42",
-    "sequence": 42,
+    "packId": "20261028-43",
+    "sequence": 43,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "11:13"
+    "updatedAt": "11:15"
   },
   "verified": true
 }
