@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261028-60 seq=60 exp=1793284638",
+      "advancedStatus": "pack_id=20261028-61 seq=61 exp=1793284708",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:37",
+      "lastChecked": "14:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-28",
-    "expiresAt": "2026-10-29 14:37",
+    "expiresAt": "2026-10-29 14:38",
     "items": [
       {
         "channel": "Iran International",
@@ -784,14 +784,28 @@
         "text": "Isaac Herzog, President of Israel, called on parties to form a coalition and prevent a new election following the preliminary election results. He said that next week, after receiving the official results, consultations to form the government will begin.",
         "time": "13:54",
         "ts": 1793195665
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Preliminary results of the Israeli parliamentary elections have received extensive coverage in Arab media. Al-Araby Al-Jadeed newspaper highlighted the role of Arab parties in the future Israeli government. Canadian media also reported that the enthusiastic participation of Arab citizens of Israel and traditional right-wingers will be decisive.",
+        "time": "14:04",
+        "ts": 1793196286
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Morteza Kazemian, a member of the Iran International editorial team, said the election results in Israel could change the government and the dominant power faction, but in the Islamic Republic, power shifts among government factions.",
+        "time": "14:23",
+        "ts": 1793197404
       }
     ],
     "language": "en",
-    "packId": "20261028-60",
-    "sequence": 60,
+    "packId": "20261028-61",
+    "sequence": 61,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:37"
+    "updatedAt": "14:38"
   },
   "verified": true
 }
