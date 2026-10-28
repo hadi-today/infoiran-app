@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261028-41 seq=41 exp=1793272375",
+      "advancedStatus": "pack_id=20261028-42 seq=42 exp=1793272433",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:12",
+      "lastChecked": "11:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-28",
-    "expiresAt": "2026-10-29 11:12",
+    "expiresAt": "2026-10-29 11:13",
     "items": [
       {
         "channel": "Iran International",
@@ -772,6 +772,13 @@
         "ts": 1793181619
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Abdolaziz Azimi Ghadim, a 52-year-old Azerbaijani activist, has been transferred from Evin Prison to Qezel Hesar Prison in Karaj. This was reported by the HRANA news agency.",
+        "time": "10:07",
+        "ts": 1793182044
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "A senior Iranian official told Reuters that the Islamic Republic's policy of showing no flexibility on the nuclear issue remains unchanged. He also emphasized that Qatar has not yet presented a new proposal to end the war between the Islamic Republic and the US. The official said that the ideas presented by Doha are not acceptable to the Islamic Republic.",
@@ -794,11 +801,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261028-41",
-    "sequence": 41,
+    "packId": "20261028-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:12"
+    "updatedAt": "11:13"
   },
   "verified": true
 }
