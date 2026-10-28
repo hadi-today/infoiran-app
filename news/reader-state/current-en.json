@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261028-79 seq=79 exp=1793294723",
+      "advancedStatus": "pack_id=20261028-80 seq=80 exp=1793294776",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:25",
+      "lastChecked": "17:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-28",
-    "expiresAt": "2026-10-29 17:25",
+    "expiresAt": "2026-10-29 17:26",
     "items": [
       {
         "channel": "HRANA",
@@ -770,14 +770,21 @@
         "text": "The Central Elections Committee of Israel announced that it has received the Likud party's request regarding allegations of widespread fraud by Arab parties and will review it within the framework of election integrity oversight. The committee emphasized that reviewing parties' requests about possible violations and the accuracy of election results is part of the usual oversight process. Also, Din Lione, the acting CEO of the committee, contacted parties about the process of reviewing possible election violations two days before the elections.",
         "time": "16:34",
         "ts": 1793205285
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Niloufar Ardalan, head coach of Persepolis women's team, after the first women's football derby in Iran and a 2-1 victory over Esteghlal, said: \"We achieved a historic win for Persepolis. It's a pity this match was not broadcast live. Even the club managers could not watch the game in person.\"",
+        "time": "16:36",
+        "ts": 1793205406
       }
     ],
     "language": "en",
-    "packId": "20261028-79",
-    "sequence": 79,
+    "packId": "20261028-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:25"
+    "updatedAt": "17:26"
   },
   "verified": true
 }
