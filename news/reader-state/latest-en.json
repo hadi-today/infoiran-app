@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261028-03 seq=3 exp=1793235698",
+      "advancedStatus": "pack_id=20261028-04 seq=4 exp=1793238240",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:01",
+      "lastChecked": "01:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-28",
-    "expiresAt": "2026-10-29 01:01",
+    "expiresAt": "2026-10-29 01:44",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "On Monday, 4 Aban 1405, less than 24 hours before the start of voting in the Israeli general elections, a large billboard in Tel Aviv showed Benjamin Netanyahu alongside Donald Trump. Netanyahu spoke of Trump's support and indicated that if victorious, the two leaders could resume war with the Islamic Republic. Voting on Tuesday, 5 Aban is the first election after Hamas attacks on October 7, 2023, and polls show the Likud party losing seats.",
-        "time": "01:28",
-        "ts": 1793064516
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Donald Trump said in a speech in Mississippi that a short ceasefire was established in the war with the Islamic Republic, which he considered a waste of time. He added that this ceasefire allowed some ships to enter and that oil prices are now lower.",
-        "time": "01:31",
-        "ts": 1793064712
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -868,14 +854,21 @@
         "text": "Donald Trump said in a campaign speech in Texas that the war with Iran will end whenever he wants and emphasized that the war will end soon. He added that it must be ensured that the world's biggest supporter of terrorism never obtains nuclear weapons. Trump has previously repeatedly spoken about the war's imminent end and stressed that the Islamic Republic should not acquire nuclear weapons.",
         "time": "00:43",
         "ts": 1793148183
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The latest exit polls of the Israeli elections indicate an improvement in Benjamin Netanyahu's coalition position. Channel 12 reported the lead of Netanyahu's supporting coalition, while Channels 11 and 13 predicted a tie between the two main coalitions. Neither side has reached the majority needed to form a government.",
+        "time": "00:48",
+        "ts": 1793148518
       }
     ],
     "language": "en",
-    "packId": "20261028-03",
-    "sequence": 3,
+    "packId": "20261028-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:01"
+    "updatedAt": "01:44"
   },
   "verified": true
 }
