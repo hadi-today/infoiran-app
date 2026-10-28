@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261028-15 seq=15 exp=1793253217",
+      "advancedStatus": "pack_id=20261028-16 seq=16 exp=1793253285",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:53",
+      "lastChecked": "05:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-28",
-    "expiresAt": "2026-10-29 05:53",
+    "expiresAt": "2026-10-29 05:54",
     "items": [
       {
         "channel": "Iran International",
@@ -868,14 +868,21 @@
         "text": "Donald Trump said Iran wanted to make a deal but may be waiting for elections, and elections will not help them. He added that their military power has been crushed and their financial resources severely weakened. Trump also said Iran's inflation rate is now 340 percent.",
         "time": "04:54",
         "ts": 1793163262
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Australia's News24 network reported exclusively that cyber agents linked to the IRGC accessed emails and personal information of Sherry Markson, the network's presenter. Australia's intelligence and security agency also confirmed that agents linked to the Islamic Republic targeted two prominent figures in the country with intelligence operations this year.",
+        "time": "05:02",
+        "ts": 1793163741
       }
     ],
     "language": "en",
-    "packId": "20261028-15",
-    "sequence": 15,
+    "packId": "20261028-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:53"
+    "updatedAt": "05:54"
   },
   "verified": true
 }
