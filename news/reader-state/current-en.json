@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261028-102 seq=102 exp=1793301472",
+      "advancedStatus": "pack_id=20261028-103 seq=103 exp=1793301515",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:17",
+      "lastChecked": "19:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-28",
-    "expiresAt": "2026-10-29 19:17",
+    "expiresAt": "2026-10-29 19:18",
     "items": [
       {
         "channel": "HRANA",
@@ -793,6 +793,13 @@
         "ts": 1793211434
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Hadi Jamalipour, a political prisoner serving his sentence on furlough, was dismissed from his workplace. He was previously an employee at Payame Noor University in Birjand. A source close to his family confirmed that in Mehr month of this year, Jamalipour was dismissed by an order from the disciplinary council of Payame Noor University.",
+        "time": "18:21",
+        "ts": 1793211668
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "A released video shows the family of the late Arman Abed Moghami holding his birthday anniversary ceremony at his grave. Arman Abed Moghami, 35 years old, was killed in Rasht on 18 Dey 1404.",
@@ -815,11 +822,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261028-102",
-    "sequence": 102,
+    "packId": "20261028-103",
+    "sequence": 103,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:17"
+    "updatedAt": "19:18"
   },
   "verified": true
 }
