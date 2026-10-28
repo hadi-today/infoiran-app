@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261028-06 seq=6 exp=1793241925",
+      "advancedStatus": "pack_id=20261028-07 seq=7 exp=1793241993",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:45",
+      "lastChecked": "02:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-28",
-    "expiresAt": "2026-10-29 02:45",
+    "expiresAt": "2026-10-29 02:46",
     "items": [
       {
         "channel": "Iran International",
@@ -875,14 +875,21 @@
         "text": "The Wall Street Journal reported that the US has informed several Gulf Arab countries to prepare for a possible short but intense military operation against the Islamic Republic after the US midterm elections. The newspaper wrote that the US military is moving a Patriot missile system from Texas to strengthen its missile defense and relocating forces from vulnerable bases. Also, Donald Trump has not made a final decision but favors a large-scale attack after the elections that could target Iran's infrastructure and nuclear facilities.",
         "time": "02:02",
         "ts": 1793152965
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Exit poll results published by Israel's Channel 12, Channel 14, and i24 News indicate the lead of Benjamin Netanyahu's coalition, but there is an eight-seat discrepancy regarding the number of seats for this coalition. According to Channel 14's poll, Netanyahu's coalition will win 60 out of 120 Knesset seats. However, none of these polls show Netanyahu's coalition reaching the 61-seat threshold needed to form a government alone.",
+        "time": "02:19",
+        "ts": 1793153961
       }
     ],
     "language": "en",
-    "packId": "20261028-06",
-    "sequence": 6,
+    "packId": "20261028-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:45"
+    "updatedAt": "02:46"
   },
   "verified": true
 }
