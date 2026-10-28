@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261028-71 seq=71 exp=1793289847",
+      "advancedStatus": "pack_id=20261028-72 seq=72 exp=1793289928",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:04",
+      "lastChecked": "16:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-28",
-    "expiresAt": "2026-10-29 16:04",
+    "expiresAt": "2026-10-29 16:05",
     "items": [
       {
         "channel": "HRANA",
@@ -758,6 +758,13 @@
         "ts": 1793200136
       },
       {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "With the counting of the majority of votes in the Israeli parliamentary elections, Benjamin Netanyahu's coalition has won the most seats. This coalition, with 53 seats, is ahead of the opposition coalition led by Gadi Eisenkot. Parties representing Arab citizens have also set an unprecedented record by winning 19 seats.",
+        "time": "15:19",
+        "ts": 1793200745
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Israel Hayom newspaper reported on Wednesday, 6 Aban, quoting a senior diplomatic official that US and Israeli efforts regarding Iran, including the possibility of resuming military attacks, will continue independently of the formation of the new Israeli government, and the election results will not affect military and intelligence cooperation between the two sides. The senior diplomatic official said that military, intelligence, and diplomatic cooperation between Washington and Jerusalem remains close and strong, and decisions about next actions will be based solely on the shared interests of the US and Israel. He emphasized that if a renewed attack on Iran is deemed necessary, the decision will be made solely on professional considerations, and the US midterm election results will not change Washington and Israel's strategic calculations regarding Iran.",
@@ -801,11 +808,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261028-71",
-    "sequence": 71,
+    "packId": "20261028-72",
+    "sequence": 72,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:04"
+    "updatedAt": "16:05"
   },
   "verified": true
 }
