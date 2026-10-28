@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261028-38 seq=38 exp=1793271114",
+      "advancedStatus": "pack_id=20261028-39 seq=39 exp=1793271182",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:51",
+      "lastChecked": "10:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-28",
-    "expiresAt": "2026-10-29 10:51",
+    "expiresAt": "2026-10-29 10:53",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The media office of Mojtaba Khamenei reported that he met with Mohsen Rezaei, Secretary of the Supreme National Security Council of the Islamic Republic. In this meeting, Rezaei presented a report on the country's conditions and the pursuit of the Islamic Republic's strategic policy to organize endogenous regional arrangements and order. The time and place of this meeting were not disclosed.",
-        "time": "10:52",
-        "ts": 1793098327
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -805,14 +798,21 @@
         "text": "Navid Toubian, a senior Iranian researcher at the Memri Institute, said that despite Donald Trump's popularity in Israel, the impact of his support on the election outcome is unclear. He suggested that Netanyahu's electoral warnings about increased Arab participation might have had the opposite effect. Toubian emphasized that it is too early to judge the possibility of Netanyahu forming a government until the remaining votes, including soldiers' votes, are counted.",
         "time": "10:23",
         "ts": 1793182985
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Ali Al-Zaidi, Prime Minister of Iraq, traveled to Damascus for an official meeting with Ahmad Al-Shara, President of Syria. The discussions focus on expanding economic relations, combating terrorism, and strengthening the security of shared borders.",
+        "time": "10:38",
+        "ts": 1793183919
       }
     ],
     "language": "en",
-    "packId": "20261028-38",
-    "sequence": 38,
+    "packId": "20261028-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:51"
+    "updatedAt": "10:53"
   },
   "verified": true
 }
