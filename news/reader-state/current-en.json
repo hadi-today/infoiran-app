@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261029-85 seq=85 exp=1793383905",
+      "advancedStatus": "pack_id=20261029-86 seq=86 exp=1793384232",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:11",
+      "lastChecked": "18:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-29",
-    "expiresAt": "2026-10-30 18:11",
+    "expiresAt": "2026-10-30 18:17",
     "items": [
       {
         "channel": "Iran International",
@@ -994,14 +994,21 @@
         "text": "Reuters reported that American oil companies ExxonMobil and Chevron have canceled their senior executives' trips to the ADIPEC oil and gas exhibition in Abu Dhabi due to security concerns over potential new US attacks on Iran and Tehran's retaliatory response. Darren Woods, CEO of ExxonMobil, and Kayne Nelson, head of Chevron's upstream division, were scheduled to attend the event. This decision was made amid concerns that potential renewed US attacks on Iran and the Islamic Republic's military response have affected oil markets.",
         "time": "18:08",
         "ts": 1793297295
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "The UK Maritime Trade Operations center reported that a tanker belonging to a shipping company was hit by an unidentified projectile while passing through the Strait of Hormuz.",
+        "time": "18:10",
+        "ts": 1793297430
       }
     ],
     "language": "en",
-    "packId": "20261029-85",
-    "sequence": 85,
+    "packId": "20261029-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:11"
+    "updatedAt": "18:17"
   },
   "verified": true
 }
