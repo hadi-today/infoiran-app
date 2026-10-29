@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261029-11 seq=11 exp=1793342890",
+      "advancedStatus": "pack_id=20261029-12 seq=12 exp=1793346121",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:48",
+      "lastChecked": "07:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-29",
-    "expiresAt": "2026-10-30 06:48",
+    "expiresAt": "2026-10-30 07:42",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "In the early morning of Tuesday, 5 Aban, the execution of a prisoner was carried out in Vakilabad Prison in Mashhad. The prisoner had previously been sentenced to death on charges related to drug crimes.",
-        "time": "07:05",
-        "ts": 1793171150
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Mansheh Amir, a Middle East expert, said it is still early to judge the final result of the Israeli elections and the formation of a new government. He added that Netanyahu will try to form a coalition of 61 seats and may offer concessions to gain the support of Arab parties. Amir also emphasized that Netanyahu's positions on overthrowing the Islamic Republic and his cooperation with Donald Trump are important in considering Israel's future policy towards Tehran.",
-        "time": "07:32",
-        "ts": 1793172749
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Hossein Alizadeh, an international affairs analyst, called Donald Trump's statements about the Islamic Republic starting a war unprecedented and said this stance is more understandable within the framework of US electoral competition than as a legal claim. He pointed to political pressures on Trump due to the US entering a war and said the US president tries to attribute the responsibility for starting the conflict to the Islamic Republic.",
-        "time": "07:34",
-        "ts": 1793172885
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -889,14 +868,21 @@
         "text": "Kor Pour, an Iranian-British painter, linked Iranian carpet patterns with East Asian art at the \"Entry Points\" exhibition in Tokyo. He addresses themes such as migration and cultural journeys, inspired by childhood memories and living between different cultures.",
         "time": "04:33",
         "ts": 1793248396
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Asia-Pacific media reported that Israel's political deadlock after the parliamentary elections indicates difficulties in forming a new government. Singapore and Taiwan media also reported that a change of government in Israel will not necessarily lead to a change in the country's strategy towards the Islamic Republic, and Donald Trump's future decisions will play a decisive role in military confrontation.",
+        "time": "06:31",
+        "ts": 1793255490
       }
     ],
     "language": "en",
-    "packId": "20261029-11",
-    "sequence": 11,
+    "packId": "20261029-12",
+    "sequence": 12,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:48"
+    "updatedAt": "07:42"
   },
   "verified": true
 }
