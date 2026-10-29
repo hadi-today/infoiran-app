@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261029-101 seq=101 exp=1793389274",
+      "advancedStatus": "pack_id=20261029-102 seq=102 exp=1793389566",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:41",
+      "lastChecked": "19:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-29",
-    "expiresAt": "2026-10-30 19:41",
+    "expiresAt": "2026-10-30 19:46",
     "items": [
       {
         "channel": "Iran International",
@@ -945,14 +945,21 @@
         "text": "Messages from Qeshm report hearing the sound of a missile launch and a fighter jet flying at low altitude at 22:48. The sounds of fighter jets and missile launches are often confused. A received photo indicates that it was a projectile launch.",
         "time": "19:23",
         "ts": 1793301839
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Wall Street Journal reported that Brad Cooper, commander of CENTCOM, presented military options against the Islamic Republic to Donald Trump in a meeting at the White House. The meeting took place as Washington is considering the possibility of resuming large-scale military operations against Tehran. Pete Hegseth and Dan Keen were also present, and other topics were discussed.",
+        "time": "19:41",
+        "ts": 1793302892
       }
     ],
     "language": "en",
-    "packId": "20261029-101",
-    "sequence": 101,
+    "packId": "20261029-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:41"
+    "updatedAt": "19:46"
   },
   "verified": true
 }
