@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261029-28 seq=28 exp=1793358427",
+      "advancedStatus": "pack_id=20261029-29 seq=29 exp=1793358506",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:07",
+      "lastChecked": "11:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-29",
-    "expiresAt": "2026-10-30 11:07",
+    "expiresAt": "2026-10-30 11:08",
     "items": [
       {
         "channel": "Iran International",
@@ -835,19 +835,33 @@
         "ts": 1793266757
       },
       {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "With over 91% of the votes counted in the Israeli parliamentary elections, neither Benjamin Netanyahu nor Gadi Eizenkot has achieved the majority needed to form a government. Four scenarios facing Israel include forming a national unity government, an opposition coalition supported by Arab parties, right-wing parties joining Netanyahu's coalition, or holding early elections. Reza Mohaddes, a reporter for Iran International, examines these scenarios and the obstacles facing each.",
+        "time": "09:42",
+        "ts": 1793266947
+      },
+      {
         "channel": "HRANA",
         "language": "en",
         "text": "Nabi Omidi, a dismissed associate professor of economics and financial management at Payame Noor University, was sentenced to 9 years in prison by the Ilam Province Court of Appeal. This sentence had previously been issued by the Ilam Revolutionary Court and was confirmed as is in the appeal stage. He was convicted on charges including acting against national security, propaganda against the regime, and participating in protests, with 5 years of the sentence enforceable under Article 134 of the Islamic Penal Code.",
         "time": "09:50",
         "ts": 1793267443
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Hebrew media reported that Shin Bet, Israel's internal security agency, is investigating the possibility of money transfers from abroad, including Qatar and Turkey, to organizations encouraging electoral participation in the Arab community in Israel. This investigation began after the head of the Central Elections Committee requested a probe into Likud party allegations of foreign funding and possible electoral bribery.",
+        "time": "09:59",
+        "ts": 1793267992
       }
     ],
     "language": "en",
-    "packId": "20261029-28",
-    "sequence": 28,
+    "packId": "20261029-29",
+    "sequence": 29,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:07"
+    "updatedAt": "11:08"
   },
   "verified": true
 }
