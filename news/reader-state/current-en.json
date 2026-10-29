@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261029-31 seq=31 exp=1793358649",
+      "advancedStatus": "pack_id=20261029-32 seq=32 exp=1793358963",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:10",
+      "lastChecked": "11:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-29",
-    "expiresAt": "2026-10-30 11:10",
+    "expiresAt": "2026-10-30 11:16",
     "items": [
       {
         "channel": "Iran International",
@@ -868,14 +868,21 @@
         "text": "The Spanish Football Federation fined Barcelona 602 euros after Atletico Madrid complained about negotiations to sign Julian Alvarez. The disciplinary committee considered the act a minor violation and imposed the maximum fine. Barcelona denied any wrongdoing and plans to appeal.",
         "time": "10:45",
         "ts": 1793270730
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Amir Mohammad Najafi was killed on 18 Dey in Fardis Karaj by gunfire from the suppressive forces of the Islamic Republic. His name remains in the memory of this land and his memory is a guiding light for freedom seekers.",
+        "time": "10:54",
+        "ts": 1793271271
       }
     ],
     "language": "en",
-    "packId": "20261029-31",
-    "sequence": 31,
+    "packId": "20261029-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:10"
+    "updatedAt": "11:16"
   },
   "verified": true
 }
