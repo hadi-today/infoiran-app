@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261029-64 seq=64 exp=1793376470",
+      "advancedStatus": "pack_id=20261029-65 seq=65 exp=1793376548",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:07",
+      "lastChecked": "16:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-29",
-    "expiresAt": "2026-10-30 16:07",
+    "expiresAt": "2026-10-30 16:09",
     "items": [
       {
         "channel": "Iran International",
@@ -940,6 +940,13 @@
         "ts": 1793284662
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "An emergency technician in Sanandaj was assaulted and injured by a patient's companion while providing medical services.",
+        "time": "14:45",
+        "ts": 1793285131
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Kyriakos Mitsotakis, Prime Minister of Greece, on Thursday, 7 Aban, called for a global ceasefire in maritime transport and stated that attacks on civilian commercial ships are unacceptable and threaten international trade and security. He said at a UN Security Council meeting that commercial ships should be able to navigate freely and safely even during military conflicts. Mitsotakis added that disruption of shipping freedom increases costs and instability in global markets.",
@@ -955,11 +962,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261029-64",
-    "sequence": 64,
+    "packId": "20261029-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:07"
+    "updatedAt": "16:09"
   },
   "verified": true
 }
