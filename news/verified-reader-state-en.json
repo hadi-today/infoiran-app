@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261029-03 seq=3 exp=1793328871",
+      "advancedStatus": "pack_id=20261029-04 seq=4 exp=1793328952",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:54",
+      "lastChecked": "02:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-29",
-    "expiresAt": "2026-10-30 02:54",
+    "expiresAt": "2026-10-30 02:55",
     "items": [
       {
         "channel": "Iran International",
@@ -896,14 +896,28 @@
         "text": "Donald Trump, the President of the United States, said that the Islamic Republic faces problems producing drones due to electricity shortages. He added that the US destroyed Iran's nuclear enrichment capacity through military operations and called the Islamic Republic the biggest supporter of terrorism. Trump also emphasized that Iran must never have nuclear weapons.",
         "time": "01:44",
         "ts": 1793238279
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The UK government announced on Wednesday, 6 Aban, that to reduce the pressure of rising energy prices due to the Iran war, it will pay £100 financial aid to 20 million eligible households and extend the reduction of electricity VAT until July 2027. John Healey, the UK Chancellor of the Exchequer, said the war in the Middle East and rising energy costs have put significant pressure on household budgets and the country's economy. According to the announced plan, households in tax groups A to D in England will receive £100 from January 2027.",
+        "time": "01:50",
+        "ts": 1793238600
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A court in Syria sentenced Abduljabbar Ghazi Arziq, a member of the paramilitary group Liwa al-Quds affiliated with the IRGC, to life imprisonment on charges of membership in an armed group linked to war crimes and crimes against humanity. The court stated that this group operated to provoke civil war and escalate sectarian conflicts. The director of the Accountability and Judicial Follow-up Department at the Syrian National Commission for Transitional Justice said the severity of the crimes and their threat to civilians were factors in issuing the sentence.",
+        "time": "02:39",
+        "ts": 1793241565
       }
     ],
     "language": "en",
-    "packId": "20261029-03",
-    "sequence": 3,
+    "packId": "20261029-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:54"
+    "updatedAt": "02:55"
   },
   "verified": true
 }
