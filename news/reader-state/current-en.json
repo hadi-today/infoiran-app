@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261029-12 seq=12 exp=1793346121",
+      "advancedStatus": "pack_id=20261029-13 seq=13 exp=1793346200",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:42",
+      "lastChecked": "07:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-29",
-    "expiresAt": "2026-10-30 07:42",
+    "expiresAt": "2026-10-30 07:43",
     "items": [
       {
         "channel": "Iran International",
@@ -875,14 +875,28 @@
         "text": "Asia-Pacific media reported that Israel's political deadlock after the parliamentary elections indicates difficulties in forming a new government. Singapore and Taiwan media also reported that a change of government in Israel will not necessarily lead to a change in the country's strategy towards the Islamic Republic, and Donald Trump's future decisions will play a decisive role in military confrontation.",
         "time": "06:31",
         "ts": 1793255490
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Two days after the Israeli parliamentary elections on the 5th of Aban, counting over 91% of votes shows Benjamin Netanyahu's coalition leading with 53 seats. The counting of \"double envelope\" votes, including absentee voters such as soldiers and prisoners, has also begun. The Likud party holds the most seats among parties with 26 seats.",
+        "time": "06:37",
+        "ts": 1793255838
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Wall Street Journal reported that the US has warned Gulf Arab countries about the possibility of a short but intense operation against the Islamic Republic. The newspaper wrote that there are new signs of readiness of the US and Israeli militaries for a possible wave of attacks aimed at forcing Tehran to negotiate.",
+        "time": "07:12",
+        "ts": 1793257944
       }
     ],
     "language": "en",
-    "packId": "20261029-12",
-    "sequence": 12,
+    "packId": "20261029-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:42"
+    "updatedAt": "07:43"
   },
   "verified": true
 }
