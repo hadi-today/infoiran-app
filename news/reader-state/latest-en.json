@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261029-65 seq=65 exp=1793376548",
+      "advancedStatus": "pack_id=20261029-66 seq=66 exp=1793376660",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:09",
+      "lastChecked": "16:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-29",
-    "expiresAt": "2026-10-30 16:09",
+    "expiresAt": "2026-10-30 16:11",
     "items": [
       {
         "channel": "Iran International",
@@ -947,6 +947,13 @@
         "ts": 1793285131
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The prison sentence of Fatemeh Mojaddad, a political prisoner and detainee from the January 1404 protests, was converted to a suspended sentence. She will serve the remainder of her sentence outside of Varamin Qarchak prison. Fatemeh Mojaddad was released from prison on Wednesday, 6 Aban.",
+        "time": "15:00",
+        "ts": 1793286001
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Kyriakos Mitsotakis, Prime Minister of Greece, on Thursday, 7 Aban, called for a global ceasefire in maritime transport and stated that attacks on civilian commercial ships are unacceptable and threaten international trade and security. He said at a UN Security Council meeting that commercial ships should be able to navigate freely and safely even during military conflicts. Mitsotakis added that disruption of shipping freedom increases costs and instability in global markets.",
@@ -962,11 +969,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261029-65",
-    "sequence": 65,
+    "packId": "20261029-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:09"
+    "updatedAt": "16:11"
   },
   "verified": true
 }
