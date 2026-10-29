@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261029-66 seq=66 exp=1793376660",
+      "advancedStatus": "pack_id=20261029-67 seq=67 exp=1793376754",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:11",
+      "lastChecked": "16:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-29",
-    "expiresAt": "2026-10-30 16:11",
+    "expiresAt": "2026-10-30 16:12",
     "items": [
       {
         "channel": "Iran International",
@@ -961,6 +961,13 @@
         "ts": 1793286336
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Imran Amani, a 21-year-old prisoner held in Greater Tehran Prison and one of the detainees of the Dey 1404 protests, was sentenced to death by Branch 26 of the Tehran Revolutionary Court on charges of \"waging war against God\". The sentence was issued by Branch 26 of the Tehran Revolutionary Court headed by Judge Iman Afshari and was communicated to this prisoner on Saturday, 2 Aban.",
+        "time": "15:10",
+        "ts": 1793286652
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Ali Sadrozadeh, a Middle East analyst, considered Netanyahu's coalition with opposition parties difficult and said that the occurrence of a war with the Islamic Republic could change the calculations of government formation.",
@@ -969,11 +976,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261029-66",
-    "sequence": 66,
+    "packId": "20261029-67",
+    "sequence": 67,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:11"
+    "updatedAt": "16:12"
   },
   "verified": true
 }
