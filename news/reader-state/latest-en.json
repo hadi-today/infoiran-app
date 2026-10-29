@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261029-51 seq=51 exp=1793373054",
+      "advancedStatus": "pack_id=20261029-52 seq=52 exp=1793373176",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:10",
+      "lastChecked": "15:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-29",
-    "expiresAt": "2026-10-30 15:10",
+    "expiresAt": "2026-10-30 15:12",
     "items": [
       {
         "channel": "Vahid Online",
@@ -863,19 +863,40 @@
         "ts": 1793279536
       },
       {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video received by Iran International on Thursday, 7 Aban, shows a large fire in a building at kilometer 11 of Karaj Special Road. It is said that the burning building belongs to Tehran Darou Company.",
+        "time": "13:15",
+        "ts": 1793279719
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Islamic Republic has again this year, as in the past decade, banned people's presence at the historical site of Pasargadae on Cyrus Day and restricted the routes leading to Cyrus's tomb. Despite these restrictions, Iran International's audience said that the name Cyrus has become a point of identity and a symbol for recalling the right to freedom and human dignity.",
+        "time": "13:23",
+        "ts": 1793280202
+      },
+      {
         "channel": "HRANA",
         "language": "en",
         "text": "Tehran Revolutionary Court sentenced three detainees of the December 1404 protests to death. Amir Reza Rezaei, Vahid Ghahramani, and a cleric named Mehdi were sentenced on charges of operational action for Israel. Mehdi was also sentenced to death in a separate case by the Special Clerical Court for apostasy.",
         "time": "13:24",
         "ts": 1793280270
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Reports include paying 500,000 tomans subsidy for buying bread and pickles compared to house prices in 1979 in Kermanshah. Employees of Atlas Air have not received several months of salaries, and prices of motor oil and the drug Fluphenazine have sharply increased. Some bakeries are accused of methods to sell government-subsidized flour on the free market.",
+        "time": "13:32",
+        "ts": 1793280737
       }
     ],
     "language": "en",
-    "packId": "20261029-51",
-    "sequence": 51,
+    "packId": "20261029-52",
+    "sequence": 52,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:10"
+    "updatedAt": "15:12"
   },
   "verified": true
 }
