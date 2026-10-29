@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261029-83 seq=83 exp=1793383262",
+      "advancedStatus": "pack_id=20261029-84 seq=84 exp=1793383349",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:01",
+      "lastChecked": "18:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-29",
-    "expiresAt": "2026-10-30 18:01",
+    "expiresAt": "2026-10-30 18:02",
     "items": [
       {
         "channel": "HRANA",
@@ -987,14 +987,21 @@
         "text": "Milad Ebrahimi, a citizen from Kamyaran and one of the injured in the December 1404 protests, was sentenced by Branch 101 of the Criminal Court Two of this city to one year in prison and a fine of 400 million tomans.",
         "time": "17:53",
         "ts": 1793296389
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mohammad Bagher Ghalibaf, Speaker of the Islamic Consultative Assembly, wrote on X on Thursday, 7 Aban, that the conditions of the Islamic Republic have been clearly communicated to mediators multiple times, and progress in negotiations will only be possible if Tehran's seven conditions are accepted. Ghalibaf emphasized that the carrot and stick approach has no effect on Tehran, and progress will only be achieved when the seven conditions of the Islamic Republic are accepted.",
+        "time": "17:55",
+        "ts": 1793296522
       }
     ],
     "language": "en",
-    "packId": "20261029-83",
-    "sequence": 83,
+    "packId": "20261029-84",
+    "sequence": 84,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:01"
+    "updatedAt": "18:02"
   },
   "verified": true
 }
