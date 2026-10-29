@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261029-18 seq=18 exp=1793352000",
+      "advancedStatus": "pack_id=20261029-19 seq=19 exp=1793352075",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:20",
+      "lastChecked": "09:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-29",
-    "expiresAt": "2026-10-30 09:20",
+    "expiresAt": "2026-10-30 09:21",
     "items": [
       {
         "channel": "Iran International",
@@ -840,14 +840,28 @@
         "text": "Hassan Yazdani lost 7-5 to Arash Yoshida in the round of 16 of the 97 kg freestyle wrestling World Championship. Yazdani was leading 5-2 in the second period but Yoshida changed the result in the final seconds. Yazdani must now wait for Yoshida to reach the final to enter the repechage group.",
         "time": "07:52",
         "ts": 1793260347
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "With over 90% of the votes counted in the Israeli election, Benjamin Netanyahu's party and its allies have won 53 seats, and the opposition party has won 48 seats. Neither of the two blocs in the Knesset, Israel's 120-seat parliament, has reached the majority needed to form a government.",
+        "time": "07:56",
+        "ts": 1793260595
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video shows the wife of the unnamed protester Parsa Loinian holding a memorial ceremony and lighting a candle for him. This 31-year-old protester was killed on 19 Dey 1404 in Isfahan.",
+        "time": "08:03",
+        "ts": 1793260989
       }
     ],
     "language": "en",
-    "packId": "20261029-18",
-    "sequence": 18,
+    "packId": "20261029-19",
+    "sequence": 19,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:20"
+    "updatedAt": "09:21"
   },
   "verified": true
 }
