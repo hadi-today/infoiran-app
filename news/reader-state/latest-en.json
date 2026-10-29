@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261029-79 seq=79 exp=1793382024",
+      "advancedStatus": "pack_id=20261029-80 seq=80 exp=1793382105",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:40",
+      "lastChecked": "17:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-29",
-    "expiresAt": "2026-10-30 17:40",
+    "expiresAt": "2026-10-30 17:41",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "With over 85% of votes counted in the Israeli election, none of the factions have secured the necessary parliamentary majority to form a government. An interview with Arash Azizi, a history researcher and humanities lecturer at Yale University.",
-        "time": "17:40",
-        "ts": 1793209236
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -1001,14 +994,21 @@
         "text": "Cristiano Ronaldo thanked football fans worldwide after his 2008 Ballon d'Or was chosen as the best Ballon d'Or of all time. France Football introduced a new award called \"BOAT\" to select the best Ballon d'Or in history, with magazine users voting instead of journalists. Ronaldo's 2008 Ballon d'Or ranked first in this poll.",
         "time": "17:34",
         "ts": 1793295282
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Times of Israel reported that an Israeli soldier was arrested on charges of spying for the Islamic Republic and transferring sensitive military information in exchange for cryptocurrency. The soldier, arrested in September, had been in contact with Islamic Republic intelligence agents for about a year and provided information about his unit's activities and the readiness of the Israeli army. The Israeli military prosecutor stated that the soldier also sent information about military bases and photos of interceptor systems and military vehicles.",
+        "time": "17:35",
+        "ts": 1793295323
       }
     ],
     "language": "en",
-    "packId": "20261029-79",
-    "sequence": 79,
+    "packId": "20261029-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:40"
+    "updatedAt": "17:41"
   },
   "verified": true
 }
