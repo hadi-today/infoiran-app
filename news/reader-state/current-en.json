@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261029-39 seq=39 exp=1793365773",
+      "advancedStatus": "pack_id=20261029-40 seq=40 exp=1793365867",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:09",
+      "lastChecked": "13:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-29",
-    "expiresAt": "2026-10-30 13:09",
+    "expiresAt": "2026-10-30 13:11",
     "items": [
       {
         "channel": "Iran International",
@@ -854,14 +854,21 @@
         "text": "Israel held five parliamentary elections in less than four years from 2019 to 2022; a period marked by deadlock in forming a government, the formation and collapse of coalitions, and the return of Benjamin Netanyahu to power. Now, if parties do not reach an agreement to form a government, there is a possibility of holding elections again.",
         "time": "11:54",
         "ts": 1793274859
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video published on social media shows a group of customers of Saipa automotive company gathering due to delays in the delivery of Shahin Plus and regular Shahin cars.",
+        "time": "12:00",
+        "ts": 1793275213
       }
     ],
     "language": "en",
-    "packId": "20261029-39",
-    "sequence": 39,
+    "packId": "20261029-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:09"
+    "updatedAt": "13:11"
   },
   "verified": true
 }
