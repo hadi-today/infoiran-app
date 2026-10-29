@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261029-53 seq=53 exp=1793373261",
+      "advancedStatus": "pack_id=20261029-54 seq=54 exp=1793373333",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:14",
+      "lastChecked": "15:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-29",
-    "expiresAt": "2026-10-30 15:14",
+    "expiresAt": "2026-10-30 15:15",
     "items": [
       {
         "channel": "Vahid Online",
@@ -903,14 +903,21 @@
         "text": "Dmitry Peskov, Kremlin spokesperson, announced that Russia is ready to mediate between the Islamic Republic and the United States if requested. He said the issue of Iran is always raised in Moscow-Washington contacts and Russia wants to prevent military conflict in the Persian Gulf. Peskov also stated that if the dispute is over Iran's enriched uranium, Moscow is ready to transfer it to Russian territory.",
         "time": "13:42",
         "ts": 1793281369
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Informed sources told Iran International that 10 plainclothes agents raided the homes of Raouf Rouhani Najafabadi, his mother Ferdows Ferdousian, and his mother-in-law Forough Darab in Isfahan on November 5, confiscating a large number of their belongings over six hours. According to these sources, the masked agents confiscated 9 mobile phones, 3 televisions, 3 laptops, a home theater system, several cameras, 4 musical instruments, over 15 suitcases and bags, over 30 million tomans in cash, all gold and jewelry, and some other items. A few days before this raid, Raouf Rouhani Najafabadi's wife had received an SMS from Article 49 Court, which is related to property confiscation and the \"Headquarters for Executing Imam Khomeini's Order.\"",
+        "time": "13:45",
+        "ts": 1793281542
       }
     ],
     "language": "en",
-    "packId": "20261029-53",
-    "sequence": 53,
+    "packId": "20261029-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:14"
+    "updatedAt": "15:15"
   },
   "verified": true
 }
