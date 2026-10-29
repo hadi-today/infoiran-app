@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261029-90 seq=90 exp=1793385721",
+      "advancedStatus": "pack_id=20261029-91 seq=91 exp=1793386016",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:42",
+      "lastChecked": "18:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-29",
-    "expiresAt": "2026-10-30 18:42",
+    "expiresAt": "2026-10-30 18:46",
     "items": [
       {
         "channel": "HRANA",
@@ -994,14 +994,21 @@
         "text": "Varzesh3 reported that Alireza Dabir, head of the Wrestling Federation, took Rahman Amouzad to a sauna for two hours to lose weight after the Armenian wrestler reached the world championship final. Amouzad's weight suddenly increased after his first match, which he lost. After about six hours and before preparing for night rest, Amouzad reached the ideal weight.",
         "time": "18:40",
         "ts": 1793299212
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Israel held five parliamentary elections between 1398 and 1401 in less than four years. If efforts to form a government fail after the final election results are announced, the legal process can take up to about 120 days. If the deadlock continues, new elections could be held in spring 1406.",
+        "time": "18:45",
+        "ts": 1793299539
       }
     ],
     "language": "en",
-    "packId": "20261029-90",
-    "sequence": 90,
+    "packId": "20261029-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:42"
+    "updatedAt": "18:46"
   },
   "verified": true
 }
