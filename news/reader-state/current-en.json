@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261030-138 seq=138 exp=1793486451",
+      "advancedStatus": "pack_id=20261030-139 seq=139 exp=1793486750",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:40",
+      "lastChecked": "22:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-30",
-    "expiresAt": "2026-10-31 22:40",
+    "expiresAt": "2026-10-31 22:45",
     "items": [
       {
         "channel": "Iran International",
@@ -826,14 +826,21 @@
         "text": "A Telegram channel close to the IRGC reported that eight oil tankers exploded in the Strait of Hormuz in the past 48 hours due to hitting mines. This channel is close to the IRGC and the statistics have not been independently confirmed. Earlier, the CENTCOM commander stated that American forces had cleared mines from the main shipping routes in the Strait of Hormuz.",
         "time": "22:36",
         "ts": 1793399766
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "This Wednesday, the first women's football derby in Iran between Persepolis and Esteghlal was held; the Reds won this match.",
+        "time": "22:41",
+        "ts": 1793400113
       }
     ],
     "language": "en",
-    "packId": "20261030-138",
-    "sequence": 138,
+    "packId": "20261030-139",
+    "sequence": 139,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:40"
+    "updatedAt": "22:45"
   },
   "verified": true
 }
