@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261030-106 seq=106 exp=1793470218",
+      "advancedStatus": "pack_id=20261030-107 seq=107 exp=1793470298",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:10",
+      "lastChecked": "18:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-30",
-    "expiresAt": "2026-10-31 18:10",
+    "expiresAt": "2026-10-31 18:11",
     "items": [
-      {
-        "channel": "Vahid Online",
-        "language": "en",
-        "text": "The UK Maritime Trade Operations center reported that a tanker belonging to a shipping company was hit by an unidentified projectile while passing through the Strait of Hormuz.",
-        "time": "18:10",
-        "ts": 1793297430
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -763,14 +756,21 @@
         "text": "CENTCOM claimed that the Islamic Revolutionary Guard Corps of Iran alleged today that it destroyed a US military unmanned vessel in the Strait of Hormuz, but CENTCOM called this claim false. CENTCOM stated that all surface unmanned vessels of the US military in the Middle East are present and their status is known, including a squadron of advanced unmanned vessels patrolling the Strait of Hormuz and supporting the US Central Command defense layer.",
         "time": "18:07",
         "ts": 1793383643
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A probable timeline for the start of operations against the Islamic Republic and details of the first 24-48 hours of attacks have been reported.",
+        "time": "18:08",
+        "ts": 1793383723
       }
     ],
     "language": "en",
-    "packId": "20261030-106",
-    "sequence": 106,
+    "packId": "20261030-107",
+    "sequence": 107,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:10"
+    "updatedAt": "18:11"
   },
   "verified": true
 }
