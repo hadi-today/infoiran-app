@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261030-66 seq=66 exp=1793455199",
+      "advancedStatus": "pack_id=20261030-67 seq=67 exp=1793455533",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:59",
+      "lastChecked": "14:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-30",
-    "expiresAt": "2026-10-31 13:59",
+    "expiresAt": "2026-10-31 14:05",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A citizen sent a video to Iran International showing disturbances to people and traffic caused by government protesters.",
-        "time": "14:01",
-        "ts": 1793282513
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A citizen reported that on the day of commemorating Cyrus, they were inspected more than 10 times on the route from Yazd to Shiraz and were not allowed to enter Pasargadae. He said Cyrus's value lies in his intellectual and human legacy, not just in conquests. He also referred to the importance of Cyrus Day as a symbol of management combined with humanity and a reminder of concepts such as tolerance and human rights.",
-        "time": "14:05",
-        "ts": 1793282732
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -812,14 +798,21 @@
         "text": "Turkey's National Intelligence Organization \"MIT\" arrested a Turkish national who was a member of ISIS in the Afghanistan-Pakistan border area and transferred him to Turkey. This individual, codenamed \"Abdullah,\" had close cooperation with ISIS since 2024.",
         "time": "13:58",
         "ts": 1793368716
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A released video shows the restlessness and expression of longing of the mother of the missing Peyman Pourdavarani due to the absence of her son. Peyman, 31 years old and father of a child, was killed on 18 Dey 1404 in Kerman.",
+        "time": "14:02",
+        "ts": 1793368958
       }
     ],
     "language": "en",
-    "packId": "20261030-66",
-    "sequence": 66,
+    "packId": "20261030-67",
+    "sequence": 67,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:59"
+    "updatedAt": "14:05"
   },
   "verified": true
 }
