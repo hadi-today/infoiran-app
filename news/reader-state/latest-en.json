@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261030-03 seq=3 exp=1793408596",
+      "advancedStatus": "pack_id=20261030-04 seq=4 exp=1793409198",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:03",
+      "lastChecked": "01:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-30",
-    "expiresAt": "2026-10-31 01:03",
+    "expiresAt": "2026-10-31 01:13",
     "items": [
       {
         "channel": "Iran International",
@@ -924,14 +924,21 @@
         "text": "Connecticut Democratic Senator Chris Murphy said he and a number of other US lawmakers were briefed on details of a potential plan to resume military operations against Iran. He described the plan as 'insane' and warned that its implementation would lead to escalation and prolonging of the war. Murphy said the prepared plan would, at Trump's request, prolong the war and have devastating consequences for US security interests.",
         "time": "00:58",
         "ts": 1793321925
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Scott Bessent, the US Treasury Secretary, said that Washington's economic pressures on the Islamic Republic have reached a stage where Tehran is facing difficulties in securing dollars and paying its military forces. He added that the financial restrictions on the Islamic Republic have also affected Tehran-supported groups, and the financial resources of the Houthis, Hamas, and Hezbollah are being cut off. Bessent emphasized that the US is trying to limit the Islamic Republic's ability to finance these groups.",
+        "time": "01:11",
+        "ts": 1793322718
       }
     ],
     "language": "en",
-    "packId": "20261030-03",
-    "sequence": 3,
+    "packId": "20261030-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:03"
+    "updatedAt": "01:13"
   },
   "verified": true
 }
