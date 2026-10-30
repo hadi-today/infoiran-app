@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261030-24 seq=24 exp=1793433677",
+      "advancedStatus": "pack_id=20261030-25 seq=25 exp=1793434247",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:01",
+      "lastChecked": "08:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-30",
-    "expiresAt": "2026-10-31 08:01",
+    "expiresAt": "2026-10-31 08:10",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A video shows the wife of the unnamed protester Parsa Loinian holding a memorial ceremony and lighting a candle for him. This 31-year-old protester was killed on 19 Dey 1404 in Isfahan.",
-        "time": "08:03",
-        "ts": 1793260989
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Leila Morvati, a political analyst, says Turkey and Pakistan are trying to reduce tensions between Tehran and Washington due to their proximity to Iran and concerns about the consequences of war. She added that Saudi Arabia, Qatar, and other Arab countries in the region are also seeking mediation. However, the unresolved dispute over the Islamic Republic's nuclear program remains a major obstacle to reaching an agreement or a lasting ceasefire.",
-        "time": "08:05",
-        "ts": 1793261112
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -924,14 +910,21 @@
         "text": "On Thursday, 7 Aban 1405, six Sunni citizens were arrested in the city of Shavur by the Intelligence Forces of the IRGC. The identities of five of them, Hossein Navaseri, Ali Doshi, Ali Shuyehi, Amin Shuyehi, and Javad Kanani, have been confirmed. These arrests were made without a judicial warrant at around 1:30 AM.",
         "time": "07:34",
         "ts": 1793345668
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "A 38-year-old man in Tehran who deceived a 27-year-old woman with the promise of finding a job and sexually assaulted her was arrested by intelligence police officers. The suspect confessed to the crime after arrest and was transferred to prison with the issuance of a temporary detention order.",
+        "time": "08:09",
+        "ts": 1793347745
       }
     ],
     "language": "en",
-    "packId": "20261030-24",
-    "sequence": 24,
+    "packId": "20261030-25",
+    "sequence": 25,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:01"
+    "updatedAt": "08:10"
   },
   "verified": true
 }
