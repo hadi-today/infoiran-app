@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261030-86 seq=86 exp=1793462300",
+      "advancedStatus": "pack_id=20261030-87 seq=87 exp=1793462641",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:58",
+      "lastChecked": "16:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-30",
-    "expiresAt": "2026-10-31 15:58",
+    "expiresAt": "2026-10-31 16:04",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A citizen sent a video to Iran International showing cut trees on Tehranser Boulevard in western Tehran and said: \"They have attacked the city's trees.\"",
-        "time": "16:01",
-        "ts": 1793289662
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "London City Club, which started its activity with women's football, now has Alexia Putellas, a three-time Ballon d'Or winner, in its squad. Raha Pourbakhsh, an Iran International reporter, narrates the fan culture in women's football on the sidelines of this team's match against Crystal Palace.",
-        "time": "16:02",
-        "ts": 1793289744
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -777,14 +763,21 @@
         "text": "Mike Pompeo, the US Secretary of State during Donald Trump's first presidency, said that resuming military operations against the Islamic Republic must lead to a resolution of the war and that this regime should not be allowed to rebuild its military capabilities. He also said the issue of the Houthis is not limited to Saudi Arabia and has regional and global dimensions.",
         "time": "15:49",
         "ts": 1793375375
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video sent to Iran International shows a poster with the image of Cyrus the Great and Prince Reza Pahlavi installed on one of the public passages in Tehran.",
+        "time": "16:01",
+        "ts": 1793376094
       }
     ],
     "language": "en",
-    "packId": "20261030-86",
-    "sequence": 86,
+    "packId": "20261030-87",
+    "sequence": 87,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:58"
+    "updatedAt": "16:04"
   },
   "verified": true
 }
