@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261030-07 seq=7 exp=1793420125",
+      "advancedStatus": "pack_id=20261030-08 seq=8 exp=1793420432",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:15",
+      "lastChecked": "04:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-30",
-    "expiresAt": "2026-10-31 04:15",
+    "expiresAt": "2026-10-31 04:20",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Amir Hamidi said the seven-day negotiations are not merely a diplomatic effort to prevent war but part of Washington's pressure strategy on the Islamic Republic. He added that the US, while maintaining military readiness, demands Tehran accept specific and verifiable commitments on its nuclear program, missile activities, Strait of Hormuz security, and regional policies. Hamidi emphasized that the end of this deadline does not necessarily mean the start of a military attack, and Washington's decision depends on intelligence assessments and potential consequences.",
-        "time": "04:16",
-        "ts": 1793247369
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -903,14 +896,21 @@
         "text": "Navid Mohibi said Netanyahu lost his previous majority by losing 15 seats, but his opponents have not been able to form a cohesive coalition. Three scenarios are presented for Israel: a national unity government, a minority government supported by Arab parties, or the next election. If parties fail to form a government, Netanyahu can remain as caretaker until the next election.",
         "time": "04:14",
         "ts": 1793333665
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The UK Maritime Trade Operations reported that a small boat approached an oil tanker in the Strait of Hormuz and attached two explosive devices to its hull, causing a fire and temporary disablement of the tanker. The incident occurred on October 29, 25 nautical miles northeast of Khasab, Oman. The fire has been controlled, all crew are safe, and the tanker is continuing towards the next port.",
+        "time": "04:15",
+        "ts": 1793333736
       }
     ],
     "language": "en",
-    "packId": "20261030-07",
-    "sequence": 7,
+    "packId": "20261030-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:15"
+    "updatedAt": "04:20"
   },
   "verified": true
 }
