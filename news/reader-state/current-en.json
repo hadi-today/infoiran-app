@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261030-91 seq=91 exp=1793463952",
+      "advancedStatus": "pack_id=20261030-92 seq=92 exp=1793464039",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:25",
+      "lastChecked": "16:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-30",
-    "expiresAt": "2026-10-31 16:25",
+    "expiresAt": "2026-10-31 16:27",
     "items": [
       {
         "channel": "HRANA",
@@ -742,14 +742,21 @@
         "text": "Ali Alipour, the father of Babak Alipour, was transferred to Lakan Prison in Rasht after completing interrogation stages. This transfer took place on Thursday, 7 Aban. Harana News Agency reported this news.",
         "time": "16:13",
         "ts": 1793376817
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Sepahan football team defeated Kheybar 2-1 in Khorramabad in the eleventh week of the Premier League and remained top of the table with 23 points. Kasra Taheri and Omid Noorafkan scored for Sepahan, and Amirhossein Farsi scored for Kheybar. In other matches, Malavan lost to Chadormalu Ardakan 2-1, and the match between Zob Ahan and Esteghlal Khuzestan ended goalless.",
+        "time": "16:22",
+        "ts": 1793377365
       }
     ],
     "language": "en",
-    "packId": "20261030-91",
-    "sequence": 91,
+    "packId": "20261030-92",
+    "sequence": 92,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:25"
+    "updatedAt": "16:27"
   },
   "verified": true
 }
