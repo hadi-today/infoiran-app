@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261030-76 seq=76 exp=1793458224",
+      "advancedStatus": "pack_id=20261030-77 seq=77 exp=1793458313",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:50",
+      "lastChecked": "14:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-30",
-    "expiresAt": "2026-10-31 14:50",
+    "expiresAt": "2026-10-31 14:51",
     "items": [
       {
         "channel": "HRANA",
@@ -784,14 +784,21 @@
         "text": "Financial Times reported that the Islamic Republic used sticky mines in the attack on the oil tanker 'Louise 1' in the Strait of Hormuz. Two small vessels approached the tanker on Thursday evening and attached explosives to its hull. This is the first use of sticky mines against ships in the Middle East since June 2019.",
         "time": "14:32",
         "ts": 1793370740
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "Friedrich Merz, Chancellor of Germany, announced that the German government is coordinating and strengthening diplomatic efforts to end the Iran war as soon as possible. He emphasized that this conflict has no military solution and must be resolved through diplomacy. He also noted that the increase in energy prices over the past eight months has imposed costs exceeding 100 billion euros on Europe.",
+        "time": "14:46",
+        "ts": 1793371583
       }
     ],
     "language": "en",
-    "packId": "20261030-76",
-    "sequence": 76,
+    "packId": "20261030-77",
+    "sequence": 77,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:50"
+    "updatedAt": "14:51"
   },
   "verified": true
 }
