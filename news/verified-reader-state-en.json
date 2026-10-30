@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261030-37 seq=37 exp=1793441459",
+      "advancedStatus": "pack_id=20261030-38 seq=38 exp=1793441683",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:10",
+      "lastChecked": "10:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-30",
-    "expiresAt": "2026-10-31 10:10",
+    "expiresAt": "2026-10-31 10:14",
     "items": [
       {
         "channel": "Iran International",
@@ -889,14 +889,21 @@
         "text": "The final results of the Israeli elections show that Benjamin Netanyahu's bloc has 53 seats and the four main opposition parties have 48 seats, neither reaching the majority needed to form a government. Arab parties have nearly doubled their share by winning 19 seats. Disagreements over cooperation with Arab parties have challenged the formation of an opposition coalition against Netanyahu.",
         "time": "10:03",
         "ts": 1793354604
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The Iran Guilds Chamber issued a statement banning any ceremonies, celebrations, gatherings, advertising, and sales of items related to Halloween in public and commercial places, including cafes and restaurants. The statement also threatened that commercial units holding or advertising such events would face closure by the public places police and the introduction of the responsible parties to legal authorities.",
+        "time": "10:07",
+        "ts": 1793354854
       }
     ],
     "language": "en",
-    "packId": "20261030-37",
-    "sequence": 37,
+    "packId": "20261030-38",
+    "sequence": 38,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:10"
+    "updatedAt": "10:14"
   },
   "verified": true
 }
