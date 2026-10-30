@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261030-99 seq=99 exp=1793467363",
+      "advancedStatus": "pack_id=20261030-100 seq=100 exp=1793468002",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:22",
+      "lastChecked": "17:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-30",
-    "expiresAt": "2026-10-31 17:22",
+    "expiresAt": "2026-10-31 17:33",
     "items": [
       {
         "channel": "Iran International",
@@ -763,14 +763,21 @@
         "text": "People have reported that due to the economic crisis in Iran, essential medicines like rheumatism pills are unavailable and prices of goods have risen sharply. Store owners have reported a significant drop in sales due to inflation. Additionally, students complain about the high costs of books and exams, and pharmacies lack eye pressure medication.",
         "time": "17:03",
         "ts": 1793379833
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Joachim Wadtfoll, Germany's foreign minister, said most G20 members want the Islamic Republic to return to the negotiating table. He added that the Houthis must stop their attacks and Russia must end its attacks in the Black Sea. Wadtfoll said G20 members are discussing crises and ways to restore the global economy to a growth path.",
+        "time": "17:28",
+        "ts": 1793381302
       }
     ],
     "language": "en",
-    "packId": "20261030-99",
-    "sequence": 99,
+    "packId": "20261030-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:22"
+    "updatedAt": "17:33"
   },
   "verified": true
 }
