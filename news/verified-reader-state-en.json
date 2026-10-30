@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261030-55 seq=55 exp=1793450399",
+      "advancedStatus": "pack_id=20261030-56 seq=56 exp=1793450650",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:39",
+      "lastChecked": "12:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-30",
-    "expiresAt": "2026-10-31 12:39",
+    "expiresAt": "2026-10-31 12:44",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Viviana Krsticic, a member of the UN fact-finding mission on Iran, stated that based on the mission's findings, many human rights violations by officials and institutions of the Islamic Republic in Iran during 2026 constitute crimes against humanity. She mentioned arbitrary arrests, torture, sexual violence, denial of fair trial, and arbitrary deprivation of the right to life. Switzerland condemns the use of the death penalty and emphasizes support for halting executions and protecting human rights defenders.",
-        "time": "12:40",
-        "ts": 1793277638
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "Ali Salehi, the public and revolutionary prosecutor of Tehran, demanded the identification and blocking of pages of some unauthorized tourism tours and judicial action against their operators due to what he called \"norm-breaking\" and \"publication of immoral content.\" He also emphasized the enforcement of mandatory hijab laws and called for security agencies to identify and confront what he named \"organized gangs promoting and spreading corruption.\" Salehi further stressed increased supervision of businesses and public places and judicial action against citizens and business officials regarding dress code violations and what he termed \"norm-breaking,\" actions that lead to expanded intervention in citizens' dress, lifestyle, and social activities.",
         "time": "12:32",
         "ts": 1793363557
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Donald Trump and Melania Trump welcomed children dressed as cartoon and movie characters for Halloween at the White House. At the same time, a flyover demonstration passed briefly over the event location.",
+        "time": "12:38",
+        "ts": 1793363926
       }
     ],
     "language": "en",
-    "packId": "20261030-55",
-    "sequence": 55,
+    "packId": "20261030-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:39"
+    "updatedAt": "12:44"
   },
   "verified": true
 }
