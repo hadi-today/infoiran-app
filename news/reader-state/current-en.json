@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261030-128 seq=128 exp=1793480818",
+      "advancedStatus": "pack_id=20261030-129 seq=129 exp=1793480907",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:06",
+      "lastChecked": "21:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-30",
-    "expiresAt": "2026-10-31 21:06",
+    "expiresAt": "2026-10-31 21:08",
     "items": [
       {
         "channel": "Iran International",
@@ -812,14 +812,21 @@
         "text": "A video released on social media shows a baker crying after sifting rationed flour in his bakery, telling citizens that instead of flour, animal feed has been delivered to bakeries.",
         "time": "21:02",
         "ts": 1793394163
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Israeli media reported that Mossad has joined investigations into the case of foreign interference in the Knesset elections. Earlier, Shin Bet had started examining claims of foreign interference in the parliamentary elections. This report was by Ashkan Safaei from Iran International.",
+        "time": "21:03",
+        "ts": 1793394221
       }
     ],
     "language": "en",
-    "packId": "20261030-128",
-    "sequence": 128,
+    "packId": "20261030-129",
+    "sequence": 129,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:06"
+    "updatedAt": "21:08"
   },
   "verified": true
 }
