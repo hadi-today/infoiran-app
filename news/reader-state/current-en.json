@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261030-35 seq=35 exp=1793441073",
+      "advancedStatus": "pack_id=20261030-36 seq=36 exp=1793441384",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:04",
+      "lastChecked": "10:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-30",
-    "expiresAt": "2026-10-31 10:04",
+    "expiresAt": "2026-10-31 10:09",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "The European Union representative at the Third Committee of the UN General Assembly announced that since December 1404, the EU has sanctioned 37 individuals and 9 entities for human rights violations in Iran. The representative expressed concern over the suppression of the December 1404 protests, use of deadly force, increased arbitrary arrests, torture, and executions. They also called for an end to executions, release of arbitrarily detained individuals, and accountability for human rights violators.",
-        "time": "10:04",
-        "ts": 1793268290
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "The Ninth Branch of the Mazandaran Province Court of Appeal confirmed the sentence of Navian Hejazi, a Baháʼí citizen residing in Jouybar, to seven months and 16 days imprisonment, payment of a fine, and deprivation of social rights. The sentence includes payment of 122,501,000 rials fine and deprivation of social rights for 10 years and one day. The appeal verdict was issued on 13 Mehr 1405 and declared final.",
         "time": "09:23",
         "ts": 1793352239
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Friedrich Merz, Chancellor of Germany, referred to the escalating tensions in the Middle East and said Berlin is trying to end the war between the Islamic Republic and the United States as soon as possible. He emphasized that the continuation of the war in the Persian Gulf has had a significant impact on the European economy.",
+        "time": "10:03",
+        "ts": 1793354580
       }
     ],
     "language": "en",
-    "packId": "20261030-35",
-    "sequence": 35,
+    "packId": "20261030-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:04"
+    "updatedAt": "10:09"
   },
   "verified": true
 }
