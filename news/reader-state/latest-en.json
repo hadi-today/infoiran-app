@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261030-01 seq=1 exp=1793404978",
+      "advancedStatus": "pack_id=20261030-02 seq=2 exp=1793406110",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:02",
+      "lastChecked": "00:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-30",
-    "expiresAt": "2026-10-31 00:02",
+    "expiresAt": "2026-10-31 00:21",
     "items": [
       {
         "channel": "Iran International",
@@ -910,14 +910,21 @@
         "text": "The UK Maritime Trade Operations Center (UKMTO) has received a report of an incident 25 nautical miles northeast of Khasab, Oman, in the Strait of Hormuz. A third-party source reported that a ship caught fire while exiting the Strait of Hormuz. The cause of the fire was not known at the time of the report.",
         "time": "23:58",
         "ts": 1793318315
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Binance, the world's largest cryptocurrency exchange, announced it is investigating a security incident that may have resulted in the withdrawal of several billion dollars from its wallets. Binance emphasized that user assets are secure and temporarily halted withdrawals on several networks. Changpeng Zhao, founder of Binance, said it appears the exchange has been hacked and expects user assets to be fully reimbursed.",
+        "time": "00:20",
+        "ts": 1793319600
       }
     ],
     "language": "en",
-    "packId": "20261030-01",
-    "sequence": 1,
+    "packId": "20261030-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:02"
+    "updatedAt": "00:21"
   },
   "verified": true
 }
