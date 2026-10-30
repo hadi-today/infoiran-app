@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261030-09 seq=9 exp=1793420508",
+      "advancedStatus": "pack_id=20261030-10 seq=10 exp=1793421024",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:21",
+      "lastChecked": "04:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-30",
-    "expiresAt": "2026-10-31 04:21",
+    "expiresAt": "2026-10-31 04:30",
     "items": [
       {
         "channel": "Iran International",
@@ -910,14 +910,21 @@
         "text": "A Saudi-led military coalition announced it intercepted and destroyed a drone launched by Houthis supported by the Islamic Republic in the Mecca region. Reuters reported that the coalition announced the drone's destruction on Friday, 8 Aban, in a statement. The Houthis have not responded to this incident so far.",
         "time": "04:19",
         "ts": 1793333976
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mohammad Qaedi, an international relations lecturer, said that the release of strategic oil reserves by dozens of countries has prevented a further increase in fuel prices in the US in the short term. He emphasized that disruptions in tanker traffic in the Strait of Hormuz continue to threaten the global energy market and a quick return to pre-crisis conditions is unlikely.",
+        "time": "04:28",
+        "ts": 1793334494
       }
     ],
     "language": "en",
-    "packId": "20261030-09",
-    "sequence": 9,
+    "packId": "20261030-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:21"
+    "updatedAt": "04:30"
   },
   "verified": true
 }
