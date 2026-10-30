@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261030-59 seq=59 exp=1793451331",
+      "advancedStatus": "pack_id=20261030-60 seq=60 exp=1793451716",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:55",
+      "lastChecked": "13:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-30",
-    "expiresAt": "2026-10-31 12:55",
+    "expiresAt": "2026-10-31 13:01",
     "items": [
       {
         "channel": "Iran International",
@@ -847,14 +847,21 @@
         "text": "Mehdi Beigi, a member of the Iran International editorial team, commented on statements by Hossein Yekta, a commander in the IRGC, who said that people born in the 2000s are present next to missile launchers. He said the government tries to encourage teenagers to participate in the military and to put their education and knowledge at the service of military power.",
         "time": "12:39",
         "ts": 1793363969
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Shahab Zahdi, a detainee from the January 2026 protests and imprisoned in Qezel Hesar prison in Karaj, was sentenced to death for the second time by Branch 15 of the Tehran Revolutionary Court. This sentence was issued after being overturned by the Supreme Court and the case was referred back for reconsideration. A source close to Zahdi's family confirmed this news.",
+        "time": "12:58",
+        "ts": 1793365108
       }
     ],
     "language": "en",
-    "packId": "20261030-59",
-    "sequence": 59,
+    "packId": "20261030-60",
+    "sequence": 60,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:55"
+    "updatedAt": "13:01"
   },
   "verified": true
 }
