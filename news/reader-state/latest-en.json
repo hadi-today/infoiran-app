@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261030-47 seq=47 exp=1793448418",
+      "advancedStatus": "pack_id=20261030-48 seq=48 exp=1793448653",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:06",
+      "lastChecked": "12:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-30",
-    "expiresAt": "2026-10-31 12:06",
+    "expiresAt": "2026-10-31 12:10",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Houshang Seydali, the coordination manager of the National Iranian Gas Company, announced that gas supply conditions for the upcoming winter have become more difficult and planning has been done to provide alternative fuels such as gas cylinders and kerosene. He said about 11 provinces may face gas shortages, with three northern provinces having more difficult conditions. Seydali considered electricity the best option for home energy supply, provided sufficient electricity can be produced.",
-        "time": "12:07",
-        "ts": 1793275631
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -840,14 +833,21 @@
         "text": "Mark Carney, Prime Minister of Canada, has supported the United Arab Emirates' claim to the three islands of the Persian Gulf. This support coincided with the visit of Abu Dhabi's Crown Prince to Canada. In a joint statement on October 28, the two countries called for an end to Iran's occupation of these islands.",
         "time": "12:04",
         "ts": 1793361846
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "Reuters reported, quoting an informed official, that Qatari mediators have traveled again to Tehran to continue efforts to reach an agreement between Iran and the US to end the war. The official said on Friday, 8 Aban, that the mediation talks are coordinated with Washington but did not provide further details. This is the second trip of Qatari mediators to Iran in the past week.",
+        "time": "12:08",
+        "ts": 1793362137
       }
     ],
     "language": "en",
-    "packId": "20261030-47",
-    "sequence": 47,
+    "packId": "20261030-48",
+    "sequence": 48,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:06"
+    "updatedAt": "12:10"
   },
   "verified": true
 }
