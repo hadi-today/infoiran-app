@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261031-31 seq=31 exp=1793527064",
+      "advancedStatus": "pack_id=20261031-32 seq=32 exp=1793527380",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:57",
+      "lastChecked": "10:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-31",
-    "expiresAt": "2026-11-01 09:57",
+    "expiresAt": "2026-11-01 10:03",
     "items": [
       {
         "channel": "Iran International",
@@ -791,14 +791,21 @@
         "text": "At the Manama security meeting, Bahraini officials warned about threats from the Islamic Republic and tensions in the region's waterways. Bahrain's interior minister called for strengthening security cooperation, and the country's crown prince emphasized international cooperation to secure the Strait of Hormuz and Bab al-Mandab.",
         "time": "09:52",
         "ts": 1793440363
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "On Saturday, 9 Aban, calls for protest gatherings in 30 German cities have been published. More than 160,000 people are expected to participate in these gatherings. Opposition to the return of compulsory military service and protests against living costs are among the demands of the protesters.",
+        "time": "10:01",
+        "ts": 1793440879
       }
     ],
     "language": "en",
-    "packId": "20261031-31",
-    "sequence": 31,
+    "packId": "20261031-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:57"
+    "updatedAt": "10:03"
   },
   "verified": true
 }
