@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261031-123 seq=123 exp=1793566407",
+      "advancedStatus": "pack_id=20261031-124 seq=124 exp=1793566699",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:53",
+      "lastChecked": "20:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-31",
-    "expiresAt": "2026-11-01 20:53",
+    "expiresAt": "2026-11-01 20:58",
     "items": [
       {
         "channel": "Iran International",
@@ -854,14 +854,21 @@
         "text": "Ata Mohamad said both the Islamic Republic and the US believe they can gain more concessions from the other side. He added that the main disagreements remain and there is no sign of an imminent agreement. Also, regional countries are increasing their diplomatic efforts with concern over the possible expansion of the war.",
         "time": "20:52",
         "ts": 1793479963
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Yesterday, the football match between Malavan Bandar Anzali and Chadormalu Ardakan was held with female spectators present at Sirous Ghaeqran Stadium in Anzali due to a disciplinary committee ruling by the Football Federation, and men were not allowed to watch the match directly. The game ended with a 2-1 victory for Chadormalu.",
+        "time": "20:56",
+        "ts": 1793480219
       }
     ],
     "language": "en",
-    "packId": "20261031-123",
-    "sequence": 123,
+    "packId": "20261031-124",
+    "sequence": 124,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:53"
+    "updatedAt": "20:58"
   },
   "verified": true
 }
