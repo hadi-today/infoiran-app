@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261031-32 seq=32 exp=1793527380",
+      "advancedStatus": "pack_id=20261031-33 seq=33 exp=1793527468",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:03",
+      "lastChecked": "10:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-31",
-    "expiresAt": "2026-11-01 10:03",
+    "expiresAt": "2026-11-01 10:04",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Friedrich Merz, Chancellor of Germany, referred to the escalating tensions in the Middle East and said Berlin is trying to end the war between the Islamic Republic and the United States as soon as possible. He emphasized that the continuation of the war in the Persian Gulf has had a significant impact on the European economy.",
-        "time": "10:03",
-        "ts": 1793354580
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The final results of the Israeli elections show that Benjamin Netanyahu's bloc has 53 seats and the four main opposition parties have 48 seats, neither reaching the majority needed to form a government. Arab parties have nearly doubled their share by winning 19 seats. Disagreements over cooperation with Arab parties have challenged the formation of an opposition coalition against Netanyahu.",
-        "time": "10:03",
-        "ts": 1793354604
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -798,14 +784,21 @@
         "text": "On Saturday, 9 Aban, calls for protest gatherings in 30 German cities have been published. More than 160,000 people are expected to participate in these gatherings. Opposition to the return of compulsory military service and protests against living costs are among the demands of the protesters.",
         "time": "10:01",
         "ts": 1793440879
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Tractor club announced that Oman has not issued a direct flight permit from Iran, and the team members must travel indirectly to face Neftchi Uzbekistan in the Asian Elite League. The players and coaching staff will first travel to Istanbul and then fly to Oman. The Tractor supervisor said that if this situation repeats, the team will withdraw from the competitions.",
+        "time": "10:01",
+        "ts": 1793440897
       }
     ],
     "language": "en",
-    "packId": "20261031-32",
-    "sequence": 32,
+    "packId": "20261031-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:03"
+    "updatedAt": "10:04"
   },
   "verified": true
 }
