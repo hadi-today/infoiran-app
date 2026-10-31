@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261031-04 seq=4 exp=1793505845",
+      "advancedStatus": "pack_id=20261031-05 seq=5 exp=1793505935",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:04",
+      "lastChecked": "04:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-31",
-    "expiresAt": "2026-11-01 04:04",
+    "expiresAt": "2026-11-01 04:05",
     "items": [
       {
         "channel": "Iran International",
@@ -798,14 +798,21 @@
         "text": "A Lebanese military court charged 13 people in the case of seizing a truck carrying half a ton of TNT and C4 explosives belonging to Hezbollah. The accused are charged with acting against internal security and illegal possession of weapons.",
         "time": "03:59",
         "ts": 1793419172
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Shayan Samiei, a security expert, referred to the history of the Islamic Republic and the disputes between Tehran and Washington over the nuclear program and said he is not optimistic about a lasting agreement between the two sides. He emphasized that any limited understanding to stop the conflict, without imposing costs for violating the Islamic Republic's commitments, can only be a \"band-aid\" and provide an opportunity for the regime to regroup.",
+        "time": "04:02",
+        "ts": 1793419330
       }
     ],
     "language": "en",
-    "packId": "20261031-04",
-    "sequence": 4,
+    "packId": "20261031-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:04"
+    "updatedAt": "04:05"
   },
   "verified": true
 }
