@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261031-57 seq=57 exp=1793538170",
+      "advancedStatus": "pack_id=20261031-58 seq=58 exp=1793538265",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:02",
+      "lastChecked": "13:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-31",
-    "expiresAt": "2026-11-01 13:02",
+    "expiresAt": "2026-11-01 13:04",
     "items": [
       {
         "channel": "Iran International",
@@ -812,14 +812,21 @@
         "text": "Iranian media reported that Mojtaba Khamenei, the leader of the Islamic Republic, has ordered senior commanders of the armed forces to respond to any potential threat \"immediately, effectively, and without geographical limitation.\" This order was announced in a meeting held on Saturday, 9 Aban. In this meeting, military commanders presented reports on the readiness of forces in various regions of Iran.",
         "time": "12:41",
         "ts": 1793450495
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Houshang Hassan-Yari, a Middle East and military affairs expert, considered the statements attributed to Mojtaba Khamenei as a reflection of recent threats by the IRGC and said there is a gap between these threats and the operational capability of the Islamic Republic, and these statements do not create deterrence.",
+        "time": "12:57",
+        "ts": 1793451452
       }
     ],
     "language": "en",
-    "packId": "20261031-57",
-    "sequence": 57,
+    "packId": "20261031-58",
+    "sequence": 58,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:02"
+    "updatedAt": "13:04"
   },
   "verified": true
 }
