@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261031-53 seq=53 exp=1793536950",
+      "advancedStatus": "pack_id=20261031-54 seq=54 exp=1793537192",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:42",
+      "lastChecked": "12:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-31",
-    "expiresAt": "2026-11-01 12:42",
+    "expiresAt": "2026-11-01 12:46",
     "items": [
       {
         "channel": "HRANA",
@@ -798,14 +798,28 @@
         "text": "The Judiciary of the Islamic Republic has announced that necessary measures to identify and seize all assets of Jafar Panahi, a famous Iranian filmmaker, have begun, and he has been summoned to prison to serve a sentence of five years and one month. This action continues judicial pressure on the director who won the Palme d'Or at the Cannes Festival last year with the film \"A Simple Collision.\"",
         "time": "12:39",
         "ts": 1793450371
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "The Inverse art school in Iran announced the seizure of assets, blocking of bank accounts, and filtering of its website. The founder stated these actions were taken without clear explanation or legal basis, and the asset confiscation process is ongoing. Fars news agency claimed that Alireza Ardoubadi's assets are seized and being confiscated, accusing him of propaganda against the regime.",
+        "time": "12:40",
+        "ts": 1793450430
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Reuters reported, quoting an informed official, that the Islamic Republic's negotiation delegation is present in Doha to continue talks with Qatari mediators. These negotiations are part of efforts to end the war between Iran and the United States. According to this official, the Iranian delegation's presence in Doha follows a break from negotiations in Tehran that lasted more than 12 hours on Friday.",
+        "time": "12:41",
+        "ts": 1793450462
       }
     ],
     "language": "en",
-    "packId": "20261031-53",
-    "sequence": 53,
+    "packId": "20261031-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:42"
+    "updatedAt": "12:46"
   },
   "verified": true
 }
