@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261031-51 seq=51 exp=1793536527",
+      "advancedStatus": "pack_id=20261031-52 seq=52 exp=1793536854",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:35",
+      "lastChecked": "12:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-31",
-    "expiresAt": "2026-11-01 12:35",
+    "expiresAt": "2026-11-01 12:40",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Donald Trump and Melania Trump welcomed children dressed as cartoon and movie characters for Halloween at the White House. At the same time, a flyover demonstration passed briefly over the event location.",
-        "time": "12:38",
-        "ts": 1793363926
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Mehdi Beigi, a member of the Iran International editorial team, commented on statements by Hossein Yekta, a commander in the IRGC, who said that people born in the 2000s are present next to missile launchers. He said the government tries to encourage teenagers to participate in the military and to put their education and knowledge at the service of military power.",
-        "time": "12:39",
-        "ts": 1793363969
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -798,14 +784,21 @@
         "text": "Lebanese Foreign Minister Yusuf Raji, at the Manama Dialogue conference, declared his country's solidarity with Bahrain and other Persian Gulf countries against attacks by the Islamic Republic and its proxy groups, emphasizing that no country has the right to use armed groups outside government control to advance its regional goals. Raji stated that Lebanon's solidarity with the Persian Gulf countries stems from an understanding of common threats to the security and stability of the region's countries. He described the situation in the Middle East as a fateful choice, where the region either remains entangled in wars and foreign interventions or establishes a new order based on state sovereignty, cooperation, and common security.",
         "time": "12:29",
         "ts": 1793449768
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "The Deputy of Tourism in Tehran Province reported the identification of nearly 800 Instagram pages in the tourism sector, which government officials consider \"unauthorized.\" These pages are subject to blocking by order of the Tehran prosecutor. This news was released following the prosecutor's order to block unauthorized tourism tour pages within one week.",
+        "time": "12:36",
+        "ts": 1793450182
       }
     ],
     "language": "en",
-    "packId": "20261031-51",
-    "sequence": 51,
+    "packId": "20261031-52",
+    "sequence": 52,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:35"
+    "updatedAt": "12:40"
   },
   "verified": true
 }
