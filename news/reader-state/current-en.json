@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261031-93 seq=93 exp=1793551546",
+      "advancedStatus": "pack_id=20261031-94 seq=94 exp=1793552185",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:45",
+      "lastChecked": "16:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-31",
-    "expiresAt": "2026-11-01 16:45",
+    "expiresAt": "2026-11-01 16:56",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Mark Carney, Prime Minister of Canada, announced during a meeting with Sheikh Khalid bin Mohammed Al Nahyan, Crown Prince of Abu Dhabi, that relations between the two countries have been elevated to a strategic partnership level with the signing of a free trade agreement and a $70 billion investment commitment. The leaders of the two countries issued a joint statement calling Iran's control over the three islands an \"occupation\" and demanded its end. In response, Esmail Baqaei, spokesperson for the Iranian Ministry of Foreign Affairs, strongly condemned this stance and called the three islands an eternal part of Iran's territory.",
-        "time": "16:51",
-        "ts": 1793379086
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Israeli forces blew up the homes of Palestinian families accused of carrying out a recent attack in the West Bank city of Hebron. In this attack, which took place on 22 October, two Israeli soldiers were killed.",
-        "time": "16:52",
-        "ts": 1793379143
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -882,14 +868,21 @@
         "text": "After the elections, Benjamin Netanyahu will remain the Prime Minister of Israel until the formation of the new government. This post examines what limitations Israeli law imposes on Netanyahu in the transitional government regarding military operations.",
         "time": "16:44",
         "ts": 1793465044
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "In three work-related incidents in the cities of Mashhad, Kamyaran, and Qom, two workers died and one other worker was injured.",
+        "time": "16:52",
+        "ts": 1793465571
       }
     ],
     "language": "en",
-    "packId": "20261031-93",
-    "sequence": 93,
+    "packId": "20261031-94",
+    "sequence": 94,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:45"
+    "updatedAt": "16:56"
   },
   "verified": true
 }
