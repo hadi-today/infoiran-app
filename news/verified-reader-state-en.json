@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261031-119 seq=119 exp=1793564412",
+      "advancedStatus": "pack_id=20261031-120 seq=120 exp=1793565251",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:20",
+      "lastChecked": "20:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-31",
-    "expiresAt": "2026-11-01 20:20",
+    "expiresAt": "2026-11-01 20:34",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Manshe Amir, a Middle East expert, said neither Benjamin Netanyahu nor Gadi Eizenkot can easily form the next government. He added that holding new elections will not necessarily change the result or end the political deadlock. According to Amir, forming a national unity government may be the only way for Israel to exit this deadlock.",
-        "time": "20:31",
-        "ts": 1793392275
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -833,14 +826,21 @@
         "text": "Mohammad Akraminia, spokesperson for the Islamic Republic Army, said that the purchase and contract for Sukhoi-35 fighters had been pursued for a long time and pilot training had been completed. He added that after the war, the Air Force fleet will appear stronger. The army's plan is to buy advanced fighters and expand the fleet.",
         "time": "20:15",
         "ts": 1793477728
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Reports indicate that a Chinese company, despite receiving Iranian oil, has not fulfilled its multi-billion dollar commitments to supply goods and services. The CEO of Iran Air said the company, despite committing to deliver 55 airplanes, has only delivered two old planes at prices several times the market rate. Ata Hosseinian said the simultaneous release of reports about oil trusts and Chinese companies' violations may be part of a guided process.",
+        "time": "20:30",
+        "ts": 1793478642
       }
     ],
     "language": "en",
-    "packId": "20261031-119",
-    "sequence": 119,
+    "packId": "20261031-120",
+    "sequence": 120,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:20"
+    "updatedAt": "20:34"
   },
   "verified": true
 }
