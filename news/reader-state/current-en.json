@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261031-106 seq=106 exp=1793556577",
+      "advancedStatus": "pack_id=20261031-107 seq=107 exp=1793556878",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:09",
+      "lastChecked": "18:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-31",
-    "expiresAt": "2026-11-01 18:09",
+    "expiresAt": "2026-11-01 18:14",
     "items": [
       {
         "channel": "Iran International",
@@ -875,14 +875,21 @@
         "text": "Halloween celebrations were held last night in various parts of Iran, with young people wearing special Halloween costumes and makeup in the streets. In some cities, the celebration turned into clashes between security forces and citizens. An interview with Maryam Dehkordi, journalist and member of IranWire editorial team.",
         "time": "18:07",
         "ts": 1793470071
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A report has been published about the largest theft in history, in which 6.3 billion dollars were stolen in 30 minutes.",
+        "time": "18:10",
+        "ts": 1793470221
       }
     ],
     "language": "en",
-    "packId": "20261031-106",
-    "sequence": 106,
+    "packId": "20261031-107",
+    "sequence": 107,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:09"
+    "updatedAt": "18:14"
   },
   "verified": true
 }
