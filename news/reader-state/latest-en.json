@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261031-74 seq=74 exp=1793543742",
+      "advancedStatus": "pack_id=20261031-75 seq=75 exp=1793544431",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:35",
+      "lastChecked": "14:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-31",
-    "expiresAt": "2026-11-01 14:35",
+    "expiresAt": "2026-11-01 14:47",
     "items": [
-      {
-        "channel": "Vahid Online",
-        "language": "en",
-        "text": "Friedrich Merz, Chancellor of Germany, announced that the German government is coordinating and strengthening diplomatic efforts to end the Iran war as soon as possible. He emphasized that this conflict has no military solution and must be resolved through diplomacy. He also noted that the increase in energy prices over the past eight months has imposed costs exceeding 100 billion euros on Europe.",
-        "time": "14:46",
-        "ts": 1793371583
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "Houthi forces supported by the Islamic Republic in Yemen released images on Saturday, 9 Aban, which they said show their forces repelling Saudi Arabian military reinforcements and destroying several military vehicles in the east of Al-Jawf province in northern Yemen.",
         "time": "14:23",
         "ts": 1793456606
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Herana News Agency reported that the assets of the Inverse Art Academy and its founder, Alireza Ardoubadi, have been seized and the process of confiscation is ongoing. The academy's website has been filtered and its bank accounts and payment gateways have been blocked. Fars News Agency cited accusations of \"propaganda against the regime\" and \"insulting Shia\" against Ardoubadi as the reason for these actions.",
+        "time": "14:44",
+        "ts": 1793457893
       }
     ],
     "language": "en",
-    "packId": "20261031-74",
-    "sequence": 74,
+    "packId": "20261031-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:35"
+    "updatedAt": "14:47"
   },
   "verified": true
 }
