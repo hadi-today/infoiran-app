@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261031-120 seq=120 exp=1793565251",
+      "advancedStatus": "pack_id=20261031-121 seq=121 exp=1793565549",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:34",
+      "lastChecked": "20:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-31",
-    "expiresAt": "2026-11-01 20:34",
+    "expiresAt": "2026-11-01 20:39",
     "items": [
       {
         "channel": "Iran International",
@@ -833,14 +833,21 @@
         "text": "Reports indicate that a Chinese company, despite receiving Iranian oil, has not fulfilled its multi-billion dollar commitments to supply goods and services. The CEO of Iran Air said the company, despite committing to deliver 55 airplanes, has only delivered two old planes at prices several times the market rate. Ata Hosseinian said the simultaneous release of reports about oil trusts and Chinese companies' violations may be part of a guided process.",
         "time": "20:30",
         "ts": 1793478642
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Fars News Agency reported that the Central Bank intends to exclude car and mobile phone importers from the official currency market. Ahmad Alavi, an economist, said this action will not solve the currency crisis and will lead to higher prices and lower product quality. He added that Iran's structural economic problems will not be resolved by such decisions and consumers will bear the highest costs.",
+        "time": "20:34",
+        "ts": 1793478898
       }
     ],
     "language": "en",
-    "packId": "20261031-120",
-    "sequence": 120,
+    "packId": "20261031-121",
+    "sequence": 121,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:34"
+    "updatedAt": "20:39"
   },
   "verified": true
 }
