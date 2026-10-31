@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261031-20 seq=20 exp=1793520717",
+      "advancedStatus": "pack_id=20261031-21 seq=21 exp=1793521027",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:11",
+      "lastChecked": "08:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-31",
-    "expiresAt": "2026-11-01 08:11",
+    "expiresAt": "2026-11-01 08:17",
     "items": [
       {
         "channel": "Iran International",
@@ -756,14 +756,21 @@
         "text": "Afshin Azizi, a citizen from Urmia, has been arrested to serve a three-year prison sentence and transferred to the prison in that city.",
         "time": "08:02",
         "ts": 1793433721
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Saeed Mehrzadi, Director General of the Inspection Office of the Food and Drug Organization, reported the identification of a pharmaceutical fraud worth 150 million tomans, in which the contents of the original medicine were replaced with distilled water. He said the vial belonged to another medicine that was emptied, filled with distilled water, and labeled as the intended medicine for sale as the original drug. Mehrzadi warned that buying medicine from cyberspace and unofficial markets can endanger patients' health.",
+        "time": "08:12",
+        "ts": 1793434350
       }
     ],
     "language": "en",
-    "packId": "20261031-20",
-    "sequence": 20,
+    "packId": "20261031-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:11"
+    "updatedAt": "08:17"
   },
   "verified": true
 }
