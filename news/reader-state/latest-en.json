@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261031-88 seq=88 exp=1793548860",
+      "advancedStatus": "pack_id=20261031-89 seq=89 exp=1793548957",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:01",
+      "lastChecked": "16:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-10-31",
-    "expiresAt": "2026-11-01 16:01",
+    "expiresAt": "2026-11-01 16:02",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A video sent to Iran International shows a poster with the image of Cyrus the Great and Prince Reza Pahlavi installed on one of the public passages in Tehran.",
-        "time": "16:01",
-        "ts": 1793376094
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -903,14 +896,21 @@
         "text": "Donald Trump, President of the United States, said in an interview that the issue of Cuba will be resolved within two years. He added that they will first finish the Iran issue and then move on to Cuba. Trump also said that Marco Rubio is examining the issue very carefully and that his parents are from Cuba.",
         "time": "15:57",
         "ts": 1793462255
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Protesting youth gathered on Saturday, 9 Aban, in front of the Brandenburg Gate in Berlin following a call by the \"GenZ regelt\" movement for nationwide protests in Germany. Thousands of young people are expected to take to the streets in more than 30 German cities, including Berlin, Frankfurt, and Cologne.",
+        "time": "15:58",
+        "ts": 1793462333
       }
     ],
     "language": "en",
-    "packId": "20261031-88",
-    "sequence": 88,
+    "packId": "20261031-89",
+    "sequence": 89,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:01"
+    "updatedAt": "16:02"
   },
   "verified": true
 }
