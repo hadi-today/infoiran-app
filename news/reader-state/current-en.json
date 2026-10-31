@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261031-113 seq=113 exp=1793559565",
+      "advancedStatus": "pack_id=20261031-114 seq=114 exp=1793559661",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:59",
+      "lastChecked": "19:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-31",
-    "expiresAt": "2026-11-01 18:59",
+    "expiresAt": "2026-11-01 19:01",
     "items": [
       {
         "channel": "HRANA",
@@ -889,14 +889,21 @@
         "text": "Harry Kane showed his 2026 Ballon d'Or to 75,000 spectators at Allianz Arena before the Bayern Munich vs Dortmund match. He entered the field wearing shoes with golden soles and the names of his four children. Five days after the Ballon d'Or ceremony in London, Bayern Munich and the German Football League honored him again.",
         "time": "18:54",
         "ts": 1793472898
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The Deputy of Tourism at Tehran's Cultural Heritage Organization reported identifying nearly 800 Instagram pages active in organizing unauthorized tourism tours and said documents have been submitted for legal action. He cited lack of insurance coverage and non-compliance with Islamic Republic laws as reasons for operating outside permitted frameworks. Footage of group dancing and celebrations in some tours indicates that social behaviors and violations are also targeted in these actions.",
+        "time": "18:57",
+        "ts": 1793473047
       }
     ],
     "language": "en",
-    "packId": "20261031-113",
-    "sequence": 113,
+    "packId": "20261031-114",
+    "sequence": 114,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:59"
+    "updatedAt": "19:01"
   },
   "verified": true
 }
