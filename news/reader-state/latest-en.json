@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261031-55 seq=55 exp=1793537524",
+      "advancedStatus": "pack_id=20261031-56 seq=56 exp=1793537851",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:52",
+      "lastChecked": "12:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-31",
-    "expiresAt": "2026-11-01 12:52",
+    "expiresAt": "2026-11-01 12:57",
     "items": [
       {
         "channel": "HRANA",
@@ -786,6 +786,13 @@
         "ts": 1793449768
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "In Tehran, during the pursuit of theft suspects by law enforcement, a woman was injured by a police officer's bullet and died in the hospital. The police described the shooting as accidental and announced the formation of a judicial case.",
+        "time": "12:33",
+        "ts": 1793450029
+      },
+      {
         "channel": "Vahid Online",
         "language": "en",
         "text": "The Deputy of Tourism in Tehran Province reported the identification of nearly 800 Instagram pages in the tourism sector, which government officials consider \"unauthorized.\" These pages are subject to blocking by order of the Tehran prosecutor. This news was released following the prosecutor's order to block unauthorized tourism tour pages within one week.",
@@ -822,11 +829,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261031-55",
-    "sequence": 55,
+    "packId": "20261031-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:52"
+    "updatedAt": "12:57"
   },
   "verified": true
 }
