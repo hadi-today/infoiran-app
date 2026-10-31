@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261031-30 seq=30 exp=1793526163",
+      "advancedStatus": "pack_id=20261031-31 seq=31 exp=1793527064",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:42",
+      "lastChecked": "09:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-31",
-    "expiresAt": "2026-11-01 09:42",
+    "expiresAt": "2026-11-01 09:57",
     "items": [
       {
         "channel": "Iran International",
@@ -784,14 +784,21 @@
         "text": "Fars News Agency reported that two boats in the waters of the Strait of Hormuz, about 14 miles south of Qeshm Island, were targeted by a drone attack, resulting in two missing and two injured. Fars wrote that these boats belonged to fishermen from the south of Qeshm Island and attributed the attack to the enemy. In recent days, attacks by the Revolutionary Guard forces on vessels have increased.",
         "time": "09:37",
         "ts": 1793439463
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "At the Manama security meeting, Bahraini officials warned about threats from the Islamic Republic and tensions in the region's waterways. Bahrain's interior minister called for strengthening security cooperation, and the country's crown prince emphasized international cooperation to secure the Strait of Hormuz and Bab al-Mandab.",
+        "time": "09:52",
+        "ts": 1793440363
       }
     ],
     "language": "en",
-    "packId": "20261031-30",
-    "sequence": 30,
+    "packId": "20261031-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:42"
+    "updatedAt": "09:57"
   },
   "verified": true
 }
