@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261031-39 seq=39 exp=1793530295",
+      "advancedStatus": "pack_id=20261031-40 seq=40 exp=1793530539",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:51",
+      "lastChecked": "10:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-10-31",
-    "expiresAt": "2026-11-01 10:51",
+    "expiresAt": "2026-11-01 10:55",
     "items": [
       {
         "channel": "Iran International",
@@ -805,14 +805,21 @@
         "text": "The media of the Supreme Leader of the Islamic Republic reported that Mojtaba Khamenei ordered in a meeting with senior commanders of the armed forces that any level and type of threat should be met with an \"immediate, effective response without geographical limitation.\" Khamenei emphasized that if military attacks resume or officials are targeted, the armed forces of the Islamic Republic will determine the conditions for ending the conflict. He stressed strengthening military intelligence structures, developing defensive and security capabilities using new technologies, and enhancing indigenous defense in doctrine and tactics.",
         "time": "10:47",
         "ts": 1793443678
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Mohammad Amin Valizadeh, head of West Azerbaijan University of Medical Sciences, announced that the hospital bed index in this province is currently 1.7 per thousand people, and to reach the national average of 2.2 per thousand people, 2000 new hospital beds need to be provided.",
+        "time": "10:51",
+        "ts": 1793443862
       }
     ],
     "language": "en",
-    "packId": "20261031-39",
-    "sequence": 39,
+    "packId": "20261031-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:51"
+    "updatedAt": "10:55"
   },
   "verified": true
 }
