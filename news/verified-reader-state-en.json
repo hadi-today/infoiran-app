@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-91 seq=91 exp=1793633797",
+      "advancedStatus": "pack_id=20261101-92 seq=92 exp=1793634002",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:36",
+      "lastChecked": "15:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 15:36",
+    "expiresAt": "2026-11-02 15:40",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Israel's Channel 11 reported that the US government informed Gulf countries that Mojtaba Khamenei ordered senior military commanders to respond to a possible attack on Iran immediately, effectively, and without geographical limitations.",
-        "time": "15:36",
-        "ts": 1793461009
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A video received by Iran International shows that on Saturday, 9 Aban, a gathering was held in front of the Embassy of the Islamic Republic in London in support of the people of Iran and their national revolution.",
-        "time": "15:37",
-        "ts": 1793461037
-      },
       {
         "channel": "Vahid Online",
         "language": "en",
@@ -835,6 +821,13 @@
         "ts": 1793546788
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Kumar Royan and Sadruddin Esmaeilzadeh, two citizens from Oshnavieh, were reportedly detained by security forces and transferred to an unknown location.",
+        "time": "15:30",
+        "ts": 1793547056
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Abbas Aliabadi, the Minister of Energy, said in a nationwide power outage drill that they recently received a letter from the Imam emphasizing moving towards a direction where homes not only become independent from external power supply but can also sell or transfer their surplus electricity to neighbors. He added that in conditions where an enemy could attack at any moment, they must think about network resilience. He continued that the use of emergency generators has been communicated to them as a fundamental strategy by the Passive Defense Organization, and good actions have been taken in this regard.",
@@ -847,14 +840,21 @@
         "text": "Saudi Arabia's Foreign Ministry called for immediate global action to ensure maritime security and protect international trade following an attack on the Qatari liquefied natural gas ship \"Al Maydah\" in the Persian Gulf. The ministry strongly condemned the attack and expressed opposition to any action threatening shipping security and global energy supply. Saudi Arabia also announced solidarity with Qatar in all its measures to protect ships and international trade security.",
         "time": "15:32",
         "ts": 1793547143
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video sent to Iran International shows a woman performing the royal anthem in front of the National Garden gate in Tehran. The sender said she sang this anthem on the occasion of Prince Reza Pahlavi's birthday.",
+        "time": "15:34",
+        "ts": 1793547266
       }
     ],
     "language": "en",
-    "packId": "20261101-91",
-    "sequence": 91,
+    "packId": "20261101-92",
+    "sequence": 92,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:36"
+    "updatedAt": "15:40"
   },
   "verified": true
 }
