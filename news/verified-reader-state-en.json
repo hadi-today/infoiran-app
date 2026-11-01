@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-46 seq=46 exp=1793614161",
+      "advancedStatus": "pack_id=20261101-47 seq=47 exp=1793614258",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:09",
+      "lastChecked": "10:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 10:09",
+    "expiresAt": "2026-11-02 10:10",
     "items": [
       {
         "channel": "HRANA",
@@ -875,14 +875,21 @@
         "text": "Today, Sunday, a group of Social Security retirees protested in front of the organization's buildings in the cities of Shush and Ahvaz. Their demands include improving living conditions, increasing salaries and purchasing power, controlling inflation and price hikes, creating job opportunities, reducing housing rents, and access to free education, healthcare, and social services.",
         "time": "10:05",
         "ts": 1793527550
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Esmail Kowsari, a member of the Parliament's National Security Commission, said that until the seven clauses announced by the Secretary of the Supreme National Security Council are implemented, they will not enter negotiations with Washington. He added that at this stage, they cannot easily accept negotiations and until these conditions are operational, there will be no negotiations with the Americans. Kowsari also said that Americans have not adhered to their commitments in previous negotiations, and for this reason, they are not optimistic about the US.",
+        "time": "10:07",
+        "ts": 1793527621
       }
     ],
     "language": "en",
-    "packId": "20261101-46",
-    "sequence": 46,
+    "packId": "20261101-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:09"
+    "updatedAt": "10:10"
   },
   "verified": true
 }
