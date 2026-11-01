@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-13 seq=13 exp=1793597844",
+      "advancedStatus": "pack_id=20261101-14 seq=14 exp=1793598122",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:37",
+      "lastChecked": "05:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 05:37",
+    "expiresAt": "2026-11-02 05:42",
     "items": [
       {
         "channel": "Iran International",
@@ -847,14 +847,21 @@
         "text": "Iranian protests in Stockholm have entered their eleventh month. According to the organizers, these protests have continued uninterrupted in opposition to executions, suppression of protesters, political arrests, and human rights violations in Iran.",
         "time": "05:36",
         "ts": 1793511411
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Chazabeh border crossing between Iran and Iraq remains closed, and the official protest of the Islamic Republic has so far not changed Baghdad's decision. Protests against the closure of this crossing continue in Maysan province in Iraq, and groups close to Tehran are demanding its immediate reopening. Iraqi officials have cited technical and security problems as the reason for the border closure.",
+        "time": "05:38",
+        "ts": 1793511503
       }
     ],
     "language": "en",
-    "packId": "20261101-13",
-    "sequence": 13,
+    "packId": "20261101-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:37"
+    "updatedAt": "05:42"
   },
   "verified": true
 }
