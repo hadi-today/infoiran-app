@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-79 seq=79 exp=1793628680",
+      "advancedStatus": "pack_id=20261101-80 seq=80 exp=1793628771",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:11",
+      "lastChecked": "14:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 14:11",
+    "expiresAt": "2026-11-02 14:12",
     "items": [
       {
         "channel": "Iran International",
@@ -833,14 +833,21 @@
         "text": "Swiss police used water cannons, tear gas, and plastic bullets early Sunday, 10 Aban, to disperse protesters in central Zurich. Several hundred people gathered following calls on social media for protests similar to recent ones in France and other countries. Police reported masked protesters placed trash bins and other objects in the street and set fires, and that fireworks, bottles, and stones were thrown at emergency forces, damaging some shops and public transport stations.",
         "time": "14:08",
         "ts": 1793542128
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Videos received by Iran International show the burial ceremony of Abolfazl Nejadfathi in Shushtar County on Sunday, 3 Aban. According to received reports, this young man was shot dead by officers at a checkpoint in the beltway area of Shushtar city on Friday, 1 Aban.",
+        "time": "14:08",
+        "ts": 1793542129
       }
     ],
     "language": "en",
-    "packId": "20261101-79",
-    "sequence": 79,
+    "packId": "20261101-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:11"
+    "updatedAt": "14:12"
   },
   "verified": true
 }
