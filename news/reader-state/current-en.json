@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-100 seq=100 exp=1793635808",
+      "advancedStatus": "pack_id=20261101-101 seq=101 exp=1793636433",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:10",
+      "lastChecked": "16:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 16:10",
+    "expiresAt": "2026-11-02 16:20",
     "items": [
       {
         "channel": "Iran International",
@@ -840,14 +840,21 @@
         "text": "Masoud Pezeshkian said in a government information council meeting that the adjustment of gasoline, electricity, and diesel prices will be done gradually and with planning to use the resulting resources for supplying goods and improving people's livelihoods. He added that if electricity consumption is reduced, significant financial resources will be freed that can be used to increase employees' salaries. Pezeshkian also said that if savings are made in gas, diesel, and gasoline consumption, staff salaries can be increased and their living conditions improved.",
         "time": "16:08",
         "ts": 1793549292
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Ata Hasanian, an economic and energy journalist, mentioned that officials of the Islamic Republic are worried about the outbreak of war and said that the focus of the authorities is not on the development of the country but on preparing for conditions where energy infrastructure might be damaged and access to electricity, gas, gasoline, and diesel could be disrupted.",
+        "time": "16:18",
+        "ts": 1793549897
       }
     ],
     "language": "en",
-    "packId": "20261101-100",
-    "sequence": 100,
+    "packId": "20261101-101",
+    "sequence": 101,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:10"
+    "updatedAt": "16:20"
   },
   "verified": true
 }
