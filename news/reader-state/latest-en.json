@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-97 seq=97 exp=1793634901",
+      "advancedStatus": "pack_id=20261101-98 seq=98 exp=1793635200",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:55",
+      "lastChecked": "16:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 15:55",
+    "expiresAt": "2026-11-02 16:00",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Donald Trump, President of the United States, said in an interview that the issue of Cuba will be resolved within two years. He added that they will first finish the Iran issue and then move on to Cuba. Trump also said that Marco Rubio is examining the issue very carefully and that his parents are from Cuba.",
-        "time": "15:57",
-        "ts": 1793462255
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Protesting youth gathered on Saturday, 9 Aban, in front of the Brandenburg Gate in Berlin following a call by the \"GenZ regelt\" movement for nationwide protests in Germany. Thousands of young people are expected to take to the streets in more than 30 German cities, including Berlin, Frankfurt, and Cologne.",
-        "time": "15:58",
-        "ts": 1793462333
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -833,14 +819,21 @@
         "text": "Qatar has recently become one of the main mediators between the Islamic Republic and the United States. Attacks by the Islamic Republic on energy facilities and vessels related to Qatar have caused heavy damages to the country. However, Doha insists on its mediating role.",
         "time": "15:53",
         "ts": 1793548405
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Turki Al-Maliki, spokesperson for the Saudi-led coalition, announced that a ballistic missile and a Houthi drone launched towards southern Saudi Arabia were intercepted and destroyed. Al-Maliki reported in two separate messages on his official X account the destruction of the ballistic missile by air defense and then the interception and destruction of the drone. The exact location of the interception and the possible targets of the missile and drone were not specified.",
+        "time": "15:58",
+        "ts": 1793548709
       }
     ],
     "language": "en",
-    "packId": "20261101-97",
-    "sequence": 97,
+    "packId": "20261101-98",
+    "sequence": 98,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:55"
+    "updatedAt": "16:00"
   },
   "verified": true
 }
