@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-98 seq=98 exp=1793635200",
+      "advancedStatus": "pack_id=20261101-99 seq=99 exp=1793635292",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:00",
+      "lastChecked": "16:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 16:00",
+    "expiresAt": "2026-11-02 16:01",
     "items": [
       {
         "channel": "Iran International",
@@ -826,14 +826,21 @@
         "text": "Turki Al-Maliki, spokesperson for the Saudi-led coalition, announced that a ballistic missile and a Houthi drone launched towards southern Saudi Arabia were intercepted and destroyed. Al-Maliki reported in two separate messages on his official X account the destruction of the ballistic missile by air defense and then the interception and destruction of the drone. The exact location of the interception and the possible targets of the missile and drone were not specified.",
         "time": "15:58",
         "ts": 1793548709
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "On the fourth and final day of the World Freestyle Wrestling Championships in Astana, Kazakhstan, Mohammad Nokhodi won the silver medal and Amir Mohammad Yazdani won the bronze medal. Iran ranked third after the United States and Russia. This report is based on the assessment of sports journalist Mehdi Rostampour.",
+        "time": "15:58",
+        "ts": 1793548736
       }
     ],
     "language": "en",
-    "packId": "20261101-98",
-    "sequence": 98,
+    "packId": "20261101-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:00"
+    "updatedAt": "16:01"
   },
   "verified": true
 }
