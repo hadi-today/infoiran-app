@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-65 seq=65 exp=1793623411",
+      "advancedStatus": "pack_id=20261101-66 seq=66 exp=1793623774",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:43",
+      "lastChecked": "12:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 12:43",
+    "expiresAt": "2026-11-02 12:49",
     "items": [
       {
         "channel": "Iran International",
@@ -854,14 +854,21 @@
         "text": "Today, a group of Social Security retirees held a protest in front of the Social Security Organization buildings in Rasht and Dezful. These retirees demanded attention to their medical and livelihood problems. Also, in Rasht, these retirees protested against death sentences by chanting slogans.",
         "time": "12:40",
         "ts": 1793536800
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "Five detainees from the January 2026 protests named Shahab Zahdi, Amir Reza Rezaei, Vahid Ghahremani, Emran Amani, and a cleric named Mehdi have been sentenced to death. The death sentence of Mohammad Naderi, a political prisoner, has also been confirmed by the Supreme Court. These individuals were sentenced in connection with cases including the arson of a Basij base and charges related to Israel.",
+        "time": "12:47",
+        "ts": 1793537231
       }
     ],
     "language": "en",
-    "packId": "20261101-65",
-    "sequence": 65,
+    "packId": "20261101-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:43"
+    "updatedAt": "12:49"
   },
   "verified": true
 }
