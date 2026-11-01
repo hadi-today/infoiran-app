@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-99 seq=99 exp=1793635292",
+      "advancedStatus": "pack_id=20261101-100 seq=100 exp=1793635808",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:01",
+      "lastChecked": "16:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 16:01",
+    "expiresAt": "2026-11-02 16:10",
     "items": [
       {
         "channel": "Iran International",
@@ -833,14 +833,21 @@
         "text": "On the fourth and final day of the World Freestyle Wrestling Championships in Astana, Kazakhstan, Mohammad Nokhodi won the silver medal and Amir Mohammad Yazdani won the bronze medal. Iran ranked third after the United States and Russia. This report is based on the assessment of sports journalist Mehdi Rostampour.",
         "time": "15:58",
         "ts": 1793548736
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Masoud Pezeshkian said in a government information council meeting that the adjustment of gasoline, electricity, and diesel prices will be done gradually and with planning to use the resulting resources for supplying goods and improving people's livelihoods. He added that if electricity consumption is reduced, significant financial resources will be freed that can be used to increase employees' salaries. Pezeshkian also said that if savings are made in gas, diesel, and gasoline consumption, staff salaries can be increased and their living conditions improved.",
+        "time": "16:08",
+        "ts": 1793549292
       }
     ],
     "language": "en",
-    "packId": "20261101-99",
-    "sequence": 99,
+    "packId": "20261101-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:01"
+    "updatedAt": "16:10"
   },
   "verified": true
 }
