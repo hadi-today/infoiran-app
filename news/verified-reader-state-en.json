@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-12 seq=12 exp=1793596810",
+      "advancedStatus": "pack_id=20261101-13 seq=13 exp=1793597844",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:20",
+      "lastChecked": "05:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 05:20",
+    "expiresAt": "2026-11-02 05:37",
     "items": [
       {
         "channel": "Iran International",
@@ -840,14 +840,21 @@
         "text": "Donald Trump, the President of the United States, said the Islamic Republic wants an agreement but is not reliable in its commitments. He referred to the remaining \"one or two\" nuclear targets, including Mount Kolang, and said the US could attack them \"within 10 minutes.\"",
         "time": "05:16",
         "ts": 1793510188
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Iranian protests in Stockholm have entered their eleventh month. According to the organizers, these protests have continued uninterrupted in opposition to executions, suppression of protesters, political arrests, and human rights violations in Iran.",
+        "time": "05:36",
+        "ts": 1793511411
       }
     ],
     "language": "en",
-    "packId": "20261101-12",
-    "sequence": 12,
+    "packId": "20261101-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:20"
+    "updatedAt": "05:37"
   },
   "verified": true
 }
