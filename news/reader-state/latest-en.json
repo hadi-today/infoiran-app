@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-96 seq=96 exp=1793634713",
+      "advancedStatus": "pack_id=20261101-97 seq=97 exp=1793634901",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:51",
+      "lastChecked": "15:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 15:51",
+    "expiresAt": "2026-11-02 15:55",
     "items": [
       {
         "channel": "Iran International",
@@ -826,14 +826,21 @@
         "text": "Iranian media reported that Hamid Alidousti, former player of Iran's national football team and Homa club and technical manager of Chadormalu team, died today Sunday after battling cancer.",
         "time": "15:48",
         "ts": 1793548098
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Qatar has recently become one of the main mediators between the Islamic Republic and the United States. Attacks by the Islamic Republic on energy facilities and vessels related to Qatar have caused heavy damages to the country. However, Doha insists on its mediating role.",
+        "time": "15:53",
+        "ts": 1793548405
       }
     ],
     "language": "en",
-    "packId": "20261101-96",
-    "sequence": 96,
+    "packId": "20261101-97",
+    "sequence": 97,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:51"
+    "updatedAt": "15:55"
   },
   "verified": true
 }
