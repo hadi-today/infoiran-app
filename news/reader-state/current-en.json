@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-68 seq=68 exp=1793624342",
+      "advancedStatus": "pack_id=20261101-69 seq=69 exp=1793624435",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:59",
+      "lastChecked": "13:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 12:59",
+    "expiresAt": "2026-11-02 13:00",
     "items": [
       {
         "channel": "Vahid Online",
@@ -861,14 +861,21 @@
         "text": "Reuters reported, quoting an informed official, that negotiators of the Islamic Republic of Iran are talking with Qatari mediators in Doha for the third consecutive day. The goal of these talks has been announced as an effort to reach an agreement to end the war between the US and Iran.",
         "time": "12:51",
         "ts": 1793537494
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mehdi Taj, president of the Iranian Football Federation, expressed hope that the Iran under-23 team could qualify for the Olympics after years of failure during the introduction ceremony of Yahya Golmohammadi as the new head coach. Taj praised the selection of Golmohammadi, stating that he and Amir Ghalenoei have won 18 championship titles combined and are among the best coaches in the country. He also pointed to the capacity of young players in the Premier League, noting that 48 players under 21 play in the league and they are the target market for Golmohammadi and his colleagues.",
+        "time": "12:57",
+        "ts": 1793537879
       }
     ],
     "language": "en",
-    "packId": "20261101-68",
-    "sequence": 68,
+    "packId": "20261101-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:59"
+    "updatedAt": "13:00"
   },
   "verified": true
 }
