@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-57 seq=57 exp=1793619330",
+      "advancedStatus": "pack_id=20261101-58 seq=58 exp=1793619543",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:35",
+      "lastChecked": "11:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 11:35",
+    "expiresAt": "2026-11-02 11:39",
     "items": [
       {
         "channel": "Iran International",
@@ -863,6 +863,13 @@
         "ts": 1793532213
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Rahimian Hospital in Alvand city, the only active hospital in Alborz county of Qazvin province, lacks an independent ambulance. Reza Darvishvand, CEO of the hospital's charity, stated that in severe patient conditions, an ambulance must be dispatched from Qazvin or the patient must be transferred to medical centers by private vehicle. This process sometimes takes about 40 minutes and can endanger patients' health.",
+        "time": "11:28",
+        "ts": 1793532530
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "A sandstorm swept through Haftkel city in Khuzestan province on Sunday, 10 Aban, covering the sky of the city with thick dust.",
@@ -878,11 +885,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261101-57",
-    "sequence": 57,
+    "packId": "20261101-58",
+    "sequence": 58,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:35"
+    "updatedAt": "11:39"
   },
   "verified": true
 }
