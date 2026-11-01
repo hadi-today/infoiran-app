@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-50 seq=50 exp=1793615959",
+      "advancedStatus": "pack_id=20261101-51 seq=51 exp=1793616264",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:39",
+      "lastChecked": "10:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 10:39",
+    "expiresAt": "2026-11-02 10:44",
     "items": [
       {
         "channel": "Iran International",
@@ -882,14 +882,21 @@
         "text": "According to videos received by Iran International, a group of Iranians residing in Norway held a ceremony commemorating Cyrus the Great in the city of Stavanger on Saturday, 9 Aban, and honored the memory of the immortal figures of the national revolution.",
         "time": "10:33",
         "ts": 1793529227
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Mohammad Sadegh Rezaei, head of Mazandaran University of Medical Sciences, reported a shortage of ambulances in the province and said that supplying 160 ambulances is essential for the complete renovation of Mazandaran's emergency fleet. The head of pre-hospital emergency services in Mazandaran also emphasized the need to increase the number of emergency bases and strengthen the rescue fleet due to the province's fixed and floating population and the high volume of traffic accidents.",
+        "time": "10:43",
+        "ts": 1793529808
       }
     ],
     "language": "en",
-    "packId": "20261101-50",
-    "sequence": 50,
+    "packId": "20261101-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:39"
+    "updatedAt": "10:44"
   },
   "verified": true
 }
