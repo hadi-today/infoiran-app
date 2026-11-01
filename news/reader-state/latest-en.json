@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-49 seq=49 exp=1793615654",
+      "advancedStatus": "pack_id=20261101-50 seq=50 exp=1793615959",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:34",
+      "lastChecked": "10:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 10:34",
+    "expiresAt": "2026-11-02 10:39",
     "items": [
       {
         "channel": "Iran International",
@@ -875,14 +875,21 @@
         "text": "Portuguese riot police attacked protesters with batons and shields early Sunday morning, November 1, in Rossio Square in central Lisbon and dismantled their tent camp. The camp had been set up in protest against the housing crisis. After the police intervention, protesters dispersed in the historic city center streets and created barriers using available materials.",
         "time": "10:29",
         "ts": 1793528951
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "According to videos received by Iran International, a group of Iranians residing in Norway held a ceremony commemorating Cyrus the Great in the city of Stavanger on Saturday, 9 Aban, and honored the memory of the immortal figures of the national revolution.",
+        "time": "10:33",
+        "ts": 1793529227
       }
     ],
     "language": "en",
-    "packId": "20261101-49",
-    "sequence": 49,
+    "packId": "20261101-50",
+    "sequence": 50,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:34"
+    "updatedAt": "10:39"
   },
   "verified": true
 }
