@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-43 seq=43 exp=1793613346",
+      "advancedStatus": "pack_id=20261101-44 seq=44 exp=1793613547",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:55",
+      "lastChecked": "09:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 09:55",
+    "expiresAt": "2026-11-02 09:59",
     "items": [
       {
         "channel": "Iran International",
@@ -875,14 +875,21 @@
         "text": "The news website Ynet reported that the Israeli army has completed its preparations for a new round of conflict with the Islamic Republic, and the start of operations depends on the decision of Donald Trump, the President of the United States. Political and military coordination between Israel and the US continues, and Benjamin Netanyahu, the Prime Minister of Israel, has reviewed operational scenarios in various meetings.",
         "time": "09:51",
         "ts": 1793526713
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Today, Sunday 10 Aban, a group of retired steel industry workers in Isfahan held a protest gathering in the city. The protest was against the performance of the supplementary insurance \"Dana\", issues related to medical services, incomplete implementation of salary adjustments, and other livelihood demands of these citizens.",
+        "time": "09:55",
+        "ts": 1793526944
       }
     ],
     "language": "en",
-    "packId": "20261101-43",
-    "sequence": 43,
+    "packId": "20261101-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:55"
+    "updatedAt": "09:59"
   },
   "verified": true
 }
