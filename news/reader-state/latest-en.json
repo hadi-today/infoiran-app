@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-56 seq=56 exp=1793619234",
+      "advancedStatus": "pack_id=20261101-57 seq=57 exp=1793619330",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:33",
+      "lastChecked": "11:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 11:33",
+    "expiresAt": "2026-11-02 11:35",
     "items": [
       {
         "channel": "Iran International",
@@ -868,14 +868,21 @@
         "text": "A sandstorm swept through Haftkel city in Khuzestan province on Sunday, 10 Aban, covering the sky of the city with thick dust.",
         "time": "11:31",
         "ts": 1793532719
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Reports indicate that various costs are being imposed on families in public schools. It was reported that a public school charged 5 million tomans in tuition but lacks facilities, and schools take money from parents under various pretexts. It was also reported that public schools even pass on water, electricity, and gas bills to parents.",
+        "time": "11:32",
+        "ts": 1793532745
       }
     ],
     "language": "en",
-    "packId": "20261101-56",
-    "sequence": 56,
+    "packId": "20261101-57",
+    "sequence": 57,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:33"
+    "updatedAt": "11:35"
   },
   "verified": true
 }
