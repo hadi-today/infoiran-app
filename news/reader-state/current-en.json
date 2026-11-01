@@ -1,27 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261031-133 seq=133 exp=1793576455",
+      "advancedStatus": "pack_id=20261101-01 seq=1 exp=1793578437",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:40",
+      "lastChecked": "00:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-10-31",
-    "expiresAt": "2026-11-01 23:40",
+    "date": "2026-11-01",
+    "expiresAt": "2026-11-02 00:13",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The Israeli army announced that Ihab Jamil Abutqiya and Ibrahim Jihad Muhammad Abu Asheiba, commanders of Hamas's military wing, were killed in an attack. According to the army, these two commanders had planned attacks on civilians and Israeli forces and were trying to rebuild Hamas's military capabilities. It was also reported that four other Hamas members were killed in southern Gaza and two weapons depots of the group were targeted in attacks.",
-        "time": "00:03",
-        "ts": 1793404998
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -812,14 +805,21 @@
         "text": "The Wall Street Journal reported, citing informed sources, that Trump spoke by phone with Netanyahu on Saturday morning to consult with his Middle Eastern ally as the US prepares to resume attacks on the Islamic Republic. This call came days after Trump held a meeting at the White House with senior military commanders about options for resuming extensive combat operations in the region. The Wall Street Journal also noted the political pressures facing both leaders.",
         "time": "23:36",
         "ts": 1793489811
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Scott Bessent, the US Treasury Secretary, said in an interview with Kambiz Tavana that there has never been anything like the combination of sanctions and blockade against the Islamic Republic in history. Bessent added that the air and sea blockade of Iran is \"impenetrable\" and that the country faces the harshest economic isolation imposed by the US.",
+        "time": "00:09",
+        "ts": 1793491781
       }
     ],
     "language": "en",
-    "packId": "20261031-133",
-    "sequence": 133,
+    "packId": "20261101-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:40"
+    "updatedAt": "00:13"
   },
   "verified": true
 }
