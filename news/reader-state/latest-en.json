@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-117 seq=117 exp=1793645072",
+      "advancedStatus": "pack_id=20261101-118 seq=118 exp=1793645656",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:44",
+      "lastChecked": "18:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 18:44",
+    "expiresAt": "2026-11-02 18:54",
     "items": [
       {
         "channel": "Iran International",
@@ -812,14 +812,21 @@
         "text": "Axios reported that Benjamin Netanyahu, Prime Minister of Israel, has asked Donald Trump, President of the United States, to attack Iran immediately after the midterm elections, but Trump currently wants to give negotiations a chance. Trump and Netanyahu spoke on the phone on Saturday, 9 Aban, about the status of negotiations and the timing of resuming military operations. Trump is pursuing two paths simultaneously: trying to reach an agreement to resume direct negotiations and preparing for the possibility of returning to extensive military operations after the elections.",
         "time": "18:43",
         "ts": 1793558612
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The death sentence of Arman Marefati, one of the detainees of the January 1404 protests, was confirmed by the Supreme Court. He had previously been sentenced to death by Branch 15 of the Tehran Revolutionary Court. The sentence was issued on charges including participation in operational actions against national security and setting fire to a mosque and seminary.",
+        "time": "18:52",
+        "ts": 1793559137
       }
     ],
     "language": "en",
-    "packId": "20261101-117",
-    "sequence": 117,
+    "packId": "20261101-118",
+    "sequence": 118,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:44"
+    "updatedAt": "18:54"
   },
   "verified": true
 }
