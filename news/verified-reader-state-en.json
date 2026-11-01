@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-09 seq=9 exp=1793593415",
+      "advancedStatus": "pack_id=20261101-10 seq=10 exp=1793593969",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:23",
+      "lastChecked": "04:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 04:23",
+    "expiresAt": "2026-11-02 04:32",
     "items": [
       {
         "channel": "Iran International",
@@ -826,14 +826,21 @@
         "text": "Hakan Fidan, Turkey's foreign minister, called for a swift resolution of the dispute between the US and the Islamic Republic on the sidelines of the G20 foreign ministers' meeting in Atlanta. He said the closure of this strait has severely increased global economic pressures by disrupting energy supply and international trade.",
         "time": "04:22",
         "ts": 1793506977
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Navid Mohibi, a political analyst, referring to the report of the Trump-Netanyahu call, said the US sees negotiating with the main decision-makers of the Islamic Republic as a way to test the possibility of an agreement, but Israel views these individuals as obstacles to the agreement and seeks to remove them and \"peel away\" the power structure.",
+        "time": "04:30",
+        "ts": 1793507446
       }
     ],
     "language": "en",
-    "packId": "20261101-09",
-    "sequence": 9,
+    "packId": "20261101-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:23"
+    "updatedAt": "04:32"
   },
   "verified": true
 }
