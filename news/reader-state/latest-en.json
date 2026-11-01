@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-122 seq=122 exp=1793649837",
+      "advancedStatus": "pack_id=20261101-123 seq=123 exp=1793650339",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:03",
+      "lastChecked": "20:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 20:03",
+    "expiresAt": "2026-11-02 20:12",
     "items": [
       {
         "channel": "Iran International",
@@ -812,14 +812,21 @@
         "text": "Manouchehr Motaki, a member of the National Security Commission of the Parliament, said about the message attributed to Mojtaba Khamenei that the removal of the \"geographical limitation\" means the future war will no longer be regional and can extend beyond the region. He added that European countries that provide their bases to American fighter jets are considered \"partners\" in the attacks.",
         "time": "19:59",
         "ts": 1793563143
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The United States is on the verge of midterm elections, held every two years, which change the composition of the House of Representatives and part of the Senate. This cycle, the costs of the war with the Islamic Republic and rising fuel and goods prices have become key points of competition. Report by Samira Ghoraei, Iran International reporter.",
+        "time": "20:07",
+        "ts": 1793563638
       }
     ],
     "language": "en",
-    "packId": "20261101-122",
-    "sequence": 122,
+    "packId": "20261101-123",
+    "sequence": 123,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:03"
+    "updatedAt": "20:12"
   },
   "verified": true
 }
