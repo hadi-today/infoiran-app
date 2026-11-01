@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-53 seq=53 exp=1793617184",
+      "advancedStatus": "pack_id=20261101-54 seq=54 exp=1793617761",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:59",
+      "lastChecked": "11:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 10:59",
+    "expiresAt": "2026-11-02 11:09",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "The head of the Ferdis Chamber of Guilds reported the closure of one business unit in the county to prevent the holding and promotion of Halloween celebrations in cafes and similar places. Additionally, warnings have been issued to 30 other business units.",
-        "time": "11:00",
-        "ts": 1793444426
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -868,14 +861,21 @@
         "text": "Mohammad Sadegh Rezaei, head of Mazandaran University of Medical Sciences, reported a shortage of ambulances in the province and said that supplying 160 ambulances is essential for the complete renovation of Mazandaran's emergency fleet. The head of pre-hospital emergency services in Mazandaran also emphasized the need to increase the number of emergency bases and strengthen the rescue fleet due to the province's fixed and floating population and the high volume of traffic accidents.",
         "time": "10:43",
         "ts": 1793529808
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Abdulrahman Dorostaran, a citizen from Rask and brother of Omar Dorostaran, a politically executed accused, has been detained by intelligence officers for three weeks and is currently held in a security detention center in Zahedan.",
+        "time": "11:04",
+        "ts": 1793531075
       }
     ],
     "language": "en",
-    "packId": "20261101-53",
-    "sequence": 53,
+    "packId": "20261101-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:59"
+    "updatedAt": "11:09"
   },
   "verified": true
 }
