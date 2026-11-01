@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-21 seq=21 exp=1793604162",
+      "advancedStatus": "pack_id=20261101-22 seq=22 exp=1793604260",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:22",
+      "lastChecked": "07:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 07:22",
+    "expiresAt": "2026-11-02 07:24",
     "items": [
       {
         "channel": "HRANA",
@@ -875,14 +875,21 @@
         "text": "On the early morning of Sunday, 10 Aban, the execution sentence of a prisoner named Iman Ashraf was carried out in Adelabad Prison in Shiraz. The prisoner had previously been sentenced to death for murder. This news was reported by the HRANA news agency.",
         "time": "07:04",
         "ts": 1793516647
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Hakan Fidan, Turkey's foreign minister, warned that the closure of the Strait of Hormuz, by disrupting energy supply and international trade, has increased pressure on the global economy.",
+        "time": "07:20",
+        "ts": 1793517651
       }
     ],
     "language": "en",
-    "packId": "20261101-21",
-    "sequence": 21,
+    "packId": "20261101-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:22"
+    "updatedAt": "07:24"
   },
   "verified": true
 }
