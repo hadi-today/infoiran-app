@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261101-95 seq=95 exp=1793634612",
+      "advancedStatus": "pack_id=20261101-96 seq=96 exp=1793634713",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:50",
+      "lastChecked": "15:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-01",
-    "expiresAt": "2026-11-02 15:50",
+    "expiresAt": "2026-11-02 15:51",
     "items": [
       {
         "channel": "Iran International",
@@ -819,14 +819,21 @@
         "text": "A video sent to Iran International shows a woman performing the royal anthem in front of the National Garden gate in Tehran. The sender said she sang this anthem on the occasion of Prince Reza Pahlavi's birthday.",
         "time": "15:34",
         "ts": 1793547266
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Iranian media reported that Hamid Alidousti, former player of Iran's national football team and Homa club and technical manager of Chadormalu team, died today Sunday after battling cancer.",
+        "time": "15:48",
+        "ts": 1793548098
       }
     ],
     "language": "en",
-    "packId": "20261101-95",
-    "sequence": 95,
+    "packId": "20261101-96",
+    "sequence": 96,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:50"
+    "updatedAt": "15:51"
   },
   "verified": true
 }
