@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-129 seq=129 exp=1793731710",
+      "advancedStatus": "pack_id=20261102-130 seq=130 exp=1793731800",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:48",
+      "lastChecked": "18:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 18:48",
+    "expiresAt": "2026-11-03 18:50",
     "items": [
       {
         "channel": "HRANA",
@@ -924,14 +924,21 @@
         "text": "Donald Trump, the President of the United States, said in an interview with Israel's Channel 12 that he is in no hurry to resume war with Iran and is currently continuing economic pressure on the Islamic Republic. He said that contrary to his expectations, the leaders of the Islamic Republic do not feel urgency to reach an agreement but now more than ever want a deal with the US. Trump also said about the Tehran-Washington talks mediated by Qatar that the negotiations are progressing well but they are not sure who the decision-maker is.",
         "time": "18:43",
         "ts": 1793644992
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mehdi Mahdavi-Azad said on the program \"Cheshmandaz\" that targeting officials of the Islamic Republic does not necessarily lead to regime change, and attacking the country's infrastructure can also cause irreparable damage. He added that the success of a short and extensive attack to eliminate the military capability of the Islamic Republic is not certain, and without an effective plan, there is a risk of the conflict expanding into a protracted war with heavy consequences for Iran and the region.",
+        "time": "18:45",
+        "ts": 1793645147
       }
     ],
     "language": "en",
-    "packId": "20261102-129",
-    "sequence": 129,
+    "packId": "20261102-130",
+    "sequence": 130,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:48"
+    "updatedAt": "18:50"
   },
   "verified": true
 }
