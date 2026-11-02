@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-61 seq=61 exp=1793707253",
+      "advancedStatus": "pack_id=20261102-62 seq=62 exp=1793707357",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:00",
+      "lastChecked": "12:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 12:00",
+    "expiresAt": "2026-11-03 12:02",
     "items": [
       {
         "channel": "HRANA",
@@ -861,14 +861,21 @@
         "text": "Marta Shahbazi, an Iranian-origin researcher and Cambridge University professor, died in a deadly train collision in Spain. The accident, caused by human error, resulted in 69 deaths. Shahbazi worked in developmental biology and had expressed support for the 'Woman, Life, Freedom' protests.",
         "time": "11:50",
         "ts": 1793620207
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "The spokesperson of the Islamic Republic's Ministry of Foreign Affairs claimed that because the US and Israel have assassinated \"Ali Khamenei\" as the holder of the fatwa banning the use of nuclear weapons, the Islamic Republic is considering changing its nuclear doctrine. Esmail Baqaei emphasized that the issue of changing Iran's nuclear doctrine is a real matter and should not be limited only to domestic discussions.",
+        "time": "11:57",
+        "ts": 1793620666
       }
     ],
     "language": "en",
-    "packId": "20261102-61",
-    "sequence": 61,
+    "packId": "20261102-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:00"
+    "updatedAt": "12:02"
   },
   "verified": true
 }
