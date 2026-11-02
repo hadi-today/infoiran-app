@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-02 seq=2 exp=1793664817",
+      "advancedStatus": "pack_id=20261102-03 seq=3 exp=1793666113",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:13",
+      "lastChecked": "00:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 00:13",
+    "expiresAt": "2026-11-03 00:35",
     "items": [
       {
         "channel": "Iran International",
@@ -840,14 +840,21 @@
         "text": "Donald Trump said he protected his country against the world's biggest state sponsor of terrorism. He added that these enemies have attacked the US since 1979 and hundreds of young Americans have been killed. Trump said they have suffered heavy blows and he is trying to find someone to talk to but has not succeeded.",
         "time": "23:56",
         "ts": 1793577373
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mehdi Taj, head of the Iranian Football Federation and vice president of the Asian Football Confederation, said the futsal matches have been canceled due to attacks in Saudi Arabia. He added that on November 19, 2026, it will be determined whether the Asian Cup matches will be held, but if conditions remain the same, they probably will not be held. These remarks come as the AFC announced the final schedule for the 2027 Asian Cup in Saudi Arabia last week.",
+        "time": "00:33",
+        "ts": 1793579631
       }
     ],
     "language": "en",
-    "packId": "20261102-02",
-    "sequence": 2,
+    "packId": "20261102-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:13"
+    "updatedAt": "00:35"
   },
   "verified": true
 }
