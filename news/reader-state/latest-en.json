@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-53 seq=53 exp=1793704004",
+      "advancedStatus": "pack_id=20261102-54 seq=54 exp=1793704363",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:06",
+      "lastChecked": "11:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 11:06",
+    "expiresAt": "2026-11-03 11:12",
     "items": [
       {
         "channel": "Iran International",
@@ -861,14 +861,21 @@
         "text": "China's state television did not broadcast Real Madrid's match against Racing Santander due to Kylian Mbappé's controversial remarks about Mao Zedong. Mbappé apologized after strong reactions from Chinese authorities, but La Liga broadcasts have not resumed yet. Real Madrid won the match 3-0.",
         "time": "11:05",
         "ts": 1793617506
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Reports from various cities in Iran highlight economic problems including triple-digit inflation, widespread unemployment, municipal pressure on street vendors, astronomical price increases, and fuel supply issues. It was also reported that the 600 million toman marriage loan has remained unchanged and many have cut meals due to food price hikes. Some people have been forced to vacate their homes due to inability to pay rent.",
+        "time": "11:10",
+        "ts": 1793617801
       }
     ],
     "language": "en",
-    "packId": "20261102-53",
-    "sequence": 53,
+    "packId": "20261102-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:06"
+    "updatedAt": "11:12"
   },
   "verified": true
 }
