@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-125 seq=125 exp=1793730650",
+      "advancedStatus": "pack_id=20261102-126 seq=126 exp=1793730858",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:30",
+      "lastChecked": "18:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 18:30",
+    "expiresAt": "2026-11-03 18:34",
     "items": [
       {
         "channel": "HRANA",
@@ -924,14 +924,21 @@
         "text": "Danny Danon, Israel's representative to the United Nations, stated that Israel and the US have the technology to know what is happening inside Iran. He said Tehran has not stopped its efforts to acquire nuclear weapons. Danon also emphasized that no one in Israel or the US is talking about using nuclear weapons against Iran.",
         "time": "18:24",
         "ts": 1793643841
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The mother of Matin Parvizi, 22, who was shot dead with a military bullet in Zanjan on 18 Dey 1404, said in a video from her son's grave that she will find his killer one day, even if she is not alive, others will find him.",
+        "time": "18:32",
+        "ts": 1793644331
       }
     ],
     "language": "en",
-    "packId": "20261102-125",
-    "sequence": 125,
+    "packId": "20261102-126",
+    "sequence": 126,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:30"
+    "updatedAt": "18:34"
   },
   "verified": true
 }
