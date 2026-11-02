@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-116 seq=116 exp=1793727257",
+      "advancedStatus": "pack_id=20261102-117 seq=117 exp=1793727528",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:34",
+      "lastChecked": "17:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 17:34",
+    "expiresAt": "2026-11-03 17:38",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Khatun Bam, Iran's women's football representative in the AFC Women's Champions League, lost 4-1 in their first match against the Japanese representative. Report by Raha Pourbakhsh, Iran International.",
-        "time": "17:36",
-        "ts": 1793554581
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -910,14 +903,21 @@
         "text": "Meir Javedanfar, an analyst on Israeli affairs, said about the competition to form a government in the country that given Netanyahu's history of refusing to coalition with opposition parties, it is possible that Gadi Eizenkot can gain the support of Arab parties. Conversely, if Netanyahu can bring at least one major opposition party with him, he will be very close to forming a government.",
         "time": "17:29",
         "ts": 1793640558
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Videos received by Iran International show that a group of Iranians residing in Norway held a ceremony for Cyrus the Great Day and the birthday of Prince Reza Pahlavi in Oslo on Sunday, 10 Aban.",
+        "time": "17:34",
+        "ts": 1793640869
       }
     ],
     "language": "en",
-    "packId": "20261102-116",
-    "sequence": 116,
+    "packId": "20261102-117",
+    "sequence": 117,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:34"
+    "updatedAt": "17:38"
   },
   "verified": true
 }
