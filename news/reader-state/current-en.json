@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-04 seq=4 exp=1793671115",
+      "advancedStatus": "pack_id=20261102-05 seq=5 exp=1793671995",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:58",
+      "lastChecked": "02:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 01:58",
+    "expiresAt": "2026-11-03 02:13",
     "items": [
       {
         "channel": "Iran International",
@@ -854,14 +854,21 @@
         "text": "The UK Maritime Trade Operations announced that a tanker moving southeast in the Persian Gulf, 72 nautical miles east of Ras Al-Khafji, Saudi Arabia, was hit from the left by two unidentified projectiles. The incident occurred at 23:47 GMT on Sunday, 10 Aban. All tanker crew members are safe and no environmental consequences have been reported so far.",
         "time": "01:54",
         "ts": 1793584489
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Reuters reported on Monday, November 2, 2026, that three major Chinese airlines recorded net losses in the first nine months of 2026. According to the report, a sharp increase in fuel prices following the Iran war has weakened their profitability outlook. Analysts predict all three companies will end 2026 with a net loss.",
+        "time": "02:09",
+        "ts": 1793585392
       }
     ],
     "language": "en",
-    "packId": "20261102-04",
-    "sequence": 4,
+    "packId": "20261102-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:58"
+    "updatedAt": "02:13"
   },
   "verified": true
 }
