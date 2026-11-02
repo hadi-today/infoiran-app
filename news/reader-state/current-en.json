@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-58 seq=58 exp=1793706385",
+      "advancedStatus": "pack_id=20261102-59 seq=59 exp=1793706663",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:46",
+      "lastChecked": "11:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 11:46",
+    "expiresAt": "2026-11-03 11:51",
     "items": [
       {
         "channel": "Iran International",
@@ -854,14 +854,21 @@
         "text": "A video received shows that a group of students from Maharat University in Shiraz gathered on Sunday, 10 Aban, to protest the poor quality of food in the cafeteria.",
         "time": "11:30",
         "ts": 1793619045
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Messages from students and families across Iran indicate increased security and ideological control in schools. Students say school officials force them to participate in government and military programs or ideological ceremonies.",
+        "time": "11:48",
+        "ts": 1793620111
       }
     ],
     "language": "en",
-    "packId": "20261102-58",
-    "sequence": 58,
+    "packId": "20261102-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:46"
+    "updatedAt": "11:51"
   },
   "verified": true
 }
