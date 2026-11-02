@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-120 seq=120 exp=1793729714",
+      "advancedStatus": "pack_id=20261102-121 seq=121 exp=1793729806",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:15",
+      "lastChecked": "18:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 18:15",
+    "expiresAt": "2026-11-03 18:16",
     "items": [
       {
         "channel": "HRANA",
@@ -910,14 +910,21 @@
         "text": "It was reported that the Iran war is among the five important issues for Americans 24 hours before the elections.",
         "time": "18:10",
         "ts": 1793643053
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The office of Prince Reza Pahlavi warned about the imminent risk of execution for Abolfazl Ebrahimi and Amirhossein Maleki, two 20-year-old youths arrested during the December uprising. Their families have been called for a final visit to Dastgerd prison in Isfahan, and the execution order may be carried out within the next hours. The office described the trial process as a show trial and urged people not to remain silent to prevent their execution.",
+        "time": "18:12",
+        "ts": 1793643153
       }
     ],
     "language": "en",
-    "packId": "20261102-120",
-    "sequence": 120,
+    "packId": "20261102-121",
+    "sequence": 121,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:15"
+    "updatedAt": "18:16"
   },
   "verified": true
 }
