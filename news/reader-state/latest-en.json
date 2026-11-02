@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-41 seq=41 exp=1793697906",
+      "advancedStatus": "pack_id=20261102-42 seq=42 exp=1793698180",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:25",
+      "lastChecked": "09:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 09:25",
+    "expiresAt": "2026-11-03 09:29",
     "items": [
       {
         "channel": "Iran International",
@@ -868,14 +868,21 @@
         "text": "Ahmadreza Radan, the commander of the Islamic Republic's law enforcement, announced that FARJA, under the order of Mojtaba Khamenei, the leader of the Islamic Republic, is ready alongside other armed forces to face any situation. Radan also warned that if another war begins, the Islamic Republic's attacks will not be limited to geographical borders and any point where the interests of the \"enemy\" are located will be targeted.",
         "time": "09:20",
         "ts": 1793611206
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Union of Gold, Jewelry, Silver, and Coin Guild of Mashhad announced that buying and selling any gold product featuring designs from the Pahlavi era or the Lion and Sun motif is prohibited in the Mashhad market. The union emphasized that any violation will lead to action against the guild displaying or selling such products.",
+        "time": "09:24",
+        "ts": 1793611474
       }
     ],
     "language": "en",
-    "packId": "20261102-41",
-    "sequence": 41,
+    "packId": "20261102-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:25"
+    "updatedAt": "09:29"
   },
   "verified": true
 }
