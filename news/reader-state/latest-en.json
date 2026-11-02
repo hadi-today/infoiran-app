@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-05 seq=5 exp=1793671995",
+      "advancedStatus": "pack_id=20261102-06 seq=6 exp=1793673854",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:13",
+      "lastChecked": "02:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 02:13",
+    "expiresAt": "2026-11-03 02:44",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Donald Trump said at a Halloween party that they have destroyed Iran's nuclear capabilities and still need to clarify the status of one or two sites but can do it in 10 minutes. He expressed doubt about Tehran's reliability in negotiations and said Iran will never have nuclear weapons. Trump added that negotiations are going well but Iran is not very reliable and retreats after agreements.",
-        "time": "02:16",
-        "ts": 1793499406
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -861,14 +854,21 @@
         "text": "Reuters reported on Monday, November 2, 2026, that three major Chinese airlines recorded net losses in the first nine months of 2026. According to the report, a sharp increase in fuel prices following the Iran war has weakened their profitability outlook. Analysts predict all three companies will end 2026 with a net loss.",
         "time": "02:09",
         "ts": 1793585392
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The US Central Command, CENTCOM, rejected the Iranian Foreign Minister's claim that Iran does not attack civilians in neighboring countries. CENTCOM stated that Iran has deliberately targeted civilian infrastructure and residential areas in the Gulf countries. The command added that Iran's attacks on civilian mariners have resulted in the deaths of more than 20 people in recent months.",
+        "time": "02:41",
+        "ts": 1793587317
       }
     ],
     "language": "en",
-    "packId": "20261102-05",
-    "sequence": 5,
+    "packId": "20261102-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:13"
+    "updatedAt": "02:44"
   },
   "verified": true
 }
