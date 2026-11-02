@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-76 seq=76 exp=1793711647",
+      "advancedStatus": "pack_id=20261102-77 seq=77 exp=1793711807",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:14",
+      "lastChecked": "13:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 13:14",
+    "expiresAt": "2026-11-03 13:16",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Messages received by Iran International indicate increasing economic pressure on citizens. Some audience members reported inability to provide basic needs, including food, stationery, and clothing for their children. Others mentioned severe sales decline, delayed salaries, and difficulties in paying rent.",
-        "time": "13:15",
-        "ts": 1793538926
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -882,14 +875,21 @@
         "text": "Reports indicate a significant increase in the supply and sale of gold and silver plaques with symbols related to the Pahlavi era, including the Lion and Sun flag and the Pahlavi crown. Simultaneously, the Police Department in Mashhad banned the sale of gold with Lion and Sun and Pahlavi symbols. This issue was evaluated by Forough Kanani, a sociology researcher.",
         "time": "13:07",
         "ts": 1793624828
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Ali Hossein Ghazizadeh said the Iranian government knows that if it loses its nuclear leverage and the Strait of Hormuz, it will no longer have the power to confront the US. He added that the government's insistence on maintaining these levers may push Trump toward a decision to end the Islamic Republic, a decision that could happen at any moment. However, Trump, due to considerations related to power transition and keeping diplomatic channels open, has left ways open for negotiation with Tehran.",
+        "time": "13:12",
+        "ts": 1793625136
       }
     ],
     "language": "en",
-    "packId": "20261102-76",
-    "sequence": 76,
+    "packId": "20261102-77",
+    "sequence": 77,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:14"
+    "updatedAt": "13:16"
   },
   "verified": true
 }
