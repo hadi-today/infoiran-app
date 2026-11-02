@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-73 seq=73 exp=1793711269",
+      "advancedStatus": "pack_id=20261102-74 seq=74 exp=1793711363",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:07",
+      "lastChecked": "13:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 13:07",
+    "expiresAt": "2026-11-03 13:09",
     "items": [
       {
         "channel": "Iran International",
@@ -875,14 +875,21 @@
         "text": "Hassan Hassanzadeh, commander of Tehran's IRGC, said the first Janfada brigade of Iran has been organized, completed its advanced training, and is preparing for practical courses and specialized shooting range exercises. He added that soon the organization of Janfada brigades and battalions will take shape, and convoys of Janfada fighters will be dispatched to operational areas in the south and west of the country.",
         "time": "13:03",
         "ts": 1793624625
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Aref Nasiri, a resident of Abdanan, was summoned to the Ilam Public and Revolutionary Prosecutor's Office following a search of his home and the seizure of Starlink satellite internet equipment by security forces. The security forces entered his home in his absence and confiscated the Starlink device on the early morning of 29 Mehr.",
+        "time": "13:06",
+        "ts": 1793624813
       }
     ],
     "language": "en",
-    "packId": "20261102-73",
-    "sequence": 73,
+    "packId": "20261102-74",
+    "sequence": 74,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:07"
+    "updatedAt": "13:09"
   },
   "verified": true
 }
