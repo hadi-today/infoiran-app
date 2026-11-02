@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-80 seq=80 exp=1793713777",
+      "advancedStatus": "pack_id=20261102-81 seq=81 exp=1793714062",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:49",
+      "lastChecked": "13:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 13:49",
+    "expiresAt": "2026-11-03 13:54",
     "items": [
       {
         "channel": "HRANA",
@@ -868,14 +868,21 @@
         "text": "The Public Relations of the Navy of the Islamic Republic Army announced that an oil tanker in the Strait of Hormuz area had an accident and caught fire due to hitting a naval mine. The oil tanker had turned off its navigation systems. The Navy warned that uncoordinated movement in dangerous areas can lead to hitting naval mines and fires.",
         "time": "13:43",
         "ts": 1793627037
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The commander of Rezvanshahr police announced the arrest of a 37-year-old citizen in the Peresar district of this county on charges of causing public unrest and propaganda against the regime in cyberspace. Mohammad Mirbaghian stated that this citizen was identified and arrested by the public security police and was referred to the judicial authority after the case was filed.",
+        "time": "13:48",
+        "ts": 1793627321
       }
     ],
     "language": "en",
-    "packId": "20261102-80",
-    "sequence": 80,
+    "packId": "20261102-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:49"
+    "updatedAt": "13:54"
   },
   "verified": true
 }
