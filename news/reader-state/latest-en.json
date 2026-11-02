@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-62 seq=62 exp=1793707357",
+      "advancedStatus": "pack_id=20261102-63 seq=63 exp=1793707546",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:02",
+      "lastChecked": "12:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 12:02",
+    "expiresAt": "2026-11-03 12:05",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Today, Sunday 10 Aban, a number of Social Security retirees held a protest in front of the organization's buildings in Kermanshah and Tehran. The protesting retirees stated that addressing livelihood and medical issues are among their demands.",
-        "time": "12:03",
-        "ts": 1793534634
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -868,14 +861,21 @@
         "text": "The spokesperson of the Islamic Republic's Ministry of Foreign Affairs claimed that because the US and Israel have assassinated \"Ali Khamenei\" as the holder of the fatwa banning the use of nuclear weapons, the Islamic Republic is considering changing its nuclear doctrine. Esmail Baqaei emphasized that the issue of changing Iran's nuclear doctrine is a real matter and should not be limited only to domestic discussions.",
         "time": "11:57",
         "ts": 1793620666
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The coordination manager of the National Gas Company announced the issuance of heavy bills, gas cutoffs for high-consumption subscribers, and increased fines as the cold season approaches and the industrial energy crisis intensifies. This news was evaluated by Ata Hosseinian, an economic and energy journalist.",
+        "time": "12:04",
+        "ts": 1793621062
       }
     ],
     "language": "en",
-    "packId": "20261102-62",
-    "sequence": 62,
+    "packId": "20261102-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:02"
+    "updatedAt": "12:05"
   },
   "verified": true
 }
