@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-82 seq=82 exp=1793714159",
+      "advancedStatus": "pack_id=20261102-83 seq=83 exp=1793714356",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:55",
+      "lastChecked": "13:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 13:55",
+    "expiresAt": "2026-11-03 13:59",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Iman Rashidi, a Bahá'í citizen residing in Yazd, returned to Yazd prison on Saturday, 9 Aban, after the end of his leave period. According to Harana News Agency, he had previously been granted leave from this prison.",
-        "time": "13:57",
-        "ts": 1793541425
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -863,6 +856,13 @@
         "ts": 1793626453
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Two women arrested during the December 1404 protests were each sentenced to 22 years in prison by Branch 23 of Tehran's Revolutionary Court. These two women are in Qarchak Varamin prison and share the case with three other defendants, including Mahdi Jalali and two others sentenced to death. Initially, these two women faced the death penalty, but the judge reduced their sentence to 22 years in prison.",
+        "time": "13:43",
+        "ts": 1793627024
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "The Public Relations of the Navy of the Islamic Republic Army announced that an oil tanker in the Strait of Hormuz area had an accident and caught fire due to hitting a naval mine. The oil tanker had turned off its navigation systems. The Navy warned that uncoordinated movement in dangerous areas can lead to hitting naval mines and fires.",
@@ -885,11 +885,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261102-82",
-    "sequence": 82,
+    "packId": "20261102-83",
+    "sequence": 83,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:55"
+    "updatedAt": "13:59"
   },
   "verified": true
 }
