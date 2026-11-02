@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-123 seq=123 exp=1793730363",
+      "advancedStatus": "pack_id=20261102-124 seq=124 exp=1793730560",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:26",
+      "lastChecked": "18:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 18:26",
+    "expiresAt": "2026-11-03 18:29",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -784,6 +784,12 @@
         "ts": 1793643153
       },
       {
+        "channel": "خبرگزاری هرانا",
+        "text": "تصویب «قانون ساماندهی و نظارت بر تجارت مرزی» در سال ۱۴۰۲ به عنوان پذیرش رسمی مشکلات کولبری و اهمیت شرایط اقتصادی مناطق مرزی اعلام شده است. با وجود این قانون، گزارش‌های کشته‌شدن کولبران و سوختبران در مرزهای ایران همچنان ادامه دارد. کارشناسان سازمان ملل در ۲۳ سپتامبر ۲۰۲۶ به این تنش‌ها اشاره کرده‌اند و تاکید دارند که عوامل اقتصادی، اجتماعی و سیاسی ریشه این مشکلات هستند.",
+        "time": "18:15",
+        "ts": 1793643349
+      },
+      {
         "channel": "ایران اینترنشنال",
         "text": "گزارش شده است که نتانیاهو به ترامپ فشار می‌آورد تا حملات به ایران را از سر بگیرد.",
         "time": "18:20",
@@ -796,11 +802,11 @@
         "ts": 1793643749
       }
     ],
-    "packId": "20261102-123",
-    "sequence": 123,
+    "packId": "20261102-124",
+    "sequence": 124,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "18:26"
+    "updatedAt": "18:29"
   },
   "verified": true
 }
