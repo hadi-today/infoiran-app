@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-54 seq=54 exp=1793704363",
+      "advancedStatus": "pack_id=20261102-55 seq=55 exp=1793704567",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:12",
+      "lastChecked": "11:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 11:12",
+    "expiresAt": "2026-11-03 11:16",
     "items": [
       {
         "channel": "Iran International",
@@ -856,6 +856,13 @@
         "ts": 1793617184
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Today, retirees of Kermanshah Telecommunications gathered again in front of the telecommunications office in continuation of the \"Protest Mondays\" gatherings. The protesters have been objecting since 1400 to the non-implementation of regulation 89/24, the poor condition of supplementary insurance, and the increase in retirees' insurance contributions. Today, they also protested against the performance of the Executive Headquarters of Imam's Order and the Cooperative Foundation of the IRGC.",
+        "time": "11:02",
+        "ts": 1793617376
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "China's state television did not broadcast Real Madrid's match against Racing Santander due to Kylian Mbappé's controversial remarks about Mao Zedong. Mbappé apologized after strong reactions from Chinese authorities, but La Liga broadcasts have not resumed yet. Real Madrid won the match 3-0.",
@@ -871,11 +878,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261102-54",
-    "sequence": 54,
+    "packId": "20261102-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:12"
+    "updatedAt": "11:16"
   },
   "verified": true
 }
