@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-131 seq=131 exp=1793732004",
+      "advancedStatus": "pack_id=20261102-132 seq=132 exp=1793732830",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:53",
+      "lastChecked": "19:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 18:53",
+    "expiresAt": "2026-11-03 19:07",
     "items": [
       {
         "channel": "HRANA",
@@ -931,14 +931,21 @@
         "text": "A report states that two Afghan prisoners sentenced to death for drug-related crimes were executed at Dastgerd Prison in Isfahan on the early morning of 29 Mehr. Additionally, a child offender prisoner previously sentenced to death for murder at age 17 was executed in Dezful Prison on 28 Mordad.",
         "time": "18:48",
         "ts": 1793645291
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Ali Ahmadi, a retired teacher living in Nurabad Mamasani and imprisoned in Adelabad Prison in Shiraz, was physically assaulted by a prison official on Sunday, 10 Aban 1405. A knowledgeable source said that while he was following up on his eye treatment and despite having permission to see a doctor, he was assaulted for unknown reasons and suffered injuries to his head, face, nose, and back.",
+        "time": "19:01",
+        "ts": 1793646089
       }
     ],
     "language": "en",
-    "packId": "20261102-131",
-    "sequence": 131,
+    "packId": "20261102-132",
+    "sequence": 132,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:53"
+    "updatedAt": "19:07"
   },
   "verified": true
 }
