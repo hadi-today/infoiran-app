@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-150 seq=150 exp=1793739993",
+      "advancedStatus": "pack_id=20261102-151 seq=151 exp=1793740751",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:06",
+      "lastChecked": "21:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 21:06",
+    "expiresAt": "2026-11-03 21:19",
     "items": [
       {
         "channel": "Vahid Online",
@@ -987,14 +987,21 @@
         "text": "IRNA news agency reported five severe consecutive explosions on Monday evening on Qeshm Island and said some residents also observed two aircraft in the sky. The explosions occurred continuously and consecutively, and it seems the impact site was inside the island. Local and provincial sources have not yet made official statements about the cause of the explosions or the aircraft flights.",
         "time": "21:02",
         "ts": 1793653339
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Iranian media reported that Hassan Habibi, former captain and coach of Iran's national football team, died at the age of 86 after several years of illness. Habibi was the first coach of Iran's national team after the Islamic Revolution and led the team to the 1980 Olympics. He also led the national team to third place in the 1980 Asian Cup in Kuwait.",
+        "time": "21:15",
+        "ts": 1793654143
       }
     ],
     "language": "en",
-    "packId": "20261102-150",
-    "sequence": 150,
+    "packId": "20261102-151",
+    "sequence": 151,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:06"
+    "updatedAt": "21:19"
   },
   "verified": true
 }
