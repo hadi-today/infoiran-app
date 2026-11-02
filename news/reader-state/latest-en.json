@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-111 seq=111 exp=1793725183",
+      "advancedStatus": "pack_id=20261102-112 seq=112 exp=1793725354",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:59",
+      "lastChecked": "17:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 16:59",
+    "expiresAt": "2026-11-03 17:02",
     "items": [
       {
         "channel": "HRANA",
@@ -882,14 +882,21 @@
         "text": "The executive secretary of the Saveh Workers' House stated that workers of the Benro automotive company in Saveh have not yet received their salaries for Mehr month. He also criticized the intermittent interruption of these workers' health insurance and their lack of benefits paid by the central Saipa company.",
         "time": "16:55",
         "ts": 1793638536
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Yossi Cohen, former head of Mossad, predicted that another targeted military attack against the Islamic Republic will occur. He said the Islamic Republic is still developing its facilities and may rebuild some damaged centers. Cohen also said that the military cooperation between Israel and the US to target Iran's nuclear facilities and ballistic missiles has been one of his long-standing goals.",
+        "time": "17:01",
+        "ts": 1793638886
       }
     ],
     "language": "en",
-    "packId": "20261102-111",
-    "sequence": 111,
+    "packId": "20261102-112",
+    "sequence": 112,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:59"
+    "updatedAt": "17:02"
   },
   "verified": true
 }
