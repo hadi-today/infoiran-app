@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-123 seq=123 exp=1793730363",
+      "advancedStatus": "pack_id=20261102-124 seq=124 exp=1793730560",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:26",
+      "lastChecked": "18:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 18:26",
+    "expiresAt": "2026-11-03 18:29",
     "items": [
       {
         "channel": "Iran International",
@@ -912,6 +912,13 @@
         "ts": 1793643153
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The approval of the \"Law on Organizing and Supervising Border Trade\" in 1402 is recognized as an official acknowledgment of the issues of kolbari and the importance of the economic conditions in border areas. Despite this law, reports of deaths among kolbars and fuel carriers at Iran's borders continue. UN experts on September 23, 2026, highlighted these tensions and emphasized that economic, social, and political factors are at the root of these problems.",
+        "time": "18:15",
+        "ts": 1793643349
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "It was reported that Netanyahu pressures Trump to resume attacks on Iran.",
@@ -927,11 +934,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261102-123",
-    "sequence": 123,
+    "packId": "20261102-124",
+    "sequence": 124,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:26"
+    "updatedAt": "18:29"
   },
   "verified": true
 }
