@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-66 seq=66 exp=1793708099",
+      "advancedStatus": "pack_id=20261102-67 seq=67 exp=1793708884",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:14",
+      "lastChecked": "12:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 12:14",
+    "expiresAt": "2026-11-03 12:28",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Raheleh Soltani was sent to prison to serve her sentence. Raheleh Soltani, a resident of Maaf village in Bandar Anzali, Gilan province, was sent to prison on Saturday, 9 Aban to serve her sentence. She had previously been sentenced to five months in prison for contacting a foreign media outlet and protesting the price increase of her mother's medicines.",
-        "time": "12:21",
-        "ts": 1793535682
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Ali-Asghar Bagherzadeh, Babolsar representative in parliament, said in his speech on 10 Aban that national resilience alongside defense power determines the country's fate in wartime. He added resilience is not created by orders but by trust, which arises from justice, honesty, and the results of correct decisions. Bagherzadeh also said the government can take measures to increase social capital and public trust without imposing new financial burdens.",
-        "time": "12:27",
-        "ts": 1793536039
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -889,14 +875,21 @@
         "text": "Citizens in Hamedan and Tehran complain about high medical and drug costs. Supplemental insurance does not cover some expenses, and patients give up treatment due to financial inability. Drug prices range from hundreds of thousands to millions of tomans.",
         "time": "12:08",
         "ts": 1793621338
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Masoud Pezeshkian emphasized the necessity of public participation in governing the country during a meeting with governors and mayors of major cities, stating that the country can emerge strongly from enemy threats. He added that if the people support the officials, no harm can be done, and called for the use of local capacities and coordination in provinces. He also stressed preventing the closure of production units and providing cheaper services to deprived areas.",
+        "time": "12:24",
+        "ts": 1793622249
       }
     ],
     "language": "en",
-    "packId": "20261102-66",
-    "sequence": 66,
+    "packId": "20261102-67",
+    "sequence": 67,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:14"
+    "updatedAt": "12:28"
   },
   "verified": true
 }
