@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-79 seq=79 exp=1793713104",
+      "advancedStatus": "pack_id=20261102-80 seq=80 exp=1793713777",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:38",
+      "lastChecked": "13:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 13:38",
+    "expiresAt": "2026-11-03 13:49",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Mohammad Taghi Naqdali, representative of Khomeinishahr in parliament, said in his mid-session speech on Sunday, 10 Aban, that people are under the most severe economic pressures and the government's weak actions are not worthy of the Ummah. He added that the government continues the policy of price increases, from internet, electricity, and water to other goods, only moving towards higher prices. Naqdali also said that if he were the speaker of the parliament, he would suspend all orders, and the parliament's score with the people is zero because they do not feel that any work is being done for their livelihood.",
-        "time": "13:45",
-        "ts": 1793540741
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -868,14 +861,21 @@
         "text": "Videos received by Iran International show that a group of Iranians residing in Canada gathered in Toronto on Sunday, 10 Aban, and chanted \"Long live the Shah, long live Iran.\"",
         "time": "13:34",
         "ts": 1793626453
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Public Relations of the Navy of the Islamic Republic Army announced that an oil tanker in the Strait of Hormuz area had an accident and caught fire due to hitting a naval mine. The oil tanker had turned off its navigation systems. The Navy warned that uncoordinated movement in dangerous areas can lead to hitting naval mines and fires.",
+        "time": "13:43",
+        "ts": 1793627037
       }
     ],
     "language": "en",
-    "packId": "20261102-79",
-    "sequence": 79,
+    "packId": "20261102-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:38"
+    "updatedAt": "13:49"
   },
   "verified": true
 }
