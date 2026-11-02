@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-89 seq=89 exp=1793716883",
+      "advancedStatus": "pack_id=20261102-90 seq=90 exp=1793716985",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:41",
+      "lastChecked": "14:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 14:41",
+    "expiresAt": "2026-11-03 14:43",
     "items": [
       {
         "channel": "Iran International",
@@ -868,14 +868,21 @@
         "text": "Benjamin Kouhkan, one of the detainees of the 1401 protests who is serving his sentence in Zahedan prison, was sent on leave yesterday.",
         "time": "14:37",
         "ts": 1793630275
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A Learjet 60 aircraft crashed in a residential area in Elm Beach, Florida, on Sunday, October 31. According to US transportation officials, all nine occupants died. In recorded air traffic control conversations, the pilot reported a rapid loss of altitude, declared an emergency, and said, \"We are going to hit the ground\" and \"We are out of time.\"",
+        "time": "14:39",
+        "ts": 1793630358
       }
     ],
     "language": "en",
-    "packId": "20261102-89",
-    "sequence": 89,
+    "packId": "20261102-90",
+    "sequence": 90,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:41"
+    "updatedAt": "14:43"
   },
   "verified": true
 }
