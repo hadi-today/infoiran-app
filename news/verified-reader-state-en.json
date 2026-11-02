@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-99 seq=99 exp=1793720279",
+      "advancedStatus": "pack_id=20261102-100 seq=100 exp=1793720567",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:37",
+      "lastChecked": "15:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 15:37",
+    "expiresAt": "2026-11-03 15:42",
     "items": [
       {
         "channel": "Iran International",
@@ -868,14 +868,21 @@
         "text": "It has been reported that Donald Trump, after a phone call with Netanyahu about an attack on Iran, said he would soon deliver a heavy blow. This comes as the Islamic Republic is reportedly concerned about collapse due to armed forces entering from the borders or people returning to the streets.",
         "time": "15:31",
         "ts": 1793633496
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The Deputy Minister of Health announced that about 50% of the country's hospitals face safety challenges due to their age and structural problems, and some centers have become fire hazards for patients and staff. Renovation and replacement of about 500 hospitals, which required over 500 hundred billion tomans two years ago, now need 800 to 900 hundred billion tomans due to increased costs. Also, the capacity of burn beds in the country is about half of the required standard, and some provinces lack specialized burn centers and sufficient intensive care beds.",
+        "time": "15:41",
+        "ts": 1793634078
       }
     ],
     "language": "en",
-    "packId": "20261102-99",
-    "sequence": 99,
+    "packId": "20261102-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:37"
+    "updatedAt": "15:42"
   },
   "verified": true
 }
