@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-50 seq=50 exp=1793702138",
+      "advancedStatus": "pack_id=20261102-51 seq=51 exp=1793702935",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:35",
+      "lastChecked": "10:48",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 10:35",
+    "expiresAt": "2026-11-03 10:48",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Mohammad Sadegh Rezaei, head of Mazandaran University of Medical Sciences, reported a shortage of ambulances in the province and said that supplying 160 ambulances is essential for the complete renovation of Mazandaran's emergency fleet. The head of pre-hospital emergency services in Mazandaran also emphasized the need to increase the number of emergency bases and strengthen the rescue fleet due to the province's fixed and floating population and the high volume of traffic accidents.",
-        "time": "10:43",
-        "ts": 1793529808
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "It was reported that public schools ask teachers and families for money, including a 6 million toman contribution and the cost of printing class notebooks placed on teachers. Schools have also charged families up to 2 million toman for simple trips. Teachers complain about low salaries and high costs and say they are not even allowed to complain.",
         "time": "10:34",
         "ts": 1793615692
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mohammad Reza Aref, first deputy of Masoud Pezeshkian, said that due to past problems and damages caused by war, there is a shortage in the gas sector and saving is needed. He emphasized that proper gas consumption management is important to maintain network stability in the cold season, as gas network cuts will cause significant damage. Aref also said that if some consumers do not follow the consumption pattern, their gas prices will increase.",
+        "time": "10:44",
+        "ts": 1793616257
       }
     ],
     "language": "en",
-    "packId": "20261102-50",
-    "sequence": 50,
+    "packId": "20261102-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:35"
+    "updatedAt": "10:48"
   },
   "verified": true
 }
