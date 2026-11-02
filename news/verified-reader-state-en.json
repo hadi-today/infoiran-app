@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-130 seq=130 exp=1793731800",
+      "advancedStatus": "pack_id=20261102-131 seq=131 exp=1793732004",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:50",
+      "lastChecked": "18:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 18:50",
+    "expiresAt": "2026-11-03 18:53",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "The death sentence of Arman Marefati, one of the detainees of the January 1404 protests, was confirmed by the Supreme Court. He had previously been sentenced to death by Branch 15 of the Tehran Revolutionary Court. The sentence was issued on charges including participation in operational actions against national security and setting fire to a mosque and seminary.",
-        "time": "18:52",
-        "ts": 1793559137
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -931,14 +924,21 @@
         "text": "Mehdi Mahdavi-Azad said on the program \"Cheshmandaz\" that targeting officials of the Islamic Republic does not necessarily lead to regime change, and attacking the country's infrastructure can also cause irreparable damage. He added that the success of a short and extensive attack to eliminate the military capability of the Islamic Republic is not certain, and without an effective plan, there is a risk of the conflict expanding into a protracted war with heavy consequences for Iran and the region.",
         "time": "18:45",
         "ts": 1793645147
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "A report states that two Afghan prisoners sentenced to death for drug-related crimes were executed at Dastgerd Prison in Isfahan on the early morning of 29 Mehr. Additionally, a child offender prisoner previously sentenced to death for murder at age 17 was executed in Dezful Prison on 28 Mordad.",
+        "time": "18:48",
+        "ts": 1793645291
       }
     ],
     "language": "en",
-    "packId": "20261102-130",
-    "sequence": 130,
+    "packId": "20261102-131",
+    "sequence": 131,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:50"
+    "updatedAt": "18:53"
   },
   "verified": true
 }
