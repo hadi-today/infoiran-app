@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-119 seq=119 exp=1793729147",
+      "advancedStatus": "pack_id=20261102-120 seq=120 exp=1793729714",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:05",
+      "lastChecked": "18:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 18:05",
+    "expiresAt": "2026-11-03 18:15",
     "items": [
       {
         "channel": "HRANA",
@@ -903,14 +903,21 @@
         "text": "The Telegram channel Daneshjooyan Mottahed reported that the student councils of eight universities in Tehran jointly wrote a letter to Masoud Pezeshkian, head of the Islamic Republic government, protesting the security forces' treatment of students regarding dress code, movement restrictions, and pressure on union activities, demanding a halt to these actions. In the letter, the student councils warned that increased interference in students' daily lives in recent months, including arbitrary actions about dress code, dormitory restrictions, and turning universities into arenas for political purges, has affected the dignity and peace of the academic community. The signatories also demanded an end to pressure and filing cases against union activists, guaranteeing the independence of student councils, and reviewing unfair disciplinary regulations, procedures, and rulings.",
         "time": "18:00",
         "ts": 1793642459
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "It was reported that the Iran war is among the five important issues for Americans 24 hours before the elections.",
+        "time": "18:10",
+        "ts": 1793643053
       }
     ],
     "language": "en",
-    "packId": "20261102-119",
-    "sequence": 119,
+    "packId": "20261102-120",
+    "sequence": 120,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:05"
+    "updatedAt": "18:15"
   },
   "verified": true
 }
