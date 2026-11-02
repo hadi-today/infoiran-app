@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-136 seq=136 exp=1793734153",
+      "advancedStatus": "pack_id=20261102-137 seq=137 exp=1793734425",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:29",
+      "lastChecked": "19:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 19:29",
+    "expiresAt": "2026-11-03 19:33",
     "items": [
       {
         "channel": "Iran International",
@@ -959,14 +959,21 @@
         "text": "Two men in Tehran, who are cousins, were arrested on charges of sexual assault against a young girl. Judicial investigations regarding this case are ongoing.",
         "time": "19:24",
         "ts": 1793647465
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Fardad Farahzad spoke in the Audio 24 episode about Trump's threat to deliver heavy blows to the Islamic Republic.",
+        "time": "19:32",
+        "ts": 1793647960
       }
     ],
     "language": "en",
-    "packId": "20261102-136",
-    "sequence": 136,
+    "packId": "20261102-137",
+    "sequence": 137,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:29"
+    "updatedAt": "19:33"
   },
   "verified": true
 }
