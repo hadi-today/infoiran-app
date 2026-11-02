@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-19 seq=19 exp=1793687407",
+      "advancedStatus": "pack_id=20261102-20 seq=20 exp=1793687692",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:30",
+      "lastChecked": "06:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 06:30",
+    "expiresAt": "2026-11-03 06:34",
     "items": [
       {
         "channel": "Iran International",
@@ -826,14 +826,21 @@
         "text": "Iranians in Calgary, Canada, held gatherings to commemorate the 7th of Aban, the day of Cyrus the Great, emphasizing the continuation of the Iranian national revolution. They expressed opposition to the Islamic Republic and supported Prince Reza Pahlavi.",
         "time": "06:26",
         "ts": 1793600793
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mehdi Ketabchi, coordinator of the water section in the Iran Prosperity Project, referred to Prince Reza Pahlavi's message on the occasion of Abangan and said that protecting the environment and water resources is a main program of the transition period. He considered the policy of agricultural self-sufficiency without regard to water resource limitations as a factor in the current crisis and emphasized that public participation does not replace government responsibility. He also mentioned that recording cases of environmental destruction and water pollution and supporting environmental guards are actions citizens can take before the transition.",
+        "time": "06:30",
+        "ts": 1793601024
       }
     ],
     "language": "en",
-    "packId": "20261102-19",
-    "sequence": 19,
+    "packId": "20261102-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:30"
+    "updatedAt": "06:34"
   },
   "verified": true
 }
