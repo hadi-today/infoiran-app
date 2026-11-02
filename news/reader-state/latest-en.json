@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-65 seq=65 exp=1793707823",
+      "advancedStatus": "pack_id=20261102-66 seq=66 exp=1793708099",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:10",
+      "lastChecked": "12:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 12:10",
+    "expiresAt": "2026-11-03 12:14",
     "items": [
       {
         "channel": "HRANA",
@@ -877,6 +877,13 @@
         "ts": 1793621083
       },
       {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "Tucker Carlson, an American journalist, claimed that the Trump administration under pressure from Netanyahu might launch a nuclear attack on Iran within a few days. He identified the likely target as the Koh-e-Kalang facility in central Iran and warned that such an action could endanger the lives of 100 million people and push the world toward a third world war. Maria Zakharova, spokesperson for the Russian Foreign Ministry, also expressed concern about plans for a new military action against Iran.",
+        "time": "12:06",
+        "ts": 1793621212
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Citizens in Hamedan and Tehran complain about high medical and drug costs. Supplemental insurance does not cover some expenses, and patients give up treatment due to financial inability. Drug prices range from hundreds of thousands to millions of tomans.",
@@ -885,11 +892,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261102-65",
-    "sequence": 65,
+    "packId": "20261102-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:10"
+    "updatedAt": "12:14"
   },
   "verified": true
 }
