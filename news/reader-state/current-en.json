@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261102-135 seq=135 exp=1793733890",
+      "advancedStatus": "pack_id=20261102-136 seq=136 exp=1793734153",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:24",
+      "lastChecked": "19:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-02",
-    "expiresAt": "2026-11-03 19:24",
+    "expiresAt": "2026-11-03 19:29",
     "items": [
       {
         "channel": "Iran International",
@@ -952,14 +952,21 @@
         "text": "On Thursday, 7 Aban, the family home of Pouya Taher and Rojan Ahyayi, a couple residing in Mahabad, as well as their business premises, were searched by security forces. The security forces searched the home in the absence of Pouya Taher and his wife and insulted his elderly parents during the action. This report was published by Harana News Agency.",
         "time": "19:21",
         "ts": 1793647282
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Two men in Tehran, who are cousins, were arrested on charges of sexual assault against a young girl. Judicial investigations regarding this case are ongoing.",
+        "time": "19:24",
+        "ts": 1793647465
       }
     ],
     "language": "en",
-    "packId": "20261102-135",
-    "sequence": 135,
+    "packId": "20261102-136",
+    "sequence": 136,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:24"
+    "updatedAt": "19:29"
   },
   "verified": true
 }
