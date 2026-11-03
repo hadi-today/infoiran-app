@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261103-28 seq=28 exp=1793777048",
+      "advancedStatus": "pack_id=20261103-29 seq=29 exp=1793777147",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:24",
+      "lastChecked": "07:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-03",
-    "expiresAt": "2026-11-04 07:24",
+    "expiresAt": "2026-11-04 07:25",
     "items": [
       {
         "channel": "Iran International",
@@ -938,14 +938,21 @@
         "text": "Mizan News Agency reported the execution of Amirhossein Maleki and Amirhossein Ebrahimi, two protesters arrested during the January 2026 protests, in Dastgerd Prison in Isfahan. They were defendants in the \"Aliakhani Square Isfahan\" case, which was formed after the killing of four members of the special forces and Basij during the January 8 protests. With the execution of these two protesters, the number of executions in this case has reached 9.",
         "time": "07:18",
         "ts": 1793690304
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A citizen sent a video to Iran International showing the price of two bottles of milk on 11 and 12 Aban, which increased by 20,000 tomans in one day.",
+        "time": "07:20",
+        "ts": 1793690419
       }
     ],
     "language": "en",
-    "packId": "20261103-28",
-    "sequence": 28,
+    "packId": "20261103-29",
+    "sequence": 29,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:24"
+    "updatedAt": "07:25"
   },
   "verified": true
 }
