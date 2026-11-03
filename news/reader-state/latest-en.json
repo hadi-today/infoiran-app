@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261103-137 seq=137 exp=1793816194",
+      "advancedStatus": "pack_id=20261103-138 seq=138 exp=1793816388",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:16",
+      "lastChecked": "18:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-03",
-    "expiresAt": "2026-11-04 18:16",
+    "expiresAt": "2026-11-04 18:19",
     "items": [
       {
         "channel": "Iran International",
@@ -926,6 +926,13 @@
         "ts": 1793728975
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "At least two protest gatherings were held today, Tuesday, 12 Aban, including a group of Tehran sanitation workers protesting in front of the city municipality over unfulfilled promises of status changes. Also, a group of workers at the Benro company in Saveh went on strike over unpaid months of wages and demands. Students of the Faculty of Social Sciences at the University of Tehran staged a sit-in demanding the release of detained students and political prisoners and the halt of disciplinary sentences.",
+        "time": "18:12",
+        "ts": 1793729562
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "On the eve of the US midterm elections, Republicans hold the majority in both chambers of Congress. A change in the House of Representatives' composition and Democrats gaining the majority could lead to investigations into the Trump administration's performance and make passing bills and the federal budget more difficult. If the government and Congress do not agree on the budget, a government shutdown is also possible.",
@@ -934,11 +941,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261103-137",
-    "sequence": 137,
+    "packId": "20261103-138",
+    "sequence": 138,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:16"
+    "updatedAt": "18:19"
   },
   "verified": true
 }
