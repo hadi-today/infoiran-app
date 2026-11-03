@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261103-50 seq=50 exp=1793784292",
+      "advancedStatus": "pack_id=20261103-51 seq=51 exp=1793784567",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:24",
+      "lastChecked": "09:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-03",
-    "expiresAt": "2026-11-04 09:24",
+    "expiresAt": "2026-11-04 09:29",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -812,13 +812,19 @@
         "text": "مرتضی کاظمیان، عضو تحریریه ایران اینترنشنال، گفت نمایندگان مجلس با رای حدود پنج درصد واجدان شرایط انتخاب شده‌اند و نماینده واقعی مردم ایران نیستند. او افزود رجزخوانی مقام‌های جمهوری اسلامی با واقعیت‌های جنگ و ضرباتی که حکومت متحمل شده، همخوانی ندارد.",
         "time": "09:18",
         "ts": 1793697538
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "text": "شماری از پاکبان‌ها در تهران در مقابل ساختمان شهرداری این شهر، دست به تجمع اعتراضی زدند. پاکبان‌ها خواستار تحقق وعده مسئولین در خصوص استخدام مستقیم با شهرداری و تعیین تکلیف وضعیت شغلی خود هستند.",
+        "time": "09:24",
+        "ts": 1793697896
       }
     ],
-    "packId": "20261103-50",
-    "sequence": 50,
+    "packId": "20261103-51",
+    "sequence": 51,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "09:24"
+    "updatedAt": "09:29"
   },
   "verified": true
 }
