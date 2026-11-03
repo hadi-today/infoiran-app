@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261103-126 seq=126 exp=1793812461",
+      "advancedStatus": "pack_id=20261103-127 seq=127 exp=1793813036",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:14",
+      "lastChecked": "17:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-03",
-    "expiresAt": "2026-11-04 17:14",
+    "expiresAt": "2026-11-04 17:23",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The Kepler Institute estimated Iran's floating crude oil volume outside the maritime blockade at nearly 89 million barrels in early summer. These reserves decreased to about 15 million barrels at the start of autumn, and now, according to Kepler's latest assessment, Iran's crude oil inventory in this area has reached zero. Interview with Homayoun Falakshahi, oil and energy expert at the Kepler Institute.",
-        "time": "17:14",
-        "ts": 1793639683
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "Roya Eidi-Nejad, sister of Zahra Eidi-Nejad who died in the January protests, was arrested on 3 Mehr by IRGC intelligence agents in Quchan and remains in uncertainty. Judicial officials have not provided clear information about her case status, and her temporary detention has recently been extended.",
         "time": "17:12",
         "ts": 1793725974
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The results of the US midterm congressional elections could affect Donald Trump's foreign policy and Washington's relations with Israel. More details with Babak Es-haqi, Iran International reporter.",
+        "time": "17:21",
+        "ts": 1793726495
       }
     ],
     "language": "en",
-    "packId": "20261103-126",
-    "sequence": 126,
+    "packId": "20261103-127",
+    "sequence": 127,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:14"
+    "updatedAt": "17:23"
   },
   "verified": true
 }
