@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261103-144 seq=144 exp=1793818364",
+      "advancedStatus": "pack_id=20261103-145 seq=145 exp=1793818657",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:52",
+      "lastChecked": "18:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-03",
-    "expiresAt": "2026-11-04 18:52",
+    "expiresAt": "2026-11-04 18:57",
     "items": [
       {
         "channel": "HRANA",
@@ -917,14 +917,21 @@
         "text": "The Spanish Football Federation suspended all matches under its supervision until November 6 following the death of Jesús de Miguel, the 30-year-old Tenerife forward. This decision was made to pay tribute to the deceased player and express condolences to his family and Tenerife club. The men's and women's Spanish Cup matches scheduled for this week were postponed.",
         "time": "18:47",
         "ts": 1793731649
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Iran International reported that the topic of financial supporters of the US midterm elections has been raised.",
+        "time": "18:53",
+        "ts": 1793732017
       }
     ],
     "language": "en",
-    "packId": "20261103-144",
-    "sequence": 144,
+    "packId": "20261103-145",
+    "sequence": 145,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:52"
+    "updatedAt": "18:57"
   },
   "verified": true
 }
