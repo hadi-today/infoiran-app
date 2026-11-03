@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261103-169 seq=169 exp=1793833693",
+      "advancedStatus": "pack_id=20261103-170 seq=170 exp=1793835339",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:08",
+      "lastChecked": "23:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-03",
-    "expiresAt": "2026-11-04 23:08",
+    "expiresAt": "2026-11-04 23:35",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "According to media reports in Iran, a Qatari plane said to be carrying several officials from that country to Tehran has left Tehran. Previously, the Jamaran website reported that in continuation of regional diplomatic negotiations to reduce tensions, a delegation from Qatar headed by the senior advisor to the country's prime minister had arrived in Tehran.",
-        "time": "23:25",
-        "ts": 1793661945
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -910,14 +903,21 @@
         "text": "The Iran Human Rights Organization reported that at least 77 people were executed in Iran in October. Six were executed on security charges and three detainees from the nationwide protests in Dey month were executed during this period. Additionally, at least 691 executions have been recorded in the past 10 months, including three males under 18 at the time of their alleged crimes, 23 women, and 28 foreign nationals.",
         "time": "23:02",
         "ts": 1793746966
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "In one of the voting districts in Virginia Beach, a designated area around the polling place has been set to prevent election campaigning. No party advertisements are allowed in this area, and Republican and Democratic representatives must also speak with voters outside of it.",
+        "time": "23:34",
+        "ts": 1793748885
       }
     ],
     "language": "en",
-    "packId": "20261103-169",
-    "sequence": 169,
+    "packId": "20261103-170",
+    "sequence": 170,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:08"
+    "updatedAt": "23:35"
   },
   "verified": true
 }
