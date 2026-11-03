@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261103-97 seq=97 exp=1793800973",
+      "advancedStatus": "pack_id=20261103-98 seq=98 exp=1793801722",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:02",
+      "lastChecked": "14:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-03",
-    "expiresAt": "2026-11-04 14:02",
+    "expiresAt": "2026-11-04 14:15",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Reuters reported that Wang Yi, China's foreign minister, warned during a meeting with Musaed Al Aiban, Saudi Arabia's national security advisor, in Beijing that the Gulf region is at a \"sensitive juncture between war and peace.\" Wang Yi expressed hope that all parties can end conflicts through negotiation and emphasized the need to protect energy security and shipping routes in the region. Additionally, Mohammed bin Salman sent a message to Xi Jinping regarding bilateral relations and ways to develop cooperation.",
-        "time": "14:14",
-        "ts": 1793628890
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "Trump said that last night they targeted an air defense facility that had taken two months to build. He emphasized that this attack was not a major war and added that a real war has not yet occurred. Trump also spoke about Iran's situation and its nuclear program.",
         "time": "13:59",
         "ts": 1793714364
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Prince Reza Pahlavi met with Christophe Gomar, Vice-Chair of the Security and Defense Committee of the European Parliament, in Brussels on Tuesday, 12 Aban. They discussed ways to support the people of Iran. Gomar expressed strong support for the Iranian people and their struggle against the Islamic Republic, and both sides explored practical ways to support Iranians, including helping maintain access to free internet.",
+        "time": "14:12",
+        "ts": 1793715147
       }
     ],
     "language": "en",
-    "packId": "20261103-97",
-    "sequence": 97,
+    "packId": "20261103-98",
+    "sequence": 98,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:02"
+    "updatedAt": "14:15"
   },
   "verified": true
 }
