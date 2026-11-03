@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261103-129 seq=129 exp=1793813937",
+      "advancedStatus": "pack_id=20261103-130 seq=130 exp=1793814033",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:38",
+      "lastChecked": "17:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-03",
-    "expiresAt": "2026-11-04 17:38",
+    "expiresAt": "2026-11-04 17:40",
     "items": [
       {
         "channel": "HRANA",
@@ -910,14 +910,21 @@
         "text": "Reuters reported that a bomb threat on the cruise ship \"Crown Iris\" at the port of Syros Island, Greece, on Tuesday, 12 Aban, led to security operations. Initial inspections found no explosive devices. Also, at least seven flights in Europe faced bomb threats on Tuesday, causing airport disruptions but no explosives were found.",
         "time": "17:33",
         "ts": 1793727225
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Arash Aramesh, a legal expert and national security analyst, said that if the Democrats win and gain the majority in the U.S. House of Representatives, Donald Trump will face more political restrictions and pressures, but this does not necessarily mean a fundamental change in his administration's foreign policy.",
+        "time": "17:36",
+        "ts": 1793727411
       }
     ],
     "language": "en",
-    "packId": "20261103-129",
-    "sequence": 129,
+    "packId": "20261103-130",
+    "sequence": 130,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:38"
+    "updatedAt": "17:40"
   },
   "verified": true
 }
