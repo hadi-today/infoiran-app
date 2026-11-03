@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261103-150 seq=150 exp=1793819804",
+      "advancedStatus": "pack_id=20261103-151 seq=151 exp=1793820095",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:16",
+      "lastChecked": "19:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-03",
-    "expiresAt": "2026-11-04 19:16",
+    "expiresAt": "2026-11-04 19:21",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "On Thursday, 7 Aban, the family home of Pouya Taher and Rojan Ahyayi, a couple residing in Mahabad, as well as their business premises, were searched by security forces. The security forces searched the home in the absence of Pouya Taher and his wife and insulted his elderly parents during the action. This report was published by Harana News Agency.",
-        "time": "19:21",
-        "ts": 1793647282
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -931,14 +924,21 @@
         "text": "Ali Sadrazadeh, a Middle East analyst, said Gulf countries are concerned that if a conflict occurs between the US and the Islamic Republic, they will be targeted by the Islamic Republic and suffer the most damage. He added that these concerns have overshadowed the regional countries' views on the policies of the Republican and Democratic parties towards Iran and the region ahead of the US midterm elections.",
         "time": "19:12",
         "ts": 1793733146
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Negar Mojtahedi, a reporter for Iran International, received the 2026 Bill Good Award at the 40th annual Webster Awards in Vancouver for her reporting on war, government violence, and human rights violations in Iran. She received the award at the November 2 ceremony and dedicated it to the people of Iran, especially those who lost their lives seeking freedom. Mojtahedi emphasized the serious dangers journalists face under the Islamic Republic's rule.",
+        "time": "19:18",
+        "ts": 1793733521
       }
     ],
     "language": "en",
-    "packId": "20261103-150",
-    "sequence": 150,
+    "packId": "20261103-151",
+    "sequence": 151,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:16"
+    "updatedAt": "19:21"
   },
   "verified": true
 }
