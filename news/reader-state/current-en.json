@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261103-70 seq=70 exp=1793792363",
+      "advancedStatus": "pack_id=20261103-71 seq=71 exp=1793792996",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:39",
+      "lastChecked": "11:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-03",
-    "expiresAt": "2026-11-04 11:39",
+    "expiresAt": "2026-11-04 11:49",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Messages from students and families across Iran indicate increased security and ideological control in schools. Students say school officials force them to participate in government and military programs or ideological ceremonies.",
-        "time": "11:48",
-        "ts": 1793620111
-      },
       {
         "channel": "Vahid Online",
         "language": "en",
@@ -938,14 +931,21 @@
         "text": "A citizen sent a video to Iran International showing the refrigerator in his home and said: \"There are a few eggs, some cheese, and a tomato paste left. The economic situation of the people of Iran is not good.\"",
         "time": "11:34",
         "ts": 1793705662
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "On the evening of Monday, 11 Aban, a number of women from the village of Tamp Rigan in Iranshahr County protested the drinking water cut and other livelihood problems by gathering in front of the village gas station, demanding attention to their demands.",
+        "time": "11:43",
+        "ts": 1793706231
       }
     ],
     "language": "en",
-    "packId": "20261103-70",
-    "sequence": 70,
+    "packId": "20261103-71",
+    "sequence": 71,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:39"
+    "updatedAt": "11:49"
   },
   "verified": true
 }
