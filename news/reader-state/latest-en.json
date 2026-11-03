@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261103-141 seq=141 exp=1793817786",
+      "advancedStatus": "pack_id=20261103-142 seq=142 exp=1793817891",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:43",
+      "lastChecked": "18:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-03",
-    "expiresAt": "2026-11-04 18:43",
+    "expiresAt": "2026-11-04 18:44",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Donald Trump, the President of the United States, said in an interview with Israel's Channel 12 that he is in no hurry to resume war with Iran and is currently continuing economic pressure on the Islamic Republic. He said that contrary to his expectations, the leaders of the Islamic Republic do not feel urgency to reach an agreement but now more than ever want a deal with the US. Trump also said about the Tehran-Washington talks mediated by Qatar that the negotiations are progressing well but they are not sure who the decision-maker is.",
-        "time": "18:43",
-        "ts": 1793644992
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -917,14 +910,21 @@
         "text": "A student from Kermanshah sent a video to Iran International showing forms for \"parental consent\" and said students were forced to participate in the official ceremony on 13 Aban [2026-11-04].",
         "time": "18:32",
         "ts": 1793730731
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The New York Times reported, citing American and regional officials, that Israel has provided the US with intelligence about the possibility of the Islamic Republic using chemical weapons. This information has met concern and serious doubt among some American officials. Israel has also shared part of this intelligence with Gulf countries.",
+        "time": "18:41",
+        "ts": 1793731278
       }
     ],
     "language": "en",
-    "packId": "20261103-141",
-    "sequence": 141,
+    "packId": "20261103-142",
+    "sequence": 142,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:43"
+    "updatedAt": "18:44"
   },
   "verified": true
 }
