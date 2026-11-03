@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261103-12 seq=12 exp=1793767116",
+      "advancedStatus": "pack_id=20261103-13 seq=13 exp=1793767367",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:38",
+      "lastChecked": "04:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-03",
-    "expiresAt": "2026-11-04 04:38",
+    "expiresAt": "2026-11-04 04:42",
     "items": [
       {
         "channel": "Iran International",
@@ -959,14 +959,21 @@
         "text": "The US midterm elections on 12 Aban 1405, corresponding to November 3, 2026, will not change the president, but the new composition of Congress could make it easier or harder to implement his policies towards Iran. Niloufar Mansouri, a reporter for Iran International, reports.",
         "time": "04:37",
         "ts": 1793680640
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Shahram Kholdi, a Middle East history researcher, said military attacks alone are not enough to change Hezbollah's status, and the US and Israel now want to pressure the Lebanese government and army to disarm Hezbollah. He added that public dissatisfaction in Lebanon with Hezbollah's performance has created an opportunity for this goal. Kholdi emphasized that Israel has concluded that Lebanese society must also play a role in removing Hezbollah from the scene.",
+        "time": "04:41",
+        "ts": 1793680897
       }
     ],
     "language": "en",
-    "packId": "20261103-12",
-    "sequence": 12,
+    "packId": "20261103-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:38"
+    "updatedAt": "04:42"
   },
   "verified": true
 }
