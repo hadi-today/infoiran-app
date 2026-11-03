@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261103-02 seq=2 exp=1793750962",
+      "advancedStatus": "pack_id=20261103-03 seq=3 exp=1793752142",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:09",
+      "lastChecked": "00:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-03",
-    "expiresAt": "2026-11-04 00:09",
+    "expiresAt": "2026-11-04 00:29",
     "items": [
       {
         "channel": "Iran International",
@@ -959,14 +959,21 @@
         "text": "Yahya Golmohammadi, head coach of Iran's U23 football team, stated in a TV interview regarding rumors of him replacing Amir Ghalenoei as national team coach that such questions are not good for the national team and Iranian football, and that Amir Ghalenoei is doing his job as head coach. He added that his goal is to have a good impact on young players and create an environment for them to help the national team, and he does not want to get involved in such matters. Golmohammadi also mentioned that they have not yet had a coordination meeting with Amir Ghalenoei, but they have had a good relationship previously.",
         "time": "00:04",
         "ts": 1793664296
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Axios reported that Donald Trump is considering three options regarding Iran. JD Vance and Steve Witkoff favor a move toward an agreement and believe resuming war may not improve conditions. Benjamin Netanyahu and Pete Hegseth want to resume hostilities, while Scott Bassett, John Ratcliffe, and Marco Rubio recommend continuing economic pressure.",
+        "time": "00:24",
+        "ts": 1793665488
       }
     ],
     "language": "en",
-    "packId": "20261103-02",
-    "sequence": 2,
+    "packId": "20261103-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:09"
+    "updatedAt": "00:29"
   },
   "verified": true
 }
