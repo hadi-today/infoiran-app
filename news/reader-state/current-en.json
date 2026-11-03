@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261103-134 seq=134 exp=1793815462",
+      "advancedStatus": "pack_id=20261103-135 seq=135 exp=1793815557",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:04",
+      "lastChecked": "18:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-03",
-    "expiresAt": "2026-11-04 18:04",
+    "expiresAt": "2026-11-04 18:05",
     "items": [
       {
         "channel": "Iran International",
@@ -938,14 +938,21 @@
         "text": "The death sentence of a man convicted of complicity in murder in Tehran was confirmed by the Supreme Court. Also, a defendant in the case of killing his wife in Fariman was sentenced to death by the Fifth Branch of the Criminal Court One of Khorasan Razavi.",
         "time": "17:54",
         "ts": 1793728450
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mehdi Taj, the head of the Football Federation, announced that Amir Ghalenoei will continue as the national team coach until the 2027 Asian Cup. The Asian Cup has been postponed by one year due to ongoing attacks by Houthis supported by the Islamic Republic. Taj also promised that Ghalenoei will implement serious youth development in the national team and confirmed that the Iranian Hazfi Cup will be held with the postponement of the Asian Cup.",
+        "time": "18:02",
+        "ts": 1793728975
       }
     ],
     "language": "en",
-    "packId": "20261103-134",
-    "sequence": 134,
+    "packId": "20261103-135",
+    "sequence": 135,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:04"
+    "updatedAt": "18:05"
   },
   "verified": true
 }
