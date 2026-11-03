@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261103-14 seq=14 exp=1793767632",
+      "advancedStatus": "pack_id=20261103-15 seq=15 exp=1793767886",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:47",
+      "lastChecked": "04:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-03",
-    "expiresAt": "2026-11-04 04:47",
+    "expiresAt": "2026-11-04 04:51",
     "items": [
       {
         "channel": "Iran International",
@@ -973,14 +973,21 @@
         "text": "Several media outlets in Asia and Oceania have reported the possibility of a military attack by the US and Israel on the Islamic Republic. India Today has examined signs of preparation for a large-scale attack. South China Morning Post wrote about Netanyahu pressuring Trump to start attacks after the US elections.",
         "time": "04:45",
         "ts": 1793681124
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Donald Trump, the President of the United States, said in an interview with Israel's Channel 12 that he is not in a hurry to resume war with the Islamic Republic and prefers that economic pressures against Tehran continue for now. He emphasized that these pressures have paralyzed Iran's economy and that the Islamic Republic is more than ever since the start of the war seeking an agreement.",
+        "time": "04:47",
+        "ts": 1793681276
       }
     ],
     "language": "en",
-    "packId": "20261103-14",
-    "sequence": 14,
+    "packId": "20261103-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:47"
+    "updatedAt": "04:51"
   },
   "verified": true
 }
