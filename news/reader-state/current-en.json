@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261103-01 seq=1 exp=1793750674",
+      "advancedStatus": "pack_id=20261103-02 seq=2 exp=1793750962",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:04",
+      "lastChecked": "00:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-03",
-    "expiresAt": "2026-11-04 00:04",
+    "expiresAt": "2026-11-04 00:09",
     "items": [
       {
         "channel": "Iran International",
@@ -952,14 +952,21 @@
         "text": "According to media reports in Iran, a Qatari plane said to be carrying several officials from that country to Tehran has left Tehran. Previously, the Jamaran website reported that in continuation of regional diplomatic negotiations to reduce tensions, a delegation from Qatar headed by the senior advisor to the country's prime minister had arrived in Tehran.",
         "time": "23:25",
         "ts": 1793661945
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Yahya Golmohammadi, head coach of Iran's U23 football team, stated in a TV interview regarding rumors of him replacing Amir Ghalenoei as national team coach that such questions are not good for the national team and Iranian football, and that Amir Ghalenoei is doing his job as head coach. He added that his goal is to have a good impact on young players and create an environment for them to help the national team, and he does not want to get involved in such matters. Golmohammadi also mentioned that they have not yet had a coordination meeting with Amir Ghalenoei, but they have had a good relationship previously.",
+        "time": "00:04",
+        "ts": 1793664296
       }
     ],
     "language": "en",
-    "packId": "20261103-01",
-    "sequence": 1,
+    "packId": "20261103-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:04"
+    "updatedAt": "00:09"
   },
   "verified": true
 }
