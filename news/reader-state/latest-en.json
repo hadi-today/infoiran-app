@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261103-98 seq=98 exp=1793801722",
+      "advancedStatus": "pack_id=20261103-99 seq=99 exp=1793801998",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:15",
+      "lastChecked": "14:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-03",
-    "expiresAt": "2026-11-04 14:15",
+    "expiresAt": "2026-11-04 14:19",
     "items": [
       {
         "channel": "Iran International",
@@ -924,14 +924,21 @@
         "text": "Prince Reza Pahlavi met with Christophe Gomar, Vice-Chair of the Security and Defense Committee of the European Parliament, in Brussels on Tuesday, 12 Aban. They discussed ways to support the people of Iran. Gomar expressed strong support for the Iranian people and their struggle against the Islamic Republic, and both sides explored practical ways to support Iranians, including helping maintain access to free internet.",
         "time": "14:12",
         "ts": 1793715147
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Majid Saeedi, a photojournalist, has been detained by security forces in Tehran for 56 days, and his place of detention remains unknown. According to the HRANA news agency, the lack of information about his fate continues. There is also no information about the detaining authority or the status of his case.",
+        "time": "14:16",
+        "ts": 1793715404
       }
     ],
     "language": "en",
-    "packId": "20261103-98",
-    "sequence": 98,
+    "packId": "20261103-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:15"
+    "updatedAt": "14:19"
   },
   "verified": true
 }
