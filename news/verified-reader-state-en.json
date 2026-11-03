@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261103-143 seq=143 exp=1793818077",
+      "advancedStatus": "pack_id=20261103-144 seq=144 exp=1793818364",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:47",
+      "lastChecked": "18:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-03",
-    "expiresAt": "2026-11-04 18:47",
+    "expiresAt": "2026-11-04 18:52",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "A report states that two Afghan prisoners sentenced to death for drug-related crimes were executed at Dastgerd Prison in Isfahan on the early morning of 29 Mehr. Additionally, a child offender prisoner previously sentenced to death for murder at age 17 was executed in Dezful Prison on 28 Mordad.",
-        "time": "18:48",
-        "ts": 1793645291
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -917,14 +910,21 @@
         "text": "Kambiz Tavana, a reporter for Iran International, reported from Virginia that the close competition among House of Representatives candidates in this state could play a role in maintaining or losing the Republican majority. According to him, the presence of senior figures from both parties in the Virginia Beach election campaigns, including Mike Johnson, Speaker of the House, Hakeem Jeffries, and Chuck Schumer, indicates the importance of this competition.",
         "time": "18:46",
         "ts": 1793731593
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Spanish Football Federation suspended all matches under its supervision until November 6 following the death of Jesús de Miguel, the 30-year-old Tenerife forward. This decision was made to pay tribute to the deceased player and express condolences to his family and Tenerife club. The men's and women's Spanish Cup matches scheduled for this week were postponed.",
+        "time": "18:47",
+        "ts": 1793731649
       }
     ],
     "language": "en",
-    "packId": "20261103-143",
-    "sequence": 143,
+    "packId": "20261103-144",
+    "sequence": 144,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:47"
+    "updatedAt": "18:52"
   },
   "verified": true
 }
