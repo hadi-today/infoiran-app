@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261103-32 seq=32 exp=1793778243",
+      "advancedStatus": "pack_id=20261103-33 seq=33 exp=1793778912",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:44",
+      "lastChecked": "07:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-03",
-    "expiresAt": "2026-11-04 07:44",
+    "expiresAt": "2026-11-04 07:55",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "The Judiciary Media Center reported the arrest of a woman due to her role in organizing protest gatherings. The institution claimed that the woman was attempting to direct protesters' slogans and plan new gatherings in Tehran.",
-        "time": "07:45",
-        "ts": 1793605554
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Esmaeil Baghaei, spokesperson for the Islamic Republic's Ministry of Foreign Affairs, said on Monday, November 2, 2026, that there has been no change in the composition of the Islamic Republic's negotiating team and Qalibaf is responsible for the negotiations. Baghaei also emphasized that the exchange of messages between Tehran and Washington continues. He added that no agreement will be formed and the Strait of Hormuz will not be reopened or secured unless the US naval blockade ends and Iran's legitimate demands are operationalized.",
-        "time": "07:48",
-        "ts": 1793605703
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -945,14 +931,21 @@
         "text": "Ali Daei, former captain and coach of Iran's national football team, said at the farewell ceremony for Hamid Alidousti at Amjadieh Stadium: \"He was a man, he was an honorable person.\"",
         "time": "07:38",
         "ts": 1793691502
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The public and revolutionary prosecutor of Bam announced the arrest of 25 citizens due to what was described as \"disturbing public opinion\" through the publication of content on social media.",
+        "time": "07:52",
+        "ts": 1793692376
       }
     ],
     "language": "en",
-    "packId": "20261103-32",
-    "sequence": 32,
+    "packId": "20261103-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:44"
+    "updatedAt": "07:55"
   },
   "verified": true
 }
