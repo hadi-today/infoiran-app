@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261103-136 seq=136 exp=1793816092",
+      "advancedStatus": "pack_id=20261103-137 seq=137 exp=1793816194",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:14",
+      "lastChecked": "18:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-03",
-    "expiresAt": "2026-11-04 18:14",
+    "expiresAt": "2026-11-04 18:16",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "The approval of the \"Law on Organizing and Supervising Border Trade\" in 1402 is recognized as an official acknowledgment of the issues of kolbari and the importance of the economic conditions in border areas. Despite this law, reports of deaths among kolbars and fuel carriers at Iran's borders continue. UN experts on September 23, 2026, highlighted these tensions and emphasized that economic, social, and political factors are at the root of these problems.",
-        "time": "18:15",
-        "ts": 1793643349
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -931,14 +924,21 @@
         "text": "Mehdi Taj, the head of the Football Federation, announced that Amir Ghalenoei will continue as the national team coach until the 2027 Asian Cup. The Asian Cup has been postponed by one year due to ongoing attacks by Houthis supported by the Islamic Republic. Taj also promised that Ghalenoei will implement serious youth development in the national team and confirmed that the Iranian Hazfi Cup will be held with the postponement of the Asian Cup.",
         "time": "18:02",
         "ts": 1793728975
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "On the eve of the US midterm elections, Republicans hold the majority in both chambers of Congress. A change in the House of Representatives' composition and Democrats gaining the majority could lead to investigations into the Trump administration's performance and make passing bills and the federal budget more difficult. If the government and Congress do not agree on the budget, a government shutdown is also possible.",
+        "time": "18:12",
+        "ts": 1793729574
       }
     ],
     "language": "en",
-    "packId": "20261103-136",
-    "sequence": 136,
+    "packId": "20261103-137",
+    "sequence": 137,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:14"
+    "updatedAt": "18:16"
   },
   "verified": true
 }
