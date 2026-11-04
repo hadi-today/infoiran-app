@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-38 seq=38 exp=1793869295",
+      "advancedStatus": "pack_id=20261104-39 seq=39 exp=1793869598",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:01",
+      "lastChecked": "09:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 09:01",
+    "expiresAt": "2026-11-05 09:06",
     "items": [
       {
         "channel": "Iran International",
@@ -903,14 +903,21 @@
         "text": "The prosecutor of Chaharmahal and Bakhtiari province announced the issuance of an indictment against the principal of the private 'Saoud' school in Shahr-e Kord and other individuals related to the case of a dance video published online. The video shows dancing inside the school, which domestic media described as \"behavior unbecoming of an educational environment.\"",
         "time": "08:51",
         "ts": 1793782318
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "30 students in Miandoab were hospitalized due to symptoms of poisoning. The cause of the poisoning has not yet been determined and the matter is under investigation.",
+        "time": "09:01",
+        "ts": 1793782899
       }
     ],
     "language": "en",
-    "packId": "20261104-38",
-    "sequence": 38,
+    "packId": "20261104-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:01"
+    "updatedAt": "09:06"
   },
   "verified": true
 }
