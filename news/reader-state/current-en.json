@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-52 seq=52 exp=1793873676",
+      "advancedStatus": "pack_id=20261104-53 seq=53 exp=1793873743",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:14",
+      "lastChecked": "10:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 10:14",
+    "expiresAt": "2026-11-05 10:15",
     "items": [
       {
         "channel": "Iran International",
@@ -938,14 +938,21 @@
         "text": "Some Iran International viewers criticized the Islamic Republic officials' stance on the US midterm election results in response to the Democrats' victory. They pointed out that with two years remaining in Donald Trump's presidency, the change in congressional majority does not necessarily mean a change in US policies towards the Islamic Republic.",
         "time": "10:09",
         "ts": 1793786963
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Ali Hossein Ghazizadeh said Trump is under pressure to end the war with the Islamic Republic quickly to avoid repeating the Republican defeat in the next election. He rejected the possibility of a minimal agreement between Tehran and Washington and added that Trump must either achieve regime change in Iran or eliminate the threat capability of the Islamic Republic and the Revolutionary Guards.",
+        "time": "10:09",
+        "ts": 1793786985
       }
     ],
     "language": "en",
-    "packId": "20261104-52",
-    "sequence": 52,
+    "packId": "20261104-53",
+    "sequence": 53,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:14"
+    "updatedAt": "10:15"
   },
   "verified": true
 }
