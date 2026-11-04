@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-36 seq=36 exp=1793868681",
+      "advancedStatus": "pack_id=20261104-37 seq=37 exp=1793869002",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:51",
+      "lastChecked": "08:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 08:51",
+    "expiresAt": "2026-11-05 08:56",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The order to cut internet in Iran usually comes from the Supreme National Security Council, but the key to the cut is pressed by a network of 690 managers and 298 companies, including the Execution of Imam Khomeini's Order and the Revolutionary Guards. This network controls and intermittently cuts the communications of the Iranian people. Companies that describe themselves as \"private\" and \"knowledge-based\" are also active in providing hardware and software for monitoring and filtering.",
-        "time": "08:54",
-        "ts": 1793696049
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -910,14 +903,21 @@
         "text": "Joachim Wadephul, Germany's Foreign Minister, identified the Islamic Republic as the main cause of current conflicts and said Tehran's actions have paved the way for military responses from other countries. He stated that the Islamic Republic is preparing to acquire nuclear weapons and supports paramilitary groups in neighboring countries. The German Foreign Minister emphasized that the Islamic Republic's behavior is neither harmless nor friendly and may provoke a military reaction.",
         "time": "08:45",
         "ts": 1793781932
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The prosecutor of Chaharmahal and Bakhtiari province announced the issuance of an indictment against the principal of the private 'Saoud' school in Shahr-e Kord and other individuals related to the case of a dance video published online. The video shows dancing inside the school, which domestic media described as \"behavior unbecoming of an educational environment.\"",
+        "time": "08:51",
+        "ts": 1793782318
       }
     ],
     "language": "en",
-    "packId": "20261104-36",
-    "sequence": 36,
+    "packId": "20261104-37",
+    "sequence": 37,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:51"
+    "updatedAt": "08:56"
   },
   "verified": true
 }
