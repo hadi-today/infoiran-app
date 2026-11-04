@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-26 seq=26 exp=1793863685",
+      "advancedStatus": "pack_id=20261104-27 seq=27 exp=1793863979",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:28",
+      "lastChecked": "07:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 07:28",
+    "expiresAt": "2026-11-05 07:32",
     "items": [
       {
         "channel": "Iran International",
@@ -924,14 +924,21 @@
         "text": "Reza Arab, a political analyst, said that the meetings of Prince Reza Pahlavi with members of the European Parliament show that the voice of the Iranian people has been heard in European political circles. He emphasized the need to end Europe's appeasement policy towards the Islamic Republic and said that the plan to overthrow the Islamic Republic, manage the transition period, establish secular democracy, and preserve Iran's territorial integrity were the main focuses of these meetings.",
         "time": "07:25",
         "ts": 1793777105
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "According to American media, Gina Hinojosa, a Democratic member of the Texas State House of Representatives, defeated Greg Abbott, the Republican governor of the state, in the gubernatorial election, ending three decades of Republican control over the position. Hinojosa will be the first Latinx governor of Texas. Democrats are on track to gain control of the House and Senate in this election and have also won in conservative states like South Carolina and Kansas.",
+        "time": "07:30",
+        "ts": 1793777447
       }
     ],
     "language": "en",
-    "packId": "20261104-26",
-    "sequence": 26,
+    "packId": "20261104-27",
+    "sequence": 27,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:28"
+    "updatedAt": "07:32"
   },
   "verified": true
 }
