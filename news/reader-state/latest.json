@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-01 seq=1 exp=1793837487",
+      "advancedStatus": "pack_id=20261104-02 seq=2 exp=1793837823",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:11",
+      "lastChecked": "00:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 00:11",
+    "expiresAt": "2026-11-05 00:17",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -788,13 +788,19 @@
         "text": "آنیل منون، فضانورد ناسا، از ایستگاه فضایی بین‌المللی در انتخابات میان‌دوره‌ای آمریکا رای داد. او گفت برگه رای الکترونیکی‌اش را با رایانه پر کرد و برای مسئولان انتخابات شهرستان هریس در ایالت تگزاس فرستاد. به گفته منون، هر سه فضانورد آمریکایی حاضر در ایستگاه امکان رای دادن داشتند.",
         "time": "00:09",
         "ts": 1793750943
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "در انتخابات میان‌دوره‌ای آمریکا، تمام ۴۳۵ کرسی مجلس نمایندگان و ۳۵ کرسی سنا به رای گذاشته شده‌اند. نتیجه این انتخابات، کنترل دو مجلس و مسیر قانون‌گذاری و نظارت بر دولت ترامپ را در دو سال باقی‌مانده ریاست‌جمهوری او مشخص می‌کند.",
+        "time": "00:13",
+        "ts": 1793751231
       }
     ],
-    "packId": "20261104-01",
-    "sequence": 1,
+    "packId": "20261104-02",
+    "sequence": 2,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "00:11"
+    "updatedAt": "00:17"
   },
   "verified": true
 }
