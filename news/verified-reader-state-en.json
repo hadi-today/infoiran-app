@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-97 seq=97 exp=1793902231",
+      "advancedStatus": "pack_id=20261104-98 seq=98 exp=1793902523",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:10",
+      "lastChecked": "18:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 18:10",
+    "expiresAt": "2026-11-05 18:15",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "At least two protest gatherings were held today, Tuesday, 12 Aban, including a group of Tehran sanitation workers protesting in front of the city municipality over unfulfilled promises of status changes. Also, a group of workers at the Benro company in Saveh went on strike over unpaid months of wages and demands. Students of the Faculty of Social Sciences at the University of Tehran staged a sit-in demanding the release of detained students and political prisoners and the halt of disciplinary sentences.",
-        "time": "18:12",
-        "ts": 1793729562
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "On the eve of the US midterm elections, Republicans hold the majority in both chambers of Congress. A change in the House of Representatives' composition and Democrats gaining the majority could lead to investigations into the Trump administration's performance and make passing bills and the federal budget more difficult. If the government and Congress do not agree on the budget, a government shutdown is also possible.",
-        "time": "18:12",
-        "ts": 1793729574
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -798,14 +784,21 @@
         "text": "A video shows a group of students in Isfahan on Wednesday, 13 Aban, chanting \"Long live the Shah\" in the streets, coinciding with official ceremonies on that day.",
         "time": "18:05",
         "ts": 1793815515
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "At dawn on Wednesday, 13 Aban, the death sentences of four prisoners, including an Afghan national previously convicted of murder, were carried out. The executions of three of these prisoners were reported at Qezel Hesar prison in Karaj.",
+        "time": "18:10",
+        "ts": 1793815851
       }
     ],
     "language": "en",
-    "packId": "20261104-97",
-    "sequence": 97,
+    "packId": "20261104-98",
+    "sequence": 98,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:10"
+    "updatedAt": "18:15"
   },
   "verified": true
 }
