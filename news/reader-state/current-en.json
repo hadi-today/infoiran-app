@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-78 seq=78 exp=1793895217",
+      "advancedStatus": "pack_id=20261104-79 seq=79 exp=1793895528",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:13",
+      "lastChecked": "16:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 16:13",
+    "expiresAt": "2026-11-05 16:18",
     "items": [
       {
         "channel": "HRANA",
@@ -777,14 +777,21 @@
         "text": "Harana news agency reported the identification of Vahid Khodarikha, 34, one of three arrested protesters in Mashhad who have been sentenced to death on charges of \"waging war against God.\" With his identification, the identities of two of the convicted individuals in this case have been confirmed, but the identity of the third person remains unknown. Vahid Khodarikha, along with Matin Farnian, 23, and another citizen, have been sentenced to death by the Fifth Branch of the Mashhad Revolutionary Court headed by Judge Hossein Yazdankhah in a joint case.",
         "time": "16:11",
         "ts": 1793808714
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Reports indicate school closures and threats to deduct students' grades and spending resources to bring them to the November 4th ceremony. This occurs amid increased militarization and security atmosphere in schools.",
+        "time": "16:15",
+        "ts": 1793808924
       }
     ],
     "language": "en",
-    "packId": "20261104-78",
-    "sequence": 78,
+    "packId": "20261104-79",
+    "sequence": 79,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:13"
+    "updatedAt": "16:18"
   },
   "verified": true
 }
