@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-101 seq=101 exp=1793903819",
+      "advancedStatus": "pack_id=20261104-102 seq=102 exp=1793904083",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:36",
+      "lastChecked": "18:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 18:36",
+    "expiresAt": "2026-11-05 18:41",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The New York Times reported, citing American and regional officials, that Israel has provided the US with intelligence about the possibility of the Islamic Republic using chemical weapons. This information has met concern and serious doubt among some American officials. Israel has also shared part of this intelligence with Gulf countries.",
-        "time": "18:41",
-        "ts": 1793731278
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -798,14 +791,21 @@
         "text": "A video received by Iran International shows that the fourth anniversary of the killing of the martyr Erfan Zamani was commemorated at his grave. He was killed on the evening of 12 Aban 1401 during the revolutionary uprising \"Woman, Life, Freedom\" in the city of Lahijan.",
         "time": "18:30",
         "ts": 1793817048
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Prince Reza Pahlavi said in an exclusive interview with Iran International that the Islamic Republic's support for Russia in the Ukraine war and the expansion of Tehran's security threats to European soil have encouraged European countries more than before to change their policies towards the Islamic Republic. He emphasized that Europe's practical support should focus on maintaining Iranians' access to free internet, increasing economic pressures, and monitoring the assets of Islamic Republic officials. Prince Reza Pahlavi also said that for regime change, coordination of internal forces and the joining of military and law enforcement forces to the people are fundamentally important.",
+        "time": "18:38",
+        "ts": 1793817534
       }
     ],
     "language": "en",
-    "packId": "20261104-101",
-    "sequence": 101,
+    "packId": "20261104-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:36"
+    "updatedAt": "18:41"
   },
   "verified": true
 }
