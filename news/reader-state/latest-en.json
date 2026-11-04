@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-77 seq=77 exp=1793894938",
+      "advancedStatus": "pack_id=20261104-78 seq=78 exp=1793895217",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:08",
+      "lastChecked": "16:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 16:08",
+    "expiresAt": "2026-11-05 16:13",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "The number of detainees in Piranshahr increased to two with the arrest of Sadegh Abubakri, a citizen of Piranshahr, on Monday, 11 Aban.",
-        "time": "16:08",
-        "ts": 1793722138
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -777,14 +770,21 @@
         "text": "It was reported that yesterday, Kaveh Osmani, a citizen from Baneh county, was arrested by intelligence officers in this county and transferred to one of the detention centers of this security agency in Sanandaj.",
         "time": "16:04",
         "ts": 1793808262
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "Harana news agency reported the identification of Vahid Khodarikha, 34, one of three arrested protesters in Mashhad who have been sentenced to death on charges of \"waging war against God.\" With his identification, the identities of two of the convicted individuals in this case have been confirmed, but the identity of the third person remains unknown. Vahid Khodarikha, along with Matin Farnian, 23, and another citizen, have been sentenced to death by the Fifth Branch of the Mashhad Revolutionary Court headed by Judge Hossein Yazdankhah in a joint case.",
+        "time": "16:11",
+        "ts": 1793808714
       }
     ],
     "language": "en",
-    "packId": "20261104-77",
-    "sequence": 77,
+    "packId": "20261104-78",
+    "sequence": 78,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:08"
+    "updatedAt": "16:13"
   },
   "verified": true
 }
