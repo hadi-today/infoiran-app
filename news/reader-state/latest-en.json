@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-129 seq=129 exp=1793918550",
+      "advancedStatus": "pack_id=20261104-130 seq=130 exp=1793918665",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:42",
+      "lastChecked": "22:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 22:42",
+    "expiresAt": "2026-11-05 22:44",
     "items": [
       {
         "channel": "Iran International",
@@ -812,14 +812,21 @@
         "text": "Two young men were reportedly executed on Tuesday, November 3, 2026, on charges of participating in the January protests in Isfahan. According to officials of the Islamic Republic, four security forces were killed during these protests. The lawyer for some of the defendants in this case has rejected the official narrative, stating that none of the defendants were officially accused of murder.",
         "time": "22:36",
         "ts": 1793831790
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Shahir Shahidthales, an international relations analyst, said that the increase in energy prices and living costs due to the war with Iran were main factors in voter dissatisfaction and the Republican defeat in the US Congress elections. He added that the Democrats' victory could limit Donald Trump's ability to continue the war with the Islamic Republic, and Congress can use its budgetary powers to pressure government military decisions.",
+        "time": "22:38",
+        "ts": 1793831882
       }
     ],
     "language": "en",
-    "packId": "20261104-129",
-    "sequence": 129,
+    "packId": "20261104-130",
+    "sequence": 130,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:42"
+    "updatedAt": "22:44"
   },
   "verified": true
 }
