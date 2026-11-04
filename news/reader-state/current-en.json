@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-60 seq=60 exp=1793884947",
+      "advancedStatus": "pack_id=20261104-61 seq=61 exp=1793885361",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:22",
+      "lastChecked": "13:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 13:22",
+    "expiresAt": "2026-11-05 13:29",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Iran International asked its audience if, considering the experience of the 12-day and 40-day wars, they are preparing emergency backpacks this time as well. Most responses were negative, with many saying they neither have the financial means to prepare an emergency backpack nor a safe place to go. More details are provided in an interview with Seba Heydarkhani.",
-        "time": "13:25",
-        "ts": 1793712321
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -861,14 +854,21 @@
         "text": "Iranian media published a message attributed to Mojtaba Khamenei stating that hoping for a change in US behavior through party shifts or concessions is a \"mistake.\" The message, released on 13 Aban, describes any concessions to the US as encouraging further demands and wars. Masoud Pezeshkian also emphasized that Mojtaba Khamenei has given new powers to the government for negotiations with the US.",
         "time": "13:15",
         "ts": 1793798127
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "The domestic production of super gasoline has started to be offered at gas stations in Iran; the CEO of the National Refining and Distribution Company announced its price as 103,000 tomans per liter and said that more than 70 stations have been equipped to offer it. The commercial manager of the National Distribution Company stated that the final price of super gasoline ranges between 103,000 to 110,000 tomans depending on transportation costs.",
+        "time": "13:16",
+        "ts": 1793798173
       }
     ],
     "language": "en",
-    "packId": "20261104-60",
-    "sequence": 60,
+    "packId": "20261104-61",
+    "sequence": 61,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:22"
+    "updatedAt": "13:29"
   },
   "verified": true
 }
