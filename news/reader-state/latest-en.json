@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-19 seq=19 exp=1793858010",
+      "advancedStatus": "pack_id=20261104-20 seq=20 exp=1793858854",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:53",
+      "lastChecked": "06:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 05:53",
+    "expiresAt": "2026-11-05 06:07",
     "items": [
       {
         "channel": "Iran International",
@@ -931,14 +931,21 @@
         "text": "With the continued counting of votes in the US midterm elections, Democrats succeeded in gaining the Senate majority and reclaiming control of this chamber from Republicans after two years. Preliminary results also indicate Democrats leading in the House of Representatives; estimates show the party is on the verge of controlling both chambers of Congress.",
         "time": "05:51",
         "ts": 1793771465
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "Mohammad Bagher Ghalibaf, Speaker of the Islamic Consultative Assembly, described the Democrats' success in the US midterm elections as the American people's \"no\" to war. Ghalibaf said Americans said no to war either because of conscience or living costs, and we support this message. He warned that if the US government betrays its people's will, Iran's \"no\" will bring a nightmare.",
+        "time": "06:04",
+        "ts": 1793772298
       }
     ],
     "language": "en",
-    "packId": "20261104-19",
-    "sequence": 19,
+    "packId": "20261104-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:53"
+    "updatedAt": "06:07"
   },
   "verified": true
 }
