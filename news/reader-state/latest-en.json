@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-105 seq=105 exp=1793905021",
+      "advancedStatus": "pack_id=20261104-106 seq=106 exp=1793905094",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:57",
+      "lastChecked": "18:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 18:57",
+    "expiresAt": "2026-11-05 18:58",
     "items": [
       {
         "channel": "HRANA",
@@ -777,14 +777,21 @@
         "text": "Two prisoners convicted of drug-related crimes were executed in Khorramabad prison. Also, two death row prisoners in Torbat Jam and Khuzestan were released after the victims' families pardoned them. A judicial official reported that 86 people have been spared from execution in East Azerbaijan since 1402.",
         "time": "18:50",
         "ts": 1793818229
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Yesterday, the interrogation session of Azar Mansouri, a political activist, was held at Branch Two of Tehran's Security Prosecutor's Office. The case concerns the publication of a statement related to the December protests.",
+        "time": "18:55",
+        "ts": 1793818528
       }
     ],
     "language": "en",
-    "packId": "20261104-105",
-    "sequence": 105,
+    "packId": "20261104-106",
+    "sequence": 106,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:57"
+    "updatedAt": "18:58"
   },
   "verified": true
 }
