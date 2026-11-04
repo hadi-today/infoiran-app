@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-02 seq=2 exp=1793837823",
+      "advancedStatus": "pack_id=20261104-03 seq=3 exp=1793838577",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:17",
+      "lastChecked": "00:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 00:17",
+    "expiresAt": "2026-11-05 00:29",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Axios reported that Donald Trump is considering three options regarding Iran. JD Vance and Steve Witkoff favor a move toward an agreement and believe resuming war may not improve conditions. Benjamin Netanyahu and Pete Hegseth want to resume hostilities, while Scott Bassett, John Ratcliffe, and Marco Rubio recommend continuing economic pressure.",
-        "time": "00:24",
-        "ts": 1793665488
-      },
       {
         "channel": "Vahid Online",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "In the US midterm elections, all 435 seats in the House of Representatives and 35 Senate seats are up for vote. The outcome of this election will determine control of both chambers and the legislative and oversight path over the Trump administration in the remaining two years of his presidency.",
         "time": "00:13",
         "ts": 1793751231
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Morad Vaisi, senior analyst at Iran International, said he considers the likelihood of resuming war between the US and the Islamic Republic higher than reaching an agreement. He added that the outcome of the midterm elections and the future composition of Congress could make Trump's military decisions easier or harder.",
+        "time": "00:28",
+        "ts": 1793752125
       }
     ],
     "language": "en",
-    "packId": "20261104-02",
-    "sequence": 2,
+    "packId": "20261104-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:17"
+    "updatedAt": "00:29"
   },
   "verified": true
 }
