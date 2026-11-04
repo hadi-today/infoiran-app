@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-79 seq=79 exp=1793895528",
+      "advancedStatus": "pack_id=20261104-80 seq=80 exp=1793895593",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:18",
+      "lastChecked": "16:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 16:18",
+    "expiresAt": "2026-11-05 16:19",
     "items": [
       {
         "channel": "HRANA",
@@ -784,14 +784,21 @@
         "text": "Reports indicate school closures and threats to deduct students' grades and spending resources to bring them to the November 4th ceremony. This occurs amid increased militarization and security atmosphere in schools.",
         "time": "16:15",
         "ts": 1793808924
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The deputy commander of Fars police reported the arrest of a citizen in Shiraz for reasons including participation in the protests of Dey 1404, connections with opposition groups, and foreign media.",
+        "time": "16:17",
+        "ts": 1793809073
       }
     ],
     "language": "en",
-    "packId": "20261104-79",
-    "sequence": 79,
+    "packId": "20261104-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:18"
+    "updatedAt": "16:19"
   },
   "verified": true
 }
