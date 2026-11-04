@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-98 seq=98 exp=1793902523",
+      "advancedStatus": "pack_id=20261104-99 seq=99 exp=1793902835",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:15",
+      "lastChecked": "18:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 18:15",
+    "expiresAt": "2026-11-05 18:20",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Ahmad Hayat Moghadam, Vice-Chairman of the National Security Commission of the Islamic Consultative Assembly, announced that four countries—India, China, Iraq, and Qatar—have been exempted from transit restrictions in the Strait of Hormuz, and their ships freely pass through this waterway. The Islamic Republic does not collect transit fees from Qatar. The exemption for India is intended to allow medicine imports, and the decision regarding China aims to gain political support.",
-        "time": "18:17",
-        "ts": 1793729820
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -791,14 +784,21 @@
         "text": "At dawn on Wednesday, 13 Aban, the death sentences of four prisoners, including an Afghan national previously convicted of murder, were carried out. The executions of three of these prisoners were reported at Qezel Hesar prison in Karaj.",
         "time": "18:10",
         "ts": 1793815851
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "At least two protest gatherings were held in Tehran and Zahedan. On Wednesday, 13 Aban, literacy movement educators from various provinces gathered in front of the Ministry of Education in Tehran to protest job uncertainty. Yesterday, some greenhouse owners from Golshan county gathered in front of the Agriculture Jihad Organization of Sistan and Baluchestan in Zahedan to protest the non-allocation of greenhouse fuel quotas.",
+        "time": "18:17",
+        "ts": 1793816231
       }
     ],
     "language": "en",
-    "packId": "20261104-98",
-    "sequence": 98,
+    "packId": "20261104-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:15"
+    "updatedAt": "18:20"
   },
   "verified": true
 }
