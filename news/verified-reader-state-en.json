@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-112 seq=112 exp=1793907393",
+      "advancedStatus": "pack_id=20261104-113 seq=113 exp=1793907647",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:36",
+      "lastChecked": "19:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 19:36",
+    "expiresAt": "2026-11-05 19:40",
     "items": [
       {
         "channel": "Iran International",
@@ -765,6 +765,13 @@
         "ts": 1793818821
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The Iranian Short Film Association protested the issuance of a prison sentence and other punishments against Jafar Panahi. The association criticized judicial and security measures aimed at pressuring the artistic community and called for a legal review of the issued sentences. Jafar Panahi's lawyer announced last week the issuance of a five-year and one-month prison sentence and other penalties.",
+        "time": "19:17",
+        "ts": 1793819879
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Chuck Schumer, a senior Democratic Senate official in the US, said on Wednesday, 13 Aban, that the war in Iran \"must end\" and noted that his party's future majority in Congress could use its control over the government budget to advance this goal. Schumer accused Donald Trump of unstable decision-making and said the American people do not know what they are fighting for in Iran.",
@@ -794,11 +801,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261104-112",
-    "sequence": 112,
+    "packId": "20261104-113",
+    "sequence": 113,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:36"
+    "updatedAt": "19:40"
   },
   "verified": true
 }
