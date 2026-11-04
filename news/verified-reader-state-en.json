@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-93 seq=93 exp=1793900389",
+      "advancedStatus": "pack_id=20261104-94 seq=94 exp=1793900457",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:39",
+      "lastChecked": "17:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 17:39",
+    "expiresAt": "2026-11-05 17:40",
     "items": [
       {
         "channel": "HRANA",
@@ -805,14 +805,21 @@
         "text": "A video received by Iran International shows a group of schoolgirls singing the anthem \"Nam-e Javid Vatan\" together. In a significant number of schools across the country, singing this anthem has become one of the students' protest actions.",
         "time": "17:33",
         "ts": 1793813603
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Agence France-Presse reported that the postponement of the 2027 AFC Asian Cup from January to December has made Hajime Moriyasu's future with the Japan national team uncertain. Moriyasu, who was supposed to step down after the tournament, may now hand over his position to Go Oiwa at the end of 2026. He stated that the progress of Japanese football is more important than his personal situation.",
+        "time": "17:38",
+        "ts": 1793813915
       }
     ],
     "language": "en",
-    "packId": "20261104-93",
-    "sequence": 93,
+    "packId": "20261104-94",
+    "sequence": 94,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:39"
+    "updatedAt": "17:40"
   },
   "verified": true
 }
