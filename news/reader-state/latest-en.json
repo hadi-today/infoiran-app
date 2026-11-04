@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-106 seq=106 exp=1793905094",
+      "advancedStatus": "pack_id=20261104-107 seq=107 exp=1793905370",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:58",
+      "lastChecked": "19:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 18:58",
+    "expiresAt": "2026-11-05 19:02",
     "items": [
       {
         "channel": "HRANA",
@@ -784,14 +784,21 @@
         "text": "Yesterday, the interrogation session of Azar Mansouri, a political activist, was held at Branch Two of Tehran's Security Prosecutor's Office. The case concerns the publication of a statement related to the December protests.",
         "time": "18:55",
         "ts": 1793818528
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Dmitry Peskov, Kremlin spokesman, said that President Trump is still in power and expressed sincere hope that he continues his peace efforts. He added that the ground has been prepared for continuing negotiations and a new round of trilateral talks will be held soon.",
+        "time": "19:00",
+        "ts": 1793818821
       }
     ],
     "language": "en",
-    "packId": "20261104-106",
-    "sequence": 106,
+    "packId": "20261104-107",
+    "sequence": 107,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:58"
+    "updatedAt": "19:02"
   },
   "verified": true
 }
