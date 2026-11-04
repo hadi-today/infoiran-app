@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-116 seq=116 exp=1793909108",
+      "advancedStatus": "pack_id=20261104-117 seq=117 exp=1793909975",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:05",
+      "lastChecked": "20:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 20:05",
+    "expiresAt": "2026-11-05 20:19",
     "items": [
       {
         "channel": "Iran International",
@@ -791,14 +791,21 @@
         "text": "A video sent to Iran International shows that on Wednesday, 13 Aban, a sniper was stationed on top of a building for a government rally in Karaj.",
         "time": "20:00",
         "ts": 1793822451
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Miad Maleki, former head of the US Treasury Department's sanctions targeting office, said that the sanction on the Turkish airport services company may disrupt Iranian flights to this country. According to him, the continuation of this company's services to Iranian planes depends on banking restrictions and the Turkish government's decision. Maleki also said about the sanction on the tanker flag forgery network that this network helped the shadow fleet bypass sanctions using forged documents, and the new sanctions could affect the Islamic Republic's oil exports for years and strengthen Washington's leverage in negotiations.",
+        "time": "20:15",
+        "ts": 1793823323
       }
     ],
     "language": "en",
-    "packId": "20261104-116",
-    "sequence": 116,
+    "packId": "20261104-117",
+    "sequence": 117,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:05"
+    "updatedAt": "20:19"
   },
   "verified": true
 }
