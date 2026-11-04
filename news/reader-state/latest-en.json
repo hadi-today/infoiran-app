@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261104-123 seq=123 exp=1793914141",
+      "advancedStatus": "pack_id=20261104-124 seq=124 exp=1793914713",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:29",
+      "lastChecked": "21:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-04",
-    "expiresAt": "2026-11-05 21:29",
+    "expiresAt": "2026-11-05 21:38",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Prince Reza Pahlavi left the European Parliament building after about 9 hours of presence in Brussels and meetings with several members of the parliament. He discussed ways to support the people of Iran with Christophe Goumard, Vice-President of the European Parliament's Security and Defense Committee. At the same time, a group of Iranians gathered outside the parliament to express their support for Prince Reza Pahlavi.",
-        "time": "21:31",
-        "ts": 1793741496
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A citizen released a video of Iranians gathering in front of the British Prime Minister's office in London on Tuesday, protesting executions and against the Islamic Republic.",
-        "time": "21:33",
-        "ts": 1793741603
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -798,14 +784,21 @@
         "text": "After the historic defeat of the Republicans last night, many of Trump's close associates, without directly criticizing him, considered the economic consequences of the Iran war as a reason for voter alienation. An interview was conducted with Shahram Khaledi, a researcher of Middle Eastern history and international relations, about the consequences of these changes.",
         "time": "21:28",
         "ts": 1793827681
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "BBC Sport reported that Tenerife fans paid tribute to Jesus de Miguel, the team's forward, at the Heliodoro Rodriguez Lopez stadium after his death. De Miguel was severely injured during a match against Andorra on Monday after a collision with the team's goalkeeper and died on Tuesday from his injuries. Hundreds of people placed flowers, lit candles, and set up memorials for the player at the stadium.",
+        "time": "21:34",
+        "ts": 1793828059
       }
     ],
     "language": "en",
-    "packId": "20261104-123",
-    "sequence": 123,
+    "packId": "20261104-124",
+    "sequence": 124,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:29"
+    "updatedAt": "21:38"
   },
   "verified": true
 }
