@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-05 seq=5 exp=1793928852",
+      "advancedStatus": "pack_id=20261105-06 seq=6 exp=1793931338",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:34",
+      "lastChecked": "02:15",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 01:34",
+    "expiresAt": "2026-11-06 02:15",
     "items": [
       {
         "channel": "Iran International",
@@ -833,14 +833,21 @@
         "text": "Democrats in Texas set several historical records in the US midterm elections. James Talarico became the first Democrat from this state to enter the Senate after more than 30 years, and Gina Hinojosa was also elected as the first Latina female governor of Texas.",
         "time": "01:32",
         "ts": 1793842344
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Abdul El-Sayed, a Democratic senator-elect from Michigan, welcomed Donald Trump's decision to halt military aid to Israel until the end of 2026 and called for stopping the sale of American weapons to the country. El-Sayed said arms sales should be stopped because they are used for genocide and apartheid and emphasized that the money should be spent on domestic needs. Trump had previously announced an agreement with Benjamin Netanyahu to stop annual aid of about four billion dollars but said arms sales would continue.",
+        "time": "02:10",
+        "ts": 1793844627
       }
     ],
     "language": "en",
-    "packId": "20261105-05",
-    "sequence": 5,
+    "packId": "20261105-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:34"
+    "updatedAt": "02:15"
   },
   "verified": true
 }
