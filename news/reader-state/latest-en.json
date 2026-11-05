@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-133 seq=133 exp=1793991054",
+      "advancedStatus": "pack_id=20261105-134 seq=134 exp=1793991274",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:50",
+      "lastChecked": "18:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 18:50",
+    "expiresAt": "2026-11-06 18:54",
     "items": [
       {
         "channel": "HRANA",
@@ -952,14 +952,21 @@
         "text": "A citizen reported to Iran International about extortion from the families of Fashafuyeh prison inmates with the promise of their children's release. According to this citizen, individuals use families' personal information to contact them and demand money in exchange for the prisoners' release. He added that despite paying money, his son was not released, and after following up, he realized that these calls were made by some prison staff.",
         "time": "18:46",
         "ts": 1793904402
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Esmail Kowsari, a member of the National Security Commission of the Islamic Consultative Assembly, said that Democrats also dislike the Islamic Republic and Tehran must act carefully and with planning so that the US refrains from military actions in the region. He also predicted that in the near future, Congress and Donald Trump will clash and conflicts will arise between them.",
+        "time": "18:50",
+        "ts": 1793904607
       }
     ],
     "language": "en",
-    "packId": "20261105-133",
-    "sequence": 133,
+    "packId": "20261105-134",
+    "sequence": 134,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:50"
+    "updatedAt": "18:54"
   },
   "verified": true
 }
