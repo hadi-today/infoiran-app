@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-46 seq=46 exp=1793960109",
+      "advancedStatus": "pack_id=20261105-47 seq=47 exp=1793960223",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:15",
+      "lastChecked": "10:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 10:15",
+    "expiresAt": "2026-11-06 10:17",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Parliament members approved articles in a bill titled \"Combating the infiltration of intelligence services and foreign governments or institutions\" allowing courts to punish or dissolve a legal entity if a crime is committed using its name or facilities. Also, if a person commits a criminal act due to negligence harming national security or interests, they face a fifth or sixth degree punishment. If two or more conspire to commit crimes under this bill, each person's punishment can increase by one to two degrees.",
-        "time": "10:15",
-        "ts": 1793787328
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -784,14 +777,21 @@
         "text": "Financial Times reported that Russia has sold 90 advanced guided missile launchers to Iran to expand military cooperation with the Islamic Republic. According to the newspaper, the timing and details of the delivery of these equipment are not yet clear.",
         "time": "10:11",
         "ts": 1793873472
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Benjamin Netanyahu, Prime Minister of Israel, said in his first video message after the elections that extremist Islam threatens the security and Jewish identity of Israel from two external and internal fronts. Netanyahu also accused opposition leaders of preventing the formation of a national government by setting impossible conditions.",
+        "time": "10:13",
+        "ts": 1793873593
       }
     ],
     "language": "en",
-    "packId": "20261105-46",
-    "sequence": 46,
+    "packId": "20261105-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:15"
+    "updatedAt": "10:17"
   },
   "verified": true
 }
