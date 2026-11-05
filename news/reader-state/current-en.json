@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-65 seq=65 exp=1793967935",
+      "advancedStatus": "pack_id=20261105-66 seq=66 exp=1793968060",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:25",
+      "lastChecked": "12:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 12:25",
+    "expiresAt": "2026-11-06 12:27",
     "items": [
       {
         "channel": "HRANA",
@@ -882,14 +882,21 @@
         "text": "Mohammad Hossein Sepehri, a protesting teacher, was released from Vakilabad Prison in Mashhad on Wednesday, 13 Aban, after serving more than three years in prison. Sepehri was arrested by security forces in Mashhad in Mehr 1402 and transferred to Vakilabad Prison. He was sentenced by the court to a total of eight years in prison on various charges.",
         "time": "12:18",
         "ts": 1793881123
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "The Financial Times newspaper says it has obtained documents indicating that Russia has agreed to supply 90 guided missile launchers to the Islamic Republic of Iran. The newspaper stressed that the obtained documents do not specify whether the ordered launchers were ultimately delivered to Iran or not. The US State Department also announced it has sanctioned two individuals and one company for involvement in efforts to procure shoulder-launched anti-aircraft missiles for Iran.",
+        "time": "12:23",
+        "ts": 1793881402
       }
     ],
     "language": "en",
-    "packId": "20261105-65",
-    "sequence": 65,
+    "packId": "20261105-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:25"
+    "updatedAt": "12:27"
   },
   "verified": true
 }
