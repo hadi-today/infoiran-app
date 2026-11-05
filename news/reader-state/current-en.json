@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-39 seq=39 exp=1793956988",
+      "advancedStatus": "pack_id=20261105-40 seq=40 exp=1793957106",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:23",
+      "lastChecked": "09:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 09:23",
+    "expiresAt": "2026-11-06 09:25",
     "items": [
       {
         "channel": "Iran International",
@@ -805,14 +805,21 @@
         "text": "Italian media reported the landing of an unidentified Italian jet at Mehrabad Airport and its eight-hour stop in Tehran. According to the newspaper Repubblica, the plane had turned off its transmitters at times during the flight from Rome to Tehran.",
         "time": "09:19",
         "ts": 1793870359
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mohammad Taghi Naqdali, a member of parliament, said there are \"foot soldiers\" in the streets of Europe and America willing to \"bring American, Israeli, and European politicians to account,\" and the Islamic Republic is using these capacities. He stated that the response \"without geographical limitation\" can be carried out by missile or \"visible and hidden hands\" that are \"close to the enemies.\" Naqdali said the economic interests and goals of America and Israel in the region are within the reach of the Islamic Republic, and Mojtaba Khamenei's order \"has completely freed our hands to take practical action.\"",
+        "time": "09:21",
+        "ts": 1793870474
       }
     ],
     "language": "en",
-    "packId": "20261105-39",
-    "sequence": 39,
+    "packId": "20261105-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:23"
+    "updatedAt": "09:25"
   },
   "verified": true
 }
