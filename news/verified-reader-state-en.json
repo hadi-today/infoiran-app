@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-61 seq=61 exp=1793966312",
+      "advancedStatus": "pack_id=20261105-62 seq=62 exp=1793966644",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:58",
+      "lastChecked": "12:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 11:58",
+    "expiresAt": "2026-11-06 12:04",
     "items": [
       {
         "channel": "HRANA",
@@ -849,6 +849,13 @@
         "ts": 1793879142
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Hossein Rasouli Nasab and Mehdi Zarif, two detainees from the nationwide protests of Dey 1404 in Shandiz who have been sentenced to death, remain imprisoned in Vakilabad Prison in Mashhad. Their death sentences have been confirmed by the Supreme Court and their cases have been sent to the execution unit. They were previously sentenced to death on charges including waging war through participation in destruction of public property and burning religious centers.",
+        "time": "11:52",
+        "ts": 1793879564
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "The Portuguese Football Federation reacted to Cristiano Ronaldo's retirement from the national team by issuing a statement calling for a ceremony befitting his professional career. The federation appreciated Ronaldo's 234 national games and 146 goals and stated it will not allow his farewell to be held without proper respect. The statement said this will always be Ronaldo's home and thanked him for everything.",
@@ -857,11 +864,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261105-61",
-    "sequence": 61,
+    "packId": "20261105-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:58"
+    "updatedAt": "12:04"
   },
   "verified": true
 }
