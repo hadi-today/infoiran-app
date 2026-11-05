@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-95 seq=95 exp=1793977858",
+      "advancedStatus": "pack_id=20261105-96 seq=96 exp=1793978330",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:10",
+      "lastChecked": "15:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 15:10",
+    "expiresAt": "2026-11-06 15:18",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Mohammadreza Asprorin, head of the Alborz Province School Builders Charity Assembly, announced that the province still faces a shortage of 4,000 classrooms. Hassan Mehrani, CEO of this assembly, also reported a high density of students and a significant number of double-shift schools in the province. Mohammadreza Alborzi, governor of Chaharbagh County, said the county needs to build 22 new schools to meet the educational needs of students.",
-        "time": "15:15",
-        "ts": 1793805348
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -952,14 +945,21 @@
         "text": "Donald Trump told ABC News that he has received calls from people unhappy with Pete Hegseth, but he still \"fully intends\" to keep him as Secretary of War. Thomas Massie plans to bring an impeachment resolution against Hegseth to a vote next week, and several Republican sources expect the resolution to pass. Trump also confirmed that confirming the new Secretary of War will be easier before Democrats take control of Congress in January.",
         "time": "15:05",
         "ts": 1793891115
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Iran International viewers reported rising prices and shortages of bread, declining quality, and longer bakery queues. They also criticized the bread becoming smaller, changing color and taste, and going stale just minutes after purchase.",
+        "time": "15:13",
+        "ts": 1793891613
       }
     ],
     "language": "en",
-    "packId": "20261105-95",
-    "sequence": 95,
+    "packId": "20261105-96",
+    "sequence": 96,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:10"
+    "updatedAt": "15:18"
   },
   "verified": true
 }
