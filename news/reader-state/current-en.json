@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-54 seq=54 exp=1793963128",
+      "advancedStatus": "pack_id=20261105-55 seq=55 exp=1793964027",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:05",
+      "lastChecked": "11:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 11:05",
+    "expiresAt": "2026-11-06 11:20",
     "items": [
       {
         "channel": "HRANA",
@@ -805,14 +805,21 @@
         "text": "Contrary to Iran's international commitments under the Convention on the Rights of the Child and the prohibition of using children in military affairs, 600 female students from Hamadan and Kohgiluyeh and Boyer-Ahmad provinces were sent to \"Rahian-e Noor\" camps in the operational areas of southern Iran. Additionally, 5,300 other students from these two provinces will be sent to similar camps in later stages.",
         "time": "11:00",
         "ts": 1793876418
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Several managers of private hospitals have reported the accumulation of claims from insurance companies, continuous increases in drug and equipment prices, and the growing difficulty in covering treatment costs. A hospital manager said that none of about 35 insurance companies and contracted institutions have settled their 1403 debts. Managers also reported a 600% increase in the price of Ringer's serum over three years and daily changes in drug prices.",
+        "time": "11:16",
+        "ts": 1793877386
       }
     ],
     "language": "en",
-    "packId": "20261105-54",
-    "sequence": 54,
+    "packId": "20261105-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:05"
+    "updatedAt": "11:20"
   },
   "verified": true
 }
