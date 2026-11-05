@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-125 seq=125 exp=1793989065",
+      "advancedStatus": "pack_id=20261105-126 seq=126 exp=1793989635",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:17",
+      "lastChecked": "18:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 18:17",
+    "expiresAt": "2026-11-06 18:27",
     "items": [
       {
         "channel": "HRANA",
@@ -945,14 +945,21 @@
         "text": "Videos received by Iran International show that the birthday ceremony of the immortal Behruz Nikkhah was held on Thursday, 14 Aban, at his gravesite. Behruz Nikkhah, 34 years old, was killed on 19 Dey 1404 in Fardis, Alborz province.",
         "time": "18:15",
         "ts": 1793902538
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "Mohsen Rezaei, Secretary of the Supreme National Security Council of the Islamic Republic, after meeting with Vladimir Putin, said Tehran has presented seven conditions to the United States and until they are implemented, the Strait of Hormuz will not be opened and no negotiations will take place. Putin condemned US and Israeli attacks on Iran and expressed Russia's readiness to help end the war. The Rasht-Astara railway project was approved and the transfer of Russian gas to Iran was discussed.",
+        "time": "18:25",
+        "ts": 1793903107
       }
     ],
     "language": "en",
-    "packId": "20261105-125",
-    "sequence": 125,
+    "packId": "20261105-126",
+    "sequence": 126,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:17"
+    "updatedAt": "18:27"
   },
   "verified": true
 }
