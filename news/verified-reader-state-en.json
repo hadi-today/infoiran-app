@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-94 seq=94 exp=1793977727",
+      "advancedStatus": "pack_id=20261105-95 seq=95 exp=1793977858",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:08",
+      "lastChecked": "15:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 15:08",
+    "expiresAt": "2026-11-06 15:10",
     "items": [
       {
         "channel": "HRANA",
@@ -945,14 +945,21 @@
         "text": "Interfax news agency reported, quoting Dmitry Peskov, Kremlin spokesman, that Vladimir Putin met with Mohsen Rezaei, Secretary of Iran's Supreme National Security Council, at the presidential palace. Iranian media had earlier reported that Putin and Rezaei spoke by phone on 11 Aban about the regional and global situation, focusing on West Asia. The Kremlin spokesman added that they emphasized the need to continue the strategic partnership between Russia and Iran based on an action plan developed by senior leaders of both countries.",
         "time": "14:57",
         "ts": 1793890667
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Donald Trump told ABC News that he has received calls from people unhappy with Pete Hegseth, but he still \"fully intends\" to keep him as Secretary of War. Thomas Massie plans to bring an impeachment resolution against Hegseth to a vote next week, and several Republican sources expect the resolution to pass. Trump also confirmed that confirming the new Secretary of War will be easier before Democrats take control of Congress in January.",
+        "time": "15:05",
+        "ts": 1793891115
       }
     ],
     "language": "en",
-    "packId": "20261105-94",
-    "sequence": 94,
+    "packId": "20261105-95",
+    "sequence": 95,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:08"
+    "updatedAt": "15:10"
   },
   "verified": true
 }
