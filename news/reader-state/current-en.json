@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-72 seq=72 exp=1793971034",
+      "advancedStatus": "pack_id=20261105-73 seq=73 exp=1793971383",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:17",
+      "lastChecked": "13:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 13:17",
+    "expiresAt": "2026-11-06 13:23",
     "items": [
       {
         "channel": "Iran International",
@@ -889,14 +889,21 @@
         "text": "Mohammad Jafar Qaempanah, the executive deputy of Masoud Pezeshkian, described the economic crisis in the country as an \"economic war\" and said that to win this war, there is no way but cooperation of the people and reduction of gas and electricity consumption. He emphasized the necessity of preventing gas cuts to industries and production disruption, and asked people to help manage energy shortages by lowering heating device temperatures and consuming less gas.",
         "time": "13:12",
         "ts": 1793884326
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Turkish Ministry of Defense announced that a soldier of this country was killed on Friday, 9 Aban, due to shooting from Iranian territory.",
+        "time": "13:17",
+        "ts": 1793884644
       }
     ],
     "language": "en",
-    "packId": "20261105-72",
-    "sequence": 72,
+    "packId": "20261105-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:17"
+    "updatedAt": "13:23"
   },
   "verified": true
 }
