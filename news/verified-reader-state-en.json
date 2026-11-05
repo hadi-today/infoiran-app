@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-30 seq=30 exp=1793954201",
+      "advancedStatus": "pack_id=20261105-31 seq=31 exp=1793954765",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:36",
+      "lastChecked": "08:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 08:36",
+    "expiresAt": "2026-11-06 08:46",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Joachim Wadephul, Germany's Foreign Minister, identified the Islamic Republic as the main cause of current conflicts and said Tehran's actions have paved the way for military responses from other countries. He stated that the Islamic Republic is preparing to acquire nuclear weapons and supports paramilitary groups in neighboring countries. The German Foreign Minister emphasized that the Islamic Republic's behavior is neither harmless nor friendly and may provoke a military reaction.",
-        "time": "08:45",
-        "ts": 1793781932
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -798,14 +791,21 @@
         "text": "A video received by Iran International shows that two students trampled on a paper flag of the Islamic Republic during the mandatory rally on 13 Aban.",
         "time": "08:32",
         "ts": 1793867562
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Bahman Abdi, Director General of the Planning and Social Participation Office of Youth at the Ministry of Sports and Youth, stated that registering 13-year-old girls on matchmaking platforms with family consent is not necessarily a legal violation under current laws. In response to the removal of the \"Adam and Eve\" matchmaking app from Google and Meta platforms, he said that registration of girls over 13 with family consent can be legally reviewed and cannot be simply considered a violation. Matchmaking centers have been advised to raise the minimum age for accepting girls to over 15 years.",
+        "time": "08:44",
+        "ts": 1793868249
       }
     ],
     "language": "en",
-    "packId": "20261105-30",
-    "sequence": 30,
+    "packId": "20261105-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:36"
+    "updatedAt": "08:46"
   },
   "verified": true
 }
