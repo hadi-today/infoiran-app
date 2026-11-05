@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-55 seq=55 exp=1793964027",
+      "advancedStatus": "pack_id=20261105-56 seq=56 exp=1793964353",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:20",
+      "lastChecked": "11:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 11:20",
+    "expiresAt": "2026-11-06 11:25",
     "items": [
       {
         "channel": "HRANA",
@@ -812,14 +812,21 @@
         "text": "Several managers of private hospitals have reported the accumulation of claims from insurance companies, continuous increases in drug and equipment prices, and the growing difficulty in covering treatment costs. A hospital manager said that none of about 35 insurance companies and contracted institutions have settled their 1403 debts. Managers also reported a 600% increase in the price of Ringer's serum over three years and daily changes in drug prices.",
         "time": "11:16",
         "ts": 1793877386
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Saeed Hasani, a Bahá'í citizen residing in Shiraz, was released from Adel Abad prison in Shiraz after posting a bail of six billion tomans. This was reported by the HRANA news agency.",
+        "time": "11:18",
+        "ts": 1793877503
       }
     ],
     "language": "en",
-    "packId": "20261105-55",
-    "sequence": 55,
+    "packId": "20261105-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:20"
+    "updatedAt": "11:25"
   },
   "verified": true
 }
