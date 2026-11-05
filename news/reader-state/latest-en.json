@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-16 seq=16 exp=1793940469",
+      "advancedStatus": "pack_id=20261105-17 seq=17 exp=1793941025",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:47",
+      "lastChecked": "04:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 04:47",
+    "expiresAt": "2026-11-06 04:57",
     "items": [
       {
         "channel": "Iran International",
@@ -833,14 +833,21 @@
         "text": "Donald Trump, the President of the United States, acknowledged the impact of the war with the Islamic Republic on the Republican defeat in the midterm congressional elections, and emphasized that he still defends his decision to start the war and does not intend to retreat from his position.",
         "time": "04:38",
         "ts": 1793853536
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Navid Mohibi, a political analyst, said Donald Trump can continue military operations against the Islamic Republic for up to 90 days without congressional approval. He added that unlike JD Vance, Trump has no electoral considerations and if he decides to take military action again, there will be no obstacle in his way.",
+        "time": "04:53",
+        "ts": 1793854381
       }
     ],
     "language": "en",
-    "packId": "20261105-16",
-    "sequence": 16,
+    "packId": "20261105-17",
+    "sequence": 17,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:47"
+    "updatedAt": "04:57"
   },
   "verified": true
 }
