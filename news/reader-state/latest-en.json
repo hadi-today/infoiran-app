@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-35 seq=35 exp=1793956039",
+      "advancedStatus": "pack_id=20261105-36 seq=36 exp=1793956366",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:07",
+      "lastChecked": "09:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 09:07",
+    "expiresAt": "2026-11-06 09:12",
     "items": [
       {
         "channel": "HRANA",
@@ -798,14 +798,21 @@
         "text": "The media office of Prince Reza Pahlavi, in response to the death sentence of Amirhossein Mousavi, a political prisoner, called for breaking the silence and raising the voices of political prisoners at risk of execution. On Thursday, 14 Aban, the office wrote on the social network X that Mousavi was arrested due to his activities on X and his death sentence was issued based on \"forced confessions resulting from torture\" in the \"show trials of the Islamic Republic.\" Mousavi's lawyer announced on 13 Aban that his client was sentenced to death on charges of \"corruption on earth\" through activities on the social network X.",
         "time": "09:00",
         "ts": 1793869228
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Islamic Republic Broadcasting aired a live symbolic execution scene of Donald Trump, the US president, from Tajrish Square in Tehran. This public display was held after the Republicans' electoral defeat in the US midterm elections. In the scene, a person wearing a Trump mask and prisoner clothes played his role while spectators closely watched the performance.",
+        "time": "09:10",
+        "ts": 1793869807
       }
     ],
     "language": "en",
-    "packId": "20261105-35",
-    "sequence": 35,
+    "packId": "20261105-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:07"
+    "updatedAt": "09:12"
   },
   "verified": true
 }
