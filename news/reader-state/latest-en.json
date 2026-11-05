@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-10 seq=10 exp=1793938718",
+      "advancedStatus": "pack_id=20261105-11 seq=11 exp=1793939001",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:18",
+      "lastChecked": "04:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 04:18",
+    "expiresAt": "2026-11-06 04:23",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Omid Memarian, journalist and political analyst, referring to the Republican defeat in the US midterm elections, said Donald Trump might resort to a severe and striking military action against the Islamic Republic to end the war faster. According to Memarian, Trump might seek to record a military achievement and declare victory before the new Congress begins and Democratic oversight increases.",
-        "time": "04:19",
-        "ts": 1793765964
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -826,14 +819,21 @@
         "text": "JD Vance, the Vice President of the United States, said one day after the Democrats' victory in the midterm elections that the war with the Islamic Republic was one of the factors in the Republicans' defeat. An interview with Kambiz Tavana discussed the reactions of Donald Trump's administration officials to the election results.",
         "time": "04:17",
         "ts": 1793852246
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Miad Maleki, former head of the US Treasury Department's sanctions targeting office, said that Beijing would reduce its oil purchases from the Islamic Republic if Washington increases pressure. He also emphasized that sanctioning intermediary networks for oil transfer raises the cost of evading sanctions and makes the transfer of oil shipments to buyers more difficult and costly.",
+        "time": "04:20",
+        "ts": 1793852404
       }
     ],
     "language": "en",
-    "packId": "20261105-10",
-    "sequence": 10,
+    "packId": "20261105-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:18"
+    "updatedAt": "04:23"
   },
   "verified": true
 }
