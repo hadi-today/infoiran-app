@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-02 seq=2 exp=1793924943",
+      "advancedStatus": "pack_id=20261105-03 seq=3 exp=1793926852",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:29",
+      "lastChecked": "01:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 00:29",
+    "expiresAt": "2026-11-06 01:00",
     "items": [
-      {
-        "channel": "Vahid Online",
-        "language": "en",
-        "text": "Donald Trump told Financial Times that the United States has no immediate plans to attack Iran and considers the current situation with Tehran satisfactory. He added that the US is ready but there may be no reason for an attack and emphasized that indirect talks about Iran's enriched uranium reserves continue. Trump also said more oil is passing through the Strait of Hormuz and the blockade of Iranian ports is weakening Tehran's economy.",
-        "time": "00:53",
-        "ts": 1793753584
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -826,14 +819,21 @@
         "text": "Ari Fleischer, former White House spokesperson, responded to JD Vance's remarks by saying the problem was not the Iran war but the ceasefire. He added the war should have ended six months ago with the reopening of the Strait of Hormuz and the end of the Islamic Republic. Fleischer also called for removing second- and third-tier Iranian officials and US support for pro-Western forces.",
         "time": "00:26",
         "ts": 1793838366
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Reuters reported in an analysis that China is trying to play a more prominent role in ending the Iran-US war, but Beijing's extensive economic influence over Tehran does not mean it can end the conflicts. Xi Jinping called for preventing the Persian Gulf from becoming a field of great power competition, and Wang Yi met with Iranian and Saudi officials. China has been Iran's largest trading partner for over a decade, but trade relations are not enough to force the Islamic Republic to reach an agreement.",
+        "time": "00:59",
+        "ts": 1793840340
       }
     ],
     "language": "en",
-    "packId": "20261105-02",
-    "sequence": 2,
+    "packId": "20261105-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:29"
+    "updatedAt": "01:00"
   },
   "verified": true
 }
