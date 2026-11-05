@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-44 seq=44 exp=1793959466",
+      "advancedStatus": "pack_id=20261105-45 seq=45 exp=1793959789",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:04",
+      "lastChecked": "10:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 10:04",
+    "expiresAt": "2026-11-06 10:09",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Some Iran International viewers criticized the Islamic Republic officials' stance on the US midterm election results in response to the Democrats' victory. They pointed out that with two years remaining in Donald Trump's presidency, the change in congressional majority does not necessarily mean a change in US policies towards the Islamic Republic.",
-        "time": "10:09",
-        "ts": 1793786963
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Ali Hossein Ghazizadeh said Trump is under pressure to end the war with the Islamic Republic quickly to avoid repeating the Republican defeat in the next election. He rejected the possibility of a minimal agreement between Tehran and Washington and added that Trump must either achieve regime change in Iran or eliminate the threat capability of the Islamic Republic and the Revolutionary Guards.",
-        "time": "10:09",
-        "ts": 1793786985
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -784,14 +770,21 @@
         "text": "Gholamhossein Karbaschi, the editor-in-chief of Ham-Mihan newspaper, was sentenced by Branch One of the Criminal Court One of Tehran Province to one year in prison and two years of media activity ban. The prison sentence has been suspended for five years.",
         "time": "09:59",
         "ts": 1793872752
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Benjamin Netanyahu, Prime Minister of Israel, said in his first video message after the elections that radical Islam threatens the security and Jewish identity of Israel from two external and internal fronts. He described the Islamic Republic and its proxy groups as an external threat and parties supporting terrorism as an internal threat.",
+        "time": "10:06",
+        "ts": 1793873207
       }
     ],
     "language": "en",
-    "packId": "20261105-44",
-    "sequence": 44,
+    "packId": "20261105-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:04"
+    "updatedAt": "10:09"
   },
   "verified": true
 }
