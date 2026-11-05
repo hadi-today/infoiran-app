@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-64 seq=64 exp=1793967610",
+      "advancedStatus": "pack_id=20261105-65 seq=65 exp=1793967935",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:20",
+      "lastChecked": "12:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 12:20",
+    "expiresAt": "2026-11-06 12:25",
     "items": [
       {
         "channel": "HRANA",
@@ -870,6 +870,13 @@
         "ts": 1793880401
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The director general of forensic medicine in South Khorasan province announced that in the first half of the current year, 100 people died in traffic accidents in this province and 1410 were injured. Gholamabbas Azizi stated that among the deceased, 82 died in intercity accidents, 12 in urban accidents, and 6 on rural roads. September recorded 610 injuries, the highest number of traffic accident injuries among the months of the first half of the year.",
+        "time": "12:17",
+        "ts": 1793881036
+      },
+      {
         "channel": "Vahid Online",
         "language": "en",
         "text": "Mohammad Hossein Sepehri, a protesting teacher, was released from Vakilabad Prison in Mashhad on Wednesday, 13 Aban, after serving more than three years in prison. Sepehri was arrested by security forces in Mashhad in Mehr 1402 and transferred to Vakilabad Prison. He was sentenced by the court to a total of eight years in prison on various charges.",
@@ -878,11 +885,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261105-64",
-    "sequence": 64,
+    "packId": "20261105-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:20"
+    "updatedAt": "12:25"
   },
   "verified": true
 }
