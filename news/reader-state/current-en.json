@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-99 seq=99 exp=1793979852",
+      "advancedStatus": "pack_id=20261105-100 seq=100 exp=1793979974",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:44",
+      "lastChecked": "15:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 15:44",
+    "expiresAt": "2026-11-06 15:46",
     "items": [
       {
         "channel": "HRANA",
@@ -952,14 +952,21 @@
         "text": "Prince Reza Pahlavi, during his trip to Belgium, attended the Federal Parliament of Belgium after meeting with members of the European Parliament and holding a press conference there. The focus of his meetings in Brussels has been increasing pressure on the Islamic Republic and gaining practical support for the people of Iran.",
         "time": "15:39",
         "ts": 1793893196
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Iranian media reported that Mohsen Rezaei, Secretary of the Supreme National Security Council of the Islamic Republic, delivered a message from Mojtaba Khamenei, the leader of the Islamic Republic, to Vladimir Putin, President of Russia, during a meeting on Thursday at the Kremlin. Interfax news agency reported that Rezaei traveled to Moscow on an unannounced trip to meet and talk with Russian officials.",
+        "time": "15:42",
+        "ts": 1793893320
       }
     ],
     "language": "en",
-    "packId": "20261105-99",
-    "sequence": 99,
+    "packId": "20261105-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:44"
+    "updatedAt": "15:46"
   },
   "verified": true
 }
