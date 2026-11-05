@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-128 seq=128 exp=1793990029",
+      "advancedStatus": "pack_id=20261105-129 seq=129 exp=1793990253",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:33",
+      "lastChecked": "18:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 18:33",
+    "expiresAt": "2026-11-06 18:37",
     "items": [
       {
         "channel": "Iran International",
@@ -945,14 +945,21 @@
         "text": "A video received shows a group cutting trees with a chainsaw in Shian Park in Tehran. Shian is one of the largest and oldest forest parks in eastern Tehran.",
         "time": "18:29",
         "ts": 1793903343
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Iran International reported that Trump is at a crossroads between continuing the siege or returning to war.",
+        "time": "18:32",
+        "ts": 1793903573
       }
     ],
     "language": "en",
-    "packId": "20261105-128",
-    "sequence": 128,
+    "packId": "20261105-129",
+    "sequence": 129,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:33"
+    "updatedAt": "18:37"
   },
   "verified": true
 }
