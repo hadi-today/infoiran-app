@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-161 seq=161 exp=1794006804",
+      "advancedStatus": "pack_id=20261105-162 seq=162 exp=1794006968",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:13",
+      "lastChecked": "23:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 23:13",
+    "expiresAt": "2026-11-06 23:16",
     "items": [
       {
         "channel": "Iran International",
@@ -917,14 +917,21 @@
         "text": "Iran International reported that US Secretary of Defense Pete Hegseth, in a video recorded in front of the Pentagon on Thursday, 5 November 2026, described war with Iran as a 'courageous and historic' action and said its goal is to prevent the Islamic Republic from obtaining nuclear weapons. He also called for Congress to approve a budget package of at least $350 billion and emphasized that he would not back down from his positions. These statements were made after the Republican defeat in the midterm congressional elections.",
         "time": "22:59",
         "ts": 1793919542
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Tens of thousands of protesters gathered and marched in Paris and Nantes on Thursday evening, November 5, and police in these two cities used tear gas after clashes with some protesters. French officials announced the number of participants in nationwide demonstrations to be around 600,000, while the General Confederation of Labor put the figure at 1.6 million.",
+        "time": "23:11",
+        "ts": 1793920308
       }
     ],
     "language": "en",
-    "packId": "20261105-161",
-    "sequence": 161,
+    "packId": "20261105-162",
+    "sequence": 162,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:13"
+    "updatedAt": "23:16"
   },
   "verified": true
 }
