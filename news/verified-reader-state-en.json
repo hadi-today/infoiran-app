@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261105-130 seq=130 exp=1793990608",
+      "advancedStatus": "pack_id=20261105-131 seq=131 exp=1793990703",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:43",
+      "lastChecked": "18:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-05",
-    "expiresAt": "2026-11-06 18:43",
+    "expiresAt": "2026-11-06 18:45",
     "items": [
       {
         "channel": "HRANA",
@@ -938,14 +938,21 @@
         "text": "Iran International reported that Trump is at a crossroads between continuing the siege or returning to war.",
         "time": "18:32",
         "ts": 1793903573
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mohsen Rezaee, head of the Supreme National Security Council of the Islamic Republic, said on Thursday, 14 Aban, after meeting Vladimir Putin, President of Russia, that the two sides discussed regional developments and security arrangements after the war. Rezaee reported on the four-country meeting in Tehran, which Putin welcomed. He added that the Islamic Republic has announced seven conditions to the US, and until these are met, the Strait of Hormuz will not be opened and no negotiations will take place.",
+        "time": "18:39",
+        "ts": 1793903988
       }
     ],
     "language": "en",
-    "packId": "20261105-130",
-    "sequence": 130,
+    "packId": "20261105-131",
+    "sequence": 131,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:43"
+    "updatedAt": "18:45"
   },
   "verified": true
 }
