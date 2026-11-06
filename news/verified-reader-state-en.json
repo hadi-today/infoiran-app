@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261106-93 seq=93 exp=1794066514",
+      "advancedStatus": "pack_id=20261106-94 seq=94 exp=1794066758",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:48",
+      "lastChecked": "15:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-06",
-    "expiresAt": "2026-11-07 15:48",
+    "expiresAt": "2026-11-07 15:52",
     "items": [
       {
         "channel": "Iran International",
@@ -812,14 +812,21 @@
         "text": "Ireland's state radio and television network, RTÉ, in Dublin was evacuated on Friday, November 6, after receiving a bomb threat email. This occurred as media newsrooms in Ireland and Bulgaria also received similar threats. The sender of these messages, who identified himself as \"Mikhail Andropov,\" claimed responsibility for a widespread wave of hoax threats that have disrupted passenger flights across Europe.",
         "time": "15:43",
         "ts": 1793979800
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "According to HRANA news agency, Hamid Kazemi and Hassan Divand, two detainees from the January 2026 protests who are imprisoned in Karaj Central Penitentiary, were sentenced to death by the Second Branch of the Karaj Revolutionary Court. These two citizens were sentenced to death on charges of operational action and by invoking the intensification of the Islamic Penal Code.",
+        "time": "15:50",
+        "ts": 1793980207
       }
     ],
     "language": "en",
-    "packId": "20261106-93",
-    "sequence": 93,
+    "packId": "20261106-94",
+    "sequence": 94,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:48"
+    "updatedAt": "15:52"
   },
   "verified": true
 }
