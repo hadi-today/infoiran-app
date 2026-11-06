@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261106-86 seq=86 exp=1794064369",
+      "advancedStatus": "pack_id=20261106-87 seq=87 exp=1794064494",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:12",
+      "lastChecked": "15:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-06",
-    "expiresAt": "2026-11-07 15:12",
+    "expiresAt": "2026-11-07 15:14",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Iran International viewers reported rising prices and shortages of bread, declining quality, and longer bakery queues. They also criticized the bread becoming smaller, changing color and taste, and going stale just minutes after purchase.",
-        "time": "15:13",
-        "ts": 1793891613
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -798,14 +791,21 @@
         "text": "Sepahan football team temporarily rose to the top of the Iranian Premier League standings with a 4-0 victory over Malavan in the twelfth week. Aluminium Arak also returned to winning ways after several weeks of failure by defeating Mes Shahr-e Babak 1-0. Malavan remained in 13th place with 10 points and Mes Shahr-e Babak stayed at the bottom of the table with five points.",
         "time": "15:11",
         "ts": 1793977886
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Persepolis football team lost 2-1 to Fajr Sepasi in the twelfth week of the Premier League and lost the top spot. Fajr Sepasi took the lead with goals from Ehsan Pahlevan and Abolfazl Mordi, while Persepolis scored one own goal by Masoud Rigi. After the match, Persepolis fans chanted slogans against Mehdi Tartaar.",
+        "time": "15:11",
+        "ts": 1793977901
       }
     ],
     "language": "en",
-    "packId": "20261106-86",
-    "sequence": 86,
+    "packId": "20261106-87",
+    "sequence": 87,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:12"
+    "updatedAt": "15:14"
   },
   "verified": true
 }
