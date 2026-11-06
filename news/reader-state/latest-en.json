@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261106-120 seq=120 exp=1794079178",
+      "advancedStatus": "pack_id=20261106-121 seq=121 exp=1794079480",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:19",
+      "lastChecked": "19:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-06",
-    "expiresAt": "2026-11-07 19:19",
+    "expiresAt": "2026-11-07 19:24",
     "items": [
       {
         "channel": "Iran International",
@@ -770,14 +770,21 @@
         "text": "It was reported in the audio version of Harfe Akhar with Pouria Zeraati that Trump's order to start the heaviest military operation in the last ten years was mentioned.",
         "time": "18:56",
         "ts": 1793991369
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "On Friday, 15 Aban, a number of citizens in Shahroud held a march and protest demanding the closure of the bauxite mine in the city. According to these citizens, the continuation of the mine's activities has seriously endangered the region's water resources and environment.",
+        "time": "19:18",
+        "ts": 1793992730
       }
     ],
     "language": "en",
-    "packId": "20261106-120",
-    "sequence": 120,
+    "packId": "20261106-121",
+    "sequence": 121,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:19"
+    "updatedAt": "19:24"
   },
   "verified": true
 }
