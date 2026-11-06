@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261106-106 seq=106 exp=1794073457",
+      "advancedStatus": "pack_id=20261106-107 seq=107 exp=1794073590",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:44",
+      "lastChecked": "17:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-06",
-    "expiresAt": "2026-11-07 17:44",
+    "expiresAt": "2026-11-07 17:46",
     "items": [
       {
         "channel": "HRANA",
@@ -805,14 +805,21 @@
         "text": "In two work accidents at Rayan Polymer Pouya Company and a gypsum factory in Espiran, Tabriz, one worker died and two others were injured. Also, a well-digger worker in Mashhad was injured after falling into a well.",
         "time": "17:40",
         "ts": 1793986853
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Nobel Peace Center in Oslo was transformed into a realm of light on Thursday, 14 Aban, with light artworks by artists from across Europe. The fifth edition of the \"Fjord Oslo\" festival has illuminated buildings and public spaces in Norway's capital with large-scale light installations. This festival is part of the European cultural cooperation project \"Imagining Peace,\" funded by the European Union.",
+        "time": "17:43",
+        "ts": 1793986994
       }
     ],
     "language": "en",
-    "packId": "20261106-106",
-    "sequence": 106,
+    "packId": "20261106-107",
+    "sequence": 107,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:44"
+    "updatedAt": "17:46"
   },
   "verified": true
 }
