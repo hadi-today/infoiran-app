@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261106-39 seq=39 exp=1794044287",
+      "advancedStatus": "pack_id=20261106-40 seq=40 exp=1794044580",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:38",
+      "lastChecked": "09:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-06",
-    "expiresAt": "2026-11-07 09:38",
+    "expiresAt": "2026-11-07 09:43",
     "items": [
       {
         "channel": "HRANA",
@@ -917,14 +917,21 @@
         "text": "A video shows that Javid Rezaei's mother placed her teenage son's clothes on his gravestone and cried in his memory. Javid Rezaei was killed by Islamic Republic agents during the January 8 protests in Zanjan at the age of 17.",
         "time": "09:34",
         "ts": 1793957676
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Rainfall on the early morning of Friday, 15 Aban, caused flooding and problems for people in parts of eastern Mazandaran.",
+        "time": "09:41",
+        "ts": 1793958092
       }
     ],
     "language": "en",
-    "packId": "20261106-39",
-    "sequence": 39,
+    "packId": "20261106-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:38"
+    "updatedAt": "09:43"
   },
   "verified": true
 }
