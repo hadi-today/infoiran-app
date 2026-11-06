@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261106-58 seq=58 exp=1794051540",
+      "advancedStatus": "pack_id=20261106-59 seq=59 exp=1794051856",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:39",
+      "lastChecked": "11:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-06",
-    "expiresAt": "2026-11-07 11:39",
+    "expiresAt": "2026-11-07 11:44",
     "items": [
       {
         "channel": "HRANA",
@@ -882,14 +882,21 @@
         "text": "As the time approaches for the 2026 Friedrich Naumann Foundation Freedom Award to be given to Prince Reza Pahlavi, who will receive it on behalf of the people of Iran, a video has reached Iran International showing a citizen writing on a city wall: \"From Iran to Germany, November 7, Long live the Shah.\"",
         "time": "11:31",
         "ts": 1793964676
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "New information received by Iran International indicates that the IRGC in Qazvin province had ordered shooting protesters before January 8. After the protests, the IRGC sent forces to schools to intimidate students to identify families of protesters. Seba Heydarkhani discusses the Qazvin protests in January in the Geography of the Iranian National Revolution program.",
+        "time": "11:41",
+        "ts": 1793965266
       }
     ],
     "language": "en",
-    "packId": "20261106-58",
-    "sequence": 58,
+    "packId": "20261106-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:39"
+    "updatedAt": "11:44"
   },
   "verified": true
 }
