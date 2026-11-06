@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261106-99 seq=99 exp=1794069259",
+      "advancedStatus": "pack_id=20261106-100 seq=100 exp=1794070159",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:34",
+      "lastChecked": "16:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-06",
-    "expiresAt": "2026-11-07 16:34",
+    "expiresAt": "2026-11-07 16:49",
     "items": [
       {
         "channel": "Iran International",
@@ -819,14 +819,21 @@
         "text": "A video of a gas pipeline explosion in Gachsaran on Friday was sent to Iran International. The governor of this county said the explosion occurred during the execution of a municipal development project and was caused by a bulldozer hitting the pipeline.",
         "time": "16:31",
         "ts": 1793982719
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Bloomberg reported that after months of deadlock in negotiations with the US, the Islamic Republic is considering Qatar's proposals regarding its nuclear activities; an action that could restart the stalled talks.",
+        "time": "16:45",
+        "ts": 1793983552
       }
     ],
     "language": "en",
-    "packId": "20261106-99",
-    "sequence": 99,
+    "packId": "20261106-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:34"
+    "updatedAt": "16:49"
   },
   "verified": true
 }
