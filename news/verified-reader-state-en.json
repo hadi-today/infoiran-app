@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261106-100 seq=100 exp=1794070159",
+      "advancedStatus": "pack_id=20261106-101 seq=101 exp=1794070469",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:49",
+      "lastChecked": "16:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-06",
-    "expiresAt": "2026-11-07 16:49",
+    "expiresAt": "2026-11-07 16:54",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Mohammad Eslami, head of the Atomic Energy Organization, said Rafael Grossi, director general of the International Atomic Energy Agency, provides information to the enemies of the Islamic Republic. He also said Donald Trump's threats to attack Mount Koulak and other locations are a sign of American \"desperation.\" Eslami added these actions misuse the powers of international bodies and reveal serious weaknesses in the UN Charter and the Nuclear Non-Proliferation Treaty (NPT).",
-        "time": "16:54",
-        "ts": 1793897653
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -826,14 +819,21 @@
         "text": "Bloomberg reported that after months of deadlock in negotiations with the US, the Islamic Republic is considering Qatar's proposals regarding its nuclear activities; an action that could restart the stalled talks.",
         "time": "16:45",
         "ts": 1793983552
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Telegraph revealed in an exclusive report confidential documents showing that a secret committee in the parliament, before the war began, proposed strengthening military relations with Russia and China and developing air defense, missiles, and drones for the survival of the Islamic Republic. The newspaper disclosed that the Islamic Republic and Russia are negotiating an agreement to send advanced air defense systems to Tehran. The Telegraph wrote that Mojtaba Khamenei, leader of the Islamic Republic, sent Mohsen Rezaei to the Kremlin with a personal letter whose main request was the supply of the S-400 air defense system.",
+        "time": "16:50",
+        "ts": 1793983856
       }
     ],
     "language": "en",
-    "packId": "20261106-100",
-    "sequence": 100,
+    "packId": "20261106-101",
+    "sequence": 101,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:49"
+    "updatedAt": "16:54"
   },
   "verified": true
 }
