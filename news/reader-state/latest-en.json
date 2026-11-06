@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261106-10 seq=10 exp=1794025889",
+      "advancedStatus": "pack_id=20261106-11 seq=11 exp=1794026185",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:31",
+      "lastChecked": "04:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-06",
-    "expiresAt": "2026-11-07 04:31",
+    "expiresAt": "2026-11-07 04:36",
     "items": [
       {
         "channel": "Iran International",
@@ -875,14 +875,21 @@
         "text": "Sadegh Beigdeli said Trump is at a crossroads after the US midterm elections between continuing military pressure on the Islamic Republic or accepting the status quo. He added that if Trump concludes the Islamic Republic will not concede on the enriched uranium issue, he might first deliver a hard blow to the regime and then enter negotiations with Putin's help.",
         "time": "04:26",
         "ts": 1793939208
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Alireza Namvar Haghighi, a political analyst, said that the public announcement of nuclear weapon development by Islamic Republic officials, instead of strengthening deterrence, could increase the likelihood of attacks by the US and Israel on Iran's nuclear facilities. He also said that this propaganda raises concerns among neighboring countries and their willingness to cooperate against the Islamic Republic, delaying the possibility of reaching an agreement.",
+        "time": "04:31",
+        "ts": 1793939465
       }
     ],
     "language": "en",
-    "packId": "20261106-10",
-    "sequence": 10,
+    "packId": "20261106-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:31"
+    "updatedAt": "04:36"
   },
   "verified": true
 }
