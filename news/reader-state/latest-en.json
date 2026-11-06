@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261106-132 seq=132 exp=1794088910",
+      "advancedStatus": "pack_id=20261106-133 seq=133 exp=1794089214",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:01",
+      "lastChecked": "22:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-06",
-    "expiresAt": "2026-11-07 22:01",
+    "expiresAt": "2026-11-07 22:06",
     "items": [
       {
         "channel": "Iran International",
@@ -728,14 +728,21 @@
         "text": "Yasmin Pahlavi said Frankfurt police officially informed them that they are not allowed to attend or speak at the Saturday gathering and will prevent their presence. The police cited threats from the Islamic Republic to violence and the possibility of participants being targeted as reasons for this decision. Yasmin Pahlavi considered this decision influenced by political considerations.",
         "time": "21:51",
         "ts": 1794001864
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "Domestic media reported early Saturday about hearing explosions and aircraft movement in Qeshm Island and Bandar Khamir. IRNA news agency, quoting eyewitnesses, stated that two projectiles hit the Suza area on Qeshm Island, but provincial sources have not yet explained the nature and details. Fars news agency confirmed hearing the explosions in Qeshm and Bandar Khamir and suggested this event might be related to a warning shot fired towards the Strait of Hormuz.",
+        "time": "22:01",
+        "ts": 1794002483
       }
     ],
     "language": "en",
-    "packId": "20261106-132",
-    "sequence": 132,
+    "packId": "20261106-133",
+    "sequence": 133,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:01"
+    "updatedAt": "22:06"
   },
   "verified": true
 }
