@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261106-98 seq=98 exp=1794068798",
+      "advancedStatus": "pack_id=20261106-99 seq=99 exp=1794069259",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:26",
+      "lastChecked": "16:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-06",
-    "expiresAt": "2026-11-07 16:26",
+    "expiresAt": "2026-11-07 16:34",
     "items": [
       {
         "channel": "Iran International",
@@ -812,14 +812,21 @@
         "text": "The Times of Israel, citing two sources, reported that Islamic Republic negotiators are considering proposals that would lead to a significant reduction in US sanctions in exchange for limiting the nuclear program. An American official and a diplomat familiar with the matter told the outlet that Qatari mediators presented these proposals to the Iranian side in several rounds of talks over the past week in Tehran and Doha. According to them, Tehran had previously not even been willing to discuss the issue.",
         "time": "16:20",
         "ts": 1793982018
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video of a gas pipeline explosion in Gachsaran on Friday was sent to Iran International. The governor of this county said the explosion occurred during the execution of a municipal development project and was caused by a bulldozer hitting the pipeline.",
+        "time": "16:31",
+        "ts": 1793982719
       }
     ],
     "language": "en",
-    "packId": "20261106-98",
-    "sequence": 98,
+    "packId": "20261106-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:26"
+    "updatedAt": "16:34"
   },
   "verified": true
 }
