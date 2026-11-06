@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261106-27 seq=27 exp=1794037392",
+      "advancedStatus": "pack_id=20261106-28 seq=28 exp=1794038010",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:43",
+      "lastChecked": "07:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-06",
-    "expiresAt": "2026-11-07 07:43",
+    "expiresAt": "2026-11-07 07:53",
     "items": [
       {
         "channel": "HRANA",
@@ -945,14 +945,21 @@
         "text": "A video on social media shows Erfan Esfandiari's family cutting his birthday cake in mourning. Erfan Esfandiari, 19 years old and one of the accused in the 'Alikhani Square' case in Isfahan, was executed on 28 Tir.",
         "time": "07:39",
         "ts": 1793950755
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Tamim bin Hamad Al Thani, Emir of Qatar, spoke on a phone call with Donald Trump, President of the United States, on Friday, 15 Aban, about diplomatic efforts to reduce regional tensions and achieve a comprehensive agreement to end the crisis. The two sides reviewed the latest regional developments and international efforts to reduce tensions. They also discussed the strategic relations between Qatar and the United States and ways to strengthen bilateral cooperation.",
+        "time": "07:49",
+        "ts": 1793951349
       }
     ],
     "language": "en",
-    "packId": "20261106-27",
-    "sequence": 27,
+    "packId": "20261106-28",
+    "sequence": 28,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:43"
+    "updatedAt": "07:53"
   },
   "verified": true
 }
