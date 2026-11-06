@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261106-70 seq=70 exp=1794057543",
+      "advancedStatus": "pack_id=20261106-71 seq=71 exp=1794057850",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:19",
+      "lastChecked": "13:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-06",
-    "expiresAt": "2026-11-07 13:19",
+    "expiresAt": "2026-11-07 13:24",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -734,13 +734,19 @@
         "text": "به گزارش روزنامه فرانسوی لیبراسیون، روز جمعه ۱۵ آبان چهار هشدار بمب‌گذاری علیه هواپیماها در فرانسه ثبت شد. روز پنجشنبه نیز دست‌کم ۲۵ پرواز در اروپا با تهدیدهای مشابه روبه‌رو شدند.",
         "time": "13:15",
         "ts": 1793970954
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "دادگاه اولد بیلی لندن در حال رسیدگی به پرونده ایوانیس آیدی‌نیدیس، شهروند یونانی متهم به جاسوسی از خبرنگار ایران‌اینترنشنال برای سرویس اطلاعاتی جمهوری اسلامی است. او متهم است اطلاعاتی درباره این خبرنگار جمع‌آوری کرده است.",
+        "time": "13:19",
+        "ts": 1793971189
       }
     ],
-    "packId": "20261106-70",
-    "sequence": 70,
+    "packId": "20261106-71",
+    "sequence": 71,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "13:19"
+    "updatedAt": "13:24"
   },
   "verified": true
 }
