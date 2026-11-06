@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261106-44 seq=44 exp=1794046492",
+      "advancedStatus": "pack_id=20261106-45 seq=45 exp=1794046665",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:14",
+      "lastChecked": "10:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-06",
-    "expiresAt": "2026-11-07 10:14",
+    "expiresAt": "2026-11-07 10:17",
     "items": [
       {
         "channel": "HRANA",
@@ -896,14 +896,21 @@
         "text": "Prince Reza Pahlavi reported a meeting with Bernard Canten, Belgium's Minister of the Interior, where they discussed the increasing threats of the Islamic Republic against Belgium's security and its efforts to undermine the country's democracy. He also announced that he has asked Belgium to take a leading role in the European Union in confronting the Islamic Republic.",
         "time": "10:10",
         "ts": 1793959839
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Prince Reza Pahlavi spoke about Middle East developments at the Royal Military Academy in Belgium on the last day of his trip to Brussels, invited by Theo Francken, Belgium's Defense Minister. Francken said the Islamic Republic threatened Belgium with severe consequences for hosting this speech, indicating Tehran's concern over Prince Reza Pahlavi's message. This report was provided by Lily Nikfar from Iran International.",
+        "time": "10:14",
+        "ts": 1793960054
       }
     ],
     "language": "en",
-    "packId": "20261106-44",
-    "sequence": 44,
+    "packId": "20261106-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:14"
+    "updatedAt": "10:17"
   },
   "verified": true
 }
