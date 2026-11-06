@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261106-17 seq=17 exp=1794029839",
+      "advancedStatus": "pack_id=20261106-18 seq=18 exp=1794030942",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:37",
+      "lastChecked": "05:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-06",
-    "expiresAt": "2026-11-07 05:37",
+    "expiresAt": "2026-11-07 05:55",
     "items": [
       {
         "channel": "Iran International",
@@ -896,14 +896,21 @@
         "text": "New Zealand's parliamentary election is taking place amid a very close competition between the two main parties. The latest polls show the National Party, led by the current Prime Minister, is only one percent ahead of the Labour Party, led by Chris Hipkins.",
         "time": "05:35",
         "ts": 1793943309
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Katayoun Najafizadeh, head of the Iranian Organ Donation Association, announced that last year 130 children died on the waiting list at Rajaei Hospital due to the lack of available donor hearts. During the same period, only 30 pediatric heart transplants were performed at this hospital. Najafizadeh stated that the number of brain death cases in the country has not decreased, but the utilization rate of transplantable organs from brain-dead individuals remains unsatisfactory and below expectations.",
+        "time": "05:53",
+        "ts": 1793944412
       }
     ],
     "language": "en",
-    "packId": "20261106-17",
-    "sequence": 17,
+    "packId": "20261106-18",
+    "sequence": 18,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:37"
+    "updatedAt": "05:55"
   },
   "verified": true
 }
