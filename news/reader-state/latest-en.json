@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261107-91 seq=91 exp=1794147512",
+      "advancedStatus": "pack_id=20261107-92 seq=92 exp=1794147737",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:18",
+      "lastChecked": "14:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-07",
-    "expiresAt": "2026-11-08 14:18",
+    "expiresAt": "2026-11-08 14:22",
     "items": [
       {
         "channel": "Iran International",
@@ -833,14 +833,21 @@
         "text": "According to videos received by Iran International, Iranians participating in the Frankfurt gathering, which took place after awarding a prize to Prince Reza Pahlavi, shouted \"Long live the Shah.\"",
         "time": "14:15",
         "ts": 1794060909
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Iraqi Foreign Minister said on Saturday, 16 Aban, that the current situation indicates the possibility of a renewed war in the region, and the US has officially asked Baghdad to close all its border crossings with Iran except for two. He said Baghdad has informed Tehran that it accepts friendship and alliance with Iran but does not accept the Islamic Republic's interference in Iraq's internal affairs. He also announced ongoing negotiations with the Najba Movement and Kata'ib Hezbollah regarding weapons and said Asa'ib Ahl al-Haq and Kata'ib Sayyid al-Shuhada have agreed to control their weapons.",
+        "time": "14:20",
+        "ts": 1794061242
       }
     ],
     "language": "en",
-    "packId": "20261107-91",
-    "sequence": 91,
+    "packId": "20261107-92",
+    "sequence": 92,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:18"
+    "updatedAt": "14:22"
   },
   "verified": true
 }
