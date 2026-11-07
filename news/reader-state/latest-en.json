@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261107-128 seq=128 exp=1794164273",
+      "advancedStatus": "pack_id=20261107-129 seq=129 exp=1794164886",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:57",
+      "lastChecked": "19:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-07",
-    "expiresAt": "2026-11-08 18:57",
+    "expiresAt": "2026-11-08 19:08",
     "items": [
       {
         "channel": "HRANA",
@@ -805,14 +805,21 @@
         "text": "According to Polish police, an armed person opened fire in the historic center of Krakow, the second largest city in the country, resulting in 6 deaths and about 12 injuries. Police officers shot the suspect who is now in custody. Images shared by users show the suspect and a police officer on the ground and police forces at the scene.",
         "time": "18:56",
         "ts": 1794077803
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A citizen sent a video to Iran International showing the production of beer at home simultaneously with the sound of government slogans in the street.",
+        "time": "19:04",
+        "ts": 1794078253
       }
     ],
     "language": "en",
-    "packId": "20261107-128",
-    "sequence": 128,
+    "packId": "20261107-129",
+    "sequence": 129,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:57"
+    "updatedAt": "19:08"
   },
   "verified": true
 }
