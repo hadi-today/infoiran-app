@@ -1,27 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261106-140 seq=140 exp=1794095453",
+      "advancedStatus": "pack_id=20261107-01 seq=1 exp=1794098591",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:50",
+      "lastChecked": "00:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-11-06",
-    "expiresAt": "2026-11-07 23:50",
+    "date": "2026-11-07",
+    "expiresAt": "2026-11-08 00:43",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Associated Press reported based on newly released documents that the Trump administration, despite ongoing conflict with the Islamic Republic, held secret negotiations with Tehran to deport Iranian nationals from the US. At least 12 detained Iranians were informed of possible deportation to Iran via Pakistan, potentially starting November 8. A federal judge ordered the US government to notify the court in advance about deportation plans.",
-        "time": "00:00",
-        "ts": 1793923232
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -749,14 +742,21 @@
         "text": "Sepahan football team fans set off fireworks during the match against Malavan at Naghsh-e Jahan Stadium in Isfahan on Friday, 15 Aban. They created an extraordinary atmosphere similar to scenes created by Borussia Dortmund fans at Signal Iduna Park stadium in Germany.",
         "time": "23:49",
         "ts": 1794008985
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Donald Trump said in a speech at a NASA event in Florida that the US must remain the undisputed leader in superintelligence. He added that the US is about a year ahead of China and must win. Trump also warned that sometimes superintelligence is too smart and it might be necessary to reduce its level.",
+        "time": "00:41",
+        "ts": 1794012115
       }
     ],
     "language": "en",
-    "packId": "20261106-140",
-    "sequence": 140,
+    "packId": "20261107-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:50"
+    "updatedAt": "00:43"
   },
   "verified": true
 }
