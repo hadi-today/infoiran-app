@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261107-25 seq=25 exp=1794123040",
+      "advancedStatus": "pack_id=20261107-26 seq=26 exp=1794123165",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:30",
+      "lastChecked": "07:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-07",
-    "expiresAt": "2026-11-08 07:30",
+    "expiresAt": "2026-11-08 07:32",
     "items": [
       {
         "channel": "Iran International",
@@ -742,14 +742,21 @@
         "text": "Sepahan football team defeated Malavan 4-0 in the twelfth week of the Premier League. With this victory, Sepahan reached 18 goals in the last 6 games.",
         "time": "07:26",
         "ts": 1794036374
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Hossein Alizadeh, an international affairs analyst, said the attacks on targets in Qeshm Island can be assessed within the framework of limited and controlled clashes, and currently there is no will to expand the conflict among Iran, the US, and Israel.",
+        "time": "07:29",
+        "ts": 1794036547
       }
     ],
     "language": "en",
-    "packId": "20261107-25",
-    "sequence": 25,
+    "packId": "20261107-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:30"
+    "updatedAt": "07:32"
   },
   "verified": true
 }
