@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261107-57 seq=57 exp=1794133821",
+      "advancedStatus": "pack_id=20261107-58 seq=58 exp=1794133936",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:30",
+      "lastChecked": "10:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-07",
-    "expiresAt": "2026-11-08 10:30",
+    "expiresAt": "2026-11-08 10:32",
     "items": [
       {
         "channel": "Iran International",
@@ -805,14 +805,21 @@
         "text": "The United States, Armenia, and Azerbaijan announced in a joint statement the start of technical negotiations for the implementation of the Zangazur transit route, known as the \"Trump Route.\"",
         "time": "10:27",
         "ts": 1794047251
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mohammad Javad Akbarin said that a gathering of a group of supporters of the Islamic Republic against military commanders and political officials took place while the government is trying to present a unified image of its supporters. He considered these gatherings as a sign of internal disputes within the government over negotiation, continuation of the war, and accusations of betrayal against the commanders.",
+        "time": "10:29",
+        "ts": 1794047371
       }
     ],
     "language": "en",
-    "packId": "20261107-57",
-    "sequence": 57,
+    "packId": "20261107-58",
+    "sequence": 58,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:30"
+    "updatedAt": "10:32"
   },
   "verified": true
 }
