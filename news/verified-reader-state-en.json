@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261107-59 seq=59 exp=1794135015",
+      "advancedStatus": "pack_id=20261107-60 seq=60 exp=1794135313",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:50",
+      "lastChecked": "10:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-07",
-    "expiresAt": "2026-11-08 10:50",
+    "expiresAt": "2026-11-08 10:55",
     "items": [
       {
         "channel": "HRANA",
@@ -798,14 +798,21 @@
         "text": "Mohammad Javad Akbarin said that a gathering of a group of supporters of the Islamic Republic against military commanders and political officials took place while the government is trying to present a unified image of its supporters. He considered these gatherings as a sign of internal disputes within the government over negotiation, continuation of the war, and accusations of betrayal against the commanders.",
         "time": "10:29",
         "ts": 1794047371
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Marie-Agnes Strack-Zimmermann, Chair of the European Parliament's Security and Defense Committee, said at the 2026 Friedrich Naumann Foundation Freedom Award ceremony to Prince Reza Pahlavi that the IRGC should be listed as a terrorist organization. She added that the survival of the Islamic Republic depends on creating fear inside Iran and that the German government should provide more support for the Iranian people's struggle for freedom.",
+        "time": "10:54",
+        "ts": 1794048874
       }
     ],
     "language": "en",
-    "packId": "20261107-59",
-    "sequence": 59,
+    "packId": "20261107-60",
+    "sequence": 60,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:50"
+    "updatedAt": "10:55"
   },
   "verified": true
 }
