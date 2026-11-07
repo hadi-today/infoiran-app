@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261107-133 seq=133 exp=1794168889",
+      "advancedStatus": "pack_id=20261107-134 seq=134 exp=1794169466",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:14",
+      "lastChecked": "20:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-07",
-    "expiresAt": "2026-11-08 20:14",
+    "expiresAt": "2026-11-08 20:24",
     "items": [
       {
         "channel": "Iran International",
@@ -819,14 +819,21 @@
         "text": "Iran International reported that Putin's influence in Iran will increase after Khamenei's death.",
         "time": "20:09",
         "ts": 1794082199
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mehdi Mahdavi-Azad said Russia has tried to keep the Islamic Republic neither strong enough to be independent from Moscow nor weak enough to collapse. He added that Vladimir Putin has so far used Iran's war to serve Russia's interests, especially in the Ukraine issue and the energy sector. Mahdavi-Azad raised the possibility of a change in Russia's role in the war and an expansion of military aid to the Islamic Republic.",
+        "time": "20:19",
+        "ts": 1794082773
       }
     ],
     "language": "en",
-    "packId": "20261107-133",
-    "sequence": 133,
+    "packId": "20261107-134",
+    "sequence": 134,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:14"
+    "updatedAt": "20:24"
   },
   "verified": true
 }
