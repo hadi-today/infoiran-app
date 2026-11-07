@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261107-04 seq=4 exp=1794103858",
+      "advancedStatus": "pack_id=20261107-05 seq=5 exp=1794108104",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:10",
+      "lastChecked": "03:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-07",
-    "expiresAt": "2026-11-08 02:10",
+    "expiresAt": "2026-11-08 03:21",
     "items": [
       {
         "channel": "Iran International",
@@ -756,14 +756,21 @@
         "text": "NBC News reported, citing American officials, that some of Donald Trump's advisors have told him that the window for resuming large-scale military operations in Iran is closing. These officials added that Trump's advisors have urged him to act before the new Congress convenes in January 2027, and that resuming large-scale military operations in Iran requires Trump to make his decision within the next few weeks.",
         "time": "02:07",
         "ts": 1794017249
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Wall Street Journal reported increased pressure from Trump's advisors to influence his decisions; the disagreements are over continuing diplomacy, resuming military operations, and intensifying economic pressure against Iran.",
+        "time": "03:20",
+        "ts": 1794021629
       }
     ],
     "language": "en",
-    "packId": "20261107-04",
-    "sequence": 4,
+    "packId": "20261107-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:10"
+    "updatedAt": "03:21"
   },
   "verified": true
 }
