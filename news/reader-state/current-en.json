@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261107-54 seq=54 exp=1794132894",
+      "advancedStatus": "pack_id=20261107-55 seq=55 exp=1794133020",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:14",
+      "lastChecked": "10:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-07",
-    "expiresAt": "2026-11-08 10:14",
+    "expiresAt": "2026-11-08 10:17",
     "items": [
       {
         "channel": "Iran International",
@@ -798,14 +798,21 @@
         "text": "Heavy rain in Ilam caused widespread flooding of streets and flash floods in some parts of the city. Images show some roads and vehicles submerged, disrupting citizens' traffic. The Ilam governor's office announced that due to the heavy rain, activities of kindergartens, preschool centers, and elementary schools in the province will be held remotely on the afternoon shift of Saturday, 16 Aban [Gregorian: 2026-11-07].",
         "time": "10:06",
         "ts": 1794045988
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "According to a video received by Iran International, on Saturday, 16 Aban and simultaneously with the awarding of the Freedom Prize to Prince Reza Pahlavi in Frankfurt, a group of Iranians in Bordeaux, France, displayed placards about the suppression of protests in Iran.",
+        "time": "10:12",
+        "ts": 1794046338
       }
     ],
     "language": "en",
-    "packId": "20261107-54",
-    "sequence": 54,
+    "packId": "20261107-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:14"
+    "updatedAt": "10:17"
   },
   "verified": true
 }
