@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261107-09 seq=9 exp=1794111298",
+      "advancedStatus": "pack_id=20261107-10 seq=10 exp=1794111593",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:14",
+      "lastChecked": "04:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-07",
-    "expiresAt": "2026-11-08 04:14",
+    "expiresAt": "2026-11-08 04:19",
     "items": [
       {
         "channel": "Iran International",
@@ -770,14 +770,21 @@
         "text": "Farzin Nadimi said the US warning message to the Iranian people does not necessarily mean an imminent military attack, but it can be a warning to the Islamic Republic about the seriousness of a possible military action. He added that the deployment of IRGC and Basij military bases in residential areas limits US operations and may slow down the operation speed. Nadimi said the US aims with these warnings to reduce civilian casualties and prevent the Islamic Republic from using people as human shields.",
         "time": "04:12",
         "ts": 1794024759
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Donald Trump appointed Stephen Miller, one of his closest advisers and the architect of strict immigration policies, as White House Chief of Staff three days after the Republicans' defeat in the midterm elections.",
+        "time": "04:15",
+        "ts": 1794024938
       }
     ],
     "language": "en",
-    "packId": "20261107-09",
-    "sequence": 9,
+    "packId": "20261107-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:14"
+    "updatedAt": "04:19"
   },
   "verified": true
 }
