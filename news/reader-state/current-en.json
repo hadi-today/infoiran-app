@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261107-121 seq=121 exp=1794161309",
+      "advancedStatus": "pack_id=20261107-122 seq=122 exp=1794161427",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:08",
+      "lastChecked": "18:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-07",
-    "expiresAt": "2026-11-08 18:08",
+    "expiresAt": "2026-11-08 18:10",
     "items": [
       {
         "channel": "Iran International",
@@ -826,14 +826,21 @@
         "text": "In recent weeks, a group of government supporters named 'Tavva' have gathered in front of military institutions including the army and the Revolutionary Guards, chanting slogans against them and accusing them of negligence. Some media close to the Revolutionary Guards wrote that members of this group are close to Saeed Jalili.",
         "time": "18:03",
         "ts": 1794074603
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Workers of the contracting company Kondovan Pars in Chabahar reported that they have not been paid for more than four months. According to one of these workers, several of their colleagues who went on strike on Thursday, 14 Aban, for their demands were dismissed by the company management.",
+        "time": "18:07",
+        "ts": 1794074853
       }
     ],
     "language": "en",
-    "packId": "20261107-121",
-    "sequence": 121,
+    "packId": "20261107-122",
+    "sequence": 122,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:08"
+    "updatedAt": "18:10"
   },
   "verified": true
 }
