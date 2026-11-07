@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261107-111 seq=111 exp=1794158797",
+      "advancedStatus": "pack_id=20261107-112 seq=112 exp=1794159135",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:26",
+      "lastChecked": "17:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-07",
-    "expiresAt": "2026-11-08 17:26",
+    "expiresAt": "2026-11-08 17:32",
     "items": [
       {
         "channel": "Iran International",
@@ -798,14 +798,21 @@
         "text": "Three workers died in work accidents in Mashhad and Hamedan. Two of them died in Mashhad while working with a shredder and repairing a heavy vehicle. The third, a guard of a half-finished building in Hamedan, died from carbon monoxide poisoning.",
         "time": "17:24",
         "ts": 1794072285
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video sent to Iran International shows a group of Iranians living in Spain on Saturday, 16 Aban, displaying images of martyrs in Madrid in support of Prince Reza Pahlavi and to recall the killing of people during the national revolution.",
+        "time": "17:27",
+        "ts": 1794072476
       }
     ],
     "language": "en",
-    "packId": "20261107-111",
-    "sequence": 111,
+    "packId": "20261107-112",
+    "sequence": 112,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:26"
+    "updatedAt": "17:32"
   },
   "verified": true
 }
