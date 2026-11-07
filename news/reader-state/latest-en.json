@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261107-101 seq=101 exp=1794153796",
+      "advancedStatus": "pack_id=20261107-102 seq=102 exp=1794154094",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:03",
+      "lastChecked": "16:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-07",
-    "expiresAt": "2026-11-08 16:03",
+    "expiresAt": "2026-11-08 16:08",
     "items": [
       {
         "channel": "Iran International",
@@ -791,14 +791,21 @@
         "text": "Darya Safaei, an Iranian-descendant member of the Belgian Parliament, said the gathering of Iranians in Frankfurt shows that the people of Iran are determined to reclaim their country and the day of victory is very near. She added that the view of European statesmen towards the Islamic Republic has changed and they no longer want to appease this regime.",
         "time": "15:59",
         "ts": 1794067177
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Elahe Tavakolian, an eye injury victim of the 1401 protests, said this award is for the families of the deceased and victims of repression. She hopes that one day this award will be presented to the families of the immortal and the injured in Azadi Square.",
+        "time": "16:02",
+        "ts": 1794067363
       }
     ],
     "language": "en",
-    "packId": "20261107-101",
-    "sequence": 101,
+    "packId": "20261107-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:03"
+    "updatedAt": "16:08"
   },
   "verified": true
 }
