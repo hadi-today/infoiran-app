@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261107-18 seq=18 exp=1794117980",
+      "advancedStatus": "pack_id=20261107-19 seq=19 exp=1794119178",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:06",
+      "lastChecked": "06:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-07",
-    "expiresAt": "2026-11-08 06:06",
+    "expiresAt": "2026-11-08 06:26",
     "items": [
       {
         "channel": "Iran International",
@@ -742,14 +742,21 @@
         "text": "Georges-Louis Bouchez, leader of the Reformist Movement in Belgium, called Prince Reza Pahlavi the most important figure opposing the Islamic Republic and considered supporting him natural for supporters of freedom and democracy. He emphasized that the choice of Iran's future political system is solely up to the Iranian people.",
         "time": "06:00",
         "ts": 1794031250
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Ali Akbar Jangjoo, deputy of the Medical Center for Hajj and Pilgrimage of the Red Crescent Society, said about 48% of pilgrims for Hajj 1406 suffer from one disease and 21% suffer from two diseases simultaneously. He added that about 75% of pilgrims are overweight and emphasized that increased self-care by pilgrims can reduce travel problems. Jangjoo also warned about Saudi Arabia's strictness regarding narcotic drugs, stating that if such drugs are found with a pilgrim, they could be detained for 10 to 15 days.",
+        "time": "06:25",
+        "ts": 1794032736
       }
     ],
     "language": "en",
-    "packId": "20261107-18",
-    "sequence": 18,
+    "packId": "20261107-19",
+    "sequence": 19,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:06"
+    "updatedAt": "06:26"
   },
   "verified": true
 }
