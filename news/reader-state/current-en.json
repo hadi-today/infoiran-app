@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261107-35 seq=35 exp=1794127093",
+      "advancedStatus": "pack_id=20261107-36 seq=36 exp=1794127394",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:38",
+      "lastChecked": "08:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-07",
-    "expiresAt": "2026-11-08 08:38",
+    "expiresAt": "2026-11-08 08:43",
     "items": [
       {
         "channel": "Iran International",
@@ -756,14 +756,21 @@
         "text": "A number of Iranians from Hamburg, Germany, traveled to Frankfurt on Saturday, 16 Aban, to support Prince Reza Pahlavi's presence. Prince Reza Pahlavi is scheduled to receive the 2026 Freedom Award from the Friedrich Naumann Foundation in Frankfurt on the same day.",
         "time": "08:33",
         "ts": 1794040430
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mohammad Panjali, former captain of Persepolis, said at Hamid Alidousti's memorial ceremony that now is not the time to ask questions about football because people are struggling for daily bread. He added that today's footballers have become a nuisance instead of role models, and the stadium is empty for Persepolis games.",
+        "time": "08:39",
+        "ts": 1794040797
       }
     ],
     "language": "en",
-    "packId": "20261107-35",
-    "sequence": 35,
+    "packId": "20261107-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:38"
+    "updatedAt": "08:43"
   },
   "verified": true
 }
