@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261107-31 seq=31 exp=1794124838",
+      "advancedStatus": "pack_id=20261107-32 seq=32 exp=1794125144",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:00",
+      "lastChecked": "08:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-07",
-    "expiresAt": "2026-11-08 08:00",
+    "expiresAt": "2026-11-08 08:05",
     "items": [
       {
         "channel": "Iran International",
@@ -749,14 +749,21 @@
         "text": "Hossein Mohibi, spokesperson for the IRGC, said all material and immaterial assets of hostile countries, even outside their geographical borders, are accessible to the Islamic Republic. He added that missile range is constantly being upgraded with no halt. Regarding a possible review of the nuclear doctrine, he said if the regime decides to move in that direction, necessary preparations will be made.",
         "time": "07:56",
         "ts": 1794038214
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A group of Iranians residing in Malmö, Sweden, sang the anthem \"Ey Iran\" while traveling to Frankfurt. Prince Reza Pahlavi is scheduled to receive the 2026 Freedom Award from the Friedrich Naumann Foundation on behalf of the Iranian people in Frankfurt, Germany, on Saturday.",
+        "time": "08:00",
+        "ts": 1794038439
       }
     ],
     "language": "en",
-    "packId": "20261107-31",
-    "sequence": 31,
+    "packId": "20261107-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:00"
+    "updatedAt": "08:05"
   },
   "verified": true
 }
