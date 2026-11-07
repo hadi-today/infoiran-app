@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261107-40 seq=40 exp=1794128759",
+      "advancedStatus": "pack_id=20261107-41 seq=41 exp=1794128940",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:05",
+      "lastChecked": "09:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-07",
-    "expiresAt": "2026-11-08 09:05",
+    "expiresAt": "2026-11-08 09:09",
     "items": [
       {
         "channel": "Iran International",
@@ -758,6 +758,13 @@
         "ts": 1794041736
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The Judiciary Media Center reported the execution of Mohammad Aref Shahbakhsh, a security prisoner. He was sentenced to death for rebellion and waging war through armed action in Khash County.",
+        "time": "08:58",
+        "ts": 1794041906
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Videos received by Iran International show that a group of students from Gorgan University of Agricultural Sciences and Natural Resources, in protest against poor food quality and lack of officials' attention to this issue, placed food trays on the ground.",
@@ -773,11 +780,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261107-40",
-    "sequence": 40,
+    "packId": "20261107-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:05"
+    "updatedAt": "09:09"
   },
   "verified": true
 }
