@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261107-120 seq=120 exp=1794160994",
+      "advancedStatus": "pack_id=20261107-121 seq=121 exp=1794161309",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:03",
+      "lastChecked": "18:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-07",
-    "expiresAt": "2026-11-08 18:03",
+    "expiresAt": "2026-11-08 18:08",
     "items": [
       {
         "channel": "Iran International",
@@ -819,14 +819,21 @@
         "text": "In the audio version of Titrawal with Niusha Saremi, it was reported that the Freedom Award was given to Prince Reza Pahlavi. It was also reported that thousands of Iranians gathered in Frankfurt.",
         "time": "17:57",
         "ts": 1794074267
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "In recent weeks, a group of government supporters named 'Tavva' have gathered in front of military institutions including the army and the Revolutionary Guards, chanting slogans against them and accusing them of negligence. Some media close to the Revolutionary Guards wrote that members of this group are close to Saeed Jalili.",
+        "time": "18:03",
+        "ts": 1794074603
       }
     ],
     "language": "en",
-    "packId": "20261107-120",
-    "sequence": 120,
+    "packId": "20261107-121",
+    "sequence": 121,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:03"
+    "updatedAt": "18:08"
   },
   "verified": true
 }
