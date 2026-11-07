@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261107-130 seq=130 exp=1794165734",
+      "advancedStatus": "pack_id=20261107-131 seq=131 exp=1794166858",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:22",
+      "lastChecked": "19:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-07",
-    "expiresAt": "2026-11-08 19:22",
+    "expiresAt": "2026-11-08 19:40",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "It was reported in the audio version 24 with Fardad Farahzad that there is a security threat against Prince Reza Pahlavi in Germany.",
-        "time": "19:37",
-        "ts": 1793993850
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -805,14 +798,21 @@
         "text": "A citizen sent a video to Iran International showing the production of beer at home simultaneously with the sound of government slogans in the street.",
         "time": "19:04",
         "ts": 1794078253
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Isaac Herzog, President of Israel, announced on the evening of Saturday, 16 Aban, that he will assign the mission of forming the government to Gadi Eizenkot, head of the Yashar party. Herzog had said that factions with a total of 67 seats support Eizenkot, but it is still unclear who can form the government. Benjamin Netanyahu said some intend to form a government with the participation of \"supporters of terrorism,\" and such a government would not confront the threat of the Islamic Republic.",
+        "time": "19:36",
+        "ts": 1794080174
       }
     ],
     "language": "en",
-    "packId": "20261107-130",
-    "sequence": 130,
+    "packId": "20261107-131",
+    "sequence": 131,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:22"
+    "updatedAt": "19:40"
   },
   "verified": true
 }
