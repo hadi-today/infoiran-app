@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261107-02 seq=2 exp=1794099461",
+      "advancedStatus": "pack_id=20261107-03 seq=3 exp=1794100890",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:57",
+      "lastChecked": "01:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-07",
-    "expiresAt": "2026-11-08 00:57",
+    "expiresAt": "2026-11-08 01:21",
     "items": [
       {
         "channel": "Iran International",
@@ -749,14 +749,21 @@
         "text": "The Hengaw Human Rights Organization reported that five citizens arrested during the nationwide protests of Dey 1404 were sentenced to a total of 25 years of imprisonment by the First Branch of the Revolutionary Court of Semnan. Each of these individuals was sentenced to five years of imprisonment on charges of \"acting against national security.\" These five have been held in Semnan Central Prison since their arrest and have been deprived of leave and legal facilities.",
         "time": "00:54",
         "ts": 1794012847
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Donald Trump said that a small air defense system in Qeshm was destroyed within about 15 minutes. Two missiles hit Qeshm Island early Saturday. Trump added that they are engaging with Iran and have made progress, and he does not consider the situation a war.",
+        "time": "01:16",
+        "ts": 1794014211
       }
     ],
     "language": "en",
-    "packId": "20261107-02",
-    "sequence": 2,
+    "packId": "20261107-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:57"
+    "updatedAt": "01:21"
   },
   "verified": true
 }
