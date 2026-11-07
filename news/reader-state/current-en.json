@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261107-114 seq=114 exp=1794159440",
+      "advancedStatus": "pack_id=20261107-115 seq=115 exp=1794159744",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:37",
+      "lastChecked": "17:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-07",
-    "expiresAt": "2026-11-08 17:37",
+    "expiresAt": "2026-11-08 17:42",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "In two work accidents at Rayan Polymer Pouya Company and a gypsum factory in Espiran, Tabriz, one worker died and two others were injured. Also, a well-digger worker in Mashhad was injured after falling into a well.",
-        "time": "17:40",
-        "ts": 1793986853
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -812,14 +805,21 @@
         "text": "Reza Talebi, a journalist, said Russia has used military cooperation with the Islamic Republic to advance its interests and tries to maintain the balance of power between Tehran and Washington. He added that Donald Trump probably seeks to use Russia's influence over the Islamic Republic to bring Tehran back to the negotiating table and secure the Strait of Hormuz. Talebi emphasized that there are serious doubts about Moscow's sincerity in mediation.",
         "time": "17:33",
         "ts": 1794072787
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Companions of a patient clashed with a physician on duty at Dehgolan Hospital last night and assaulted him. The physician was injured, and the conflict ended with police intervention. The patient's companions continued their threats, and the physician is concerned about returning to the hospital.",
+        "time": "17:37",
+        "ts": 1794073021
       }
     ],
     "language": "en",
-    "packId": "20261107-114",
-    "sequence": 114,
+    "packId": "20261107-115",
+    "sequence": 115,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:37"
+    "updatedAt": "17:42"
   },
   "verified": true
 }
