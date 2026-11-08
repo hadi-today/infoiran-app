@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261108-68 seq=68 exp=1794234145",
+      "advancedStatus": "pack_id=20261108-69 seq=69 exp=1794234344",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:22",
+      "lastChecked": "14:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-08",
-    "expiresAt": "2026-11-09 14:22",
+    "expiresAt": "2026-11-09 14:25",
     "items": [
       {
         "channel": "HRANA",
@@ -707,14 +707,21 @@
         "text": "The Virgol platform announced the blocking of its international domain. Previously, the international domains of Varzesh3 and Tetherland were also blocked and transferred to national domains. Iman Samiizadeh says transferring Iranian commercial domains to national domains can endanger the security of users and website administrators.",
         "time": "14:17",
         "ts": 1794147479
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The head of education in District 2 of Rey County reported a shortage of educational space and the need to build eight new schools in the area. He said that despite about 49,000 students studying, some densely populated neighborhoods face a shortage of schools and high student density. Four schools are under construction, but this number does not meet the needs, and building eight more schools is necessary.",
+        "time": "14:18",
+        "ts": 1794147523
       }
     ],
     "language": "en",
-    "packId": "20261108-68",
-    "sequence": 68,
+    "packId": "20261108-69",
+    "sequence": 69,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:22"
+    "updatedAt": "14:25"
   },
   "verified": true
 }
