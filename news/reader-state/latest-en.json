@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261108-44 seq=44 exp=1794223558",
+      "advancedStatus": "pack_id=20261108-45 seq=45 exp=1794223683",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:25",
+      "lastChecked": "11:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-08",
-    "expiresAt": "2026-11-09 11:25",
+    "expiresAt": "2026-11-09 11:28",
     "items": [
       {
         "channel": "HRANA",
@@ -679,14 +679,21 @@
         "text": "On Sunday, 17 Aban, a number of Social Security retirees held a protest gathering and march in front of the Social Security building in Shush county. Their demands include equalizing pensions, increasing payments in line with living costs, removing the Social Security Organization from government monopoly, resolving supplementary insurance issues, and implementing Article 54 of the Social Security Law to receive free medical services.",
         "time": "10:55",
         "ts": 1794135340
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Israel Katz, Israel's Defense Minister, said their mission against the Islamic Republic is not yet finished. He warned that the Iranian government is seeking to resume efforts to obtain a nuclear bomb and has not abandoned its nuclear ambitions.",
+        "time": "11:20",
+        "ts": 1794136821
       }
     ],
     "language": "en",
-    "packId": "20261108-44",
-    "sequence": 44,
+    "packId": "20261108-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:25"
+    "updatedAt": "11:28"
   },
   "verified": true
 }
