@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261108-120 seq=120 exp=1794252016",
+      "advancedStatus": "pack_id=20261108-121 seq=121 exp=1794252184",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:20",
+      "lastChecked": "19:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-08",
-    "expiresAt": "2026-11-09 19:20",
+    "expiresAt": "2026-11-09 19:23",
     "items": [
       {
         "channel": "Iran International",
@@ -814,6 +814,13 @@
         "ts": 1794164709
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Saeed Shahbakhsh, Naser Shahbakhsh, and Saeed Shahbakhsh, three citizens from Taftan county, remain in uncertainty in Zahedan prison after 104 days of detention.",
+        "time": "19:05",
+        "ts": 1794164715
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Erfan Ghanei-Fard, a Middle East analyst, said Prince Reza Pahlavi's statements about the certainty of the Islamic Republic's fall emphasize the link between three factors: erosion of repression capacity, collapse of political legitimacy, and rupture in the cohesion of the government's command structure. He added that weakening the Islamic Republic's military power alone does not guarantee regime change, and the combination of external pressure, internal action, and the presence of a trusted political alternative can determine the transition path.",
@@ -836,11 +843,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261108-120",
-    "sequence": 120,
+    "packId": "20261108-121",
+    "sequence": 121,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:20"
+    "updatedAt": "19:23"
   },
   "verified": true
 }
