@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261108-147 seq=147 exp=1794267945",
+      "advancedStatus": "pack_id=20261108-148 seq=148 exp=1794268709",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:45",
+      "lastChecked": "23:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-08",
-    "expiresAt": "2026-11-09 23:45",
+    "expiresAt": "2026-11-09 23:58",
     "items": [
       {
         "channel": "Iran International",
@@ -896,14 +896,21 @@
         "text": "Israel's Channel 13 reported that CENTCOM commander Brad Cooper, in a message to senior Israeli army commanders, supported the start of a new round of US military attacks against the Islamic Republic. According to the report, Cooper believes that the third round of US attacks, including targeting bridges, power plants, and economic infrastructure of Iran, could change the Islamic Republic's positions.",
         "time": "23:42",
         "ts": 1794181367
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Bloomberg reported that Marco Rubio, US Secretary of State, criticized the positions of the Islamic Republic in negotiations to end the war, saying Tehran's demands have so far been unacceptable and in some cases \"shocking and ridiculous.\" Rubio also defended Donald Trump's approach, saying Trump was not elected to ignore the threat of Iran and leave it to the next president. He emphasized that Trump confronted this threat to ensure the security of American citizens, not for his personal interests.",
+        "time": "23:55",
+        "ts": 1794182144
       }
     ],
     "language": "en",
-    "packId": "20261108-147",
-    "sequence": 147,
+    "packId": "20261108-148",
+    "sequence": 148,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:45"
+    "updatedAt": "23:58"
   },
   "verified": true
 }
