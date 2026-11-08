@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261108-81 seq=81 exp=1794238388",
+      "advancedStatus": "pack_id=20261108-82 seq=82 exp=1794238704",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:33",
+      "lastChecked": "15:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-08",
-    "expiresAt": "2026-11-09 15:33",
+    "expiresAt": "2026-11-09 15:38",
     "items": [
       {
         "channel": "Iran International",
@@ -749,14 +749,21 @@
         "text": "Prince Reza Pahlavi said in an interview with a German journalist that the fall of the Islamic Republic is certain and totalitarian regimes eventually fall. He added that international support can accelerate the process of change and reduce the costs for the Iranian people. Pahlavi also said that any action weakening the regime's tools of repression would be welcomed by the people and described such actions as humanitarian intervention.",
         "time": "15:29",
         "ts": 1794151794
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Kambiz Tavana spoke in an interview with Mark Katz about the impact of recent wars between Israel and the US with the Islamic Republic on Tehran-Moscow relations and the extent of Russia's influence on the Iranian government's decisions.",
+        "time": "15:36",
+        "ts": 1794152193
       }
     ],
     "language": "en",
-    "packId": "20261108-81",
-    "sequence": 81,
+    "packId": "20261108-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:33"
+    "updatedAt": "15:38"
   },
   "verified": true
 }
