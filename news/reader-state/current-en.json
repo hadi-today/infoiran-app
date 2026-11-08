@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261108-102 seq=102 exp=1794245965",
+      "advancedStatus": "pack_id=20261108-103 seq=103 exp=1794246271",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:39",
+      "lastChecked": "17:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-08",
-    "expiresAt": "2026-11-09 17:39",
+    "expiresAt": "2026-11-09 17:44",
     "items": [
       {
         "channel": "HRANA",
@@ -791,14 +791,21 @@
         "text": "Hossein Mohseni, spokesperson for the IRGC, said if the US is serious about enforcing an economic blockade against the Islamic Republic, \"we are even more serious.\" He added that the US predictions about the economic collapse of the regime did not happen and certainly will not happen.",
         "time": "17:35",
         "ts": 1794159319
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Disciplinary Committee of the Football Federation has summoned Yaser Asani, Esteghlal Tehran player, and Shoja Khalilzadeh, Tractor player, along with the head and cultural officer of the Tractor club. They must appear before the committee on Wednesday. Esteghlal club believes the main cause of the tension was the assistant referee and has requested the release of the refereeing team's conversations for clarification.",
+        "time": "17:39",
+        "ts": 1794159593
       }
     ],
     "language": "en",
-    "packId": "20261108-102",
-    "sequence": 102,
+    "packId": "20261108-103",
+    "sequence": 103,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:39"
+    "updatedAt": "17:44"
   },
   "verified": true
 }
