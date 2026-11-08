@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261108-121 seq=121 exp=1794252184",
+      "advancedStatus": "pack_id=20261108-123 seq=123 exp=1794252777",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:23",
+      "lastChecked": "19:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-08",
-    "expiresAt": "2026-11-09 19:23",
+    "expiresAt": "2026-11-09 19:32",
     "items": [
       {
         "channel": "Iran International",
@@ -840,14 +840,28 @@
         "text": "Four severe explosions occurred in Qeshm at 22:45. These explosions happened consecutively.",
         "time": "19:16",
         "ts": 1794165407
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Harana news agency reported that Mohammad Mahdi Parsa, detained during the protests of Dey 1404 and held in Sheiban prison in Ahvaz, has been sentenced to death for \"Moharebeh\" and to a total of 20 years in prison for two other charges. His sentence was issued on 11 Aban 1405 by the Revolutionary Court of Ahvaz. Parsa was denied access to a lawyer of his choice during the trial.",
+        "time": "19:24",
+        "ts": 1794165859
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Amir Ghalenoei announced the new Iran national football team list for the matches against Iraq and Palestine. Names such as Mehdi Taremi, Shoja Khalilzadeh, Ehsan Hajsafi, and Saman Ghoddos are not included. The coaching staff stated that Alireza Beiranvand was not invited due to injury, and the federation emphasized that this decision does not mean a change in the status of experienced players in future plans.",
+        "time": "19:32",
+        "ts": 1794166339
       }
     ],
     "language": "en",
-    "packId": "20261108-121",
-    "sequence": 121,
+    "packId": "20261108-123",
+    "sequence": 123,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:23"
+    "updatedAt": "19:32"
   },
   "verified": true
 }
