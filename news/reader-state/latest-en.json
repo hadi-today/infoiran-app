@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261108-55 seq=55 exp=1794228007",
+      "advancedStatus": "pack_id=20261108-56 seq=56 exp=1794228307",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:40",
+      "lastChecked": "12:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-08",
-    "expiresAt": "2026-11-09 12:40",
+    "expiresAt": "2026-11-09 12:45",
     "items": [
       {
         "channel": "Iran International",
@@ -721,14 +721,21 @@
         "text": "The CEO of Mazandaran Water and Wastewater Company announced that 151 villages and 44 cities in the province are facing water stress and problems in providing drinking water. Behzad Bararzadeh emphasized that the multi-fold increase in population during peak travel times puts additional pressure on the water supply network, and resolving existing problems requires more funding.",
         "time": "12:36",
         "ts": 1794141367
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "A bus carrying members of the Sahar Academy basketball team overturned near Shush while returning from Abadan to Tehran. The team supervisor stated that the players' general condition is stable, although some were injured and a few suffered fractures. Additionally, in a minibus accident in Van province, Turkey, 9 people died and 5 were injured, with some victims being Iranian citizens.",
+        "time": "12:39",
+        "ts": 1794141558
       }
     ],
     "language": "en",
-    "packId": "20261108-55",
-    "sequence": 55,
+    "packId": "20261108-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:40"
+    "updatedAt": "12:45"
   },
   "verified": true
 }
