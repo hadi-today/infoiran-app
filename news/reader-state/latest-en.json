@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261108-132 seq=132 exp=1794259435",
+      "advancedStatus": "pack_id=20261108-133 seq=133 exp=1794260512",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:23",
+      "lastChecked": "21:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-08",
-    "expiresAt": "2026-11-09 21:23",
+    "expiresAt": "2026-11-09 21:41",
     "items": [
       {
         "channel": "Iran International",
@@ -854,14 +854,21 @@
         "text": "Donald Trump announced that the special forces operation \"Iron Gate\" in Iran is being carried out with full force. He said that alongside the largest naval blockade in history, almost nothing enters or leaves Iran. Trump emphasized the continuation of this operation and the naval blockade of Iran.",
         "time": "21:22",
         "ts": 1794172978
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mohammad Taghavi said in the Hattrick program that the match between Esteghlal Khuzestan and Esteghlal was one of the most spectacular games in recent years of Iranian football. He added that Yaser Asani was clearly tired due to the congestion of matches and could not even run in the final minutes.",
+        "time": "21:38",
+        "ts": 1794173888
       }
     ],
     "language": "en",
-    "packId": "20261108-132",
-    "sequence": 132,
+    "packId": "20261108-133",
+    "sequence": 133,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:23"
+    "updatedAt": "21:41"
   },
   "verified": true
 }
