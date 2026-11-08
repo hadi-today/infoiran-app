@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261108-111 seq=111 exp=1794249127",
+      "advancedStatus": "pack_id=20261108-112 seq=112 exp=1794249326",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:32",
+      "lastChecked": "18:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-08",
-    "expiresAt": "2026-11-09 18:32",
+    "expiresAt": "2026-11-09 18:35",
     "items": [
       {
         "channel": "Iran International",
@@ -805,14 +805,21 @@
         "text": "Mehdi Mahdavi-Azad, on the \"Cheshm Andaz\" program, strongly criticized IRIB documentaries and said that government media distort the reality of the Dey protests by portraying protesters as armed and trained for a coup. Pointing to the contradiction between the accusations and the broadcast images, he considered forced confessions invalid. Mahdavi-Azad rejected attributing accusations of terrorism and coup to the protesters and strongly criticized the Islamic Republic's efforts to justify their killing and execution.",
         "time": "18:25",
         "ts": 1794162351
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Before the US naval blockade, about 80% of Iran's trade was conducted through southern ports. After the blockade, the Islamic Republic tried to transfer part of the exchanges to alternative borders. CENTCOM recently announced that it will extend the blockade regarding sanctioned, military, and dual-use goods to land borders and the Caspian Sea.",
+        "time": "18:28",
+        "ts": 1794162522
       }
     ],
     "language": "en",
-    "packId": "20261108-111",
-    "sequence": 111,
+    "packId": "20261108-112",
+    "sequence": 112,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:32"
+    "updatedAt": "18:35"
   },
   "verified": true
 }
