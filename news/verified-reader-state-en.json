@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261108-143 seq=143 exp=1794263844",
+      "advancedStatus": "pack_id=20261108-144 seq=144 exp=1794264128",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:37",
+      "lastChecked": "22:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-08",
-    "expiresAt": "2026-11-09 22:37",
+    "expiresAt": "2026-11-09 22:42",
     "items": [
       {
         "channel": "Iran International",
@@ -903,14 +903,21 @@
         "text": "Barak Ravid reported that Marco Rubio, Jared Kushner, and Steve Whitcaff were present in the phone call between the US President and Benjamin Netanyahu. The call was initiated by Netanyahu and the two sides discussed the Gaza peace plan and the war with the Islamic Republic.",
         "time": "22:34",
         "ts": 1794177252
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Shayan Samiei, a national security expert, said Donald Trump is trying to compel the Islamic Republic to make concessions without entering a new war by combining military threats and negotiation offers. According to him, Trump's reference to deploying aircraft carrier groups and potential attack targets indicates that the military option remains on the table. Samiei added that the Islamic Republic is trying to reduce Washington's pressure by prolonging negotiations and hoping for the results of the US midterm elections, and he considered this approach a miscalculation by Tehran.",
+        "time": "22:39",
+        "ts": 1794177564
       }
     ],
     "language": "en",
-    "packId": "20261108-143",
-    "sequence": 143,
+    "packId": "20261108-144",
+    "sequence": 144,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:37"
+    "updatedAt": "22:42"
   },
   "verified": true
 }
