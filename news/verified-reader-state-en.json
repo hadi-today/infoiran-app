@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261108-83 seq=83 exp=1794239012",
+      "advancedStatus": "pack_id=20261108-84 seq=84 exp=1794239410",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:43",
+      "lastChecked": "15:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-08",
-    "expiresAt": "2026-11-09 15:43",
+    "expiresAt": "2026-11-09 15:50",
     "items": [
       {
         "channel": "Iran International",
@@ -763,14 +763,21 @@
         "text": "Heavy rain and flooding on Sunday, 17 Aban caused widespread waterlogging of streets in parts of Bushehr and Kohgiluyeh and Boyer-Ahmad provinces, disrupting citizens' movement. In Khormoj, the center of Dashti County in Bushehr province, floods covered streets and traffic routes. Published images show the severity of waterlogging and flooding in the streets.",
         "time": "15:40",
         "ts": 1794152403
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Gadi Eisenkot, tasked with forming the Israeli government, announced that the war fronts remain open and the war goals have not been achieved. He said Israel has no time for delay or consecutive elections and must form an emergency national government as soon as possible. Eisenkot emphasized that the security and political challenges are urgent and parties must participate in forming the new government as soon as possible.",
+        "time": "15:46",
+        "ts": 1794152774
       }
     ],
     "language": "en",
-    "packId": "20261108-83",
-    "sequence": 83,
+    "packId": "20261108-84",
+    "sequence": 84,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:43"
+    "updatedAt": "15:50"
   },
   "verified": true
 }
