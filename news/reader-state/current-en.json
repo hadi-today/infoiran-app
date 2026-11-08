@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261108-64 seq=64 exp=1794232873",
+      "advancedStatus": "pack_id=20261108-65 seq=65 exp=1794233165",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:01",
+      "lastChecked": "14:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-08",
-    "expiresAt": "2026-11-09 14:01",
+    "expiresAt": "2026-11-09 14:06",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A video sent by a viewer to Iran International shows that on Saturday, simultaneously with the awarding of the Friedrich Naumann Foundation Freedom Prize in Germany, a memorial wall was erected for the martyrs of the Iranian National Revolution.",
-        "time": "14:01",
-        "ts": 1794060075
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Borzo Arjmand said in an interview with Iran International that all Iranians abroad try to be the voice of the Iranian people and inform governments about events in Iran. He stated that 99% of artists inside Iran oppose the Islamic Republic and added that they shout abroad instead of the artists inside and will succeed.",
-        "time": "14:03",
-        "ts": 1794060218
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -707,14 +693,21 @@
         "text": "On Friday, 15 Aban, a fuel transporter was injured after military forces fired at his vehicle on the Mirjaveh to Zahedan route.",
         "time": "13:59",
         "ts": 1794146361
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Gulf Cooperation Council and the countries of Jordan, Bahrain, and Qatar called for an end to missile and drone attacks by the Houthis supported by the Islamic Republic on Saudi Arabia. The council and the foreign ministries of these three countries condemned the attacks on Riyadh and southern Saudi Arabia, including an attempt to target an Aramco administrative building. The Secretary-General of the Gulf Cooperation Council described these attacks as \"cowardly terrorist acts\" and called for decisive international action to stop them.",
+        "time": "14:04",
+        "ts": 1794146687
       }
     ],
     "language": "en",
-    "packId": "20261108-64",
-    "sequence": 64,
+    "packId": "20261108-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:01"
+    "updatedAt": "14:06"
   },
   "verified": true
 }
