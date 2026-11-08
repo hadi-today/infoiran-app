@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261108-20 seq=20 exp=1794211605",
+      "advancedStatus": "pack_id=20261108-21 seq=21 exp=1794212357",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:06",
+      "lastChecked": "08:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-08",
-    "expiresAt": "2026-11-09 08:06",
+    "expiresAt": "2026-11-09 08:19",
     "items": [
       {
         "channel": "Iran International",
@@ -742,14 +742,21 @@
         "text": "Iranian media reported the overturning of a bus carrying players and members of the Sahar Academy women's basketball team on the return route from Abadan to Tehran. Some players and team members were hospitalized in Shoosh and Golestan hospitals in Ahvaz, and the general condition of some is reported to be stable. Other injured individuals remain under medical care.",
         "time": "08:01",
         "ts": 1794124862
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "On the eve of assigning the mission to form a government to Gadi Eisenkot, Benjamin Netanyahu for the first time asked opposition parties to form a national unity government with him.",
+        "time": "08:14",
+        "ts": 1794125669
       }
     ],
     "language": "en",
-    "packId": "20261108-20",
-    "sequence": 20,
+    "packId": "20261108-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:06"
+    "updatedAt": "08:19"
   },
   "verified": true
 }
