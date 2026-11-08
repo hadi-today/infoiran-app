@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261108-98 seq=98 exp=1794244264",
+      "advancedStatus": "pack_id=20261108-99 seq=99 exp=1794244822",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:11",
+      "lastChecked": "17:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-08",
-    "expiresAt": "2026-11-09 17:11",
+    "expiresAt": "2026-11-09 17:20",
     "items": [
       {
         "channel": "HRANA",
@@ -805,14 +805,21 @@
         "text": "Araghchi said American voters have made their choice, and now it is time for the White House to make its choice. He maintained his two-day proposal, which includes ending the war on all fronts. Araghchi warned that if war is chosen, their vigilant and seasoned warriors will unleash hell on their enemies.",
         "time": "17:08",
         "ts": 1794157726
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "A 20-year-old worker died after falling from a height in Shandiz. It was reported that the worker fell while installing the roof and constructing a warehouse in a building under construction in Shandiz.",
+        "time": "17:15",
+        "ts": 1794158158
       }
     ],
     "language": "en",
-    "packId": "20261108-98",
-    "sequence": 98,
+    "packId": "20261108-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:11"
+    "updatedAt": "17:20"
   },
   "verified": true
 }
