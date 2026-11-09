@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261109-55 seq=55 exp=1794309245",
+      "advancedStatus": "pack_id=20261109-56 seq=56 exp=1794309517",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:14",
+      "lastChecked": "11:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-09",
-    "expiresAt": "2026-11-10 11:14",
+    "expiresAt": "2026-11-10 11:18",
     "items": [
       {
         "channel": "Iran International",
@@ -973,14 +973,28 @@
         "text": "Today, Monday, a group of workers from the National Iranian Steel Industrial Group gathered in the factory premises in Ahvaz. The protesters cited unpaid wage arrears, uncertainty in production status, and neglect of livelihood problems as reasons for holding this gathering.",
         "time": "11:10",
         "ts": 1794222631
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Halvash news agency reported that a number of gas tanker drivers who have loaded their cargo for transfer to the Rimdan and Pishin borders of Pakistan remain uncertain at the Star of the Persian Gulf oil refinery in Bandar Abbas and have not been allowed to leave customs. A trade official also reported the stoppage of dozens of ships in northern ports and a threefold increase in maritime transport costs in the Caspian Sea.",
+        "time": "11:14",
+        "ts": 1794222882
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Ziba Adeli, the technical director of the Sahar Academy women's basketball team, reported that 11 people were injured in the team's bus overturn accident and said that three players were injured in the spine area and the team may not be able to continue its presence in the Premier League. The team members were supposed to return from Khorramshahr to Tehran by train at 18:00 on Saturday, but due to a landslide and train cancellation, they traveled by bus which overturned near Shush. Paria Mehrmand and Somayeh Sabetzadeh suffered fractures and require surgery.",
+        "time": "11:15",
+        "ts": 1794222955
       }
     ],
     "language": "en",
-    "packId": "20261109-55",
-    "sequence": 55,
+    "packId": "20261109-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:14"
+    "updatedAt": "11:18"
   },
   "verified": true
 }
