@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261109-136 seq=136 exp=1794340914",
+      "advancedStatus": "pack_id=20261109-137 seq=137 exp=1794341669",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:01",
+      "lastChecked": "20:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-09",
-    "expiresAt": "2026-11-10 20:01",
+    "expiresAt": "2026-11-10 20:14",
     "items": [
       {
         "channel": "Vahid Online",
@@ -896,14 +896,21 @@
         "text": "A video shows a citizen releasing two white balloons in memory of Amirhossein Maleki and Amirhossein Ebrahimi, executed protesters. These two protesters were among 12 defendants in the \"Alikhani Square\" case in Isfahan who were sentenced to death.",
         "time": "20:00",
         "ts": 1794254445
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Rouhollah Rahimpour said the large gap between Tehran's and Washington's demands has made reaching a diplomatic agreement difficult. He added that the Islamic Republic is neither certain of the war being averted nor hopeful for the success of negotiations. Rahimpour also said that the results of the US midterm elections and political developments in Israel may affect the timing and manner of military actions but do not mean weakening Washington's and Tel Aviv's positions.",
+        "time": "20:12",
+        "ts": 1794255151
       }
     ],
     "language": "en",
-    "packId": "20261109-136",
-    "sequence": 136,
+    "packId": "20261109-137",
+    "sequence": 137,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:01"
+    "updatedAt": "20:14"
   },
   "verified": true
 }
