@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261109-61 seq=61 exp=1794312452",
+      "advancedStatus": "pack_id=20261109-62 seq=62 exp=1794312624",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:07",
+      "lastChecked": "12:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-09",
-    "expiresAt": "2026-11-10 12:07",
+    "expiresAt": "2026-11-10 12:10",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Today, Sunday, a group of Social Security retirees held a gathering in front of the organization's building in Rasht, demanding an increase in payments in line with inflation, equalization of salaries, removal of Social Security from government monopoly, and resolution of supplementary insurance issues to improve their medical services.",
-        "time": "12:09",
-        "ts": 1794139769
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -987,14 +980,21 @@
         "text": "Anwar Gargash, diplomatic advisor to the UAE president, said that reaching a comprehensive political agreement between the US and Iran seems difficult and the region should prepare for a long period of uncertainty. He added that the consequences of the war may last for a long time and the UAE must invest in defense capabilities and strengthening security partners. Gargash also said the UAE has opposed the US-Iran war from the start and thanked various countries for their support against Iranian attacks.",
         "time": "12:03",
         "ts": 1794225819
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "According to published videos, a group of retired telecommunications workers gathered on Tuesday, 18 Aban, in the cities of Isfahan, Zanjan, and Kermanshah to pursue their demands, shouting: \"The Imam Command Headquarters, Etemadbamin Sepah, has taken our rights.\"",
+        "time": "12:05",
+        "ts": 1794225905
       }
     ],
     "language": "en",
-    "packId": "20261109-61",
-    "sequence": 61,
+    "packId": "20261109-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:07"
+    "updatedAt": "12:10"
   },
   "verified": true
 }
