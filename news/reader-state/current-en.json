@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261109-42 seq=42 exp=1794303547",
+      "advancedStatus": "pack_id=20261109-43 seq=43 exp=1794304069",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:39",
+      "lastChecked": "09:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-09",
-    "expiresAt": "2026-11-10 09:39",
+    "expiresAt": "2026-11-10 09:47",
     "items": [
       {
         "channel": "Iran International",
@@ -959,14 +959,21 @@
         "text": "A video received by Iran International shows that the old Qazvin to Rasht road was flooded after rain on the evening of Sunday, 17 Aban.",
         "time": "09:32",
         "ts": 1794216775
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Hossein Kermanpour, director general of public relations at the Ministry of Health, said the health system is prepared to face potential consequences of an attack on nuclear facilities and emergency and treatment measures have been planned. He advised people not to look at the explosion light and to seek shelter in a safe place as soon as possible. He also warned that taking iodine tablets without official instructions may harm the thyroid gland.",
+        "time": "09:43",
+        "ts": 1794217394
       }
     ],
     "language": "en",
-    "packId": "20261109-42",
-    "sequence": 42,
+    "packId": "20261109-43",
+    "sequence": 43,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:39"
+    "updatedAt": "09:47"
   },
   "verified": true
 }
