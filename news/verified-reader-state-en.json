@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261109-79 seq=79 exp=1794318748",
+      "advancedStatus": "pack_id=20261109-80 seq=80 exp=1794319091",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:52",
+      "lastChecked": "13:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-09",
-    "expiresAt": "2026-11-10 13:52",
+    "expiresAt": "2026-11-10 13:58",
     "items": [
       {
         "channel": "HRANA",
@@ -994,14 +994,21 @@
         "text": "Iran International reports that Persepolis women's football team defeated Sepahan 1-0 in the seventh week of the Women's Premier League. The only goal of the match was scored by Somayeh Esmaeili.",
         "time": "13:47",
         "ts": 1794232056
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Israel's Kan network reported that on Monday, 18 Aban, police began investigations after discovering threatening leaflets in mailboxes of residents in northern Tel Aviv, believed to originate from the Islamic Republic. The pro-Islamic Republic hacker group \"Hanzala\" claimed responsibility for distributing these leaflets. The leaflets contained a QR code directing recipients to the group's website, which warned Israel about attacks on Iran's energy infrastructure.",
+        "time": "13:54",
+        "ts": 1794232455
       }
     ],
     "language": "en",
-    "packId": "20261109-79",
-    "sequence": 79,
+    "packId": "20261109-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:52"
+    "updatedAt": "13:58"
   },
   "verified": true
 }
