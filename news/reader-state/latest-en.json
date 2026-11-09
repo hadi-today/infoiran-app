@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261109-80 seq=80 exp=1794319091",
+      "advancedStatus": "pack_id=20261109-81 seq=81 exp=1794319627",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:58",
+      "lastChecked": "14:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-09",
-    "expiresAt": "2026-11-10 13:58",
+    "expiresAt": "2026-11-10 14:07",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "On Friday, 15 Aban, a fuel transporter was injured after military forces fired at his vehicle on the Mirjaveh to Zahedan route.",
-        "time": "13:59",
-        "ts": 1794146361
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The Gulf Cooperation Council and the countries of Jordan, Bahrain, and Qatar called for an end to missile and drone attacks by the Houthis supported by the Islamic Republic on Saudi Arabia. The council and the foreign ministries of these three countries condemned the attacks on Riyadh and southern Saudi Arabia, including an attempt to target an Aramco administrative building. The Secretary-General of the Gulf Cooperation Council described these attacks as \"cowardly terrorist acts\" and called for decisive international action to stop them.",
-        "time": "14:04",
-        "ts": 1794146687
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -1001,14 +987,21 @@
         "text": "Israel's Kan network reported that on Monday, 18 Aban, police began investigations after discovering threatening leaflets in mailboxes of residents in northern Tel Aviv, believed to originate from the Islamic Republic. The pro-Islamic Republic hacker group \"Hanzala\" claimed responsibility for distributing these leaflets. The leaflets contained a QR code directing recipients to the group's website, which warned Israel about attacks on Iran's energy infrastructure.",
         "time": "13:54",
         "ts": 1794232455
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Gao Jiacon, spokesperson for China's Foreign Ministry, announced that Beijing is in contact with the US and Russia about a possible meeting of the presidents of China, the US, and Russia to discuss ending the war in Iran. He said that the prolongation of the conflict between Tehran and Washington benefits no one and that the parties should resolve their differences through dialogue.",
+        "time": "14:04",
+        "ts": 1794233082
       }
     ],
     "language": "en",
-    "packId": "20261109-80",
-    "sequence": 80,
+    "packId": "20261109-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:58"
+    "updatedAt": "14:07"
   },
   "verified": true
 }
