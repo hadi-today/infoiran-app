@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261109-58 seq=58 exp=1794309975",
+      "advancedStatus": "pack_id=20261109-59 seq=59 exp=1794310631",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:26",
+      "lastChecked": "11:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-09",
-    "expiresAt": "2026-11-10 11:26",
+    "expiresAt": "2026-11-10 11:37",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Azar Yahoo, a political prisoner, was released from Vakilabad Prison in Mashhad on 11 Aban after completing her sentence. This was reported by the HRANA news agency.",
-        "time": "11:30",
-        "ts": 1794137426
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -994,14 +987,21 @@
         "text": "A video received by Iran International shows a funeral for a person titled \"Unknown Martyr\" held in the campus of Azad University of Karaj, and the attendees of this ceremony are shouting \"Heydar, Heydar.\"",
         "time": "11:22",
         "ts": 1794223348
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "According to a report published by ILNA, some employed women face administrative and insurance problems in receiving their claims from the Social Security Organization and are forced to pursue legal action. A woman filed a complaint to increase the duration of maternity leave and receive full pay for this period from the Social Security Department of Khorasan Razavi province, and the judicial authorities ruled in her favor. Simin Yaghoubi, a women's labor rights activist, stated that delays in payment, incorrect calculations, and restrictive interpretations of laws lead to the violation of insured women's rights and weaken public trust in the social security system.",
+        "time": "11:33",
+        "ts": 1794223984
       }
     ],
     "language": "en",
-    "packId": "20261109-58",
-    "sequence": 58,
+    "packId": "20261109-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:26"
+    "updatedAt": "11:37"
   },
   "verified": true
 }
