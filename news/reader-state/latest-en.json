@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261109-51 seq=51 exp=1794306516",
+      "advancedStatus": "pack_id=20261109-53 seq=53 exp=1794307774",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:28",
+      "lastChecked": "10:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-09",
-    "expiresAt": "2026-11-10 10:28",
+    "expiresAt": "2026-11-10 10:49",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Several media outlets in Iran have released a video titled \"Rocket fuel test in a school in Chaharmahal and Bakhtiari.\" In these images, part of the school's ceiling collapses during the test.",
-        "time": "10:36",
-        "ts": 1794134192
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -966,14 +959,28 @@
         "text": "Donald Trump said his offer to Dana White to become White House spokesperson was not serious and was just a joke. Trump said Dana liked the idea and described her as amazing. White said she is already busy and did not comment on accepting the position.",
         "time": "10:12",
         "ts": 1794219123
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Aban (Zeinab) Mousavi and her brother Hassan Mousavi, two citizens arrested in connection with the protests of Dey 1404, have been held in Vakilabad Prison in Mashhad for over eight months in judicial uncertainty. They face charges including \"moharebeh\" and no court has been held to address their charges so far. Temporary release on bail has also not been possible for them.",
+        "time": "10:42",
+        "ts": 1794220934
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Hamidreza Goodarzi, representative of Aligudarz in the parliament, said that decisions about enriched uranium are made at the highest level of the country, and according to him, they will not deliver uranium under any circumstances. He added that if necessary, enrichment will be raised above 60 percent, and the Supreme National Security Council must decide on exiting the NPT to prevent the presence of IAEA inspectors. Goodarzi also said the enemy uses negotiations whenever it needs to breathe artificially.",
+        "time": "10:44",
+        "ts": 1794221067
       }
     ],
     "language": "en",
-    "packId": "20261109-51",
-    "sequence": 51,
+    "packId": "20261109-53",
+    "sequence": 53,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:28"
+    "updatedAt": "10:49"
   },
   "verified": true
 }
