@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261109-94 seq=94 exp=1794323665",
+      "advancedStatus": "pack_id=20261109-95 seq=95 exp=1794323970",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:14",
+      "lastChecked": "15:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-09",
-    "expiresAt": "2026-11-10 15:14",
+    "expiresAt": "2026-11-10 15:19",
     "items": [
       {
         "channel": "Iran International",
@@ -973,14 +973,21 @@
         "text": "Today, the interrogation session of Amir Salar Davoodi, a lawyer, was held in Branch 11 of the Isfahan Prosecutor's Office.",
         "time": "14:58",
         "ts": 1794236323
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Reuters reported on Monday, 18 Aban, citing a senior Iranian source, that the attacks on the evening of Sunday, 17 Aban, by the US on Qeshm Island targeted radar systems used in air defense and maritime navigation, missile launch bases, and naval mine systems. According to statistics from international maritime organizations released last week, attacks on oil tankers in the Persian Gulf and Strait of Hormuz sharply increased in October and have continued at the highest rate since the start of the war.",
+        "time": "15:13",
+        "ts": 1794237195
       }
     ],
     "language": "en",
-    "packId": "20261109-94",
-    "sequence": 94,
+    "packId": "20261109-95",
+    "sequence": 95,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:14"
+    "updatedAt": "15:19"
   },
   "verified": true
 }
