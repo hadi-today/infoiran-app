@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261109-105 seq=105 exp=1794326600",
+      "advancedStatus": "pack_id=20261109-107 seq=107 exp=1794327018",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:03",
+      "lastChecked": "16:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-09",
-    "expiresAt": "2026-11-10 16:03",
+    "expiresAt": "2026-11-10 16:10",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Al Hadath network reported that an Iraqi delegation made an eight-hour trip to Tehran, met with Islamic Republic officials, and delivered a message from the United States. This trip followed a phone call between Donald Trump and Ali Al-Zaidi and a visit by Tom Barrack to Baghdad.",
-        "time": "16:03",
-        "ts": 1794153805
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -973,14 +966,28 @@
         "text": "The Canadian government approved a new package of economic sanctions against 38 entities and 24 individuals linked to ballistic missile industries, cyber activities, and financial networks supporting Russia's war in Ukraine. Mahsa Mortazavi, a reporter for Iran International, reports.",
         "time": "15:59",
         "ts": 1794239952
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "According to IRNA, Sarfirouzabad district in Kermanshah, with 249 villages and a population of about 32,000, faces extensive shortages in water, roads, electricity, telecommunications, education, and healthcare services. IRNA reported that about 60 villages experience water stress, and water for 47 villages is supplied by tankers. Additionally, a lack of schools and educational facilities has forced some students to travel long distances to continue their education.",
+        "time": "16:00",
+        "ts": 1794240017
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video shows the mother of Sajedeh Karimi mourning while holding her daughter's bullet-ridden clothes ten months after her death. Sajedeh Karimi, 17 years old, was killed on 18 Dey 1404 near Astaneh Ashrafiyeh.",
+        "time": "16:00",
+        "ts": 1794240049
       }
     ],
     "language": "en",
-    "packId": "20261109-105",
-    "sequence": 105,
+    "packId": "20261109-107",
+    "sequence": 107,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:03"
+    "updatedAt": "16:10"
   },
   "verified": true
 }
