@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261109-90 seq=90 exp=1794321766",
+      "advancedStatus": "pack_id=20261109-91 seq=91 exp=1794322026",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:42",
+      "lastChecked": "14:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-09",
-    "expiresAt": "2026-11-10 14:42",
+    "expiresAt": "2026-11-10 14:47",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Seyed Mohammad Pakmehr, a member of the Health and Treatment Commission of the Parliament, reported a shortage of 320 hospital beds in North Khorasan province. Seyed Ahmad Hashemi, head of the provincial University of Medical Sciences, stated that out of 120 beds needed for psychiatric patients, only 60 beds are active. He also pointed to the aging building of Imam Reza Hospital and the lack of treatment space as obstacles in providing services to psychiatric and pediatric patients.",
-        "time": "14:46",
-        "ts": 1794149173
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "People inside Iran reacted to the gathering of Iranians in Frankfurt on 16 Aban, describing it as a source of hope and light in their hearts. Messages from Mashhad, Nishapur, Kazeroon, and Isfahan expressed support for Prince Reza Pahlavi and gratitude to the participants. Some statements referred to resistance against repression and hope for Iran's freedom.",
-        "time": "14:46",
-        "ts": 1794149209
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -994,14 +980,21 @@
         "text": "Fuad Hussein, Iraq's foreign minister, said that Iraq's damages due to the Iran war and disruption in oil exports have reached 60 billion dollars. He added that the US Treasury Department has asked Baghdad to close all border crossings with Iran except two. Iraq has also reached an agreement with the US for the passage of its oil shipments through the Strait of Hormuz via a shipping route near Oman.",
         "time": "14:37",
         "ts": 1794235062
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Ten months after the bloody Dey month of 1404, a group of families of the martyrs of the Iranian National Revolution gathered at the graves of their loved ones and commemorated them.",
+        "time": "14:43",
+        "ts": 1794235435
       }
     ],
     "language": "en",
-    "packId": "20261109-90",
-    "sequence": 90,
+    "packId": "20261109-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:42"
+    "updatedAt": "14:47"
   },
   "verified": true
 }
