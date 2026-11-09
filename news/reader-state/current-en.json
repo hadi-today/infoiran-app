@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261109-57 seq=57 exp=1794309814",
+      "advancedStatus": "pack_id=20261109-58 seq=58 exp=1794309975",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:23",
+      "lastChecked": "11:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-09",
-    "expiresAt": "2026-11-10 11:23",
+    "expiresAt": "2026-11-10 11:26",
     "items": [
       {
         "channel": "HRANA",
@@ -987,14 +987,21 @@
         "text": "Today, continuing protests by retired telecommunications workers, some retirees gathered in the cities of Zanjan and Rasht and demanded attention to their demands. These gatherings were held in protest against ongoing livelihood problems and the unmet demands of retirees.",
         "time": "11:16",
         "ts": 1794223011
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video received by Iran International shows a funeral for a person titled \"Unknown Martyr\" held in the campus of Azad University of Karaj, and the attendees of this ceremony are shouting \"Heydar, Heydar.\"",
+        "time": "11:22",
+        "ts": 1794223348
       }
     ],
     "language": "en",
-    "packId": "20261109-57",
-    "sequence": 57,
+    "packId": "20261109-58",
+    "sequence": 58,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:23"
+    "updatedAt": "11:26"
   },
   "verified": true
 }
