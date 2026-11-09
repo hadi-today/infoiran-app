@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261109-106 seq=106 exp=1794326704",
+      "advancedStatus": "pack_id=20261109-107 seq=107 exp=1794327018",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:05",
+      "lastChecked": "16:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-09",
-    "expiresAt": "2026-11-10 16:05",
+    "expiresAt": "2026-11-10 16:10",
     "items": [
       {
         "channel": "خبرگزاری هرانا",
@@ -832,17 +832,23 @@
         "ts": 1794239952
       },
       {
+        "channel": "خبرگزاری هرانا",
+        "text": "بخش سرفیروزآباد کرمانشاه با ۲۴۹ روستا و حدود ۳۲ هزار نفر جمعیت، با کمبودهای گسترده در حوزه آب، راه، برق، مخابرات، آموزش و خدمات درمانی مواجه است. ایرنا گزارش داده است که حدود ۶۰ روستا تنش آبی دارند و آب ۴۷ روستا به‌صورت سیار تأمین می‌شود. همچنین، کمبود مدارس و امکانات آموزشی باعث شده برخی دانش‌آموزان برای ادامه تحصیل مسیرهای طولانی طی کنند.",
+        "time": "16:00",
+        "ts": 1794240017
+      },
+      {
         "channel": "ایران اینترنشنال",
         "text": "ویدیوی منتشرشده نشان می‌دهد مادر ساجده کریمی، ده ماه پس از کشته شدن فرزندش، لباس گلوله‌خورده او را به دست گرفته و مویه می‌کند. ساجده کریمی، ۱۷ ساله، ۱۸ دی ۱۴۰۴ در آستانه اشرفیه کشته شد.",
         "time": "16:00",
         "ts": 1794240049
       }
     ],
-    "packId": "20261109-106",
-    "sequence": 106,
+    "packId": "20261109-107",
+    "sequence": 107,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "16:05"
+    "updatedAt": "16:10"
   },
   "verified": true
 }
