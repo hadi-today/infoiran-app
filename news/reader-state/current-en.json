@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261109-62 seq=62 exp=1794312624",
+      "advancedStatus": "pack_id=20261109-63 seq=63 exp=1794313089",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:10",
+      "lastChecked": "12:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-09",
-    "expiresAt": "2026-11-10 12:10",
+    "expiresAt": "2026-11-10 12:18",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Ali Sadrazadeh, a Middle East analyst, said that although the Houthis are not militarily capable of confronting Saudi Arabia, even limited attacks and minor damages caused by them can affect Saudi Arabia's economy due to symbolic and psychological consequences.",
-        "time": "12:17",
-        "ts": 1794140265
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -987,14 +980,21 @@
         "text": "According to published videos, a group of retired telecommunications workers gathered on Tuesday, 18 Aban, in the cities of Isfahan, Zanjan, and Kermanshah to pursue their demands, shouting: \"The Imam Command Headquarters, Etemadbamin Sepah, has taken our rights.\"",
         "time": "12:05",
         "ts": 1794225905
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Hooman Shayani, a political detainee, has been held in Noorabad Mamasani prison for over 10 months without a trial. His judicial case remains unresolved and no court session has been held for him. This was reported by the HRANA news agency.",
+        "time": "12:14",
+        "ts": 1794226461
       }
     ],
     "language": "en",
-    "packId": "20261109-62",
-    "sequence": 62,
+    "packId": "20261109-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:10"
+    "updatedAt": "12:18"
   },
   "verified": true
 }
