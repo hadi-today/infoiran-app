@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261109-01 seq=1 exp=1794269217",
+      "advancedStatus": "pack_id=20261109-03 seq=3 exp=1794277255",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:06",
+      "lastChecked": "02:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-09",
-    "expiresAt": "2026-11-10 00:06",
+    "expiresAt": "2026-11-10 02:20",
     "items": [
       {
         "channel": "Iran International",
@@ -910,14 +910,28 @@
         "text": "Rainfall over the past 48 hours in Tehran and Qom has created unusual scenes. In Tehran, the entrance to the bridge from the Qeytarieh side has faced flooding. In Qom, an underpass has turned into a pool of water, and municipal forces used suction vehicles to evacuate the water.",
         "time": "00:03",
         "ts": 1794182589
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Donald Trump said on the program \"60 Minutes\" that he does not intend to escalate the war with the Islamic Republic after the midterm elections because he sees no reason to do so. He added that Tehran is close to an agreement but the election results have given new hope to the Islamic Republic. Trump emphasized that if he had to decide again about attacking Iran, his answer would be \"a definite yes.\"",
+        "time": "00:57",
+        "ts": 1794185827
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Middle East Spectator claimed that Ali Al-Zaidi, the Prime Minister of Iraq, warned Shiite armed groups in a closed-door meeting that military support for the Islamic Republic in the event of a new war would lead to widespread arrests of the commanders of these groups. The Islamic Resistance group in Iraq threatened that any action to arrest the leaders of Shiite groups would lead to the fall of the Iraqi government. It was also reported that the Iraqi Prime Minister said the US has plans for a ground attack on Iran from Iraqi territory.",
+        "time": "02:19",
+        "ts": 1794190757
       }
     ],
     "language": "en",
-    "packId": "20261109-01",
-    "sequence": 1,
+    "packId": "20261109-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:06"
+    "updatedAt": "02:20"
   },
   "verified": true
 }
