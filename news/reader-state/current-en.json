@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261109-83 seq=83 exp=1794320057",
+      "advancedStatus": "pack_id=20261109-85 seq=85 exp=1794320341",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:14",
+      "lastChecked": "14:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-09",
-    "expiresAt": "2026-11-10 14:14",
+    "expiresAt": "2026-11-10 14:19",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The Virgol platform announced the blocking of its international domain. Previously, the international domains of Varzesh3 and Tetherland were also blocked and transferred to national domains. Iman Samiizadeh says transferring Iranian commercial domains to national domains can endanger the security of users and website administrators.",
-        "time": "14:17",
-        "ts": 1794147479
-      },
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "The head of education in District 2 of Rey County reported a shortage of educational space and the need to build eight new schools in the area. He said that despite about 49,000 students studying, some densely populated neighborhoods face a shortage of schools and high student density. Four schools are under construction, but this number does not meet the needs, and building eight more schools is necessary.",
-        "time": "14:18",
-        "ts": 1794147523
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -994,14 +980,28 @@
         "text": "Mehdi Farajpour, a Karagostar player, shared his joy with his mother after scoring the winning goal against Naft va Gaz Gachsaran. After the match, he went to his family and created an emotional moment by hugging his mother.",
         "time": "14:09",
         "ts": 1794233392
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "Ibrahim Kalin, head of Turkey's intelligence agency, said that Qatar will host a meeting next week between JD Vance, the US Vice President, and Mohsen Rezaei, head of Iran's National Security Council. Ankara considers this meeting a \"key opportunity\" for progress in negotiations. Kalin added that Turkey and regional mediators have proposed a 7-point plan for lifting sanctions and starting nuclear talks.",
+        "time": "14:14",
+        "ts": 1794233642
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Communications Office of Prince Reza Pahlavi announced that Matin Shabani, a young Iranian arrested during the December uprising, has been sentenced to death by the Islamic Republic court and faces imminent execution in Vakilabad Prison in Mashhad. The office described the court charges as fabricated and urged the public to raise their voices for this prisoner.",
+        "time": "14:14",
+        "ts": 1794233668
       }
     ],
     "language": "en",
-    "packId": "20261109-83",
-    "sequence": 83,
+    "packId": "20261109-85",
+    "sequence": 85,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:14"
+    "updatedAt": "14:19"
   },
   "verified": true
 }
