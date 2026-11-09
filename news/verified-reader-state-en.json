@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261109-156 seq=156 exp=1794353645",
+      "advancedStatus": "pack_id=20261109-157 seq=157 exp=1794354865",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:34",
+      "lastChecked": "23:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-09",
-    "expiresAt": "2026-11-10 23:34",
+    "expiresAt": "2026-11-10 23:54",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Israel's Channel 13 reported that CENTCOM commander Brad Cooper, in a message to senior Israeli army commanders, supported the start of a new round of US military attacks against the Islamic Republic. According to the report, Cooper believes that the third round of US attacks, including targeting bridges, power plants, and economic infrastructure of Iran, could change the Islamic Republic's positions.",
-        "time": "23:42",
-        "ts": 1794181367
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -875,14 +868,21 @@
         "text": "Iraq's state news agency reported that the country will temporarily close the Mandali border crossing with Iran from Friday to complete technical requirements. The report did not provide further details. In recent weeks, several border crossings between Iran and Iraq have been temporarily closed.",
         "time": "23:32",
         "ts": 1794267140
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "Trump said Iran's production capability has been severely reduced, with about 85% of this capability lost. He suggested that the conflict with Iran may soon end and emphasized that the US is fully armed and ready to act. Trump also stated that Iran will never have nuclear weapons and that the US has established the largest military blockade in history.",
+        "time": "23:51",
+        "ts": 1794268314
       }
     ],
     "language": "en",
-    "packId": "20261109-156",
-    "sequence": 156,
+    "packId": "20261109-157",
+    "sequence": 157,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:34"
+    "updatedAt": "23:54"
   },
   "verified": true
 }
