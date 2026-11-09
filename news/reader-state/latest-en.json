@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261109-118 seq=118 exp=1794332103",
+      "advancedStatus": "pack_id=20261109-119 seq=119 exp=1794332373",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:35",
+      "lastChecked": "17:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-09",
-    "expiresAt": "2026-11-10 17:35",
+    "expiresAt": "2026-11-10 17:39",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Hossein Mohseni, spokesperson for the IRGC, said if the US is serious about enforcing an economic blockade against the Islamic Republic, \"we are even more serious.\" He added that the US predictions about the economic collapse of the regime did not happen and certainly will not happen.",
-        "time": "17:35",
-        "ts": 1794159319
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -973,14 +966,21 @@
         "text": "Mohammad Bagher Ghalibaf, the Speaker of the Islamic Republic's Parliament, wrote on the social network X on Monday, 18 Aban, that Israelis are trying day and night to involve the United States in an endless war with the Islamic Republic. Ghalibaf wrote: \"A quagmire that no president, whether now or in the future, whether Republican or Democrat, can get out of.\"",
         "time": "17:12",
         "ts": 1794244336
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "In two work-related incidents in the cities of Bonab and Mashhad, two workers died. One of them died in a beam and block production factory in Bonab while working with a concrete press machine, and the other died due to a wall collapse during demolition operations in Mashhad.",
+        "time": "17:31",
+        "ts": 1794245476
       }
     ],
     "language": "en",
-    "packId": "20261109-118",
-    "sequence": 118,
+    "packId": "20261109-119",
+    "sequence": 119,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:35"
+    "updatedAt": "17:39"
   },
   "verified": true
 }
