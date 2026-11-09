@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261109-64 seq=64 exp=1794313271",
+      "advancedStatus": "pack_id=20261109-65 seq=65 exp=1794313355",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:21",
+      "lastChecked": "12:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-09",
-    "expiresAt": "2026-11-10 12:21",
+    "expiresAt": "2026-11-10 12:22",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Fouad Qaderi, a citizen from Javanrud, was released from Dizelabad Prison in Kermanshah on Saturday, 16 Aban, after posting bail.",
-        "time": "12:21",
-        "ts": 1794140485
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -980,14 +973,21 @@
         "text": "Hooman Shayani, a political detainee, has been held in Noorabad Mamasani prison for over 10 months without a trial. His judicial case remains unresolved and no court session has been held for him. This was reported by the HRANA news agency.",
         "time": "12:14",
         "ts": 1794226461
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Esmail Kowsari, a member of the Parliament's National Security Commission, said that in the US attack on Fordow, Natanz, and Isfahan during the 12-day war, the adjacent buildings of Iran's nuclear facilities were destroyed but neither the centrifuge machines nor the 60% uranium were damaged. He added that both the Democratic and Republican parties aim to dominate Muslim and non-Muslim countries, with no difference in their goal, only in their methods. Kowsari said Democrats act gently while Republicans pursue their goals more openly.",
+        "time": "12:20",
+        "ts": 1794226848
       }
     ],
     "language": "en",
-    "packId": "20261109-64",
-    "sequence": 64,
+    "packId": "20261109-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:21"
+    "updatedAt": "12:22"
   },
   "verified": true
 }
