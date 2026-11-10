@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261110-129 seq=129 exp=1794439579",
+      "advancedStatus": "pack_id=20261110-130 seq=130 exp=1794440378",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:26",
+      "lastChecked": "23:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-10",
-    "expiresAt": "2026-11-11 23:26",
+    "expiresAt": "2026-11-11 23:39",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Iraq's state news agency reported that the country will temporarily close the Mandali border crossing with Iran from Friday to complete technical requirements. The report did not provide further details. In recent weeks, several border crossings between Iran and Iraq have been temporarily closed.",
-        "time": "23:32",
-        "ts": 1794267140
-      },
       {
         "channel": "Vahid Online",
         "language": "en",
@@ -833,14 +826,21 @@
         "text": "Trump says the war with the Islamic Republic is \"militarily, practically over,\" but the naval blockade continues and he has left open the possibility of another attack. Kambiz Hosseini in \"Barnameh\" asks what the government will do about inflation, medicine shortages, and rebuilding damaged homes if attacks stop and the blockade ends.",
         "time": "23:23",
         "ts": 1794353008
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A group of students at Kurdistan University in Sanandaj went on strike and held a protest on Tuesday, 19 Aban, against the quality and price of cafeteria food and the lack of attention to their demands. The protesters distributed leaflets with slogans including \"Free and quality food is the right of students\" and \"No war, no repression, long live the university.\"",
+        "time": "23:37",
+        "ts": 1794353831
       }
     ],
     "language": "en",
-    "packId": "20261110-129",
-    "sequence": 129,
+    "packId": "20261110-130",
+    "sequence": 130,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:26"
+    "updatedAt": "23:39"
   },
   "verified": true
 }
