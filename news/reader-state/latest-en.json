@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261110-90 seq=90 exp=1794416889",
+      "advancedStatus": "pack_id=20261110-91 seq=91 exp=1794417444",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:08",
+      "lastChecked": "17:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-10",
-    "expiresAt": "2026-11-11 17:08",
+    "expiresAt": "2026-11-11 17:17",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Fatemeh Sepahri, a political prisoner in Vakilabad Prison in Mashhad, continues to be deprived of specialized medical care and transfer to medical centers outside the prison despite multiple physical problems. Her brother stated that Fatemeh Sepahri reported severe pain in her right hand and the prison doctor prescribed an MRI, but no action has been taken to perform it so far.",
-        "time": "17:10",
-        "ts": 1794244250
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Mohammad Bagher Ghalibaf, the Speaker of the Islamic Republic's Parliament, wrote on the social network X on Monday, 18 Aban, that Israelis are trying day and night to involve the United States in an endless war with the Islamic Republic. Ghalibaf wrote: \"A quagmire that no president, whether now or in the future, whether Republican or Democrat, can get out of.\"",
-        "time": "17:12",
-        "ts": 1794244336
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -791,14 +777,21 @@
         "text": "A video received by Iran International shows that the slogan \"Long live the Shah\" is written on the blackboard of a girls' school classroom, and a female student has pasted images of Cyrus the Great and the Pahlavi kings on the wall.",
         "time": "17:04",
         "ts": 1794330290
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Sky News Arabia reported on Tuesday, 19 Aban, that it obtained an Iraqi intelligence report indicating that oil smuggled from northern Iraq is refined in Iran and then sold to circumvent sanctions. According to the report, oil is smuggled from northern Iraq to Iran, Turkey, and Afghanistan. Sky News Arabia added that the smuggling routes also reach Turkey, where the smuggled oil is sold.",
+        "time": "17:14",
+        "ts": 1794330864
       }
     ],
     "language": "en",
-    "packId": "20261110-90",
-    "sequence": 90,
+    "packId": "20261110-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:08"
+    "updatedAt": "17:17"
   },
   "verified": true
 }
