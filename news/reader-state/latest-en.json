@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261110-111 seq=111 exp=1794425649",
+      "advancedStatus": "pack_id=20261110-112 seq=112 exp=1794427507",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:34",
+      "lastChecked": "20:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-10",
-    "expiresAt": "2026-11-11 19:34",
+    "expiresAt": "2026-11-11 20:05",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A video shows a citizen releasing two white balloons in memory of Amirhossein Maleki and Amirhossein Ebrahimi, executed protesters. These two protesters were among 12 defendants in the \"Alikhani Square\" case in Isfahan who were sentenced to death.",
-        "time": "20:00",
-        "ts": 1794254445
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -826,14 +819,21 @@
         "text": "A video received by Iran International shows the continuation of the sit-in by Iranians in the Netherlands in solidarity for a free Iran, supporting the people and the national revolution against the Islamic Republic, held in The Hague in front of the Dutch Ministry of Foreign Affairs.",
         "time": "19:32",
         "ts": 1794339157
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video released on social media shows the burial ceremony of Reza Zangeneh, who was executed in a case related to the protests of 18 and 19 Dey 1404 in Karaj, held on Tuesday. Reza Zangeneh, 27 years old and a car mechanic, was arrested at his workplace on 14 Farvardin 1405. The second branch of the Karaj Revolutionary Court sentenced him to death on charges of \"waging war against God\" and \"collaborating with Mossad,\" but his family denied the charge of collaboration with Mossad.",
+        "time": "20:01",
+        "ts": 1794340888
       }
     ],
     "language": "en",
-    "packId": "20261110-111",
-    "sequence": 111,
+    "packId": "20261110-112",
+    "sequence": 112,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:34"
+    "updatedAt": "20:05"
   },
   "verified": true
 }
