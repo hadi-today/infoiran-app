@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261109-157 seq=157 exp=1794354865",
+      "advancedStatus": "pack_id=20261109-158 seq=158 exp=1794355147",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:54",
+      "lastChecked": "23:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-09",
-    "expiresAt": "2026-11-10 23:54",
+    "expiresAt": "2026-11-10 23:59",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Bloomberg reported that Marco Rubio, US Secretary of State, criticized the positions of the Islamic Republic in negotiations to end the war, saying Tehran's demands have so far been unacceptable and in some cases \"shocking and ridiculous.\" Rubio also defended Donald Trump's approach, saying Trump was not elected to ignore the threat of Iran and leave it to the next president. He emphasized that Trump confronted this threat to ensure the security of American citizens, not for his personal interests.",
-        "time": "23:55",
-        "ts": 1794182144
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -875,14 +868,21 @@
         "text": "Trump said Iran's production capability has been severely reduced, with about 85% of this capability lost. He suggested that the conflict with Iran may soon end and emphasized that the US is fully armed and ready to act. Trump also stated that Iran will never have nuclear weapons and that the US has established the largest military blockade in history.",
         "time": "23:51",
         "ts": 1794268314
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Donald Trump, after meeting with the Prime Minister of Qatar, announced that Qatar, Saudi Arabia, the United Arab Emirates, Bahrain, Kuwait, and other regional countries want to continue the naval blockade of the Strait of Hormuz and the Iron Gate operation. Trump added that these countries agree on preventing the Islamic Republic from obtaining nuclear weapons and reported progress toward ending the war. He said the US remains ready for military action but currently considers it unlikely.",
+        "time": "23:55",
+        "ts": 1794268547
       }
     ],
     "language": "en",
-    "packId": "20261109-157",
-    "sequence": 157,
+    "packId": "20261109-158",
+    "sequence": 158,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:54"
+    "updatedAt": "23:59"
   },
   "verified": true
 }
