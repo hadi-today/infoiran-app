@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261110-03 seq=3 exp=1794372521",
+      "advancedStatus": "pack_id=20261110-05 seq=5 exp=1794373074",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:48",
+      "lastChecked": "04:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-10",
-    "expiresAt": "2026-11-11 04:48",
+    "expiresAt": "2026-11-11 04:57",
     "items": [
       {
         "channel": "Iran International",
@@ -812,14 +812,28 @@
         "text": "Trump said in an interview with C-SPAN that the reason for his current approach toward Iran is dialogue with regional countries and their preference to continue this approach instead of another attack. He said this attack would be \"almost five times larger than the first attack.\" Trump added that in talks with these countries, he found they prefer the issue to proceed in this way and said, \"Therefore, I also prefer to proceed in this way.\"",
         "time": "04:46",
         "ts": 1794285967
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Erfan Ghanei-Fard, a Middle East analyst, said Tehran is changing its influence model in Iraq from political management of proxy forces to operational and security focus. He added this appointment aims to rebuild the command of proxy networks, control Iraqi armed groups, and keep Iraq as the Islamic Republic's backyard against the US and Israel.",
+        "time": "04:50",
+        "ts": 1794286212
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Economic consequences of the war have intensified the unemployment crisis in Iran, pushing some dismissed workers to daily wage labor and street work. According to initial estimates by the Ministry of Labor of the Islamic Republic, over one million jobs have been lost during the war and about two million people have become unemployed directly and indirectly. Rouzbeh Boulehri explains the possibility of this number of unemployed people using unemployment insurance.",
+        "time": "04:55",
+        "ts": 1794286513
       }
     ],
     "language": "en",
-    "packId": "20261110-03",
-    "sequence": 3,
+    "packId": "20261110-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:48"
+    "updatedAt": "04:57"
   },
   "verified": true
 }
