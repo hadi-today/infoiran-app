@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261110-87 seq=87 exp=1794415908",
+      "advancedStatus": "pack_id=20261110-89 seq=89 exp=1794416322",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:51",
+      "lastChecked": "16:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-10",
-    "expiresAt": "2026-11-11 16:51",
+    "expiresAt": "2026-11-11 16:58",
     "items": [
       {
         "channel": "HRANA",
@@ -777,14 +777,28 @@
         "text": "Yesterday, a landmine explosion in the Siahan area of Golshan county led to the death of a citizen.",
         "time": "16:16",
         "ts": 1794327380
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mohsen Rezaei, Secretary of the Supreme National Security Council, told Al Mayadeen network that the initial US response to the Islamic Republic's conditions was \"deceptive\" and insufficient. He said the Islamic Republic has presented its seven conditions to the US, and until they are met, the Strait of Hormuz will not be reopened. Rezaei called reports about the continuation of negotiations between the Islamic Republic and the US and holding a meeting in Qatar \"completely false and baseless.\"",
+        "time": "16:47",
+        "ts": 1794329236
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "In your narrative, it is reported that the Islamic Republic focuses on gas from other countries instead of its own people, who are trapped in absolute poverty. It is also mentioned that the country's resources are spent on missile projects and uranium enrichment while people face poverty and medicine price hikes. This narrative criticizes supporters of the Islamic Republic and the impact of economic sanctions on the Iranian people.",
+        "time": "16:55",
+        "ts": 1794329709
       }
     ],
     "language": "en",
-    "packId": "20261110-87",
-    "sequence": 87,
+    "packId": "20261110-89",
+    "sequence": 89,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:51"
+    "updatedAt": "16:58"
   },
   "verified": true
 }
