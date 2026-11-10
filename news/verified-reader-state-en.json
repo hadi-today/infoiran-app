@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261110-46 seq=46 exp=1794396769",
+      "advancedStatus": "pack_id=20261110-48 seq=48 exp=1794397361",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:32",
+      "lastChecked": "11:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-10",
-    "expiresAt": "2026-11-11 11:32",
+    "expiresAt": "2026-11-11 11:42",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "According to a report published by ILNA, some employed women face administrative and insurance problems in receiving their claims from the Social Security Organization and are forced to pursue legal action. A woman filed a complaint to increase the duration of maternity leave and receive full pay for this period from the Social Security Department of Khorasan Razavi province, and the judicial authorities ruled in her favor. Simin Yaghoubi, a women's labor rights activist, stated that delays in payment, incorrect calculations, and restrictive interpretations of laws lead to the violation of insured women's rights and weaken public trust in the social security system.",
-        "time": "11:33",
-        "ts": 1794223984
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -842,19 +835,33 @@
         "ts": 1794309338
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Ezzatollah Soleimani, one of the detainees of the December 1404 protests, was sentenced to seven years and eight months in prison by Branch 26 of the Tehran Revolutionary Court. He was sentenced to three years and seven months for assembly and collusion against national security, three years and seven months for insulting sacred beliefs, and six months for propaganda against the regime.",
+        "time": "11:24",
+        "ts": 1794309845
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "On the tenth month after the large massacre by the Islamic Republic in Dey 1404, the mother of the missing Mohammadparsa Amini released a video of her son and his 40th-day memorial ceremony on social media. Mohammadparsa Amini, a 17-year-old teenager, was killed on Dey 18, 1404 in Karaj.",
         "time": "11:30",
         "ts": 1794310256
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Farzin Dabiri, a member of the Football Federation's board, was suspended from all football activities for refusing to stand during the national anthem at the farewell ceremony for Hamid Alidousti, a former national team player.",
+        "time": "11:37",
+        "ts": 1794310627
       }
     ],
     "language": "en",
-    "packId": "20261110-46",
-    "sequence": 46,
+    "packId": "20261110-48",
+    "sequence": 48,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:32"
+    "updatedAt": "11:42"
   },
   "verified": true
 }
