@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261110-116 seq=116 exp=1794428602",
+      "advancedStatus": "pack_id=20261110-117 seq=117 exp=1794428885",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:23",
+      "lastChecked": "20:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-10",
-    "expiresAt": "2026-11-11 20:23",
+    "expiresAt": "2026-11-11 20:28",
     "items": [
       {
         "channel": "Iran International",
@@ -840,14 +840,21 @@
         "text": "Iran International will cover the protests of Dey 1404 in Kurdistan in the next episode of National Revolution Geography on Friday. The network has invited people to send videos and information about the commanders and perpetrators of the crackdown to participate in documenting the realities of the Dey crackdown.",
         "time": "20:19",
         "ts": 1794341997
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "The Ministry of Oil reported a fire on one of the South Pars platforms on the evening of Tuesday, 19 Aban, and announced that the platform was completely evacuated to ensure the safety of engineers. The public relations of the Pars Oil and Gas Company stated that the fire control operation on one of the gas platforms in Phase 14 has been carried out and the fire is under control. The cause of the fire is under investigation, with gas leakage or an operational accident being two possible causes.",
+        "time": "20:27",
+        "ts": 1794342433
       }
     ],
     "language": "en",
-    "packId": "20261110-116",
-    "sequence": 116,
+    "packId": "20261110-117",
+    "sequence": 117,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:23"
+    "updatedAt": "20:28"
   },
   "verified": true
 }
