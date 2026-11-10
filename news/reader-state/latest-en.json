@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261110-85 seq=85 exp=1794412872",
+      "advancedStatus": "pack_id=20261110-86 seq=86 exp=1794413784",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:01",
+      "lastChecked": "16:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-10",
-    "expiresAt": "2026-11-11 16:01",
+    "expiresAt": "2026-11-11 16:16",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Dariush Barani Biranvand, mayor of Khorramabad, announced that about 500 to 600 worn-out taxis are active in this city and that renewing the public transportation fleet requires financial and credit resources.",
-        "time": "16:15",
-        "ts": 1794240906
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -798,14 +791,21 @@
         "text": "Rubio said Washington currently prefers economic pressure and naval blockade over extensive military attacks, but the military option remains on the table. He added that sanctions have pressured Iran's economy and if Iran crosses red lines, the US military is ready to act. Rubio also spoke about the possibility of the Islamic Republic's collapse, the nuclear program, Houthi attacks, and US support for Saudi Arabia.",
         "time": "15:56",
         "ts": 1794326165
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Miri Regev, Israel's Minister of Transportation and Likud representative in the Knesset, told an Iran International reporter that the Yashar party and its leader Gadi Eisenkot are weak to lead Israel and will not stand against the Islamic Republic's nuclear program. Regev told the people of Iran not to lose hope and to pursue change within Iran.",
+        "time": "16:04",
+        "ts": 1794326645
       }
     ],
     "language": "en",
-    "packId": "20261110-85",
-    "sequence": 85,
+    "packId": "20261110-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:01"
+    "updatedAt": "16:16"
   },
   "verified": true
 }
