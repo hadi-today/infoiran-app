@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261110-117 seq=117 exp=1794428885",
+      "advancedStatus": "pack_id=20261110-118 seq=118 exp=1794429435",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:28",
+      "lastChecked": "20:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-10",
-    "expiresAt": "2026-11-11 20:28",
+    "expiresAt": "2026-11-11 20:37",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Donald Trump, after talks with the Prime Minister of Qatar, said that Qatar prefers the Iran issue to be resolved peacefully, but the US is ready for military strikes if necessary. Trump added that Saudi Arabia also prefers a peaceful resolution to the conflict with the Islamic Republic. He also defended Pete Hegseth, the US Secretary of War, saying Hegseth has won two wars.",
-        "time": "20:33",
-        "ts": 1794256432
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -847,14 +840,21 @@
         "text": "The Ministry of Oil reported a fire on one of the South Pars platforms on the evening of Tuesday, 19 Aban, and announced that the platform was completely evacuated to ensure the safety of engineers. The public relations of the Pars Oil and Gas Company stated that the fire control operation on one of the gas platforms in Phase 14 has been carried out and the fire is under control. The cause of the fire is under investigation, with gas leakage or an operational accident being two possible causes.",
         "time": "20:27",
         "ts": 1794342433
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video received shows that Iranians in Germany held their event against executions in Iran and in opposition to the Islamic Republic in Hanover on Tuesday.",
+        "time": "20:33",
+        "ts": 1794342822
       }
     ],
     "language": "en",
-    "packId": "20261110-117",
-    "sequence": 117,
+    "packId": "20261110-118",
+    "sequence": 118,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:28"
+    "updatedAt": "20:37"
   },
   "verified": true
 }
