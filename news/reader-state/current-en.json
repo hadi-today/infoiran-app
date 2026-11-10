@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261110-101 seq=101 exp=1794423042",
+      "advancedStatus": "pack_id=20261110-102 seq=102 exp=1794423334",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:50",
+      "lastChecked": "18:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-10",
-    "expiresAt": "2026-11-11 18:50",
+    "expiresAt": "2026-11-11 18:55",
     "items": [
       {
         "channel": "HRANA",
@@ -798,14 +798,21 @@
         "text": "The phenomenon of kolbari has spread in the provinces of West Azerbaijan, Kurdistan, Kermanshah, and Ilam, with about 70,000 people kolbari-ing in West Azerbaijan and Kurdistan. Economic deprivation and lack of formal job opportunities have pushed many people towards kolbari. Educated kolbars have also turned to this work due to unemployment and face negative societal views.",
         "time": "18:44",
         "ts": 1794336267
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Workers of Radiator Iran Company reported delays in monthly salary payments, non-payment of bonuses, and reduction in overtime and welfare benefits. They demand a clear schedule for paying overdue claims and restoring removed benefits.",
+        "time": "18:52",
+        "ts": 1794336764
       }
     ],
     "language": "en",
-    "packId": "20261110-101",
-    "sequence": 101,
+    "packId": "20261110-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:50"
+    "updatedAt": "18:55"
   },
   "verified": true
 }
