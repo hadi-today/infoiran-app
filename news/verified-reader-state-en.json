@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261110-72 seq=72 exp=1794408670",
+      "advancedStatus": "pack_id=20261110-73 seq=73 exp=1794409016",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:51",
+      "lastChecked": "14:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-10",
-    "expiresAt": "2026-11-11 14:51",
+    "expiresAt": "2026-11-11 14:56",
     "items": [
       {
         "channel": "HRANA",
@@ -798,14 +798,21 @@
         "text": "The Israeli parliament began its work with the swearing-in of members; however, the status of the future Israeli government is still unclear and efforts to form the government continue.",
         "time": "14:47",
         "ts": 1794322072
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Pete Hegseth, US Secretary of Defense, said the Trump administration did not initiate military conflict with Iran and the Islamic Republic started the war 47 years ago. He called the Islamic Republic a terrorist regime and emphasized US readiness to attack Iran again.",
+        "time": "14:51",
+        "ts": 1794322310
       }
     ],
     "language": "en",
-    "packId": "20261110-72",
-    "sequence": 72,
+    "packId": "20261110-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:51"
+    "updatedAt": "14:56"
   },
   "verified": true
 }
