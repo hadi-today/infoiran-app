@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261110-12 seq=12 exp=1794379144",
+      "advancedStatus": "pack_id=20261110-13 seq=13 exp=1794379840",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "06:39",
+      "lastChecked": "06:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-10",
-    "expiresAt": "2026-11-11 06:39",
+    "expiresAt": "2026-11-11 06:50",
     "items": [
       {
         "channel": "Iran International",
@@ -826,14 +826,21 @@
         "text": "Rouhollah Motafakker Azad, a member of the Parliament's presidium, said if the enemy makes a new mistake, the war will have bigger surprises for them. He added that all options to defend the country remain on the table. Motafakker Azad also said the armed forces have become more successful and precise in each war.",
         "time": "06:24",
         "ts": 1794291848
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Abu Dhabi National Oil Company announced on Tuesday, 19 Aban, that the number of ships passing through the Strait of Hormuz has been continuously increasing. The company's CEO told Reuters that alternative routes for servicing customers have been explored in recent months, but no final decision has been made yet.",
+        "time": "06:46",
+        "ts": 1794293197
       }
     ],
     "language": "en",
-    "packId": "20261110-12",
-    "sequence": 12,
+    "packId": "20261110-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "06:39"
+    "updatedAt": "06:50"
   },
   "verified": true
 }
