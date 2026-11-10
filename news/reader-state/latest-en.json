@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261110-104 seq=104 exp=1794423623",
+      "advancedStatus": "pack_id=20261110-106 seq=106 exp=1794423951",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:00",
+      "lastChecked": "19:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-10",
-    "expiresAt": "2026-11-11 19:00",
+    "expiresAt": "2026-11-11 19:05",
     "items": [
       {
         "channel": "HRANA",
@@ -819,14 +819,28 @@
         "text": "Arash Aramesh, a legal expert and national security analyst, said there is a possibility of reaching an agreement between the Islamic Republic and the US, but the Iranian government is not inclined to negotiate or make concessions. He explained the outlook for continued limited conflicts and the possibility of war expansion, as well as the Islamic Republic's strategy and Donald Trump's approach in negotiations.",
         "time": "19:00",
         "ts": 1794337203
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video published on social media shows flooding at Payame Noor University in Baghmalek county and water entering the university campus.",
+        "time": "19:01",
+        "ts": 1794337273
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Abbas Goodarzi, spokesperson for the Presidium of the Islamic Consultative Assembly, announced on Tuesday, 19 Aban, the submission of an urgent plan to remove the requirement of Ijtihad from the Minister of Intelligence. He said that according to this plan, two organizations for intelligence protection and ideological affairs will be formed within the Ministry of Intelligence. He added that the approval of this plan could accelerate the process of introducing the proposed Minister of Intelligence to the parliament and resolve the status of the Ministry of Intelligence after more than eight months.",
+        "time": "19:01",
+        "ts": 1794337305
       }
     ],
     "language": "en",
-    "packId": "20261110-104",
-    "sequence": 104,
+    "packId": "20261110-106",
+    "sequence": 106,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:00"
+    "updatedAt": "19:05"
   },
   "verified": true
 }
