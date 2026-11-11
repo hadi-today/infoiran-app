@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-76 seq=76 exp=1794489412",
+      "advancedStatus": "pack_id=20261111-77 seq=77 exp=1794489695",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:16",
+      "lastChecked": "13:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 13:16",
+    "expiresAt": "2026-11-12 13:21",
     "items": [
       {
         "channel": "خبرگزاری هرانا",
@@ -722,13 +722,19 @@
         "text": "جوزپه والدیتارا، وزیر آموزش ایتالیا، گفت مدارس تخلیه‌شده پیامی یکسان دریافت کرده‌اند و انتظار می‌رود شمار مدارس دریافت‌کننده این پیام افزایش یابد. او ارسال گسترده این پیام را نشانه‌ای از بی‌اعتبار بودن تهدید دانست. جورجا ملونی، نخست‌وزیر ایتالیا، تاکید کرد این تهدیدها خطری به همراه ندارند و پلیس وضعیت را زیر نظر گرفته است.",
         "time": "13:14",
         "ts": 1794402842
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "وزیر خارجه آمریکا با تاکید بر استقلال لبنان گفت تصمیم‌گیری درباره آینده این کشور باید با دولت و ارتش لبنان باشد، نه جمهوری اسلامی.",
+        "time": "13:18",
+        "ts": 1794403101
       }
     ],
-    "packId": "20261111-76",
-    "sequence": 76,
+    "packId": "20261111-77",
+    "sequence": 77,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "13:16"
+    "updatedAt": "13:21"
   },
   "verified": true
 }
