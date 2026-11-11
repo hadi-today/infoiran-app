@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-65 seq=65 exp=1794484454",
+      "advancedStatus": "pack_id=20261111-66 seq=66 exp=1794485134",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:54",
+      "lastChecked": "12:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 11:54",
+    "expiresAt": "2026-11-12 12:05",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A citizen sent a video to Iran International showing a plate of fried eggplant and said: \"This is our lunch today. Death to Mojtaba.\"",
-        "time": "12:03",
-        "ts": 1794312239
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -812,14 +805,21 @@
         "text": "Contrary to Iran's international commitments under the Convention on the Rights of the Child and obligations regarding the non-use of children in military affairs, more than 320 students from Dorud in Lorestan province and Varamin and Pardis in Tehran province were sent to operational areas in the south of the country as part of camps called \"Rahian-e Noor\".",
         "time": "11:43",
         "ts": 1794397430
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The case of three suspects linked to the Islamic Revolutionary Guard Corps accused of planning an attack against Iran International journalists has entered the final decision-making stage by the jury in the UK. On the third day of deliberations, the jury members must reach a unanimous verdict. Mostafa Sepahvand, Shapur Ghal'eh Alikhani Nouri, and Farhad Javadi Manesh are accused of spying for the Islamic Republic's security agencies against two Iran International journalists.",
+        "time": "12:01",
+        "ts": 1794398508
       }
     ],
     "language": "en",
-    "packId": "20261111-65",
-    "sequence": 65,
+    "packId": "20261111-66",
+    "sequence": 66,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:54"
+    "updatedAt": "12:05"
   },
   "verified": true
 }
