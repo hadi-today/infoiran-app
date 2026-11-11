@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-132 seq=132 exp=1794508176",
+      "advancedStatus": "pack_id=20261111-133 seq=133 exp=1794508792",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:29",
+      "lastChecked": "18:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 18:29",
+    "expiresAt": "2026-11-12 18:39",
     "items": [
       {
         "channel": "HRANA",
@@ -910,14 +910,21 @@
         "text": "Mehdi Mahdavi-Azad said on the program \"Cheshmandaz\" that while the US government talks about continuing economic pressure and naval blockade instead of war and some media report progress in negotiations, field evidence indicates readiness for the possibility of military conflict.",
         "time": "18:27",
         "ts": 1794421665
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video released on social media shows the restlessness and grief of the mother of the missing Peyman Pourdavarani in the absence of her son. Peyman, 31 years old and father of one child, was killed on 18 Dey 1404 in Kerman.",
+        "time": "18:35",
+        "ts": 1794422101
       }
     ],
     "language": "en",
-    "packId": "20261111-132",
-    "sequence": 132,
+    "packId": "20261111-133",
+    "sequence": 133,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:29"
+    "updatedAt": "18:39"
   },
   "verified": true
 }
