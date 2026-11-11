@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-08 seq=8 exp=1794456351",
+      "advancedStatus": "pack_id=20261111-09 seq=9 exp=1794456640",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:05",
+      "lastChecked": "04:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 04:05",
+    "expiresAt": "2026-11-12 04:10",
     "items": [
       {
         "channel": "Iran International",
@@ -854,14 +854,21 @@
         "text": "Bloomberg, citing a Western official, reported that despite severe damage to its military industries during US and Israeli airstrikes, the Islamic Republic still possesses at least 1,700 ballistic missiles and produces about 50 new missiles monthly. Pete Hegseth, US Secretary of Defense, said over 80% of Iran's nuclear industrial infrastructure has been destroyed. Western intelligence assessments indicate Tehran retains the ability to produce weapons and maintain part of its missile strike capacity.",
         "time": "04:04",
         "ts": 1794369878
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Masoud Pezeshkian said before traveling to Turkey to attend the UN climate change conference that the US and Israel \"received the result of their ugly crimes in their elections.\" Pezeshkian considered the climate change conference an important opportunity to express the Islamic Republic's positions on the destruction of Iran's environment in the recent war.",
+        "time": "04:09",
+        "ts": 1794370186
       }
     ],
     "language": "en",
-    "packId": "20261111-08",
-    "sequence": 8,
+    "packId": "20261111-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:05"
+    "updatedAt": "04:10"
   },
   "verified": true
 }
