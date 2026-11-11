@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-142 seq=142 exp=1794511807",
+      "advancedStatus": "pack_id=20261111-143 seq=143 exp=1794512127",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:30",
+      "lastChecked": "19:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 19:30",
+    "expiresAt": "2026-11-12 19:35",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A video received by Iran International shows the continuation of the sit-in by Iranians in the Netherlands in solidarity for a free Iran, supporting the people and the national revolution against the Islamic Republic, held in The Hague in front of the Dutch Ministry of Foreign Affairs.",
-        "time": "19:32",
-        "ts": 1794339157
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "The Law on Regulation and Supervision of Border Trade and Sustainable Employment for Border Residents, approved on 25 Bahman 1402, obliges the government to plan for sustainable employment, sufficient income, and proper social security. The main question is how these obligations will translate into clear and actionable support in daily life. This issue is especially relevant for porters whose income depends on border trade.",
         "time": "19:23",
         "ts": 1794425031
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video released on social media shows the restlessness of the mother of the disappeared Ghazal Janqorban at her grave. Ghazal, 15 years old, was shot by suppressors during the public protests on 19 Dey in Isfahan and died in the hospital.",
+        "time": "19:31",
+        "ts": 1794425495
       }
     ],
     "language": "en",
-    "packId": "20261111-142",
-    "sequence": 142,
+    "packId": "20261111-143",
+    "sequence": 143,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:30"
+    "updatedAt": "19:35"
   },
   "verified": true
 }
