@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-67 seq=67 exp=1794485157",
+      "advancedStatus": "pack_id=20261111-68 seq=68 exp=1794485449",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:05",
+      "lastChecked": "12:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 12:05",
+    "expiresAt": "2026-11-12 12:10",
     "items": [
       {
         "channel": "HRANA",
@@ -807,6 +807,13 @@
         "ts": 1794397430
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The Director General of Crisis Management of Isfahan Province announced that in the first half of the current year, 474 workers in the industrial sector of Isfahan Province, including mining, construction, and industrial fields, have been involved in accidents.",
+        "time": "12:01",
+        "ts": 1794398484
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "The case of three suspects linked to the Islamic Revolutionary Guard Corps accused of planning an attack against Iran International journalists has entered the final decision-making stage by the jury in the UK. On the third day of deliberations, the jury members must reach a unanimous verdict. Mostafa Sepahvand, Shapur Ghal'eh Alikhani Nouri, and Farhad Javadi Manesh are accused of spying for the Islamic Republic's security agencies against two Iran International journalists.",
@@ -822,11 +829,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261111-67",
-    "sequence": 67,
+    "packId": "20261111-68",
+    "sequence": 68,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:05"
+    "updatedAt": "12:10"
   },
   "verified": true
 }
