@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-90 seq=90 exp=1794493861",
+      "advancedStatus": "pack_id=20261111-92 seq=92 exp=1794494182",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:31",
+      "lastChecked": "14:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 14:31",
+    "expiresAt": "2026-11-12 14:36",
     "items": [
       {
         "channel": "Iran International",
@@ -875,14 +875,28 @@
         "text": "Bahareh Shahmehri, a 17-year-old protester from Nishapur, was killed by a gunshot on 19 Dey. According to information received by Iran International, security agencies pressured her family to accept the government's narrative and introduce their child as a martyr.",
         "time": "14:24",
         "ts": 1794407080
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "A group of Havaniruz employees protested today in front of the Kermanshah governor's office over the uncertainty of their housing cooperative project. The protesters stated that they bought land in 1390 but after 15 years the housing construction project has not yet been implemented.",
+        "time": "14:29",
+        "ts": 1794407378
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Joe Biden, former US president, was targeted with thrown milk packets by Palestinian supporters in Dublin and took shelter behind an umbrella for protection. At the same time, police clashed with protesters and Biden was escorted by officers to his SUV.",
+        "time": "14:32",
+        "ts": 1794407571
       }
     ],
     "language": "en",
-    "packId": "20261111-90",
-    "sequence": 90,
+    "packId": "20261111-92",
+    "sequence": 92,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:31"
+    "updatedAt": "14:36"
   },
   "verified": true
 }
