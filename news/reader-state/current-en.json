@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-54 seq=54 exp=1794481105",
+      "advancedStatus": "pack_id=20261111-56 seq=56 exp=1794481420",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:58",
+      "lastChecked": "11:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 10:58",
+    "expiresAt": "2026-11-12 11:03",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The trial of three Iranian suspects accused of spying on Iran International journalists is being held today at Woolwich Court in London, and their verdict is to be announced. These three individuals are accused of gathering information for the Islamic Republic. Tajeddin Soroush, a journalist from Iran International, reports.",
-        "time": "11:01",
-        "ts": 1794308500
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Ali Hossein Ghazizadeh, a member of the Iran International editorial team, said the US is seeking to limit a large part of Tehran's economic exchange routes by expanding the maritime, air, and land blockade of the Islamic Republic. According to him, the Trump administration hopes to force the Islamic Republic to accept Washington's conditions by intensifying economic pressure without entering a short-term military war.",
-        "time": "11:02",
-        "ts": 1794308541
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -854,14 +840,21 @@
         "text": "According to reports, Farang Lak, the mother of Hamid Basiri, died on Tuesday, 18 Aban. Family close ones said she developed cancer two months after her son's killing and died before the first anniversary of his death. Hamid Basiri, 35, was targeted during the protests on 19 Dey in Fardis, Karaj.",
         "time": "10:52",
         "ts": 1794394356
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Alireza Dabir, head of the Wrestling Federation, said about the possibility of his presence in the National Olympic Committee presidential election that many friends insist strongly but he has no motivation and has not yet decided. He added that personally he has no desire to participate but friends insist that he should help. Dabir also said that he has never even prepared a resume for himself in his entire life.",
+        "time": "10:52",
+        "ts": 1794394372
       }
     ],
     "language": "en",
-    "packId": "20261111-54",
-    "sequence": 54,
+    "packId": "20261111-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:58"
+    "updatedAt": "11:03"
   },
   "verified": true
 }
