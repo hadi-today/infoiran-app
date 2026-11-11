@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-160 seq=160 exp=1794527315",
+      "advancedStatus": "pack_id=20261111-161 seq=161 exp=1794527617",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:48",
+      "lastChecked": "23:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 23:48",
+    "expiresAt": "2026-11-12 23:53",
     "items": [
       {
         "channel": "Iran International",
@@ -882,14 +882,21 @@
         "text": "Shahram Khaledi said Russia's new proposal on the Islamic Republic's nuclear program should be viewed within the framework of Moscow's competition with Washington. He added that Moscow does not want Iran to gain the capability to build nuclear weapons and may be seeking a way out of the crisis. Khaledi also mentioned the possibility of Iraq mediating between Tehran and Washington, saying Baghdad may be trying to create conditions for an agreement.",
         "time": "23:45",
         "ts": 1794440711
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Baharan Azadi, author of two articles about the widespread gas outage, was a guest on the program \"With Kambiz Hosseini\" to discuss people's accounts of the outage and its impact on their daily lives in Iran.",
+        "time": "23:50",
+        "ts": 1794441050
       }
     ],
     "language": "en",
-    "packId": "20261111-160",
-    "sequence": 160,
+    "packId": "20261111-161",
+    "sequence": 161,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:48"
+    "updatedAt": "23:53"
   },
   "verified": true
 }
