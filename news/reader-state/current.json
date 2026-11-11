@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-01 seq=1 exp=1794441716",
+      "advancedStatus": "pack_id=20261111-02 seq=2 exp=1794441723",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:01",
+      "lastChecked": "00:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 00:01",
+    "expiresAt": "2026-11-12 00:02",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -704,13 +704,19 @@
         "text": "جمعی از دانشجویان دانشگاه کردستان در سنندج، سه‌شنبه ۱۹ آبان، در اعتراض به کیفیت و قیمت غذای سلف و رسیدگی‌نشدن به مطالباتشان اعتصاب و تجمع کردند. معترضان تراکت‌هایی با شعارهایی از جمله «غذای رایگان و باکیفیت حق دانشجو» و «نه جنگ، نه سرکوب، زنده باد دانشگاه» پخش کردند.",
         "time": "23:37",
         "ts": 1794353831
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "مجلس نمایندگان آمریکا روز سه‌شنبه با ۲۱۱ رای موافق در برابر ۲۰۴ رای مخالف، طرح استیضاح پیت هگست، وزیر جنگ، را به کمیته قضایی ارجاع داد؛ اقدامی که به گزارش رویترز، عملا تلاش برای استیضاح او را متوقف کرد.",
+        "time": "23:59",
+        "ts": 1794355181
       }
     ],
-    "packId": "20261111-01",
-    "sequence": 1,
+    "packId": "20261111-02",
+    "sequence": 2,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "00:01"
+    "updatedAt": "00:02"
   },
   "verified": true
 }
