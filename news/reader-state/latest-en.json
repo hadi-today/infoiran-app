@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-35 seq=35 exp=1794472608",
+      "advancedStatus": "pack_id=20261111-36 seq=36 exp=1794474049",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:36",
+      "lastChecked": "09:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 08:36",
+    "expiresAt": "2026-11-12 09:00",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The Football Federation of the Islamic Republic announced that the travel plan of the national football team to Iraq for friendly matches in the November FIFA window has changed. Instead of a direct flight to Basra, the national team will first fly to Abadan and then travel by land to Basra. The national team is scheduled to play against Palestine on Saturday, November 14 at 18:30 Tehran time and against Iraq on Tuesday, November 17 at 19:45 Tehran time.",
-        "time": "08:53",
-        "ts": 1794300783
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "A video sent to Iran International shows that a group of Iranians supporting Prince Reza Pahlavi in Hamburg, Germany, chanted \"Fatemeh Sepahri must be freed\" in support of this political prisoner.",
         "time": "08:34",
         "ts": 1794386076
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Masoud Pezeshkian, the head of the Islamic Republic government, arrived in Antalya to participate in the 31st CAP summit. According to the announced program, bilateral meetings with officials from various countries, including the President of Turkey, are scheduled for Pezeshkian on the sidelines of this summit.",
+        "time": "08:56",
+        "ts": 1794387401
       }
     ],
     "language": "en",
-    "packId": "20261111-35",
-    "sequence": 35,
+    "packId": "20261111-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:36"
+    "updatedAt": "09:00"
   },
   "verified": true
 }
