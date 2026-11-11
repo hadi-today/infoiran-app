@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-72 seq=72 exp=1794488174",
+      "advancedStatus": "pack_id=20261111-73 seq=73 exp=1794488772",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:56",
+      "lastChecked": "13:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 12:56",
+    "expiresAt": "2026-11-12 13:06",
     "items": [
       {
         "channel": "HRANA",
@@ -812,14 +812,21 @@
         "text": "A court session was held to address the charges against 5 journalists named Mandana Sadeghi, Arash Ghaleh Golab, Kourosh Karam Pour, Farzaneh Yahyaabadi, and Reza Mohammadi at Branch 103 of the Criminal Court Two in Abadan County.",
         "time": "12:45",
         "ts": 1794401120
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Foreign ministers of the G7 countries in the final statement of the Paris meeting declared that the Islamic Republic \"must never\" acquire nuclear weapons and if there is no diplomatic solution, they will continue economic and political pressures. They also emphasized full implementation of reinstated sanctions and accused the Islamic Republic of supporting non-state armed groups and providing military aid to Russia. The G7 members condemned Iran's attacks on neighboring countries and disruption of maritime traffic in the Strait of Hormuz and called for an end to these attacks.",
+        "time": "13:03",
+        "ts": 1794402213
       }
     ],
     "language": "en",
-    "packId": "20261111-72",
-    "sequence": 72,
+    "packId": "20261111-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:56"
+    "updatedAt": "13:06"
   },
   "verified": true
 }
