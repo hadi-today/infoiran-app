@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-109 seq=109 exp=1794499504",
+      "advancedStatus": "pack_id=20261111-110 seq=110 exp=1794499823",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:05",
+      "lastChecked": "16:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 16:05",
+    "expiresAt": "2026-11-12 16:10",
     "items": [
       {
         "channel": "خبرگزاری هرانا",
@@ -746,13 +746,19 @@
         "text": "ویدیویی که در چهارشنبه ۲۰ آبان منتشر شده، کیفیت نامناسب آب لوله‌کشی در اهواز را نشان می‌دهد.",
         "time": "16:02",
         "ts": 1794412948
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "وزارت امور خارجه کانادا با بازاعمال تحریم‌های اقتصادی علیه جمهوری اسلامی، ۱۱ نهاد کلیدی این حکومت را که در سال ۲۰۱۶ و پس از توافق برجام از فهرست تحریم‌ها خارج شده بودند، بار دیگر در فهرست سیاه قرار داد. این نهادها بخش‌های انرژی، مالی و هسته‌ای ایران را شامل می‌شوند؛ از جمله شرکت ملی نفت، شرکت ملی نفت‌کش، بانک ملی، بانک ملت، بانک صنعت و معدن و بیمه ایران.",
+        "time": "16:05",
+        "ts": 1794413108
       }
     ],
-    "packId": "20261111-109",
-    "sequence": 109,
+    "packId": "20261111-110",
+    "sequence": 110,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "16:05"
+    "updatedAt": "16:10"
   },
   "verified": true
 }
