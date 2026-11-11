@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-103 seq=103 exp=1794497605",
+      "advancedStatus": "pack_id=20261111-105 seq=105 exp=1794497922",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:33",
+      "lastChecked": "15:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 15:33",
+    "expiresAt": "2026-11-12 15:38",
     "items": [
       {
         "channel": "Iran International",
@@ -868,14 +868,28 @@
         "text": "Senior world officials gathered in Antalya to discuss the transition to clean energy, investment in green industries, waste management, and methane emission reduction on the first day of the climate summit. The main focus of the talks is finding solutions to reduce pollution and greenhouse gas emissions without jeopardizing energy security and economic growth. Farzia Sabti, a reporter for Iran International, reports.",
         "time": "15:30",
         "ts": 1794411031
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Videos sent show that a protesting citizen wrote the slogan \"Long live the Shah\" and the phrase \"18 and 19\" in memory of the martyrs on the walls of Tehran's streets.",
+        "time": "15:32",
+        "ts": 1794411121
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "An arrest warrant for Ali Kalateh Dolati, a detainee related to the January 1404 protests, was issued by Branch 7 of the Public and Revolutionary Prosecutor's Office in Sabzevar. The charges include brandishing a weapon, illegal buying, selling and possession of weapons and ammunition, assaulting officers, propaganda against the regime, connections with exiled elements and hostile states, and attempted murder.",
+        "time": "15:33",
+        "ts": 1794411224
       }
     ],
     "language": "en",
-    "packId": "20261111-103",
-    "sequence": 103,
+    "packId": "20261111-105",
+    "sequence": 105,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:33"
+    "updatedAt": "15:38"
   },
   "verified": true
 }
