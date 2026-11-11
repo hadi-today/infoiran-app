@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-22 seq=22 exp=1794467957",
+      "advancedStatus": "pack_id=20261111-23 seq=23 exp=1794468798",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:19",
+      "lastChecked": "07:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 07:19",
+    "expiresAt": "2026-11-12 07:33",
     "items": [
       {
         "channel": "Iran International",
@@ -840,14 +840,21 @@
         "text": "Prince Reza Pahlavi, during a visit to the Auschwitz camp in Poland, emphasized the necessity of education about the Holocaust and confronting its denial. He also called for global support for the Iranian people's struggle against the Islamic Republic.",
         "time": "07:17",
         "ts": 1794381427
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Alireza Mansourian, former coach of Al-Talaba Iraq, signed a six-month contract to lead Al-Zawraa. Al-Zawraa is currently sixth in the Iraqi Stars League with 21 points, and Mansourian will face his former team Al-Talaba in his first match. He said his contract is initially for six months and may be extended if conditions are favorable.",
+        "time": "07:30",
+        "ts": 1794382208
       }
     ],
     "language": "en",
-    "packId": "20261111-22",
-    "sequence": 22,
+    "packId": "20261111-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:19"
+    "updatedAt": "07:33"
   },
   "verified": true
 }
