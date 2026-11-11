@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-140 seq=140 exp=1794511201",
+      "advancedStatus": "pack_id=20261111-141 seq=141 exp=1794511520",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:20",
+      "lastChecked": "19:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 19:20",
+    "expiresAt": "2026-11-12 19:25",
     "items": [
       {
         "channel": "خبرگزاری هرانا",
@@ -764,13 +764,19 @@
         "text": "گزارش شده است که حکومت ایران اولتیماتوم نظامی به ناتو و کشورهای اروپایی داده است.",
         "time": "19:17",
         "ts": 1794424642
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "text": "قانون ساماندهی و نظارت بر تجارت مرزی و ایجاد اشتغال پایدار مرزنشینان، مصوب ۲۵ بهمن ۱۴۰۲، دولت را به برنامه‌ریزی برای اشتغال پایدار، درآمد کافی و تامین اجتماعی مناسب مکلف کرده است. پرسش اصلی این است که این تکالیف چگونه به حمایتی روشن و قابل پیگیری در زندگی روزمره تبدیل می‌شوند. این موضوع به ویژه درباره کولبران مطرح است که درآمدشان به تجارت مرزی وابسته است.",
+        "time": "19:23",
+        "ts": 1794425031
       }
     ],
-    "packId": "20261111-140",
-    "sequence": 140,
+    "packId": "20261111-141",
+    "sequence": 141,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "19:20"
+    "updatedAt": "19:25"
   },
   "verified": true
 }
