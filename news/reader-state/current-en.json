@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-02 seq=2 exp=1794441723",
+      "advancedStatus": "pack_id=20261111-03 seq=3 exp=1794442261",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:02",
+      "lastChecked": "00:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 00:02",
+    "expiresAt": "2026-11-12 00:11",
     "items": [
       {
         "channel": "Iran International",
@@ -826,14 +826,21 @@
         "text": "The U.S. House of Representatives on Tuesday referred the impeachment resolution against Pete Hegseth, the Secretary of War, to the Judiciary Committee with 211 votes in favor and 204 against; an action that Reuters reported effectively halted the effort to impeach him.",
         "time": "23:59",
         "ts": 1794355181
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A chain collision of dozens of vehicles on Tuesday, 19 Aban, on a highway in eastern Bulgaria left at least 11 dead and 50 injured. Released videos show overturned and destroyed cars and trucks. Bulgarian officials stated that thick fog is the probable cause of this incident.",
+        "time": "00:09",
+        "ts": 1794355779
       }
     ],
     "language": "en",
-    "packId": "20261111-02",
-    "sequence": 2,
+    "packId": "20261111-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:02"
+    "updatedAt": "00:11"
   },
   "verified": true
 }
