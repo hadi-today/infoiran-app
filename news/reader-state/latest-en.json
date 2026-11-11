@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-110 seq=110 exp=1794499823",
+      "advancedStatus": "pack_id=20261111-112 seq=112 exp=1794500468",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:10",
+      "lastChecked": "16:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 16:10",
+    "expiresAt": "2026-11-12 16:21",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Yesterday, a landmine explosion in the Siahan area of Golshan county led to the death of a citizen.",
-        "time": "16:16",
-        "ts": 1794327380
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -875,14 +868,28 @@
         "text": "Canada's Ministry of Foreign Affairs has reimposed economic sanctions on the Islamic Republic, placing 11 key entities of the regime back on the blacklist that had been removed in 2016 after the JCPOA agreement. These entities include Iran's energy, financial, and nuclear sectors; among them are the National Oil Company, National Tanker Company, National Bank, Mellat Bank, Industry and Mine Bank, and Iran Insurance.",
         "time": "16:05",
         "ts": 1794413108
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The second day of trilateral talks between Ukraine, Russia, and the US in Abu Dhabi ended with announced progress on some issues, including security matters and prisoner exchanges. US representatives stated they will travel to Moscow to meet Vladimir Putin to discuss the results of the Abu Dhabi talks and ways to advance a peace agreement.",
+        "time": "16:05",
+        "ts": 1794413111
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mohammad Mashinchian said in the program \"Chortkeh\" that many workers have been forced to have multiple jobs to cover living expenses, and some effectively leave the labor market because their work costs exceed their income.",
+        "time": "16:18",
+        "ts": 1794413906
       }
     ],
     "language": "en",
-    "packId": "20261111-110",
-    "sequence": 110,
+    "packId": "20261111-112",
+    "sequence": 112,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:10"
+    "updatedAt": "16:21"
   },
   "verified": true
 }
