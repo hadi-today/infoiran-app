@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-51 seq=51 exp=1794480211",
+      "advancedStatus": "pack_id=20261111-52 seq=52 exp=1794480799",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:43",
+      "lastChecked": "10:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 10:43",
+    "expiresAt": "2026-11-12 10:53",
     "items": [
       {
         "channel": "Iran International",
@@ -847,14 +847,21 @@
         "text": "On Tuesday, 19 Aban, smoke rose from Didamar Island in Oman in the Strait of Hormuz. Iranian state media attributed this incident to an attack by the IRGC Navy on navigation aid systems.",
         "time": "10:36",
         "ts": 1794393377
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Alaeddin Boroujerdi, a member of the National Security Commission of the Parliament, said that the Chinese side must believe that the Islamic Republic will not trade its relations with China for its relations with the West. He added that strengthening relations with Beijing is very important and should be viewed with a long-term perspective. Boroujerdi also referred to the serious and special emphasis of the late leader on relations with China.",
+        "time": "10:48",
+        "ts": 1794394118
       }
     ],
     "language": "en",
-    "packId": "20261111-51",
-    "sequence": 51,
+    "packId": "20261111-52",
+    "sequence": 52,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:43"
+    "updatedAt": "10:53"
   },
   "verified": true
 }
