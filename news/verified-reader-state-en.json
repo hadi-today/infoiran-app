@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-151 seq=151 exp=1794518635",
+      "advancedStatus": "pack_id=20261111-152 seq=152 exp=1794520075",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:23",
+      "lastChecked": "21:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 21:23",
+    "expiresAt": "2026-11-12 21:47",
     "items": [
       {
         "channel": "Iran International",
@@ -868,14 +868,21 @@
         "text": "A new wave of bomb threats against schools in Scotland, Northern Ireland, the Republic of Ireland, and Italy has led to the emergency evacuation of several educational centers. Italian officials stated that about 6,300 schools have been affected by these threats. Reza Talebi said Russia might be using cyber groups and networks linked to the Islamic Republic to create crisis and increase divisions in European societies.",
         "time": "21:19",
         "ts": 1794431992
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mohsen Rezaei, Secretary of the Supreme National Security Council of the Islamic Republic, said they will not allow even a tiny amount of enriched nuclear material to leave Iran. He added that these materials will remain for domestic use in Iran and that the Islamic Republic is designing nuclear-powered ships and submarines. Rezaei also said that in the future, these materials might be used to build small modular reactors.",
+        "time": "21:46",
+        "ts": 1794433611
       }
     ],
     "language": "en",
-    "packId": "20261111-151",
-    "sequence": 151,
+    "packId": "20261111-152",
+    "sequence": 152,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:23"
+    "updatedAt": "21:47"
   },
   "verified": true
 }
