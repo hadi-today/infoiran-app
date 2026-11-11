@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-133 seq=133 exp=1794508792",
+      "advancedStatus": "pack_id=20261111-134 seq=134 exp=1794508816",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:39",
+      "lastChecked": "18:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 18:39",
+    "expiresAt": "2026-11-12 18:40",
     "items": [
       {
         "channel": "HRANA",
@@ -917,14 +917,21 @@
         "text": "A video released on social media shows the restlessness and grief of the mother of the missing Peyman Pourdavarani in the absence of her son. Peyman, 31 years old and father of one child, was killed on 18 Dey 1404 in Kerman.",
         "time": "18:35",
         "ts": 1794422101
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The media office of Prince Reza Pahlavi announced on the evening of Wednesday, 20 Aban that Ali Zaghi and Ilya Akbari, two young men arrested during the national uprising of Dey month, face imminent execution. The Mashhad Revolutionary Court, headed by Hossein Yazdankhah, has sentenced these two young men to death. Additionally, four other young men in the Shandiz case have also been sentenced to death.",
+        "time": "18:35",
+        "ts": 1794422129
       }
     ],
     "language": "en",
-    "packId": "20261111-133",
-    "sequence": 133,
+    "packId": "20261111-134",
+    "sequence": 134,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:39"
+    "updatedAt": "18:40"
   },
   "verified": true
 }
