@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-123 seq=123 exp=1794505077",
+      "advancedStatus": "pack_id=20261111-124 seq=124 exp=1794505391",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:37",
+      "lastChecked": "17:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 17:37",
+    "expiresAt": "2026-11-12 17:43",
     "items": [
       {
         "channel": "Iran International",
@@ -875,14 +875,21 @@
         "text": "A citizen sent a video to Iran International showing the moment of an explosion at the Ferochrome Baft factory in Kerman province, which he said occurred on 12 Aban and left 10 injured. The citizen reported repeated explosions, prevention of informing the labor office, severe pollution, and the layoff of nearly 100 employees. The number of factory workers is now about 80.",
         "time": "17:34",
         "ts": 1794418495
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Hossein Sobhani, head of the Islamic Council of Rey County, announced that about 22 buses operate in Qiamdasht, a significant portion of which are worn out and some are over 20 years old. He said frequent breakdowns and poor service quality do not meet the needs of citizens and about 13,000 students of the Islamic Azad University East Tehran branch. He also said the owners of these buses lack sufficient financial capacity to renew the fleet and necessary support and facilities have not been provided.",
+        "time": "17:38",
+        "ts": 1794418681
       }
     ],
     "language": "en",
-    "packId": "20261111-123",
-    "sequence": 123,
+    "packId": "20261111-124",
+    "sequence": 124,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:37"
+    "updatedAt": "17:43"
   },
   "verified": true
 }
