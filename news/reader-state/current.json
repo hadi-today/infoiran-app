@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-02 seq=2 exp=1794441723",
+      "advancedStatus": "pack_id=20261111-03 seq=3 exp=1794442261",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:02",
+      "lastChecked": "00:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-11",
-    "expiresAt": "2026-11-12 00:02",
+    "expiresAt": "2026-11-12 00:11",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -710,13 +710,19 @@
         "text": "مجلس نمایندگان آمریکا روز سه‌شنبه با ۲۱۱ رای موافق در برابر ۲۰۴ رای مخالف، طرح استیضاح پیت هگست، وزیر جنگ، را به کمیته قضایی ارجاع داد؛ اقدامی که به گزارش رویترز، عملا تلاش برای استیضاح او را متوقف کرد.",
         "time": "23:59",
         "ts": 1794355181
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "برخورد زنجیره‌ای ده‌ها خودرو در روز سه‌شنبه ۱۹ آبان در بزرگراهی در شرق بلغارستان دست‌کم ۱۱ کشته و ۵۰ زخمی بر جا گذاشت. ویدیوهای منتشرشده خودروها و کامیون‌های واژگون و متلاشی‌شده را نشان می‌دهد. مقام‌های بلغارستان مه غلیظ را عامل احتمالی این حادثه اعلام کردند.",
+        "time": "00:09",
+        "ts": 1794355779
       }
     ],
-    "packId": "20261111-02",
-    "sequence": 2,
+    "packId": "20261111-03",
+    "sequence": 3,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "00:02"
+    "updatedAt": "00:11"
   },
   "verified": true
 }
