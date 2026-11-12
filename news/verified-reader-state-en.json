@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261112-91 seq=91 exp=1794586278",
+      "advancedStatus": "pack_id=20261112-92 seq=92 exp=1794586623",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:11",
+      "lastChecked": "16:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-12",
-    "expiresAt": "2026-11-13 16:11",
+    "expiresAt": "2026-11-13 16:17",
     "items": [
       {
         "channel": "Iran International",
@@ -763,14 +763,21 @@
         "text": "Police reported a shooting of five people in the Logan Circle area of Washington, about one and a half kilometers from the White House. Police forces are providing the latest information about this incident.",
         "time": "16:05",
         "ts": 1794499542
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Javad Khaki, a political prisoner, returned to the Central Prison of Karaj after the end of his leave. According to the Harana news agency, he returned to prison today, Thursday, 21 Aban. Khaki had been granted leave on 10 Aban.",
+        "time": "16:12",
+        "ts": 1794499963
       }
     ],
     "language": "en",
-    "packId": "20261112-91",
-    "sequence": 91,
+    "packId": "20261112-92",
+    "sequence": 92,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:11"
+    "updatedAt": "16:17"
   },
   "verified": true
 }
