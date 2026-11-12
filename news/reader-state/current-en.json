@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261112-12 seq=12 exp=1794553238",
+      "advancedStatus": "pack_id=20261112-13 seq=13 exp=1794553535",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:00",
+      "lastChecked": "07:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-12",
-    "expiresAt": "2026-11-13 07:00",
+    "expiresAt": "2026-11-13 07:05",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Prince Reza Pahlavi described the Islamic Republic as a jihadist, militant, and transnational movement that has turned Iran into a global terrorism base during the ceremony receiving the King Solomon Award in Krakow, Poland. He said the people of Iran are the first hostages of the Islamic Republic and are fighting the same forces that threaten Jews and the free world. The King Solomon Award was presented to him by the European Jewish Association.",
-        "time": "07:02",
-        "ts": 1794380566
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -861,14 +854,21 @@
         "text": "Hossein Taeb said Mohsen Rezaei's trip to Moscow was in response to a written message from Vladimir Putin to Mojtaba Khamenei. He added that Trump sent a representative to Putin before the US elections to pave the way for negotiations with the Islamic Republic. Taeb said the US must first accept seven conditions of the Islamic Republic, then Tehran will decide on negotiations.",
         "time": "06:59",
         "ts": 1794466757
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Rouhollah Rahimpour, a journalist and political analyst, referred to a Wall Street Journal report about the possibility of JD Vance meeting Mohsen Rezaee and said the Trump administration is pursuing three paths simultaneously against the Islamic Republic: agreement, economic pressure, and military action. He also emphasized that denying changes in the composition of the Islamic Republic's negotiation team means continuing the \"neither war nor peace\" strategy. The regional threats by government officials indicate that Tehran is preparing for the possibility of war.",
+        "time": "07:01",
+        "ts": 1794466891
       }
     ],
     "language": "en",
-    "packId": "20261112-12",
-    "sequence": 12,
+    "packId": "20261112-13",
+    "sequence": 13,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:00"
+    "updatedAt": "07:05"
   },
   "verified": true
 }
