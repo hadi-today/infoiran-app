@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261112-29 seq=29 exp=1794561213",
+      "advancedStatus": "pack_id=20261112-31 seq=31 exp=1794561537",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:13",
+      "lastChecked": "09:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-12",
-    "expiresAt": "2026-11-13 09:13",
+    "expiresAt": "2026-11-13 09:18",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Mohsen Rezaee, Secretary of the Supreme National Security Council of the Islamic Republic, stated that the Islamic Republic will not remove any portion of its enriched nuclear materials from Iran. He said the Islamic Republic needs enriched materials for designing nuclear ships and submarines and has reached an advanced level in electronic warfare that allows controlling and downing American drones. Rezaee warned that any new US attack targeting Iranian military bases will be responded to, and ending the war on all fronts in West Asia, especially Lebanon, is one of the Islamic Republic's essential conditions.",
-        "time": "09:17",
-        "ts": 1794388639
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "Masoud Pezeshkian focused on the environmental damages of war in Iran and Gaza at the UN climate summit; meanwhile, Iran's internal environmental crises, from drying wetlands and Lake Urmia to air pollution, forest fires, and water and electricity shortages, were not reflected in his speech.",
         "time": "09:06",
         "ts": 1794474369
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Iran International viewers have reported a reduction in bakers' flour quotas, poor flour quality, and the closure of some bakeries. Some citizens have also reported the presence of insects and animal waste in the flour they use.",
+        "time": "09:14",
+        "ts": 1794474843
       }
     ],
     "language": "en",
-    "packId": "20261112-29",
-    "sequence": 29,
+    "packId": "20261112-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:13"
+    "updatedAt": "09:18"
   },
   "verified": true
 }
