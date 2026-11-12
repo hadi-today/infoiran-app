@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261112-31 seq=31 exp=1794561537",
+      "advancedStatus": "pack_id=20261112-32 seq=32 exp=1794562141",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:18",
+      "lastChecked": "09:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-12",
-    "expiresAt": "2026-11-13 09:18",
+    "expiresAt": "2026-11-13 09:29",
     "items": [
       {
         "channel": "Iran International",
@@ -854,14 +854,21 @@
         "text": "Iran International viewers have reported a reduction in bakers' flour quotas, poor flour quality, and the closure of some bakeries. Some citizens have also reported the presence of insects and animal waste in the flour they use.",
         "time": "09:14",
         "ts": 1794474843
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Pas-de-Calais prefecture in northern France announced it is investigating a possible bomb threat at the Calais-Frethun train station; this announcement came one day after bomb threats to schools in Italy, the UK, and Ireland and following a wave of bomb threats in Europe. The prefecture urged people to follow the latest updates from official accounts of the French railway company.",
+        "time": "09:25",
+        "ts": 1794475545
       }
     ],
     "language": "en",
-    "packId": "20261112-31",
-    "sequence": 31,
+    "packId": "20261112-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:18"
+    "updatedAt": "09:29"
   },
   "verified": true
 }
