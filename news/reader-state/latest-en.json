@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261112-108 seq=108 exp=1794594044",
+      "advancedStatus": "pack_id=20261112-109 seq=109 exp=1794594354",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:20",
+      "lastChecked": "18:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-12",
-    "expiresAt": "2026-11-13 18:20",
+    "expiresAt": "2026-11-13 18:25",
     "items": [
       {
         "channel": "Iran International",
@@ -770,14 +770,21 @@
         "text": "Contract and subcontract workers at Abadeh Cement Factory in Fars province have reported wage arrears of three to seven months and problems with their insurance payments. These workers have asked officials to end their uncertainty.",
         "time": "18:18",
         "ts": 1794507491
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Israel's Kan network reported on Thursday, 21 Aban, quoting a US official that US Central Command recently sent a message to Israeli military representatives in the US to prepare for the possibility of resuming war with Iran. Similar messages were sent to Israel and Gulf countries. The US continues to transfer equipment to the Middle East, with two aircraft carriers present in the region.",
+        "time": "18:24",
+        "ts": 1794507893
       }
     ],
     "language": "en",
-    "packId": "20261112-108",
-    "sequence": 108,
+    "packId": "20261112-109",
+    "sequence": 109,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:20"
+    "updatedAt": "18:25"
   },
   "verified": true
 }
