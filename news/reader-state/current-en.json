@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261112-07 seq=7 exp=1794546287",
+      "advancedStatus": "pack_id=20261112-08 seq=8 exp=1794546579",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:04",
+      "lastChecked": "05:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-12",
-    "expiresAt": "2026-11-13 05:04",
+    "expiresAt": "2026-11-13 05:09",
     "items": [
       {
         "channel": "Iran International",
@@ -868,14 +868,21 @@
         "text": "Mohammad Qaedi, an international relations lecturer, said that Donald Trump seeks to use the full military and economic capacity of the US to gain more concessions from the Islamic Republic. He added that Trump does not desire a large-scale war and tries to reach an agreement by oscillating between negotiation and economic pressure, which he can present as an achievement to the American public.",
         "time": "05:01",
         "ts": 1794459675
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Wall Street Journal reported that Nvidia's board of directors has considered removing Jensen Huang, the company's CEO, after the disclosure of his second extramarital affair. One of these relationships was with a woman suspected of collaborating with China's intelligence agency. Nvidia's board was scheduled to decide on Huang's future on Wednesday.",
+        "time": "05:04",
+        "ts": 1794459864
       }
     ],
     "language": "en",
-    "packId": "20261112-07",
-    "sequence": 7,
+    "packId": "20261112-08",
+    "sequence": 8,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:04"
+    "updatedAt": "05:09"
   },
   "verified": true
 }
