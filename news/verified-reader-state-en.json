@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261112-105 seq=105 exp=1794591838",
+      "advancedStatus": "pack_id=20261112-106 seq=106 exp=1794592772",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:43",
+      "lastChecked": "17:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-12",
-    "expiresAt": "2026-11-13 17:43",
+    "expiresAt": "2026-11-13 17:59",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "It was reported that the costs of medical services and basic goods in Iran have sharply increased. A person said that a surgeon took a 50 million toman bribe for his son's surgery. Also, the prices of ECG, espresso coffee, jacket zipper repair, simple burger, and eyeglass frames have significantly risen.",
-        "time": "17:55",
-        "ts": 1794419731
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Mohsen Rezaee, Secretary of the Supreme National Security Council of the Islamic Republic, threatened that if the US attacks again, American military bases in distant regions and even Europe will be targeted. He emphasized that Tehran will not allow even a tiny amount of enriched uranium to leave Iran and has informed Russia of this stance. Meanwhile, Mohammad Reza Naqdi, senior advisor to the Commander-in-Chief of the IRGC, said Mojtaba Khamenei has authorized operations anywhere in the world.",
-        "time": "17:57",
-        "ts": 1794419854
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -784,14 +770,21 @@
         "text": "The Israeli Prime Minister's Office announced that a security meeting between Benjamin Netanyahu and Gadi Eizenkot ended after about two hours. Guy Markizno was also present at the meeting. Eizenkot was briefed on the current security and diplomatic challenges facing Israel, and both parties agreed to keep each other informed of developments if necessary.",
         "time": "17:42",
         "ts": 1794505322
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The Prosecutor General and Revolutionary Prosecutor of Yazd province announced that a former member of the city council was arrested upon returning to the country due to what was described as \"publishing content against national security in cyberspace.\" This individual was released from prison after a while on bail.",
+        "time": "17:54",
+        "ts": 1794506098
       }
     ],
     "language": "en",
-    "packId": "20261112-105",
-    "sequence": 105,
+    "packId": "20261112-106",
+    "sequence": 106,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:43"
+    "updatedAt": "17:59"
   },
   "verified": true
 }
