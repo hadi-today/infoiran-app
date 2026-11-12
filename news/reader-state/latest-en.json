@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261112-13 seq=13 exp=1794553535",
+      "advancedStatus": "pack_id=20261112-14 seq=14 exp=1794553846",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:05",
+      "lastChecked": "07:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-12",
-    "expiresAt": "2026-11-13 07:05",
+    "expiresAt": "2026-11-13 07:10",
     "items": [
       {
         "channel": "Iran International",
@@ -861,14 +861,21 @@
         "text": "Rouhollah Rahimpour, a journalist and political analyst, referred to a Wall Street Journal report about the possibility of JD Vance meeting Mohsen Rezaee and said the Trump administration is pursuing three paths simultaneously against the Islamic Republic: agreement, economic pressure, and military action. He also emphasized that denying changes in the composition of the Islamic Republic's negotiation team means continuing the \"neither war nor peace\" strategy. The regional threats by government officials indicate that Tehran is preparing for the possibility of war.",
         "time": "07:01",
         "ts": 1794466891
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The spokesperson of the Pakistan Army announced that Islamabad is ready to quickly deploy forces to Saudi Arabia based on the Mecca defense pact, and Pakistani forces are currently stationed in the country for support and defensive operations.",
+        "time": "07:07",
+        "ts": 1794467260
       }
     ],
     "language": "en",
-    "packId": "20261112-13",
-    "sequence": 13,
+    "packId": "20261112-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:05"
+    "updatedAt": "07:10"
   },
   "verified": true
 }
