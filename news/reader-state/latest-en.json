@@ -1,27 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261111-161 seq=161 exp=1794527617",
+      "advancedStatus": "pack_id=20261112-01 seq=1 exp=1794528241",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:53",
+      "lastChecked": "00:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-11-11",
-    "expiresAt": "2026-11-12 23:53",
+    "date": "2026-11-12",
+    "expiresAt": "2026-11-13 00:04",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The U.S. House of Representatives on Tuesday referred the impeachment resolution against Pete Hegseth, the Secretary of War, to the Judiciary Committee with 211 votes in favor and 204 against; an action that Reuters reported effectively halted the effort to impeach him.",
-        "time": "23:59",
-        "ts": 1794355181
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -889,14 +882,28 @@
         "text": "Baharan Azadi, author of two articles about the widespread gas outage, was a guest on the program \"With Kambiz Hosseini\" to discuss people's accounts of the outage and its impact on their daily lives in Iran.",
         "time": "23:50",
         "ts": 1794441050
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Kambiz Hosseini warned of an unprecedented gas outage and a harsh winter in Iran. Some children go to school with blankets, and the government’s plan to keep people warm is saving energy. The term \"energy imbalance\" reflects the reality of people's lives with cold homes and worried elderly and students.",
+        "time": "23:52",
+        "ts": 1794441133
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Saudi Civil Defense announced that remnants of two ballistic missiles fired by Yemeni Houthis towards the Mecca region fell on Wednesday in areas including the village of Sabouha after being intercepted and destroyed. On the same day, the Saudi-led military coalition reported intercepting and destroying a drone in the eastern region of the country. The eastern region of Saudi Arabia, which hosts major oil and gas reserves and key Aramco facilities, had also been targeted by drone attacks in recent days.",
+        "time": "00:00",
+        "ts": 1794441618
       }
     ],
     "language": "en",
-    "packId": "20261111-161",
-    "sequence": 161,
+    "packId": "20261112-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:53"
+    "updatedAt": "00:04"
   },
   "verified": true
 }
