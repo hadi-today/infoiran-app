@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261112-124 seq=124 exp=1794601600",
+      "advancedStatus": "pack_id=20261112-125 seq=125 exp=1794601914",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:26",
+      "lastChecked": "20:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-12",
-    "expiresAt": "2026-11-13 20:26",
+    "expiresAt": "2026-11-13 20:31",
     "items": [
       {
         "channel": "Iran International",
@@ -784,14 +784,21 @@
         "text": "Jonathan Sayegh, an analyst at the Foundation for Defense of Democracies, said Washington is in no hurry to reach an agreement with the Islamic Republic after the midterm elections and that the status of \"neither war nor peace\" benefits Washington. He added that political legacy has become more important for Trump after the Republicans' defeat, and Washington should combine maximum pressure on the Islamic Republic with maximum support for the Iranian people.",
         "time": "20:23",
         "ts": 1794515001
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The mother of Amirhossein Vandalvand, a 21-year-old who was killed by direct gunfire during the January 9 protests in Tehran, released a video on the tenth month of her son's death showing her seeing and smelling his clothes and said: \"The weather has gotten cold, my son. Why don't you come anymore?\"",
+        "time": "20:31",
+        "ts": 1794515476
       }
     ],
     "language": "en",
-    "packId": "20261112-124",
-    "sequence": 124,
+    "packId": "20261112-125",
+    "sequence": 125,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:26"
+    "updatedAt": "20:31"
   },
   "verified": true
 }
