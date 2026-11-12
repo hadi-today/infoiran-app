@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261112-26 seq=26 exp=1794559053",
+      "advancedStatus": "pack_id=20261112-27 seq=27 exp=1794560573",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:37",
+      "lastChecked": "09:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-12",
-    "expiresAt": "2026-11-13 08:37",
+    "expiresAt": "2026-11-13 09:02",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Masoud Pezeshkian, the head of the Islamic Republic government, arrived in Antalya to participate in the 31st CAP summit. According to the announced program, bilateral meetings with officials from various countries, including the President of Turkey, are scheduled for Pezeshkian on the sidelines of this summit.",
-        "time": "08:56",
-        "ts": 1794387401
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -847,14 +840,21 @@
         "text": "A video was sent to Iran International in which a citizen at the eternal grave of Danial Diani emphasized continuing resistance in difficult conditions, saying that this resistance will continue in memory of the killed until the current Islamic Republic leaves.",
         "time": "08:35",
         "ts": 1794472524
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Persepolis club published a sale advertisement for Amirhossein Mahmoudi, a 19-year-old player, in a newspaper. This action was taken after Mahmoudi openly criticized the club management and was excluded from training sessions. The club's reaction by publishing the sale ad is seen as punitive and controversial.",
+        "time": "08:59",
+        "ts": 1794473946
       }
     ],
     "language": "en",
-    "packId": "20261112-26",
-    "sequence": 26,
+    "packId": "20261112-27",
+    "sequence": 27,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:37"
+    "updatedAt": "09:02"
   },
   "verified": true
 }
