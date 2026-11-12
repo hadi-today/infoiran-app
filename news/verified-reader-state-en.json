@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261112-19 seq=19 exp=1794555404",
+      "advancedStatus": "pack_id=20261112-20 seq=20 exp=1794555705",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:36",
+      "lastChecked": "07:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-12",
-    "expiresAt": "2026-11-13 07:36",
+    "expiresAt": "2026-11-13 07:41",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Bahman Nouri, governor of North Khorasan, announced that despite the implementation of water supply projects, 90 villages in this province still face water stress. Resolving this issue depends on continuing infrastructure projects and securing financial resources. The ongoing water shortage in these villages has made access to sustainable drinking water difficult for residents.",
-        "time": "07:37",
-        "ts": 1794382655
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -875,14 +868,21 @@
         "text": "Videos published on social media show that women and men gathered at night at Si-o-se-pol in Isfahan and danced and sang.",
         "time": "07:33",
         "ts": 1794468814
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Stephen Curry, the star player of the Golden State Warriors basketball team, was injured in the abdomen and right flank during the first quarter of the game against the Houston Rockets and left the stadium for an MRI. Steve Kerr, the Warriors coach, said Curry has never experienced such pain before and the extent of his absence is unknown. Curry's exit ended the Warriors' eight-game winning streak and the team lost 115-108 to the Rockets.",
+        "time": "07:41",
+        "ts": 1794469268
       }
     ],
     "language": "en",
-    "packId": "20261112-19",
-    "sequence": 19,
+    "packId": "20261112-20",
+    "sequence": 20,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:36"
+    "updatedAt": "07:41"
   },
   "verified": true
 }
