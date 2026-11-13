@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261113-54 seq=54 exp=1794654380",
+      "advancedStatus": "pack_id=20261113-55 seq=55 exp=1794655280",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:06",
+      "lastChecked": "11:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-13",
-    "expiresAt": "2026-11-14 11:06",
+    "expiresAt": "2026-11-14 11:21",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The Iraqi parliament and government have started investigations into the smuggling of the country's oil through Iran to Afghanistan. Heybat al-Halbousi, the Speaker of the Iraqi Parliament, announced the formation of a temporary committee to examine the theft of oil from Kirkuk and the Kurdistan Region. The Iraqi Prime Minister also ordered an investigation into oil smuggling in areas controlled by the Kata'ib Hezbollah militias.",
-        "time": "11:17",
-        "ts": 1794482261
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -847,14 +840,21 @@
         "text": "Emmanuel Macron, the President of France, has expressed readiness to support Arsène Wenger's potential candidacy in the FIFA presidential election and has offered to negotiate with leaders of various countries to secure votes for him. The deadline for registering candidates for the FIFA presidential election ends on November 18. Some sources have warned about Macron's role, stating that France's tense relations with several African countries may complicate efforts to gain votes from federations on that continent.",
         "time": "11:03",
         "ts": 1794567796
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "It was reported that the home of Tara Moghimi, a Bahá'í citizen residing in Hamedan, was searched by intelligence officers on Sunday, 26 Mehr. During this search, some of her personal belongings were confiscated. She was summoned to the Hamedan intelligence office, interrogated, and then released.",
+        "time": "11:16",
+        "ts": 1794568569
       }
     ],
     "language": "en",
-    "packId": "20261113-54",
-    "sequence": 54,
+    "packId": "20261113-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:06"
+    "updatedAt": "11:21"
   },
   "verified": true
 }
