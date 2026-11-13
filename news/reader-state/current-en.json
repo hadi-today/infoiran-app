@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261113-114 seq=114 exp=1794680831",
+      "advancedStatus": "pack_id=20261113-115 seq=115 exp=1794681417",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:27",
+      "lastChecked": "18:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-13",
-    "expiresAt": "2026-11-14 18:27",
+    "expiresAt": "2026-11-14 18:36",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Videos received show a gathering of unsettled owners of Kooy Shahrara in Borujerd on 20 Aban. According to some victims, the lands of Kooy Shahrara were purchased in 1382 through a triple cooperative of the army, education department, and municipality from farmers, and land transfer documents were given to about five thousand members of these cooperatives, but the owners remain unsettled.",
-        "time": "18:32",
-        "ts": 1794508377
-      },
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "On Thursday, 21 Aban, garbage truck drivers in Tabriz stopped work and protested due to lack of social security insurance and non-payment of annual wage increases. Machine manufacturing workers in Tabriz went on strike in recent days over irregularities in salary payments. Additionally, a group of dismissed workers and unemployed youth in the city of Har and the Haft-Tappeh area protested unemployment in front of the Haft-Tappeh Sugarcane Company.",
-        "time": "18:32",
-        "ts": 1794508377
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -847,14 +833,21 @@
         "text": "It was reported that the US Army sent an important message to the Israeli Army. It was also reported that the head of Mossad traveled secretly to Washington and Miami.",
         "time": "18:23",
         "ts": 1794594209
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video received by Iran International shows a citizen pointing to a long gasoline queue in Manoujan, Kerman. The citizen says the length of the gas station queue reached about five kilometers.",
+        "time": "18:32",
+        "ts": 1794594772
       }
     ],
     "language": "en",
-    "packId": "20261113-114",
-    "sequence": 114,
+    "packId": "20261113-115",
+    "sequence": 115,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:27"
+    "updatedAt": "18:36"
   },
   "verified": true
 }
