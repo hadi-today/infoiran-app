@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261113-48 seq=48 exp=1794652174",
+      "advancedStatus": "pack_id=20261113-49 seq=49 exp=1794652485",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:29",
+      "lastChecked": "10:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-13",
-    "expiresAt": "2026-11-14 10:29",
+    "expiresAt": "2026-11-14 10:34",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A citizen reacted in a video sent to Iran International to the advertising phrase \"zero inflation\" on heavy vehicles and said this slogan belonged to the Hoeyda era and people today feel price increases in daily life.",
-        "time": "10:33",
-        "ts": 1794479581
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -826,14 +819,21 @@
         "text": "Mohammad Baqer Mohammadi Laeini, the Friday prayer leader of Sari, said in the Friday prayers on 12 Aban that Iran's missile range has no limits and any American base in Europe and beyond can be targeted. He added that people demand a review of the defense doctrine and consideration of leaving the NPT. He also emphasized that geographical limitations in defense have been removed and any place necessary will be targeted.",
         "time": "10:24",
         "ts": 1794565461
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A citizen sent a video to Iran International while driving, showing that his car's fuel was running out. He expressed concern about being stranded in the desert and said, \"Even if a pump is available at night in Sistan and Baluchestan, there is no gasoline.\"",
+        "time": "10:31",
+        "ts": 1794565871
       }
     ],
     "language": "en",
-    "packId": "20261113-48",
-    "sequence": 48,
+    "packId": "20261113-49",
+    "sequence": 49,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:29"
+    "updatedAt": "10:34"
   },
   "verified": true
 }
