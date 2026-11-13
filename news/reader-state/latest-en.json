@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261113-100 seq=100 exp=1794674245",
+      "advancedStatus": "pack_id=20261113-101 seq=101 exp=1794674561",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:37",
+      "lastChecked": "16:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-13",
-    "expiresAt": "2026-11-14 16:37",
+    "expiresAt": "2026-11-14 16:42",
     "items": [
       {
         "channel": "Iran International",
@@ -861,14 +861,21 @@
         "text": "Alexey Likhachov, CEO of Rosatom, said the company currently sees no risk of slowing down its activities at the Bushehr nuclear power plant and intends to increase the number of Russian specialists there from 180 to 300. He added that Rosatom plans to restore the pace of work and number of staff to the planned level next year. There is also an agreement with Iran to build large nuclear power plants and small nuclear units, currently in the planning and design stage.",
         "time": "16:35",
         "ts": 1794587718
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Data from the IQAir live air pollution monitoring website shows that Tehran is the second most polluted city in the world today. Statistics indicate that thousands of people in Iran die annually due to diseases caused by air pollution, but serious and sufficient actions by officials to address this crisis are not observed.",
+        "time": "16:40",
+        "ts": 1794588039
       }
     ],
     "language": "en",
-    "packId": "20261113-100",
-    "sequence": 100,
+    "packId": "20261113-101",
+    "sequence": 101,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:37"
+    "updatedAt": "16:42"
   },
   "verified": true
 }
