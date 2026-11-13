@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261113-89 seq=89 exp=1794670352",
+      "advancedStatus": "pack_id=20261113-90 seq=90 exp=1794670680",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:32",
+      "lastChecked": "15:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-13",
-    "expiresAt": "2026-11-14 15:32",
+    "expiresAt": "2026-11-14 15:38",
     "items": [
       {
         "channel": "Iran International",
@@ -861,14 +861,21 @@
         "text": "A citizen sent a video to Iran International, criticizing the high prices of child hygiene products and household necessities, and cursed Ali Khamenei.",
         "time": "15:30",
         "ts": 1794583852
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Turkey and Qatar signed a mutual defense agreement, and Recep Tayyip Erdoğan said the two countries will cooperate to prevent the reignition of war in the Persian Gulf. The agreement was signed during a meeting on 22 Aban in Istanbul. Cooperation in defense industries and energy will also expand.",
+        "time": "15:33",
+        "ts": 1794583985
       }
     ],
     "language": "en",
-    "packId": "20261113-89",
-    "sequence": 89,
+    "packId": "20261113-90",
+    "sequence": 90,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:32"
+    "updatedAt": "15:38"
   },
   "verified": true
 }
