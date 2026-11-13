@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261113-123 seq=123 exp=1794685116",
+      "advancedStatus": "pack_id=20261113-124 seq=124 exp=1794686032",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:38",
+      "lastChecked": "19:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-13",
-    "expiresAt": "2026-11-14 19:38",
+    "expiresAt": "2026-11-14 19:53",
     "items": [
       {
         "channel": "Iran International",
@@ -833,14 +833,21 @@
         "text": "A citizen sent a voice message to Iran International reporting a severe shortage of gasoline in Shiraz, Fasa, Bandar Abbas, and other cities, stating that free gasoline is only available for a few hours in the morning at many stations. The citizen added that after about two hours of waiting in line, he was told the gasoline was finished, and a station official mentioned the possibility of removing free cards and limiting quotas.",
         "time": "19:31",
         "ts": 1794598295
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "It was reported that at least six Iranian athletes are on the verge of execution by the Islamic Republic. Soraya Aghaei and Kaveh Mehrabi, Iran's representatives in the International Olympic Committee, have not made efforts to support these athletes. This issue was raised in an interview with Mehdi Rostampour, a sports journalist.",
+        "time": "19:51",
+        "ts": 1794599496
       }
     ],
     "language": "en",
-    "packId": "20261113-123",
-    "sequence": 123,
+    "packId": "20261113-124",
+    "sequence": 124,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:38"
+    "updatedAt": "19:53"
   },
   "verified": true
 }
