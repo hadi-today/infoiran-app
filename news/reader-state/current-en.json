@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261113-30 seq=30 exp=1794644951",
+      "advancedStatus": "pack_id=20261113-31 seq=31 exp=1794645276",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:29",
+      "lastChecked": "08:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-13",
-    "expiresAt": "2026-11-14 08:29",
+    "expiresAt": "2026-11-14 08:34",
     "items": [
       {
         "channel": "Iran International",
@@ -819,14 +819,21 @@
         "text": "A member of the honor guard fainted on Wednesday, 20 Aban, simultaneously with the arrival of Peter Pellegrini, President of Slovakia, at the Élysée Palace in Paris to meet Emmanuel Macron, President of France.",
         "time": "08:27",
         "ts": 1794558422
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "On the birthday of Ali Jafari, a video was published on social media showing that his birthday cake was placed on his tombstone. Ali, 31 years old, was killed by a direct gunshot on 19 Dey 1404 in Saein Qaleh, Zanjan.",
+        "time": "08:30",
+        "ts": 1794558650
       }
     ],
     "language": "en",
-    "packId": "20261113-30",
-    "sequence": 30,
+    "packId": "20261113-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:29"
+    "updatedAt": "08:34"
   },
   "verified": true
 }
