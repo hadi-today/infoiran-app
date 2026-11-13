@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261113-45 seq=45 exp=1794650936",
+      "advancedStatus": "pack_id=20261113-46 seq=46 exp=1794651246",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:08",
+      "lastChecked": "10:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-13",
-    "expiresAt": "2026-11-14 10:08",
+    "expiresAt": "2026-11-14 10:14",
     "items": [
       {
         "channel": "Iran International",
@@ -833,14 +833,21 @@
         "text": "The International Atomic Energy Agency expressed concern about the underground uranium enrichment facilities in Isfahan, which inspectors have not yet accessed. The agency stated in a confidential report that it lacks precise information about the location of the facilities, the monitoring status, and the possible presence of nuclear materials at the site.",
         "time": "09:57",
         "ts": 1794563834
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Amin Oveis-Gharani, a political prisoner, is serving his sentence in Semnan prison. He was sentenced to seven years in prison by the First Branch of the Semnan Revolutionary Court. This news was confirmed by an informed source close to Oveis-Gharani's family to the HRANA news agency.",
+        "time": "10:08",
+        "ts": 1794564526
       }
     ],
     "language": "en",
-    "packId": "20261113-45",
-    "sequence": 45,
+    "packId": "20261113-46",
+    "sequence": 46,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:08"
+    "updatedAt": "10:14"
   },
   "verified": true
 }
