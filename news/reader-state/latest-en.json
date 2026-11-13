@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261113-81 seq=81 exp=1794666184",
+      "advancedStatus": "pack_id=20261113-82 seq=82 exp=1794666513",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:23",
+      "lastChecked": "14:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-13",
-    "expiresAt": "2026-11-14 14:23",
+    "expiresAt": "2026-11-14 14:28",
     "items": [
       {
         "channel": "Iran International",
@@ -842,6 +842,13 @@
         "ts": 1794578910
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Mohammad Azizi, a resident of Alvand, remains in judicial limbo in Choubinder Prison in Qazvin despite 52 days passing since his arrest. A source close to his family told HRANA news agency that he is still held in the general ward of the prison.",
+        "time": "14:11",
+        "ts": 1794579083
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "A former political prisoner reported to Iran International about severe overcrowding, lack of sleeping space, and poor conditions for detainees of protests in Vakilabad Prison in Mashhad. He said the capacity of each room in quarantine hall one was 48 people, but in the early days of detention, the number of prisoners reached about 80. The former prisoner also said he still faces threats after release and avoids following or liking social media pages for fear of re-arrest.",
@@ -850,11 +857,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261113-81",
-    "sequence": 81,
+    "packId": "20261113-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:23"
+    "updatedAt": "14:28"
   },
   "verified": true
 }
