@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261113-50 seq=50 exp=1794652795",
+      "advancedStatus": "pack_id=20261113-52 seq=52 exp=1794653119",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:39",
+      "lastChecked": "10:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-13",
-    "expiresAt": "2026-11-14 10:39",
+    "expiresAt": "2026-11-14 10:45",
     "items": [
       {
         "channel": "Iran International",
@@ -819,14 +819,28 @@
         "text": "A citizen sent a video to Iran International while driving, showing that his car's fuel was running out. He expressed concern about being stranded in the desert and said, \"Even if a pump is available at night in Sistan and Baluchestan, there is no gasoline.\"",
         "time": "10:31",
         "ts": 1794565871
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "It was reported that Amir Radmanmehr was shot and killed by the armed forces of the Islamic Republic's suppression in Vali Asr town of Isfahan on 19 Dey. It was said that his name will remain in the memory of this land and his memory is a guiding light for freedom seekers.",
+        "time": "10:38",
+        "ts": 1794566311
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Ahmad Alamolhoda, the Friday prayer leader of Mashhad, said that hijablessness is becoming a custom in the country and the principle of hijab is disappearing. He added that hijablessness is illegal and government bodies must fight it. Alamolhoda also said the enemy wants to distance society from its Fatimid identity through cultural dominance.",
+        "time": "10:42",
+        "ts": 1794566531
       }
     ],
     "language": "en",
-    "packId": "20261113-50",
-    "sequence": 50,
+    "packId": "20261113-52",
+    "sequence": 52,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:39"
+    "updatedAt": "10:45"
   },
   "verified": true
 }
