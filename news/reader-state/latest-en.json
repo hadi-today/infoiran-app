@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261113-119 seq=119 exp=1794684149",
+      "advancedStatus": "pack_id=20261113-120 seq=120 exp=1794684480",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:22",
+      "lastChecked": "19:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-13",
-    "expiresAt": "2026-11-14 19:22",
+    "expiresAt": "2026-11-14 19:28",
     "items": [
       {
         "channel": "Iran International",
@@ -826,14 +826,21 @@
         "text": "A video received shows that a group of citizens in Bandar Abbas on the evening of Friday, 22 Aban, protested the lack of gasoline by parking their cars on Rajaei Highway and in front of the Aftab Derakhshan fuel station, blocking the street.",
         "time": "19:20",
         "ts": 1794597645
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Iranian media quoted Ali Pourmand, head of the medical committee of Tehran Football Board, saying that due to increased pollution levels and the risk of sports activities, all football activities in Tehran province will not take place on Saturday, 23 Aban 1405 [Gregorian: 2026-11-14].",
+        "time": "19:22",
+        "ts": 1794597722
       }
     ],
     "language": "en",
-    "packId": "20261113-119",
-    "sequence": 119,
+    "packId": "20261113-120",
+    "sequence": 120,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:22"
+    "updatedAt": "19:28"
   },
   "verified": true
 }
