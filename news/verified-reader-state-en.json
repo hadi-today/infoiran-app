@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261113-111 seq=111 exp=1794679877",
+      "advancedStatus": "pack_id=20261113-113 seq=113 exp=1794680806",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:11",
+      "lastChecked": "18:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-13",
-    "expiresAt": "2026-11-14 18:11",
+    "expiresAt": "2026-11-14 18:26",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Contract and subcontract workers at Abadeh Cement Factory in Fars province have reported wage arrears of three to seven months and problems with their insurance payments. These workers have asked officials to end their uncertainty.",
-        "time": "18:18",
-        "ts": 1794507491
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Israel's Kan network reported on Thursday, 21 Aban, quoting a US official that US Central Command recently sent a message to Israeli military representatives in the US to prepare for the possibility of resuming war with Iran. Similar messages were sent to Israel and Gulf countries. The US continues to transfer equipment to the Middle East, with two aircraft carriers present in the region.",
-        "time": "18:24",
-        "ts": 1794507893
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -840,14 +826,28 @@
         "text": "The UK Maritime Trade Operations announced that 42% of ships currently on the Islamic Republic's \"non-compliance\" list have been involved in maritime incidents in the Persian Gulf, Strait of Hormuz, and the Sea of Oman. The report covers regional events from the start of the war on 9 Esfand 1404 to 20 Aban 1405. Seven attacks on oil tankers were recorded in the seven days leading to 20 Aban, and the threat level in the Strait of Hormuz remains \"severe.\"",
         "time": "18:06",
         "ts": 1794593183
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The head of the judiciary in Semnan province reported that the complainant has pardoned the execution of the amputation sentence in one of the judicial cases in this province.",
+        "time": "18:11",
+        "ts": 1794593515
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "British police released a video of the arrest of two Iranian men accused of spying for Iran. These two were hired by an intelligence agency of the Islamic Republic to monitor Iranian journalists and a lawyer. Mostafa Sepahvand and Farhad Javadi-Mansh were found guilty after a six-week trial at Woolwich Court in London for activities that could assist a foreign intelligence service.",
+        "time": "18:23",
+        "ts": 1794594191
       }
     ],
     "language": "en",
-    "packId": "20261113-111",
-    "sequence": 111,
+    "packId": "20261113-113",
+    "sequence": 113,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:11"
+    "updatedAt": "18:26"
   },
   "verified": true
 }
