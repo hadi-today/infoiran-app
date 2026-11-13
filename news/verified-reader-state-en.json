@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261113-113 seq=113 exp=1794680806",
+      "advancedStatus": "pack_id=20261113-114 seq=114 exp=1794680831",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:26",
+      "lastChecked": "18:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-13",
-    "expiresAt": "2026-11-14 18:26",
+    "expiresAt": "2026-11-14 18:27",
     "items": [
       {
         "channel": "Iran International",
@@ -840,14 +840,21 @@
         "text": "British police released a video of the arrest of two Iranian men accused of spying for Iran. These two were hired by an intelligence agency of the Islamic Republic to monitor Iranian journalists and a lawyer. Mostafa Sepahvand and Farhad Javadi-Mansh were found guilty after a six-week trial at Woolwich Court in London for activities that could assist a foreign intelligence service.",
         "time": "18:23",
         "ts": 1794594191
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "It was reported that the US Army sent an important message to the Israeli Army. It was also reported that the head of Mossad traveled secretly to Washington and Miami.",
+        "time": "18:23",
+        "ts": 1794594209
       }
     ],
     "language": "en",
-    "packId": "20261113-113",
-    "sequence": 113,
+    "packId": "20261113-114",
+    "sequence": 114,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:26"
+    "updatedAt": "18:27"
   },
   "verified": true
 }
