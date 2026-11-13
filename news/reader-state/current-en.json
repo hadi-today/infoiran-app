@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261113-118 seq=118 exp=1794683860",
+      "advancedStatus": "pack_id=20261113-119 seq=119 exp=1794684149",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:17",
+      "lastChecked": "19:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-13",
-    "expiresAt": "2026-11-14 19:17",
+    "expiresAt": "2026-11-14 19:22",
     "items": [
-      {
-        "channel": "Vahid Online",
-        "language": "en",
-        "text": "Fars News Agency reported that residents of Sirik County in eastern Hormozgan Province heard several explosions in recent hours. Fars stated that the cause of these sounds is still unknown but suggested they might be warning shots fired at violating ships. IRNA, citing official sources, reported that Sirik was targeted in a military attack.",
-        "time": "19:20",
-        "ts": 1794511224
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -826,14 +819,21 @@
         "text": "The Islamic Republic News Agency, IRNA, reported on the evening of Friday, 22 Aban that an explosion sound was heard in Jask, but no injuries were reported in the area. Meanwhile, the Hormozgan governor's office stated that no impact or explosion has been reported in the province.",
         "time": "19:15",
         "ts": 1794597327
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video received shows that a group of citizens in Bandar Abbas on the evening of Friday, 22 Aban, protested the lack of gasoline by parking their cars on Rajaei Highway and in front of the Aftab Derakhshan fuel station, blocking the street.",
+        "time": "19:20",
+        "ts": 1794597645
       }
     ],
     "language": "en",
-    "packId": "20261113-118",
-    "sequence": 118,
+    "packId": "20261113-119",
+    "sequence": 119,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:17"
+    "updatedAt": "19:22"
   },
   "verified": true
 }
