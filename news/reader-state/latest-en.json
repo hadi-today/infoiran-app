@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261113-10 seq=10 exp=1794631198",
+      "advancedStatus": "pack_id=20261113-11 seq=11 exp=1794631527",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:39",
+      "lastChecked": "04:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-13",
-    "expiresAt": "2026-11-14 04:39",
+    "expiresAt": "2026-11-14 04:45",
     "items": [
       {
         "channel": "Iran International",
@@ -791,14 +791,21 @@
         "text": "A Chilean mother finally met her two children who were taken from her during the military dictatorship after nearly four decades of separation. This meeting recalled the case of forced adoptions and child trafficking during Chile's military dictatorship, which led to the separation of about 25,000 children from their families.",
         "time": "04:35",
         "ts": 1794544536
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Wall Street Journal reported that hackers affiliated with the Iranian government have increased cyberattacks on infrastructure and internet-connected equipment by changing their operation methods. These attacks include three incidents from this summer targeting water facilities in the US, two oil tankers heading to Texas, and hundreds of store refrigerators in Europe. The newspaper identified hackers affiliated with the Iranian government as the main suspects in all three attacks.",
+        "time": "04:42",
+        "ts": 1794544964
       }
     ],
     "language": "en",
-    "packId": "20261113-10",
-    "sequence": 10,
+    "packId": "20261113-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:39"
+    "updatedAt": "04:45"
   },
   "verified": true
 }
