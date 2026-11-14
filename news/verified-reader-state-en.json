@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261114-81 seq=81 exp=1794763083",
+      "advancedStatus": "pack_id=20261114-82 seq=82 exp=1794763354",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:18",
+      "lastChecked": "17:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-14",
-    "expiresAt": "2026-11-15 17:18",
+    "expiresAt": "2026-11-15 17:22",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Scott Bessent, the US Treasury Secretary, confirmed that the Islamic Republic threatened him with death. He said cabinet members are not afraid of these threats and consider them a sign of the success of the US economic pressure campaign. Bessent likened the Revolutionary Guards to a \"dangerous animal trapped.\"",
-        "time": "17:22",
-        "ts": 1794590552
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -658,14 +651,21 @@
         "text": "Prince Reza Pahlavi spoke about the gas and energy shortage crisis in Iran, stating that the crisis stems from incompetence and plundering of national wealth by the Islamic Republic. He emphasized that the crisis is the result of predatory decisions and those responsible must be held accountable. Pahlavi added that tomorrow's Iran will be built with the knowledge and skills of workers and engineers, and sustainable energy supply should be a national priority.",
         "time": "17:13",
         "ts": 1794676391
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "In three work accidents in the cities of Bukan, Mashhad, and Gilan-e Gharb, two workers died and one other worker was injured. One of the deceased was a sanitation worker who died due to a vehicle collision while working.",
+        "time": "17:17",
+        "ts": 1794676625
       }
     ],
     "language": "en",
-    "packId": "20261114-81",
-    "sequence": 81,
+    "packId": "20261114-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:18"
+    "updatedAt": "17:22"
   },
   "verified": true
 }
