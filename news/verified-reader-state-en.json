@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261114-24 seq=24 exp=1794732988",
+      "advancedStatus": "pack_id=20261114-25 seq=25 exp=1794733273",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:56",
+      "lastChecked": "09:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-14",
-    "expiresAt": "2026-11-15 08:56",
+    "expiresAt": "2026-11-15 09:01",
     "items": [
       {
         "channel": "HRANA",
@@ -770,14 +770,21 @@
         "text": "Elina Hojati died on 18 Dey during public protests in Tehran due to shooting by Khamenei's forces. Her name remains in the memory of this land and her memory is a guiding light for freedom seekers.",
         "time": "08:51",
         "ts": 1794646318
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "On Tuesday, 19 Aban, Tareq Chakerzehi and Mansour Chakerzehi, two citizens from Nikshahr county, were arrested by security forces in this county and transferred to an unknown location.",
+        "time": "08:56",
+        "ts": 1794646613
       }
     ],
     "language": "en",
-    "packId": "20261114-24",
-    "sequence": 24,
+    "packId": "20261114-25",
+    "sequence": 25,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:56"
+    "updatedAt": "09:01"
   },
   "verified": true
 }
