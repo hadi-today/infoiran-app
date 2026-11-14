@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261114-03 seq=3 exp=1794717170",
+      "advancedStatus": "pack_id=20261114-04 seq=4 exp=1794717784",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:32",
+      "lastChecked": "04:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-14",
-    "expiresAt": "2026-11-15 04:32",
+    "expiresAt": "2026-11-15 04:43",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A Chilean mother finally met her two children who were taken from her during the military dictatorship after nearly four decades of separation. This meeting recalled the case of forced adoptions and child trafficking during Chile's military dictatorship, which led to the separation of about 25,000 children from their families.",
-        "time": "04:35",
-        "ts": 1794544536
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The Wall Street Journal reported that hackers affiliated with the Iranian government have increased cyberattacks on infrastructure and internet-connected equipment by changing their operation methods. These attacks include three incidents from this summer targeting water facilities in the US, two oil tankers heading to Texas, and hundreds of store refrigerators in Europe. The newspaper identified hackers affiliated with the Iranian government as the main suspects in all three attacks.",
-        "time": "04:42",
-        "ts": 1794544964
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -784,14 +770,21 @@
         "text": "Ali Al-Zaidi, the Prime Minister of Iraq, ordered an investigation into the oil smuggling network in the Jurf al-Sakhar area, the base of Kata'ib Hezbollah, a militia group close to the Islamic Republic. At the same time, military operations to besiege this area have been temporarily halted.",
         "time": "04:29",
         "ts": 1794630592
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A passenger ship carrying about 190 passengers docked at the Mississippi River port in New Orleans, Louisiana, sank after colliding with an oil tanker. The mayor of New Orleans said 32 passengers were taken to local hospitals with non-serious injuries. The American Red Cross and the National Transportation Safety Board are present at the scene and are providing aid.",
+        "time": "04:38",
+        "ts": 1794631126
       }
     ],
     "language": "en",
-    "packId": "20261114-03",
-    "sequence": 3,
+    "packId": "20261114-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:32"
+    "updatedAt": "04:43"
   },
   "verified": true
 }
