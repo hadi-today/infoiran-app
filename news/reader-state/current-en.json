@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261114-98 seq=98 exp=1794770489",
+      "advancedStatus": "pack_id=20261114-99 seq=99 exp=1794770775",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:21",
+      "lastChecked": "19:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-14",
-    "expiresAt": "2026-11-15 19:21",
+    "expiresAt": "2026-11-15 19:26",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Iranian media quoted Ali Pourmand, head of the medical committee of Tehran Football Board, saying that due to increased pollution levels and the risk of sports activities, all football activities in Tehran province will not take place on Saturday, 23 Aban 1405 [Gregorian: 2026-11-14].",
-        "time": "19:22",
-        "ts": 1794597722
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -672,14 +665,21 @@
         "text": "It was reported that Trump ordered the halt of negotiations with Iran and the IRGC responded to this order.",
         "time": "19:17",
         "ts": 1794683864
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "At least 3,600 flights were canceled on Saturday due to a disruption in the US air traffic control system. The disruption was resolved after about four hours on Friday, but flight cancellations continued.",
+        "time": "19:24",
+        "ts": 1794684242
       }
     ],
     "language": "en",
-    "packId": "20261114-98",
-    "sequence": 98,
+    "packId": "20261114-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:21"
+    "updatedAt": "19:26"
   },
   "verified": true
 }
