@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261114-97 seq=97 exp=1794769887",
+      "advancedStatus": "pack_id=20261114-98 seq=98 exp=1794770489",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:11",
+      "lastChecked": "19:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-14",
-    "expiresAt": "2026-11-15 19:11",
+    "expiresAt": "2026-11-15 19:21",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Last week, reports covered illegal wildlife hunting and trapping, wood smuggling, air pollution in Khuzestan, Isfahan, Mashhad, and Tehran, water scarcity and drying wetlands, and tree drying in Tehran parks. Over 160 tons of smuggled wood were discovered in Talesh and Lahijan, and unhealthy air was recorded at stations in several cities. Additionally, 10 polluting units were sealed, 9 charcoal kilns destroyed, 60% drying of Hoor al-Azim wetland, and 86% emptiness of South Khorasan dams were reported.",
-        "time": "19:14",
-        "ts": 1794597271
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The Islamic Republic News Agency, IRNA, reported on the evening of Friday, 22 Aban that an explosion sound was heard in Jask, but no injuries were reported in the area. Meanwhile, the Hormozgan governor's office stated that no impact or explosion has been reported in the province.",
-        "time": "19:15",
-        "ts": 1794597327
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A video received shows that a group of citizens in Bandar Abbas on the evening of Friday, 22 Aban, protested the lack of gasoline by parking their cars on Rajaei Highway and in front of the Aftab Derakhshan fuel station, blocking the street.",
-        "time": "19:20",
-        "ts": 1794597645
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -686,14 +665,21 @@
         "text": "Shayan Samiei, a national security expert, said the disagreement between Donald Trump and Benjamin Netanyahu about resuming war with the Islamic Republic is currently more about timing and means of confrontation than the ultimate goal. According to him, Netanyahu is worried that continuing the economic and naval blockade would give the Islamic Republic a chance to rebuild its military power, while Trump believes current pressures can weaken the regime without starting a new war.",
         "time": "19:09",
         "ts": 1794683369
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "It was reported that Trump ordered the halt of negotiations with Iran and the IRGC responded to this order.",
+        "time": "19:17",
+        "ts": 1794683864
       }
     ],
     "language": "en",
-    "packId": "20261114-97",
-    "sequence": 97,
+    "packId": "20261114-98",
+    "sequence": 98,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:11"
+    "updatedAt": "19:21"
   },
   "verified": true
 }
