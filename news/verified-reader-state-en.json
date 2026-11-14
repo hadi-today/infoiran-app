@@ -1,27 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261113-139 seq=139 exp=1794700106",
+      "advancedStatus": "pack_id=20261114-01 seq=1 exp=1794702718",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:48",
+      "lastChecked": "00:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-11-13",
-    "expiresAt": "2026-11-14 23:48",
+    "date": "2026-11-14",
+    "expiresAt": "2026-11-15 00:31",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Trump said in an interview with the Street Shooter podcast that he can immediately end the war with Iran but has allowed the current situation to continue at the request of regional countries including Saudi Arabia and the UAE. He said these Middle Eastern countries have invested trillions of dollars in the US and must be protected. Trump called the Islamic Republic an \"empire of evil\" and said Tehran is collapsing under Washington's continued pressure.",
-        "time": "00:24",
-        "ts": 1794529479
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -805,14 +798,28 @@
         "text": "Shahram Kholdi said the trip of Roman Gafman, head of Mossad, to Washington is aimed at influencing Donald Trump's decisions about the Islamic Republic. He mentioned the possibility of a trilateral meeting between the leaders of the US, Russia, and China, as well as internal political developments in Israel, affecting security and military decisions. Kholdi added that intensifying sanctions can weaken the governance capacity of the Islamic Republic but is not sufficient for its collapse, and a short-term military operation might also be necessary.",
         "time": "23:46",
         "ts": 1794613586
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A widespread disruption in Microsoft services has entered its second day, affecting user access to the company's services worldwide. Microsoft stated it is closer to fully restoring services but has no specific time for all services to return to normal. The disruption began on Thursday and has impacted services like Outlook, Microsoft Teams, and Copilot.",
+        "time": "23:48",
+        "ts": 1794613705
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Following a widespread disruption in air traffic control communications and a nationwide flight halt in the US, reports indicate a gradual restoration of communication services and issuance of takeoff permissions at some airports in the country. The Wall Street Journal, citing informed sources, reported that communications at some US air traffic control centers are gradually returning to normal. San Francisco International Airport announced that flights to Hawaii and Asia are permitted to take off.",
+        "time": "00:29",
+        "ts": 1794616155
       }
     ],
     "language": "en",
-    "packId": "20261113-139",
-    "sequence": 139,
+    "packId": "20261114-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:48"
+    "updatedAt": "00:31"
   },
   "verified": true
 }
