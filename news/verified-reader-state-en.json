@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261114-25 seq=25 exp=1794733273",
+      "advancedStatus": "pack_id=20261114-26 seq=26 exp=1794734224",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:01",
+      "lastChecked": "09:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,36 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-14",
-    "expiresAt": "2026-11-15 09:01",
+    "expiresAt": "2026-11-15 09:17",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Saeed Shakiba, a blogger and satirist imprisoned in Tehran's central prison, was sentenced to five years in prison by Branch 28 of the Tehran Revolutionary Court for releasing a video imitating the voice of Ayatollah Ali Khamenei. The sentence was communicated to him on Wednesday, 20 Aban. He was convicted on charges of assembly and collusion.",
-        "time": "09:02",
-        "ts": 1794560565
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The Public Relations of the Navy of the Islamic Revolutionary Guard Corps announced that a ship collided with a naval mine after ignoring repeated warnings and attempting to pass through an unauthorized and dangerous route. The IRGC said that this ship was supported by American fighter jets for passing through the Strait of Hormuz.",
-        "time": "09:02",
-        "ts": 1794560577
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Hossein Alizadeh, an international relations analyst, said Donald Trump's statements about his defeat if the Islamic Republic survives until the end of his presidency show that the Iran issue has become a matter of prestige for him. According to Alizadeh, Trump wants to resolve this issue in the remaining two years of his presidency, but he has not yet made a clear decision about military action or continuing economic pressure.",
-        "time": "09:13",
-        "ts": 1794561195
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The French Blood Transfusion Organization announced that judicial investigations have started regarding a cyberattack on cooling systems of blood product storage centers. The attack occurred on the night of November 1 to 2, altering temperature and defrosting settings of equipment. The organization cannot comment on the details due to ongoing investigations.",
-        "time": "09:17",
-        "ts": 1794561421
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -777,14 +749,21 @@
         "text": "On Tuesday, 19 Aban, Tareq Chakerzehi and Mansour Chakerzehi, two citizens from Nikshahr county, were arrested by security forces in this county and transferred to an unknown location.",
         "time": "08:56",
         "ts": 1794646613
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Suspicious drones were observed over Lakenheath Air Base in eastern Britain, leading to a state of emergency and orders for American forces to take cover. The UK Ministry of Defence announced the end of the emergency, but joint investigations by British and American officials into the incident continue.",
+        "time": "09:14",
+        "ts": 1794647686
       }
     ],
     "language": "en",
-    "packId": "20261114-25",
-    "sequence": 25,
+    "packId": "20261114-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:01"
+    "updatedAt": "09:17"
   },
   "verified": true
 }
