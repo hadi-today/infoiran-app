@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261114-26 seq=26 exp=1794734224",
+      "advancedStatus": "pack_id=20261114-27 seq=27 exp=1794734541",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:17",
+      "lastChecked": "09:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-14",
-    "expiresAt": "2026-11-15 09:17",
+    "expiresAt": "2026-11-15 09:22",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Amid the worsening economic crisis and livelihood problems, unpaid salaries and insurance claims are among the issues reported by citizens. Emergency 115 staff say they have not received bonuses for one year, and employees of Parsian Trading Company in Isfahan report unpaid salaries for the past three months.",
-        "time": "09:17",
-        "ts": 1794561438
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -756,14 +749,21 @@
         "text": "Suspicious drones were observed over Lakenheath Air Base in eastern Britain, leading to a state of emergency and orders for American forces to take cover. The UK Ministry of Defence announced the end of the emergency, but joint investigations by British and American officials into the incident continue.",
         "time": "09:14",
         "ts": 1794647686
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Masoumeh Taherkhani, an economic analyst, said the ultimate goal of the gradual increase in gasoline prices policy is to eliminate fuel subsidies and increase government revenue. She emphasized that pricing gasoline based on the dollar rate, while people's income is in rials, increases inflationary pressure on goods and services, and the cost of this policy is ultimately paid by the people.",
+        "time": "09:20",
+        "ts": 1794648055
       }
     ],
     "language": "en",
-    "packId": "20261114-26",
-    "sequence": 26,
+    "packId": "20261114-27",
+    "sequence": 27,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:17"
+    "updatedAt": "09:22"
   },
   "verified": true
 }
