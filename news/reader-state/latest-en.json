@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261114-37 seq=37 exp=1794738496",
+      "advancedStatus": "pack_id=20261114-38 seq=38 exp=1794738804",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:28",
+      "lastChecked": "10:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-14",
-    "expiresAt": "2026-11-15 10:28",
+    "expiresAt": "2026-11-15 10:33",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A citizen sent a video to Iran International while driving, showing that his car's fuel was running out. He expressed concern about being stranded in the desert and said, \"Even if a pump is available at night in Sistan and Baluchestan, there is no gasoline.\"",
-        "time": "10:31",
-        "ts": 1794565871
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -742,14 +735,21 @@
         "text": "A group of people protested the presence of women without hijab at Hamid Alidousti's funeral ceremony on Friday, 15 Aban, in front of the Jameh Mosque of Shahrak Gharb in Tehran. The attendees protested the participation of these women in the ceremony by chanting slogans against the presence of women without hijab.",
         "time": "10:26",
         "ts": 1794651991
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "It was reported that today, a kolbar was killed following gunfire by border forces in the border areas of Baneh.",
+        "time": "10:32",
+        "ts": 1794652366
       }
     ],
     "language": "en",
-    "packId": "20261114-37",
-    "sequence": 37,
+    "packId": "20261114-38",
+    "sequence": 38,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:28"
+    "updatedAt": "10:33"
   },
   "verified": true
 }
