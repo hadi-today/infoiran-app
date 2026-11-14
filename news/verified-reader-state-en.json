@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261114-15 seq=15 exp=1794728451",
+      "advancedStatus": "pack_id=20261114-17 seq=17 exp=1794729056",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:40",
+      "lastChecked": "07:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-14",
-    "expiresAt": "2026-11-15 07:40",
+    "expiresAt": "2026-11-15 07:50",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Bruno Fernandes, the captain of Manchester United, has rejected the club's second offer to extend his contract, leaving his future at Old Trafford uncertain. Negotiations to extend the contract of this 32-year-old midfielder continue due to disagreements over salary and contract length. Fernandes' contract ends in June 2027, and he can negotiate with other clubs from January, but Manchester United has the option to extend his contract for one year.",
-        "time": "07:49",
-        "ts": 1794556164
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -784,14 +777,21 @@
         "text": "Esmaeil Safiri, head of the Football Federation referees committee, said the conflict in the match between Esteghlal Khuzestan and Esteghlal Tehran was an exceptional case that will not happen again. He said he does not know who insulted first. Safiri also defended Alireza Ildarom and said referees' conversations are recorded in VAR matches.",
         "time": "07:32",
         "ts": 1794641554
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A report on living conditions under political repression and military tensions has been presented. Price increases, internet problems, and financial pressures on families are among the issues raised. Concerns about the future and difficult living conditions have been expressed.",
+        "time": "07:40",
+        "ts": 1794642010
       }
     ],
     "language": "en",
-    "packId": "20261114-15",
-    "sequence": 15,
+    "packId": "20261114-17",
+    "sequence": 17,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:40"
+    "updatedAt": "07:50"
   },
   "verified": true
 }
