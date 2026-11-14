@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261114-92 seq=92 exp=1794766996",
+      "advancedStatus": "pack_id=20261114-93 seq=93 exp=1794767586",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:23",
+      "lastChecked": "18:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-14",
-    "expiresAt": "2026-11-15 18:23",
+    "expiresAt": "2026-11-15 18:33",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "It was reported that the US Army sent an important message to the Israeli Army. It was also reported that the head of Mossad traveled secretly to Washington and Miami.",
-        "time": "18:23",
-        "ts": 1794594209
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A video received by Iran International shows a citizen pointing to a long gasoline queue in Manoujan, Kerman. The citizen says the length of the gas station queue reached about five kilometers.",
-        "time": "18:32",
-        "ts": 1794594772
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -672,14 +658,21 @@
         "text": "Mohammad Qaedi, an international relations lecturer, said there is disagreement in the Islamic Republic about continuing the status of neither war nor peace. According to him, some officials want to exit this situation, but others see it as an opportunity to rebuild the Islamic Republic's missile and defense capabilities and receive military equipment from Russia and China. Qaedi added that the Islamic Republic's calculation to force the US to retreat and gain concessions, including lifting sanctions and releasing blocked assets, is unlikely to succeed.",
         "time": "18:13",
         "ts": 1794679993
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The death sentence for a man accused of killing a car showroom apprentice in Tehran was confirmed by the Supreme Court. Also, a man accused of rape was sentenced to death by the Tehran Criminal Court. Another prisoner sentenced to death was spared execution with the consent of the victim's family.",
+        "time": "18:28",
+        "ts": 1794680915
       }
     ],
     "language": "en",
-    "packId": "20261114-92",
-    "sequence": 92,
+    "packId": "20261114-93",
+    "sequence": 93,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:23"
+    "updatedAt": "18:33"
   },
   "verified": true
 }
