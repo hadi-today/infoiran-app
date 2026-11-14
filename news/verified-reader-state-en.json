@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261114-95 seq=95 exp=1794769591",
+      "advancedStatus": "pack_id=20261114-97 seq=97 exp=1794769887",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:06",
+      "lastChecked": "19:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-14",
-    "expiresAt": "2026-11-15 19:06",
+    "expiresAt": "2026-11-15 19:11",
     "items": [
       {
         "channel": "HRANA",
@@ -672,14 +672,28 @@
         "text": "Mehdi Mahdavi-Azad said in the program \"Cheshmandaz\" that official statistics on inflation and poverty show Iran is in its worst economic condition since World War II. He added that while people face gasoline shortages and economic pressure, the Gulf Cooperation Council countries at the Security Council meeting have demanded compensation from the Islamic Republic for damages caused by missile and drone attacks.",
         "time": "19:01",
         "ts": 1794682865
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Simultaneous with the trip of Roman Gofman, head of Mossad, to Washington to talk with senior American officials about the future of the war with the Islamic Republic, Axios reported that Benjamin Netanyahu wants to resume the war. The Washington Post wrote that Donald Trump emphasizes continuing the naval blockade and economic pressures against the Islamic Republic. Gadi Eisenkot criticized Netanyahu's performance and said Israel's security should not be used as a tool to advance political goals.",
+        "time": "19:04",
+        "ts": 1794683094
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Shayan Samiei, a national security expert, said the disagreement between Donald Trump and Benjamin Netanyahu about resuming war with the Islamic Republic is currently more about timing and means of confrontation than the ultimate goal. According to him, Netanyahu is worried that continuing the economic and naval blockade would give the Islamic Republic a chance to rebuild its military power, while Trump believes current pressures can weaken the regime without starting a new war.",
+        "time": "19:09",
+        "ts": 1794683369
       }
     ],
     "language": "en",
-    "packId": "20261114-95",
-    "sequence": 95,
+    "packId": "20261114-97",
+    "sequence": 97,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:06"
+    "updatedAt": "19:11"
   },
   "verified": true
 }
