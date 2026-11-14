@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261114-100 seq=100 exp=1794771880",
+      "advancedStatus": "pack_id=20261114-101 seq=101 exp=1794772459",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:44",
+      "lastChecked": "19:54",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-14",
-    "expiresAt": "2026-11-15 19:44",
+    "expiresAt": "2026-11-15 19:54",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "It was reported that at least six Iranian athletes are on the verge of execution by the Islamic Republic. Soraya Aghaei and Kaveh Mehrabi, Iran's representatives in the International Olympic Committee, have not made efforts to support these athletes. This issue was raised in an interview with Mehdi Rostampour, a sports journalist.",
-        "time": "19:51",
-        "ts": 1794599496
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Sharren Haskell, former Israeli Deputy Foreign Minister, said the difference between Benjamin Netanyahu's and Gadi Eizenkot's foreign and security policies is very small, and both consider the IRGC a serious threat to Israel. He added that if the Islamic Republic remains, it will regain power and arm itself, and confronting it in the future will be more costly.",
-        "time": "19:51",
-        "ts": 1794599511
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -658,14 +644,21 @@
         "text": "At least 3,600 flights were canceled on Saturday due to a disruption in the US air traffic control system. The disruption was resolved after about four hours on Friday, but flight cancellations continued.",
         "time": "19:24",
         "ts": 1794684242
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Amir Ghalenoei, head coach of the Iranian national football team, said after the victory over Palestine in a friendly match in Iraq that they tried to give young players a chance during this FIFA date and they passed. He emphasized that Iran should play against bigger teams so that young players can be tested in tough conditions. Ghalenoei also said that the match against Iraq is a good opportunity and the national team needs big matches to prepare for the Asian Cup.",
+        "time": "19:49",
+        "ts": 1794685756
       }
     ],
     "language": "en",
-    "packId": "20261114-100",
-    "sequence": 100,
+    "packId": "20261114-101",
+    "sequence": 101,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:44"
+    "updatedAt": "19:54"
   },
   "verified": true
 }
