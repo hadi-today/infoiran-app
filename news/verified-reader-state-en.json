@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261114-01 seq=1 exp=1794702718",
+      "advancedStatus": "pack_id=20261114-02 seq=2 exp=1794716032",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:31",
+      "lastChecked": "04:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-14",
-    "expiresAt": "2026-11-15 00:31",
+    "expiresAt": "2026-11-15 04:13",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Trump said in an interview with Hugh Hewitt's podcast that if hardliners in Iran remain in power by the end of his presidency, it would be a failure for him. He listed the destruction of Iran's nuclear program among his presidential achievements and added that his administration's actions at the US border should also be included. Trump stated he would not hesitate to take military action again against the Iranian regime and is willing to continue the naval blockade.",
-        "time": "02:34",
-        "ts": 1794537271
-      },
-      {
-        "channel": "Vahid Online",
-        "language": "en",
-        "text": "The Islamic Revolutionary Guard Corps claimed in a statement that in response to the US midnight airstrike on Sirik, it targeted and destroyed the US early warning radar in Bahrain. The statement said this is a serious warning to the aggressor enemy to end aerial mischief and oil smuggling in the Strait of Hormuz. The IRGC warned that if violations are repeated, its aerospace force is fully prepared for borderless confrontation.",
-        "time": "02:39",
-        "ts": 1794537541
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -812,14 +798,21 @@
         "text": "Following a widespread disruption in air traffic control communications and a nationwide flight halt in the US, reports indicate a gradual restoration of communication services and issuance of takeoff permissions at some airports in the country. The Wall Street Journal, citing informed sources, reported that communications at some US air traffic control centers are gradually returning to normal. San Francisco International Airport announced that flights to Hawaii and Asia are permitted to take off.",
         "time": "00:29",
         "ts": 1794616155
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The US Federal Aviation Administration announced that the nationwide order to stop outgoing flights has been canceled following the resolution of a communication disruption. This decision was made after the traffic control radars went down.",
+        "time": "04:10",
+        "ts": 1794629450
       }
     ],
     "language": "en",
-    "packId": "20261114-01",
-    "sequence": 1,
+    "packId": "20261114-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:31"
+    "updatedAt": "04:13"
   },
   "verified": true
 }
