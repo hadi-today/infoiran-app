@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261115-101 seq=101 exp=1794850286",
+      "advancedStatus": "pack_id=20261115-102 seq=102 exp=1794851055",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:31",
+      "lastChecked": "17:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-15",
-    "expiresAt": "2026-11-16 17:31",
+    "expiresAt": "2026-11-16 17:44",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "According to data from the Iranian Statistics Center, the point-to-point inflation of food, beverages, and tobacco groups has remained above 100 percent since the beginning of this year. Food inflation peaked at 133 percent in Khordad and slightly decreased in the following months. This decrease indicates that prices are still rising, but their speed has slowed down.",
-        "time": "17:32",
-        "ts": 1794677574
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -882,14 +875,21 @@
         "text": "The Islamic Republic's renewed attack on Bahrain has faced regional condemnation. Qatar's Foreign Ministry described the attack as a factor weakening diplomatic efforts. The Wall Street Journal reported that US intelligence agencies estimate the Islamic Republic has between 1,500 and 2,500 missiles, which would provide significant capability to strike American and allied targets if war resumes.",
         "time": "17:30",
         "ts": 1794763814
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Informed sources told Iran International that prisoners in Ward 4, Unit 6 of Tehran's Great Prison face severe food shortages, unsanitary conditions, and limited access to showers. Many of these prisoners are detainees from the January protests. The population of this ward is estimated to be between 360 and 400 people.",
+        "time": "17:42",
+        "ts": 1794764543
       }
     ],
     "language": "en",
-    "packId": "20261115-101",
-    "sequence": 101,
+    "packId": "20261115-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:31"
+    "updatedAt": "17:44"
   },
   "verified": true
 }
