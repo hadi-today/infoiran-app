@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261115-76 seq=76 exp=1794837591",
+      "advancedStatus": "pack_id=20261115-78 seq=78 exp=1794838385",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:59",
+      "lastChecked": "14:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-15",
-    "expiresAt": "2026-11-16 13:59",
+    "expiresAt": "2026-11-16 14:13",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The CEO of the Dairy Cooperatives Union announced that the price increase for milk has been approved and various dairy products will soon become more expensive. At the same time, a member of the Parliament's Economic Commission said the government has taken 10 million tomans from the people's pockets in exchange for one million tomans of ration coupons.",
-        "time": "14:05",
-        "ts": 1794665134
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -847,14 +840,28 @@
         "text": "Fariba Asadi, a civil activist linked to the 1404 protests, was sentenced to six years of imprisonment and additional penalties. According to Harana News Agency, she was convicted of charges including assembly and collusion, acting against national security, and participating in protests. The court also imposed additional penalties of two years of travel ban, prohibition from membership in social groups, and dismissal from government and public jobs.",
         "time": "13:55",
         "ts": 1794750957
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Ynet website reported that despite repeated statements by the Islamic Republic about oil tankers hitting mines in the Strait of Hormuz, the assessment is that the vessels are actually targeted by direct attacks from the Islamic Revolutionary Guard Corps. Ashkan Safaei, an Iran International reporter, reports.",
+        "time": "14:03",
+        "ts": 1794751399
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Reports from Dezful, Tehran, Damghan, and Lorestan describe economic hardships. A soldier with a 22 million toman salary complains about corruption among commanders, and a university faculty member with a 45 million toman salary says they run out of money by the tenth of the month. Additionally, issues such as increased car repair costs, expensive tires, salary cuts for staff, poor bakery conditions, and unpaid wages for Tehran bus company employees have been reported.",
+        "time": "14:12",
+        "ts": 1794751948
       }
     ],
     "language": "en",
-    "packId": "20261115-76",
-    "sequence": 76,
+    "packId": "20261115-78",
+    "sequence": 78,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:59"
+    "updatedAt": "14:13"
   },
   "verified": true
 }
