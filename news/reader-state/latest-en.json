@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261115-10 seq=10 exp=1794801753",
+      "advancedStatus": "pack_id=20261115-11 seq=11 exp=1794802030",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:02",
+      "lastChecked": "04:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-15",
-    "expiresAt": "2026-11-16 04:02",
+    "expiresAt": "2026-11-16 04:07",
     "items": [
       {
         "channel": "Iran International",
@@ -756,14 +756,21 @@
         "text": "The White House announced that Donald Trump, Vladimir Putin, and Xi Jinping will meet on Thursday, 28 Aban, on the sidelines of the APEC summit in China. Kambiz Tavana explains whether Beijing and Moscow will defend the Islamic Republic or if Tehran will turn into possible agreements.",
         "time": "03:59",
         "ts": 1794715169
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Bourgan Nezami, an economist, said that transporting goods via land routes and third countries like Pakistan and Iraq cannot compensate for the shortage of maritime imports. He emphasized that limited foreign currency resources and a decline in raw material imports have reduced factories' production capacity and intensified inflation.",
+        "time": "04:06",
+        "ts": 1794715583
       }
     ],
     "language": "en",
-    "packId": "20261115-10",
-    "sequence": 10,
+    "packId": "20261115-11",
+    "sequence": 11,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:02"
+    "updatedAt": "04:07"
   },
   "verified": true
 }
