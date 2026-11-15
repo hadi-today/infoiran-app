@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261115-62 seq=62 exp=1794831217",
+      "advancedStatus": "pack_id=20261115-63 seq=63 exp=1794832547",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:13",
+      "lastChecked": "12:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-15",
-    "expiresAt": "2026-11-16 12:13",
+    "expiresAt": "2026-11-16 12:35",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Ahmad Bakhshaish Ardestani, a member of the National Security Commission of the Parliament, said the possibility of war still exists unless negotiations can create an opening. He added that the US is trying to use a blockade to make people dissatisfied and weaken Iran so that people demand negotiations. Bakhshaish Ardestani also said the Islamic Republic has made it clear to the US that any attack on Iran will be met with a direct response against Israel.",
-        "time": "12:26",
-        "ts": 1794659205
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -826,14 +819,21 @@
         "text": "Today, Sunday, a number of private and taxi drivers passing through Minab gathered in front of the county governor's office. These individuals gathered after seeking to receive the allocated 20-liter gasoline quota from the Minab governor's office. The protesting citizens demand an increase in the gasoline quota and improvements in its distribution method.",
         "time": "12:12",
         "ts": 1794744754
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A UPS Boeing 767 cargo plane and a Copa Airlines Boeing 737 passenger plane collided on the evening of Saturday, 23 Aban at Miami International Airport. Two people suffered minor injuries and were treated on site without needing hospital transfer. The incident did not affect airport operations.",
+        "time": "12:30",
+        "ts": 1794745854
       }
     ],
     "language": "en",
-    "packId": "20261115-62",
-    "sequence": 62,
+    "packId": "20261115-63",
+    "sequence": 63,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:13"
+    "updatedAt": "12:35"
   },
   "verified": true
 }
