@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261115-35 seq=35 exp=1794819731",
+      "advancedStatus": "pack_id=20261115-36 seq=36 exp=1794820003",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:02",
+      "lastChecked": "09:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-15",
-    "expiresAt": "2026-11-16 09:02",
+    "expiresAt": "2026-11-16 09:06",
     "items": [
       {
         "channel": "Iran International",
@@ -763,14 +763,21 @@
         "text": "Hungarian authorities discovered and seized nearly 20 million dollars in cash during investigations into bribery allegations against Miklós Seszták, the former development minister. Part of the money was buried in forests and part hidden in agricultural buildings and warehouses. Seszták denied any wrongdoing, and his lawyer said the seized money does not belong to his client.",
         "time": "08:59",
         "ts": 1794733142
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video received by Iran International shows a long line of cars on Sunday, 24 Aban, waiting to get gasoline in the city of Jam, Bushehr province.",
+        "time": "09:02",
+        "ts": 1794733374
       }
     ],
     "language": "en",
-    "packId": "20261115-35",
-    "sequence": 35,
+    "packId": "20261115-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:02"
+    "updatedAt": "09:06"
   },
   "verified": true
 }
