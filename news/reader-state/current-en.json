@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261115-64 seq=64 exp=1794833368",
+      "advancedStatus": "pack_id=20261115-65 seq=65 exp=1794834182",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:49",
+      "lastChecked": "13:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-15",
-    "expiresAt": "2026-11-16 12:49",
+    "expiresAt": "2026-11-16 13:03",
     "items": [
-      {
-        "channel": "Vahid Online",
-        "language": "en",
-        "text": "Reuters reported that Donald Trump told his advisors he might refrain from ordering new military attacks against Iran if Iran or Tehran-backed Houthis do not take provocative actions against the US. Trump is considering this possibility after meetings with national security advisors and intelligence reports but has not made a final decision. It was also reported that Saudi Arabia and Turkey have asked Trump not to resume military attacks against Iran.",
-        "time": "13:00",
-        "ts": 1794661214
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -812,14 +805,21 @@
         "text": "Harana News Agency reported that Hossein Savari, Saeed Savari, Ebrahim Savari, Hamood Savari, and Khalil Savari, five unemployed youths from Howeyzeh county, were arrested following a protest gathering in front of Dana Sohrab Oil Company on Saturday, 23 Aban. The gathering was held to protest employment conditions and to demand job opportunities. The detainees are aged between 25 and 30 years.",
         "time": "12:46",
         "ts": 1794746797
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "For the third time in 24 hours, an earthquake has shaken the Lavasan area in northeastern Tehran. The Seismology Organization of the University of Tehran reported the magnitude of this earthquake as 3. Reports indicate multiple tremors in various parts of Tehran including Narmak, Hakimiyeh, and Tehranpars.",
+        "time": "12:58",
+        "ts": 1794747509
       }
     ],
     "language": "en",
-    "packId": "20261115-64",
-    "sequence": 64,
+    "packId": "20261115-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:49"
+    "updatedAt": "13:03"
   },
   "verified": true
 }
