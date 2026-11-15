@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261115-113 seq=113 exp=1794856765",
+      "advancedStatus": "pack_id=20261115-114 seq=114 exp=1794857491",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:19",
+      "lastChecked": "19:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-15",
-    "expiresAt": "2026-11-16 19:19",
+    "expiresAt": "2026-11-16 19:31",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "At least 3,600 flights were canceled on Saturday due to a disruption in the US air traffic control system. The disruption was resolved after about four hours on Friday, but flight cancellations continued.",
-        "time": "19:24",
-        "ts": 1794684242
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -847,14 +840,21 @@
         "text": "A man in Tehran accused of killing his wife and 12-year-old daughter was tried today in Branch 10 of the criminal court of this province.",
         "time": "19:18",
         "ts": 1794770290
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Three days after Trump said he no longer wants an agreement with the Islamic Republic, Qalibaf warned that Tehran will not accept a state of neither war nor peace. An hour ago, the IRGC attacked Bahrain with a drone; a step towards a preemptive attack, while Netanyahu has called for an immediate attack on Iran.",
+        "time": "19:29",
+        "ts": 1794770960
       }
     ],
     "language": "en",
-    "packId": "20261115-113",
-    "sequence": 113,
+    "packId": "20261115-114",
+    "sequence": 114,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:19"
+    "updatedAt": "19:31"
   },
   "verified": true
 }
