@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261115-21 seq=21 exp=1794814034",
+      "advancedStatus": "pack_id=20261115-22 seq=22 exp=1794814329",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:27",
+      "lastChecked": "07:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-15",
-    "expiresAt": "2026-11-16 07:27",
+    "expiresAt": "2026-11-16 07:32",
     "items": [
       {
         "channel": "Iran International",
@@ -728,14 +728,21 @@
         "text": "A video received by Iran International shows a long line of cars on the Bushehr-Choghadak ring road in front of a fuel station.",
         "time": "07:23",
         "ts": 1794727406
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Bahrain Defense Force Command announced that the Islamic Republic continues its systematic hostile actions through overt attacks against targets in the Kingdom of Bahrain. The command stated that Bahrain's air defense systems intercepted and destroyed several drone attacks from Tehran before they reached their targets. It also emphasized that all military units and weapons in Bahrain are at the highest level of readiness and are fully prepared to defend Bahrain.",
+        "time": "07:27",
+        "ts": 1794727677
       }
     ],
     "language": "en",
-    "packId": "20261115-21",
-    "sequence": 21,
+    "packId": "20261115-22",
+    "sequence": 22,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:27"
+    "updatedAt": "07:32"
   },
   "verified": true
 }
