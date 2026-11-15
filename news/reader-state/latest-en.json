@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261115-28 seq=28 exp=1794816337",
+      "advancedStatus": "pack_id=20261115-29 seq=29 exp=1794816601",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:05",
+      "lastChecked": "08:10",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-15",
-    "expiresAt": "2026-11-16 08:05",
+    "expiresAt": "2026-11-16 08:10",
     "items": [
       {
         "channel": "Iran International",
@@ -744,6 +744,13 @@
         "ts": 1794728987
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Yesterday, a man in a village in Jahrom County killed his wife and mother-in-law due to family disputes using a cold weapon. The suspect was arrested by law enforcement officers.",
+        "time": "08:00",
+        "ts": 1794729654
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Persepolis club referred its complaint against Yaser Asani, the Albanian winger of Esteghlal, to the Court of Arbitration for Sport (CAS) for international review of the player's contract case. Persepolis believes that Asani's contract with Esteghlal was terminated and re-signed before the season started while the club's transfer window was closed. Persepolis considers this action contrary to transfer regulations and is continuing legal proceedings at the Court of Arbitration for Sport.",
@@ -759,11 +766,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261115-28",
-    "sequence": 28,
+    "packId": "20261115-29",
+    "sequence": 29,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:05"
+    "updatedAt": "08:10"
   },
   "verified": true
 }
