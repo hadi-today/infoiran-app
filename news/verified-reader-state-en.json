@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261115-03 seq=3 exp=1794794164",
+      "advancedStatus": "pack_id=20261115-04 seq=4 exp=1794796655",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:56",
+      "lastChecked": "02:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-15",
-    "expiresAt": "2026-11-16 01:56",
+    "expiresAt": "2026-11-16 02:37",
     "items": [
       {
         "channel": "Iran International",
@@ -707,14 +707,21 @@
         "text": "Israel Katz, Israel's Defense Minister, referred to the killing of Samir Abu Yunis, a senior commander of Hamas's military wing, stating that Israel continues to eliminate Hamas leaders in Gaza. He emphasized that the aggressive policy will continue until Gaza is demilitarized and Hamas is destroyed.",
         "time": "01:53",
         "ts": 1794707596
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Bahrain TV reported early Sunday that the country's air defense systems intercepted and destroyed an Iranian drone. The Ministry of Interior of Bahrain warned about a possible threat and urged citizens to remain calm and go to the nearest safe place.",
+        "time": "02:36",
+        "ts": 1794710202
       }
     ],
     "language": "en",
-    "packId": "20261115-03",
-    "sequence": 3,
+    "packId": "20261115-04",
+    "sequence": 4,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:56"
+    "updatedAt": "02:37"
   },
   "verified": true
 }
