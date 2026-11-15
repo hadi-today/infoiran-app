@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261115-78 seq=78 exp=1794838385",
+      "advancedStatus": "pack_id=20261115-79 seq=79 exp=1794839416",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:13",
+      "lastChecked": "14:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-15",
-    "expiresAt": "2026-11-16 14:13",
+    "expiresAt": "2026-11-16 14:30",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "The head of the Central Bar Association announced that about 700 lawyers across the country faced legal action during the January 1404 protests. He said the issues of these individuals were resolved through negotiation and follow-up.",
-        "time": "14:14",
-        "ts": 1794665683
-      },
-      {
-        "channel": "Vahid Online",
-        "language": "en",
-        "text": "Reports of a 2-3 second tremor in East Tehran and areas including Narmak, Tehranpars, Shariati, and Hakimiyeh have been received. Some reports mention hearing a sound like something cracking underground before the tremor. This earthquake was reported at 17:43.",
-        "time": "14:16",
-        "ts": 1794665803
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -854,14 +840,21 @@
         "text": "Reports from Dezful, Tehran, Damghan, and Lorestan describe economic hardships. A soldier with a 22 million toman salary complains about corruption among commanders, and a university faculty member with a 45 million toman salary says they run out of money by the tenth of the month. Additionally, issues such as increased car repair costs, expensive tires, salary cuts for staff, poor bakery conditions, and unpaid wages for Tehran bus company employees have been reported.",
         "time": "14:12",
         "ts": 1794751948
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "In the early morning of Sunday, 24 Aban, the death sentence of a female prisoner named Fatemeh Farhadi was carried out in Adel Abad Prison in Shiraz. This prisoner had previously been sentenced to death on non-political charges. The news was reported by HRANA news agency.",
+        "time": "14:26",
+        "ts": 1794752786
       }
     ],
     "language": "en",
-    "packId": "20261115-78",
-    "sequence": 78,
+    "packId": "20261115-79",
+    "sequence": 79,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:13"
+    "updatedAt": "14:30"
   },
   "verified": true
 }
