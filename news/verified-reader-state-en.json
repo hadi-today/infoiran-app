@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261115-80 seq=80 exp=1794839671",
+      "advancedStatus": "pack_id=20261115-81 seq=81 exp=1794840196",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:34",
+      "lastChecked": "14:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-15",
-    "expiresAt": "2026-11-16 14:34",
+    "expiresAt": "2026-11-16 14:43",
     "items": [
       {
         "channel": "Iran International",
@@ -854,14 +854,21 @@
         "text": "A video sent to Iran International shows severe air pollution in Tehran on Sunday, 24 Aban.",
         "time": "14:33",
         "ts": 1794753209
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Ebrahim Azizi, head of the National Security and Foreign Policy Commission of the Islamic Consultative Assembly, said the goal of the plan to amend the appointment conditions of the Minister of Intelligence is not to remove the requirement of Ijtihad but to provide the opportunity to use specialized forces. He added that having Ijtihad is an advantage for those with years of expert activity in the Ministry of Intelligence, but choosing someone outside this body who only has the Ijtihad condition and lacks intelligence knowledge and experience cannot be useful for the security apparatus. Azizi emphasized that the plan is still under review and expert proposals will be received in the coming days.",
+        "time": "14:41",
+        "ts": 1794753699
       }
     ],
     "language": "en",
-    "packId": "20261115-80",
-    "sequence": 80,
+    "packId": "20261115-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:34"
+    "updatedAt": "14:43"
   },
   "verified": true
 }
