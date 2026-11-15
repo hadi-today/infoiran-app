@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261115-36 seq=36 exp=1794820003",
+      "advancedStatus": "pack_id=20261115-37 seq=37 exp=1794820304",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:06",
+      "lastChecked": "09:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-15",
-    "expiresAt": "2026-11-16 09:06",
+    "expiresAt": "2026-11-16 09:11",
     "items": [
       {
         "channel": "Iran International",
@@ -744,6 +744,13 @@
         "ts": 1794732507
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The head of the Kidney Patients Support Association in Kermanshah province reported the absence of a dialysis unit in Kerend-e Gharb and stated that dialysis patients must visit medical centers in Eslamabad-e Gharb three days a week. Hossein Biglari said that the request for transportation services for these patients has so far been unsuccessful. Due to their physical condition and difficulty using public transport, patients are forced to use internet taxis and private cars at their own expense, which has become a serious concern for them.",
+        "time": "08:50",
+        "ts": 1794732633
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "It was reported that in Iranian schools, two months after the start of the academic year, heating equipment is still not provided and students have to stay in the cold schoolyard. Problems such as lack of good teachers, power outages, and social pressures on students and teachers were also reported. Some students and teachers criticized the difficult conditions and lack of resources.",
@@ -773,11 +780,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261115-36",
-    "sequence": 36,
+    "packId": "20261115-37",
+    "sequence": 37,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:06"
+    "updatedAt": "09:11"
   },
   "verified": true
 }
