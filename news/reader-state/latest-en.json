@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261115-46 seq=46 exp=1794822036",
+      "advancedStatus": "pack_id=20261115-47 seq=47 exp=1794822320",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:40",
+      "lastChecked": "09:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-15",
-    "expiresAt": "2026-11-16 09:40",
+    "expiresAt": "2026-11-16 09:45",
     "items": [
       {
         "channel": "Iran International",
@@ -772,6 +772,13 @@
         "ts": 1794733633
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "A defendant in Karaj was sentenced to 74 lashes and other punishments by Branch Six of the Alborz Province Court of Appeals.",
+        "time": "09:13",
+        "ts": 1794733996
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Houshang Hasan-Yari, a Middle East and military affairs expert, said the IRGC attacks on Bahrain have discredited mediators' efforts to reduce tensions. He added that the Islamic Republic, by increasing drone attacks and military actions against regional countries and ships, aims to deter the US from war and force Washington to leave the region. According to him, this strategy could push the US into the final stage of war.",
@@ -815,11 +822,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261115-46",
-    "sequence": 46,
+    "packId": "20261115-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:40"
+    "updatedAt": "09:45"
   },
   "verified": true
 }
