@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261115-06 seq=6 exp=1794800020",
+      "advancedStatus": "pack_id=20261115-07 seq=7 exp=1794800616",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:33",
+      "lastChecked": "03:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-15",
-    "expiresAt": "2026-11-16 03:33",
+    "expiresAt": "2026-11-16 03:43",
     "items": [
       {
         "channel": "Iran International",
@@ -728,14 +728,21 @@
         "text": "Paris and several other cities in France witnessed street protests for the fifth consecutive Thursday. The Yellow Vests protested against rising prices, labor unions demanded wage increases, and students protested the state of educational facilities.",
         "time": "03:28",
         "ts": 1794713317
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Aydin Panahi, a member of the executive team of the Iran Prosperity project, emphasized the necessity of evaluating and rebuilding South Pars due to challenges in restoring war-damaged capacities and structural energy imbalances. He said domestic energy security and export development must proceed simultaneously, and oil and gas revenues should be transparent and auditable. Panahi added that rebuilding the energy industry is not possible without the participation of engineers, workers, and active managers in the industry.",
+        "time": "03:38",
+        "ts": 1794713918
       }
     ],
     "language": "en",
-    "packId": "20261115-06",
-    "sequence": 6,
+    "packId": "20261115-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:33"
+    "updatedAt": "03:43"
   },
   "verified": true
 }
