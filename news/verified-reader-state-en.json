@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261116-02 seq=2 exp=1794875577",
+      "advancedStatus": "pack_id=20261116-03 seq=3 exp=1794875819",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:32",
+      "lastChecked": "00:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-16",
-    "expiresAt": "2026-11-17 00:32",
+    "expiresAt": "2026-11-17 00:36",
     "items": [
       {
         "channel": "Iran International",
@@ -861,14 +861,21 @@
         "text": "The US Embassy in Bahrain issued a security warning on Sunday, November 15, urging American citizens to be more vigilant due to increased threats from Houthi attacks supported by the Islamic Republic and Tehran's efforts to target US officials and facilities in the region. This warning came after a new round of attacks on Bahrain, home to the US Fifth Fleet. The Revolutionary Guard claimed to have targeted a US radar facility with six drones.",
         "time": "00:30",
         "ts": 1794789042
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "On Saturday, several former Iranian football players attended the burial site of Hassan Nasrallah and received a trophy. Meanwhile, despite 10 months passing since 18 and 19 Dey, the people of Iran are still mourning.",
+        "time": "00:33",
+        "ts": 1794789182
       }
     ],
     "language": "en",
-    "packId": "20261116-02",
-    "sequence": 2,
+    "packId": "20261116-03",
+    "sequence": 3,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:32"
+    "updatedAt": "00:36"
   },
   "verified": true
 }
