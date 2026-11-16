@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261116-53 seq=53 exp=1794910090",
+      "advancedStatus": "pack_id=20261116-55 seq=55 exp=1794910372",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:08",
+      "lastChecked": "10:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-16",
-    "expiresAt": "2026-11-17 10:08",
+    "expiresAt": "2026-11-17 10:12",
     "items": [
       {
         "channel": "Iran International",
@@ -847,14 +847,28 @@
         "text": "Mostafa Ramazani, a political prisoner in Qezel Hesar prison, announced in an audio message that he will start a wet hunger strike from November 14 to November 24 and an unlimited dry hunger strike from November 25. This hunger strike is in protest against the executions by the Islamic Republic.",
         "time": "10:03",
         "ts": 1794823416
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "On Monday, 25 Aban, a group of retired telecommunications workers held a protest in the cities of Kermanshah, Sanandaj, and Bijar. The protesting retirees stated that addressing livelihood and healthcare issues was among their demands.",
+        "time": "10:07",
+        "ts": 1794823678
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video on social media shows that the principal of Mahd Elm School in Riz, Bushehr, after a student refused to throw his mobile phone into a bucket of water, hit the student's hand and threw the phone into the bucket. The images indicate injury to the student's hand.",
+        "time": "10:11",
+        "ts": 1794823892
       }
     ],
     "language": "en",
-    "packId": "20261116-53",
-    "sequence": 53,
+    "packId": "20261116-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:08"
+    "updatedAt": "10:12"
   },
   "verified": true
 }
