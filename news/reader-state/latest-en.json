@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261116-09 seq=9 exp=1794890483",
+      "advancedStatus": "pack_id=20261116-10 seq=10 exp=1794890735",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:41",
+      "lastChecked": "04:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-16",
-    "expiresAt": "2026-11-17 04:41",
+    "expiresAt": "2026-11-17 04:45",
     "items": [
-      {
-        "channel": "Vahid Online",
-        "language": "en",
-        "text": "Fars News Agency reported that the IRGC planned and executed successful attacks on the US base in Bahrain in response to American enemy actions. Bahrain's Ministry of Interior issued a \"danger\" warning urging people to remain calm and go to the nearest safe place. These warnings were repeated several times early Sunday local time.",
-        "time": "04:44",
-        "ts": 1794717853
-      },
-      {
-        "channel": "Vahid Online",
-        "language": "en",
-        "text": "Multiple messages report earthquakes in east and northeast Tehran, especially in Narmak, Hakimiyeh, Tehran No, Lavasan, and Pasdaran areas between 7:28 and 7:32. The intensity of the quakes varied, with some described as strong tremors. These reports were received simultaneously from various sources.",
-        "time": "04:45",
-        "ts": 1794717922
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -826,14 +812,21 @@
         "text": "Farzin Nadimi, a senior defense and security researcher, said the arrival of the aircraft carrier group Theodore Roosevelt to the CENTCOM region increases the operational capability of the US to attack Iran. He also said Donald Trump faces a time constraint between continuing economic pressure on the Islamic Republic to gain diplomatic concessions and returning to the military option.",
         "time": "04:37",
         "ts": 1794803874
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Reza Arab, a political analyst, said that the disputes over the selection of the Minister of Intelligence of the Islamic Republic indicate the limited role of Mojtaba Khamenei and the dominance of the security Sepah coalition over the power structure. He added that this coalition is unwilling to strengthen the Ministry of Intelligence and increase the institutional powers outside the Sepah, and the disputes over the minister's selection are a sign of crisis and declining trust in the government's security structure.",
+        "time": "04:43",
+        "ts": 1794804215
       }
     ],
     "language": "en",
-    "packId": "20261116-09",
-    "sequence": 9,
+    "packId": "20261116-10",
+    "sequence": 10,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:41"
+    "updatedAt": "04:45"
   },
   "verified": true
 }
