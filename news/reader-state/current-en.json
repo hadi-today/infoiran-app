@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261116-24 seq=24 exp=1794899856",
+      "advancedStatus": "pack_id=20261116-25 seq=25 exp=1794900106",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:17",
+      "lastChecked": "07:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-16",
-    "expiresAt": "2026-11-17 07:17",
+    "expiresAt": "2026-11-17 07:21",
     "items": [
       {
         "channel": "Iran International",
@@ -875,14 +875,21 @@
         "text": "A citizen sent a video to Iran International showing a long line of cars waiting for gasoline at midnight on Sunday, 24 Aban. The citizen said the line was so long that they regretted refueling.",
         "time": "07:16",
         "ts": 1794813385
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Rouhollah Rahimpour, a journalist and political analyst, said the entry of the aircraft carrier Theodore Roosevelt into the CENTCOM region and the increase of US aircraft carriers to three is a political message to the Islamic Republic and a sign of the completion of the US military posture for a possible start of war. He added that if the war restarts, the Islamic Republic will attack regional countries, especially those in the Persian Gulf; however, the expansion of the conflict to Europe and outside the Middle East is not certain.",
+        "time": "07:17",
+        "ts": 1794813437
       }
     ],
     "language": "en",
-    "packId": "20261116-24",
-    "sequence": 24,
+    "packId": "20261116-25",
+    "sequence": 25,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:17"
+    "updatedAt": "07:21"
   },
   "verified": true
 }
