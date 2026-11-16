@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261116-32 seq=32 exp=1794901933",
+      "advancedStatus": "pack_id=20261116-33 seq=33 exp=1794902159",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:52",
+      "lastChecked": "07:55",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-16",
-    "expiresAt": "2026-11-17 07:52",
+    "expiresAt": "2026-11-17 07:55",
     "items": [
       {
         "channel": "HRANA",
@@ -875,14 +875,21 @@
         "text": "BBC Sport reported that the England national football team defeated Spain 3-2 with a defensive performance in the final minutes and topped their group in the UEFA Nations League. This victory came after the bitter experience of losing to Argentina in the World Cup. Thomas Tuchel, despite a player being sent off, used a different strategy in managing substitutions.",
         "time": "07:50",
         "ts": 1794815441
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A released video shows the principal of the \"Mahd Elm\" school in the city of Riz, Bushehr province, forcing a student to throw their mobile phone into a bucket of water. After the student refuses, the principal hits the student's hand and throws the phone into the bucket, which causes injury to the student.",
+        "time": "07:54",
+        "ts": 1794815678
       }
     ],
     "language": "en",
-    "packId": "20261116-32",
-    "sequence": 32,
+    "packId": "20261116-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:52"
+    "updatedAt": "07:55"
   },
   "verified": true
 }
