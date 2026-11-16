@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261116-84 seq=84 exp=1794924107",
+      "advancedStatus": "pack_id=20261116-86 seq=86 exp=1794924433",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:01",
+      "lastChecked": "14:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-16",
-    "expiresAt": "2026-11-17 14:01",
+    "expiresAt": "2026-11-17 14:07",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The Ynet website reported that despite repeated statements by the Islamic Republic about oil tankers hitting mines in the Strait of Hormuz, the assessment is that the vessels are actually targeted by direct attacks from the Islamic Revolutionary Guard Corps. Ashkan Safaei, an Iran International reporter, reports.",
-        "time": "14:03",
-        "ts": 1794751399
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -854,14 +847,28 @@
         "text": "The director general of forensic medicine in Semnan province announced that from the beginning of this year until the end of Mehr, 236 people died and 4255 were injured in traffic accidents in this province. The number of injured increased by 2% and the number of deaths by 11% compared to the same period last year. Among the deceased, 207 died in intercity accidents, 23 in urban accidents, and six on rural roads.",
         "time": "14:00",
         "ts": 1794837634
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video sent to Iran International shows a large presence of security motorcyclists on Neshat Street in Isfahan on Tuesday, 25 Aban. According to reports, the area of this street has been heavily secured with checkpoints and armed individuals.",
+        "time": "14:01",
+        "ts": 1794837682
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Mohammad Sajjad Shahdoust, a detainee related to the December 1404 protests, is serving his two-year sentence in Tehran Grand Prison. He was transferred to prison on 16 Aban. The Revolutionary Court sentenced him on charges of \"disturbing public order\" and \"propaganda against the regime.\"",
+        "time": "14:05",
+        "ts": 1794837924
       }
     ],
     "language": "en",
-    "packId": "20261116-84",
-    "sequence": 84,
+    "packId": "20261116-86",
+    "sequence": 86,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:01"
+    "updatedAt": "14:07"
   },
   "verified": true
 }
