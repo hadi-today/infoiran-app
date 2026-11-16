@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261116-99 seq=99 exp=1794928479",
+      "advancedStatus": "pack_id=20261116-100 seq=100 exp=1794929242",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:14",
+      "lastChecked": "15:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-16",
-    "expiresAt": "2026-11-17 15:14",
+    "expiresAt": "2026-11-17 15:27",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Yousef Akbari, head of pre-hospital emergency services in Qazvin, announced that over 50% of the province's ambulances are worn out and need replacement. He said the existing fleet does not meet the province's needs, and the shortage of suitable ambulances in mountainous areas has caused service difficulties. He also mentioned that the lack of hospital facilities in some areas has increased the need to transfer patients to other centers.",
-        "time": "15:20",
-        "ts": 1794756038
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Arsène Wenger, former Arsenal coach and FIFA's global football development director, decided not to run in the FIFA presidential election and not to compete against Gianni Infantino. This decision came after considering candidacy and amid opposition faced by Infantino. UEFA is still seeking to introduce another candidate before the registration deadline.",
-        "time": "15:22",
-        "ts": 1794756154
-      },
-      {
-        "channel": "Vahid Online",
-        "language": "en",
-        "text": "It was reported that a sound similar to a missile launch was heard in Qeshm. It was said that a missile passed by.",
-        "time": "15:25",
-        "ts": 1794756332
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -903,14 +882,21 @@
         "text": "According to a video received by Iran International, a municipal worker in the city of Shush, Khuzestan province, fell while working with a lift. In this video, recorded by the injured worker's child, the poor safety condition of the municipality's equipment and lift is highlighted.",
         "time": "15:09",
         "ts": 1794841788
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Simultaneous with the arrival of the third US aircraft carrier near Iran, a member of the National Security Commission of the Parliament said Iran is on the brink of war. Also, on Sunday night, the Israeli security cabinet held a three-hour meeting with the presence of the Mossad chief about an attack on Iran.",
+        "time": "15:22",
+        "ts": 1794842570
       }
     ],
     "language": "en",
-    "packId": "20261116-99",
-    "sequence": 99,
+    "packId": "20261116-100",
+    "sequence": 100,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:14"
+    "updatedAt": "15:27"
   },
   "verified": true
 }
