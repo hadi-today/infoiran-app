@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261116-131 seq=131 exp=1794941128",
+      "advancedStatus": "pack_id=20261116-132 seq=132 exp=1794941605",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:45",
+      "lastChecked": "18:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-16",
-    "expiresAt": "2026-11-17 18:45",
+    "expiresAt": "2026-11-17 18:53",
     "items": [
       {
         "channel": "HRANA",
@@ -973,14 +973,21 @@
         "text": "At least 10 protest gatherings were held today, Monday, 25 Aban, in the cities of Kermanshah, Sanandaj, Isfahan, Bijar, Tehran, Hamedan, Ilam, and Borujerd. Retired telecommunications workers demanded the implementation of regulation 89/24 and salary adjustments. Additionally, water drainage workers in Bandar Mahshahr and national housing applicants in Nishapur protested job uncertainty and delays in unit delivery.",
         "time": "18:40",
         "ts": 1794854451
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The death toll from the overturning of the bus carrying employees of the Dehloran gas refinery has reached 13 with the death of another injured person. In a separate incident, three workers at a factory on the Shiraz to Jahrom route suffered gas poisoning and were transferred to the hospital.",
+        "time": "18:51",
+        "ts": 1794855117
       }
     ],
     "language": "en",
-    "packId": "20261116-131",
-    "sequence": 131,
+    "packId": "20261116-132",
+    "sequence": 132,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:45"
+    "updatedAt": "18:53"
   },
   "verified": true
 }
