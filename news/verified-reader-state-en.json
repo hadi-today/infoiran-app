@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261116-120 seq=120 exp=1794938325",
+      "advancedStatus": "pack_id=20261116-121 seq=121 exp=1794938564",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:58",
+      "lastChecked": "18:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-16",
-    "expiresAt": "2026-11-17 17:58",
+    "expiresAt": "2026-11-17 18:02",
     "items": [
       {
         "channel": "HRANA",
@@ -924,14 +924,21 @@
         "text": "Mehr news agency affiliated with the Islamic Propagation Organization reported on the evening of Tuesday, 25 Aban, that air defense was activated in Isfahan.",
         "time": "17:55",
         "ts": 1794851709
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Sogand Sayyadi, a 16-year-old student from Kermanshah, died after being transferred from school to home. It was reported that there is a possibility that this teenager was killed by her father. The prosecutor of Kermanshah announced the formation of a judicial case and the investigation of the hypotheses of murder or suicide.",
+        "time": "17:59",
+        "ts": 1794851943
       }
     ],
     "language": "en",
-    "packId": "20261116-120",
-    "sequence": 120,
+    "packId": "20261116-121",
+    "sequence": 121,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:58"
+    "updatedAt": "18:02"
   },
   "verified": true
 }
