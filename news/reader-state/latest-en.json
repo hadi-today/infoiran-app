@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261116-22 seq=22 exp=1794898815",
+      "advancedStatus": "pack_id=20261116-23 seq=23 exp=1794899835",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:00",
+      "lastChecked": "07:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-16",
-    "expiresAt": "2026-11-17 07:00",
+    "expiresAt": "2026-11-17 07:17",
     "items": [
       {
         "channel": "Iran International",
@@ -861,14 +861,21 @@
         "text": "Counterattacks between Russia and Ukraine have intensified. In recent Russian attacks on Ukraine's energy and railway infrastructure, at least three people were killed and more than 30 were injured.",
         "time": "06:55",
         "ts": 1794812136
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Economic pressure in Iran has driven some citizens to sell their body parts to pay debts and cover living expenses and their children's future. Iran International's investigation shows this market is no longer limited to kidney sales, and in one-third of the ads reviewed, multiple body parts or tissues were simultaneously offered for sale.",
+        "time": "07:14",
+        "ts": 1794813251
       }
     ],
     "language": "en",
-    "packId": "20261116-22",
-    "sequence": 22,
+    "packId": "20261116-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:00"
+    "updatedAt": "07:17"
   },
   "verified": true
 }
