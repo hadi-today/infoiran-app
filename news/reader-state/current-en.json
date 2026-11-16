@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261116-139 seq=139 exp=1794944247",
+      "advancedStatus": "pack_id=20261116-141 seq=141 exp=1794944726",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:37",
+      "lastChecked": "19:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-16",
-    "expiresAt": "2026-11-17 19:37",
+    "expiresAt": "2026-11-17 19:45",
     "items": [
       {
         "channel": "Iran International",
@@ -980,14 +980,28 @@
         "text": "The United States Central Command (CENTCOM) announced that the aircraft carrier USS Theodore Roosevelt is present in the area under its command as part of a planned mission. According to CENTCOM, the aircraft carrier passed through the Indian Ocean on Sunday, November 15.",
         "time": "19:31",
         "ts": 1794857492
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mohammad Akraminia, spokesperson for the Islamic Republic Army, announced that the Strait of Hormuz will not return to its pre-war status and will remain closed until the United States accepts the conditions of the Islamic Republic. He said if the United States does not accept the Islamic Republic's conditions, the strait will remain closed, and the presence of foreign forces in the Persian Gulf and the Sea of Oman is a threat to regional security that must end. He also added that any renewed military action against the Islamic Republic will be met with a stronger response.",
+        "time": "19:35",
+        "ts": 1794857726
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Varash Nowshahr defeated Palayesh Gaz Ilam 1-0 in the tenth week of the women's Premier League. With this win, Varash Nowshahr reached 9 points and moved up to sixth place in the standings. After the match, Varash Nowshahr players performed the Mazani dance.",
+        "time": "19:41",
+        "ts": 1794858113
       }
     ],
     "language": "en",
-    "packId": "20261116-139",
-    "sequence": 139,
+    "packId": "20261116-141",
+    "sequence": 141,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:37"
+    "updatedAt": "19:45"
   },
   "verified": true
 }
