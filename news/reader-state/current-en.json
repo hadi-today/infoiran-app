@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261116-135 seq=135 exp=1794943066",
+      "advancedStatus": "pack_id=20261116-137 seq=137 exp=1794943294",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:17",
+      "lastChecked": "19:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-16",
-    "expiresAt": "2026-11-17 19:17",
+    "expiresAt": "2026-11-17 19:21",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "A man in Tehran accused of killing his wife and 12-year-old daughter was tried today in Branch 10 of the criminal court of this province.",
-        "time": "19:18",
-        "ts": 1794770290
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -994,14 +987,21 @@
         "text": "The website DownDetector has recorded over 3,300 disruption reports related to Chase Bank and about 800 reports related to Bank of America and Wells Fargo. Chase Bank has confirmed issues with its online banking services and stated it is working to resolve the disruption. The fintech company Plaid announced that its connections with Chase are disrupted, affecting communication channels and API requests, and the issue is still under investigation.",
         "time": "19:14",
         "ts": 1794856462
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "In continued security pressures on Baháʼís, intelligence agents searched the homes of five Baháʼí families in Semnan and arrested three people. Also, a Baháʼí citizen in Qaemshahr was sentenced to three years in prison and eight years of deprivation of social rights, and the two-year prison sentence of another Baháʼí citizen in Tehran was confirmed. It was reported that agents arrested Khanjani after beating him and confiscated the family's phones and laptops.",
+        "time": "19:15",
+        "ts": 1794856526
       }
     ],
     "language": "en",
-    "packId": "20261116-135",
-    "sequence": 135,
+    "packId": "20261116-137",
+    "sequence": 137,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:17"
+    "updatedAt": "19:21"
   },
   "verified": true
 }
