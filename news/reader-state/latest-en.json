@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261116-107 seq=107 exp=1794931975",
+      "advancedStatus": "pack_id=20261116-109 seq=109 exp=1794932521",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:12",
+      "lastChecked": "16:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-16",
-    "expiresAt": "2026-11-17 16:12",
+    "expiresAt": "2026-11-17 16:22",
     "items": [
       {
         "channel": "Iran International",
@@ -882,14 +882,28 @@
         "text": "Abbas Araghchi, the Foreign Minister of the Islamic Republic, met with Mohammad Nasir Akhund, the Taliban's Finance Minister, in Tehran. According to domestic news agencies, the two sides discussed regional issues. These talks took place while Afghanistan has become one of Iran's most important trade and transit routes.",
         "time": "16:10",
         "ts": 1794845437
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Jean-Noël Barrot, French Foreign Minister, said Paris has been targeted by the IRGC because of its support for the Iranian people; an institution that he said the European Union considers a terrorist organization. Barrot added that France will not forget the \"widespread crimes\" of the IRGC against Iranians in Dey 1404.",
+        "time": "16:20",
+        "ts": 1794846015
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "China's Foreign Ministry announced that Xi Jinping, the President of China, will have a trilateral meeting with the leaders of the United States and Russia on Thursday in Shenzhen. It is expected that the Ukraine war, Middle East developments, Iran war, trade policies, and nuclear non-proliferation will be on the agenda of these talks. This will be the first trilateral meeting of Donald Trump, Xi Jinping, and Vladimir Putin.",
+        "time": "16:20",
+        "ts": 1794846040
       }
     ],
     "language": "en",
-    "packId": "20261116-107",
-    "sequence": 107,
+    "packId": "20261116-109",
+    "sequence": 109,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:12"
+    "updatedAt": "16:22"
   },
   "verified": true
 }
