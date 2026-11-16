@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261116-97 seq=97 exp=1794927660",
+      "advancedStatus": "pack_id=20261116-98 seq=98 exp=1794927935",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:01",
+      "lastChecked": "15:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-16",
-    "expiresAt": "2026-11-17 15:01",
+    "expiresAt": "2026-11-17 15:05",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Kata'ib Hezbollah Iraq stated that despite entering negotiations and signing an agreement on national sovereignty, it will not relinquish its weapons and will not retreat in the face of pressure from the US, Saudi Arabia, and the UAE. The group accused the Iraqi government of not adhering to its commitments and using pressure tactics and fabricated cases. It also denied allegations of oil smuggling in the city of Nasr and said a technical committee found no interference with oil pipelines.",
-        "time": "15:01",
-        "ts": 1794754905
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A video received by Iran International shows a schoolgirl putting up a photo of a young Prince Reza Pahlavi in the classroom.",
-        "time": "15:02",
-        "ts": 1794754942
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -903,14 +889,21 @@
         "text": "Donald Trump announced that he will discuss Iran, the Ukraine war, and nuclear disarmament in meetings with Xi Jinping and Vladimir Putin. He also mentioned the possibility of meeting with the North Korean leader. Trump spoke about the difficulty of nuclear disarmament and the possibility of listing the Muslim Brotherhood as a terrorist organization in the US.",
         "time": "14:59",
         "ts": 1794841156
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Mohammad Sharifimoghaddam, Secretary-General of the Nurses' House, identified staff shortages, work pressure, and livelihood problems as major factors in nurses' job burnout. He said some nurses have to care for 12 to 15 patients and during night shifts 25 to 30 patients. He also criticized the lack of a comprehensive system for monitoring nurses' physical and mental health, with consequences such as anxiety and depression.",
+        "time": "15:03",
+        "ts": 1794841438
       }
     ],
     "language": "en",
-    "packId": "20261116-97",
-    "sequence": 97,
+    "packId": "20261116-98",
+    "sequence": 98,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:01"
+    "updatedAt": "15:05"
   },
   "verified": true
 }
