@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261116-134 seq=134 exp=1794942575",
+      "advancedStatus": "pack_id=20261116-135 seq=135 exp=1794943066",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:09",
+      "lastChecked": "19:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-16",
-    "expiresAt": "2026-11-17 19:09",
+    "expiresAt": "2026-11-17 19:17",
     "items": [
       {
         "channel": "HRANA",
@@ -987,14 +987,21 @@
         "text": "Mahsa Nouri, a political prisoner in Evin Prison, went on a hunger strike on Monday, 25 Aban, protesting the lack of attention to her demands, including the denial of parole and refusal to grant her leave. This news was reported to Harana by a source close to her family.",
         "time": "19:06",
         "ts": 1794856014
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The website DownDetector has recorded over 3,300 disruption reports related to Chase Bank and about 800 reports related to Bank of America and Wells Fargo. Chase Bank has confirmed issues with its online banking services and stated it is working to resolve the disruption. The fintech company Plaid announced that its connections with Chase are disrupted, affecting communication channels and API requests, and the issue is still under investigation.",
+        "time": "19:14",
+        "ts": 1794856462
       }
     ],
     "language": "en",
-    "packId": "20261116-134",
-    "sequence": 134,
+    "packId": "20261116-135",
+    "sequence": 135,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:09"
+    "updatedAt": "19:17"
   },
   "verified": true
 }
