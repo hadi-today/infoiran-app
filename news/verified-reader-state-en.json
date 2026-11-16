@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261116-31 seq=31 exp=1794901911",
+      "advancedStatus": "pack_id=20261116-32 seq=32 exp=1794901933",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:51",
+      "lastChecked": "07:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-16",
-    "expiresAt": "2026-11-17 07:51",
+    "expiresAt": "2026-11-17 07:52",
     "items": [
       {
         "channel": "HRANA",
@@ -868,14 +868,21 @@
         "text": "Alireza Salimi, a member of the parliament's presidium, said the time for pleading with Americans has passed and the Islamic Republic is stronger today. He added that we stand powerfully and have the Americans by the throat. Salimi also said European countries and the US face serious economic challenges.",
         "time": "07:50",
         "ts": 1794815422
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "BBC Sport reported that the England national football team defeated Spain 3-2 with a defensive performance in the final minutes and topped their group in the UEFA Nations League. This victory came after the bitter experience of losing to Argentina in the World Cup. Thomas Tuchel, despite a player being sent off, used a different strategy in managing substitutions.",
+        "time": "07:50",
+        "ts": 1794815441
       }
     ],
     "language": "en",
-    "packId": "20261116-31",
-    "sequence": 31,
+    "packId": "20261116-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:51"
+    "updatedAt": "07:52"
   },
   "verified": true
 }
