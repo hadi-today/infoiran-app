@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261116-28 seq=28 exp=1794900892",
+      "advancedStatus": "pack_id=20261116-29 seq=29 exp=1794901144",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:34",
+      "lastChecked": "07:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-16",
-    "expiresAt": "2026-11-17 07:34",
+    "expiresAt": "2026-11-17 07:39",
     "items": [
       {
         "channel": "Iran International",
@@ -870,6 +870,13 @@
         "ts": 1794813608
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The Tehran Provincial Court of Appeal confirmed the prison sentence of Arman Misaghian, a Baháʼí citizen. He was sentenced to two years of imprisonment for charges of propaganda against the regime and insulting the leadership. Additionally, he was banned for two years from driving, signing commercial documents, and membership in groups.",
+        "time": "07:32",
+        "ts": 1794814369
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "The UK Maritime Trade Operations announced on Monday, 25 Aban, that an oil tanker was hit by an unidentified projectile while exiting the Strait of Hormuz. The organization added that the projectile caused a fire in the engine room of the tanker, but the extent of damage and environmental consequences are still unknown. No casualties were reported and the crew's status is confirmed.",
@@ -878,11 +885,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261116-28",
-    "sequence": 28,
+    "packId": "20261116-29",
+    "sequence": 29,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:34"
+    "updatedAt": "07:39"
   },
   "verified": true
 }
