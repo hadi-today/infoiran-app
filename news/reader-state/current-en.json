@@ -1,27 +1,20 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261115-137 seq=137 exp=1794873225",
+      "advancedStatus": "pack_id=20261116-01 seq=1 exp=1794873938",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:53",
+      "lastChecked": "00:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
     }
   ],
   "pack": {
-    "date": "2026-11-15",
-    "expiresAt": "2026-11-16 23:53",
+    "date": "2026-11-16",
+    "expiresAt": "2026-11-17 00:05",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A group of Iranians living in Washington gathered on Saturday at Lafayette Square to commemorate the anniversary of the victims of Aban 98 and the death of Kianoush Sanjari. Kianoush Sanjari, a journalist and political activist, took his own life in protest against the Islamic Republic.",
-        "time": "00:00",
-        "ts": 1794700821
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -861,14 +854,21 @@
         "text": "The Iranian national football team defeated Palestine 2-0 in their first match at the Iraq tournament. Amir Ghalenoei sent the national team with young players to this game; the average age of the national team in this game was more than 4 years younger than the previous FIFA date and the match against Russia.",
         "time": "23:53",
         "ts": 1794786786
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Barak Ravid, Axios reporter, on Sunday 24 Aban reported quoting a US official that the aircraft carrier Theodore Roosevelt has entered the operational area of the US Central Command, CENTCOM. The CENTCOM operational area includes the Middle East and parts of Central and South Asia. With the arrival of the Theodore Roosevelt, there are now three US aircraft carrier strike groups in the region.",
+        "time": "00:04",
+        "ts": 1794787455
       }
     ],
     "language": "en",
-    "packId": "20261115-137",
-    "sequence": 137,
+    "packId": "20261116-01",
+    "sequence": 1,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:53"
+    "updatedAt": "00:05"
   },
   "verified": true
 }
