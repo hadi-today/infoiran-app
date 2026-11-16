@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261116-72 seq=72 exp=1794918676",
+      "advancedStatus": "pack_id=20261116-73 seq=73 exp=1794919195",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:31",
+      "lastChecked": "12:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-16",
-    "expiresAt": "2026-11-17 12:31",
+    "expiresAt": "2026-11-17 12:39",
     "items": [
       {
         "channel": "HRANA",
@@ -875,14 +875,21 @@
         "text": "The Israeli army announced that in the Thursday attack on Nasser Hospital in the Gaza Strip, several members of Hamas's military wing were killed, one of whom participated in the abduction of Adina Moshe. The army said Hamas had presented the killed as civilians, but investigations show they were members of the military wing. The target of the attack was a room and floor of the hospital used by senior Hamas commanders as a military command center, where civilians were forbidden to enter.",
         "time": "12:29",
         "ts": 1794832142
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "A court in Bahrain on Tuesday, 25 Aban, sentenced 64 Shia citizens, including 57 clerics, to life imprisonment on charges related to \"terrorism\" and connections with the IRGC. Bahraini authorities accused the defendants of \"forming a terrorist group, cooperating with the IRGC, and attempting to overthrow the ruling system\" of the country.",
+        "time": "12:36",
+        "ts": 1794832590
       }
     ],
     "language": "en",
-    "packId": "20261116-72",
-    "sequence": 72,
+    "packId": "20261116-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:31"
+    "updatedAt": "12:39"
   },
   "verified": true
 }
