@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261117-128 seq=128 exp=1795028108",
+      "advancedStatus": "pack_id=20261117-129 seq=129 exp=1795028616",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:55",
+      "lastChecked": "19:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-17",
-    "expiresAt": "2026-11-18 18:55",
+    "expiresAt": "2026-11-18 19:03",
     "items": [
       {
         "channel": "HRANA",
@@ -882,14 +882,21 @@
         "text": "UN experts recently issued a statement about Iranian porters. According to them, since the beginning of 2026, at least 12 porters have been killed by border guards or the IRGC. Also, from January to August of the same year, 13 Baloch fuel carriers have died.",
         "time": "18:38",
         "ts": 1794940681
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mehdi Mahdavi-Azad said on the program \"Cheshmandaz\" that the upcoming meeting of the leaders of the US, China, and Russia has raised concerns about a great powers' agreement on dividing spheres of influence. According to him, Ukrainian officials have also expressed concern about turning this meeting into a \"second Yalta.\"",
+        "time": "19:02",
+        "ts": 1794942158
       }
     ],
     "language": "en",
-    "packId": "20261117-128",
-    "sequence": 128,
+    "packId": "20261117-129",
+    "sequence": 129,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:55"
+    "updatedAt": "19:03"
   },
   "verified": true
 }
