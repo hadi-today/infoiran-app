@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261117-05 seq=5 exp=1794967347",
+      "advancedStatus": "pack_id=20261117-06 seq=6 exp=1794968511",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "02:02",
+      "lastChecked": "02:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-17",
-    "expiresAt": "2026-11-18 02:02",
+    "expiresAt": "2026-11-18 02:21",
     "items": [
       {
         "channel": "Iran International",
@@ -973,14 +973,21 @@
         "text": "JD Vance, Trump's deputy, told Fox News that Trump has many options regarding Iran's nuclear program, including increasing military and diplomatic pressures. He added that the US has achieved many military successes against the Islamic Republic, but some want the Iran war to continue indefinitely.",
         "time": "02:01",
         "ts": 1794880899
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The New York Times reported, citing experts, that Iran's extensive network of dams and water transfer projects may have been built partly to support underground missile bases. Experts said projects without clear civilian justification could help sustain underground military facilities, but this link remains speculative. Nima Shokri said his group examined the locations of 533 dams and found the pattern of this year's airstrikes closely resembles the distribution of dams.",
+        "time": "02:19",
+        "ts": 1794881963
       }
     ],
     "language": "en",
-    "packId": "20261117-05",
-    "sequence": 5,
+    "packId": "20261117-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "02:02"
+    "updatedAt": "02:21"
   },
   "verified": true
 }
