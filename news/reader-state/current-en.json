@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261117-78 seq=78 exp=1795009894",
+      "advancedStatus": "pack_id=20261117-80 seq=80 exp=1795010410",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:51",
+      "lastChecked": "14:00",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-17",
-    "expiresAt": "2026-11-18 13:51",
+    "expiresAt": "2026-11-18 14:00",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Some viewers of Iran International said the suppression of protesters in Aban 98 ended their hope for reforming the Islamic Republic. Others said the experience deepened their opposition to the government. Viewers mentioned internet shutdowns, shooting protesters, arrests, and commemorated the martyrs of Aban.",
-        "time": "13:52",
-        "ts": 1794837144
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -931,14 +924,28 @@
         "text": "Messages received from 16:22 report at least five severe explosions in the city of Qeshm. It is suspected that the Nariman air defense site in Qeshm was targeted by these explosions. Witnesses reported heavy smoke and shaking of houses.",
         "time": "13:46",
         "ts": 1794923175
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Brazil national football team defeated Singapore 7-0 in their second friendly match during the November international window, refereed by Alireza Faghani. Vinicius Junior scored a hat-trick in the first half, with additional goals by Andrik, Stow Willian, Ryan, and an own goal. Carlo Ancelotti and Rafinha watched the match from the stands.",
+        "time": "13:52",
+        "ts": 1794923527
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Taha Eskandari, a 25-year-old protester, said he survived security forces' gunfire during the January 2026 protests in Kish and lived months in hiding with untreated wounds. Radiology images show more than 100 pellets remain in his head and neck. Eskandari said on January 9, while fleeing, he was shot twice and lost consciousness but did not go to the hospital due to fear of arrest.",
+        "time": "13:57",
+        "ts": 1794923855
       }
     ],
     "language": "en",
-    "packId": "20261117-78",
-    "sequence": 78,
+    "packId": "20261117-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:51"
+    "updatedAt": "14:00"
   },
   "verified": true
 }
