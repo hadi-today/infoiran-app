@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261117-46 seq=46 exp=1794995605",
+      "advancedStatus": "pack_id=20261117-47 seq=47 exp=1794996303",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:53",
+      "lastChecked": "10:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-17",
-    "expiresAt": "2026-11-18 09:53",
+    "expiresAt": "2026-11-18 10:05",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Mohammadreza Ahmadi Sangar, representative of Rasht in the parliament, said that the Islamic Republic will not dilute its 400 kilograms of uranium and will continue 60 percent enrichment. He added that 60 percent enrichment will be used for treating diseases and supplying the country's energy needs. Ahmadi Sangar emphasized that the Islamic Republic decides the level and percentage of enrichment and will no longer wait for threats from the US.",
-        "time": "09:59",
-        "ts": 1794823180
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Mostafa Ramazani, a political prisoner in Qezel Hesar prison, announced in an audio message that he will start a wet hunger strike from November 14 to November 24 and an unlimited dry hunger strike from November 25. This hunger strike is in protest against the executions by the Islamic Republic.",
-        "time": "10:03",
-        "ts": 1794823416
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -931,14 +917,21 @@
         "text": "Seyed Ali Kazemi, spokesperson for the judiciary, announced the confirmation of the death sentence for one of the detainees related to the December 1404 protests in Rasht. He claimed that this individual was involved in attacking and setting fire to several public and medical centers in the city. The issued sentence was confirmed by Branch 39 of the Supreme Court.",
         "time": "09:51",
         "ts": 1794909066
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A citizen sent a video to Iran International showing severe air pollution in Tehran and said the government is unable to manage the situation and must go.",
+        "time": "10:01",
+        "ts": 1794909704
       }
     ],
     "language": "en",
-    "packId": "20261117-46",
-    "sequence": 46,
+    "packId": "20261117-47",
+    "sequence": 47,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:53"
+    "updatedAt": "10:05"
   },
   "verified": true
 }
