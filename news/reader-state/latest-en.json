@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261117-98 seq=98 exp=1795017983",
+      "advancedStatus": "pack_id=20261117-99 seq=99 exp=1795018483",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:06",
+      "lastChecked": "16:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-17",
-    "expiresAt": "2026-11-18 16:06",
+    "expiresAt": "2026-11-18 16:14",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Abbas Araghchi, the Foreign Minister of the Islamic Republic, met with Mohammad Nasir Akhund, the Taliban's Finance Minister, in Tehran. According to domestic news agencies, the two sides discussed regional issues. These talks took place while Afghanistan has become one of Iran's most important trade and transit routes.",
-        "time": "16:10",
-        "ts": 1794845437
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -889,14 +882,21 @@
         "text": "American forces targeted an Islamic Republic air defense missile launcher in the Nariman area of Qeshm Island. Reports indicate at least six attacks occurred in this area.",
         "time": "16:05",
         "ts": 1794931515
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "After CNN reported a possible plan by the Islamic Republic to attack Washington with a dirty bomb or chemical weapon, Donald Trump warned Tehran that it would pay a heavy price if such an attack occurred. The Islamic Republic denied these accusations, and security measures have been increased to protect senior US government officials.",
+        "time": "16:13",
+        "ts": 1794932006
       }
     ],
     "language": "en",
-    "packId": "20261117-98",
-    "sequence": 98,
+    "packId": "20261117-99",
+    "sequence": 99,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:06"
+    "updatedAt": "16:14"
   },
   "verified": true
 }
