@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261117-53 seq=53 exp=1794998278",
+      "advancedStatus": "pack_id=20261117-54 seq=54 exp=1794998749",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:37",
+      "lastChecked": "10:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-17",
-    "expiresAt": "2026-11-18 10:37",
+    "expiresAt": "2026-11-18 10:45",
     "items": [
       {
         "channel": "HRANA",
@@ -903,14 +903,21 @@
         "text": "The Iranian Volleyball Federation announced that the contract of Roberto Piazza, the Italian head coach of the men's national team, will not be extended after two years and the cooperation between the two parties has ended. The main reason for this separation was reported to be a disagreement over Piazza's presence time in Iran and his participation in the national team's training camps. With the end of this coach's cooperation, the federation is reviewing foreign options to select a new head coach for upcoming competitions and the effort to qualify for the 2028 Los Angeles Olympics.",
         "time": "10:22",
         "ts": 1794910938
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "EU defense ministers are meeting in Brussels, chaired by Kaja Kallas, to discuss strengthening Ukraine's air defense, cooperation between European defense industries and Kyiv, and the future of defense cooperation with the US.",
+        "time": "10:43",
+        "ts": 1794912232
       }
     ],
     "language": "en",
-    "packId": "20261117-53",
-    "sequence": 53,
+    "packId": "20261117-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:37"
+    "updatedAt": "10:45"
   },
   "verified": true
 }
