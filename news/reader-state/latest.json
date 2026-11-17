@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261117-112 seq=112 exp=1795022501",
+      "advancedStatus": "pack_id=20261117-113 seq=113 exp=1795022732",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:21",
+      "lastChecked": "17:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-17",
-    "expiresAt": "2026-11-18 17:21",
+    "expiresAt": "2026-11-18 17:25",
     "items": [
       {
         "channel": "خبرگزاری هرانا",
@@ -788,13 +788,19 @@
         "text": "عباس عراقچی، وزیر امور خارجه جمهوری اسلامی، در جریان سفر به مسقط با سلطان عمان دیدار و گفت‌وگو کرد.",
         "time": "17:20",
         "ts": 1794936035
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "text": "یک کارگر پیمانکاری شرکت پتروشیمی فن‌آوران که روز یکشنبه ۲۴ آبان بر اثر حادثه مصدوم شده بود، پس از ۳۶ ساعت بستری در بیمارستان جان باخت.",
+        "time": "17:23",
+        "ts": 1794936226
       }
     ],
-    "packId": "20261117-112",
-    "sequence": 112,
+    "packId": "20261117-113",
+    "sequence": 113,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "17:21"
+    "updatedAt": "17:25"
   },
   "verified": true
 }
