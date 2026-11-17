@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261117-67 seq=67 exp=1795005316",
+      "advancedStatus": "pack_id=20261117-68 seq=68 exp=1795005574",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:35",
+      "lastChecked": "12:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-17",
-    "expiresAt": "2026-11-18 12:35",
+    "expiresAt": "2026-11-18 12:39",
     "items": [
-      {
-        "channel": "Vahid Online",
-        "language": "en",
-        "text": "A court in Bahrain on Tuesday, 25 Aban, sentenced 64 Shia citizens, including 57 clerics, to life imprisonment on charges related to \"terrorism\" and connections with the IRGC. Bahraini authorities accused the defendants of \"forming a terrorist group, cooperating with the IRGC, and attempting to overthrow the ruling system\" of the country.",
-        "time": "12:36",
-        "ts": 1794832590
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "Hamidreza Karimi, the prosecutor of Kermanshah province, reported the arrest of the father of Sogand Sayadi and her school principal in the case of the student's death. The father is charged with assault and currently murder, and the school principal has been arrested on charges of negligence and carelessness. Investigations into the cause of death continue, with hypotheses including murder and suicide under review.",
         "time": "12:32",
         "ts": 1794918722
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "North Macedonia's National Security Agency reported on Tuesday, 26 Aban, identifying a network affiliated with the Islamic Republic and arresting five citizens of the country accused of planning to kill an individual in Greece. The agency named Edris Jahangiri Mavaneh, an Iranian citizen, as the probable coordinator of the operation. Members of the network had connections with criminal groups in North Macedonia and carried out preparatory actions for the attack in Greece under Jahangiri's orders.",
+        "time": "12:35",
+        "ts": 1794918951
       }
     ],
     "language": "en",
-    "packId": "20261117-67",
-    "sequence": 67,
+    "packId": "20261117-68",
+    "sequence": 68,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:35"
+    "updatedAt": "12:39"
   },
   "verified": true
 }
