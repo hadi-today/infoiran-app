@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261117-141 seq=141 exp=1795033134",
+      "advancedStatus": "pack_id=20261117-142 seq=142 exp=1795033392",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:18",
+      "lastChecked": "20:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-17",
-    "expiresAt": "2026-11-18 20:18",
+    "expiresAt": "2026-11-18 20:23",
     "items": [
       {
         "channel": "Iran International",
@@ -917,14 +917,21 @@
         "text": "Prince Reza Pahlavi said in a message to the people of Abdanan that their \"brave roar\" showed that the \"repression and crimes of the Islamic Republic\" could not break their determination and will. He expressed pride in the people of Abdanan, sympathized with the bereaved families of the deceased workers and the people of the city, and added: \"Light triumphs over darkness.\"",
         "time": "20:15",
         "ts": 1794946511
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Press TV reported on Tuesday, 26 Aban, quoting the Navy of the Islamic Republic Army that the fourth oil tanker in the eastern part of the Strait of Hormuz caught fire due to hitting a naval mine. The Navy stated that the tanker had turned off its tracking system while passing through the area. No further details about the identity of the tanker or the extent of the damage have been released so far.",
+        "time": "20:22",
+        "ts": 1794946925
       }
     ],
     "language": "en",
-    "packId": "20261117-141",
-    "sequence": 141,
+    "packId": "20261117-142",
+    "sequence": 142,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:18"
+    "updatedAt": "20:23"
   },
   "verified": true
 }
