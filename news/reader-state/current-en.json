@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261117-122 seq=122 exp=1795026385",
+      "advancedStatus": "pack_id=20261117-123 seq=123 exp=1795026632",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:26",
+      "lastChecked": "18:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-17",
-    "expiresAt": "2026-11-18 18:26",
+    "expiresAt": "2026-11-18 18:30",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Benjamin Netanyahu, Prime Minister of Israel, said in a meeting with Andrej Babis, Prime Minister of the Czech Republic, that Iran's missiles, terrorist actions, and nuclear ambitions are not limited to Israel's borders and that Europe is also a target of these threats. Netanyahu also criticized some European leaders and praised Babis for standing firm against terrorism. The meeting included private and broader sessions with ministers and officials from both countries.",
-        "time": "18:27",
-        "ts": 1794853679
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -903,14 +896,21 @@
         "text": "Arash Aramesh, a national security expert, referred to reports about a possible plan by the Islamic Republic to attack in the US and said Washington's response depends on the progress of this planning and the presence of evidence of deployment of personnel and equipment for its execution.",
         "time": "18:25",
         "ts": 1794939926
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Contrary to Iran's international commitments under the Convention on the Rights of the Child and obligations related to the non-use of children in military affairs, 1880 students from Semnan province and the counties of Gachsaran, Galikesh, Sardasht, Sarpol-e Zahab, Mahabad, and Abbasabad were sent to operational areas in the south of the country.",
+        "time": "18:26",
+        "ts": 1794940009
       }
     ],
     "language": "en",
-    "packId": "20261117-122",
-    "sequence": 122,
+    "packId": "20261117-123",
+    "sequence": 123,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:26"
+    "updatedAt": "18:30"
   },
   "verified": true
 }
