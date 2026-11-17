@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261117-81 seq=81 exp=1795010658",
+      "advancedStatus": "pack_id=20261117-82 seq=82 exp=1795010915",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:04",
+      "lastChecked": "14:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-17",
-    "expiresAt": "2026-11-18 14:04",
+    "expiresAt": "2026-11-18 14:08",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Mohammad Sajjad Shahdoust, a detainee related to the December 1404 protests, is serving his two-year sentence in Tehran Grand Prison. He was transferred to prison on 16 Aban. The Revolutionary Court sentenced him on charges of \"disturbing public order\" and \"propaganda against the regime.\"",
-        "time": "14:05",
-        "ts": 1794837924
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -931,14 +924,21 @@
         "text": "The Ministry of Intelligence reported the arrest of 9 security suspects in Kurdistan province. The ministry also claimed to have seized firearms and 70 Starlink communication devices from these individuals.",
         "time": "13:58",
         "ts": 1794923931
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A baker in a released video says that payment with cards from some banks, including Sepah, Refah, and Post Bank, causes the price of bread to be calculated at the free market rate.",
+        "time": "14:04",
+        "ts": 1794924298
       }
     ],
     "language": "en",
-    "packId": "20261117-81",
-    "sequence": 81,
+    "packId": "20261117-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:04"
+    "updatedAt": "14:08"
   },
   "verified": true
 }
