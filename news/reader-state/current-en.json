@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261118-04 seq=4 exp=1795062761",
+      "advancedStatus": "pack_id=20261118-05 seq=5 exp=1795062786",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:32",
+      "lastChecked": "04:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-18",
-    "expiresAt": "2026-11-19 04:32",
+    "expiresAt": "2026-11-19 04:33",
     "items": [
       {
         "channel": "Iran International",
@@ -945,14 +945,21 @@
         "text": "Tehran Revolutionary Court sentenced three detainees of the nationwide protests of Dey 1404 to death on charges of operational action for Israel. Nazli Sedghi, a lawyer, explains the legal and political weaknesses of this case in terms of the trial process and the need for approval.",
         "time": "04:29",
         "ts": 1794976142
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Prime Minister of Iraq ordered the halt of tankers carrying oil and oil products to combat fuel smuggling. The government spokesperson announced the entry of armed forces into Jurf al-Sakhar and the end of the deadline for the withdrawal of Kata'ib Hezbollah.",
+        "time": "04:30",
+        "ts": 1794976231
       }
     ],
     "language": "en",
-    "packId": "20261118-04",
-    "sequence": 4,
+    "packId": "20261118-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:32"
+    "updatedAt": "04:33"
   },
   "verified": true
 }
