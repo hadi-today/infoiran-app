@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261118-61 seq=61 exp=1795090669",
+      "advancedStatus": "pack_id=20261118-62 seq=62 exp=1795090964",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:17",
+      "lastChecked": "12:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-18",
-    "expiresAt": "2026-11-19 12:17",
+    "expiresAt": "2026-11-19 12:22",
     "items": [
       {
         "channel": "Iran International",
@@ -938,14 +938,21 @@
         "text": "Yesterday, a group of employees of the Tehran Regional Electricity Company held a protest demanding the change of their employment status from employee to worker. The protesters had also held a protest on this issue in Khordad of this year.",
         "time": "12:12",
         "ts": 1795003945
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "According to information received by Iran International, Samaneh Asghari, the sister of Sajad Asghari who was killed in the January 1404 protests, suffered a stroke in her sleep and died due to psychological pressure from her brother's death. Their father wrote on Instagram that Samaneh could not bear the absence of her brother. Sajad Asghari was killed by a gunshot during the protests in Fardis, Karaj on January 9, 2027, and his family found his body with tied hands in a medical center after searching for him.",
+        "time": "12:20",
+        "ts": 1795004408
       }
     ],
     "language": "en",
-    "packId": "20261118-61",
-    "sequence": 61,
+    "packId": "20261118-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:17"
+    "updatedAt": "12:22"
   },
   "verified": true
 }
