@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261118-140 seq=140 exp=1795118677",
+      "advancedStatus": "pack_id=20261118-141 seq=141 exp=1795118720",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:04",
+      "lastChecked": "20:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-18",
-    "expiresAt": "2026-11-19 20:04",
+    "expiresAt": "2026-11-19 20:05",
     "items": [
       {
         "channel": "Iran International",
@@ -973,14 +973,21 @@
         "text": "A citizen sent a video to Iran International, saying about the harassment by government protesters: \"The thugs of the Islamic Republic say nonsense every night in the streets with their loudspeakers.\"",
         "time": "20:01",
         "ts": 1795032079
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Tami Piegot, spokesperson for the US State Department, said Hassan and Ibrahim Khashan, two Lebanese brothers, transferred significant amounts of Quds Force financial resources in cooperation with Hezbollah. This network used companies \"Gold Global\" in Lebanon and \"Sankari Gold\" in Turkey and cash carriers to transfer gold bars and currency. Piegot added that the Association Watta'awanu, presenting itself as an emergency aid provider in southern Lebanon, is actually used for moving Hezbollah members, storing the group's weapons, and transferring foreign financial aid to its activities.",
+        "time": "20:02",
+        "ts": 1795032125
       }
     ],
     "language": "en",
-    "packId": "20261118-140",
-    "sequence": 140,
+    "packId": "20261118-141",
+    "sequence": 141,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:04"
+    "updatedAt": "20:05"
   },
   "verified": true
 }
