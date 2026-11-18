@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261118-80 seq=80 exp=1795100195",
+      "advancedStatus": "pack_id=20261118-81 seq=81 exp=1795100777",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:56",
+      "lastChecked": "15:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-18",
-    "expiresAt": "2026-11-19 14:56",
+    "expiresAt": "2026-11-19 15:06",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "On Tuesday, 26 Aban, a group of citizens held a protest in front of the General Directorate of Prisons in Gilan. These citizens, holding photos of some prisoners under death sentence including Manouchehr Fallah, Peyman (Amin) Farahavar, Zahra Shahbaz Tabari, and Yaghoub Derakhshan, demanded a halt to executions in Iran.",
-        "time": "15:01",
-        "ts": 1794927681
-      },
-      {
-        "channel": "Vahid Online",
-        "language": "en",
-        "text": "Images of explosions in Qeshm have been released. Government sources have not yet accepted that it was an attack and wrote \"The exact nature of the explosions is still unclear.\"",
-        "time": "15:05",
-        "ts": 1794927929
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -903,14 +889,21 @@
         "text": "The prison sentences of Babak Zeinali, Sahba Taef, Foad Taefi, Sherwin Shabrakh, and Ali Bagherkashi, five imprisoned Bahá'í citizens in Qezel Hesar prison in Karaj, were converted to open verdicts. These Bahá'í citizens were released from Qezel Hesar prison on Monday, 25 Aban, following the change of their sentences to open verdicts. They are required to perform activities such as cleaning and gardening daily during office hours in the prison yard starting Thursday, 28 Aban.",
         "time": "14:54",
         "ts": 1795013662
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video received by Iran International shows that on Wednesday, 27 Aban, a group of job-seeking youth blocked the road in protest against the hiring process at the Gachsaran refinery.",
+        "time": "15:02",
+        "ts": 1795014166
       }
     ],
     "language": "en",
-    "packId": "20261118-80",
-    "sequence": 80,
+    "packId": "20261118-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:56"
+    "updatedAt": "15:06"
   },
   "verified": true
 }
