@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261118-118 seq=118 exp=1795111934",
+      "advancedStatus": "pack_id=20261118-119 seq=119 exp=1795112208",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:12",
+      "lastChecked": "18:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-18",
-    "expiresAt": "2026-11-19 18:12",
+    "expiresAt": "2026-11-19 18:16",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "According to videos received by Iran International, a large crowd of people in Abdanan took to the streets today, chanting slogans against the Islamic Republic and in support of Prince Reza Pahlavi. Some citizens reported attacks by agents on this gathering, weakening of the internet, and hearing the sound of aerial gunfire in Abdanan. This protest gathering took place after the death of 13 oil company workers in the overturning of their bus.",
-        "time": "18:15",
-        "ts": 1794939319
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Thirteen employees of the Dehloran Petro-Refinery died on their way back from work. After this accident, people in Abdanan took to the streets and, according to videos received by Iran International, chanted slogans against the government and in support of Pahlavi.",
-        "time": "18:16",
-        "ts": 1794939378
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -973,14 +959,21 @@
         "text": "The US Central Command (CENTCOM) denied reports about US forces being injured in recent attacks by the Islamic Republic and being transferred for medical services. CENTCOM wrote on social media platform X on November 18 that no US forces were injured in the failed attacks this week and all US military personnel are safe and accounted for. CENTCOM also accused accounts close to the IRGC of repeatedly spreading false information online.",
         "time": "18:06",
         "ts": 1795025192
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Two workers were injured in work accidents in Shush and Mashhad. One of them, a Shush municipality worker, fell from a lift basket on Saturday, 23 Aban and is currently in a coma. In another incident, the hand of a female worker got caught in an industrial dryer today.",
+        "time": "18:13",
+        "ts": 1795025589
       }
     ],
     "language": "en",
-    "packId": "20261118-118",
-    "sequence": 118,
+    "packId": "20261118-119",
+    "sequence": 119,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:12"
+    "updatedAt": "18:16"
   },
   "verified": true
 }
