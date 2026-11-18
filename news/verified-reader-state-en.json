@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261118-05 seq=5 exp=1795062786",
+      "advancedStatus": "pack_id=20261118-06 seq=6 exp=1795063255",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:33",
+      "lastChecked": "04:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-18",
-    "expiresAt": "2026-11-19 04:33",
+    "expiresAt": "2026-11-19 04:40",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Sergei Sobyanin, the mayor of Moscow, announced that about 800 drones were launched towards Moscow overnight, with 321 of them being shot down. Non-Russian official sources have not yet confirmed this information. This attack occurs as US mediation efforts to end the Ukraine war have entered a more intense phase.",
-        "time": "04:37",
-        "ts": 1794890234
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Farzin Nadimi, a senior defense and security researcher, referred to a CNN report about the possibility of the Islamic Republic using a dirty bomb in the US and said that making such a bomb is not very difficult with access to radioactive materials, but successfully carrying out an attack with it on US soil is very complex. He warned that if such an attack occurs, the US government's response to the Islamic Republic would be very harsh.",
-        "time": "04:39",
-        "ts": 1794890375
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -952,14 +938,21 @@
         "text": "The Prime Minister of Iraq ordered the halt of tankers carrying oil and oil products to combat fuel smuggling. The government spokesperson announced the entry of armed forces into Jurf al-Sakhar and the end of the deadline for the withdrawal of Kata'ib Hezbollah.",
         "time": "04:30",
         "ts": 1794976231
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The annual APEC senior officials meeting began in Shenzhen, China, with over two thousand representatives from 21 member countries. Development of artificial intelligence and regional economic cooperation are main topics of this meeting. Simultaneously, Vladimir Putin arrived in China to attend the summit.",
+        "time": "04:39",
+        "ts": 1794976798
       }
     ],
     "language": "en",
-    "packId": "20261118-05",
-    "sequence": 5,
+    "packId": "20261118-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:33"
+    "updatedAt": "04:40"
   },
   "verified": true
 }
