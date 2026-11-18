@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261118-78 seq=78 exp=1795099338",
+      "advancedStatus": "pack_id=20261118-79 seq=79 exp=1795099900",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:42",
+      "lastChecked": "14:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-18",
-    "expiresAt": "2026-11-19 14:42",
+    "expiresAt": "2026-11-19 14:51",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Despite claims of self-sufficiency in wheat production and allocation of hundreds of thousands of billions of tomans in subsidies, subsidized bread purchases have been limited in some cities in Iran. Officials talk about saving flour consumption, but people face rising bread prices and bakers complain about increased costs. Mehdi Beigi has examined the roots of the bread crisis in Iran in \"Peyvast\".",
-        "time": "14:49",
-        "ts": 1794926951
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -896,14 +889,21 @@
         "text": "In less than four months, at least 20 accidents caused by falls in machines or getting caught between parts of industrial machinery in the country have resulted in the death of 10 workers and injury of 10 others. Six of the injured have suffered amputations. Weakness in safety compliance, lack of proper guards, and deficiencies in workplace supervision have been cited as probable causes of these accidents.",
         "time": "14:37",
         "ts": 1795012645
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Eyal Zamir, Chief of Staff of the Israeli Army, met with Brad Cooper, commander of CENTCOM. According to i24 network, the possibility of resuming war with the Islamic Republic and the military readiness of both sides for continued fighting were the focus of this security meeting.",
+        "time": "14:48",
+        "ts": 1795013315
       }
     ],
     "language": "en",
-    "packId": "20261118-78",
-    "sequence": 78,
+    "packId": "20261118-79",
+    "sequence": 79,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:42"
+    "updatedAt": "14:51"
   },
   "verified": true
 }
