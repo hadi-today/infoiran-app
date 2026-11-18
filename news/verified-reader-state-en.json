@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261118-101 seq=101 exp=1795106465",
+      "advancedStatus": "pack_id=20261118-102 seq=102 exp=1795106757",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:41",
+      "lastChecked": "16:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-18",
-    "expiresAt": "2026-11-19 16:41",
+    "expiresAt": "2026-11-19 16:45",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Abbas Araghchi, the Foreign Minister of the Islamic Republic, on Tuesday, 26 Aban, denied reports about Iran planning to use chemical weapons in Washington and building missile bases under dams. Araghchi called these reports \"nonsense\" and \"Iraq war-style propaganda\" and accused pro-Israel media of publishing them.",
-        "time": "16:44",
-        "ts": 1794933888
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A Panama-flagged tanker named \"Tara Gas\" caught fire extensively following an attack north of the city of Khasab, Oman.",
-        "time": "16:45",
-        "ts": 1794933922
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -954,6 +940,13 @@
         "ts": 1795019595
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "On Tuesday, 26 Aban 1405, the Intelligence Organization forces of the IRGC searched the office and home of Yashar Soltani, a journalist. This was reported by Yashar Soltani and the HRANA news agency.",
+        "time": "16:36",
+        "ts": 1795019760
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "The UK Maritime Trade Operations Center announced on Wednesday, 27 Aban, that the maritime security threat level in the Persian Gulf, Strait of Hormuz, Sea of Oman, and northern Arabian Sea remains \"severe.\" The center warned mariners to be prepared for increased naval presence and possible attacks. It also warned of increased security inspections and radio communications.",
@@ -962,11 +955,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261118-101",
-    "sequence": 101,
+    "packId": "20261118-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:41"
+    "updatedAt": "16:45"
   },
   "verified": true
 }
