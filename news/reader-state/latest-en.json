@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261118-01 seq=1 exp=1795050285",
+      "advancedStatus": "pack_id=20261118-02 seq=2 exp=1795050309",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:04",
+      "lastChecked": "01:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-18",
-    "expiresAt": "2026-11-19 01:04",
+    "expiresAt": "2026-11-19 01:05",
     "items": [
       {
         "channel": "Iran International",
@@ -945,14 +945,21 @@
         "text": "Bahrain's Ministry of Interior, coinciding with the sounding of warning sirens again in the country, urged citizens and residents to remain calm, go to the nearest safe place, and follow news through official channels. Earlier, warning sirens had sounded in Bahrain in the early hours of Wednesday morning.",
         "time": "01:01",
         "ts": 1794963701
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Ministry of Defense of Bahrain stated that the Islamic Republic continues its \"hostile and organized\" approach with its \"criminal attacks\" against Bahrain. The ministry also emphasized that the country's air defense systems, with \"firm will and high combat readiness,\" repelled several \"treacherous air attacks\" by the Iranian government early Wednesday.",
+        "time": "01:02",
+        "ts": 1794963752
       }
     ],
     "language": "en",
-    "packId": "20261118-01",
-    "sequence": 1,
+    "packId": "20261118-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:04"
+    "updatedAt": "01:05"
   },
   "verified": true
 }
