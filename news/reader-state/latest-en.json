@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261118-96 seq=96 exp=1795105588",
+      "advancedStatus": "pack_id=20261118-97 seq=97 exp=1795105888",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:26",
+      "lastChecked": "16:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-18",
-    "expiresAt": "2026-11-19 16:26",
+    "expiresAt": "2026-11-19 16:31",
     "items": [
       {
         "channel": "HRANA",
@@ -931,14 +931,21 @@
         "text": "Antonio Adán, former goalkeeper of Esteghlal and Real Madrid, retired from professional football at the age of 39. He announced the end of his playing career by posting a video on social media. Adán said that after much thought, he decided to retire from professional football.",
         "time": "16:19",
         "ts": 1795018771
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Two prisoners named Esmaeil Sarasti and Ebrahim Mohammadi Maboud were executed in the prisons of Babol and Tonekabon in Mazandaran province. These executions took place today, Wednesday, 27 Aban. These prisoners had previously been sentenced to death on charges related to drug crimes and murder.",
+        "time": "16:21",
+        "ts": 1795018868
       }
     ],
     "language": "en",
-    "packId": "20261118-96",
-    "sequence": 96,
+    "packId": "20261118-97",
+    "sequence": 97,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:26"
+    "updatedAt": "16:31"
   },
   "verified": true
 }
