@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261118-52 seq=52 exp=1795087921",
+      "advancedStatus": "pack_id=20261118-53 seq=53 exp=1795088193",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:32",
+      "lastChecked": "11:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-18",
-    "expiresAt": "2026-11-19 11:32",
+    "expiresAt": "2026-11-19 11:36",
     "items": [
       {
         "channel": "HRANA",
@@ -910,14 +910,21 @@
         "text": "A citizen sent a video to Iran International and said that every morning long queues of cars and motorcycles form at the gas station in the city of Ahel, Fars province. According to him, the formation of such queues in this small city is unprecedented.",
         "time": "11:30",
         "ts": 1795001411
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Raha Bahraini, a researcher at Amnesty International, referred to the killing of protesters in the protests of Dey 1404 and emphasized the necessity of ending the immunity of perpetrators of crimes against humanity. She said many commanders and officials involved in the crackdown have not only not been punished but still hold senior positions, and some have even been promoted. Bahraini stressed that documenting these crimes is not enough and there must be legal and international consequences for those responsible.",
+        "time": "11:33",
+        "ts": 1795001597
       }
     ],
     "language": "en",
-    "packId": "20261118-52",
-    "sequence": 52,
+    "packId": "20261118-53",
+    "sequence": 53,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:32"
+    "updatedAt": "11:36"
   },
   "verified": true
 }
