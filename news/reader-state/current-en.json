@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261118-125 seq=125 exp=1795113572",
+      "advancedStatus": "pack_id=20261118-126 seq=126 exp=1795113839",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:39",
+      "lastChecked": "18:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-18",
-    "expiresAt": "2026-11-19 18:39",
+    "expiresAt": "2026-11-19 18:43",
     "items": [
       {
         "channel": "Iran International",
@@ -952,14 +952,21 @@
         "text": "On 27 Aban, a citizen sent a video of a gathering of people in the central area of the National Iranian Oil Products Distribution Company in Bandar Abbas, saying that despite submitting a request in recent days, they have not yet received their fuel card and have not received a clear response. They added that given the gasoline situation, citizens remain uncertain about fuel supply for the next month.",
         "time": "18:30",
         "ts": 1795026628
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Arabic-speaking spokesperson of the Israeli army said that the forces of Brigade 810, in cooperation with the special combat engineering unit, destroyed an underground Hezbollah tunnel in southern Lebanon. According to Ila Wavieh, several accommodations and command rooms were discovered in this tunnel, which were used to plan attacks against Israeli civilians and military forces stationed in the area.",
+        "time": "18:42",
+        "ts": 1795027329
       }
     ],
     "language": "en",
-    "packId": "20261118-125",
-    "sequence": 125,
+    "packId": "20261118-126",
+    "sequence": 126,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:39"
+    "updatedAt": "18:43"
   },
   "verified": true
 }
