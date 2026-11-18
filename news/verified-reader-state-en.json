@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261118-79 seq=79 exp=1795099900",
+      "advancedStatus": "pack_id=20261118-80 seq=80 exp=1795100195",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:51",
+      "lastChecked": "14:56",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-18",
-    "expiresAt": "2026-11-19 14:51",
+    "expiresAt": "2026-11-19 14:56",
     "items": [
       {
         "channel": "HRANA",
@@ -896,14 +896,21 @@
         "text": "Eyal Zamir, Chief of Staff of the Israeli Army, met with Brad Cooper, commander of CENTCOM. According to i24 network, the possibility of resuming war with the Islamic Republic and the military readiness of both sides for continued fighting were the focus of this security meeting.",
         "time": "14:48",
         "ts": 1795013315
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The prison sentences of Babak Zeinali, Sahba Taef, Foad Taefi, Sherwin Shabrakh, and Ali Bagherkashi, five imprisoned Bahá'í citizens in Qezel Hesar prison in Karaj, were converted to open verdicts. These Bahá'í citizens were released from Qezel Hesar prison on Monday, 25 Aban, following the change of their sentences to open verdicts. They are required to perform activities such as cleaning and gardening daily during office hours in the prison yard starting Thursday, 28 Aban.",
+        "time": "14:54",
+        "ts": 1795013662
       }
     ],
     "language": "en",
-    "packId": "20261118-79",
-    "sequence": 79,
+    "packId": "20261118-80",
+    "sequence": 80,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:51"
+    "updatedAt": "14:56"
   },
   "verified": true
 }
