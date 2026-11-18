@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261118-15 seq=15 exp=1795072609",
+      "advancedStatus": "pack_id=20261118-16 seq=16 exp=1795073543",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:16",
+      "lastChecked": "07:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-18",
-    "expiresAt": "2026-11-19 07:16",
+    "expiresAt": "2026-11-19 07:32",
     "items": [
       {
         "channel": "Iran International",
@@ -938,14 +938,21 @@
         "text": "The UAE news agency reported that one of the ships of ADNOC Shipping was attacked on the evening of Tuesday, 26 Aban, while passing through the Strait of Hormuz. In this attack, 11 crew members were injured and one person is missing. Search and rescue operations to find the missing person are ongoing.",
         "time": "07:02",
         "ts": 1794985364
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A citizen sent a video to Iran International and wrote that a sand and gravel factory near Fardis started burning mazut this year, and its activity has affected the air quality in the area.",
+        "time": "07:28",
+        "ts": 1794986912
       }
     ],
     "language": "en",
-    "packId": "20261118-15",
-    "sequence": 15,
+    "packId": "20261118-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:16"
+    "updatedAt": "07:32"
   },
   "verified": true
 }
