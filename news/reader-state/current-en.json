@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261118-55 seq=55 exp=1795089531",
+      "advancedStatus": "pack_id=20261118-56 seq=56 exp=1795089810",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:58",
+      "lastChecked": "12:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-18",
-    "expiresAt": "2026-11-19 11:58",
+    "expiresAt": "2026-11-19 12:03",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Videos received show that a group of retirees from Iran Air airline gathered on Tuesday, 26 Aban, in protest against unpaid insurance and lack of salary increases, in front of the company's headquarters in Tehran.",
-        "time": "12:00",
-        "ts": 1794916850
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Berlin police raided centers linked to the Ershad Association in a large-scale operation. This operation took place after the association's activities were banned on charges of promoting Hezbollah ideology and using the Al-Qaem Mosque to spread it.",
-        "time": "12:02",
-        "ts": 1794916922
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -917,14 +903,21 @@
         "text": "The head of Shiraz University of Medical Sciences reported that about 800 people lost their lives in road accidents in Fars province during the first six months of this year. Seyed Basir Hashemi said nearly 10,000 people were injured in accidents. He pointed to the role of environmental factors, vehicle technical issues, and human error in the occurrence of accidents.",
         "time": "11:54",
         "ts": 1795002853
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Rafael Grossi, Director General of the International Atomic Energy Agency, said the agency has not inspected Iran's nuclear facilities for over a year and has lost the ability to verify the status of nuclear materials and enriched uranium stocks. He emphasized that Tehran must allow inspections as a member of the Nuclear Non-Proliferation Treaty.",
+        "time": "11:59",
+        "ts": 1795003147
       }
     ],
     "language": "en",
-    "packId": "20261118-55",
-    "sequence": 55,
+    "packId": "20261118-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:58"
+    "updatedAt": "12:03"
   },
   "verified": true
 }
