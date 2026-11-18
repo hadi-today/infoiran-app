@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261118-165 seq=165 exp=1795130006",
+      "advancedStatus": "pack_id=20261118-166 seq=166 exp=1795130282",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "23:13",
+      "lastChecked": "23:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-18",
-    "expiresAt": "2026-11-19 23:13",
+    "expiresAt": "2026-11-19 23:18",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The Ministry of Interior of Bahrain issued a warning asking citizens and residents to maintain calm for public safety, go to the nearest safe place, and follow news through official channels. Meanwhile, Al Arabiya reported the sounding of sirens in Bahrain.",
-        "time": "23:13",
-        "ts": 1794957226
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -1036,14 +1029,21 @@
         "text": "The fifth session of the trial of Mehran Mohaqqeqi, accused of driving a car towards Iranian protesters in Toronto, Canada, ended again without setting a trial date. The defense lawyer requested more time to examine the defendant's recently returned mobile phone. The judge postponed the case to December 16.",
         "time": "23:08",
         "ts": 1795043329
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Shahram Khaledi said the summit of the leaders of the US, Russia, and China is more an opportunity to secure the interests of these three powers on issues like Taiwan, Ukraine, and the Iran dossier than a sign of a new world order. He added that Moscow and Beijing seek to reduce the damages caused by the war and gain concessions from the Trump administration. Khaledi also said that China and Russia try to use the Iran dossier as leverage in negotiations with the US and that there is a possibility of an increased mediating role for them, but their ability to bring Tehran and Washington closer to an agreement is limited.",
+        "time": "23:13",
+        "ts": 1795043624
       }
     ],
     "language": "en",
-    "packId": "20261118-165",
-    "sequence": 165,
+    "packId": "20261118-166",
+    "sequence": 166,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "23:13"
+    "updatedAt": "23:18"
   },
   "verified": true
 }
