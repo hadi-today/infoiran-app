@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261119-115 seq=115 exp=1795198430",
+      "advancedStatus": "pack_id=20261119-117 seq=117 exp=1795199240",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:13",
+      "lastChecked": "18:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-19",
-    "expiresAt": "2026-11-20 18:13",
+    "expiresAt": "2026-11-20 18:27",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Hadi Jamalipour, a political prisoner serving his sentence on bail, was summoned to the second investigative branch of the General and Revolutionary Prosecutor's Office of Birjand. According to a summons issued and delivered to him on Wednesday, 27 Aban, he is requested to appear within five days to defend against the charge of propaganda against the Islamic Republic system.",
-        "time": "18:19",
-        "ts": 1795025993
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Ila Vavieh, the Arabic-speaking spokesperson for the Israeli army, announced on Wednesday, 27 Aban that the Israeli and Greek air forces held a joint exercise on Monday, 25 Aban in the skies over Greece aimed at enhancing operational readiness and practicing aerial refueling of fighter jets. Vavieh added that the exercise, which lasted several hours, involved operational flights and aerial refueling to increase the ability to conduct missions over long distances. The Israeli Air Force's Squadron 120, responsible for aerial refueling to support long-range flights, participated in the exercise, which aimed at experience exchange and strengthening military cooperation.",
-        "time": "18:21",
-        "ts": 1795026062
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -994,14 +980,21 @@
         "text": "Due to lack of workplace safety and unsuitable conditions, an electrician worker in Tehran had an accident while working and died.",
         "time": "18:11",
         "ts": 1795111860
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Donald Trump said in an interview with Barak Ravid that he has not yet decided on the next actions of the US in the war with Iran. Trump said he is not in a hurry to decide about Iran and they must see what happens after January 1. Ravid reported that Trump is under pressure from Netanyahu for a quick return to war and is still considering another attack on Iran.",
+        "time": "18:11",
+        "ts": 1795111869
       }
     ],
     "language": "en",
-    "packId": "20261119-115",
-    "sequence": 115,
+    "packId": "20261119-117",
+    "sequence": 117,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:13"
+    "updatedAt": "18:27"
   },
   "verified": true
 }
