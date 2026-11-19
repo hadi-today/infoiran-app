@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261119-121 seq=121 exp=1795201135",
+      "advancedStatus": "pack_id=20261119-122 seq=122 exp=1795201696",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:58",
+      "lastChecked": "19:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-19",
-    "expiresAt": "2026-11-20 18:58",
+    "expiresAt": "2026-11-20 19:08",
     "items": [
       {
         "channel": "HRANA",
@@ -966,14 +966,21 @@
         "text": "The Domino audio version reports that the people of Abdanan have returned to the streets.",
         "time": "18:57",
         "ts": 1795114630
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "At least 3 protest gatherings were held today, Thursday 28 Aban, including workers of Kaveh Sodium Carbonate Company in Firouzabad protesting living conditions. Bakers in Ahvaz gathered in front of Khuzestan Governor's Office. Also, unemployed youth in Gachsaran blocked the road to the petro-refinery for the second consecutive day.",
+        "time": "19:06",
+        "ts": 1795115218
       }
     ],
     "language": "en",
-    "packId": "20261119-121",
-    "sequence": 121,
+    "packId": "20261119-122",
+    "sequence": 122,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:58"
+    "updatedAt": "19:08"
   },
   "verified": true
 }
