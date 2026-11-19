@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261119-114 seq=114 exp=1795198137",
+      "advancedStatus": "pack_id=20261119-115 seq=115 exp=1795198430",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:08",
+      "lastChecked": "18:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-19",
-    "expiresAt": "2026-11-20 18:08",
+    "expiresAt": "2026-11-20 18:13",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Two workers were injured in work accidents in Shush and Mashhad. One of them, a Shush municipality worker, fell from a lift basket on Saturday, 23 Aban and is currently in a coma. In another incident, the hand of a female worker got caught in an industrial dryer today.",
-        "time": "18:13",
-        "ts": 1795025589
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -994,14 +987,21 @@
         "text": "A death row prisoner in Ramian County, Golestan Province, was released from execution due to the victim's family's pardon. Also, the judicial deputy and dispute resolution official of Kerman Province reported the release of 15 death row prisoners in this province during the first seven months of the current year.",
         "time": "18:01",
         "ts": 1795111307
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Due to lack of workplace safety and unsuitable conditions, an electrician worker in Tehran had an accident while working and died.",
+        "time": "18:11",
+        "ts": 1795111860
       }
     ],
     "language": "en",
-    "packId": "20261119-114",
-    "sequence": 114,
+    "packId": "20261119-115",
+    "sequence": 115,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:08"
+    "updatedAt": "18:13"
   },
   "verified": true
 }
