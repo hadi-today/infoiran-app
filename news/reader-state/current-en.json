@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261119-20 seq=20 exp=1795161229",
+      "advancedStatus": "pack_id=20261119-21 seq=21 exp=1795161523",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:53",
+      "lastChecked": "07:58",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-19",
-    "expiresAt": "2026-11-20 07:53",
+    "expiresAt": "2026-11-20 07:58",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Hamidreza Hajibabaei, the deputy speaker of the parliament, said in the session on 27 Aban that some countries are helping the US and the Islamic Republic is responding. He warned that if a war occurs in the region, some kings will be trampled. Hajibabaei also said the US is unable to design a fake victory and Trump is confused in the US-Israel duality.",
-        "time": "07:58",
-        "ts": 1794988693
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -1050,14 +1043,21 @@
         "text": "Hossein Alizadeh, an international affairs analyst, said Donald Trump's statements about ending the Islamic Republic and reaching a stable agreement remain ambiguous; however, the heavy economic pressure and restrictions imposed on Tehran indicate that Trump seeks to resolve this issue.",
         "time": "07:49",
         "ts": 1795074573
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Israel's Channel 12 reported, citing two informed sources, that Donald Trump is still considering the possibility of a joint attack with Israel against the Islamic Republic. According to the report, the White House has requested an assessment of Tehran's possible reaction and its consequences for the security of oil and gas facilities in the Gulf countries.",
+        "time": "07:53",
+        "ts": 1795074799
       }
     ],
     "language": "en",
-    "packId": "20261119-20",
-    "sequence": 20,
+    "packId": "20261119-21",
+    "sequence": 21,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:53"
+    "updatedAt": "07:58"
   },
   "verified": true
 }
