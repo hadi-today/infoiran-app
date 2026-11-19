@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261119-37 seq=37 exp=1795170441",
+      "advancedStatus": "pack_id=20261119-38 seq=38 exp=1795170983",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:27",
+      "lastChecked": "10:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-19",
-    "expiresAt": "2026-11-20 10:27",
+    "expiresAt": "2026-11-20 10:36",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Jean-Noël Barrot, the French Foreign Minister, called on Wednesday, 27 Aban, for the adoption of a resolution at the UN General Assembly regarding the human rights situation in Iran. He said that crimes committed against the Iranian people should be declared crimes against humanity. Barrot also emphasized France's support for the Iranian people's struggle for freedom.",
-        "time": "10:28",
-        "ts": 1794997720
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A video sent to Iran International shows a protesting citizen writing the slogan \"Long live the Shah\" on a street wall in the city of Estahban, Fars province.",
-        "time": "10:33",
-        "ts": 1794998032
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -1029,14 +1015,21 @@
         "text": "Donald Trump, the President of the United States, during a meeting with the Presidents of Russia and China in Shenzhen, reiterated that he will not allow the Islamic Republic to obtain nuclear weapons. He also said that nuclear arms reduction is a negotiable issue.",
         "time": "10:23",
         "ts": 1795083791
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A citizen sent a video to Iran International reporting that they witnessed a drone flying at night over the city of Mahallat in Markazi province.",
+        "time": "10:32",
+        "ts": 1795084372
       }
     ],
     "language": "en",
-    "packId": "20261119-37",
-    "sequence": 37,
+    "packId": "20261119-38",
+    "sequence": 38,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:27"
+    "updatedAt": "10:36"
   },
   "verified": true
 }
