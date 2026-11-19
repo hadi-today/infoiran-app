@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261119-129 seq=129 exp=1795204450",
+      "advancedStatus": "pack_id=20261119-131 seq=131 exp=1795205287",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:54",
+      "lastChecked": "20:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-19",
-    "expiresAt": "2026-11-20 19:54",
+    "expiresAt": "2026-11-20 20:08",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A citizen sent a video to Iran International, saying about the harassment by government protesters: \"The thugs of the Islamic Republic say nonsense every night in the streets with their loudspeakers.\"",
-        "time": "20:01",
-        "ts": 1795032079
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Tami Piegot, spokesperson for the US State Department, said Hassan and Ibrahim Khashan, two Lebanese brothers, transferred significant amounts of Quds Force financial resources in cooperation with Hezbollah. This network used companies \"Gold Global\" in Lebanon and \"Sankari Gold\" in Turkey and cash carriers to transfer gold bars and currency. Piegot added that the Association Watta'awanu, presenting itself as an emergency aid provider in southern Lebanon, is actually used for moving Hezbollah members, storing the group's weapons, and transferring foreign financial aid to its activities.",
-        "time": "20:02",
-        "ts": 1795032125
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -940,6 +926,13 @@
         "ts": 1795117335
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Sanaz Yekta, a resident of Tehran, was summoned by the Tehran Security Prosecutor's Office and appeared there on Tuesday, 25 Aban. The charges against her include \"propaganda against the regime\" and interviews with foreign media. She was summoned by the Ministry of Intelligence's follow-up office in early Mehr, detained, and later released on bail.",
+        "time": "19:44",
+        "ts": 1795117479
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "FIFA announced the names of three candidates for the presidency election of the organization in 2027. Gianni Infantino, Philippe Diallo, and Kozo Tashima are the candidates. The election will be held on March 18 in Rabat, Morocco.",
@@ -959,14 +952,21 @@
         "text": "Reports from various cities in Iran have presented reactions to Masoud Pezeshkian's statements about people's problems. From Miandoab to Tehran, people have criticized the difficult living conditions and the government's inability to provide basic needs such as electricity and gas. Some have said Pezeshkian is unaware of the real situation of the people and that his salary is not equal to workers'.",
         "time": "19:52",
         "ts": 1795117928
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Reuters reported that the US Senate rejected a resolution to limit Donald Trump's war powers against Iran by 51 votes against 48. The resolution, previously passed by the House of Representatives, would have required Trump to end the war with Iran or get congressional approval to continue it. The Senate vote was largely along party lines, with Republicans supporting Trump.",
+        "time": "20:05",
+        "ts": 1795118704
       }
     ],
     "language": "en",
-    "packId": "20261119-129",
-    "sequence": 129,
+    "packId": "20261119-131",
+    "sequence": 131,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:54"
+    "updatedAt": "20:08"
   },
   "verified": true
 }
