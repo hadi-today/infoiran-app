@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261119-115 seq=115 exp=1795198430",
+      "advancedStatus": "pack_id=20261119-116 seq=116 exp=1795198457",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:13",
+      "lastChecked": "18:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-19",
-    "expiresAt": "2026-11-20 18:13",
+    "expiresAt": "2026-11-20 18:14",
     "items": [
       {
         "channel": "خبرگزاری هرانا",
@@ -854,13 +854,19 @@
         "text": "در سایه فقدان ایمنی محیط و شرایط نامناسب کار، یک کارگر برقکار در تهران حین انجام کار دچار حادثه شد و جان خود را از دست داد.",
         "time": "18:11",
         "ts": 1795111860
+      },
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "دونالد ترامپ در گفت‌وگو با باراک راوید اعلام کرد هنوز درباره اقدامات بعدی آمریکا در جنگ با ایران تصمیم نگرفته است. ترامپ گفت برای گرفتن تصمیم درباره ایران عجله ندارد و باید دید پس از اول ژانویه چه اتفاقی می‌افتد. راوید گزارش داد ترامپ از سوی نتانیاهو برای بازگشت سریع به جنگ تحت فشار است و احتمال حمله دیگری به ایران را بررسی می‌کند.",
+        "time": "18:11",
+        "ts": 1795111869
       }
     ],
-    "packId": "20261119-115",
-    "sequence": 115,
+    "packId": "20261119-116",
+    "sequence": 116,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "18:13"
+    "updatedAt": "18:14"
   },
   "verified": true
 }
