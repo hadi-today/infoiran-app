@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261119-31 seq=31 exp=1795167206",
+      "advancedStatus": "pack_id=20261119-32 seq=32 exp=1795167490",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:33",
+      "lastChecked": "09:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-19",
-    "expiresAt": "2026-11-20 09:33",
+    "expiresAt": "2026-11-20 09:38",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Ghasem Qureshi, deputy head of the Basij Organization, said on Wednesday, 27 Aban, that by order of Mojtaba Khamenei, leader of the Islamic Republic, increasing missile range to counter new threats is on the armed forces' agenda. Qureshi added that missile and aerospace forces will strive with full capacity to realize this strategy. He also said that given the US withdrawal from the region, it is necessary to increase the range and retaliatory capability of the armed forces.",
-        "time": "09:35",
-        "ts": 1794994551
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -1036,14 +1029,21 @@
         "text": "A received video shows that a protesting citizen wrote the slogan \"Long live the Shah\" on a street wall at night.",
         "time": "09:30",
         "ts": 1795080652
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mohammad Javad Akbarin, a member of Iran International's editorial team, said reports about the activities of the Lebanese charity association \"Wataawon\" and its money transfer routes indicate the possibility of Hezbollah using charitable activities as a cover to finance military and armament activities. He emphasized that using aid and public service routes for military purposes ultimately harms the people of southern Lebanon.",
+        "time": "09:35",
+        "ts": 1795080929
       }
     ],
     "language": "en",
-    "packId": "20261119-31",
-    "sequence": 31,
+    "packId": "20261119-32",
+    "sequence": 32,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:33"
+    "updatedAt": "09:38"
   },
   "verified": true
 }
