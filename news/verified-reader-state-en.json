@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261119-64 seq=64 exp=1795180192",
+      "advancedStatus": "pack_id=20261119-65 seq=65 exp=1795180492",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:09",
+      "lastChecked": "13:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-19",
-    "expiresAt": "2026-11-20 13:09",
+    "expiresAt": "2026-11-20 13:14",
     "items": [
       {
         "channel": "Iran International",
@@ -1050,14 +1050,21 @@
         "text": "Reports indicate the possibility of a large-scale renewed attack by the US against Iran. Benjamin Netanyahu, Israel's Prime Minister, has pressured Washington to participate in a four to seven-day airstrike campaign against the Islamic Republic. The Pentagon has deployed extensive military equipment in the region, with bombers on 96-hour alert.",
         "time": "13:07",
         "ts": 1795093625
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Alireza Beiranvand, goalkeeper of Iran's national football team and Tractor, ended Iran's 22-year wait for the title by winning the 2026 Asian Player of the Year award. He won the award at the Asian Football Awards ceremony in Bangkok, ahead of Saudi nominees Salem Al-Dawsari and Firas Al-Buraikan. Beiranvand is the fifth Iranian player to receive this award.",
+        "time": "13:11",
+        "ts": 1795093899
       }
     ],
     "language": "en",
-    "packId": "20261119-64",
-    "sequence": 64,
+    "packId": "20261119-65",
+    "sequence": 65,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:09"
+    "updatedAt": "13:14"
   },
   "verified": true
 }
