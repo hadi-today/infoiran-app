@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-91 seq=91 exp=1795278709",
+      "advancedStatus": "pack_id=20261120-92 seq=92 exp=1795278990",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:31",
+      "lastChecked": "16:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 16:31",
+    "expiresAt": "2026-11-21 16:36",
     "items": [
       {
         "channel": "HRANA",
@@ -833,14 +833,21 @@
         "text": "Reports indicate a long queue of thousands of Iranian trucks carrying raw materials at the Yelme border crossing between Kazakhstan and Uzbekistan. The Uzbek media \"Podrobno\" reported about 990 trucks stopped and cited increased cargo transfer from China to Central Asia as factors worsening the traffic. The Uzbekistan Customs Committee confirmed the traffic situation, stating the videos showing heavy traffic were from a few days ago and according to official Kazakhstan statistics, only 100 trucks were waiting in line by 9 AM on Friday.",
         "time": "16:28",
         "ts": 1795192085
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video published on social media shows that members of Omid Rezaei's family, who died in the November 2019 protests, held his birthday anniversary at his grave. One family member said: \"In the end, your pure blood caught them.\"",
+        "time": "16:33",
+        "ts": 1795192412
       }
     ],
     "language": "en",
-    "packId": "20261120-91",
-    "sequence": 91,
+    "packId": "20261120-92",
+    "sequence": 92,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:31"
+    "updatedAt": "16:36"
   },
   "verified": true
 }
