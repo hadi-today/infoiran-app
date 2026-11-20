@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-125 seq=125 exp=1795292696",
+      "advancedStatus": "pack_id=20261120-126 seq=126 exp=1795294629",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:24",
+      "lastChecked": "20:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 20:24",
+    "expiresAt": "2026-11-21 20:57",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Gideon Sa'ar, Israel's Foreign Minister, said on Thursday, 28 Aban, that the Islamic Republic is trying to revive its nuclear program and is active in unconventional weapons. He described the threats against Israel as serious and real and said this issue should be considered in discussions about forming Israel's future government.",
-        "time": "20:49",
-        "ts": 1795121388
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -833,14 +826,21 @@
         "text": "Alireza Nourizadeh, director of the Iran and Arab Research Center, said the presence of Kata'ib Hezbollah in Iraq has been questioned. He added that the Popular Mobilization Units should be examined separately, and the units expected to be stationed in Jurf al-Sakhar are probably coordinated with the Iraqi government.",
         "time": "20:23",
         "ts": 1795206218
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Alireza Namvar Haghighi said the dispute between the Islamic Republic and the International Atomic Energy Agency over inspections of nuclear facilities is political in nature. He added that there is disagreement within the regime about developing nuclear weapons and some propose leaving the NPT treaty. Namvar Haghighi said increased monitoring capabilities make covert acquisition of nuclear weapons more difficult.",
+        "time": "20:54",
+        "ts": 1795208048
       }
     ],
     "language": "en",
-    "packId": "20261120-125",
-    "sequence": 125,
+    "packId": "20261120-126",
+    "sequence": 126,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:24"
+    "updatedAt": "20:57"
   },
   "verified": true
 }
