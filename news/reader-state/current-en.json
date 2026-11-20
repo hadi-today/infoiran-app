@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-58 seq=58 exp=1795264015",
+      "advancedStatus": "pack_id=20261120-59 seq=59 exp=1795264598",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:26",
+      "lastChecked": "12:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 12:26",
+    "expiresAt": "2026-11-21 12:36",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A resident of Ahvaz sent a video to Iran International showing his purchase receipt, which recorded the price of two packs of lavash bread as 500,000 tomans and the cost of a plastic bag as 5,000 tomans. He said the price of each loaf of bread is 25,000 tomans.",
-        "time": "12:33",
-        "ts": 1795091590
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -875,14 +868,21 @@
         "text": "Mohammad Ali Abtahi, a reformist political activist, said that the Mossad intelligence agency is behind the hardline currents and efforts to remove Masoud Pezeshkian. Abtahi added that this organization, which can identify the sleeping locations of commanders, can also fuel a hardline atmosphere in Iran's political space.",
         "time": "12:23",
         "ts": 1795177416
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A citizen sent a video to Iran International showing items purchased with a two million toman credit from the July ration card for two people and criticized the reduction in purchasing power and government policies. He said the Islamic Republic intends to remove or reduce this amount for some income groups.",
+        "time": "12:31",
+        "ts": 1795177901
       }
     ],
     "language": "en",
-    "packId": "20261120-58",
-    "sequence": 58,
+    "packId": "20261120-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:26"
+    "updatedAt": "12:36"
   },
   "verified": true
 }
