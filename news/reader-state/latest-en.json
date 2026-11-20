@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-35 seq=35 exp=1795255181",
+      "advancedStatus": "pack_id=20261120-36 seq=36 exp=1795255477",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:59",
+      "lastChecked": "10:04",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 09:59",
+    "expiresAt": "2026-11-21 10:04",
     "items": [
       {
         "channel": "Iran International",
@@ -875,14 +875,21 @@
         "text": "The Public Investment Fund Tower in Riyadh was hit by a missile attributed to the Houthis on Thursday, 28 Aban. The attack caused windows on seven to eight floors to break and damaged parts of the building's metal facade. The Saudi-led coalition said it neutralized the missile threat and initial assessments indicate debris fell and caused damage to the building.",
         "time": "09:57",
         "ts": 1795168646
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The IAEA Board of Governors meeting focused on verifying the Islamic Republic's safeguards commitments and Tehran's adherence to UN Security Council resolutions ends today. Rafael Grossi, the agency's director general, reported that inspectors have access to Iran's nuclear facilities except for the Bushehr power plant.",
+        "time": "10:02",
+        "ts": 1795168956
       }
     ],
     "language": "en",
-    "packId": "20261120-35",
-    "sequence": 35,
+    "packId": "20261120-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:59"
+    "updatedAt": "10:04"
   },
   "verified": true
 }
