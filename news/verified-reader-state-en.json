@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-115 seq=115 exp=1795289131",
+      "advancedStatus": "pack_id=20261120-116 seq=116 exp=1795289710",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:25",
+      "lastChecked": "19:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 19:25",
+    "expiresAt": "2026-11-21 19:35",
     "items": [
       {
         "channel": "Iran International",
@@ -826,14 +826,21 @@
         "text": "The head of Tehran City Council's Transportation Commission stated that about 46.5% of Tehran's air pollution is caused by worn-out vehicles. Jafar Tashakkori Hashemi said that about 60 to 70% of Tehran's taxi fleet is also worn out.",
         "time": "19:24",
         "ts": 1795202648
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Nemat Afshar, a resident of Qazvin, has been detained by security forces for 26 days and is currently held in legal limbo in Choubinder prison in Qazvin. According to Harana News Agency, he remains in detention and is kept in judicial uncertainty.",
+        "time": "19:31",
+        "ts": 1795203065
       }
     ],
     "language": "en",
-    "packId": "20261120-115",
-    "sequence": 115,
+    "packId": "20261120-116",
+    "sequence": 116,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:25"
+    "updatedAt": "19:35"
   },
   "verified": true
 }
