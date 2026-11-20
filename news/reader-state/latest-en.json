@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-124 seq=124 exp=1795292111",
+      "advancedStatus": "pack_id=20261120-125 seq=125 exp=1795292696",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:15",
+      "lastChecked": "20:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 20:15",
+    "expiresAt": "2026-11-21 20:24",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Farzin Nadimi said the US, by strengthening its military presence in the region, has the capability to conduct operations on the scale of past wars or even larger. He added that the Israeli army is also operationally ready and may join the US if it initiates operations. Nadimi also said increased IRGC attacks and US economic pressures have destabilized the situation, and both sides are ready for war but do not want to start it.",
-        "time": "20:24",
-        "ts": 1795119857
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -833,14 +826,21 @@
         "text": "Axios reported that Steve Witkoff and Jared Kushner, envoys of Donald Trump, met with senior Qatari officials in Berlin on Thursday, 28 Aban, to discuss resuming nuclear talks between Washington and Tehran. Sheikh Mohammed bin Abdulrahman Al Thani and Ali Al Thawadi attended the meeting. Trump stated that Iran wants a deal but does not accept one that is acceptable to him.",
         "time": "20:07",
         "ts": 1795205229
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Alireza Nourizadeh, director of the Iran and Arab Research Center, said the presence of Kata'ib Hezbollah in Iraq has been questioned. He added that the Popular Mobilization Units should be examined separately, and the units expected to be stationed in Jurf al-Sakhar are probably coordinated with the Iraqi government.",
+        "time": "20:23",
+        "ts": 1795206218
       }
     ],
     "language": "en",
-    "packId": "20261120-124",
-    "sequence": 124,
+    "packId": "20261120-125",
+    "sequence": 125,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:15"
+    "updatedAt": "20:24"
   },
   "verified": true
 }
