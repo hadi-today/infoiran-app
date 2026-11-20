@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-96 seq=96 exp=1795281222",
+      "advancedStatus": "pack_id=20261120-97 seq=97 exp=1795281524",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:13",
+      "lastChecked": "17:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 17:13",
+    "expiresAt": "2026-11-21 17:18",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The death of oil industry workers in a bus rollover accident sparked new protests in Abdanan. Despite memories of the killing of protesters in Dey 1404 and the risks of death, arrest, and torture, the people of Abdanan took to the streets again. Reports indicate security forces clashed with protesters, fired tear gas, shot in the air, and arrested several citizens, including a 15-year-old teenager.",
-        "time": "17:17",
-        "ts": 1795108653
-      },
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "On the evening of Thursday, 28 Aban, following security forces shooting at two citizens riding a motorcycle in Sarbaz County, one person was killed and another injured.",
-        "time": "17:17",
-        "ts": 1795108674
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -833,14 +819,21 @@
         "text": "Karim Bagheri, Persepolis coach, said in a press conference after the match with Paykan that he is not upset by criticisms and that everyone can express their opinion about the team. He also emphasized that his presence in the team has been at the request of various coaches and that past friendships should not influence coaching.",
         "time": "17:08",
         "ts": 1795194512
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Ehsan Zabihzadeh, the spokesperson for the electricity industry, said the SMS sent about power outages in Tehran is related to network repairs and the timing of power outages will be announced. He also mentioned the possibility of planned blackouts starting from the coming weeks. These statements came after media reports about an SMS from the Tehran Electricity Distribution Company regarding two-hour power outages in the capital.",
+        "time": "17:16",
+        "ts": 1795195003
       }
     ],
     "language": "en",
-    "packId": "20261120-96",
-    "sequence": 96,
+    "packId": "20261120-97",
+    "sequence": 97,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:13"
+    "updatedAt": "17:18"
   },
   "verified": true
 }
