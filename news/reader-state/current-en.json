@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-17 seq=17 exp=1795246715",
+      "advancedStatus": "pack_id=20261120-18 seq=18 exp=1795247010",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:38",
+      "lastChecked": "07:43",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 07:38",
+    "expiresAt": "2026-11-21 07:43",
     "items": [
       {
         "channel": "Iran International",
@@ -868,14 +868,21 @@
         "text": "A video sent to Iran International shows a citizen beside a road in northern Iran writing the slogans \"From Savadkuh to Abdanan, my life is for Iran\" and \"Forever and a day, long live the Shah\" on a wall.",
         "time": "07:34",
         "ts": 1795160064
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "In a volatile game, San Antonio Spurs defeated Los Angeles Clippers 124-112 with Victor Wembanyama's brilliance and returned to the top of the Western Conference with 13 wins and 3 losses. Portland Trail Blazers defeated Milwaukee Bucks 124-114 with a three-point storm by Tommie Kamara and recorded their tenth win of the season.",
+        "time": "07:43",
+        "ts": 1795160580
       }
     ],
     "language": "en",
-    "packId": "20261120-17",
-    "sequence": 17,
+    "packId": "20261120-18",
+    "sequence": 18,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:38"
+    "updatedAt": "07:43"
   },
   "verified": true
 }
