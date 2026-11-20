@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-06 seq=6 exp=1795235630",
+      "advancedStatus": "pack_id=20261120-07 seq=7 exp=1795235910",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:33",
+      "lastChecked": "04:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 04:33",
+    "expiresAt": "2026-11-21 04:38",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The Third Committee of the United Nations General Assembly approved a draft resolution condemning the suppression of the protests in Dey 1404 in Iran with 76 votes in favor, 27 against, and 64 abstentions. This resolution was initiated by Canada.",
-        "time": "04:35",
-        "ts": 1795062910
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Mohammad Qaedi, an international relations instructor, said Hezbollah uses diverse financial sources, cash, and cryptocurrencies for funding, in addition to gold transfer networks from Africa and Turkey. He stated that the US is trying to limit these routes, but the extensive financial network of Hezbollah in Latin America, Africa, and other regions has made identifying and blocking all financial sources of the group difficult.",
-        "time": "04:37",
-        "ts": 1795063039
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -854,14 +840,21 @@
         "text": "Omid Memarian, a political analyst, said the transfer of US military equipment from Patriot systems to refueling aircraft to Israel indicates increased readiness for a possible attack scenario on the Islamic Republic. He added that with the closure of the diplomatic channel, the likelihood of war has increased compared to last week, but there is a disagreement between the goals of the US and Israel; Trump seeks a nuclear deal and exit from war, while Netanyahu pressures for another attack.",
         "time": "04:32",
         "ts": 1795149154
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Donald Trump, the President of the United States, said in an interview with Israel's Channel 12 that he has not yet decided on military action against Iran and is not in a hurry to make this decision. The White House has asked intelligence agencies to assess the consequences of various military plans.",
+        "time": "04:34",
+        "ts": 1795149299
       }
     ],
     "language": "en",
-    "packId": "20261120-06",
-    "sequence": 6,
+    "packId": "20261120-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:33"
+    "updatedAt": "04:38"
   },
   "verified": true
 }
