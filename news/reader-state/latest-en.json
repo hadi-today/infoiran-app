@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-61 seq=61 exp=1795266238",
+      "advancedStatus": "pack_id=20261120-62 seq=62 exp=1795266526",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:03",
+      "lastChecked": "13:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 13:03",
+    "expiresAt": "2026-11-21 13:08",
     "items": [
-      {
-        "channel": "Vahid Online",
-        "language": "en",
-        "text": "Reports indicate the possibility of a large-scale renewed attack by the US against Iran. Benjamin Netanyahu, Israel's Prime Minister, has pressured Washington to participate in a four to seven-day airstrike campaign against the Islamic Republic. The Pentagon has deployed extensive military equipment in the region, with bombers on 96-hour alert.",
-        "time": "13:07",
-        "ts": 1795093625
-      },
       {
         "channel": "Vahid Online",
         "language": "en",
@@ -847,14 +840,21 @@
         "text": "A citizen sent a video to Iran International showing items purchased with a two million toman credit from the July ration card for two people and criticized the reduction in purchasing power and government policies. He said the Islamic Republic intends to remove or reduce this amount for some income groups.",
         "time": "12:31",
         "ts": 1795177901
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Homayoun Falakshahi, an oil and energy expert, told Iran International that the US naval blockade has put unprecedented pressure on the Islamic Republic's oil exports. He added that it is unlikely China will risk serious confrontation with Washington to buy Iranian oil.",
+        "time": "13:08",
+        "ts": 1795180090
       }
     ],
     "language": "en",
-    "packId": "20261120-61",
-    "sequence": 61,
+    "packId": "20261120-62",
+    "sequence": 62,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:03"
+    "updatedAt": "13:08"
   },
   "verified": true
 }
