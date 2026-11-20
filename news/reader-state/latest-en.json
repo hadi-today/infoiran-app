@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-97 seq=97 exp=1795281524",
+      "advancedStatus": "pack_id=20261120-98 seq=98 exp=1795281553",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:18",
+      "lastChecked": "17:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 17:18",
+    "expiresAt": "2026-11-21 17:19",
     "items": [
       {
         "channel": "Iran International",
@@ -826,14 +826,21 @@
         "text": "Ehsan Zabihzadeh, the spokesperson for the electricity industry, said the SMS sent about power outages in Tehran is related to network repairs and the timing of power outages will be announced. He also mentioned the possibility of planned blackouts starting from the coming weeks. These statements came after media reports about an SMS from the Tehran Electricity Distribution Company regarding two-hour power outages in the capital.",
         "time": "17:16",
         "ts": 1795195003
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Alireza Zakani, the mayor of Tehran, has spoken about a major plan to build social housing in the capital. Questions have been raised about the fulfillment of his promises, including housing construction and combating air pollution. Political issues in the country and mandatory hijab are also concerns of the mayor of Tehran.",
+        "time": "17:17",
+        "ts": 1795195063
       }
     ],
     "language": "en",
-    "packId": "20261120-97",
-    "sequence": 97,
+    "packId": "20261120-98",
+    "sequence": 98,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:18"
+    "updatedAt": "17:19"
   },
   "verified": true
 }
