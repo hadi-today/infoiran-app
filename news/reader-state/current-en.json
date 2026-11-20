@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-72 seq=72 exp=1795271285",
+      "advancedStatus": "pack_id=20261120-73 seq=73 exp=1795271575",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:28",
+      "lastChecked": "14:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 14:28",
+    "expiresAt": "2026-11-21 14:32",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "The second branch of the Yazd Revolutionary Court issued sentences for four detainees of the January 1404 protests and defendants in the Yazd Telecommunications case. Pouya Fakhrabadi was sentenced to death, and Mehdi Rajabi, Mohammad Kargar, and Mohini Maki each received 20 years of exile imprisonment. These individuals are currently held in Yazd prison.",
-        "time": "14:29",
-        "ts": 1795098599
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "The Swedish Migration Agency announced that it has lifted the temporary restriction on processing asylum applications from Iranians, and cases will now be reviewed individually and under normal procedures. The agency emphasized that if the risk of arrest or torture upon return to Iran is proven, asylum support will be provided to applicants.",
         "time": "14:26",
         "ts": 1795184783
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video received by Iran International shows the trail of a missile fired in the sky over Qeshm on Friday, 29 Aban.",
+        "time": "14:32",
+        "ts": 1795185148
       }
     ],
     "language": "en",
-    "packId": "20261120-72",
-    "sequence": 72,
+    "packId": "20261120-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:28"
+    "updatedAt": "14:32"
   },
   "verified": true
 }
