@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-63 seq=63 exp=1795266816",
+      "advancedStatus": "pack_id=20261120-64 seq=64 exp=1795267133",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:13",
+      "lastChecked": "13:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 13:13",
+    "expiresAt": "2026-11-21 13:18",
     "items": [
       {
         "channel": "Iran International",
@@ -826,14 +826,21 @@
         "text": "The death sentences of Milad Armoon and Navid Najaran, two defendants in the Ekbatan Town case and detainees of the nationwide 1401 protests, were confirmed by the Supreme Court. The death sentences of Mehdi Imani and Seyed Mohammad Mehdi Hosseini were overturned, and their cases were referred to a peer branch for reconsideration. These individuals were sentenced to death in early Khordad by Branch 15 of the Tehran Revolutionary Court on charges of moharebeh.",
         "time": "13:12",
         "ts": 1795180368
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mohammad Baqer Saad Dawood Al-Saadi, accused of leading the plot to attack the British RAF Fairford base, repeatedly disrupted the court session in New York and declared, \"We are Qasem Soleimani's army.\" He denied charges related to terrorist actions. US prosecutors say Al-Saadi used coded language in phone calls from prison with his family to coordinate the October 5 attack on the Fairford airbase.",
+        "time": "13:13",
+        "ts": 1795180430
       }
     ],
     "language": "en",
-    "packId": "20261120-63",
-    "sequence": 63,
+    "packId": "20261120-64",
+    "sequence": 64,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:13"
+    "updatedAt": "13:18"
   },
   "verified": true
 }
