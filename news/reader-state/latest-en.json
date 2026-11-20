@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-70 seq=70 exp=1795269524",
+      "advancedStatus": "pack_id=20261120-71 seq=71 exp=1795270975",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:58",
+      "lastChecked": "14:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 13:58",
+    "expiresAt": "2026-11-21 14:22",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Tina (Tooba) Moradi Moghui, a detainee related to the nationwide protests of Dey 1404, was released from Varamin Qarchak Prison on Tuesday, 26 Aban 1405 under electronic monitoring. Her release was made with a bail of two billion tomans. She will serve the remainder of her sentence outside prison with travel restrictions.",
-        "time": "14:14",
-        "ts": 1795097651
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Mehdi Tartaar, Persepolis coach, denied rumors of discord in his team's locker room in a press conference before the match against Paykan and reported the readiness of national players after international matches. He emphasized that Persepolis must win this match and also commented on the injured players and the possibility of hiring a foreign assistant.",
-        "time": "14:14",
-        "ts": 1795097693
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -854,14 +840,21 @@
         "text": "A video sent to Iran International shows one of the protesters in Shiraz writing the slogan \"Long live the Shah\" on the wall of a public street in the city.",
         "time": "13:54",
         "ts": 1795182870
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mohammad Javad Akbarin, a member of the Iran International editorial team, said the arrest and trial of Hezbollah members indicate a change in the political and legal conditions in Lebanon. He added that Israel monitors Hezbollah's movements throughout Lebanon and does not allow the group to rebuild its military strength by transferring forces and equipment from the south to other areas.",
+        "time": "14:18",
+        "ts": 1795184315
       }
     ],
     "language": "en",
-    "packId": "20261120-70",
-    "sequence": 70,
+    "packId": "20261120-71",
+    "sequence": 71,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:58"
+    "updatedAt": "14:22"
   },
   "verified": true
 }
