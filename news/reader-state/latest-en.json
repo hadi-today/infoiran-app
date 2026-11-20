@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-26 seq=26 exp=1795252226",
+      "advancedStatus": "pack_id=20261120-28 seq=28 exp=1795252819",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:10",
+      "lastChecked": "09:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 09:10",
+    "expiresAt": "2026-11-21 09:20",
     "items": [
       {
         "channel": "Iran International",
@@ -847,14 +847,28 @@
         "text": "Abbas Araghchi, the Foreign Minister of the Islamic Republic, said on Friday, 29 Aban, that the Islamic Republic will make every effort for oil exports and negotiations amid reports of loading Iranian oil for export. He also said, \"The blockade must be broken.\"",
         "time": "09:08",
         "ts": 1795165711
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "On Wednesday, 27 Aban, an oil tanker near the coast of Khasab, Oman was targeted by an unknown projectile, causing smoke to rise from the sea surface. The UK Maritime Trade Operations stated the tanker was targeted while exiting the Strait of Hormuz, six nautical miles north of Khasab. All crew members are safe, but the extent of damage and potential environmental pollution are still unknown.",
+        "time": "09:08",
+        "ts": 1795165739
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "According to information received by Iran International, Abuzar Bargahi, a royalist civil activist and one of the detainees of the December protests, was arrested to serve a five-year prison sentence and transferred to Adelabad Prison in Shiraz. A knowledgeable source said Bargahi was arrested on 7 Aban while giving flowers to citizens in front of his flower shop. This civil activist was initially sentenced to 9 years in prison, but the sentence was reduced to five years in the appeals court.",
+        "time": "09:15",
+        "ts": 1795166109
       }
     ],
     "language": "en",
-    "packId": "20261120-26",
-    "sequence": 26,
+    "packId": "20261120-28",
+    "sequence": 28,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:10"
+    "updatedAt": "09:20"
   },
   "verified": true
 }
