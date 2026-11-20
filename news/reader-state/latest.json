@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-55 seq=55 exp=1795263100",
+      "advancedStatus": "pack_id=20261120-56 seq=56 exp=1795263408",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:11",
+      "lastChecked": "12:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 12:11",
+    "expiresAt": "2026-11-21 12:16",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -724,6 +724,12 @@
         "ts": 1795175374
       },
       {
+        "channel": "خبرگزاری هرانا",
+        "text": "دادستان عمومی و انقلاب اشنویه از بازداشت شش متهم در پرونده تعرض جنسی به یک زن دارای معلولیت در این شهرستان خبر داد. برای این افراد کیفرخواست صادر شده و پرونده آنها به دادگاه ارسال شده است.",
+        "time": "12:03",
+        "ts": 1795176197
+      },
+      {
         "channel": "ایران اینترنشنال",
         "text": "امین حیان، مدیر دفتر یحیی سریع، سخنگوی حوثی‌های مورد حمایت جمهوری اسلامی، اعلام کرد که نیروگاه برق الشقیق در عربستان سعودی طی ساعات آینده هدف حمله حوثی‌ها قرار خواهد گرفت. به گفته سریع، این حمله در پاسخ به حملات ائتلاف به رهبری عربستان سعودی به نیروگاه‌های برق صعده و المخا در یمن انجام خواهد شد.",
         "time": "12:05",
@@ -736,11 +742,11 @@
         "ts": 1795176594
       }
     ],
-    "packId": "20261120-55",
-    "sequence": 55,
+    "packId": "20261120-56",
+    "sequence": 56,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "12:11"
+    "updatedAt": "12:16"
   },
   "verified": true
 }
