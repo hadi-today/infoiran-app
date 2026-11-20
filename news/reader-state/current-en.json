@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-112 seq=112 exp=1795287937",
+      "advancedStatus": "pack_id=20261120-113 seq=113 exp=1795287963",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:05",
+      "lastChecked": "19:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 19:05",
+    "expiresAt": "2026-11-21 19:06",
     "items": [
       {
         "channel": "HRANA",
@@ -833,14 +833,21 @@
         "text": "A citizen sent a video to Iran International, saying about the rising prices in Iran: \"One kilogram of tomatoes and one kilogram of onions cost 373,000 tomans. Damn the Islamic Republic.\"",
         "time": "19:01",
         "ts": 1795201285
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A relative of Soogand Sayyadi's family, a 16-year-old teenager from Kermanshah, said her father went to the school on the day of her death, beat her, took her school records, and threw her out of the window. The Kermanshah prosecutor confirmed that judicial investigations against Soogand's father are underway with charges including assault and murder, but the suicide hypothesis is also being examined. This source linked the violence on the day of death to years of beatings and threats by the father.",
+        "time": "19:02",
+        "ts": 1795201374
       }
     ],
     "language": "en",
-    "packId": "20261120-112",
-    "sequence": 112,
+    "packId": "20261120-113",
+    "sequence": 113,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:05"
+    "updatedAt": "19:06"
   },
   "verified": true
 }
