@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-54 seq=54 exp=1795263093",
+      "advancedStatus": "pack_id=20261120-56 seq=56 exp=1795263408",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:11",
+      "lastChecked": "12:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 12:11",
+    "expiresAt": "2026-11-21 12:16",
     "items": [
       {
         "channel": "Iran International",
@@ -842,19 +842,33 @@
         "ts": 1795175374
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The public and revolutionary prosecutor of Oshnavieh announced the arrest of six suspects in the case of sexual assault on a woman with a disability in this county. Indictments have been issued for these individuals and their case has been sent to court for trial.",
+        "time": "12:03",
+        "ts": 1795176197
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Amin Hayyan, the office manager of Yahya Saree, the spokesperson for the Houthis supported by the Islamic Republic, announced that the Al-Shuqaiq power plant in Saudi Arabia will be targeted by the Houthis \"within the next few hours.\" According to Saree, this attack will be \"in response to the coalition led by Saudi Arabia's attacks on the Saada and Al-Mokha power plants in Yemen.\"",
         "time": "12:05",
         "ts": 1795176327
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Two British men appeared today at the Old Bailey court in London in connection with the Fairford airbase incident. Prosecutors have accused one of them of cooperating with the intelligence service of a foreign country and the other of unauthorized entry into a restricted area with the intent to act against the security of Britain. Police consider this incident an operation in line with the interests of the Islamic Republic's intelligence service.",
+        "time": "12:09",
+        "ts": 1795176594
       }
     ],
     "language": "en",
-    "packId": "20261120-54",
-    "sequence": 54,
+    "packId": "20261120-56",
+    "sequence": 56,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:11"
+    "updatedAt": "12:16"
   },
   "verified": true
 }
