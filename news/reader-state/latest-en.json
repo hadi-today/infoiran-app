@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-80 seq=80 exp=1795273684",
+      "advancedStatus": "pack_id=20261120-81 seq=81 exp=1795274267",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:08",
+      "lastChecked": "15:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 15:08",
+    "expiresAt": "2026-11-21 15:17",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Masoud Pezeshkian, head of the Islamic Republic government, made recommendations to the public to reduce energy consumption and made remarks about sleeping with a jacket, which sparked reactions from citizens. Several viewers sent messages to Iran International's media platform criticizing him. One citizen said Pezeshkian sleeps with a jacket and clothes on so that if necessary, he can take shelter in a tunnel or bunker.",
-        "time": "15:10",
-        "ts": 1795101012
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -833,14 +826,21 @@
         "text": "A citizen criticized the scarcity and high price of the drug \"Asentra\" in a video sent to Iran International. He said this medicine is essential for neurological and psychiatric diseases and its price has reached 30,000 tomans per pill. He also referred to the government's performance, saying those who make a fuss over a single hair of girls see what people are suffering.",
         "time": "14:59",
         "ts": 1795186798
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "It was reported that at 18:45 an explosion occurred in the area of Qeshm city. It was also reported that a missile hit the Qeshm air defense.",
+        "time": "15:17",
+        "ts": 1795187838
       }
     ],
     "language": "en",
-    "packId": "20261120-80",
-    "sequence": 80,
+    "packId": "20261120-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:08"
+    "updatedAt": "15:17"
   },
   "verified": true
 }
