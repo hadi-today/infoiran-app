@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-111 seq=111 exp=1795287624",
+      "advancedStatus": "pack_id=20261120-112 seq=112 exp=1795287937",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:00",
+      "lastChecked": "19:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 19:00",
+    "expiresAt": "2026-11-21 19:05",
     "items": [
       {
         "channel": "HRANA",
@@ -826,14 +826,21 @@
         "text": "A video shows a group of people in Mormori, Abdanan County, coming to the streets on the evening of Friday, 29 Aban, chanting slogans such as \"Long live the Shah\" and \"This is the last battle, Pahlavi will return.\"",
         "time": "18:53",
         "ts": 1795200827
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A citizen sent a video to Iran International, saying about the rising prices in Iran: \"One kilogram of tomatoes and one kilogram of onions cost 373,000 tomans. Damn the Islamic Republic.\"",
+        "time": "19:01",
+        "ts": 1795201285
       }
     ],
     "language": "en",
-    "packId": "20261120-111",
-    "sequence": 111,
+    "packId": "20261120-112",
+    "sequence": 112,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:00"
+    "updatedAt": "19:05"
   },
   "verified": true
 }
