@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-71 seq=71 exp=1795270975",
+      "advancedStatus": "pack_id=20261120-72 seq=72 exp=1795271285",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:22",
+      "lastChecked": "14:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 14:22",
+    "expiresAt": "2026-11-21 14:28",
     "items": [
       {
         "channel": "HRANA",
@@ -847,14 +847,21 @@
         "text": "Mohammad Javad Akbarin, a member of the Iran International editorial team, said the arrest and trial of Hezbollah members indicate a change in the political and legal conditions in Lebanon. He added that Israel monitors Hezbollah's movements throughout Lebanon and does not allow the group to rebuild its military strength by transferring forces and equipment from the south to other areas.",
         "time": "14:18",
         "ts": 1795184315
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Swedish Migration Agency announced that it has lifted the temporary restriction on processing asylum applications from Iranians, and cases will now be reviewed individually and under normal procedures. The agency emphasized that if the risk of arrest or torture upon return to Iran is proven, asylum support will be provided to applicants.",
+        "time": "14:26",
+        "ts": 1795184783
       }
     ],
     "language": "en",
-    "packId": "20261120-71",
-    "sequence": 71,
+    "packId": "20261120-72",
+    "sequence": 72,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:22"
+    "updatedAt": "14:28"
   },
   "verified": true
 }
