@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-41 seq=41 exp=1795257541",
+      "advancedStatus": "pack_id=20261120-42 seq=42 exp=1795257840",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:39",
+      "lastChecked": "10:44",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 10:39",
+    "expiresAt": "2026-11-21 10:44",
     "items": [
       {
         "channel": "Iran International",
@@ -882,14 +882,21 @@
         "text": "Mohammad Javad Haj Ali Akbari, the temporary Friday prayer leader of Tehran, announced that the armed forces have an order for unlimited and borderless action at a designated time. He said that if hostile actions are repeated, the armed forces will be ready to confront any scenario. He also added that the presence of US warships and military forces in the region is a sign of their pressure and erosion.",
         "time": "10:33",
         "ts": 1795170826
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Bloomberg reported, quoting a senior Israeli Air Force official, that extensive missile attacks by the Islamic Republic during the war revealed weaknesses in Israel's air defense systems but also provided extensive information used to upgrade these systems. The official said the Israeli army was able to upgrade its defense systems within a few days. The 'David's Sling' system was also improved to counter a wider range of ballistic threats and now can handle continuous attacks lasting several weeks.",
+        "time": "10:41",
+        "ts": 1795171314
       }
     ],
     "language": "en",
-    "packId": "20261120-41",
-    "sequence": 41,
+    "packId": "20261120-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:39"
+    "updatedAt": "10:44"
   },
   "verified": true
 }
