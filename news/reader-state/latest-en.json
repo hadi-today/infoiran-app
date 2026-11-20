@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261120-103 seq=103 exp=1795284161",
+      "advancedStatus": "pack_id=20261120-104 seq=104 exp=1795284450",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:02",
+      "lastChecked": "18:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-20",
-    "expiresAt": "2026-11-21 18:02",
+    "expiresAt": "2026-11-21 18:07",
     "items": [
       {
         "channel": "HRANA",
@@ -819,14 +819,21 @@
         "text": "A citizen sent a video to Iran International showing the grave of Mohsen Mohammadi Kuchaksaraei, a protester killed in the Mahsa uprising, and said: \"We will soon take revenge for each and every one of you.\" This protester was killed on 30 Shahrivar 1401 in Qaemshahr.",
         "time": "18:00",
         "ts": 1795197608
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "In the past week, the main environmental news included the arrest of illegal hunters and fishermen, discovery of smuggled wood, ongoing air pollution in Tehran, Isfahan, and Khuzestan, closure of illegal wells, warnings about land subsidence, and actions against polluting units. This report is based on media and institutional reports and covers 126 independent environmental news items. Air pollution reached very unhealthy levels in several cities, and illegal wells were closed during a nationwide water and electricity operation.",
+        "time": "18:03",
+        "ts": 1795197805
       }
     ],
     "language": "en",
-    "packId": "20261120-103",
-    "sequence": 103,
+    "packId": "20261120-104",
+    "sequence": 104,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:02"
+    "updatedAt": "18:07"
   },
   "verified": true
 }
