@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261121-89 seq=89 exp=1795363953",
+      "advancedStatus": "pack_id=20261121-90 seq=90 exp=1795364255",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:12",
+      "lastChecked": "16:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-21",
-    "expiresAt": "2026-11-22 16:12",
+    "expiresAt": "2026-11-22 16:17",
     "items": [
       {
         "channel": "HRANA",
@@ -805,14 +805,21 @@
         "text": "A group of members of the youth wing of the Indian National Congress party attacked the offices of Meta in Hyderabad. This action was taken in protest against the deletion of some party members' accounts from the social network Instagram.",
         "time": "16:11",
         "ts": 1795277473
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Qatar's Foreign Ministry announced on Saturday, 30 Aban, that Germany and Qatar, in a joint statement after Sheikh Tamim bin Hamad Al Thani's visit to Berlin, emphasized the need to end threats from ballistic missile use to maintain regional security and stability. The two countries condemned the Islamic Republic's attacks and threats against commercial ships and firmly opposed any action leading to the closure of the Strait of Hormuz. Qatar and Germany also called for an end to support, financing, and arming of armed groups affiliated with the Islamic Republic in the region and urged the Islamic Republic to stop arming and supporting the Houthi group.",
+        "time": "16:15",
+        "ts": 1795277747
       }
     ],
     "language": "en",
-    "packId": "20261121-89",
-    "sequence": 89,
+    "packId": "20261121-90",
+    "sequence": 90,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:12"
+    "updatedAt": "16:17"
   },
   "verified": true
 }
