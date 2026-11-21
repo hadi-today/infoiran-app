@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261121-06 seq=6 exp=1795322101",
+      "advancedStatus": "pack_id=20261121-07 seq=7 exp=1795322367",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:35",
+      "lastChecked": "04:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-21",
-    "expiresAt": "2026-11-22 04:35",
+    "expiresAt": "2026-11-22 04:39",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Ghassan Ashour, a Middle East analyst, said that handing over control of Jurf al-Sakhar to Iraqi security forces weakens the political, security, and economic power of Kata'ib Hezbollah. According to him, this area was the only region in Iraq that the group had full control over and used it for economic activities and oil transfer.",
-        "time": "04:36",
-        "ts": 1795149415
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -819,14 +812,21 @@
         "text": "China emphasized the role of cultural heritage and mutual understanding among nations in strengthening regional cooperation through cultural programs on the sidelines of the APEC meeting. These programs were held to show the link between culture, cooperation, and shared progress.",
         "time": "04:31",
         "ts": 1795235494
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Reports about the possibility of the Islamic Republic attacking the US capital with a \"dirty bomb\" have received widespread attention recently. Donald Trump says the US is aware of the Islamic Republic's movements and will not allow such an action. The Islamic Republic has called these reports baseless and fabricated, considering their publication an attempt to justify further military attacks on Iran.",
+        "time": "04:36",
+        "ts": 1795235799
       }
     ],
     "language": "en",
-    "packId": "20261121-06",
-    "sequence": 6,
+    "packId": "20261121-07",
+    "sequence": 7,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:35"
+    "updatedAt": "04:39"
   },
   "verified": true
 }
