@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261121-04 seq=4 exp=1795317500",
+      "advancedStatus": "pack_id=20261121-05 seq=5 exp=1795322078",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "03:18",
+      "lastChecked": "04:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-21",
-    "expiresAt": "2026-11-22 03:18",
+    "expiresAt": "2026-11-22 04:34",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Omid Memarian, a political analyst, said the transfer of US military equipment from Patriot systems to refueling aircraft to Israel indicates increased readiness for a possible attack scenario on the Islamic Republic. He added that with the closure of the diplomatic channel, the likelihood of war has increased compared to last week, but there is a disagreement between the goals of the US and Israel; Trump seeks a nuclear deal and exit from war, while Netanyahu pressures for another attack.",
-        "time": "04:32",
-        "ts": 1795149154
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -819,14 +812,21 @@
         "text": "Scott Busent, the US Treasury Secretary, wrote on X that the Islamic Republic's offshore oil reserves have run out and the regime may never receive revenue from oil previously sold. He also wrote that the authoritarian regime of the Islamic Republic always prioritizes its own interests over those of its citizens, even when ordinary Iranians face shortages of bread and fuel.",
         "time": "03:15",
         "ts": 1795230956
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Donald Trump, the President of the United States, emphasized that he will not allow Iran to obtain nuclear weapons. He said Tehran wants an agreement but is not willing to accept one that is acceptable to Washington.",
+        "time": "04:30",
+        "ts": 1795235421
       }
     ],
     "language": "en",
-    "packId": "20261121-04",
-    "sequence": 4,
+    "packId": "20261121-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "03:18"
+    "updatedAt": "04:34"
   },
   "verified": true
 }
