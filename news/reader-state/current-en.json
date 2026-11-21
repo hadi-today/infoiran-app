@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261121-41 seq=41 exp=1795345549",
+      "advancedStatus": "pack_id=20261121-42 seq=42 exp=1795345576",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:05",
+      "lastChecked": "11:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-21",
-    "expiresAt": "2026-11-22 11:05",
+    "expiresAt": "2026-11-22 11:06",
     "items": [
       {
         "channel": "Iran International",
@@ -770,14 +770,21 @@
         "text": "The spokesperson of the Flour and Bread Council said that bread rationing is not on the agenda, despite widespread reactions to the flour and bread crisis and reports of bread rationing in Iran. The government has started a plan to counter what it calls abnormal bread purchases in seven provinces.",
         "time": "11:02",
         "ts": 1795258926
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Public Relations of the Navy of the Islamic Republic Army announced that a tanker, described as \"violating regulations,\" entered the prohibited area east of the Strait of Hormuz after turning off its identification and navigation systems, and caught fire after hitting a naval mine. Previously, the UK Maritime Trade Operations Center reported two attacks on tankers near the coasts of Oman and in the Strait of Hormuz area.",
+        "time": "11:03",
+        "ts": 1795259000
       }
     ],
     "language": "en",
-    "packId": "20261121-41",
-    "sequence": 41,
+    "packId": "20261121-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:05"
+    "updatedAt": "11:06"
   },
   "verified": true
 }
