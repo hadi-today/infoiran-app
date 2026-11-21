@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261121-26 seq=26 exp=1795335115",
+      "advancedStatus": "pack_id=20261121-27 seq=27 exp=1795336253",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:11",
+      "lastChecked": "08:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-21",
-    "expiresAt": "2026-11-22 08:11",
+    "expiresAt": "2026-11-22 08:30",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Sky News reported, quoting Rob Magowan, commander of cyber and specialist operations of the British Army, that the UK is conducting offensive cyber operations against the Islamic Republic, Russia, China, and North Korea. Magowan described cyber threats against the UK as \"significant\" and said these countries must know that cyber operations against the UK will have a cost. He also said the UK is not at war but is in a cyber gray zone and that the UK's National Cyber Force has the capability to infiltrate enemy networks.",
-        "time": "08:30",
-        "ts": 1795163424
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "A report states that at least five citizens, including three women, were arrested by security forces in Iranshahr on Thursday, 21 Aban. These individuals were transferred to an unknown location, and after 10 days since their arrest, no information about their fate or place of detention is available.",
         "time": "08:08",
         "ts": 1795248482
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Masoud Pezeshkian, the head of the Islamic Republic government, said on Saturday, 30 Aban, at the annual Iran capital market conference: \"As long as we want to insult our neighbors, we cannot trade with them.\"",
+        "time": "08:30",
+        "ts": 1795249806
       }
     ],
     "language": "en",
-    "packId": "20261121-26",
-    "sequence": 26,
+    "packId": "20261121-27",
+    "sequence": 27,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:11"
+    "updatedAt": "08:30"
   },
   "verified": true
 }
