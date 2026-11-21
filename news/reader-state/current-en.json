@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261121-47 seq=47 exp=1795348133",
+      "advancedStatus": "pack_id=20261121-48 seq=48 exp=1795348155",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:48",
+      "lastChecked": "11:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-21",
-    "expiresAt": "2026-11-22 11:48",
+    "expiresAt": "2026-11-22 11:49",
     "items": [
       {
         "channel": "Iran International",
@@ -770,14 +770,21 @@
         "text": "Iraqi officials reported an explosion at the Al-Hartha power plant in northern Basra. At least four people have been killed and 30 injured as a result of this explosion that occurred on the morning of Saturday, 30 Aban.",
         "time": "11:46",
         "ts": 1795261578
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mohammad Alidad, CEO of Tavanir Company, said on Saturday, 30 Aban, that part of the country's diesel reserves was lost during the war and if the current consumption trend continues, electricity restrictions will be implemented with planning and notification. He warned that electricity for residential, commercial, and administrative consumers who significantly exceed consumption patterns may be cut off for several weeks in the next four months. He also stated that offenders involved in electricity theft, unauthorized cryptocurrency mining, and tampering with electrical equipment will face power cuts, heavy fines, and even disconnection.",
+        "time": "11:47",
+        "ts": 1795261648
       }
     ],
     "language": "en",
-    "packId": "20261121-47",
-    "sequence": 47,
+    "packId": "20261121-48",
+    "sequence": 48,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:48"
+    "updatedAt": "11:49"
   },
   "verified": true
 }
