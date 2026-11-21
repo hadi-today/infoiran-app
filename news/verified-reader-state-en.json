@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261121-40 seq=40 exp=1795345243",
+      "advancedStatus": "pack_id=20261121-41 seq=41 exp=1795345549",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:00",
+      "lastChecked": "11:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-21",
-    "expiresAt": "2026-11-22 11:00",
+    "expiresAt": "2026-11-22 11:05",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Kazem Nourmofidi, the representative of the Supreme Leader in Golestan province, asked people to help manage energy consumption and ensure stable gas supply by reducing heating device temperatures by three degrees. He said if Tehran, Alborz, and Semnan provinces save gas consumption, better gas supply for northern provinces will be possible. Nourmofidi added that in the short remaining time, full compensation of this reduction through increased production is not possible and consumption management must be used.",
-        "time": "11:04",
-        "ts": 1795172665
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -770,14 +763,21 @@
         "text": "A video received shows a student in Shiraz writing the slogans \"Long live the Shah\" and \"Rise up Iran\" on a wall.",
         "time": "10:31",
         "ts": 1795257074
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The spokesperson of the Flour and Bread Council said that bread rationing is not on the agenda, despite widespread reactions to the flour and bread crisis and reports of bread rationing in Iran. The government has started a plan to counter what it calls abnormal bread purchases in seven provinces.",
+        "time": "11:02",
+        "ts": 1795258926
       }
     ],
     "language": "en",
-    "packId": "20261121-40",
-    "sequence": 40,
+    "packId": "20261121-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:00"
+    "updatedAt": "11:05"
   },
   "verified": true
 }
