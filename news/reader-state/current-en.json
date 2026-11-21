@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261121-67 seq=67 exp=1795356221",
+      "advancedStatus": "pack_id=20261121-68 seq=68 exp=1795356804",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:03",
+      "lastChecked": "14:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-21",
-    "expiresAt": "2026-11-22 14:03",
+    "expiresAt": "2026-11-22 14:13",
     "items": [
       {
         "channel": "Iran International",
@@ -763,14 +763,21 @@
         "text": "A number of Iranians residing in Finland gathered in Helsinki on November 21 to support the national revolution and Prince Reza Pahlavi. The attendees condemned the Islamic Republic and chanted the names of those who died in the protests in Iran.",
         "time": "14:01",
         "ts": 1795269685
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Rafael Nadal, the Spanish tennis legend, joined the Real Madrid board at the club's general assembly at the request of Florentino Pérez, the club president. Pérez said Nadal is an honorary member of Real Madrid and his presence will be an honor for the club. This appointment will be put to a vote for final approval by the club's general assembly of representatives.",
+        "time": "14:08",
+        "ts": 1795270123
       }
     ],
     "language": "en",
-    "packId": "20261121-67",
-    "sequence": 67,
+    "packId": "20261121-68",
+    "sequence": 68,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:03"
+    "updatedAt": "14:13"
   },
   "verified": true
 }
