@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261121-05 seq=5 exp=1795322078",
+      "advancedStatus": "pack_id=20261121-06 seq=6 exp=1795322101",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:34",
+      "lastChecked": "04:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-21",
-    "expiresAt": "2026-11-22 04:34",
+    "expiresAt": "2026-11-22 04:35",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Donald Trump, the President of the United States, said in an interview with Israel's Channel 12 that he has not yet decided on military action against Iran and is not in a hurry to make this decision. The White House has asked intelligence agencies to assess the consequences of various military plans.",
-        "time": "04:34",
-        "ts": 1795149299
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -819,14 +812,21 @@
         "text": "Donald Trump, the President of the United States, emphasized that he will not allow Iran to obtain nuclear weapons. He said Tehran wants an agreement but is not willing to accept one that is acceptable to Washington.",
         "time": "04:30",
         "ts": 1795235421
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "China emphasized the role of cultural heritage and mutual understanding among nations in strengthening regional cooperation through cultural programs on the sidelines of the APEC meeting. These programs were held to show the link between culture, cooperation, and shared progress.",
+        "time": "04:31",
+        "ts": 1795235494
       }
     ],
     "language": "en",
-    "packId": "20261121-05",
-    "sequence": 5,
+    "packId": "20261121-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:34"
+    "updatedAt": "04:35"
   },
   "verified": true
 }
