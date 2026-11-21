@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261121-01 seq=1 exp=1795306167",
+      "advancedStatus": "pack_id=20261121-02 seq=2 exp=1795307807",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "00:09",
+      "lastChecked": "00:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-21",
-    "expiresAt": "2026-11-22 00:09",
+    "expiresAt": "2026-11-22 00:36",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The International Energy Agency said on Thursday that global energy markets may never return to their pre-Iran war structure. The agency stated that countries' actions to secure energy in response to the Iran war could reduce global oil demand by more than four percent by 2035.",
-        "time": "00:33",
-        "ts": 1795134810
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -819,14 +812,21 @@
         "text": "The office of Prince Reza Pahlavi has warned about the risk of execution for Pouya Fakhrabadi, a taekwondo champion. His death sentence was issued in a show trial based on fabricated charges, and he was deprived of having a lawyer and the right to defense. According to information, the second branch of the Yazd Revolutionary Court sentenced him to death and three other defendants to 20 years of exile imprisonment each.",
         "time": "00:06",
         "ts": 1795219584
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The spokesperson of the Saudi-led coalition announced that three ballistic missiles launched by the Houthis were intercepted and destroyed en route to Riyadh. The recent wave of drone and missile attacks by the Houthis on the Saudi capital has been widely condemned internationally. On Thursday, 28 Aban, a Houthi missile attack on Riyadh's tallest skyscraper caused material damage but no injuries were reported.",
+        "time": "00:33",
+        "ts": 1795221184
       }
     ],
     "language": "en",
-    "packId": "20261121-01",
-    "sequence": 1,
+    "packId": "20261121-02",
+    "sequence": 2,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "00:09"
+    "updatedAt": "00:36"
   },
   "verified": true
 }
