@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261121-33 seq=33 exp=1795339930",
+      "advancedStatus": "pack_id=20261121-34 seq=34 exp=1795340203",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:32",
+      "lastChecked": "09:36",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-21",
-    "expiresAt": "2026-11-22 09:32",
+    "expiresAt": "2026-11-22 09:36",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A video sent to Iran International shows a fruit vendor protesting the tax set for his business. He points to the costs of house rent and car insurance and says, \"How much profit does our load have that the government sets taxes of tens of millions of tomans for it?\"",
-        "time": "09:35",
-        "ts": 1795167302
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -819,14 +812,21 @@
         "text": "Ali Sadrozadeh, journalist and political analyst, said that signs of a new round of military clashes are stronger than signs of preventing war. He emphasized that Hezbollah, unlike the previous round of clashes, does not have the past military capability to enter a war. The US has also asked the Lebanese government to prevent Hezbollah from entering a possible war.",
         "time": "09:31",
         "ts": 1795253468
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "According to some government media, Donald Trump, the President of the United States, was arrested during a \"special symbolic operation\" in Mashhad.",
+        "time": "09:33",
+        "ts": 1795253608
       }
     ],
     "language": "en",
-    "packId": "20261121-33",
-    "sequence": 33,
+    "packId": "20261121-34",
+    "sequence": 34,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:32"
+    "updatedAt": "09:36"
   },
   "verified": true
 }
