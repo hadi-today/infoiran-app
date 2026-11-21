@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261121-32 seq=32 exp=1795339906",
+      "advancedStatus": "pack_id=20261121-33 seq=33 exp=1795339930",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:31",
+      "lastChecked": "09:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-21",
-    "expiresAt": "2026-11-22 09:31",
+    "expiresAt": "2026-11-22 09:32",
     "items": [
       {
         "channel": "Iran International",
@@ -812,14 +812,21 @@
         "text": "A video sent to Iran International shows graffiti supporting Prince Reza Pahlavi in the Kian Shahr neighborhood of Tehran; slogans are written next to a metro station and on the wall of a school.",
         "time": "09:30",
         "ts": 1795253433
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Ali Sadrozadeh, journalist and political analyst, said that signs of a new round of military clashes are stronger than signs of preventing war. He emphasized that Hezbollah, unlike the previous round of clashes, does not have the past military capability to enter a war. The US has also asked the Lebanese government to prevent Hezbollah from entering a possible war.",
+        "time": "09:31",
+        "ts": 1795253468
       }
     ],
     "language": "en",
-    "packId": "20261121-32",
-    "sequence": 32,
+    "packId": "20261121-33",
+    "sequence": 33,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:31"
+    "updatedAt": "09:32"
   },
   "verified": true
 }
