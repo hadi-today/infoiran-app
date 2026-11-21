@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261121-08 seq=8 exp=1795322390",
+      "advancedStatus": "pack_id=20261121-09 seq=9 exp=1795322947",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "04:39",
+      "lastChecked": "04:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-21",
-    "expiresAt": "2026-11-22 04:39",
+    "expiresAt": "2026-11-22 04:49",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Shahir Shahid Thalath said the transfer of US Patriot systems and refueling aircraft to Israel is more precautionary and defensive than preparation for an attack on the Islamic Republic. He emphasized that the US is trying to keep its military equipment out of reach of the Islamic Republic due to the possibility of escalating conflict.",
-        "time": "04:44",
-        "ts": 1795149872
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -826,14 +819,21 @@
         "text": "Siamak Aram, a political analyst, said Tehran has not changed its positions regarding enriched uranium and negotiation conditions. He believes the Islamic Republic seeks more to guarantee regime survival and finance the war than to improve economic conditions for the people. Aram also emphasized that the status of neither war nor peace could deepen political divides within the Islamic Republic.",
         "time": "04:38",
         "ts": 1795235912
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Only one day after the largest initial public offering in the history of the US stock market, Anthropic's stock value fell and a wave of technology stock declines swept Wall Street. These developments have increased concerns about the formation of an artificial intelligence bubble and the possibility of its bursting in financial markets.",
+        "time": "04:47",
+        "ts": 1795236479
       }
     ],
     "language": "en",
-    "packId": "20261121-08",
-    "sequence": 8,
+    "packId": "20261121-09",
+    "sequence": 9,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "04:39"
+    "updatedAt": "04:49"
   },
   "verified": true
 }
