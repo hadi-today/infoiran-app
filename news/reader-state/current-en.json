@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261121-25 seq=25 exp=1795334555",
+      "advancedStatus": "pack_id=20261121-26 seq=26 exp=1795335115",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:02",
+      "lastChecked": "08:11",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-21",
-    "expiresAt": "2026-11-22 08:02",
+    "expiresAt": "2026-11-22 08:11",
     "items": [
       {
         "channel": "Iran International",
@@ -847,14 +847,21 @@
         "text": "Ruhollah Rahimpour, a journalist and political analyst, said that a war before the formation of the new US Congress could have a lower political cost for Trump. He added that Netanyahu prefers to launch a broad attack against the Islamic Republic before the formation of the new Israeli government, with the help of the US.",
         "time": "07:59",
         "ts": 1795247955
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "A report states that at least five citizens, including three women, were arrested by security forces in Iranshahr on Thursday, 21 Aban. These individuals were transferred to an unknown location, and after 10 days since their arrest, no information about their fate or place of detention is available.",
+        "time": "08:08",
+        "ts": 1795248482
       }
     ],
     "language": "en",
-    "packId": "20261121-25",
-    "sequence": 25,
+    "packId": "20261121-26",
+    "sequence": 26,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:02"
+    "updatedAt": "08:11"
   },
   "verified": true
 }
