@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261121-62 seq=62 exp=1795354749",
+      "advancedStatus": "pack_id=20261121-64 seq=64 exp=1795355350",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:39",
+      "lastChecked": "13:49",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-21",
-    "expiresAt": "2026-11-22 13:39",
+    "expiresAt": "2026-11-22 13:49",
     "items": [
       {
         "channel": "Iran International",
@@ -742,14 +742,28 @@
         "text": "A video received by Iran International shows that a citizen wrote the slogan \"Long live the Shah\" on a wall in Fooladshahr, Isfahan.",
         "time": "13:33",
         "ts": 1795268030
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Iranian protesters residing in Sweden gathered again in central Stockholm on Saturday, 30 Aban, continuing 325 days of protest in solidarity with the people of Iran to raise their voices against the Islamic Republic and support people inside Iran to the international community. These protests have been held for nearly a year in the streets of Stockholm. Mahan Baghdadi said the persistence of the Iranian people after the Dey protests motivates Iranians abroad to reflect their voices.",
+        "time": "13:34",
+        "ts": 1795268063
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Ahmad Vahidi, the commander of the Islamic Revolutionary Guard Corps, visited the missile city of the IRGC for the first time. During this visit, along with Majid Mousavi, the commander of the IRGC Aerospace Force, a new launcher capable of carrying two missiles was unveiled.",
+        "time": "13:47",
+        "ts": 1795268833
       }
     ],
     "language": "en",
-    "packId": "20261121-62",
-    "sequence": 62,
+    "packId": "20261121-64",
+    "sequence": 64,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:39"
+    "updatedAt": "13:49"
   },
   "verified": true
 }
