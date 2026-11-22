@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261122-15 seq=15 exp=1795454513",
+      "advancedStatus": "pack_id=20261122-16 seq=16 exp=1795454521",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:21",
+      "lastChecked": "17:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-22",
-    "expiresAt": "2026-11-23 17:21",
+    "expiresAt": "2026-11-23 17:22",
     "items": [
       {
         "channel": "Iran International",
@@ -116,17 +116,24 @@
       {
         "channel": "Iran International",
         "language": "en",
+        "text": "According to videos received by Iran International, a group of students in Kermanshah took to the streets on Saturday, 30 Aban, protesting against the principal of Rezvan High School where \"Sogand Sayadi\" studies. According to reports, government forces beat them.",
+        "time": "14:29",
+        "ts": 1795357788
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
         "text": "A citizen sent a video to Iran International reporting a 66% increase in hamburger prices over six months: \"It has risen from 475,400 tomans in Esfand 1404 to 790,000 tomans in Mehr 1405.\"",
         "time": "17:02",
         "ts": 1795366955
       }
     ],
     "language": "en",
-    "packId": "20261122-15",
-    "sequence": 15,
+    "packId": "20261122-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:21"
+    "updatedAt": "17:22"
   },
   "verified": true
 }
