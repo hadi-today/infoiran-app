@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261122-34 seq=34 exp=1795455174",
+      "advancedStatus": "pack_id=20261122-35 seq=35 exp=1795455741",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:32",
+      "lastChecked": "17:42",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-22",
-    "expiresAt": "2026-11-23 17:32",
+    "expiresAt": "2026-11-23 17:42",
     "items": [
       {
         "channel": "Iran International",
@@ -252,14 +252,21 @@
         "text": "Contrary to the Convention on the Rights of the Child, at least 1,642 female students from various cities in Iran were sent to operational areas in the south of the country as part of the so-called \"Rahian-e Noor\" tours, despite Iran's international commitments not to involve children in military activities.",
         "time": "17:29",
         "ts": 1795368586
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "The UK Maritime Trade Operations reported an incident between a tanker and military forces in the Sea of Oman. The organization did not provide further details and said investigations are ongoing. No information has been released about the ownership of the tanker or the identity of the military forces.",
+        "time": "17:37",
+        "ts": 1795369064
       }
     ],
     "language": "en",
-    "packId": "20261122-34",
-    "sequence": 34,
+    "packId": "20261122-35",
+    "sequence": 35,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:32"
+    "updatedAt": "17:42"
   },
   "verified": true
 }
