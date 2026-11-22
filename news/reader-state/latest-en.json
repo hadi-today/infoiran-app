@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261122-21 seq=21 exp=1795454564",
+      "advancedStatus": "pack_id=20261122-23 seq=23 exp=1795454593",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:22",
+      "lastChecked": "17:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-22",
-    "expiresAt": "2026-11-23 17:22",
+    "expiresAt": "2026-11-23 17:23",
     "items": [
       {
         "channel": "Iran International",
@@ -156,6 +156,20 @@
         "ts": 1795360286
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Mohammad Sharghi, detained during the protests of Dey 1404 and a security staff member at Mehrabad Airport in Tehran, has been sentenced to death by Branch 23 of the Tehran Revolutionary Court. He was sentenced for operational actions for hostile governments and membership in \"oppositional\" groups. His case is currently under review at Branch 9 of the Supreme Court.",
+        "time": "15:22",
+        "ts": 1795360960
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A citizen sent a video to Iran International on Sunday, the first of Azar, showing the polluted air in Tehran and said: \"We also have no electricity, water, or gas. This air is making us nauseous.\"",
+        "time": "15:30",
+        "ts": 1795361457
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "A citizen sent a video to Iran International reporting a 66% increase in hamburger prices over six months: \"It has risen from 475,400 tomans in Esfand 1404 to 790,000 tomans in Mehr 1405.\"",
@@ -164,11 +178,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261122-21",
-    "sequence": 21,
+    "packId": "20261122-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:22"
+    "updatedAt": "17:23"
   },
   "verified": true
 }
