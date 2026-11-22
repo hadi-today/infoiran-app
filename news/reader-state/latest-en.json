@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261122-39 seq=39 exp=1795456335",
+      "advancedStatus": "pack_id=20261122-40 seq=40 exp=1795456631",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:52",
+      "lastChecked": "17:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-22",
-    "expiresAt": "2026-11-23 17:52",
+    "expiresAt": "2026-11-23 17:57",
     "items": [
       {
         "channel": "Iran International",
@@ -287,14 +287,21 @@
         "text": "Donald Trump, the President of the United States, announced that if no agreement is reached with the Islamic Republic, he intends to resume military attacks on Iran after the start of the new Gregorian year. He said indirect talks with the Islamic Republic continue but criticized the negotiation process. Trump also warned that if Iranian vessels attempt to break the US naval blockade, all of them will go to the bottom of the sea.",
         "time": "17:47",
         "ts": 1795369638
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A new wave of truck drivers' strikes in Iran has been reported. Protests and anti-government graffiti continue. This news was reported by Iran International.",
+        "time": "17:54",
+        "ts": 1795370068
       }
     ],
     "language": "en",
-    "packId": "20261122-39",
-    "sequence": 39,
+    "packId": "20261122-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:52"
+    "updatedAt": "17:57"
   },
   "verified": true
 }
