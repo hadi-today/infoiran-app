@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261122-53 seq=53 exp=1795461521",
+      "advancedStatus": "pack_id=20261122-54 seq=54 exp=1795461811",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:18",
+      "lastChecked": "19:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-22",
-    "expiresAt": "2026-11-23 19:18",
+    "expiresAt": "2026-11-23 19:23",
     "items": [
       {
         "channel": "Iran International",
@@ -380,6 +380,13 @@
         "ts": 1795374882
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Two citizens were arrested by the IRGC intelligence forces due to activities in cyberspace. A video of their forced confessions has been released, but the conditions under which it was recorded are unclear.",
+        "time": "19:15",
+        "ts": 1795374925
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Mohammad Bagher Ghalibaf, the Speaker of the Parliament, said that energy reform is the \"most urgent and important issue\" of the country both during peace and today, but gasoline \"is not worth reforming at all\" and should be the \"last issue.\" He added that gasoline accounts for 9% and gas 73% of energy consumption in Iran, and solving the gas issue \"can solve the people's and government's problems\" and bring economic security and social resilience.",
@@ -388,11 +395,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261122-53",
-    "sequence": 53,
+    "packId": "20261122-54",
+    "sequence": 54,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:18"
+    "updatedAt": "19:23"
   },
   "verified": true
 }
