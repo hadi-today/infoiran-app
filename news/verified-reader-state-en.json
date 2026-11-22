@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261122-60 seq=60 exp=1795465439",
+      "advancedStatus": "pack_id=20261122-61 seq=61 exp=1795466274",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:23",
+      "lastChecked": "20:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-22",
-    "expiresAt": "2026-11-23 20:23",
+    "expiresAt": "2026-11-23 20:37",
     "items": [
       {
         "channel": "Iran International",
@@ -434,14 +434,21 @@
         "text": "Officials from the medical universities of Nishapur and Shiraz reported that about 150 people were poisoned due to consuming counterfeit alcoholic beverages in Nishapur, Shiraz, and Marvdasht. So far, five people have died, one person has suffered brain death, and several poisoned individuals are hospitalized in intensive care units. In Nishapur, 120 people were poisoned and four have died, while in Shiraz and Marvdasht about 30 people were poisoned and one person has died.",
         "time": "20:19",
         "ts": 1795378776
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The human rights website Harana reported that Mohammad Sharghi, a security staff member at Mehrabad Airport and detainee of the January protests, has been sentenced to death by Branch 23 of the Tehran Revolutionary Court.",
+        "time": "20:35",
+        "ts": 1795379706
       }
     ],
     "language": "en",
-    "packId": "20261122-60",
-    "sequence": 60,
+    "packId": "20261122-61",
+    "sequence": 61,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:23"
+    "updatedAt": "20:37"
   },
   "verified": true
 }
