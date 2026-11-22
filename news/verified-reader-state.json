@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261122-01 seq=1 exp=1795453407",
+      "advancedStatus": "pack_id=20261122-02 seq=2 exp=1795454220",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:03",
+      "lastChecked": "17:17",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,8 +13,14 @@
   ],
   "pack": {
     "date": "2026-11-22",
-    "expiresAt": "2026-11-23 17:03",
+    "expiresAt": "2026-11-23 17:17",
     "items": [
+      {
+        "channel": "ایران اینترنشنال",
+        "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از دانش‌آموزان در محله متخصصین شهر کرمانشاه، شنبه ۳۰ آبان به خیابان‌ها آمده و فریاد «سوگند صیادی» سردادند. بر اساس گزارش‌ها، نیروهای حکومتی آنها را مورد ضرب و شتم قرار داده‌اند.",
+        "time": "12:49",
+        "ts": 1795351744
+      },
       {
         "channel": "ایران اینترنشنال",
         "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، از افزایش قیمت ۶۶ درصدی همبرگر در شش ماه خبر می‌دهد: «از ۴۷۵٬۴۰۰ تومان در اسفند ۱۴۰۴ به ۷۹۰ هزار تومان در مهر ۱۴۰۵ رسیده است.»",
@@ -22,11 +28,11 @@
         "ts": 1795366955
       }
     ],
-    "packId": "20261122-01",
-    "sequence": 1,
+    "packId": "20261122-02",
+    "sequence": 2,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "17:03"
+    "updatedAt": "17:17"
   },
   "verified": true
 }
