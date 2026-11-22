@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261122-47 seq=47 exp=1795458652",
+      "advancedStatus": "pack_id=20261122-48 seq=48 exp=1795459515",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:30",
+      "lastChecked": "18:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-22",
-    "expiresAt": "2026-11-23 18:30",
+    "expiresAt": "2026-11-23 18:45",
     "items": [
       {
         "channel": "Iran International",
@@ -343,14 +343,21 @@
         "text": "Mohammad Maljo, an economist and economic researcher, has been sentenced to one year of imprisonment by a judicial authority. His court sessions were held in early Tir and mid-Mehr 1405. The report prepared by the interrogators of the IRGC Intelligence Organization was the basis for issuing the one-year imprisonment sentence against him.",
         "time": "18:28",
         "ts": 1795372123
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Liverpool football team defeated Manchester United 4-0 in the 11th week of the English Premier League at Anfield stadium. Lenny Yaro's red card in the eighth minute left United with 10 players from the start of the match. Mauricio Pochettino began his first match as Manchester United coach with a heavy defeat.",
+        "time": "18:42",
+        "ts": 1795372965
       }
     ],
     "language": "en",
-    "packId": "20261122-47",
-    "sequence": 47,
+    "packId": "20261122-48",
+    "sequence": 48,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:30"
+    "updatedAt": "18:45"
   },
   "verified": true
 }
