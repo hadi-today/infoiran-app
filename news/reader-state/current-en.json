@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261122-44 seq=44 exp=1795458071",
+      "advancedStatus": "pack_id=20261122-45 seq=45 exp=1795458366",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:21",
+      "lastChecked": "18:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-22",
-    "expiresAt": "2026-11-23 18:21",
+    "expiresAt": "2026-11-23 18:26",
     "items": [
       {
         "channel": "Iran International",
@@ -322,14 +322,21 @@
         "text": "Ali Kowsari, deputy of education at the Basij Mostazafan Organization, said that simultaneously with the 5th of Azar, the anniversary of the Basij's establishment, the \"Janfadaian\" training program will start in 110 locations across the country. He added that the Basij is planning to build field training bases near several historical sites including Persepolis, Arg-e Bam, Chogha Zanbil Ziggurat in Shush, and Ferdowsi's tomb, and the execution of some of these projects will begin in the coming days.",
         "time": "18:16",
         "ts": 1795371382
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Planned power outages began on Sunday, the first of Azar, in various regions of Iran. Tavanir Company announced new restrictions on electricity supply for residential and commercial customers due to fuel shortages at power plants. The outages may last up to two hours every two days and in some areas up to two hours per day.",
+        "time": "18:21",
+        "ts": 1795371713
       }
     ],
     "language": "en",
-    "packId": "20261122-44",
-    "sequence": 44,
+    "packId": "20261122-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:21"
+    "updatedAt": "18:26"
   },
   "verified": true
 }
