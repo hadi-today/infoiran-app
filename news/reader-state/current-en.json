@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261122-40 seq=40 exp=1795456631",
+      "advancedStatus": "pack_id=20261122-41 seq=41 exp=1795456925",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:57",
+      "lastChecked": "18:02",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-22",
-    "expiresAt": "2026-11-23 17:57",
+    "expiresAt": "2026-11-23 18:02",
     "items": [
       {
         "channel": "Iran International",
@@ -294,14 +294,21 @@
         "text": "A new wave of truck drivers' strikes in Iran has been reported. Protests and anti-government graffiti continue. This news was reported by Iran International.",
         "time": "17:54",
         "ts": 1795370068
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video received by Iran International shows the installation of a poster with the design of the Lion and Sun flag in support of the Abdanan protests on a wall in southern Tehran.",
+        "time": "18:00",
+        "ts": 1795370405
       }
     ],
     "language": "en",
-    "packId": "20261122-40",
-    "sequence": 40,
+    "packId": "20261122-41",
+    "sequence": 41,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:57"
+    "updatedAt": "18:02"
   },
   "verified": true
 }
