@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261122-53 seq=53 exp=1795461521",
+      "advancedStatus": "pack_id=20261122-54 seq=54 exp=1795461811",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:18",
+      "lastChecked": "19:23",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-22",
-    "expiresAt": "2026-11-23 19:18",
+    "expiresAt": "2026-11-23 19:23",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -328,17 +328,23 @@
         "ts": 1795374882
       },
       {
+        "channel": "خبرگزاری هرانا",
+        "text": "دو شهروند به دلیل فعالیت در فضای مجازی توسط نیروهای اطلاعات سپاه بازداشت شدند. ویدئویی از اعترافات اجباری آنها منتشر شده که شرایط ضبط آن مشخص نیست.",
+        "time": "19:15",
+        "ts": 1795374925
+      },
+      {
         "channel": "ایران اینترنشنال",
         "text": "محمدباقر قالیباف، رییس مجلس، گفت اصلاح انرژی هم در زمان صلح و هم امروز «فوری‌ترین و مهم‌ترین موضوع» کشور است، اما بنزین «اصلا ارزش اصلاح ندارد» و باید «آخرین موضوع» باشد. او افزود بنزین ۹ درصد و گاز ۷۳ درصد انرژی مصرفی در ایران است و حل مساله گاز می‌تواند مشکل مردم و دولت را حل کند و امنیت اقتصادی و تاب‌آوری اجتماعی به همراه آورد.",
         "time": "19:15",
         "ts": 1795374931
       }
     ],
-    "packId": "20261122-53",
-    "sequence": 53,
+    "packId": "20261122-54",
+    "sequence": 54,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "19:18"
+    "updatedAt": "19:23"
   },
   "verified": true
 }
