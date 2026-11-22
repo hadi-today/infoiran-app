@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261122-42 seq=42 exp=1795456931",
+      "advancedStatus": "pack_id=20261122-43 seq=43 exp=1795457214",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:02",
+      "lastChecked": "18:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-22",
-    "expiresAt": "2026-11-23 18:02",
+    "expiresAt": "2026-11-23 18:06",
     "items": [
       {
         "channel": "Iran International",
@@ -308,14 +308,21 @@
         "text": "The tanker tracking institute, Tanker Trackers, denied claims of an Iranian tanker named \"Khatshkan\" moving towards the Sea of Oman and stated that such a tanker does not exist. These reports emerged while the US naval blockade has entered its 130th day and the Islamic Republic's oil exports face severe restrictions.",
         "time": "18:00",
         "ts": 1795370427
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The death sentence of a prisoner accused of murder was carried out on Tuesday, 26 Aban, at the Central Prison of Karaj. Additionally, three death row convicts in Mazandaran province and a woman in a case in Tehran were released from the gallows due to the forgiveness of the victims' families.",
+        "time": "18:05",
+        "ts": 1795370701
       }
     ],
     "language": "en",
-    "packId": "20261122-42",
-    "sequence": 42,
+    "packId": "20261122-43",
+    "sequence": 43,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:02"
+    "updatedAt": "18:06"
   },
   "verified": true
 }
