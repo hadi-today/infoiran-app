@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261122-04 seq=4 exp=1795454261",
+      "advancedStatus": "pack_id=20261122-05 seq=5 exp=1795454330",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:17",
+      "lastChecked": "17:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-22",
-    "expiresAt": "2026-11-23 17:17",
+    "expiresAt": "2026-11-23 17:18",
     "items": [
       {
         "channel": "Iran International",
@@ -39,17 +39,24 @@
       {
         "channel": "Iran International",
         "language": "en",
+        "text": "The head of the Cancer Management Group at the Ministry of Health announced that about 142,000 new cancer cases are registered annually in Iran, with men constituting more than half of these cases. Beheshtian identified tobacco, unhealthy diet, and physical inactivity as risk factors and emphasized early screening if there is a family history.",
+        "time": "13:18",
+        "ts": 1795353485
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
         "text": "A citizen sent a video to Iran International reporting a 66% increase in hamburger prices over six months: \"It has risen from 475,400 tomans in Esfand 1404 to 790,000 tomans in Mehr 1405.\"",
         "time": "17:02",
         "ts": 1795366955
       }
     ],
     "language": "en",
-    "packId": "20261122-04",
-    "sequence": 4,
+    "packId": "20261122-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:17"
+    "updatedAt": "17:18"
   },
   "verified": true
 }
