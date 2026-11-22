@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261122-38 seq=38 exp=1795456034",
+      "advancedStatus": "pack_id=20261122-39 seq=39 exp=1795456335",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:47",
+      "lastChecked": "17:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-22",
-    "expiresAt": "2026-11-23 17:47",
+    "expiresAt": "2026-11-23 17:52",
     "items": [
       {
         "channel": "Iran International",
@@ -280,14 +280,21 @@
         "text": "Israeli media have reported that the US and Israel have drafted joint plans for a possible renewed attack on the Islamic Republic. At the same time, an attack on a civilian facility in Bahrain and its condemnation by Saudi Arabia, the UAE, and Qatar have increased concerns about escalating tensions.",
         "time": "17:44",
         "ts": 1795369478
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Donald Trump, the President of the United States, announced that if no agreement is reached with the Islamic Republic, he intends to resume military attacks on Iran after the start of the new Gregorian year. He said indirect talks with the Islamic Republic continue but criticized the negotiation process. Trump also warned that if Iranian vessels attempt to break the US naval blockade, all of them will go to the bottom of the sea.",
+        "time": "17:47",
+        "ts": 1795369638
       }
     ],
     "language": "en",
-    "packId": "20261122-38",
-    "sequence": 38,
+    "packId": "20261122-39",
+    "sequence": 39,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:47"
+    "updatedAt": "17:52"
   },
   "verified": true
 }
