@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261122-50 seq=50 exp=1795460645",
+      "advancedStatus": "pack_id=20261122-51 seq=51 exp=1795460931",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:04",
+      "lastChecked": "19:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-22",
-    "expiresAt": "2026-11-23 19:04",
+    "expiresAt": "2026-11-23 19:08",
     "items": [
       {
         "channel": "Iran International",
@@ -364,14 +364,21 @@
         "text": "The number of detainees in Darreh Shahr increased to 6. Including two other citizens named Mohammad Olad and Hamid Mirzaei, the number of detainees on Friday, 29 Aban in Darreh Shahr county reached six. Earlier, the arrest of four other citizens named Amir Garavand, Ali Vali, Aryan Imani, and Erfan Esmaeili was reported.",
         "time": "19:01",
         "ts": 1795374098
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A citizen sent a video to Iran International on Sunday, the first of Azar, showing mazut burning at the Shazand power plant in Arak and severe air pollution.",
+        "time": "19:04",
+        "ts": 1795374255
       }
     ],
     "language": "en",
-    "packId": "20261122-50",
-    "sequence": 50,
+    "packId": "20261122-51",
+    "sequence": 51,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:04"
+    "updatedAt": "19:08"
   },
   "verified": true
 }
