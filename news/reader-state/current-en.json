@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261123-28 seq=28 exp=1795511816",
+      "advancedStatus": "pack_id=20261123-29 seq=29 exp=1795512345",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:16",
+      "lastChecked": "09:25",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-23",
-    "expiresAt": "2026-11-24 09:16",
+    "expiresAt": "2026-11-24 09:25",
     "items": [
       {
         "channel": "Iran International",
@@ -693,14 +693,21 @@
         "text": "On Monday, 2 Azar, a group of retired telecommunications workers held a protest in the cities of Kermanshah and Sanandaj. The retirees demanded the implementation of regulation 89/24, enforcement of Administrative Justice Court ruling 9235, salary adjustments, and attention to their other demands.",
         "time": "09:13",
         "ts": 1795425203
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mohammad Reza Naqdi, senior advisor to the commander of the IRGC, said the US does not have the capability for a ground attack on the Islamic Republic and that a naval attack would involve significant risks and costs. He added that the only military option available to the US is airstrikes, which would be met with reciprocal responses. Naqdi also said US politicians hope economic pressures will cause public despair and weaken officials' resolve, but officials and military forces will not retreat under these pressures.",
+        "time": "09:23",
+        "ts": 1795425809
       }
     ],
     "language": "en",
-    "packId": "20261123-28",
-    "sequence": 28,
+    "packId": "20261123-29",
+    "sequence": 29,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:16"
+    "updatedAt": "09:25"
   },
   "verified": true
 }
