@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261123-77 seq=77 exp=1795530645",
+      "advancedStatus": "pack_id=20261123-78 seq=78 exp=1795530920",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:30",
+      "lastChecked": "14:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-23",
-    "expiresAt": "2026-11-24 14:30",
+    "expiresAt": "2026-11-24 14:35",
     "items": [
       {
         "channel": "Iran International",
@@ -924,14 +924,21 @@
         "text": "The death sentences of three prisoners previously convicted of drug-related crimes and intentional murder were carried out in the prisons of Sabzevar and Qaemshahr. The identities of these prisoners are Ali Nodehi, Afrasiab Emami, and Mohammad Hashemi. This news was reported by the HRANA news agency.",
         "time": "14:23",
         "ts": 1795443827
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Hamid Bord, acting minister of oil of the Islamic Republic, stated that oil sales are part of the Islamic Republic's tactics in wartime and details are not disclosed to the media. He said oil sales activities continue but the Ministry of Oil does not publicize details. Bord also reported efforts to compensate for lost production in the South Pars gas field and said oil production is stable and gas production is increasing.",
+        "time": "14:30",
+        "ts": 1795444213
       }
     ],
     "language": "en",
-    "packId": "20261123-77",
-    "sequence": 77,
+    "packId": "20261123-78",
+    "sequence": 78,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:30"
+    "updatedAt": "14:35"
   },
   "verified": true
 }
