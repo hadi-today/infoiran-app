@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261123-101 seq=101 exp=1795542514",
+      "advancedStatus": "pack_id=20261123-102 seq=102 exp=1795543302",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:48",
+      "lastChecked": "18:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-23",
-    "expiresAt": "2026-11-24 17:48",
+    "expiresAt": "2026-11-24 18:01",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A new wave of truck drivers' strikes in Iran has been reported. Protests and anti-government graffiti continue. This news was reported by Iran International.",
-        "time": "17:54",
-        "ts": 1795370068
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A video received by Iran International shows the installation of a poster with the design of the Lion and Sun flag in support of the Abdanan protests on a wall in southern Tehran.",
-        "time": "18:00",
-        "ts": 1795370405
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The tanker tracking institute, Tanker Trackers, denied claims of an Iranian tanker named \"Khatshkan\" moving towards the Sea of Oman and stated that such a tanker does not exist. These reports emerged while the US naval blockade has entered its 130th day and the Islamic Republic's oil exports face severe restrictions.",
-        "time": "18:00",
-        "ts": 1795370427
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -910,14 +889,21 @@
         "text": "Hormozgan University of Medical Sciences reported the death of three people due to alcohol poisoning in Bandar Abbas and the hospitalization of 13 people in the province. The number of alcohol poisoning cases in Nishapur reached 191. At least eight people have died from alcohol poisoning recently in Hormozgan, Khorasan Razavi, and Fars.",
         "time": "17:45",
         "ts": 1795455921
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Esteghlal football team drew 1-1 with Al Ain in the fifth week of the Asian Elite League in the UAE. The goals were scored by Saman Fallah in the 51st minute for Esteghlal and Palacios in the 69th minute for Al Ain. Esteghlal reached 10 points and moved to third place in the West Asia table, while Al Ain remains the leader with 13 points.",
+        "time": "18:00",
+        "ts": 1795456807
       }
     ],
     "language": "en",
-    "packId": "20261123-101",
-    "sequence": 101,
+    "packId": "20261123-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:48"
+    "updatedAt": "18:01"
   },
   "verified": true
 }
