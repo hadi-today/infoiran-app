@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261123-17 seq=17 exp=1795505565",
+      "advancedStatus": "pack_id=20261123-18 seq=18 exp=1795505587",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:32",
+      "lastChecked": "07:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-23",
-    "expiresAt": "2026-11-24 07:32",
+    "expiresAt": "2026-11-24 07:33",
     "items": [
       {
         "channel": "Iran International",
@@ -616,14 +616,21 @@
         "text": "The 31st United Nations Climate Change Conference, known as COP 31, ended on Sunday in Antalya, Turkey, without reaching a comprehensive political agreement. The meeting, which extended two days beyond the scheduled time, became the longest climate conference in history.",
         "time": "07:28",
         "ts": 1795418934
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Carlos Alcaraz, after a four-month wrist injury break, became the youngest man in history to win all four Grand Slams and the ATP Finals by defeating Alexander Zverev in Turin. The 23-year-old Spanish star won the Australian Open in January and then the season-ending tournament in Turin ten months later. After returning from injury, he recorded 21 wins in 22 matches and claimed four major titles.",
+        "time": "07:30",
+        "ts": 1795419044
       }
     ],
     "language": "en",
-    "packId": "20261123-17",
-    "sequence": 17,
+    "packId": "20261123-18",
+    "sequence": 18,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:32"
+    "updatedAt": "07:33"
   },
   "verified": true
 }
