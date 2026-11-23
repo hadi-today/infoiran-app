@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261123-119 seq=119 exp=1795548395",
+      "advancedStatus": "pack_id=20261123-120 seq=120 exp=1795548670",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:26",
+      "lastChecked": "19:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-23",
-    "expiresAt": "2026-11-24 19:26",
+    "expiresAt": "2026-11-24 19:31",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The human rights group Halvash reported on Sunday, 1 Azar, with a video that hundreds of heavy vehicles have been stuck in line over the past few days at the Rimdan border crossing in Sistan and Baluchestan province. Drivers reported disorder in queue management, lack of welfare facilities, and the risk of spoilage of fruit and vegetable shipments.",
-        "time": "19:28",
-        "ts": 1795375689
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Nine months after Khamenei's removal, a senior researcher of the Resistance Front revealed Mossad's infiltration at the highest level of the Islamic Republic. According to him, Mossad, by capturing the regime's intelligence institutions, became the source of information for Iran's leaders about Israel and was able to shape their narrative in its favor.",
-        "time": "19:29",
-        "ts": 1795375762
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -924,14 +910,21 @@
         "text": "Mohammad Bagher Ghalibaf, Speaker of the Islamic Consultative Assembly, said the Islamic Republic has triumphed over the enemy in military and diplomatic fields, and both diplomacy and war are tools to achieve deterrent power. He added that diplomacy alone cannot remove the shadow of war from the country, and fighting alone cannot eliminate this threat. Ghalibaf also said the aerospace industry of the Islamic Republic has placed Iran among the top four powers in this field.",
         "time": "19:22",
         "ts": 1795461729
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Iran International reported that the audio version of Cheshmandaz contains statements advocating turning away from Khomeini's explicit principles to preserve the regime.",
+        "time": "19:27",
+        "ts": 1795462037
       }
     ],
     "language": "en",
-    "packId": "20261123-119",
-    "sequence": 119,
+    "packId": "20261123-120",
+    "sequence": 120,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:26"
+    "updatedAt": "19:31"
   },
   "verified": true
 }
