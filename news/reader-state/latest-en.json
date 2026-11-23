@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261123-45 seq=45 exp=1795518330",
+      "advancedStatus": "pack_id=20261123-46 seq=46 exp=1795518586",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:05",
+      "lastChecked": "11:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-23",
-    "expiresAt": "2026-11-24 11:05",
+    "expiresAt": "2026-11-24 11:09",
     "items": [
       {
         "channel": "Iran International",
@@ -812,14 +812,21 @@
         "text": "Masoud Pezeshkian, head of the Islamic Republic government, responded to criticisms of corruption among government officials by saying those who make such claims should closely observe the lives of these individuals. He added that some of those who were killed had simple lives and even one of the commanders did not have a house of his own.",
         "time": "11:02",
         "ts": 1795431727
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Videos received show that retirees in Kermanshah, Isfahan, and Sanandaj came to the streets on Tuesday, 2 Azar, to demand their rights and called the \"Execution of Imam Khomeini's Order Headquarters\" and the \"Cooperative Foundation of the IRGC\" \"usurpers.\"",
+        "time": "11:05",
+        "ts": 1795431924
       }
     ],
     "language": "en",
-    "packId": "20261123-45",
-    "sequence": 45,
+    "packId": "20261123-46",
+    "sequence": 46,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:05"
+    "updatedAt": "11:09"
   },
   "verified": true
 }
