@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261123-36 seq=36 exp=1795516064",
+      "advancedStatus": "pack_id=20261123-37 seq=37 exp=1795516356",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:27",
+      "lastChecked": "10:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-23",
-    "expiresAt": "2026-11-24 10:27",
+    "expiresAt": "2026-11-24 10:32",
     "items": [
       {
         "channel": "Iran International",
@@ -749,14 +749,21 @@
         "text": "The strike of truck drivers and drivers in several cities in Iran entered its second day on Monday, 2 Azar, amid the intensification of the fuel crisis and worsening economic conditions. The Union of Truck Drivers' Associations announced that the strike will continue until the drivers' demands are met, and Nissan drivers have also joined the strike.",
         "time": "10:23",
         "ts": 1795429412
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A two-day meeting of Afghan women hosted by the Spanish Ministry of Foreign Affairs began on Sunday, 1 Azar, in Madrid. At the same time, the campaign \"One Million Voices for Afghan Women and Girls\" has called for concrete action by the international community to secure women's rights.",
+        "time": "10:28",
+        "ts": 1795429737
       }
     ],
     "language": "en",
-    "packId": "20261123-36",
-    "sequence": 36,
+    "packId": "20261123-37",
+    "sequence": 37,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:27"
+    "updatedAt": "10:32"
   },
   "verified": true
 }
