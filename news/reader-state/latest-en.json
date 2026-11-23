@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261123-132 seq=132 exp=1795560048",
+      "advancedStatus": "pack_id=20261123-133 seq=133 exp=1795561022",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:40",
+      "lastChecked": "22:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-23",
-    "expiresAt": "2026-11-24 22:40",
+    "expiresAt": "2026-11-24 22:57",
     "items": [
       {
         "channel": "Iran International",
@@ -917,14 +917,21 @@
         "text": "Nvidia announced that Jensen Huang has been reappointed as the CEO of the company. The Nvidia board unanimously agreed to his return after several rounds of talks with Huang. Harvey Jones, chairman of the board, said senior US government officials participated in the decision and concluded that Huang's return does not pose a national security threat.",
         "time": "22:23",
         "ts": 1795472626
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Axios and The Times of Israel reported that Mohammed bin Abdulrahman Al Thani, Prime Minister and Foreign Minister of Qatar, met with JD Vance, Trump's deputy, in Washington and discussed efforts to reach a diplomatic solution aimed at ending the conflict between the US and the Islamic Republic. A source familiar with The Times of Israel said the meeting lasted about 10 minutes and the main purpose of the Qatari delegation's trip was to participate in the annual strategic talks between the US and Qatar with the presence of Marco Rubio. Al Thani also met with Rubio before meeting Vance.",
+        "time": "22:56",
+        "ts": 1795474573
       }
     ],
     "language": "en",
-    "packId": "20261123-132",
-    "sequence": 132,
+    "packId": "20261123-133",
+    "sequence": 133,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:40"
+    "updatedAt": "22:57"
   },
   "verified": true
 }
