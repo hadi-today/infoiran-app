@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261123-115 seq=115 exp=1795546315",
+      "advancedStatus": "pack_id=20261123-116 seq=116 exp=1795547328",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:51",
+      "lastChecked": "19:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-23",
-    "expiresAt": "2026-11-24 18:51",
+    "expiresAt": "2026-11-24 19:08",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Yadollah Motaei, a citizen from Dehgolan imprisoned in Qorveh prison, was sentenced to 39 months and two days in prison by the judiciary of Dehgolan county.",
-        "time": "18:55",
-        "ts": 1795373719
-      },
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "The number of detainees in Darreh Shahr increased to 6. Including two other citizens named Mohammad Olad and Hamid Mirzaei, the number of detainees on Friday, 29 Aban in Darreh Shahr county reached six. Earlier, the arrest of four other citizens named Amir Garavand, Ali Vali, Aryan Imani, and Erfan Esmaeili was reported.",
-        "time": "19:01",
-        "ts": 1795374098
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A citizen sent a video to Iran International on Sunday, the first of Azar, showing mazut burning at the Shazand power plant in Arak and severe air pollution.",
-        "time": "19:04",
-        "ts": 1795374255
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -938,14 +917,21 @@
         "text": "About 400 faculty members of Farhangian University were forcibly retired contrary to a previous board resolution and face deductions in seniority bases and 16 months of unpaid wages. A contract worker in South Pars reported incomplete payment of wage claims, ambiguity in salary and benefits calculation, and his dismissal. Additionally, six workers of Navid Babakan Company in Shahrbabak were dismissed during a one-week workers' strike.",
         "time": "18:45",
         "ts": 1795459557
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A citizen from Maragheh sent a video to Iran International, sarcastically responding to Ali Khamenei's statements about the power outage, saying: \"We have reached the peak, but here there is neither water, gas, nor electricity.\"",
+        "time": "19:05",
+        "ts": 1795460701
       }
     ],
     "language": "en",
-    "packId": "20261123-115",
-    "sequence": 115,
+    "packId": "20261123-116",
+    "sequence": 116,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:51"
+    "updatedAt": "19:08"
   },
   "verified": true
 }
