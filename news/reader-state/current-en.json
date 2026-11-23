@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261123-107 seq=107 exp=1795544397",
+      "advancedStatus": "pack_id=20261123-108 seq=108 exp=1795544937",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:19",
+      "lastChecked": "18:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,29 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-23",
-    "expiresAt": "2026-11-24 18:19",
+    "expiresAt": "2026-11-24 18:28",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Planned power outages began on Sunday, the first of Azar, in various regions of Iran. Tavanir Company announced new restrictions on electricity supply for residential and commercial customers due to fuel shortages at power plants. The outages may last up to two hours every two days and in some areas up to two hours per day.",
-        "time": "18:21",
-        "ts": 1795371713
-      },
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "More than 100 service workers of Yasuj Municipality reported non-payment of three months of their salaries. Workers of the machinery unit of Travers Karaj company protested against wage, insurance problems, and lack of job security. Also, a group of Social Security retirees reported delays in the payment of their November pensions.",
-        "time": "18:23",
-        "ts": 1795371785
-      },
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Mohammad Maljo, an economist and economic researcher, has been sentenced to one year of imprisonment by a judicial authority. His court sessions were held in early Tir and mid-Mehr 1405. The report prepared by the interrogators of the IRGC Intelligence Organization was the basis for issuing the one-year imprisonment sentence against him.",
-        "time": "18:28",
-        "ts": 1795372123
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -910,14 +889,21 @@
         "text": "An audio version of Titraval with Niusha Saremi discusses the escalation of maritime confrontation between Tehran and Washington and calls for a new war in Israel.",
         "time": "18:14",
         "ts": 1795457696
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Videos published on social media show smoke rising from a ship near the coast of Oman. Satellite images from Tuesday, 2 Azar also show smoke rising from a ship in the same location. The flag or ownership details of this ship and the exact date of the videos have not been independently verified.",
+        "time": "18:27",
+        "ts": 1795458446
       }
     ],
     "language": "en",
-    "packId": "20261123-107",
-    "sequence": 107,
+    "packId": "20261123-108",
+    "sequence": 108,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:19"
+    "updatedAt": "18:28"
   },
   "verified": true
 }
