@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261123-55 seq=55 exp=1795523128",
+      "advancedStatus": "pack_id=20261123-57 seq=57 exp=1795523429",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:25",
+      "lastChecked": "12:30",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-23",
-    "expiresAt": "2026-11-24 12:25",
+    "expiresAt": "2026-11-24 12:30",
     "items": [
       {
         "channel": "Iran International",
@@ -882,14 +882,28 @@
         "text": "Today, Monday, a group of essential goods importers held a protest in front of the Ministry of Agriculture Jihad building. The protest was against the failure to fulfill promises and a 19-month delay in paying their foreign currency claims.",
         "time": "12:23",
         "ts": 1795436601
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Lebanese army announced that it has discovered and seized more than 260 kilograms of explosives smuggled from Syrian territory in the Bekaa region. The routes for transferring weapons from the Islamic Republic to Hezbollah in Lebanon are becoming increasingly restricted. After the fall of Bashar al-Assad, the route for transferring weapons and explosives from Syria to Lebanon was cut off, and Beirut and Damascus cooperate in pursuing arms smugglers.",
+        "time": "12:23",
+        "ts": 1795436615
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The official media of Mojtaba Khamenei, leader of the Islamic Republic, published a threatening design against Jewish identity and religious symbols ahead of the Hanukkah festival. Ben Sabti, a researcher on Iran and Israel issues, said the Islamic Republic has resorted to old propaganda to mobilize Iranian people who oppose the regime. He added this propaganda is for domestic consumption but has lost its effectiveness because the Iranian people have friendly relations with Israel and its people.",
+        "time": "12:26",
+        "ts": 1795436806
       }
     ],
     "language": "en",
-    "packId": "20261123-55",
-    "sequence": 55,
+    "packId": "20261123-57",
+    "sequence": 57,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:25"
+    "updatedAt": "12:30"
   },
   "verified": true
 }
