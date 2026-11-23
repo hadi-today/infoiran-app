@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261123-59 seq=59 exp=1795524545",
+      "advancedStatus": "pack_id=20261123-60 seq=60 exp=1795524814",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:49",
+      "lastChecked": "12:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-23",
-    "expiresAt": "2026-11-24 12:49",
+    "expiresAt": "2026-11-24 12:53",
     "items": [
       {
         "channel": "HRANA",
@@ -903,14 +903,21 @@
         "text": "Ahmadreza Radan, the commander of the national police, said at a war-related ceremony that they assure everyone they will identify and suppress any sedition before it starts and will not allow it to emerge. He added that a country known historically for using dirty bombs wants to accuse our country of using these bombs. Radan also said that in the police domain, they have taken the leader's orders as their guiding principle.",
         "time": "12:45",
         "ts": 1795437921
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Today, Monday, 2 Azar, a number of employees of the Khorasan Razavi Welfare Organization held a protest in front of the Welfare Organization's headquarters in Mashhad, demanding attention to their demands, including the adjustment of their wages and job benefits.",
+        "time": "12:48",
+        "ts": 1795438094
       }
     ],
     "language": "en",
-    "packId": "20261123-59",
-    "sequence": 59,
+    "packId": "20261123-60",
+    "sequence": 60,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:49"
+    "updatedAt": "12:53"
   },
   "verified": true
 }
