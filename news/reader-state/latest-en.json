@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261123-86 seq=86 exp=1795534612",
+      "advancedStatus": "pack_id=20261123-87 seq=87 exp=1795534895",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:36",
+      "lastChecked": "15:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-23",
-    "expiresAt": "2026-11-24 15:36",
+    "expiresAt": "2026-11-24 15:41",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Fars News Agency reported the sentencing of Zahra Inchahdargahi, former head of the Gymnastics Federation, to two years of imprisonment and permanent dismissal from government services in a currency embezzlement case.",
-        "time": "15:37",
-        "ts": 1795361837
-      },
       {
         "channel": "Vahid Online",
         "language": "en",
@@ -931,14 +924,21 @@
         "text": "Gadi Eisenkot, leader of the Yashar party, says there is no immediate threat from Iran requiring military action before the formation of Israel's new government, and focus should be on 440 kilograms of enriched uranium from Iran that has not yet been destroyed or removed. Eisenkot made these remarks at his party faction meeting in the Knesset on November 23. In contrast, Benjamin Netanyahu accused his political opponents of downplaying security threats to Israel for political motives and again called for the formation of a unity government.",
         "time": "15:33",
         "ts": 1795447998
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Bayan Salehian, an internal medicine specialist living in Urmia, was sentenced by the Revolutionary Court of this city to one year in prison and confiscation of electronic devices. He was arrested on 5 Mehr and was released on bail after three weeks of interrogation. This sentence was issued by the third branch of the Revolutionary Court of Urmia on charges of propaganda against the regime.",
+        "time": "15:36",
+        "ts": 1795448215
       }
     ],
     "language": "en",
-    "packId": "20261123-86",
-    "sequence": 86,
+    "packId": "20261123-87",
+    "sequence": 87,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:36"
+    "updatedAt": "15:41"
   },
   "verified": true
 }
