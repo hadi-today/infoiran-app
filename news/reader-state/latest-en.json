@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261123-112 seq=112 exp=1795545770",
+      "advancedStatus": "pack_id=20261123-113 seq=113 exp=1795546013",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:42",
+      "lastChecked": "18:46",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-23",
-    "expiresAt": "2026-11-24 18:42",
+    "expiresAt": "2026-11-24 18:46",
     "items": [
       {
         "channel": "HRANA",
@@ -917,14 +917,21 @@
         "text": "According to the United States Geological Survey, in the early hours of Monday, November 23, the summit of Kilauea volcano in Hawaii erupted, with lava reaching up to 200 meters above the ground. The lava ejection started at 12:15 AM local time and continued until 6 AM. This was the fifty-seventh eruption phase of Kilauea since December 23, 2024.",
         "time": "18:41",
         "ts": 1795459271
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Islamic Republic faces a series of simultaneous crises, each of which could seriously challenge a government. These crises include the risk of a new war with the US and Israel, an oil blockade, leadership crisis, governance split, unprecedented inflation, rising bread prices, and shortages of water, electricity, and gas. There is no sign of these crises abating, and each can exacerbate the others.",
+        "time": "18:45",
+        "ts": 1795459512
       }
     ],
     "language": "en",
-    "packId": "20261123-112",
-    "sequence": 112,
+    "packId": "20261123-113",
+    "sequence": 113,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:42"
+    "updatedAt": "18:46"
   },
   "verified": true
 }
