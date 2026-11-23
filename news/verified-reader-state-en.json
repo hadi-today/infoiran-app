@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261123-43 seq=43 exp=1795518025",
+      "advancedStatus": "pack_id=20261123-44 seq=44 exp=1795518308",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:00",
+      "lastChecked": "11:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-23",
-    "expiresAt": "2026-11-24 11:00",
+    "expiresAt": "2026-11-24 11:05",
     "items": [
       {
         "channel": "Iran International",
@@ -798,14 +798,21 @@
         "text": "Shahrouz Sadidi, a resident of Sabzevar, remains in detention without a clear status despite 55 days passing since his arrest. He was previously held in quarantine ward and has now been transferred to the general ward. Judicial officials have not provided a clear explanation regarding the handling of his case, and his lawyers have not been able to access his file.",
         "time": "10:54",
         "ts": 1795431286
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A second-grade student in the village of Siyahkaleh in Dorud county says in a video that the Molavi school teacher in this village broke his foot because he did not write his homework.",
+        "time": "11:00",
+        "ts": 1795431638
       }
     ],
     "language": "en",
-    "packId": "20261123-43",
-    "sequence": 43,
+    "packId": "20261123-44",
+    "sequence": 44,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:00"
+    "updatedAt": "11:05"
   },
   "verified": true
 }
