@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261123-92 seq=92 exp=1795537005",
+      "advancedStatus": "pack_id=20261123-93 seq=93 exp=1795538310",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:16",
+      "lastChecked": "16:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-23",
-    "expiresAt": "2026-11-24 16:16",
+    "expiresAt": "2026-11-24 16:38",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The UK Maritime Trade Operations Center reported that since 25 Aban, seven oil tankers have been attacked in the Strait of Hormuz, and the security threat level in this waterway remains \"severe.\" Three oil tankers were targeted by unidentified projectiles on 29 and 30 Aban while exiting the Strait of Hormuz, with two tankers catching fire. The center also stated that attacks and harassment actions by the IRGC against commercial ships continue, and Iran's claim about oil tankers hitting naval mines has not been confirmed.",
-        "time": "16:32",
-        "ts": 1795365174
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -910,14 +903,21 @@
         "text": "At the start of the fifth week of the Asian Elite Football League, Esteghlal is a guest of Al Ain in the UAE and Tractor hosts Al Wasl in Oman. This news was reported with an assessment by Mohammad Taghavi, Iran International.",
         "time": "16:10",
         "ts": 1795450209
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Shokrallah Ahmadi, a teachers' union activist, was reportedly arrested yesterday by national security police forces in Nurabad Mamasani and transferred to the Soroush detention center in Shiraz.",
+        "time": "16:37",
+        "ts": 1795451866
       }
     ],
     "language": "en",
-    "packId": "20261123-92",
-    "sequence": 92,
+    "packId": "20261123-93",
+    "sequence": 93,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:16"
+    "updatedAt": "16:38"
   },
   "verified": true
 }
