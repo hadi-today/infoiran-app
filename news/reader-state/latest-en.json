@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261124-100 seq=100 exp=1795623147",
+      "advancedStatus": "pack_id=20261124-101 seq=101 exp=1795624111",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:12",
+      "lastChecked": "16:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-24",
-    "expiresAt": "2026-11-25 16:12",
+    "expiresAt": "2026-11-25 16:28",
     "items": [
       {
         "channel": "HRANA",
@@ -875,14 +875,21 @@
         "text": "From the evening of 30 Aban to 3 Azar, based on reports from medical and judicial authorities in Nishapur, Hormozgan, and Fars, at least 300 cases of alcohol poisoning and 10 deaths have been reported. A program with Kambiz Hosseini discusses the harms and obstacles to accessing treatment and invites people to share their stories about counterfeit alcohol consumption and access to treatment.",
         "time": "16:09",
         "ts": 1795536573
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Masoud Pezeshkian, head of the Islamic Republic government, on Tuesday, 3 Azar, referred to attacks during the 12-day war and criticism of his government's performance, saying that if they had been hit, it would have been easier and they would have heard fewer taunts. He added that the enemy seeks to exacerbate problems to increase protests and create internal divisions. Pezeshkian emphasized that unity and cohesion must be maintained to prevent the enemy's goals from being realized.",
+        "time": "16:27",
+        "ts": 1795537623
       }
     ],
     "language": "en",
-    "packId": "20261124-100",
-    "sequence": 100,
+    "packId": "20261124-101",
+    "sequence": 101,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:12"
+    "updatedAt": "16:28"
   },
   "verified": true
 }
