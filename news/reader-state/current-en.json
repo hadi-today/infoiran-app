@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261124-71 seq=71 exp=1795612331",
+      "advancedStatus": "pack_id=20261124-72 seq=72 exp=1795612564",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:12",
+      "lastChecked": "13:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-24",
-    "expiresAt": "2026-11-25 13:12",
+    "expiresAt": "2026-11-25 13:16",
     "items": [
       {
         "channel": "Iran International",
@@ -882,14 +882,21 @@
         "text": "A citizen sent a video to Iran International showing a grocery receipt for 485,000 tomans and told Masoud Pezeshkian that 500,000 tomans is now only enough to buy 15 eggs and one kilogram of milk.",
         "time": "13:11",
         "ts": 1795525868
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Simultaneous with the US sanctions on Iran's currency and gold exchange center and the Islamic Republic's shadow banking network, the US dollar rate in Tehran's free market surpassed 284,000 tomans. This report is based on the assessment of Arash Azarmi, the economic section secretary of Iran International.",
+        "time": "13:13",
+        "ts": 1795526020
       }
     ],
     "language": "en",
-    "packId": "20261124-71",
-    "sequence": 71,
+    "packId": "20261124-72",
+    "sequence": 72,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:12"
+    "updatedAt": "13:16"
   },
   "verified": true
 }
