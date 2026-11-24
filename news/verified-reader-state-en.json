@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261124-35 seq=35 exp=1795598692",
+      "advancedStatus": "pack_id=20261124-36 seq=36 exp=1795598930",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:24",
+      "lastChecked": "09:28",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-24",
-    "expiresAt": "2026-11-25 09:24",
+    "expiresAt": "2026-11-25 09:28",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "According to information received by Iran International, the family of Alireza Raeisi, an executed protester, was forced by security agents to cover the poem engraved on his tombstone in the deserts of Anarak in Isfahan province with black spray. The poem on his tombstone praised those who left the world with dignity and embraced truth. Alireza Raeisi, one of the detainees in the so-called \"Alikhani Square\" case in Isfahan, was executed on 13 Mehr.",
-        "time": "09:28",
-        "ts": 1795426127
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "A 19-year-old girl was killed by her parents in Sanandaj. The head of the Kurdistan province detective police reported the arrest of the girl's parents on charges of killing their child. Family disputes were cited as the motive of the accused.",
         "time": "09:19",
         "ts": 1795511952
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "A student in the village of Siyah Kalleh in Dorud County suffered a leg fracture due to corporal punishment by a teacher. The public and revolutionary prosecutor of Lorestan announced the arrest of the accused teacher in this case.",
+        "time": "09:27",
+        "ts": 1795512454
       }
     ],
     "language": "en",
-    "packId": "20261124-35",
-    "sequence": 35,
+    "packId": "20261124-36",
+    "sequence": 36,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:24"
+    "updatedAt": "09:28"
   },
   "verified": true
 }
