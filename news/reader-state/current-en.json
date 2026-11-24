@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261124-22 seq=22 exp=1795590113",
+      "advancedStatus": "pack_id=20261124-23 seq=23 exp=1795590845",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:01",
+      "lastChecked": "07:14",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-24",
-    "expiresAt": "2026-11-25 07:01",
+    "expiresAt": "2026-11-25 07:14",
     "items": [
       {
         "channel": "Iran International",
@@ -952,14 +952,21 @@
         "text": "Mohammad Bagher Ghalibaf, the Speaker of the Parliament, announced that no action or negotiation will take place before the implementation of the seven conditions of the Islamic Republic. He referred to recent remarks by Donald Trump and the US Treasury Secretary and said the Islamic Republic's position is clear and unchangeable. Ghalibaf also stated that they are ready to respond decisively to enemy movements.",
         "time": "06:24",
         "ts": 1795501467
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Rouhollah Rahimpour, a journalist and political analyst, said that Qalibaf defines the victory of the Islamic Republic mainly by the survival of the government; while the real criterion of victory should be the improvement of security, welfare, and freedom of the Iranian people.",
+        "time": "07:11",
+        "ts": 1795504276
       }
     ],
     "language": "en",
-    "packId": "20261124-22",
-    "sequence": 22,
+    "packId": "20261124-23",
+    "sequence": 23,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:01"
+    "updatedAt": "07:14"
   },
   "verified": true
 }
