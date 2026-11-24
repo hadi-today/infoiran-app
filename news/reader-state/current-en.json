@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261124-49 seq=49 exp=1795603404",
+      "advancedStatus": "pack_id=20261124-50 seq=50 exp=1795603634",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:43",
+      "lastChecked": "10:47",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-24",
-    "expiresAt": "2026-11-25 10:43",
+    "expiresAt": "2026-11-25 10:47",
     "items": [
       {
         "channel": "Iran International",
@@ -926,6 +926,13 @@
         "ts": 1795516280
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Yesterday, a number of truck drivers at the fruit and vegetable market in Jiroft city stopped working. These drivers went on strike to protest their livelihood and job problems.",
+        "time": "10:39",
+        "ts": 1795516756
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Kayhan Kalhor, an Iranian musician and composer, reacted on his Instagram page to the flogging sentence of Parasto Ahmadi and four others involved in the \"Hypothetical Concert\" and criticized the judicial treatment of these artists. He described this sentence as a fresh wound on the body of Iranian culture and referred to the economic problems of the people, the situation of prisoners, and violence against women. Kalhor wrote that the names of these artists have been recorded in the history of oppressed fighters against injustice.",
@@ -941,11 +948,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261124-49",
-    "sequence": 49,
+    "packId": "20261124-50",
+    "sequence": 50,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:43"
+    "updatedAt": "10:47"
   },
   "verified": true
 }
