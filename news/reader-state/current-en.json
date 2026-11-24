@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261124-39 seq=39 exp=1795599707",
+      "advancedStatus": "pack_id=20261124-40 seq=40 exp=1795599957",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:41",
+      "lastChecked": "09:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-24",
-    "expiresAt": "2026-11-25 09:41",
+    "expiresAt": "2026-11-25 09:45",
     "items": [
       {
         "channel": "Iran International",
@@ -926,6 +926,13 @@
         "ts": 1795512647
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Yesterday, a number of retirees from the Telecommunications Company in the cities of Hamedan and Borujerd held a protest in front of the company's buildings. The protesting retirees demanded the implementation of regulation 89/24, enforcement of administrative justice court ruling number 9235, salary adjustments, and addressing their other demands.",
+        "time": "09:35",
+        "ts": 1795512925
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Amir Hatami, the Commander-in-Chief of the Islamic Republic Army, said the Strait of Hormuz will not be reopened and will become more closed day by day. He added that the Islamic Republic has managed to bring the \"pain of war\" to American gas stations and has shattered the image of America's invincibility.",
@@ -941,11 +948,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261124-39",
-    "sequence": 39,
+    "packId": "20261124-40",
+    "sequence": 40,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:41"
+    "updatedAt": "09:45"
   },
   "verified": true
 }
