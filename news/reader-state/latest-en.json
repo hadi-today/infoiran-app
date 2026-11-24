@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261124-72 seq=72 exp=1795612564",
+      "advancedStatus": "pack_id=20261124-73 seq=73 exp=1795612822",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:16",
+      "lastChecked": "13:20",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-24",
-    "expiresAt": "2026-11-25 13:16",
+    "expiresAt": "2026-11-25 13:20",
     "items": [
       {
         "channel": "Iran International",
@@ -870,6 +870,13 @@
         "ts": 1795525293
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Today, Tuesday, 3 Azar, Malahasan Mahmoudi, Navid Mostafazadeh, and Aram Vafaei, citizens from Boukan, were released from the county prison on bail.",
+        "time": "13:07",
+        "ts": 1795525649
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Simultaneously with the approach of the anniversary of the Dey protests, poignant and impactful videos of mostly Iranian teenagers dancing and celebrating in black-and-white images have spread on social media. Adaleh Borang, a member of the Iran International editorial team, has spoken about these videos and the reactions to them.",
@@ -892,11 +899,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261124-72",
-    "sequence": 72,
+    "packId": "20261124-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:16"
+    "updatedAt": "13:20"
   },
   "verified": true
 }
