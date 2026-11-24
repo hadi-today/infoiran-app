@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261124-128 seq=128 exp=1795633525",
+      "advancedStatus": "pack_id=20261124-129 seq=129 exp=1795633759",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:05",
+      "lastChecked": "19:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-24",
-    "expiresAt": "2026-11-25 19:05",
+    "expiresAt": "2026-11-25 19:09",
     "items": [
       {
         "channel": "HRANA",
@@ -882,14 +882,21 @@
         "text": "Cristiano Ronaldo scored his 987th professional goal in the 13th minute of the Al-Nassr vs Al-Sadd match in the fifth week of the Asian Champions League from a penalty kick. The Portuguese star's second goal in the 35th minute was disallowed. The 41-year-old Portuguese star is only 13 goals away from reaching the historic record of 1,000 goals.",
         "time": "19:03",
         "ts": 1795546994
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "In response to Mojtaba Khamenei's written message about childbearing, various individuals criticized the country's economic and social problems, saying current conditions make childbearing difficult. Some stated that people are struggling to meet basic needs and encouraging childbearing under these circumstances is meaningless. It was also said that increasing the population cannot be done by decree and slogans, and living conditions must first improve.",
+        "time": "19:07",
+        "ts": 1795547236
       }
     ],
     "language": "en",
-    "packId": "20261124-128",
-    "sequence": 128,
+    "packId": "20261124-129",
+    "sequence": 129,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:05"
+    "updatedAt": "19:09"
   },
   "verified": true
 }
