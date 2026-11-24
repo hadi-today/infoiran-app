@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261124-134 seq=134 exp=1795635227",
+      "advancedStatus": "pack_id=20261124-135 seq=135 exp=1795635705",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:33",
+      "lastChecked": "19:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-24",
-    "expiresAt": "2026-11-25 19:33",
+    "expiresAt": "2026-11-25 19:41",
     "items": [
       {
         "channel": "ایران اینترنشنال",
@@ -758,13 +758,19 @@
         "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، از قطع شدن چند ساعته برق و آب خبر می‌دهد و می‌گوید: «به برکت جمهوری اسلامی به عصر حجر برگشته‌ایم.»",
         "time": "19:31",
         "ts": 1795548687
+      },
+      {
+        "channel": "خبرگزاری هرانا",
+        "text": "یک شهروند در بندرانزلی در پی انتشار محتوا در فضای مجازی توسط نیروهای پلیس اطلاعات و امنیت عمومی بازداشت شد.",
+        "time": "19:34",
+        "ts": 1795548889
       }
     ],
-    "packId": "20261124-134",
-    "sequence": 134,
+    "packId": "20261124-135",
+    "sequence": 135,
     "source": "GitHub static mirror",
     "status": "Verified backend pack",
-    "updatedAt": "19:33"
+    "updatedAt": "19:41"
   },
   "verified": true
 }
