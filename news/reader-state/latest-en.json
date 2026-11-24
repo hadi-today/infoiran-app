@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261124-74 seq=74 exp=1795613067",
+      "advancedStatus": "pack_id=20261124-75 seq=75 exp=1795613591",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:24",
+      "lastChecked": "13:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-24",
-    "expiresAt": "2026-11-25 13:24",
+    "expiresAt": "2026-11-25 13:33",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The family of Alireza Raeisi was forced by security agents to erase a commemorative poem from his tombstone. Additionally, the tombstone of Meysam Aybed, a 29-year-old killed in the December protests, was destroyed overnight in Malmir village. This information was reported to Iran International.",
-        "time": "13:31",
-        "ts": 1795440683
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -903,14 +896,21 @@
         "text": "Volodymyr Zelensky accepted responsibility for the attack on the Russian cargo ship \"Sparta 2\" in Finnish waters. He also announced that Ukrainian forces, using seven naval drones, sank one of Russia's newest warships in the port of Benghazi, Libya, and targeted a military helicopter and a ship.",
         "time": "13:21",
         "ts": 1795526488
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Today, a number of pre-hospital emergency 115 staff in Kermanshah protested in front of the governor's office building in the city due to unpaid wage arrears and neglect of their labor demands.",
+        "time": "13:31",
+        "ts": 1795527064
       }
     ],
     "language": "en",
-    "packId": "20261124-74",
-    "sequence": 74,
+    "packId": "20261124-75",
+    "sequence": 75,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:24"
+    "updatedAt": "13:33"
   },
   "verified": true
 }
