@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261124-75 seq=75 exp=1795613591",
+      "advancedStatus": "pack_id=20261124-77 seq=77 exp=1795615064",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:33",
+      "lastChecked": "13:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-24",
-    "expiresAt": "2026-11-25 13:33",
+    "expiresAt": "2026-11-25 13:57",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Benjamin Netanyahu, Prime Minister of Israel, responded to Gadi Eisenkot's remarks about the absence of an immediate threat from Iran by saying that the threat from Iran against Israel is immediate. Netanyahu called for the formation of a national unity government including ultra-Orthodox Jewish parties and emphasized the need to reach an agreement with these parties on Israel's Jewish identity and military service.",
-        "time": "13:52",
-        "ts": 1795441934
-      },
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Today, continuing the gatherings of telecommunications retirees; some of these retirees in the cities of Isfahan and Tehran also held protest gatherings demanding attention to their demands.",
-        "time": "13:52",
-        "ts": 1795441976
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -903,14 +889,28 @@
         "text": "Today, a number of pre-hospital emergency 115 staff in Kermanshah protested in front of the governor's office building in the city due to unpaid wage arrears and neglect of their labor demands.",
         "time": "13:31",
         "ts": 1795527064
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Emtedad announced on Tuesday, 3 Azar, that the death sentences of Milad Armoon and Navid Najaran, defendants in the Ekbatan case, have been notified to be executed on Wednesday, 4 Azar. These two prisoners were sentenced to death for \"corruption on earth\" by Branch 15 of Tehran Revolutionary Court. Their lawyers have filed a request for retrial, but as of Emtedad's report, no order to halt the execution has been issued.",
+        "time": "13:54",
+        "ts": 1795528495
+      },
+      {
+        "channel": "Vahid Online",
+        "language": "en",
+        "text": "The dollar in Iran's free market rose to 285,200 tomans on Tuesday, 3 Azar, setting a new record. The last recorded rate at 16:00 Tehran time was 284,695 tomans, more than five percent higher than the previous day's closing rate. This price surge occurred after the announcement of new US sanctions.",
+        "time": "13:54",
+        "ts": 1795528497
       }
     ],
     "language": "en",
-    "packId": "20261124-75",
-    "sequence": 75,
+    "packId": "20261124-77",
+    "sequence": 77,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:33"
+    "updatedAt": "13:57"
   },
   "verified": true
 }
