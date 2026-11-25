@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-107 seq=107 exp=1795710815",
+      "advancedStatus": "pack_id=20261125-108 seq=108 exp=1795710840",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:33",
+      "lastChecked": "16:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 16:33",
+    "expiresAt": "2026-11-26 16:34",
     "items": [
       {
         "channel": "Iran International",
@@ -910,14 +910,21 @@
         "text": "A citizen sent a video to Iran International showing severe air pollution in Abadan on the 4th of Azar and criticized the schools not being closed despite these conditions.",
         "time": "16:29",
         "ts": 1795624198
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Hamidreza Moghaddamfar, advisor to the commander of the IRGC, said that if another war occurs, the geographical scope of the Islamic Republic's response will extend beyond the region and its military doctrine will change. He also stated that Iran has gone through two wars with these parties and they were defeated in both and did not achieve their goals.",
+        "time": "16:32",
+        "ts": 1795624370
       }
     ],
     "language": "en",
-    "packId": "20261125-107",
-    "sequence": 107,
+    "packId": "20261125-108",
+    "sequence": 108,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:33"
+    "updatedAt": "16:34"
   },
   "verified": true
 }
