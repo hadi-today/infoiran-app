@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-95 seq=95 exp=1795705967",
+      "advancedStatus": "pack_id=20261125-96 seq=96 exp=1795706503",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:12",
+      "lastChecked": "15:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 15:12",
+    "expiresAt": "2026-11-26 15:21",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Rasoul Khadem, Iranian, world, and Olympic wrestling champion, attended his father's death anniversary ceremony in Mashhad and criticized the Islamic Republic officials and government supporters while defending the Iranian people. He said those who care about oppression and the pain of the homeland have devoted their lives to this love and should not be called \"stateless.\" He also referred to the people's problems and their steadfastness on the soil and homeland.",
-        "time": "15:20",
-        "ts": 1795533619
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -910,14 +903,21 @@
         "text": "Ali Pourdarab, a journalist residing in Kermanshah, was sentenced by the Revolutionary Court of that city to one year in prison, two years of travel ban, and two years of professional ban in journalism. The sentence was issued on charges of propaganda against the regime. This information was reported by the HRANA news agency.",
         "time": "15:05",
         "ts": 1795619124
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Ahmad Taheri, head of the National Center for Air and Climate Change of the Environmental Protection Organization, announced that according to Ministry of Health studies, 58,975 people die annually in the country due to air pollution. He said Ahvaz, with 247 unhealthy days, remains the most polluted city, and the number of unhealthy days in Mashhad and Tehran in 1404 has increased by 57% compared to 1400. Taheri also emphasized the aging transportation fleet and delays in implementing some renovation plans as factors contributing to ongoing air pollution.",
+        "time": "15:17",
+        "ts": 1795619849
       }
     ],
     "language": "en",
-    "packId": "20261125-95",
-    "sequence": 95,
+    "packId": "20261125-96",
+    "sequence": 96,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:12"
+    "updatedAt": "15:21"
   },
   "verified": true
 }
