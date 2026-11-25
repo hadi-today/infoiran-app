@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-45 seq=45 exp=1795687400",
+      "advancedStatus": "pack_id=20261125-46 seq=46 exp=1795687646",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:03",
+      "lastChecked": "10:07",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 10:03",
+    "expiresAt": "2026-11-26 10:07",
     "items": [
       {
         "channel": "HRANA",
@@ -910,14 +910,21 @@
         "text": "Aram News, citing informed sources in the White House and CIA, reported that the Islamic Republic has sought North Korean expertise to develop missile launch pads. This cooperation was remote, and sanctions have hindered Tehran's missile capability restoration goals. Estimates indicate Iran has only restored about 40% of its pre-recent war missile capacity.",
         "time": "10:01",
         "ts": 1795600894
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Economist reported on the expansion of economic and military cooperation between China, Russia, the Islamic Republic, and North Korea in what it called the \"quadruple axis of evil.\" According to the report, China buys oil from Iran and Russia, the Islamic Republic provides drones and missiles to Russia, and North Korea supplies ammunition and military equipment to Moscow. Russia shares its military technology and experience with these countries.",
+        "time": "10:05",
+        "ts": 1795601113
       }
     ],
     "language": "en",
-    "packId": "20261125-45",
-    "sequence": 45,
+    "packId": "20261125-46",
+    "sequence": 46,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:03"
+    "updatedAt": "10:07"
   },
   "verified": true
 }
