@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-154 seq=154 exp=1795729004",
+      "advancedStatus": "pack_id=20261125-155 seq=155 exp=1795729246",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:36",
+      "lastChecked": "21:40",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 21:36",
+    "expiresAt": "2026-11-26 21:40",
     "items": [
       {
         "channel": "Iran International",
@@ -945,14 +945,21 @@
         "text": "Reuters reported, citing an eyewitness, hearing several explosions in Riyadh. A Saudi-led coalition announced that it intercepted and destroyed two ballistic missiles launched by Yemeni Houthis towards Riyadh. Saudi civil defense warned of a potential danger in Riyadh and later announced that the danger was removed.",
         "time": "21:32",
         "ts": 1795642348
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Morad Vaisi, a senior analyst at Iran International, said the president who was supposed to create openings has now reached a point where he wishes for death. He pointed out that while oil exports have stopped, ports are under siege, and the dollar has reached 300,000 tomans, Pezeshkian calls for an agreement and IRGC commanders chant for expanding the war. He added that Pezeshkian's wish for death is a sign of the president's despair and the intensification of the rift at the top of the Islamic Republic's governance.",
+        "time": "21:39",
+        "ts": 1795642764
       }
     ],
     "language": "en",
-    "packId": "20261125-154",
-    "sequence": 154,
+    "packId": "20261125-155",
+    "sequence": 155,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:36"
+    "updatedAt": "21:40"
   },
   "verified": true
 }
