@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-150 seq=150 exp=1795725067",
+      "advancedStatus": "pack_id=20261125-151 seq=151 exp=1795726213",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:31",
+      "lastChecked": "20:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 20:31",
+    "expiresAt": "2026-11-26 20:50",
     "items": [
       {
         "channel": "Iran International",
@@ -952,14 +952,21 @@
         "text": "A citizen sent a video to Iran International saying that the shampoo he bought last month for 430,000 tomans is now priced at 698,000 tomans, and he criticized the government's response to people's protests.",
         "time": "20:29",
         "ts": 1795638598
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Ali Sadzadeh said that Houthi attacks on economic and infrastructure targets in Saudi Arabia and the escalation of clashes in Bab al-Mandab have posed a serious challenge to Riyadh. He added that the lack of cohesion among Yemen government forces and the inability of airstrikes to contain the Houthis have put Saudi Arabia in a deadlock. Sadzadeh also linked the developments in Yemen to tensions in the Persian Gulf and the Strait of Hormuz.",
+        "time": "20:49",
+        "ts": 1795639759
       }
     ],
     "language": "en",
-    "packId": "20261125-150",
-    "sequence": 150,
+    "packId": "20261125-151",
+    "sequence": 151,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:31"
+    "updatedAt": "20:50"
   },
   "verified": true
 }
