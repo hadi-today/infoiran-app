@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-30 seq=30 exp=1795682052",
+      "advancedStatus": "pack_id=20261125-31 seq=31 exp=1795682315",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:34",
+      "lastChecked": "08:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 08:34",
+    "expiresAt": "2026-11-26 08:38",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A citizen sent a video to Iran International showing darkness in one area of Rasht city and sarcastically said about the statements of the Islamic Republic officials: \"Superpower, our electricity has been cut for four hours.\"",
-        "time": "08:34",
-        "ts": 1795509298
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -884,6 +877,13 @@
         "ts": 1795595261
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Gholamreza Tajgardoon, head of the Parliament's Planning, Budget and Accounting Commission, stated that about 75% of government employees receive salaries and benefits less than 30 to 35 million tomans, which does not align with living standards. Fathollah Tousli, spokesperson for the Parliament's Economic Commission, said many nurses, despite working three or four shifts, still face difficulties covering living expenses.",
+        "time": "08:32",
+        "ts": 1795595572
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "A mechanic at a car service pit said that from 4 PM to 6 PM the electricity was out and they have been working in darkness for two hours. He added that the market is bad and customers suffer due to the power outage.",
@@ -892,11 +892,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261125-30",
-    "sequence": 30,
+    "packId": "20261125-31",
+    "sequence": 31,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:34"
+    "updatedAt": "08:38"
   },
   "verified": true
 }
