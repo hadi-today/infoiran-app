@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-123 seq=123 exp=1795715219",
+      "advancedStatus": "pack_id=20261125-124 seq=124 exp=1795715475",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:46",
+      "lastChecked": "17:51",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 17:46",
+    "expiresAt": "2026-11-26 17:51",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The price of the dollar in Iran's free market jumped 4% in one day to 285,000 tomans. The dollar rate has more than tripled in the past 18 months. The dollar value of the minimum wage for workers has fallen to 58 dollars per month.",
-        "time": "17:49",
-        "ts": 1795542545
-      },
-      {
-        "channel": "Vahid Online",
-        "language": "en",
-        "text": "Mehdi Mahmoudian published an image of the execution order for the early morning of Wednesday, the 4th of Azar, stating that today is the last chance to save the lives of Milad Armoon and Navid Najaran.",
-        "time": "17:50",
-        "ts": 1795542651
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -945,14 +931,21 @@
         "text": "Masoud Bidarigh, a former political prisoner, told Iran International that Rasht turned into a battlefield on January 8 and 9, with security forces shooting at unarmed protesters. He witnessed security forces shooting at a young man near Somayeh Park and said people came to the streets empty-handed.",
         "time": "17:42",
         "ts": 1795628566
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The global campaign \"16 Days of Activism Against Gender-Based Violence\" takes place annually from November 25 to December 10. The campaign emphasizes the link between fighting violence against women and defending human rights. Violence against women is one of the most widespread human rights violations rooted in power inequality and discrimination.",
+        "time": "17:44",
+        "ts": 1795628645
       }
     ],
     "language": "en",
-    "packId": "20261125-123",
-    "sequence": 123,
+    "packId": "20261125-124",
+    "sequence": 124,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:46"
+    "updatedAt": "17:51"
   },
   "verified": true
 }
