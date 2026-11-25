@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-05 seq=5 exp=1795658246",
+      "advancedStatus": "pack_id=20261125-06 seq=6 exp=1795658711",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:57",
+      "lastChecked": "02:05",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 01:57",
+    "expiresAt": "2026-11-26 02:05",
     "items": [
       {
         "channel": "Iran International",
@@ -903,14 +903,21 @@
         "text": "Australia's ABC network reported that a foreign infiltration operation based in Iran used multiple ChatGPT accounts and created fake identities of seven Western journalists to submit nearly 100 critical articles about the US-Iran war for publication to online media. One of these fake journalists, named \"Alice Johnson,\" specifically targeted Australia and in her articles pointed to disagreements among US allies and the war costs imposed on Western countries. Meta identified this account as part of an infiltration network based in Iran active since 2024.",
         "time": "01:56",
         "ts": 1795571796
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A joint poll by the University of Maryland and Ipsos shows about 75% of Republicans, 41% of independent voters, and 20% of Democrats do not support an immediate end to the war with Iran regardless of conditions. 55% of all respondents want an immediate end to the war. Also, 35% of respondents believed the Islamic Republic controls the Strait of Hormuz.",
+        "time": "02:02",
+        "ts": 1795572142
       }
     ],
     "language": "en",
-    "packId": "20261125-05",
-    "sequence": 5,
+    "packId": "20261125-06",
+    "sequence": 6,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:57"
+    "updatedAt": "02:05"
   },
   "verified": true
 }
