@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-118 seq=118 exp=1795713449",
+      "advancedStatus": "pack_id=20261125-119 seq=119 exp=1795714190",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:17",
+      "lastChecked": "17:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 17:17",
+    "expiresAt": "2026-11-26 17:29",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Following another attack by Houthi forces supported by the Islamic Republic on the tallest tower in Riyadh, at least 11 people were injured. This tower was targeted for the second time in less than a week. Meanwhile, disagreements in Israel about the timing of another attack on Iran have intensified.",
-        "time": "17:17",
-        "ts": 1795540670
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Israel's Channel 12 reported on Tuesday, 3 Azar, quoting Israel Katz, Israel's Defense Minister, that the Islamic Republic is developing chemical weapons and that Israel and the US are aware of this. Katz said Israel will not allow the Islamic Republic to gain such capability. He also stated that Islamic Republic-affiliated cells operate in the US aiming to attack senior officials, and Donald Trump and his family are at risk.",
-        "time": "17:20",
-        "ts": 1795540855
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -945,14 +931,21 @@
         "text": "It was reported that Danial Habibollahi, a law graduate, was arrested and transferred to prison on Sunday, 1 Azar, to serve his prison sentence. He had previously been sentenced by a judicial authority to three years of retributive imprisonment and four years of suspended imprisonment.",
         "time": "17:16",
         "ts": 1795626960
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "A report on the latest status of Morad Mohammadi, a political prisoner serving his sentence in Ilam prison, has been published. He was previously sentenced to more than four years in prison by the Revolutionary Court.",
+        "time": "17:27",
+        "ts": 1795627646
       }
     ],
     "language": "en",
-    "packId": "20261125-118",
-    "sequence": 118,
+    "packId": "20261125-119",
+    "sequence": 119,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:17"
+    "updatedAt": "17:29"
   },
   "verified": true
 }
