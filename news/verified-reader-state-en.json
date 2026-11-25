@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-106 seq=106 exp=1795710073",
+      "advancedStatus": "pack_id=20261125-107 seq=107 exp=1795710815",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:21",
+      "lastChecked": "16:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 16:21",
+    "expiresAt": "2026-11-26 16:33",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Masoud Pezeshkian, head of the Islamic Republic government, on Tuesday, 3 Azar, referred to attacks during the 12-day war and criticism of his government's performance, saying that if they had been hit, it would have been easier and they would have heard fewer taunts. He added that the enemy seeks to exacerbate problems to increase protests and create internal divisions. Pezeshkian emphasized that unity and cohesion must be maintained to prevent the enemy's goals from being realized.",
-        "time": "16:27",
-        "ts": 1795537623
-      },
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Farahnaz Sabzevari, a general practitioner, was released from Sabzevar prison. She was released on Sunday, 1 Azar, after posting bail. This news was reported by HRANA news agency.",
-        "time": "16:27",
-        "ts": 1795537641
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -917,14 +903,21 @@
         "text": "The Yemeni government reported that Hezbollah has started operations to transfer its resources and activities to Yemen. According to the report, the Houthis supported by the Islamic Republic are establishing a network across the region and the Red Sea in cooperation with the Al-Shabaab movement in Somalia.",
         "time": "16:19",
         "ts": 1795623564
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A citizen sent a video to Iran International showing severe air pollution in Abadan on the 4th of Azar and criticized the schools not being closed despite these conditions.",
+        "time": "16:29",
+        "ts": 1795624198
       }
     ],
     "language": "en",
-    "packId": "20261125-106",
-    "sequence": 106,
+    "packId": "20261125-107",
+    "sequence": 107,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:21"
+    "updatedAt": "16:33"
   },
   "verified": true
 }
