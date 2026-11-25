@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-13 seq=13 exp=1795670005",
+      "advancedStatus": "pack_id=20261125-14 seq=14 exp=1795670490",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:13",
+      "lastChecked": "05:21",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 05:13",
+    "expiresAt": "2026-11-26 05:21",
     "items": [
       {
         "channel": "Iran International",
@@ -868,14 +868,21 @@
         "text": "The Judiciary News Agency announced that the final death sentences of Milad Armoon and Navid Najaran have not been canceled and the reported execution time is inaccurate. Concerns about the imminent execution of these two political prisoners intensified after their transfer to solitary confinement. Mohammad Hossein Aghasi reported the suspension of Milad Armoon's execution, and Navid Najaran informed his family by phone that he has returned to the general ward of Qezel Hesar prison.",
         "time": "05:12",
         "ts": 1795583524
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Riyadh embassy in Washington announced that Saudi Arabia's air defense intercepted 209 Houthi aerial threats against the country from 24 September to 24 November. According to the report, these attacks targeted civilian infrastructure and energy facilities in several areas, including regions near Mecca and Medina, causing casualties and injuries.",
+        "time": "05:20",
+        "ts": 1795584007
       }
     ],
     "language": "en",
-    "packId": "20261125-13",
-    "sequence": 13,
+    "packId": "20261125-14",
+    "sequence": 14,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:13"
+    "updatedAt": "05:21"
   },
   "verified": true
 }
