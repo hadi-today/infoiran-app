@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-149 seq=149 exp=1795724091",
+      "advancedStatus": "pack_id=20261125-150 seq=150 exp=1795725067",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:14",
+      "lastChecked": "20:31",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 20:14",
+    "expiresAt": "2026-11-26 20:31",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Bahrain's official news agency reported on Tuesday, 3 Azar, that the country called for decisive and effective UN Security Council measures to stop the Islamic Republic's attacks, prevent their recurrence, and hold the Islamic Republic accountable. The Security Council held an emergency meeting on Monday, 2 Azar, to discuss the continuation of the Islamic Republic's attacks on Bahrain and the region. Bahrain also emphasized the danger of ongoing attacks on civilians and the Islamic Republic's threats to regional security.",
-        "time": "20:29",
-        "ts": 1795552174
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -952,14 +945,21 @@
         "text": "Jamshid Barzegar, a journalist and political analyst, said that the continuation of the US naval blockade and increased economic pressure have put the Islamic Republic in a difficult position. According to him, Tehran may resort to offensive operations and increased tensions in the region to get out of this situation.",
         "time": "20:12",
         "ts": 1795637560
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A citizen sent a video to Iran International saying that the shampoo he bought last month for 430,000 tomans is now priced at 698,000 tomans, and he criticized the government's response to people's protests.",
+        "time": "20:29",
+        "ts": 1795638598
       }
     ],
     "language": "en",
-    "packId": "20261125-149",
-    "sequence": 149,
+    "packId": "20261125-150",
+    "sequence": 150,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:14"
+    "updatedAt": "20:31"
   },
   "verified": true
 }
