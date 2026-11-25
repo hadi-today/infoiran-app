@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-141 seq=141 exp=1795721605",
+      "advancedStatus": "pack_id=20261125-143 seq=143 exp=1795722338",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:33",
+      "lastChecked": "19:45",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 19:33",
+    "expiresAt": "2026-11-26 19:45",
     "items": [
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "A citizen in Bandar Anzali was arrested by the Intelligence and Public Security Police forces following the publication of content on social media.",
-        "time": "19:34",
-        "ts": 1795548889
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A group of Iranians protested against the execution sentences in Iran on the 3rd of Azar by gathering in front of the Islamic Republic's embassy in Madrid, chanting slogans at the embassy staff: \"Get lost outside, Sepahi, from the royal building.\"",
-        "time": "19:45",
-        "ts": 1795549504
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -938,14 +924,21 @@
         "text": "A citizen showed in a video sent to Iran International the emission of smoke from the Chenaran sugar factory on the 4th of Azar and said that this factory is burning mazut.",
         "time": "19:29",
         "ts": 1795634998
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "On November 25, the International Day for the Elimination of Violence against Women, while news of femicide continues to emerge from Iran, some Iran International audience members shared their untold experiences of years of sexual harassment, rape, domestic violence, forced marriage, child marriage, and gender discrimination. These accounts indicate the widespread violence against women at home, school, street, and workplace. Many women said fear of judgment, threats, and lack of legal support forced them into years of silence.",
+        "time": "19:36",
+        "ts": 1795635373
       }
     ],
     "language": "en",
-    "packId": "20261125-141",
-    "sequence": 141,
+    "packId": "20261125-143",
+    "sequence": 143,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:33"
+    "updatedAt": "19:45"
   },
   "verified": true
 }
