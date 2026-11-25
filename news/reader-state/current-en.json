@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-04 seq=4 exp=1795656434",
+      "advancedStatus": "pack_id=20261125-05 seq=5 exp=1795658246",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:27",
+      "lastChecked": "01:57",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 01:27",
+    "expiresAt": "2026-11-26 01:57",
     "items": [
       {
         "channel": "Iran International",
@@ -896,14 +896,21 @@
         "text": "Trump said in an interview with the New York Post about the Islamic Republic's plan to sue the US for compensation over the airstrike on Minab school that if Tehran takes such action, the US will also seek compensation from Iran for its killed citizens. He added that the US is the winner in this compensation game and referred to the killing of 75,000 protesters in the past seven months. Trump also said the war started in 1979 and he was the only president willing to take action.",
         "time": "01:24",
         "ts": 1795569840
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Australia's ABC network reported that a foreign infiltration operation based in Iran used multiple ChatGPT accounts and created fake identities of seven Western journalists to submit nearly 100 critical articles about the US-Iran war for publication to online media. One of these fake journalists, named \"Alice Johnson,\" specifically targeted Australia and in her articles pointed to disagreements among US allies and the war costs imposed on Western countries. Meta identified this account as part of an infiltration network based in Iran active since 2024.",
+        "time": "01:56",
+        "ts": 1795571796
       }
     ],
     "language": "en",
-    "packId": "20261125-04",
-    "sequence": 4,
+    "packId": "20261125-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:27"
+    "updatedAt": "01:57"
   },
   "verified": true
 }
