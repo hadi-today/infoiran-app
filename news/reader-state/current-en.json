@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-76 seq=76 exp=1795701529",
+      "advancedStatus": "pack_id=20261125-77 seq=77 exp=1795701553",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:58",
+      "lastChecked": "13:59",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 13:58",
+    "expiresAt": "2026-11-26 13:59",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A citizen sent a video to Iran International reporting daily two-hour power outages and gas cuts in the \"Khan Zanian\" area of Fars province. He said officials stated the reason for the gas cut was \"residing in a garden city\" and asked, \"Are we not Iranians?\"",
-        "time": "13:59",
-        "ts": 1795528741
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -868,14 +861,21 @@
         "text": "Bianca Mainl Reisinger, Austria's Foreign Minister, called the flogging sentence of Parasto Ahmadi and four others torture and a violation of international law. She emphasized that the Islamic Republic fears independent women and supported the UN High Commissioner for Human Rights' call to abolish flogging in Iran. Mainl Reisinger stated Austria stands with Iranian women and will advocate for their rights at the UN Security Council.",
         "time": "13:50",
         "ts": 1795614625
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Conversation reported that the experimental drug \"Diranersen\" has been able to slow the decline of memory and cognitive abilities in Alzheimer's patients by up to 54% in a clinical trial. This drug works by reducing the production of the protein \"Tau\" in brain cells, unlike approved drugs that focus on clearing amyloid protein. Current approved drugs may have significant side effects, but Diranersen reduces Tau protein production from the start.",
+        "time": "13:56",
+        "ts": 1795614975
       }
     ],
     "language": "en",
-    "packId": "20261125-76",
-    "sequence": 76,
+    "packId": "20261125-77",
+    "sequence": 77,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:58"
+    "updatedAt": "13:59"
   },
   "verified": true
 }
