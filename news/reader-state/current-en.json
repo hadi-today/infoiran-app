@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-132 seq=132 exp=1795718446",
+      "advancedStatus": "pack_id=20261125-133 seq=133 exp=1795719167",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:40",
+      "lastChecked": "18:52",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 18:40",
+    "expiresAt": "2026-11-26 18:52",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Mostafa Motadin, CEO of Esteghlal club, said Sohrab Bakhtiyari-Zadeh has not set any conditions for continuing at Esteghlal and his contract will be extended. He denied rumors of negotiations with a foreign coach and stated that there is a 99% chance the club's transfer window will open. The club's priority is to address cases that might affect the opening of the window.",
-        "time": "18:42",
-        "ts": 1795545755
-      },
-      {
-        "channel": "HRANA",
-        "language": "en",
-        "text": "Shahram Jamali, a political prisoner held in Amol prison, was granted a seven-day leave starting Saturday, 30 Aban. This was reported by the HRANA news agency.",
-        "time": "18:46",
-        "ts": 1795546014
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -945,14 +931,21 @@
         "text": "On Wednesday, 4 Azar, Mahdi Mahmoudian, a civil activist, was arrested by security forces at his home and transferred to an unknown location.",
         "time": "18:37",
         "ts": 1795631874
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The death sentence of a defendant in Tehran was overturned by the Supreme Court, and his case was referred back to the Criminal Court One of Tehran Province for reconsideration. Additionally, four prisoners sentenced to death in Kouhdasht, Sanandaj, and Maragheh were released from the gallows after the forgiveness of the victims' families.",
+        "time": "18:51",
+        "ts": 1795632666
       }
     ],
     "language": "en",
-    "packId": "20261125-132",
-    "sequence": 132,
+    "packId": "20261125-133",
+    "sequence": 133,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:40"
+    "updatedAt": "18:52"
   },
   "verified": true
 }
