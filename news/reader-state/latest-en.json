@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-44 seq=44 exp=1795686912",
+      "advancedStatus": "pack_id=20261125-45 seq=45 exp=1795687400",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:55",
+      "lastChecked": "10:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 09:55",
+    "expiresAt": "2026-11-26 10:03",
     "items": [
       {
         "channel": "HRANA",
@@ -903,14 +903,21 @@
         "text": "Hossein Samsami, Tehran representative in parliament, said in a virtual parliamentary session on Wednesday, 4 Azar, that both the Central Bank and the government are playing on the enemy's field, as the Central Bank increases the exchange rate daily. He added that the rise in exchange rates and leaving imports and pricing to the free market creates demand for currency.",
         "time": "09:53",
         "ts": 1795600410
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Aram News, citing informed sources in the White House and CIA, reported that the Islamic Republic has sought North Korean expertise to develop missile launch pads. This cooperation was remote, and sanctions have hindered Tehran's missile capability restoration goals. Estimates indicate Iran has only restored about 40% of its pre-recent war missile capacity.",
+        "time": "10:01",
+        "ts": 1795600894
       }
     ],
     "language": "en",
-    "packId": "20261125-44",
-    "sequence": 44,
+    "packId": "20261125-45",
+    "sequence": 45,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:55"
+    "updatedAt": "10:03"
   },
   "verified": true
 }
