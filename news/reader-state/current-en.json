@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-81 seq=81 exp=1795702097",
+      "advancedStatus": "pack_id=20261125-82 seq=82 exp=1795702328",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:08",
+      "lastChecked": "14:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 14:08",
+    "expiresAt": "2026-11-26 14:12",
     "items": [
       {
         "channel": "Iran International",
@@ -884,6 +884,13 @@
         "ts": 1795615310
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Five media outlets in Ilam were suspended by order of the provincial prosecutor. The suspensions followed the publication of critical content regarding the performance of the governor of Ilam, especially related to a deadly bus accident.",
+        "time": "14:01",
+        "ts": 1795615315
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Harana news agency reported that Garanaz Mousavi, a poet and filmmaker, was summoned to the criminal enforcement branch of Tehran's Culture and Media Prosecutor's Office to serve a prison sentence under electronic monitoring. The summons was issued on Tuesday, Azar 3, and Mousavi must appear within five days to serve the sentence. The conviction relates to a case from 1390 concerning the making of the film \"My Tehran, Auction.\"",
@@ -899,11 +906,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261125-81",
-    "sequence": 81,
+    "packId": "20261125-82",
+    "sequence": 82,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:08"
+    "updatedAt": "14:12"
   },
   "verified": true
 }
