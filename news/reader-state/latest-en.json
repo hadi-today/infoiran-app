@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-128 seq=128 exp=1795717437",
+      "advancedStatus": "pack_id=20261125-129 seq=129 exp=1795717463",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:23",
+      "lastChecked": "18:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 18:23",
+    "expiresAt": "2026-11-26 18:24",
     "items": [
       {
         "channel": "Iran International",
@@ -931,14 +931,21 @@
         "text": "On the afternoon of Wednesday, 4 Azar, a worker at the Ashkali Hajdak coal mine in the Kohsaran district of Ravar county died due to a fall from height.",
         "time": "18:20",
         "ts": 1795630818
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "In the AFC Champions League 2 match between Al Jazira and Gol Gohar, the Syrian referee was replaced at halftime due to suspicion of alcohol consumption. Gol Gohar's manager stated the referee was acting abnormally and their team refused to continue playing until the referee was replaced following their threat. Gol Gohar lost the match 1-0 and was eliminated from the competition.",
+        "time": "18:21",
+        "ts": 1795630894
       }
     ],
     "language": "en",
-    "packId": "20261125-128",
-    "sequence": 128,
+    "packId": "20261125-129",
+    "sequence": 129,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:23"
+    "updatedAt": "18:24"
   },
   "verified": true
 }
