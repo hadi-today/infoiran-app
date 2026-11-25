@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-51 seq=51 exp=1795689095",
+      "advancedStatus": "pack_id=20261125-52 seq=52 exp=1795689318",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "10:31",
+      "lastChecked": "10:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 10:31",
+    "expiresAt": "2026-11-26 10:35",
     "items": [
       {
         "channel": "HRANA",
@@ -905,6 +905,13 @@
         "ts": 1795602408
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The Deputy of Treatment at the Ministry of Health reported that from 10 Aban to 3 Azar, 356 people in various cities across the country suffered poisoning from alcohol consumption and 20 people died. The highest number of cases was reported in Nishapur with 211 cases. Additionally, 80 people underwent dialysis and 33 are hospitalized in intensive care units.",
+        "time": "10:28",
+        "ts": 1795602491
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "A worker sent a video to Iran International reporting a gas outage in a brick kiln and said the lack of gas in cold weather has disrupted work. He opened the stove valve without flame and said, \"We are seasonal workers, we came here but there is no gas to work in this cold.\"",
@@ -913,11 +920,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261125-51",
-    "sequence": 51,
+    "packId": "20261125-52",
+    "sequence": 52,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "10:31"
+    "updatedAt": "10:35"
   },
   "verified": true
 }
