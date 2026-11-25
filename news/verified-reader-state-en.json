@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261125-145 seq=145 exp=1795723313",
+      "advancedStatus": "pack_id=20261125-146 seq=146 exp=1795723571",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:01",
+      "lastChecked": "20:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-25",
-    "expiresAt": "2026-11-26 20:01",
+    "expiresAt": "2026-11-26 20:06",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Prince Reza Pahlavi's media office warned on Tuesday, 3 Azar, on the social network X about the risk of execution for Milad Armoon and Navid Najaran at dawn on Wednesday, 4 Azar. The office stated that despite being acquitted of murder charges, Milad Armoon and Navid Najaran have been sentenced to death by Abolghasem Salavati. The office urged people not to remain silent and to be the voice of Milad and Navid before it is too late.",
-        "time": "20:05",
-        "ts": 1795550720
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -931,14 +924,21 @@
         "text": "A report has been presented about the hidden complicity of a part of society with the government in suppressing women.",
         "time": "19:57",
         "ts": 1795636649
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Jonathan Schaech, an analyst at the Foundation for Defense of Democracies, said that after the failure of negotiations and unsuccessful efforts to change the behavior of the Islamic Republic, there are more serious signs of Washington's desire to change the government in Iran. He added that Tehran is also preparing for a new round of conflict by moving military infrastructure underground and preparing government forces.",
+        "time": "20:02",
+        "ts": 1795636942
       }
     ],
     "language": "en",
-    "packId": "20261125-145",
-    "sequence": 145,
+    "packId": "20261125-146",
+    "sequence": 146,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:01"
+    "updatedAt": "20:06"
   },
   "verified": true
 }
