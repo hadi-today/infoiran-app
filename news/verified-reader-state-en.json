@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261126-100 seq=100 exp=1795795855",
+      "advancedStatus": "pack_id=20261126-101 seq=101 exp=1795796825",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:10",
+      "lastChecked": "16:27",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-26",
-    "expiresAt": "2026-11-27 16:10",
+    "expiresAt": "2026-11-27 16:27",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Abdel Fattah el-Sisi, President of Egypt, emphasized the importance of ensuring freedom and security of navigation in international waterways during a meeting with Vincent Clerc, CEO of Maersk, on Wednesday, 4 Azar. El-Sisi stated that Egypt will continue its efforts to reduce tensions and maintain freedom of navigation. The Maersk CEO said the company has resumed operations through the Suez Canal and the Red Sea and will fully restore its shipping network to this route in the coming months.",
-        "time": "16:12",
-        "ts": 1795623159
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The Yemeni government reported that Hezbollah has started operations to transfer its resources and activities to Yemen. According to the report, the Houthis supported by the Islamic Republic are establishing a network across the region and the Red Sea in cooperation with the Al-Shabaab movement in Somalia.",
-        "time": "16:19",
-        "ts": 1795623564
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -973,14 +959,21 @@
         "text": "The match between Besiktas of Turkey and Hapoel Be'er Sheva, representing Israel, in the Europa League was moved from Istanbul to a neutral ground in Batumi, Georgia due to security considerations. The game is scheduled for tonight and has faced adverse weather conditions before kickoff.",
         "time": "15:56",
         "ts": 1795708601
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Abulfazl Shekarchi, senior spokesperson for the Islamic Republic's armed forces, denied Kuwait army's report about an attack by the Islamic Republic on one of Kuwait's vital facilities. He said no military or offensive operations were conducted by the Islamic Republic's armed forces in the region. Two Italian citizens died from injuries caused by a drone attack by the Islamic Republic on Kuwait, and one Kuwaiti and one Pakistani citizen were also injured.",
+        "time": "16:23",
+        "ts": 1795710212
       }
     ],
     "language": "en",
-    "packId": "20261126-100",
-    "sequence": 100,
+    "packId": "20261126-101",
+    "sequence": 101,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:10"
+    "updatedAt": "16:27"
   },
   "verified": true
 }
