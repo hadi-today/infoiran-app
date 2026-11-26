@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261126-58 seq=58 exp=1795782816",
+      "advancedStatus": "pack_id=20261126-59 seq=59 exp=1795783298",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:33",
+      "lastChecked": "12:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-26",
-    "expiresAt": "2026-11-27 12:33",
+    "expiresAt": "2026-11-27 12:41",
     "items": [
       {
         "channel": "Iran International",
@@ -931,14 +931,21 @@
         "text": "A video sent to Iran International shows that a group of Iranians residing in Switzerland protested the flogging sentence of Parasto Ahmadi, a female singer, on December 4, the International Day for the Elimination of Violence against Women, by gathering in Zurich.",
         "time": "12:30",
         "ts": 1795696211
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Amitis Ramazani, head of the Iranian Infectious Disease Specialists Association, announced that the spread of influenza has passed the warning threshold in most provinces of the country. She said the influenza wave started earlier this year than last year and the number of cases is increasing more rapidly. About 50% of positive influenza cases are seen in individuals under 15 years old, and children may suffer from more severe forms of the disease.",
+        "time": "12:37",
+        "ts": 1795696671
       }
     ],
     "language": "en",
-    "packId": "20261126-58",
-    "sequence": 58,
+    "packId": "20261126-59",
+    "sequence": 59,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:33"
+    "updatedAt": "12:41"
   },
   "verified": true
 }
