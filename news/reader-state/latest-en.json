@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261126-14 seq=14 exp=1795755736",
+      "advancedStatus": "pack_id=20261126-15 seq=15 exp=1795755981",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "05:02",
+      "lastChecked": "05:06",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-26",
-    "expiresAt": "2026-11-27 05:02",
+    "expiresAt": "2026-11-27 05:06",
     "items": [
       {
         "channel": "Iran International",
@@ -1001,14 +1001,21 @@
         "text": "Al Hadath network reported, citing American sources, that Hezbollah has regained 50 percent of its capabilities and power. According to these American sources, Washington is trying to hold a political meeting between Lebanon and Israel within the next two or three weeks.",
         "time": "05:00",
         "ts": 1795669242
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The White House announced that Donald Trump and Mark Rutte discussed conflicts in Iran and the Russia-Ukraine war during a meeting at Mar-a-Lago. Investment in defense and efforts to end the Ukraine war were other topics of discussion. Trump had previously criticized European allies for insufficient support and defense spending.",
+        "time": "05:02",
+        "ts": 1795669360
       }
     ],
     "language": "en",
-    "packId": "20261126-14",
-    "sequence": 14,
+    "packId": "20261126-15",
+    "sequence": 15,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "05:02"
+    "updatedAt": "05:06"
   },
   "verified": true
 }
