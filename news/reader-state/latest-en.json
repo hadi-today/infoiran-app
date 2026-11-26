@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261126-28 seq=28 exp=1795766888",
+      "advancedStatus": "pack_id=20261126-29 seq=29 exp=1795767144",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "08:08",
+      "lastChecked": "08:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-26",
-    "expiresAt": "2026-11-27 08:08",
+    "expiresAt": "2026-11-27 08:12",
     "items": [
       {
         "channel": "HRANA",
@@ -987,14 +987,21 @@
         "text": "Houshang Hasenyari, an expert on Middle East and military affairs, said the Islamic Republic uses all available capacities to acquire unconventional weapons, including nuclear and chemical weapons. He stated that if the Islamic Republic obtains these weapons, given the regime's anti-Israeli policies, the possibility of using them against Israel can be considered.",
         "time": "08:06",
         "ts": 1795680398
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Israeli media reported a tense phone call between Benjamin Netanyahu and Donald Trump regarding military action against the Islamic Republic. According to informed sources, Netanyahu tried to convince Trump to carry out a military attack in the near future during this call.",
+        "time": "08:09",
+        "ts": 1795680549
       }
     ],
     "language": "en",
-    "packId": "20261126-28",
-    "sequence": 28,
+    "packId": "20261126-29",
+    "sequence": 29,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "08:08"
+    "updatedAt": "08:12"
   },
   "verified": true
 }
