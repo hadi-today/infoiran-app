@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261126-105 seq=105 exp=1795798115",
+      "advancedStatus": "pack_id=20261126-106 seq=106 exp=1795798383",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:48",
+      "lastChecked": "16:53",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-26",
-    "expiresAt": "2026-11-27 16:48",
+    "expiresAt": "2026-11-27 16:53",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Turki Al-Maliki, spokesperson for the Saudi-led coalition, reported on Wednesday, 4 Azar, that a projectile fired by the Houthis hit the Jazan port in southern Saudi Arabia. Al-Maliki stated that the attack caused minor damage, but no civilians were harmed. He added that efforts to determine the type of projectile fired by the Houthis are ongoing.",
-        "time": "16:49",
-        "ts": 1795625359
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -966,14 +959,21 @@
         "text": "By noon on Thursday, 5 Azar, the number of poisoned people in Hormozgan province reached 113, with seven deaths. In Nishapur, 230 people were poisoned, with five deaths and five cases of brain death recorded. Also, in Khoy county, 20 people were poisoned, with three deaths and seven people hospitalized in intensive care units.",
         "time": "16:47",
         "ts": 1795711651
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The official Iraqi news agency reported on Thursday, 5 Azar, quoting a local source that Iraqi border forces have closed the Pashteh border crossing with Iran in Halabja province. The source said the order to close this crossing was issued from Baghdad and the border forces are only responsible for implementing this order.",
+        "time": "16:48",
+        "ts": 1795711738
       }
     ],
     "language": "en",
-    "packId": "20261126-105",
-    "sequence": 105,
+    "packId": "20261126-106",
+    "sequence": 106,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:48"
+    "updatedAt": "16:53"
   },
   "verified": true
 }
