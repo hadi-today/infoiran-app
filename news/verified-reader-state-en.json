@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261126-130 seq=130 exp=1795810937",
+      "advancedStatus": "pack_id=20261126-131 seq=131 exp=1795811675",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:22",
+      "lastChecked": "20:34",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-26",
-    "expiresAt": "2026-11-27 20:22",
+    "expiresAt": "2026-11-27 20:34",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A citizen sent a video to Iran International saying that the shampoo he bought last month for 430,000 tomans is now priced at 698,000 tomans, and he criticized the government's response to people's protests.",
-        "time": "20:29",
-        "ts": 1795638598
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -854,14 +847,21 @@
         "text": "The Israeli army announced on Thursday, 5 Azar, that it targeted dozens of rockets and launch pads in an airstrike on a training camp belonging to Hezbollah's Ridwan unit in the Ain al-Tineh area in southern Lebanon. The Israeli army emphasized that it will continue its operations to eliminate Hezbollah threats while adhering to the ceasefire agreement.",
         "time": "20:21",
         "ts": 1795724474
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A citizen released a video showing extensive cutting of pine trees in a part of Shian Forest Park in Tehran on the fifth of Azar. Sawdust and signs of fire are also visible in the images. He protested this situation, saying parts of the forest have become empty.",
+        "time": "20:34",
+        "ts": 1795725247
       }
     ],
     "language": "en",
-    "packId": "20261126-130",
-    "sequence": 130,
+    "packId": "20261126-131",
+    "sequence": 131,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:22"
+    "updatedAt": "20:34"
   },
   "verified": true
 }
