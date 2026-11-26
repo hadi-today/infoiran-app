@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261126-41 seq=41 exp=1795773437",
+      "advancedStatus": "pack_id=20261126-42 seq=42 exp=1795774174",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "09:57",
+      "lastChecked": "10:09",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-26",
-    "expiresAt": "2026-11-27 09:57",
+    "expiresAt": "2026-11-27 10:09",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Aram News, citing informed sources in the White House and CIA, reported that the Islamic Republic has sought North Korean expertise to develop missile launch pads. This cooperation was remote, and sanctions have hindered Tehran's missile capability restoration goals. Estimates indicate Iran has only restored about 40% of its pre-recent war missile capacity.",
-        "time": "10:01",
-        "ts": 1795600894
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The Economist reported on the expansion of economic and military cooperation between China, Russia, the Islamic Republic, and North Korea in what it called the \"quadruple axis of evil.\" According to the report, China buys oil from Iran and Russia, the Islamic Republic provides drones and missiles to Russia, and North Korea supplies ammunition and military equipment to Moscow. Russia shares its military technology and experience with these countries.",
-        "time": "10:05",
-        "ts": 1795601113
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -966,14 +952,21 @@
         "text": "Israel Hayom newspaper reported, quoting a Western diplomat, about decades-long efforts by the Islamic Republic to develop chemical weapons. Iran International also warned last year in an exclusive report about activities related to the development of chemical and biological warheads for ballistic missiles.",
         "time": "09:56",
         "ts": 1795686995
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The Cultural Commission of the Parliament announced that the review of the \"Regulation of widespread audio and video violations in cyberspace\" bill has reached its final stages and will be referred to the Parliament's public session for review and approval after consolidation. This bill is designed to increase oversight of the production and dissemination of audio and video content in cyberspace. A member of the Cultural Commission said that the publication of content crossing \"cultural and ethical red lines\" was among the reasons for reviewing this bill.",
+        "time": "10:07",
+        "ts": 1795687676
       }
     ],
     "language": "en",
-    "packId": "20261126-41",
-    "sequence": 41,
+    "packId": "20261126-42",
+    "sequence": 42,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "09:57"
+    "updatedAt": "10:09"
   },
   "verified": true
 }
