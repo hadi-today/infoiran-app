@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261126-132 seq=132 exp=1795811938",
+      "advancedStatus": "pack_id=20261126-133 seq=133 exp=1795811960",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "20:38",
+      "lastChecked": "20:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-26",
-    "expiresAt": "2026-11-27 20:38",
+    "expiresAt": "2026-11-27 20:39",
     "items": [
       {
         "channel": "Iran International",
@@ -861,14 +861,21 @@
         "text": "Rouhollah Rahimpour said the killing of two Italian citizens in a drone attack by the Islamic Republic on a military base in Kuwait could affect the approach of European countries, especially Italy, towards the Islamic Republic. He emphasized that such attacks might become a factor in escalating conflicts and further expose the Gulf countries to insecurity.",
         "time": "20:34",
         "ts": 1795725263
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Morad Vaisi, senior analyst at Iran International, said the Islamic Republic considers internal protests the main threat to its survival. The appointment of Hossein Taeb as head of Basij and emphasis on a \"neighborhood-centered\" approach indicate the government wants to contain protests before they spread citywide. Vaisi added that in case of another attack by the US and Israel, institutions involved in suppressing protests may be targeted more than before, and disruptions in fuel, electricity, and gas supply could weaken government control.",
+        "time": "20:35",
+        "ts": 1795725356
       }
     ],
     "language": "en",
-    "packId": "20261126-132",
-    "sequence": 132,
+    "packId": "20261126-133",
+    "sequence": 133,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "20:38"
+    "updatedAt": "20:39"
   },
   "verified": true
 }
