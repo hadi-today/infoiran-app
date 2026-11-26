@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261126-101 seq=101 exp=1795796825",
+      "advancedStatus": "pack_id=20261126-103 seq=103 exp=1795797344",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:27",
+      "lastChecked": "16:35",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-26",
-    "expiresAt": "2026-11-27 16:27",
+    "expiresAt": "2026-11-27 16:35",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A citizen sent a video to Iran International showing severe air pollution in Abadan on the 4th of Azar and criticized the schools not being closed despite these conditions.",
-        "time": "16:29",
-        "ts": 1795624198
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Hamidreza Moghaddamfar, advisor to the commander of the IRGC, said that if another war occurs, the geographical scope of the Islamic Republic's response will extend beyond the region and its military doctrine will change. He also stated that Iran has gone through two wars with these parties and they were defeated in both and did not achieve their goals.",
-        "time": "16:32",
-        "ts": 1795624370
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -966,14 +952,21 @@
         "text": "Abulfazl Shekarchi, senior spokesperson for the Islamic Republic's armed forces, denied Kuwait army's report about an attack by the Islamic Republic on one of Kuwait's vital facilities. He said no military or offensive operations were conducted by the Islamic Republic's armed forces in the region. Two Italian citizens died from injuries caused by a drone attack by the Islamic Republic on Kuwait, and one Kuwaiti and one Pakistani citizen were also injured.",
         "time": "16:23",
         "ts": 1795710212
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "In a received video, a citizen says that the sharp increase in the price of oil and tires has caused some trucks at the Khomeini terminal to refuse loading on the fifth of Azar.",
+        "time": "16:34",
+        "ts": 1795710864
       }
     ],
     "language": "en",
-    "packId": "20261126-101",
-    "sequence": 101,
+    "packId": "20261126-103",
+    "sequence": 103,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:27"
+    "updatedAt": "16:35"
   },
   "verified": true
 }
