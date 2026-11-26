@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261126-110 seq=110 exp=1795800924",
+      "advancedStatus": "pack_id=20261126-111 seq=111 exp=1795801163",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:35",
+      "lastChecked": "17:39",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-26",
-    "expiresAt": "2026-11-27 17:35",
+    "expiresAt": "2026-11-27 17:39",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Niusha Saremi reported in Titrawal that tensions have escalated from Hormuz to the Red Sea. It was also reported that suspicious underground facilities have been constructed in Bahjatabad.",
-        "time": "17:37",
-        "ts": 1795628230
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -924,14 +917,21 @@
         "text": "The former representative of workers at Iran Poplin Textile Company in Rasht reported the cancellation of his representation and his dismissal after pursuing workers' union demands. A social activist for Social Security retirees criticized delays in pension payments, retirees' medical problems, and the failure to implement the promised special wage increase for coal mine workers.",
         "time": "17:33",
         "ts": 1795714421
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Due to lack of workplace safety and poor working conditions, two workers died in the cities of Isfahan and Ilam.",
+        "time": "17:37",
+        "ts": 1795714665
       }
     ],
     "language": "en",
-    "packId": "20261126-110",
-    "sequence": 110,
+    "packId": "20261126-111",
+    "sequence": 111,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:35"
+    "updatedAt": "17:39"
   },
   "verified": true
 }
