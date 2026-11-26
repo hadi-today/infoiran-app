@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261126-137 seq=137 exp=1795813698",
+      "advancedStatus": "pack_id=20261126-138 seq=138 exp=1795813953",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "21:08",
+      "lastChecked": "21:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-26",
-    "expiresAt": "2026-11-27 21:08",
+    "expiresAt": "2026-11-27 21:12",
     "items": [
       {
         "channel": "Iran International",
@@ -875,14 +875,21 @@
         "text": "A video was released showing that well diggers in Damavand got trapped in a well due to a power outage and need to be rescued with ropes. The narrator of the video criticized the unplanned power cuts.",
         "time": "21:04",
         "ts": 1795727070
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The match between Turkey's Besiktas and Israel's Hapoel Be'er Sheva in the Europa League was stopped for 30 minutes after Besiktas fans clashed with Georgian police and security forces used pepper spray. This happened after Palestinian flags were displayed and anti-Israel slogans were chanted. Besiktas eventually won 2-1.",
+        "time": "21:11",
+        "ts": 1795727486
       }
     ],
     "language": "en",
-    "packId": "20261126-137",
-    "sequence": 137,
+    "packId": "20261126-138",
+    "sequence": 138,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "21:08"
+    "updatedAt": "21:12"
   },
   "verified": true
 }
