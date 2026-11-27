@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261127-15 seq=15 exp=1795850450",
+      "advancedStatus": "pack_id=20261127-16 seq=16 exp=1795851203",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "07:20",
+      "lastChecked": "07:33",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-27",
-    "expiresAt": "2026-11-28 07:20",
+    "expiresAt": "2026-11-28 07:33",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Esteghlal team became the women's ice hockey premier league champion by defeating the Penguins 4-1, four weeks before the end of the competition. Yeganeh Bahrami leads the scorers table with 12 goals, and Hadiseh Pourhashami follows her teammate with 11 goals.",
-        "time": "07:25",
-        "ts": 1795677918
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A citizen sent a video to Iran International saying that on 5 Azar, due to a power outage in Tehran, the elevator stopped and he has to wait about two hours until the power is restored.",
-        "time": "07:30",
-        "ts": 1795678212
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -798,14 +784,21 @@
         "text": "Reuters reported that the US threatened Iraq this year that if it does not reduce the influence of the Islamic Republic in its government, it might cut Baghdad's access to its oil revenues. Iraq's oil revenues continue to be transferred through an account at the Federal Reserve Bank of New York. US officials discussed Iraq's potential exit from OPEC with Prime Minister Ali Al-Zaidi this summer, but Iraq's Ministry of Oil opposed leaving OPEC.",
         "time": "06:54",
         "ts": 1795762498
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The match between Olympique Marseille and Levski Sofia in the Europa League was affected by violent clashes before the game, resulting in 11 Bulgarian fans injured and 5 hospitalized. The clashes occurred at the Velodrome stadium in Marseille, and the Bulgarian president strongly condemned the incidents. Marseille police stated that all injured were Bulgarian fans and no arrests have been reported so far.",
+        "time": "07:30",
+        "ts": 1795764619
       }
     ],
     "language": "en",
-    "packId": "20261127-15",
-    "sequence": 15,
+    "packId": "20261127-16",
+    "sequence": 16,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "07:20"
+    "updatedAt": "07:33"
   },
   "verified": true
 }
