@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261127-90 seq=90 exp=1795885980",
+      "advancedStatus": "pack_id=20261127-91 seq=91 exp=1795886548",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:13",
+      "lastChecked": "17:22",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-27",
-    "expiresAt": "2026-11-28 17:13",
+    "expiresAt": "2026-11-28 17:22",
     "items": [
       {
         "channel": "Iran International",
@@ -700,14 +700,21 @@
         "text": "Hassan Mohammadian, the managing director of the news site \"Didarnews,\" and Parvaneh Salahshouri, a former member of parliament, were each sentenced by Branch 8 of the Criminal Court One of Tehran Province to one year of suspended imprisonment and two years of prohibition from media activity.",
         "time": "17:09",
         "ts": 1795799392
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "A report states that Ahad Ardam and Mohammad Sarfejooei, citizens of Mahabad, were arrested on Sunday, 1 Azar, by intelligence officers in this city. Their place of detention is currently unknown.",
+        "time": "17:14",
+        "ts": 1795799691
       }
     ],
     "language": "en",
-    "packId": "20261127-90",
-    "sequence": 90,
+    "packId": "20261127-91",
+    "sequence": 91,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:13"
+    "updatedAt": "17:22"
   },
   "verified": true
 }
