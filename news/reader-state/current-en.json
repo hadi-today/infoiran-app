@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261127-89 seq=89 exp=1795885703",
+      "advancedStatus": "pack_id=20261127-90 seq=90 exp=1795885980",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:08",
+      "lastChecked": "17:13",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-27",
-    "expiresAt": "2026-11-28 17:08",
+    "expiresAt": "2026-11-28 17:13",
     "items": [
       {
         "channel": "Iran International",
@@ -693,14 +693,21 @@
         "text": "A citizen sent a video to Iran International showing a 23 million toman invoice for repairing his television and criticized the increase in home appliance repair costs. He said he bought this television about a year and a half ago for 35 million toman and now paid 23 million toman just to replace the lamps.",
         "time": "17:05",
         "ts": 1795799109
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Hassan Mohammadian, the managing director of the news site \"Didarnews,\" and Parvaneh Salahshouri, a former member of parliament, were each sentenced by Branch 8 of the Criminal Court One of Tehran Province to one year of suspended imprisonment and two years of prohibition from media activity.",
+        "time": "17:09",
+        "ts": 1795799392
       }
     ],
     "language": "en",
-    "packId": "20261127-89",
-    "sequence": 89,
+    "packId": "20261127-90",
+    "sequence": 90,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:08"
+    "updatedAt": "17:13"
   },
   "verified": true
 }
