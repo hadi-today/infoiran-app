@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261127-120 seq=120 exp=1795904942",
+      "advancedStatus": "pack_id=20261127-121 seq=121 exp=1795905465",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "22:29",
+      "lastChecked": "22:37",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-27",
-    "expiresAt": "2026-11-28 22:29",
+    "expiresAt": "2026-11-28 22:37",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Iraqi border guards closed the Pushtah border crossing with Iran in Halabja province on Thursday, 5 Azar, by order of Baghdad. The Iraqi border commander announced the start of implementing the order to close all unofficial crossings with neighboring countries, including in the Kurdistan Region. This action follows the closure of the Chazabeh and Mandali-Sumar crossings in recent weeks.",
-        "time": "22:33",
-        "ts": 1795732395
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -679,14 +672,21 @@
         "text": "Hossein Nejat, deputy commander of the IRGC at the Tharallah headquarters, described the country's security situation as very good and warned enemies that if they intend to create insecurity, they can test the power of the Iranian government. He said the enemy does not have the ability to create insecurity and dozens of armed gangs have been arrested so far.",
         "time": "22:26",
         "ts": 1795818381
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The office of Prince Reza Pahlavi announced gatherings and memorial ceremonies on the 18th and 19th of Dey to commemorate those who died in the Dey protests. These events coincide with the first anniversary of what the office called the \"National Uprising of the Lion and Sun of Iran.\" More details will be announced after the plans are finalized.",
+        "time": "22:37",
+        "ts": 1795819022
       }
     ],
     "language": "en",
-    "packId": "20261127-120",
-    "sequence": 120,
+    "packId": "20261127-121",
+    "sequence": 121,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "22:29"
+    "updatedAt": "22:37"
   },
   "verified": true
 }
