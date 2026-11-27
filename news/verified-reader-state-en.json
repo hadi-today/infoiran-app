@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261127-80 seq=80 exp=1795879698",
+      "advancedStatus": "pack_id=20261127-81 seq=81 exp=1795880469",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:28",
+      "lastChecked": "15:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-27",
-    "expiresAt": "2026-11-28 15:28",
+    "expiresAt": "2026-11-28 15:41",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "A truck driver protested on social media about the sharp increase in costs and the mismatch between fares and wages with inflation. He said the cost of changing truck oil rose from 20 million to 67 million tomans, and the price of tires increased from 75 million to 210 million tomans, while drivers' fares only increased by 30 percent. He addressed the government spokesperson saying, \"If you cannot, step aside so someone who can work comes.\"",
-        "time": "15:31",
-        "ts": 1795707064
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -721,14 +714,21 @@
         "text": "Some members of the Swedish Democrats party have submitted a proposal to the Swedish parliament calling for the expansion of targeted sanctions against officials of the Islamic Republic and their close relatives, including their children. These members also called for coordination of sanctions with the European Union and the United States, support for Iranian protesters, and countering the intelligence activities of the Islamic Republic on Swedish soil. This proposal has not yet been finally approved.",
         "time": "15:10",
         "ts": 1795792218
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Mohammad Mokhber said that definitely neither the Strait of Hormuz will be opened nor will they allow the US naval blockade to remain closed. He added that this situation is happening right now.",
+        "time": "15:38",
+        "ts": 1795793921
       }
     ],
     "language": "en",
-    "packId": "20261127-80",
-    "sequence": 80,
+    "packId": "20261127-81",
+    "sequence": 81,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:28"
+    "updatedAt": "15:41"
   },
   "verified": true
 }
