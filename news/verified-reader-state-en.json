@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261127-101 seq=101 exp=1795891566",
+      "advancedStatus": "pack_id=20261127-102 seq=102 exp=1795891832",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:46",
+      "lastChecked": "18:50",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-27",
-    "expiresAt": "2026-11-28 18:46",
+    "expiresAt": "2026-11-28 18:50",
     "items": [
       {
         "channel": "HRANA",
@@ -660,6 +660,13 @@
         "ts": 1795802530
       },
       {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Yesterday, Fatemeh (Mojgan) Tadrisi, a political prisoner held in Karaj's Kachouyi prison, was granted leave. This leave started on Thursday, 5 Azar, for a duration of three days.",
+        "time": "18:41",
+        "ts": 1795804881
+      },
+      {
         "channel": "Iran International",
         "language": "en",
         "text": "Antonio Guterres, the UN Secretary-General, condemned the drone attack on Kuwait on Friday, 6 Azar, which resulted in the deaths of two Italian citizens and injuries to a Kuwaiti and a Pakistani citizen, and called on all parties to exercise restraint. Stephane Dujarric, the spokesperson for the UN Secretary-General, said Guterres expressed deep concern over escalating tensions in the region and called for refraining from any actions that would endanger regional peace and security. He also warned that the resumption of hostilities would have devastating consequences for the region and beyond.",
@@ -668,11 +675,11 @@
       }
     ],
     "language": "en",
-    "packId": "20261127-101",
-    "sequence": 101,
+    "packId": "20261127-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:46"
+    "updatedAt": "18:50"
   },
   "verified": true
 }
