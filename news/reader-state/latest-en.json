@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261127-56 seq=56 exp=1795867913",
+      "advancedStatus": "pack_id=20261127-57 seq=57 exp=1795868698",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:11",
+      "lastChecked": "12:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-27",
-    "expiresAt": "2026-11-28 12:11",
+    "expiresAt": "2026-11-28 12:24",
     "items": [
       {
         "channel": "Iran International",
@@ -805,14 +805,21 @@
         "text": "Abdolnabi Mousavi-Fard, the representative of the Supreme Leader in Khuzestan and Friday prayer leader of Ahvaz, said that the Islamic Republic's armed forces dealt a blow to the US that destroyed Trump's reputation in Europe and worldwide. He added that the American people do not support Trump and ridicule him. Mousavi-Fard also said that the people and fighters of Iran have not retreated and have destroyed enemy bases.",
         "time": "12:09",
         "ts": 1795781359
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Reuters reported on Friday, 6 Azar, citing three informed sources, that hackers have infiltrated the main cloud computing platform of the US Air Force. The breach was discovered about a month ago during efforts to upgrade the 'Cloud One' system. Inspectors from US Cyber Command have been asked to assess the damage caused by this attack.",
+        "time": "12:21",
+        "ts": 1795782088
       }
     ],
     "language": "en",
-    "packId": "20261127-56",
-    "sequence": 56,
+    "packId": "20261127-57",
+    "sequence": 57,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:11"
+    "updatedAt": "12:24"
   },
   "verified": true
 }
