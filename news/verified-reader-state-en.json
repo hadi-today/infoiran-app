@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261127-104 seq=104 exp=1795892653",
+      "advancedStatus": "pack_id=20261127-105 seq=105 exp=1795892935",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "19:04",
+      "lastChecked": "19:08",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-27",
-    "expiresAt": "2026-11-28 19:04",
+    "expiresAt": "2026-11-28 19:08",
     "items": [
       {
         "channel": "HRANA",
@@ -665,14 +665,21 @@
         "text": "A young man from Bandar-e-Gaz in Golestan province, who was sentenced to death for killing his friend during a fight, was released from execution due to the forgiveness of the victim's family. His case was scheduled for execution.",
         "time": "19:03",
         "ts": 1795806189
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A viewer sent a video to Iran International showing that on the 6th of Azar, a queue of trucks and heavy vehicles formed in front of a diesel station in Shiraz.",
+        "time": "19:04",
+        "ts": 1795806269
       }
     ],
     "language": "en",
-    "packId": "20261127-104",
-    "sequence": 104,
+    "packId": "20261127-105",
+    "sequence": 105,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "19:04"
+    "updatedAt": "19:08"
   },
   "verified": true
 }
