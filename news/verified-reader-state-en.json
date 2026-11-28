@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261128-04 seq=4 exp=1795916607",
+      "advancedStatus": "pack_id=20261128-05 seq=5 exp=1795921316",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "01:43",
+      "lastChecked": "03:01",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-28",
-    "expiresAt": "2026-11-29 01:43",
+    "expiresAt": "2026-11-29 03:01",
     "items": [
       {
         "channel": "Iran International",
@@ -700,14 +700,21 @@
         "text": "The Israeli army announced that it killed two members of Hamas's military wing who were operating under the cover of humanitarian activities in an attack in Gaza City. These individuals were reportedly planning attacks on civilians and Israeli forces while simultaneously serving as guards at a clinic managed by Doctors Without Borders. Doctors Without Borders confirmed the deaths of their two guards and called for accountability from those responsible for the attack.",
         "time": "01:38",
         "ts": 1795829936
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "The Washington Post reported that damages from missile and drone attacks by the Islamic Republic on the US Navy support base in Bahrain will likely exceed $400 million. The Pentagon is considering relocating its forces from the region to Israel and Jordan. The Bahraini government confirmed its strategic cooperation with the US but declined to comment on the base's future.",
+        "time": "02:59",
+        "ts": 1795834783
       }
     ],
     "language": "en",
-    "packId": "20261128-04",
-    "sequence": 4,
+    "packId": "20261128-05",
+    "sequence": 5,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "01:43"
+    "updatedAt": "03:01"
   },
   "verified": true
 }
