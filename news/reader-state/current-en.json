@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261128-71 seq=71 exp=1795958419",
+      "advancedStatus": "pack_id=20261128-72 seq=72 exp=1795958679",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:20",
+      "lastChecked": "13:24",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-28",
-    "expiresAt": "2026-11-29 13:20",
+    "expiresAt": "2026-11-29 13:24",
     "items": [
       {
         "channel": "Iran International",
@@ -763,14 +763,21 @@
         "text": "Iranians living in Gothenburg have been protesting every Saturday for eleven months against the Islamic Republic. Participants in the protest on Saturday, 7 Azar, alongside Iranian protesters in other European cities, demanded an end to the Islamic Republic's rule over Iran. Iranians in Gothenburg also commemorated the eternal figures of Iran's path to freedom.",
         "time": "13:18",
         "ts": 1795871920
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Reports indicate that the dollar has reached about 300,000 tomans and runaway inflation is putting pressure on the people of Iran. Merchants and drivers have called for strikes on the 8th and 9th of Azar. Some citizens have expressed concern about the economic situation and their inability to continue their businesses.",
+        "time": "13:22",
+        "ts": 1795872177
       }
     ],
     "language": "en",
-    "packId": "20261128-71",
-    "sequence": 71,
+    "packId": "20261128-72",
+    "sequence": 72,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:20"
+    "updatedAt": "13:24"
   },
   "verified": true
 }
