@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261128-112 seq=112 exp=1795976492",
+      "advancedStatus": "pack_id=20261128-113 seq=113 exp=1795976992",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "18:21",
+      "lastChecked": "18:29",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-28",
-    "expiresAt": "2026-11-29 18:21",
+    "expiresAt": "2026-11-29 18:29",
     "items": [
       {
         "channel": "HRANA",
@@ -875,14 +875,21 @@
         "text": "Gadi Eizenkot, former Chief of Staff of the Israeli army and leader of the Yashar party, invited Benjamin Netanyahu to immediately start negotiations for forming a national unity government at Eizenkot's negotiation team's location in Herzliya. Eizenkot said he is ready to pay a political price for unity but Netanyahu has not yet responded to his proposal. Netanyahu announced his readiness to accept a rotational prime ministership plan and to start the government with Eizenkot as prime minister.",
         "time": "18:20",
         "ts": 1795890015
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Alam Azizi, a citizen from Qasr-e Qand and detainee related to the protests of Dey 1404, has been held in Zahedan prison under judicial uncertainty for over 10 months. According to Harana News Agency, after 312 days of detention, no court session has been held to review his case.",
+        "time": "18:27",
+        "ts": 1795890424
       }
     ],
     "language": "en",
-    "packId": "20261128-112",
-    "sequence": 112,
+    "packId": "20261128-113",
+    "sequence": 113,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "18:21"
+    "updatedAt": "18:29"
   },
   "verified": true
 }
