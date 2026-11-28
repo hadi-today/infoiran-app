@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261128-101 seq=101 exp=1795973329",
+      "advancedStatus": "pack_id=20261128-102 seq=102 exp=1795973570",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:28",
+      "lastChecked": "17:32",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-28",
-    "expiresAt": "2026-11-29 17:28",
+    "expiresAt": "2026-11-29 17:32",
     "items": [
       {
         "channel": "Iran International",
@@ -826,14 +826,21 @@
         "text": "In two work accidents in the cities of Poldokhtar and Arak, three workers were injured. Two of them were workers of the Water and Wastewater Company who suffered gas poisoning in a sewage manhole, and another construction worker was injured due to a fall from height.",
         "time": "17:27",
         "ts": 1795886855
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Contract workers at telecommunications reported unpaid wages for Farvardin month. Workers at Ramshir municipality have not received five months of wages and their insurance premiums have not been paid. The head of the Article 90 Commission of the parliament spoke of an estimated unemployment of about 600,000 people in the production sector due to electricity restrictions.",
+        "time": "17:32",
+        "ts": 1795887134
       }
     ],
     "language": "en",
-    "packId": "20261128-101",
-    "sequence": 101,
+    "packId": "20261128-102",
+    "sequence": 102,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:28"
+    "updatedAt": "17:32"
   },
   "verified": true
 }
