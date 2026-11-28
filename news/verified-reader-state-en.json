@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261128-60 seq=60 exp=1795954722",
+      "advancedStatus": "pack_id=20261128-61 seq=61 exp=1795954742",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "12:18",
+      "lastChecked": "12:19",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-28",
-    "expiresAt": "2026-11-29 12:18",
+    "expiresAt": "2026-11-29 12:19",
     "items": [
       {
         "channel": "Iran International",
@@ -756,14 +756,21 @@
         "text": "Reports from currency rate websites and some citizen accounts indicate that with worsening economic conditions in Iran, the price of the US dollar approached 300,000 tomans on Saturday.",
         "time": "12:14",
         "ts": 1795868075
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "Arash Akazee, a toxicology specialist, said some people suspected of alcohol poisoning delay going to medical centers due to fear of legal consequences. He pointed to the danger of methanol in homemade and non-standard drinks. He also said legal restrictions on production, sale, and consumption of alcohol have led to the expansion of unofficial markets.",
+        "time": "12:16",
+        "ts": 1795868175
       }
     ],
     "language": "en",
-    "packId": "20261128-60",
-    "sequence": 60,
+    "packId": "20261128-61",
+    "sequence": 61,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "12:18"
+    "updatedAt": "12:19"
   },
   "verified": true
 }
