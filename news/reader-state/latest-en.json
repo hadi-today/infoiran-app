@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261128-94 seq=94 exp=1795969310",
+      "advancedStatus": "pack_id=20261128-95 seq=95 exp=1795969572",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "16:21",
+      "lastChecked": "16:26",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-28",
-    "expiresAt": "2026-11-29 16:21",
+    "expiresAt": "2026-11-29 16:26",
     "items": [
       {
         "channel": "Iran International",
@@ -812,14 +812,21 @@
         "text": "Benjamin Netanyahu, Prime Minister of Israel, announced on Saturday, 7 Azar, that he is ready to form a national unity government and accepted that Gadi Eizenkot would be prime minister in the first part of the government's term. He called for immediate negotiations to form a national unity government and said confronting threats to Israel's existence requires cooperation of all parties that consider Israel the national state of the Jewish people. Netanyahu did not specify a timeline for the transfer of power and did not report reaching an agreement with Eizenkot.",
         "time": "16:19",
         "ts": 1795882766
+      },
+      {
+        "channel": "HRANA",
+        "language": "en",
+        "text": "The Central Province Intelligence Department reported the arrest of 13 citizens in Shazand County due to their alleged involvement in the protests of Dey 1404.",
+        "time": "16:21",
+        "ts": 1795882894
       }
     ],
     "language": "en",
-    "packId": "20261128-94",
-    "sequence": 94,
+    "packId": "20261128-95",
+    "sequence": 95,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "16:21"
+    "updatedAt": "16:26"
   },
   "verified": true
 }
