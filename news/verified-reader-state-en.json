@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261128-72 seq=72 exp=1795958679",
+      "advancedStatus": "pack_id=20261128-73 seq=73 exp=1795959714",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "13:24",
+      "lastChecked": "13:41",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-28",
-    "expiresAt": "2026-11-29 13:24",
+    "expiresAt": "2026-11-29 13:41",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "In the second war between the US and Israel against the Islamic Republic, which began on 9 Esfand 1404 and ended with a ceasefire in Farvardin 1405, attacks on railway and road bridges became a prominent tactic that continued even after the ceasefire. Amirhadi Anvari from Iran International reported on the dual function of Iran's railway and road network. The report examines the potential military use of these routes by analyzing the locations of missile cities, missile industrial centers, and ground forces bases of the army and the IRGC.",
-        "time": "13:32",
-        "ts": 1795786369
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -770,14 +763,21 @@
         "text": "Reports indicate that the dollar has reached about 300,000 tomans and runaway inflation is putting pressure on the people of Iran. Merchants and drivers have called for strikes on the 8th and 9th of Azar. Some citizens have expressed concern about the economic situation and their inability to continue their businesses.",
         "time": "13:22",
         "ts": 1795872177
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "A video received by Iran International shows that Iranians in Sweden gathered on Saturday in Gothenburg to support the national revolution and commemorate the martyrs.",
+        "time": "13:40",
+        "ts": 1795873216
       }
     ],
     "language": "en",
-    "packId": "20261128-72",
-    "sequence": 72,
+    "packId": "20261128-73",
+    "sequence": 73,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "13:24"
+    "updatedAt": "13:41"
   },
   "verified": true
 }
