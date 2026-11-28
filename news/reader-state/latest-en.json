@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261128-107 seq=107 exp=1795975155",
+      "advancedStatus": "pack_id=20261128-108 seq=108 exp=1795975429",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "17:59",
+      "lastChecked": "18:03",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,22 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-28",
-    "expiresAt": "2026-11-29 17:59",
+    "expiresAt": "2026-11-29 18:03",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Videos received from Shahr-e Kord show graffiti with the slogans \"Long live the Shah\" and \"Rise Iran\".",
-        "time": "18:00",
-        "ts": 1795802415
-      },
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Jürgen Hart, a member of the German Federal Parliament, announced that he has taken political sponsorship of Varisheh Moradi, a political prisoner sentenced to death. Hart stated his goal is to draw public attention to Moradi's case and increase pressure on the Islamic Republic authorities. Varisheh Moradi was sentenced to death on charges of \"membership in a rebellious group.\"",
-        "time": "18:02",
-        "ts": 1795802530
-      },
       {
         "channel": "HRANA",
         "language": "en",
@@ -854,14 +840,21 @@
         "text": "The commander of the Navy of the Islamic Republic Army announced that Tehran has designed military operations to break the siege. Yedioth Ahronoth reported that the head of Mossad and the Chief of Staff of the Israeli army agree in principle on attacking Iran but disagree on the timing and method.",
         "time": "17:56",
         "ts": 1795888583
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Amid rising tensions in the Strait of Hormuz, officials of the Islamic Republic report efforts to break the US naval blockade. Meanwhile, CENTCOM announced that it targeted and disabled a bulk carrier heading to Singapore from Bandar Abbas in the Sea of Oman.",
+        "time": "18:00",
+        "ts": 1795888815
       }
     ],
     "language": "en",
-    "packId": "20261128-107",
-    "sequence": 107,
+    "packId": "20261128-108",
+    "sequence": 108,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "17:59"
+    "updatedAt": "18:03"
   },
   "verified": true
 }
