@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261128-54 seq=54 exp=1795950863",
+      "advancedStatus": "pack_id=20261128-55 seq=55 exp=1795951136",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "11:14",
+      "lastChecked": "11:18",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-28",
-    "expiresAt": "2026-11-29 11:14",
+    "expiresAt": "2026-11-29 11:18",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Reports received by Iran International indicate that with the worsening economic conditions of the government, military personnel and their families have faced financial hardship. The wife of a military member stated that her husband's card balance is less than two million tomans. Additionally, a pensioner from Isfahan said that with a 32 million toman income and high expenses, she cannot manage to live.",
-        "time": "11:14",
-        "ts": 1795778069
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -756,14 +749,21 @@
         "text": "A video received by Iran International shows that in a vocational school in Tehran province, slogans of \"Long live the Shah\" have been written on the students' desks.",
         "time": "11:10",
         "ts": 1795864233
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Some meat was stolen from a butcher shop in Golestan Shahrak Chitgar, Tehran. This theft occurred amid a surge in inflation rates and decreased purchasing power, which has made food supply difficult for many families.",
+        "time": "11:17",
+        "ts": 1795864634
       }
     ],
     "language": "en",
-    "packId": "20261128-54",
-    "sequence": 54,
+    "packId": "20261128-55",
+    "sequence": 55,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "11:14"
+    "updatedAt": "11:18"
   },
   "verified": true
 }
