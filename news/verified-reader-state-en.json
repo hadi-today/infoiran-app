@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261128-89 seq=89 exp=1795966476",
+      "advancedStatus": "pack_id=20261128-90 seq=90 exp=1795966729",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "15:34",
+      "lastChecked": "15:38",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-28",
-    "expiresAt": "2026-11-29 15:34",
+    "expiresAt": "2026-11-29 15:38",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "Mohammad Mokhber said that definitely neither the Strait of Hormuz will be opened nor will they allow the US naval blockade to remain closed. He added that this situation is happening right now.",
-        "time": "15:38",
-        "ts": 1795793921
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -805,14 +798,21 @@
         "text": "The Halvash website reported that Molavi Bashir Salahzehi, a local commander of the IRGC, was killed in a shooting in Sarbaz County. Salahzehi was shot around 2 PM and died. The Sarbaz County police commander said two unknown motorcyclists fled after the shooting, and efforts to arrest the perpetrators continue.",
         "time": "14:56",
         "ts": 1795877808
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Molavi Bashir Salahzehi, a Sunni cleric, was killed on Saturday, 6 Azar, in Sarbaz County, Sistan and Baluchestan province, in an armed attack. The Halvash news agency quoted sources saying that Bashir Salahzehi was a local commander of the Revolutionary Guards and had a mobile base affiliated with this military institution.",
+        "time": "15:34",
+        "ts": 1795880095
       }
     ],
     "language": "en",
-    "packId": "20261128-89",
-    "sequence": 89,
+    "packId": "20261128-90",
+    "sequence": 90,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "15:34"
+    "updatedAt": "15:38"
   },
   "verified": true
 }
