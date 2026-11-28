@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261128-76 seq=76 exp=1795961259",
+      "advancedStatus": "pack_id=20261128-77 seq=77 exp=1795961523",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:07",
+      "lastChecked": "14:12",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,15 +13,8 @@
   ],
   "pack": {
     "date": "2026-11-28",
-    "expiresAt": "2026-11-29 14:07",
+    "expiresAt": "2026-11-29 14:12",
     "items": [
-      {
-        "channel": "Iran International",
-        "language": "en",
-        "text": "The Israeli army announced on Thursday that its fighter jets targeted Hezbollah positions in the Beqaa Valley in eastern Lebanon. Israel said Hezbollah intended to use these weapons to attack Israeli soldiers and civilians. Some media reported that Hezbollah is trying to rebuild and strengthen its military capabilities.",
-        "time": "14:10",
-        "ts": 1795788646
-      },
       {
         "channel": "Iran International",
         "language": "en",
@@ -770,14 +763,21 @@
         "text": "As the dollar price approached the historic record of 300,000 tomans, the Central Bank limited services to some cryptocurrency exchanges to manage the currency market. Arash Azarmi, the economic section secretary of Iran International, said it took only three months for the dollar rate to rise from 200,000 tomans to 300,000 tomans.",
         "time": "14:03",
         "ts": 1795874608
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Satellite images released on Saturday, 7 Azar, show a ship on fire in the Strait of Hormuz. Reuters, publishing these images, reported the fire on this ship. No further details about the ship's identity, cause of the fire, or possible damages have been released.",
+        "time": "14:09",
+        "ts": 1795874988
       }
     ],
     "language": "en",
-    "packId": "20261128-76",
-    "sequence": 76,
+    "packId": "20261128-77",
+    "sequence": 77,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:07"
+    "updatedAt": "14:12"
   },
   "verified": true
 }
