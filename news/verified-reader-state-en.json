@@ -1,11 +1,11 @@
 {
   "diagnostics": [
     {
-      "advancedStatus": "pack_id=20261128-77 seq=77 exp=1795961523",
+      "advancedStatus": "pack_id=20261128-78 seq=78 exp=1795961801",
       "candidateCount": 1,
       "detail": "Reader-state JSON was exported only after shared verifier acceptance.",
       "kind": "backend",
-      "lastChecked": "14:12",
+      "lastChecked": "14:16",
       "name": "Backend verifier",
       "severity": "ok",
       "userStatus": "Verified"
@@ -13,7 +13,7 @@
   ],
   "pack": {
     "date": "2026-11-28",
-    "expiresAt": "2026-11-29 14:12",
+    "expiresAt": "2026-11-29 14:16",
     "items": [
       {
         "channel": "Iran International",
@@ -770,14 +770,21 @@
         "text": "Satellite images released on Saturday, 7 Azar, show a ship on fire in the Strait of Hormuz. Reuters, publishing these images, reported the fire on this ship. No further details about the ship's identity, cause of the fire, or possible damages have been released.",
         "time": "14:09",
         "ts": 1795874988
+      },
+      {
+        "channel": "Iran International",
+        "language": "en",
+        "text": "Tractor lost 2-0 at home against Zob Ahan. Ali Shojaei and Mohammad Javad Mohammadi scored the goals for Zob Ahan in this match. Mehdi Hashem Nejad reacted strongly to Nekounam's decision after being substituted, and from the 76th minute, chants of \"stop it, let it go\" against Tractor's coach were heard.",
+        "time": "14:15",
+        "ts": 1795875330
       }
     ],
     "language": "en",
-    "packId": "20261128-77",
-    "sequence": 77,
+    "packId": "20261128-78",
+    "sequence": 78,
     "source": "GitHub static mirror English",
     "status": "Verified backend pack",
-    "updatedAt": "14:12"
+    "updatedAt": "14:16"
   },
   "verified": true
 }
